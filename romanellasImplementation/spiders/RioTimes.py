@@ -1,18 +1,30 @@
 import scrapy
 from datetime import date
+import time
 
 
 class QuoteSpider(scrapy.Spider):
     name = "RioTimes"
     start_urls = [
+        "https://www.riotimesonline.com/",
         "https://www.riotimesonline.com/latest-news/",
+        "https://www.riotimesonline.com/brazil-news/category/brazil/",
+        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/",
+        'https://www.riotimesonline.com/brazil-news/category/sao-paulo/business-sao-paulo/',
+        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/politics-sao-paulo/",
+        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/life-sao-paulo/",
+        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/entertainment-sao-paulo/",
+        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/art-culture-sao-paulo/",
+        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/travel-sao-paulo/",
+        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/in-depth-sao-paulo/"
     ]
     referred_link = ''
+    ranked = 0
 
     def parse(self, response):
         for news in response.xpath("//a[@rel='bookmark' and not(contains(@class, 'td-image-wrap '))]"):
-            self.referred_link = response.request.url
             link = news.xpath("./@href").get()
+            self.referred_link = response.request.url
             yield response.follow(link, self.parseArticle)
 
     def parseArticle(self, response):
@@ -22,10 +34,13 @@ class QuoteSpider(scrapy.Spider):
         news_url = response.request.url
         content_paragraph = response.xpath('//*[contains(@class, "tdb_single_content")]//p')
         content = ''
-        for p in  content_paragraph:
-            if not p.xpath('.//a[@href="#login"]'):
-                content = content + p.xpath('./text()').get() #TODO: FIX
+        self.ranked = self.ranked + 1
+        timestamp = time.time()
 
+        for p in content_paragraph:
+            p_content = p.xpath('./text()').get()
+            p_content = p_content.replace('To read the full NEWS and much more,', '')
+            content = content + "\n" + p_content
 
         yield {
             'title': title,
@@ -34,5 +49,10 @@ class QuoteSpider(scrapy.Spider):
             'url': self.referred_link,
             'news_url': news_url,
             'subtitle': '',
-            'content': content_paragraph
+            'content': content,
+            'ranked': self.ranked,
+            'placed': 'Abroad',
+            'epoch': timestamp,
+            'language': 'EN',
+            'source': 'Rio Times'
         }
