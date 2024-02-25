@@ -2,21 +2,14 @@ import scrapy
 from datetime import date
 import time
 
+from scrapy import Request
+
 
 class QuoteSpider(scrapy.Spider):
     name = "RioTimes"
+
     start_urls = [
-        "https://www.riotimesonline.com/",
-        "https://www.riotimesonline.com/latest-news/",
-        "https://www.riotimesonline.com/brazil-news/category/brazil/",
-        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/",
-        'https://www.riotimesonline.com/brazil-news/category/sao-paulo/business-sao-paulo/',
-        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/politics-sao-paulo/",
-        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/life-sao-paulo/",
-        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/entertainment-sao-paulo/",
-        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/art-culture-sao-paulo/",
-        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/travel-sao-paulo/",
-        "https://www.riotimesonline.com/brazil-news/category/sao-paulo/in-depth-sao-paulo/"
+        "https://www.riotimesonline.com/"
     ]
     referred_link = ''
     ranked = 0
@@ -24,8 +17,15 @@ class QuoteSpider(scrapy.Spider):
     def parse(self, response):
         for news in response.xpath("//a[@rel='bookmark' and not(contains(@class, 'td-image-wrap '))]"):
             link = news.xpath("./@href").get()
-            self.referred_link = response.request.url
+            self.referred_link = response.url
             yield response.follow(link, self.parseArticle)
+
+        if response.url == "https://www.riotimesonline.com/":
+            # Scrape other pages only if we are on main one
+            for subpage in response.xpath("//ul[@id = 'menu-header-main-menu-2']//a"):
+                subpage_link = subpage.xpath("./@href").get()
+                self.referred_link = subpage_link
+                yield response.follow(subpage_link, self.parse)
 
     def parseArticle(self, response):
         title = response.xpath("//h1[@class = 'tdb-title-text']/text()").get()
@@ -46,7 +46,7 @@ class QuoteSpider(scrapy.Spider):
             'title': title,
             'date_raw': date_raw,
             'date': today,
-            'url': self.referred_link,
+            'url': 'https://www.riotimesonline.com/',
             'news_url': news_url,
             'subtitle': '',
             'content': content,
