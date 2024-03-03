@@ -2,8 +2,6 @@ import scrapy
 from datetime import date
 import time
 
-from scrapy import Request
-
 
 class QuoteSpider(scrapy.Spider):
     name = "RioTimes"
@@ -18,7 +16,7 @@ class QuoteSpider(scrapy.Spider):
         for news in response.xpath("//a[@rel='bookmark' and not(contains(@class, 'td-image-wrap '))]"):
             link = news.xpath("./@href").get()
             self.referred_link = response.url
-            yield response.follow(link, self.parseArticle)
+            yield response.follow(link, self.parseArticle, meta={'parent': response.url})
 
         if response.url == "https://www.riotimesonline.com/":
             # Scrape other pages only if we are on main one
@@ -28,6 +26,7 @@ class QuoteSpider(scrapy.Spider):
                 yield response.follow(subpage_link, self.parse)
 
     def parseArticle(self, response):
+        parent_url = response.meta['parent']
         title = response.xpath("//h1[@class = 'tdb-title-text']/text()").get()
         today = date.today()
         date_raw = response.xpath("//div[@class = 'tdb-block-inner td-fix-index']/time/@datetime").get()
@@ -44,9 +43,9 @@ class QuoteSpider(scrapy.Spider):
 
         yield {
             'title': title,
-            'date_raw': date_raw,
+            'date_raw': date_raw,  # Directly from the document
             'date': today,
-            'url': 'https://www.riotimesonline.com/',
+            'url': parent_url,
             'news_url': news_url,
             'subtitle': '',
             'content': content,
