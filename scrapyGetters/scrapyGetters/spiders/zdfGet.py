@@ -10,6 +10,7 @@ import json
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+DOMAIN = "zdf.de"
 BASE_URL = f"https://www.zdf.de/nachrichten/heute-19-uhr/"
 NINETEEN_ENDING = "-heute-sendung-19-uhr-100.html"
 
@@ -20,19 +21,27 @@ NINETEEN_ENDING = "-heute-sendung-19-uhr-100.html"
 class ZdfgetSpider(scrapy.Spider):
     name = 'zdfGet'
     today= datetime.today().strftime("%y%m%d")
-    allowed_domains = [BASE_URL]
-    start_urls = [f"{BASE_URL}{today}{NINETEEN_ENDING}"]
+    allowed_domains = [DOMAIN]
+    # start_urls = [f"{BASE_URL}{today}{NINETEEN_ENDING}"]
+    start_urls = [BASE_URL]
 
     def parse(self, response):
+        # Pick the second element because there is the eng version
+        mainTitle = response.xpath("(//h3[@class = 'item-title teaser-title'])[1]")
+        link = mainTitle.xpath("./a/@href").get()
+        link = response.url + link
+        yield response.follow(link, callback=self.parse_sub_page)
+
+    def parse_sub_page(self, response):
         box = response.css(".details")
         box_titles= box.css(".item-description::text").get()
         titles= box_titles.split(";")
-        
+
         box_dates= box.css(".teaser-info::text").getall()
         date= box_dates[1]
-        
+
         url= response.url
-        
+
         ranks= []
         contents= []
         for i in range(0, len(titles)):
@@ -44,8 +53,8 @@ class ZdfgetSpider(scrapy.Spider):
                     returning+= cont + ""
             contents.append(returning)
             ranks.append(i)
-        
-        
+
+
         edition= []
         for item in zip(titles, contents, ranks):
             scraped_info = {
@@ -69,4 +78,3 @@ class ZdfgetSpider(scrapy.Spider):
         with open(scraped_data_filepath, "w") as f:
             json.dump(edition, f, indent=4, ensure_ascii=False)
             f.write("\n")
-         

@@ -1,10 +1,10 @@
 #!/bash/sh
 PATH=$PATH:/home/students/giuseppe.carrino2/.local/bin
 export PATH
-scrapy crawl zdfGet
-scrapy crawl rtsURLGet
-scrapy crawl rtsGet
-scrapy crawl pbsGet
+scrapy crawl zdfGet # OK
+scrapy crawl rtsURLGet # OK
+scrapy crawl rtsGet # OK
+scrapy crawl pbsGet # OK
 scrapy crawl frGet
 scrapy crawl 20Get
 # scrapy crawl gr1url
