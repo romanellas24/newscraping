@@ -11,9 +11,10 @@ import json
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
-ARCH_URL = f"https://www.france24.com/en/archives/2022/02/"
-MONTH = f"-February-2022"
+ARCH_URL = f"https://www.france24.com/en/archives/2024/03/"
+MONTH = f"-March-2024"
 BASE_URL = f"https://www.france24.com/en"
+DOMAIN = "france24.com"
 
 
 class FrgetSpider(scrapy.Spider):
@@ -22,7 +23,7 @@ class FrgetSpider(scrapy.Spider):
     tod= date.today().strftime("%d")
     #for i in range(1, 31):
     urls.append(ARCH_URL + str(tod) + MONTH)
-    allowed_domains = [BASE_URL]
+    allowed_domains = [DOMAIN]
     start_urls = urls
 
     def parse(self, response):
@@ -35,7 +36,7 @@ class FrgetSpider(scrapy.Spider):
         act_date= datetime.strptime(response.url[45:], "%d-%B-%Y")
         i= 0
         for new in news:
-            titles.append(new.css("a::text").get())
+            titles.append(new.xpath("./a/h2/text()").get())
             urls.append("https://www.france24.com" + new.css("a::attr(href)").get())
             raw_dates.append(act_date.strftime("%B %d, %Y"))
             dates.append(act_date.strftime("%Y-%m-%d"))
