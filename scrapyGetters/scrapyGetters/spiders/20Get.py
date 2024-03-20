@@ -15,64 +15,70 @@ SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 ARCH_URL = "https://www.tagesschau.de/multimedia/video/videoarchiv2.html"
 BASE_URL = "https://www.tagesschau.de"
+DOMAIN = "tagesschau.de"
 
 class A20getSpider(scrapy.Spider):
     name = '20Get'
-    allowed_domains = [ARCH_URL]
+    allowed_domains = [DOMAIN]
     start_urls = [ARCH_URL]
 
     def check20Tagess(self, box) -> bool:
-        if box.css(".headline").css("a::text").get().rstrip() == "tagesschau" and box.css(".dachzeile::text").get()[11:16] == "20:00":
+        if (box.css(".teaser-right__headline").css("span::text").get() == "tagesschau"
+                and box.css(".teaser-right__date::text").get()[13:18] == "16:00"):
             return True
         else:
             return False
     
     def parse(self, response):
-        boxes = response.css(".viewB")
+        boxes = response.css(".copytext-element-wrapper__vertical-only")
         toRet= []
         for box in boxes:
-            box= box.css(".teaser")
-            if self.check20Tagess(box):
+            box= box.css(".teaser-right")
+            if len(box) == 0:
+                continue
+            if self.check20Tagess(box[0]):
                 toRet.append(box)   
                              
         
         for box in toRet:
-            findTitle= box.css(".teasertext")
-            titles= findTitle.css('a::text').get().split(",")
-            contents= ""
-            findUrl= box.css(".headline")
-            urls= BASE_URL + findUrl.xpath('.//a').css('::attr(href)').get()
-            findDate= str(box.css("p::text").get())[0:10]
-            dates= datetime.strptime(findDate, "%d.%m.%Y").strftime("%B %d, %Y")
-            edition= []
-            i= 0
-            for title in titles:
-                scraped_info = {
-                    'title': title,
-                    'date_raw': dates,
-                    'date': datetime.strptime(dates, "%B %d, %Y").strftime("%Y-%m-%d"),
-                    'url': response.request.url,
-                    'url_news': urls,
-                    'content': contents,
-                    'ranked': str(i),
-                    'epoch': time.time(),
-                    'language': "DE",
-                    'source': "Tagesschau"
-                }
-                i+=1
-                edition.append(scraped_info)
+            following_link = box.css(".teaser-right__link").xpath('@href').extract()[0]
+            following_link = BASE_URL + following_link
+            yield response.follow(following_link, callback=self.parse_sub_page, meta={'parent': response.url})
 
-            base_name = f"{str(edition[0]['date'])}.json"
-            scraped_data_dir = f"{PROJ_DIR}/collectedNews/edition/DE/Tagesschau"
-            scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
-            with open(scraped_data_filepath, "w") as f:
-                json.dump(edition, f, indent=4, ensure_ascii=False)
-                f.write("\n")
-            
-            global testdir
-            testdir = f"{scraped_data_filepath}"
+    def parse_sub_page(self, response):
+        titles = response.css('.mediaplayer-subline__details p::text').get().split(",")
+        parent_url = response.meta['parent']
+        contents = ""
+        findUrl = response.request.url
+        findDate = str(response.css(".multimediahead__date::text").get())[7:17]
+        dates = datetime.strptime(findDate, "%d.%m.%Y").strftime("%B %d, %Y")
+        edition = []
+        i = 0
+        for title in titles:
+            scraped_info = {
+                'title': title.strip(),
+                'date_raw': dates,
+                'date': datetime.strptime(dates, "%B %d, %Y").strftime("%Y-%m-%d"),
+                'url': parent_url,
+                'url_news': findUrl,
+                'content': contents,
+                'ranked': str(i),
+                'epoch': time.time(),
+                'language': "DE",
+                'source': "Tagesschau"
+            }
+            i += 1
+            edition.append(scraped_info)
 
+        base_name = f"{str(edition[0]['date'])}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/edition/DE/Tagesschau"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
+            json.dump(edition, f, indent=4, ensure_ascii=False)
+            f.write("\n")
 
+        global testdir
+        testdir = f"{scraped_data_filepath}"
          
 if __name__ == "__main__":
     process = CrawlerProcess({
