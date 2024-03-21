@@ -1,6 +1,6 @@
 #!/bash/sh
-PATH=$PATH:/home/students/giuseppe.carrino2/.local/bin
-export PATH
+# PATH=$PATH:/home/students/giuseppe.carrino2/.local/bin
+# export PATH
 scrapy crawl zdfGet
 scrapy crawl rtsURLGet
 scrapy crawl rtsGet
@@ -10,7 +10,7 @@ scrapy crawl 20Get
 scrapy crawl RioTimes
 # scrapy crawl gr1url
 # scrapy crawl gr1Get
-cd ../../..
-git add .
-git commit -m "daily_checkout"
-git push origin main
+# cd ../../..
+# git add .
+# git commit -m "daily_checkout"
+# git push origin main
