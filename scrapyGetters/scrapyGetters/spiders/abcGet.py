@@ -33,7 +33,7 @@ class AbcgetSpider(scrapy.Spider):
         articles = response.css("item")
 
         titles= []
-        subtitles= []
+        content= []
         dates_raw= []
         urls= []
 
@@ -46,9 +46,9 @@ class AbcgetSpider(scrapy.Spider):
                     if ">" in subtitle:
                         toDel = subtitle.find(">")
                         subtitle= subtitle[toDel+1:]
-                    subtitles.append(subtitle)
+                    content.append(subtitle)
                 else:
-                    subtitles.append("")
+                    content.append("")
                 if article.css("pubDate::text").get():
                     dates_raw.append(article.css("pubDate::text").get())
                 else:
@@ -60,15 +60,19 @@ class AbcgetSpider(scrapy.Spider):
 
         edition= []
         i= 0
-        for item in zip(titles, dates_raw, dates, urls, subtitles):
+        for item in zip(titles, dates_raw, dates, urls, content):
             i+=1
             yield scrapy.Request(item[3], callback= self.getFullContent, meta= {'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
         
         pass
 
-    def getFullContent(self, response):
-        fullcont = response.css(".cuerpo-texto").css("p::text").getall()
-        content= ''.join(fullcont)
+    def getFullContent(self, response): # TODO DEBUGGARE QUI
+        fullsubtitle = response.css(".voc-subtitle::text").getall()
+        subtitle= ''.join(fullsubtitle)
+        fullcontent = response.css(".voc-p").getall()
+        content = ''.join(fullcontent)
+
+        # voc-subtitle
 
         item = response.meta.get('data')
         scraped_info = {
@@ -77,7 +81,7 @@ class AbcgetSpider(scrapy.Spider):
                 'date': item[2],
                 'url': response.meta.get('oldurl'),
                 'news_url': item[3],
-                'subtitle': item[4],
+                'subtitle': subtitle,
                 'content': content,
                 'ranked': response.meta.get('currelem'),
                 'placed': 'Abroad',
