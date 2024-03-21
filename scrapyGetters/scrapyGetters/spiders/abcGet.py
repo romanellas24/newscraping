@@ -66,13 +66,12 @@ class AbcgetSpider(scrapy.Spider):
         
         pass
 
-    def getFullContent(self, response): # TODO DEBUGGARE QUI
+    def getFullContent(self, response):
+        r = response
         fullsubtitle = response.css(".voc-subtitle::text").getall()
         subtitle= ''.join(fullsubtitle)
-        fullcontent = response.css(".voc-p").getall()
+        fullcontent = r.xpath("//*[@class = 'voc-p']/text()").get()
         content = ''.join(fullcontent)
-
-        # voc-subtitle
 
         item = response.meta.get('data')
         scraped_info = {
@@ -100,6 +99,6 @@ class AbcgetSpider(scrapy.Spider):
             base_name = f"{now_s}E{now_epoch}.json"
             scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/ES/ABC"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
-            with open(scraped_data_filepath, "w") as f:
+            with open(scraped_data_filepath, "a") as f:
                 json.dump(response.meta.get('edition'), f, indent= 4, ensure_ascii=False)
                 f.write("\n")
