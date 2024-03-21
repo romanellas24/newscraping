@@ -15,6 +15,11 @@ scrapy crawl RioTimes
 scrapy crawl teleGet
 scrapy crawl postScrape
 scrapy crawl dwGet
+scrapy crawl abcGet
+scrapy crawl cnnGet
+scrapy crawl fr24rssGet
+scrapy crawl agiGet
+scrapy crawl ansaGet
 
 # scrapy crawl gr1url
 # scrapy crawl gr1Get
