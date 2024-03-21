@@ -7,6 +7,7 @@ scrapy crawl rtsGet
 scrapy crawl pbsGet
 scrapy crawl frGet
 scrapy crawl 20Get
+scrapy crawl RioTimes
 # scrapy crawl gr1url
 # scrapy crawl gr1Get
 cd ../../..
