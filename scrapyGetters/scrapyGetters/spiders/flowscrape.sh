@@ -1,6 +1,6 @@
 ##!/bash/sh
-#PATH=$PATH:/home/joseph/.local/bin
-#export PATH
+PATH=$PATH:/home/romanellas/venv/bin
+export PATH
 scrapy crawl teleGet
 scrapy crawl postScrape
 scrapy crawl dwGet

@@ -1,6 +1,6 @@
 #!/bash/sh
-# PATH=$PATH:/home/students/giuseppe.carrino2/.local/bin
-# export PATH
+PATH=$PATH:PATH=$PATH:/home/romanellas/venv/bin
+export PATH
 
 # Edition scrapers
 scrapy crawl zdfGet
