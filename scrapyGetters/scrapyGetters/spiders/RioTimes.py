@@ -2,7 +2,7 @@ from os import path
 from typing import Union
 
 import scrapy
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 import time
 import dateparser
 from scrapy import Spider
