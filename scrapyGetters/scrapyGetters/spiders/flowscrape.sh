@@ -9,6 +9,7 @@ scrapy crawl cnnGet
 scrapy crawl fr24rssGet
 scrapy crawl agiGet
 scrapy crawl ansaGet
+scrapy crawl RioTimes
 cd ../../..
 git pull
 git add .
