@@ -13,5 +13,5 @@ scrapy crawl RioTimes
 cd ../../..
 git pull
 git add .
-git commit -m "checkout"
+git commit -m "daily_scrape"
 git push origin main
