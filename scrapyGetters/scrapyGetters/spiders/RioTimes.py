@@ -2,7 +2,7 @@ from os import path
 from typing import Union
 
 import scrapy
-from datetime import date
+from datetime import date, datetime
 import time
 import dateparser
 from scrapy import Spider
@@ -37,7 +37,10 @@ class RioTimes(scrapy.Spider):
 
     def close(spider: Spider, reason: str) -> Union[Deferred, None]:
         if reason == 'finished':
-            base_name = f"{str(spider.edition[0]['date'])}.json"
+            now = datetime.now()
+            now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+            now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+            base_name = f"{now_s}E{now_epoch}.json"
             for new in spider.edition:
                 new['date'] = str(new['date'])
             scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/BR/RioTimes"
