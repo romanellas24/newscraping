@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 from typing import Union
 
+import dateparser
+import pendulum
 import scrapy
 import json
 from os import path
@@ -40,12 +42,14 @@ class TelegetSpider(scrapy.Spider):
     name = 'teleGet'
     allowed_domains = ["www.servizitelevideo.rai.it"]
     start_urls = ARCH_URLS
+    timezone = "Europe/Rome"
+    timeslot_day = ''
+    timeslot_number = 0
 
     filename = None
 
     def stringFormat(self, s):
         return s.replace('\n', ' ').replace('\\', '').replace('  ', ' ').strip()
-
 
     def close(spider: Spider, reason: str) -> Union[Deferred, None]:
         if reason == 'finished':
@@ -57,6 +61,11 @@ class TelegetSpider(scrapy.Spider):
         return spider.close(spider, reason)
 
     def parse(self, response):
+        [day, timeslot_no] = self.calculateTimeSlot(self.calculateLocalTimeSlot())
+        [day, timeslot_no] = self.previousTimeSlot(day, timeslot_no)
+        self.timeslot_day = day.strftime("%Y-%m-%d")
+        self.timeslot_number = timeslot_no
+
         now = datetime.now()
         now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
         now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
@@ -117,9 +126,46 @@ class TelegetSpider(scrapy.Spider):
             'placed': item[4],
             'epoch': time.time(),
             'language': 'IT',
-            'source': "Televideo"
+            'source': "Televideo",
+            'timeslot_day': self.timeslot_day,
+            'timeslot_number': self.timeslot_number
         }
 
         response.meta.get('edition').append(scraped_info)
         global globEdition
         globEdition.append(scraped_info)
+
+
+    def calculateLocalTimeSlot(self):
+        pen = pendulum.now()
+        return pen.in_timezone(self.timezone).to_datetime_string()
+
+    def calculateTimeSlot(self, dt: str):
+        dt = dateparser.parse(dt)
+        day = dt.date()
+        hour = dt.hour
+        if hour in [2, 3, 4]:
+            return [day, 1]
+        if hour in [5, 6, 7]:
+            return [day, 2]
+        if hour in [8, 9, 10]:
+            return [day, 3]
+        if hour in [11, 12, 13]:
+            return [day, 4]
+        if hour in [14, 15, 16]:
+            return [day, 5]
+        if hour in [17, 18, 19]:
+            return [day, 6]
+        if hour in [20, 21, 22]:
+            return [day, 7]
+        if hour in [23, 24]:
+            return [day, 8]
+        if hour == 1:
+            return [dt.now() - timedelta(days=1), 8]
+
+    def previousTimeSlot(self, day, timeslot_no: int):
+        timeslot_no = timeslot_no - 1
+        if timeslot_no == 0:
+            timeslot_no = 8
+            day = day - timedelta(days=1)
+        return [day, timeslot_no]

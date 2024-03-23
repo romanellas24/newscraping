@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-
+import dateparser
+import pendulum
 import scrapy
 from scrapy.http import HtmlResponse
 from scrapy import Selector
@@ -38,6 +39,9 @@ class AgigetSpider(scrapy.Spider):
     name = 'agiGet'
     allowed_domains = [BASE_URL]
     start_urls = RSS_URLS
+    timezone = "Europe/Rome"
+    timeslot_day = ''
+    timeslot_number = 0
 
     def dateFormatter(self, dates_raw):
         dates= []
@@ -51,6 +55,11 @@ class AgigetSpider(scrapy.Spider):
         return dates
 
     def parse(self, response):
+        [day, timeslot_no] = self.calculateTimeSlot(self.calculateLocalTimeSlot())
+        [day, timeslot_no] = self.previousTimeSlot(day, timeslot_no)
+        self.timeslot_day = day.strftime("%Y-%m-%d")
+        self.timeslot_number = timeslot_no
+
         articles = response.css("item")
 
         titles= []
@@ -82,7 +91,9 @@ class AgigetSpider(scrapy.Spider):
                 'placed': CATE_DICT[response.request.url],
                 'epoch': time.time(),
                 'language': 'IT',
-                'source': "AGI"
+                'source': "AGI",
+                'timeslot_day': self.timeslot_day,
+                'timeslot_number': self.timeslot_number
             }
             edition.append(scraped_info)
         
@@ -102,3 +113,37 @@ class AgigetSpider(scrapy.Spider):
             f.write("\n")
 
         pass
+
+    def calculateLocalTimeSlot(self):
+        pen = pendulum.now()
+        return pen.in_timezone(self.timezone).to_datetime_string()
+
+    def calculateTimeSlot(self, dt: str):
+        dt = dateparser.parse(dt)
+        day = dt.date()
+        hour = dt.hour
+        if hour in [2, 3, 4]:
+            return [day, 1]
+        if hour in [5, 6, 7]:
+            return [day, 2]
+        if hour in [8, 9, 10]:
+            return [day, 3]
+        if hour in [11, 12, 13]:
+            return [day, 4]
+        if hour in [14, 15, 16]:
+            return [day, 5]
+        if hour in [17, 18, 19]:
+            return [day, 6]
+        if hour in [20, 21, 22]:
+            return [day, 7]
+        if hour in [23, 24]:
+            return [day, 8]
+        if hour == 1:
+            return [dt.now() - timedelta(days=1), 8]
+
+    def previousTimeSlot(self, day, timeslot_no: int):
+        timeslot_no = timeslot_no - 1
+        if timeslot_no == 0:
+            timeslot_no = 8
+            day = day - timedelta(days=1)
+        return [day, timeslot_no]
