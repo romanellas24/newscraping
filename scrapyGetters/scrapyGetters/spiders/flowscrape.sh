@@ -10,8 +10,9 @@ scrapy crawl fr24rssGet
 scrapy crawl agiGet
 scrapy crawl ansaGet
 scrapy crawl RioTimes
+scrapy crawl SowetanLive
 cd ../../..
 git pull
 git add .
-git commit -m "daily_scrape"
+git commit -m "flow_scrape"
 git push origin main
