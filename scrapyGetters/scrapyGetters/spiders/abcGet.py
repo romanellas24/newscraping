@@ -1,20 +1,18 @@
 #!/usr/bin/env python
-import dateparser
-import pendulum
 import scrapy
-from scrapy.http import HtmlResponse
-from scrapy import Selector
 from datetime import datetime, timedelta
 import time
 from os import path
 import json
+from .BaseScraper import BaseScraper
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"www.abc.es"
 RSS_URL = f"https://{BASE_URL}/rss/feeds/abc_Internacional.xml"
 
-class AbcgetSpider(scrapy.Spider):
+
+class AbcgetSpider(BaseScraper):
     name = 'abcGet'
     allowed_domains = [BASE_URL]
     start_urls = [RSS_URL]
@@ -23,7 +21,7 @@ class AbcgetSpider(scrapy.Spider):
     timeslot_number = 0
 
     def dateFormatter(self, dates_raw):
-        dates= []
+        dates = []
         for raw_date in dates_raw:
             if raw_date == "":
                 dates.append(datetime.now().strftime("%Y-%m-%d"))
@@ -34,27 +32,24 @@ class AbcgetSpider(scrapy.Spider):
         return dates
 
     def parse(self, response):
-        [day, timeslot_no] = self.calculateTimeSlot(self.calculateLocalTimeSlot())
-        [day, timeslot_no] = self.previousTimeSlot(day, timeslot_no)
-        self.timeslot_day = day.strftime("%Y-%m-%d")
-        self.timeslot_number = timeslot_no
+        super().parse(response)
 
         articles = response.css("item")
 
-        titles= []
-        content= []
-        dates_raw= []
-        urls= []
+        titles = []
+        content = []
+        dates_raw = []
+        urls = []
 
-        first= True
-        for article in articles: 
+        first = True
+        for article in articles:
             if not first:
                 titles.append(article.css("title::text").get())
                 if article.css("description::text").get():
                     subtitle = article.css("description::text").extract_first()
                     if ">" in subtitle:
                         toDel = subtitle.find(">")
-                        subtitle= subtitle[toDel+1:]
+                        subtitle = subtitle[toDel + 1:]
                     content.append(subtitle)
                 else:
                     content.append("")
@@ -63,42 +58,43 @@ class AbcgetSpider(scrapy.Spider):
                 else:
                     dates_raw.append("")
                 urls.append(article.css("link::text").get())
-            first= False
+            first = False
 
-        dates= self.dateFormatter(dates_raw)
+        dates = self.dateFormatter(dates_raw)
 
-        edition= []
-        i= 0
+        edition = []
+        i = 0
         for item in zip(titles, dates_raw, dates, urls, content):
-            i+=1
-            yield scrapy.Request(item[3], callback= self.getFullContent, meta= {'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
-        
+            i += 1
+            yield scrapy.Request(item[3], callback=self.getFullContent,
+                                 meta={'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
+
         pass
 
     def getFullContent(self, response):
         r = response
         fullsubtitle = response.css(".voc-subtitle::text").getall()
-        subtitle= ''.join(fullsubtitle)
+        subtitle = ''.join(fullsubtitle)
         fullcontent = r.xpath("//*[@class = 'voc-p']/text()").get()
         content = ''.join(fullcontent)
 
         item = response.meta.get('data')
         scraped_info = {
-                'title': item[0],
-                'date_raw': item[1],
-                'date': item[2],
-                'url': response.meta.get('oldurl'),
-                'news_url': item[3],
-                'subtitle': subtitle,
-                'content': content,
-                'ranked': response.meta.get('currelem'),
-                'placed': 'Abroad',
-                'epoch': time.time(),
-                'language': 'ES',
-                'source': "ABC",
-                'timeslot_day': self.timeslot_day,
-                'timeslot_number': self.timeslot_number
-            }
+            'title': item[0],
+            'date_raw': item[1],
+            'date': item[2],
+            'url': response.meta.get('oldurl'),
+            'news_url': item[3],
+            'subtitle': subtitle,
+            'content': content,
+            'ranked': response.meta.get('currelem'),
+            'placed': 'Abroad',
+            'epoch': time.time(),
+            'language': 'ES',
+            'source': "ABC",
+            'timeslot_day': self.timeslot_day,
+            'timeslot_number': self.timeslot_number
+        }
 
         response.meta.get('edition').append(scraped_info)
 
@@ -111,41 +107,5 @@ class AbcgetSpider(scrapy.Spider):
             scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/ES/ABC"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
             with open(scraped_data_filepath, "a") as f:
-                json.dump(response.meta.get('edition'), f, indent= 4, ensure_ascii=False)
+                json.dump(response.meta.get('edition'), f, indent=4, ensure_ascii=False)
                 f.write("\n")
-
-
-
-    def calculateLocalTimeSlot(self):
-        pen = pendulum.now()
-        return pen.in_timezone(self.timezone).to_datetime_string()
-
-    def calculateTimeSlot(self, dt: str):
-        dt = dateparser.parse(dt)
-        day = dt.date()
-        hour = dt.hour
-        if hour in [2, 3, 4]:
-            return [day, 1]
-        if hour in [5, 6, 7]:
-            return [day, 2]
-        if hour in [8, 9, 10]:
-            return [day, 3]
-        if hour in [11, 12, 13]:
-            return [day, 4]
-        if hour in [14, 15, 16]:
-            return [day, 5]
-        if hour in [17, 18, 19]:
-            return [day, 6]
-        if hour in [20, 21, 22]:
-            return [day, 7]
-        if hour == 23:
-            return [day, 8]
-        if hour in [0, 1]:
-            return [dt.now() - timedelta(days=1), 8]
-
-    def previousTimeSlot(self, day, timeslot_no: int):
-        timeslot_no = timeslot_no - 1
-        if timeslot_no == 0:
-            timeslot_no = 8
-            day = day - timedelta(days=1)
-        return [day, timeslot_no]

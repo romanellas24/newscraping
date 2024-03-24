@@ -1,29 +1,24 @@
 #!/usr/bin/env python
-import dateparser
-import pendulum
-import scrapy
-from scrapy.http import HtmlResponse
-from scrapy import Selector
 from datetime import datetime, timedelta
 import time
 from os import path
 import json
 import os
 import errno
+from .BaseScraper import BaseScraper
 
 NOW = datetime.now()
 NOW_S = NOW.strftime("%Y-%m-%dT%H.%M.%S")
 NOW_EPOCH = (NOW - datetime(1970, 1, 1)) / timedelta(seconds=1)
 BASE_NAME = f"{NOW_S}E{NOW_EPOCH}.json"
 
-
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"www.agi.it"
 RSS_URLS = ["https://www.agi.it/estero/rss",
-           "https://www.agi.it/politica/rss",
-           "https://www.agi.it/cronaca/rss",
-           ]
+            "https://www.agi.it/politica/rss",
+            "https://www.agi.it/cronaca/rss",
+            ]
 
 CATE_DICT = {"https://www.agi.it/estero/rss": "Esteri",
              "https://www.agi.it/economia/rss": "Economia",
@@ -35,7 +30,8 @@ CATE_DICT = {"https://www.agi.it/estero/rss": "Esteri",
              "https://www.agi.it/lifestyle/rss": "Lifestyle"
              }
 
-class AgigetSpider(scrapy.Spider):
+
+class AgigetSpider(BaseScraper):
     name = 'agiGet'
     allowed_domains = [BASE_URL]
     start_urls = RSS_URLS
@@ -44,7 +40,7 @@ class AgigetSpider(scrapy.Spider):
     timeslot_number = 0
 
     def dateFormatter(self, dates_raw):
-        dates= []
+        dates = []
         for raw_date in dates_raw:
             if raw_date == "":
                 dates.append(datetime.now().strftime("%Y-%m-%d"))
@@ -55,30 +51,30 @@ class AgigetSpider(scrapy.Spider):
         return dates
 
     def parse(self, response):
-        [day, timeslot_no] = self.calculateTimeSlot(self.calculateLocalTimeSlot())
-        [day, timeslot_no] = self.previousTimeSlot(day, timeslot_no)
-        self.timeslot_day = day.strftime("%Y-%m-%d")
-        self.timeslot_number = timeslot_no
+        super().parse(response)
 
         articles = response.css("item")
 
-        titles= []
-        dates_raw= []
-        urls= []
-        contents= []
+        titles = []
+        dates_raw = []
+        urls = []
+        contents = []
 
         for article in articles:
             titles.append(article.css("title::text").get())
-            contents.append(article.css("description::text").get().replace("<p>", "").replace("<strong>", "").replace("</p>", "").replace("</strong", ""))
+            contents.append(
+                article.css("description::text").get().replace("<p>", "").replace("<strong>", "").replace("</p>",
+                                                                                                          "").replace(
+                    "</strong", ""))
             dates_raw.append(article.css("pubDate::text").get())
             urls.append(article.css("link::text").get())
 
-        dates= self.dateFormatter(dates_raw)
+        dates = self.dateFormatter(dates_raw)
 
-        edition= []
-        i= 0
+        edition = []
+        i = 0
         for item in zip(titles, dates_raw, dates, urls, contents):
-            i+=1
+            i += 1
             scraped_info = {
                 'title': item[0],
                 'date_raw': item[1],
@@ -96,9 +92,7 @@ class AgigetSpider(scrapy.Spider):
                 'timeslot_number': self.timeslot_number
             }
             edition.append(scraped_info)
-        
 
-        
         scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/AGI_{CATE_DICT[response.request.url]}"
         global BASE_NAME
         scraped_data_filepath = f"{scraped_data_dir}/{BASE_NAME}"
@@ -109,41 +103,6 @@ class AgigetSpider(scrapy.Spider):
                 if exc.errno != errno.EEXIST:
                     raise
         with open(scraped_data_filepath, "w") as f:
-            json.dump(edition, f, indent= 4, ensure_ascii=False)
+            json.dump(edition, f, indent=4, ensure_ascii=False)
             f.write("\n")
-
         pass
-
-    def calculateLocalTimeSlot(self):
-        pen = pendulum.now()
-        return pen.in_timezone(self.timezone).to_datetime_string()
-
-    def calculateTimeSlot(self, dt: str):
-        dt = dateparser.parse(dt)
-        day = dt.date()
-        hour = dt.hour
-        if hour in [2, 3, 4]:
-            return [day, 1]
-        if hour in [5, 6, 7]:
-            return [day, 2]
-        if hour in [8, 9, 10]:
-            return [day, 3]
-        if hour in [11, 12, 13]:
-            return [day, 4]
-        if hour in [14, 15, 16]:
-            return [day, 5]
-        if hour in [17, 18, 19]:
-            return [day, 6]
-        if hour in [20, 21, 22]:
-            return [day, 7]
-        if hour == 23:
-            return [day, 8]
-        if hour in [0, 1]:
-            return [dt.now() - timedelta(days=1), 8]
-
-    def previousTimeSlot(self, day, timeslot_no: int):
-        timeslot_no = timeslot_no - 1
-        if timeslot_no == 0:
-            timeslot_no = 8
-            day = day - timedelta(days=1)
-        return [day, timeslot_no]
