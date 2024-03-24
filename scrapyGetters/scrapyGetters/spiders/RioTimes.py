@@ -81,9 +81,9 @@ class RioTimes(scrapy.Spider):
             return [day, 6]
         if hour in [20, 21, 22]:
             return [day, 7]
-        if hour in [23, 24]:
+        if hour == 23:
             return [day, 8]
-        if hour == 1:
+        if hour in [0, 1]:
             return [dt.now() - timedelta(days=1), 8]
 
     def previousTimeSlot(self, day, timeslot_no: int):
