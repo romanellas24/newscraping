@@ -2,26 +2,29 @@ from os import path
 
 import pendulum
 import scrapy
-from datetime import date, timedelta
-import time
+from datetime import timedelta
 import dateparser
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 
+
 class BaseScraper(scrapy.Spider):
     timezone = ""
     timeslot_day = ''
     timeslot_number = 0
+    elapsed_hours = 0
     referred_link = ''
     ranked = 0
     edition = []
+    time_slots_ending_hour = [1, 4, 7, 10, 13, 16, 19, 22]
 
     def parse(self, response):
         [day, timeslot_no] = self.calculateTimeSlot(self.calculateLocalTimeSlot())
         [day, timeslot_no] = self.previousTimeSlot(day, timeslot_no)
         self.timeslot_day = day.strftime("%Y-%m-%d")
         self.timeslot_number = timeslot_no
+        self.elapsed_hours = self.getEsapsedHourEndingTimeslot(self.calculateLocalTimeSlot())
 
     def calculateLocalTimeSlot(self):
         pen = pendulum.now()
@@ -57,39 +60,11 @@ class BaseScraper(scrapy.Spider):
             day = day - timedelta(days=1)
         return [day, timeslot_no]
 
-    def parseArticle(self, response):
-        parent_url = response.meta['parent']
-        title = response.xpath("//h1[@class = 'tdb-title-text']/text()").get()
-        today = date.today()
-        date_raw = response.xpath("//div[@class = 'tdb-block-inner td-fix-index']/time/@datetime").get()
-        date_parsed = dateparser.parse(date_raw)
-        if date_parsed.date() != today:
-            pass
-        news_url = response.request.url
-        content_paragraph = response.xpath('//*[contains(@class, "tdb_single_content")]//p')
-        content = ''
-        self.ranked = self.ranked + 1
-        timestamp = time.time()
-
-        for p in content_paragraph:
-            p_content = p.xpath('./text()').get()
-            p_content = p_content.replace('To read the full NEWS and much more,', '')
-            content = content + "\n" + p_content
-
-        new = {
-            'title': title,
-            'date_raw': date_raw,  # Directly from the document
-            'date': today,
-            'url': parent_url,
-            'news_url': news_url,
-            'subtitle': '',
-            'content': content,
-            'ranked': self.ranked,
-            'placed': 'Abroad',
-            'epoch': timestamp,
-            'language': 'EN',
-            'source': 'Rio Times',
-            'timeslot_day': self.timeslot_day,
-            'timeslot_number': self.timeslot_number
-        }
-        self.edition.append(new)
+    def getEsapsedHourEndingTimeslot(self, dt: str) -> int:
+        dt = dateparser.parse(dt)
+        hour = dt.hour
+        max_not_ended = self.time_slots_ending_hour[0]
+        for ending_hour in self.time_slots_ending_hour:
+            if ending_hour < hour and max_not_ended < ending_hour:
+                max_not_ended = ending_hour
+        return hour - max_not_ended - 1

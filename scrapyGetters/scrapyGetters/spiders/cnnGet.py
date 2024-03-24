@@ -109,7 +109,8 @@ class CnngetSpider(BaseScraper):
                 'language': 'EN',
                 'source': "CNN",
                 'timeslot_day': self.timeslot_day,
-                'timeslot_number': self.timeslot_number
+                'timeslot_number': self.timeslot_number,
+                'elapsed_hours_timeslot_end': self.elapsed_hours
             }
 
             if ("Korea" in scraped_info['title'] or "Korea" in scraped_info['content']) and scraped_info[

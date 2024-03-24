@@ -14,6 +14,7 @@ ARCH_URL = "https://www.tagesschau.de/multimedia/video/videoarchiv2.html"
 BASE_URL = "https://www.tagesschau.de"
 DOMAIN = "tagesschau.de"
 
+
 class A20getSpider(BaseScraper):
     name = '20Get'
     allowed_domains = [DOMAIN]
@@ -28,18 +29,18 @@ class A20getSpider(BaseScraper):
             return True
         else:
             return False
-    
+
     def parse(self, response):
         super().parse(response)
 
         boxes = response.css(".copytext-element-wrapper__vertical-only")
-        toRet= []
+        toRet = []
         for box in boxes:
-            box= box.css(".teaser-right")
+            box = box.css(".teaser-right")
             if len(box) == 0:
                 continue
             if self.check20Tagess(box[0]):
-                toRet.append(box)   
+                toRet.append(box)
 
         for box in toRet:
             following_link = box.css(".teaser-right__link").xpath('@href').extract()[0]
@@ -68,7 +69,8 @@ class A20getSpider(BaseScraper):
                 'language': "DE",
                 'source': "Tagesschau",
                 'timeslot_day': self.timeslot_day,
-                'timeslot_number': self.timeslot_number
+                'timeslot_number': self.timeslot_number,
+                'elapsed_hours_timeslot_end': self.elapsed_hours
             }
             i += 1
             edition.append(scraped_info)
@@ -82,24 +84,23 @@ class A20getSpider(BaseScraper):
 
         global testdir
         testdir = f"{scraped_data_filepath}"
-         
+
+
 if __name__ == "__main__":
     process = CrawlerProcess({
-        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)', 
+        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
     })
 
     process.crawl(A20getSpider)
-    process.start() 
+    process.start()
     f = open(testdir)
     response = json.load(f)
     f.close()
     with vcr.use_cassette('fixtures/vcr_cassettes/Tagesschau.yaml'):
         myres = urlopen(ARCH_URL).read()
         if len(myres) > 0:
-            assert 0 < len(response)  
-            assert response[0]['title'] is not None 
-            for thisresp in response:  
-                assert str.encode(thisresp['title']) in myres  
+            assert 0 < len(response)
+            assert response[0]['title'] is not None
+            for thisresp in response:
+                assert str.encode(thisresp['title']) in myres
                 assert thisresp['url_news'] is not None
-
-

@@ -85,6 +85,7 @@ class SowetanLive(BaseScraper):
             'language': 'EN',
             'source': 'SowetanLive',
             'timeslot_day': self.timeslot_day,
-            'timeslot_number': self.timeslot_number
+            'timeslot_number': self.timeslot_number,
+            'elapsed_hours_timeslot_end': self.elapsed_hours
         }
         self.edition.append(new)

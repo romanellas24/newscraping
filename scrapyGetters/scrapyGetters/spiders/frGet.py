@@ -59,7 +59,8 @@ class FrgetSpider(BaseScraper):
                 'language': "EN",
                 'source': "France24",
                 'timeslot_day': self.timeslot_day,
-                'timeslot_number': self.timeslot_number
+                'timeslot_number': self.timeslot_number,
+                'elapsed_hours_timeslot_end': self.elapsed_hours
             }
             edition.append(scraped_info)
 

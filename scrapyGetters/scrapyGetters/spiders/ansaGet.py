@@ -97,7 +97,8 @@ class AnsagetSpider(BaseScraper):
             'language': 'IT',
             'source': 'ANSA',
             'timeslot_day': self.timeslot_day,
-            'timeslot_number': self.timeslot_number
+            'timeslot_number': self.timeslot_number,
+            'elapsed_hours_timeslot_end': self.elapsed_hours
         }
 
         response.meta.get('edition').append(scraped_info)
