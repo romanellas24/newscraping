@@ -49,7 +49,7 @@ class RioTimes(BaseScraper):
             base_name = f"{now_s}E{now_epoch}.json"
             for new in spider.edition:
                 new['date'] = str(new['date'])
-            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/BR/RioTimes"
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/RioTimes"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
             with open(scraped_data_filepath, "w") as f:
                 json.dump(spider.edition, f, indent=4, ensure_ascii=False)
