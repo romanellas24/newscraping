@@ -88,8 +88,6 @@ class RioTimes(BaseScraper):
             'epoch': timestamp,
             'language': 'EN',
             'source': 'Rio Times',
-            'timeslot_day': self.timeslot_day,
-            'timeslot_number': self.timeslot_number,
-            'elapsed_hours_timeslot_end': self.elapsed_hours
+            'local_time': self.calculate_local_time()
         }
         self.edition.append(new)

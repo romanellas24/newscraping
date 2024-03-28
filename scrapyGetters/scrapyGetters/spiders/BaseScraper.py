@@ -20,13 +20,13 @@ class BaseScraper(scrapy.Spider):
     time_slots_ending_hour = [1, 4, 7, 10, 13, 16, 19, 22]
 
     def parse(self, response):
-        [day, timeslot_no] = self.calculateTimeSlot(self.calculateLocalTimeSlot())
+        [day, timeslot_no] = self.calculateTimeSlot(self.calculate_local_time())
         [day, timeslot_no] = self.previousTimeSlot(day, timeslot_no)
         self.timeslot_day = day.strftime("%Y-%m-%d")
         self.timeslot_number = timeslot_no
-        self.elapsed_hours = self.getEsapsedHourEndingTimeslot(self.calculateLocalTimeSlot())
+        self.elapsed_hours = self.getEsapsedHourEndingTimeslot(self.calculate_local_time())
 
-    def calculateLocalTimeSlot(self):
+    def calculate_local_time(self):
         pen = pendulum.now()
         return pen.in_timezone(self.timezone).to_datetime_string()
 

@@ -66,9 +66,7 @@ class PbsgetSpider(BaseScraper):
                 'epoch': time.time(),
                 'language': "EN",
                 'source': "PBS",
-                'timeslot_day': self.timeslot_day,
-                'timeslot_number': self.timeslot_number,
-                'elapsed_hours_timeslot_end': self.elapsed_hours
+                'local_time': self.calculate_local_time(),
             }
             edition.append(scraped_info)
 

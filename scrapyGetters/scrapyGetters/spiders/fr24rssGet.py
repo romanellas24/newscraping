@@ -76,9 +76,7 @@ class Fr24rssgetSpider(BaseScraper):
             'epoch': time.time(),
             'language': 'FR',
             'source': "France24",
-            'timeslot_day': self.timeslot_day,
-            'timeslot_number': self.timeslot_number,
-            'elapsed_hours_timeslot_end': self.elapsed_hours
+            'local_time': self.calculate_local_time()
         }
 
         response.meta.get('edition').append(scraped_info)
