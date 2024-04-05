@@ -1,0 +1,338 @@
+[
+    {
+        "title": "Francia, Cina invii 'messaggio chiaro' a Mosca sull'Ucraina",
+        "date_raw": "Mon, 1 Apr 2024 08:55:31 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/04/01/francia-cina-invii-messaggio-chiaro-a-mosca-sullucraina_cd90429b-03c6-49b3-ba8a-d25540a8f8ff.html",
+        "subtitle": "Il ministro degli Esteri Séjourné incontra Wang Yi a Pechino",
+        "content": "\n                                                \n            (ANSA-AFP) - PECHINO, 01 APR - Il ministro degli Esteri della\nFrancia, Stéphane Séjourné, in visita a Pechino, dove ha\nincontrato il suo omologo cinese, Wang Yi, ha dichiarato di\naspettarsi che la Cina invii un \"messaggio chiaro\" a Mosca\nsull'Ucraina.\n                                    \n                                       \n\t\t\t\t   \"Ci aspettiamo che la Cina mandi un messaggio molto chiaro\nalla Russia\", ha detto Séjourné in conferenza stampa dopo\nl'incontro. \"Ci aspettiamo - ha aggiunto - che Pechino patrocini\nun rapporto di forze più favorevole all'Ucraina\", perché \"è\nchiaro che la Cina gioca un ruolo chiave nell'indipendenza e nel\nrispetto del diritto internazionale, compresa la sovranità\ndell'Ucraina\".\n                                    \n                                       \n\t\t\t\t   La Cina formalmente è neutrale nel confronto fra Mosca e\nKiev, anche se ha rapporti sempre più stretti con la Russia,\nsulla quale, appunto, ha influenza: uno strumento che dovrebbe\nallora usare per mettere fine al conflitto nell'est europeo,\nsecondo Parigi e i Paesi occidentali.\n                                    \n                                       \n\t\t\t\t   \"Quella guerra coinvolge l'insieme della comunità\ninternazionale\", ha detto il capo della diplomazia francese\nall'indirizzo del suo collega cinese. \"Siamo convinti che non ci\nsarà una pace durevole se questa non verrà negoziata con gli\nucraini\" e che \"non ci sarà sicurezza per gli europei se non ci\nsarà una pace conforme al diritto internazionale. Per noi - ha\nconcluso Séjourné - questo è un punto essenziale ed è per questo\nche la Francia è determinata a mantenere  un dialogo serrato con\nla Cina\".\n                                    \n                                       \n\t\t\t\t   La Francia non cerca il \"disaccoppiamento\" economico dalla\nCina, ha inoltre dichiarato il ministro degli Esteri francese.\n                                    \n                                       \n\t\t\t\tAllo stesso tempo, però, Parigi aspira a un \"ribilanciamento\neconomico\" con Pechino, per assicurare che il commercio sia\n\"sano e sostenibile\", come ha aggiunto Séjounrné nella\nconferenza stampa congiunta con il collega cinese. (ANSA-AFP).\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1711965622.4322798,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-01 12:00:22",
+        "filename": "ner_conc_en_2024-04-01T12.00.21E1711972821.579594.json",
+        "en_title": "France, China send 'clear message' to Moscow on Ukraine",
+        "en_content": "(ANSA-AFP) - PECHINO, 01 APR - Foreign Minister\nFrance, Stéphane Séjourné, visiting Beijing, where\nmet his Chinese counterpart, Wang Yi, said of\nexpect China to send a \"clear message\" to Moscow\non Ukraine.\n\n\n\"We expect China to send a very clear message\nto Russia\", said Séjourné at press conference after\nThe meeting. \"We expect - he added - that Beijing sponsors\na more favorable force report to Ukraine, because \"it is\nclear that China plays a key role in independence and\nrespect for international law, including sovereignty\nof Ukraine.\"\n\n\nChina is formally neutral in comparison between Moscow and\nKiev, even if it has ever closer relations with Russia,\non which, precisely, it has influence: a tool that should\nthen use to put an end to the conflict in Eastern Europe,\naccording to Paris and Western countries.\n\n\n\"That war involves the community as a whole\ninternational\", said the head of French diplomacy\nto the address of his Chinese colleague. \"We are convinced that we are not\nwill be a lasting peace if this will not be negotiated with the\nUkrainians\" and that \"there will be no security for Europeans if we do not\nwill be a peace in accordance with international law. For us - he has\nconcluded Séjourné - this is an essential point and is for this\nthat France is determined to maintain a close dialogue with\nChina.\"\n\n\nFrance does not seek economic \"disagreement\" from\nChina also declared the French Foreign Minister.\n\n\nAt the same time, however, Paris aspires to a \"rebalancing\neconomic\" with Beijing, to ensure that trade is\n\"healthy and sustainable\", as Séjounrné added in\nJoint press conference with Chinese colleague. (ANSA-AFP).\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "message",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Moscow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "France",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 8,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 38,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 48,
+                "end_char": 55,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "01",
+                "start_char": 22,
+                "end_char": 24,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "APR",
+                "start_char": 25,
+                "end_char": 28,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "France",
+                "start_char": 48,
+                "end_char": 54,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Stéphane Séjourné",
+                "start_char": 56,
+                "end_char": 73,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 84,
+                "end_char": 91,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 107,
+                "end_char": 114,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Wang Yi",
+                "start_char": 128,
+                "end_char": 135,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "China",
+                "start_char": 152,
+                "end_char": 157,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 187,
+                "end_char": 193,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 197,
+                "end_char": 204,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 219,
+                "end_char": 224,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 257,
+                "end_char": 263,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Séjourné",
+                "start_char": 271,
+                "end_char": 279,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 348,
+                "end_char": 355,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 398,
+                "end_char": 405,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 433,
+                "end_char": 438,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 532,
+                "end_char": 539,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 544,
+                "end_char": 549,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 592,
+                "end_char": 598,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 603,
+                "end_char": 607,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 651,
+                "end_char": 657,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Eastern Europe",
+                "start_char": 759,
+                "end_char": 773,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Paris",
+                "start_char": 788,
+                "end_char": 793,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Western",
+                "start_char": 798,
+                "end_char": 805,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "French",
+                "start_char": 896,
+                "end_char": 902,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 935,
+                "end_char": 942,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 1052,
+                "end_char": 1062,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 1104,
+                "end_char": 1113,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "France",
+                "start_char": 1266,
+                "end_char": 1272,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 1321,
+                "end_char": 1326,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 1331,
+                "end_char": 1337,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 1381,
+                "end_char": 1386,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "French",
+                "start_char": 1405,
+                "end_char": 1411,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Paris",
+                "start_char": 1459,
+                "end_char": 1464,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 1506,
+                "end_char": 1513,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Séjounrné",
+                "start_char": 1569,
+                "end_char": 1578,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1616,
+                "end_char": 1623,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]

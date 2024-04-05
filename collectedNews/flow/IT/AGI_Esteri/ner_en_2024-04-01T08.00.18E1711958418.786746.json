@@ -1,0 +1,3977 @@
+[
+    {
+        "title": "Invasione di Rafah, oggi incontro virtuale tra Usa e Israele",
+        "date_raw": "Mon, 01 Apr 2024 05:40:19 GMT",
+        "date": "2024-04-01",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-01/invasione-militare-rafah-incontro-usa-e-israele-25879056/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Gli Stati Uniti e Israele terranno un incontro in videoconferenza, nella giornata di oggi, per discutere le proposte alternative dell'amministrazione Biden all'invasione militare israeliana di Rafah. Lo scrive il sito Axios, citando quattro funzionari israeliani e statunitensi. L'incontro in presenza con una delegazione israeliana a Washington avrebbe dovuto svolgersi la settimana scorsa, ma e' diventato un tema controverso tra il primo ministro israeliano Benjamin Netanyahu e il presidente Usa, Joe Biden. Dopo che la scorsa settimana gli Stati Uniti non hanno posto il veto su una risoluzione del Consiglio di Sicurezza delle Nazioni Unite che chiedeva il cessate il fuoco a Gaza e il rilascio di tutti gli ostaggi, Netanyahu ha annunciato che avrebbe annullato l'incontro in segno di protesta. L'amministrazione Biden ha avvertito che un'operazione a Rafah, dove ha trovato rifugio più di un milione di palestinesi, potrebbe causare un ingente numero di vittime e aggravare il disastro umanitario a Gaza. Il piu' stretto consulente di Netanyahu, il ministro israeliano per gli Affari strategici Ron Dermer, ha più volte detto al premier, nei giorni scorsi, che serviva inviare la delegazione a Washington il prima possibile per evitare un'ulteriore escalation delle tensioni con la Casa Bianca. Alti funzionari israeliani hanno affermato che tenere un incontro virtuale è un modo per Netanyahu di \"salvare la faccia\" e discutere con gli Usa su Rafah senza inviare una delegazione a Washington. Secondo Axios, all'incontro in videoconferenza parteciperanno il consigliere per la Sicurezza nazionale della Casa Bianca, Jake Sullivan, rappresentanti del Pentagono, del dipartimento di Stato e delle agenzie di intelligence statunitensi. Dermer e il consigliere per la Sicurezza nazionale di Netanyahu, Tzachi Hanegbi, condurranno i colloqui da parte israeliana con la partecipazione di alti funzionari della difesa e dell'intelligence dello Stato ebraico. Un alto funzionario israeliano ha detto che un secondo incontro, di persona, avrà luogo già questa settimana.&nbsp;",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1711951219.2383547,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "Invasion of Rafah, today a virtual encounter between the US and Israel",
+        "en_content": "AGI -&nbsp;The United States and Israel will hold a video conference meeting, today, to discuss the alternative proposals of the Biden administration to the Israeli military invasion of Rafah. The Axios website writes it, citing four Israeli and American officials. The meeting with an Israeli delegation in Washington was supposed to take place last week, but it became a controversial theme between Israeli Prime Minister Benjamin Netanyahu and US President Joe Biden. After last week the United States did not veto a United Nations Security Council resolution calling for ceasefire in Gaza and the release of all hostages, Netanyahu announced that it would cancel the protest. The Biden administration warned that an operation in Rafah, where it found refuge more than a million Palestinians, could cause a large number of victims and aggravate the humanitarian disaster in Gaza. Netanyahu's closest advisor, the Israeli Minister for Strategic Affairs Ron Dermer, has repeatedly told the prime minister, in recent days, that it was necessary to send the delegation to Washington as soon as possible to avoid further escalation of tensions with the White House. High Israeli officials said that keeping a virtual meeting is a way for Netanyahu to \"save the face\" and discuss with the US on Rafah without sending a delegation to Washington. According to Axios, the White House National Security Councilman Jake Sullivan, Pentagon representatives, U.S. State department and intelligence agencies will participate in the video conference. Dermer and the National Security Council of Netanyahu, Tzachi Hanegbi, will conduct Israeli talks with the participation of senior defence and intelligence officials of the Jewish state. A high Israeli official said that a second meeting, in person, will take place this week.&nbsp;",
+        "concepts": [
+            {
+                "word": "Invasion",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rafah",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "today",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "encounter",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Israel",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "today",
+                "start_char": 19,
+                "end_char": 24,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US",
+                "start_char": 57,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 64,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "United States",
+                "start_char": 15,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 33,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 78,
+                "end_char": 83,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Biden",
+                "start_char": 129,
+                "end_char": 134,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 157,
+                "end_char": 164,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 186,
+                "end_char": 191,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Axios",
+                "start_char": 197,
+                "end_char": 202,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "four",
+                "start_char": 229,
+                "end_char": 233,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 234,
+                "end_char": 241,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "American",
+                "start_char": 246,
+                "end_char": 254,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 286,
+                "end_char": 293,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Washington",
+                "start_char": 308,
+                "end_char": 318,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last week",
+                "start_char": 346,
+                "end_char": 355,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 401,
+                "end_char": 408,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 424,
+                "end_char": 442,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 447,
+                "end_char": 449,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Joe Biden",
+                "start_char": 460,
+                "end_char": 469,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "last week",
+                "start_char": 477,
+                "end_char": 486,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the United States",
+                "start_char": 487,
+                "end_char": 504,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "United Nations Security Council",
+                "start_char": 520,
+                "end_char": 551,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 588,
+                "end_char": 592,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 626,
+                "end_char": 635,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Biden",
+                "start_char": 684,
+                "end_char": 689,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 733,
+                "end_char": 738,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than a million",
+                "start_char": 762,
+                "end_char": 781,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 782,
+                "end_char": 794,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 877,
+                "end_char": 881,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 883,
+                "end_char": 892,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 916,
+                "end_char": 923,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ron Dermer",
+                "start_char": 955,
+                "end_char": 965,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "recent days",
+                "start_char": 1010,
+                "end_char": 1021,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Washington",
+                "start_char": 1071,
+                "end_char": 1081,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the White House",
+                "start_char": 1147,
+                "end_char": 1162,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1169,
+                "end_char": 1176,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 1236,
+                "end_char": 1245,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 1286,
+                "end_char": 1288,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Washington",
+                "start_char": 1330,
+                "end_char": 1340,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Axios",
+                "start_char": 1355,
+                "end_char": 1360,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the White House",
+                "start_char": 1362,
+                "end_char": 1377,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jake Sullivan",
+                "start_char": 1407,
+                "end_char": 1420,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pentagon",
+                "start_char": 1422,
+                "end_char": 1430,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "U.S. State",
+                "start_char": 1448,
+                "end_char": 1458,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dermer",
+                "start_char": 1538,
+                "end_char": 1544,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the National Security Council of Netanyahu",
+                "start_char": 1549,
+                "end_char": 1591,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tzachi Hanegbi",
+                "start_char": 1593,
+                "end_char": 1607,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1622,
+                "end_char": 1629,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Jewish",
+                "start_char": 1711,
+                "end_char": 1717,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1732,
+                "end_char": 1739,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "second",
+                "start_char": 1761,
+                "end_char": 1767,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ]
+    },
+    {
+        "title": "In Germania è legale l'uso ricreativo dello spinello",
+        "date_raw": "Mon, 01 Apr 2024 05:26:28 GMT",
+        "date": "2024-04-01",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-01/la-germania-legalizza-uso-ricreativo-della-cannabis-25878809/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Dopo Malta nel 2021 e il Lussemburgo l'anno scorso, la Germania è da oggi il più grande paese dell'Ue a legalizzare l'uso ricreativo della cannabis, con una riforma che ha suscitato tante aspettative quante paure. A mezzanotte, l'ora dei primi spinelli \"legali\", diverse centinaia di persone hanno festeggiato il cambiamento della legge davanti alla Porta di Brandeburgo, nel cuore di Berlino, come ha riferito un giornalista dell'AFP. Il possesso di un massimo di 25 grammi di cannabis essiccata è ora consentito nei luoghi pubblici, così come la coltivazione domestica di un massimo di 50 grammi e di tre piante per adulto. \n&nbsp; \n<div></div> \n&nbsp; \nSi dovranno però aspettare altri tre mesi prima di poter acquistare legalmente la droga attraverso un \"Cannabis Social Club\". Queste associazioni senza scopo di lucro potranno vendere ai loro membri un massimo di 25 grammi al giorno e non più di 50 grammi al mese.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1711951219.238391,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "In Germany it is legal the recreational use of the pin",
+        "en_content": "AGI -&nbsp;After Malta in 2021 and Luxembourg last year, Germany is now the largest EU country to legalize the recreational use of cannabis, with a reform that has aroused so many expectations as fears. At midnight, the time of the first \"legal\" spins, several hundred people celebrated the change of the law in front of the Brandenburg Gate, in the heart of Berlin, as reported by an AFP journalist. The possession of a maximum of 25 grams of dried cannabis is now allowed in public places, as well as domestic cultivation of up to 50 grams and three plants per adult.\n&nbsp;\n<div </div\n&nbsp;\nHowever, you will have to wait another three months before you can legally buy drugs through a \"Cannabis Social Club\". These non-profit associations can sell to their members a maximum of 25 grams per day and no more than 50 grams per month.&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "use",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "pin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Germany",
+                "start_char": 3,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Malta",
+                "start_char": 17,
+                "end_char": 22,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2021",
+                "start_char": 26,
+                "end_char": 30,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Luxembourg",
+                "start_char": 35,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last year",
+                "start_char": 46,
+                "end_char": 55,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Germany",
+                "start_char": 57,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 84,
+                "end_char": 86,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "midnight",
+                "start_char": 206,
+                "end_char": 214,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "first",
+                "start_char": 232,
+                "end_char": 237,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "several hundred",
+                "start_char": 253,
+                "end_char": 268,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Brandenburg Gate",
+                "start_char": 321,
+                "end_char": 341,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Berlin",
+                "start_char": 359,
+                "end_char": 365,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "AFP",
+                "start_char": 385,
+                "end_char": 388,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25 grams",
+                "start_char": 432,
+                "end_char": 440,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "up to 50 grams",
+                "start_char": 527,
+                "end_char": 541,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "three",
+                "start_char": 546,
+                "end_char": 551,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "another three months",
+                "start_char": 626,
+                "end_char": 646,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a \"Cannabis Social Club",
+                "start_char": 688,
+                "end_char": 711,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25 grams",
+                "start_char": 783,
+                "end_char": 791,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    },
+    {
+        "title": "Hamas si scusa con gli abitanti di Gaza, \"ma la guerra continua\"",
+        "date_raw": "Mon, 01 Apr 2024 05:08:11 GMT",
+        "date": "2024-04-01",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-01/hamas-si-scusa-con-abitanti-gaza-ma-guerra-con-israele-va-avanti-25878689/",
+        "subtitle": "",
+        "content": "AGI - Con una dichiarazione pubblicata sui social, Hamas si è scusato per la prima volta con gli abitanti di Gaza per le sofferenze causate dalla guerra. Il movimento palestinese \"si scusa\" per le difficoltà causate dal conflitto contro l'esercito israeliano che dura da quasi sei mesi, ma ribadisce la volontà di continuare guerra per ottenere \"vittoria e libertà\" per i palestinesi. Hamas ha inviato \"un messaggio di ringraziamento al popolo\" della Striscia di Gaza di cui riconosce \"l'esaurimento\". Il movimento ha insistito sulle misure che ha cercato di mettere in atto per alleviare le difficoltà, in particolare i tentativi di \"controllo dei prezzi\" entro i limiti delle sue capacità \"vista l'aggressione in corso\" e ha affermato di comunicare con \"tutte le componenti\" della società di Gaza, citando altri movimenti armati, \"comitati popolari\" e \"famiglie\" per \"risolvere i problemi causati dall'occupazione\".&nbsp; \n&nbsp; \nL'esercito israeliano, intanto, ha reso noto che 600 dei suoi soldati sono stati uccisi dal 7 ottobre scorso, data dell'inizio della guerra con il movimento palestinese Hamas nella Striscia di Gaza. \"Nadav Cohen, 20 anni, di Haifa (...) è caduto in combattimento nel sud della Striscia di Gaza\", ha annunciato il portavoce dell'esercito israeliano sul suo sito ufficiale, portando a 600 il numero dei soldati israeliani uccisi. in Israele e nei territori palestinesi dall'inizio della guerra.&nbsp;",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1711951219.2384152,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "Hamas apologizes to the inhabitants of Gaza, \"but the war continues\"",
+        "en_content": "AGI - With a statement published on social media, Hamas apologized for the first time with the inhabitants of Gaza for the suffering caused by the war. The Palestinian movement \" apologizes\" for the difficulties caused by the conflict against the Israeli army that has lasted almost six months, but reiterates the desire to continue war to obtain \"victory and freedom\" for the Palestinians. Hamas sent \"a message of thanks to the people\" of the Gaza Strip, which he recognizes as \"the exhaustion\". The movement insisted on the measures it tried to put in place to alleviate the difficulties, in particular the attempts to \"price control\" within the limits of its ability \"view the ongoing aggression\" and said to communicate with \"all the components\" of the society of Gaza, citing other armed movements, \"popular committees\" and \"families\" to \"resolve the problems caused by employment\". &nbsp;\n&nbsp;\nThe Israeli army, meanwhile, has announced that 600 of its soldiers have been killed since October 7, the date of the war with the Palestinian movement Hamas in the Gaza Strip. \"Nadav Cohen, 20 years old, of Haifa (...) fell into combat in the south of the Gaza Strip,\" announced the Israeli army spokesman on his official website, bringing to 600 the number of Israeli soldiers killed. in Israel and the Palestinian territories since the beginning of the war.&nbsp;",
+        "concepts": [
+            {
+                "word": "Hamas",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inhabitants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "war",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 39,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 50,
+                "end_char": 55,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 75,
+                "end_char": 80,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 110,
+                "end_char": 114,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 156,
+                "end_char": 167,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 247,
+                "end_char": 254,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "almost six months",
+                "start_char": 276,
+                "end_char": 293,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 377,
+                "end_char": 389,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 391,
+                "end_char": 396,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 441,
+                "end_char": 455,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 769,
+                "end_char": 773,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 907,
+                "end_char": 914,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "600",
+                "start_char": 951,
+                "end_char": 954,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "October 7",
+                "start_char": 994,
+                "end_char": 1003,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 1034,
+                "end_char": 1045,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 1055,
+                "end_char": 1060,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 1064,
+                "end_char": 1078,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nadav Cohen",
+                "start_char": 1081,
+                "end_char": 1092,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "20 years old",
+                "start_char": 1094,
+                "end_char": 1106,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Haifa",
+                "start_char": 1111,
+                "end_char": 1116,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 1156,
+                "end_char": 1170,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1187,
+                "end_char": 1194,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "600",
+                "start_char": 1247,
+                "end_char": 1250,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1265,
+                "end_char": 1272,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 1293,
+                "end_char": 1299,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 1308,
+                "end_char": 1319,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the beginning of the",
+                "start_char": 1338,
+                "end_char": 1358,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Israele si ritira da al-Shifa. Hamas, \"trovate decine di cadaveri nell'ospedale\"",
+        "date_raw": "Mon, 01 Apr 2024 04:36:56 GMT",
+        "date": "2024-04-01",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-01/esercito-israeliano-lascia-ospedale-di-gaza-hamas-denuncia-scoperta-di-cadaveri-25878165/",
+        "subtitle": "",
+        "content": "AGI - Via&nbsp;dall'ospedale al-Shifa di Gaza: i carri armati e i veicoli dell'esercito israeliano hanno lasciato il complesso ospedaliero dove erano entrati due settimane fa. Secondo un giornalista dell'Afp, l'esercito ha sparato granate per coprire il ritiro dei mezzi pesanti e si è allontanato dal quartiere di al-Rimal per dirigersi a sud-ovest di Gaza City, verso il quartiere di Tel al-Hawa. Il ministero della Sanità di Hamas ha dichiarato di aver scoperto dozzine di corpi nell'ospedale di al-Shifa dopo il ritiro dei mezzi dell'Idf. \"Decine di corpi di martiri, alcuni in stato di decomposizione, sono stati rinvenuti nel complesso e attorno all'ospedale di al-Shifa\", ha fatto sapere il ministero in un comunicato stampa, precisando che i danni materiali sono \"molto significativi\" su tutti gli edifici.&nbsp; \nIntanto è \"riuscito\" l'intervento chirurgico a cui è stato sottoposto il primo ministro israeliano. Benjamin Netanyahu è \"in buona forma e sta iniziando a riprendersi\", ha detto il suo ufficio al termine dell'operazione, seguita da vicino in Israele e all'estero. \n&nbsp; \nIl capo dell'Oms, Tedros Adhanom Ghebreyesus, ha poi denunciato che ieri in un attacco aereo israeliano compiuto contro un altro ospedale di Gaza, quello di&nbsp; ospedale di Al-Aqsa, sono morte quattro persone e ne sono rimaste ferite altre 17. Il raid all'ospedale è stato testimoniato da una squadra dell'Organizzazione Mondiale della Sanità inviata sul posto per valutare i bisogni e per raccogliere incubatrici per il nord di Gaza, ha detto Tedros in un post su X. L'esercito israeliano ha negato che l'ospedale sia stato danneggiato. \"Una squadra dell'Oms era in missione umanitaria all'ospedale Al-Aqsa di Gaza, quando una tendopoli all'interno del complesso ospedaliero è stata colpita domenica 31 marzo da un attacco aereo israeliano\", ha scritto il capo dell'Oms, che non ha fornito dettagli sulle vittime. \n&nbsp; \nL'esercito israeliano ha invece replicato su X che uno dei suoi aerei \"ha colpito un centro di comando operativo della Jihad islamica e terroristi posizionati nel cortile dell'ospedale Al-Aqsa nella zona di Deir al Balah. \"A seguito dell'impatto, l'edificio dell'ospedale di Al-Aqsa non è stato danneggiato e la sua funzione non è stata compromessa\", ha aggiunto. Tedros ha rinnovato il suo appello affinchè i pazienti, gli operatori sanitari e gli operatori umanitari siano protetti durante il conflitto e affinchè cessino gli attacchi agli ospedali. \"Gli attacchi in corso e la militarizzazione degli ospedali devono finire - ha aggiunto -. Il diritto umanitario internazionale deve essere rispettato\". Tedros ha esortato tutte le parti in conflitto a rispettare la risoluzione del Consiglio di sicurezza delle Nazioni Unite che chiede un cessate il fuoco.&nbsp;",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1711951219.2384353,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "Israel retreats from al-Shifa. Hamas, \"find dozens of bodies in the hospital\"",
+        "en_content": "AGI - Via&nbsp; from the al-Shifa hospital in Gaza: tanks and Israeli army vehicles left the hospital complex where they had entered two weeks ago. According to an Afp journalist, the army shot grenades to cover the withdrawal of heavy vehicles and moved away from the Al-Rimal district to head south-west of Gaza City, to the Tel al-Hawa district. Hamas' Ministry of Health declared that he discovered dozens of bodies in the al-Shifa hospital after the withdrawal of the Idf media. \"Decines of bodies of martyrs, some in decomposition state, were found in the complex and around the al-Shifa hospital,\" announced the ministry in a press release, specifying that material damage is \"very significant\" on all buildings.&nbsp;\nIn the meantime, the surgery to which the Israeli Prime Minister was subjected is \"reuscised\". Benjamin Netanyahu is \"in good shape and is beginning to recover\", said his office at the end of the operation, followed closely in Israel and abroad.\n&nbsp;\nThe head of the Oms, Tedros Adhanom Ghebreyesus, then denounced that yesterday in an Israeli air strike against another hospital in Gaza, that of&nbsp; hospital in Al-Aqsa, four people died and another 17 were wounded. The raid at the hospital was testified by a team of the World Health Organization sent to the place to assess needs and collect incubators for the north of Gaza, said Tedros in a post on X. The Israeli army denied that the hospital was damaged. \"A team of the Oms was on humanitarian mission at the Al-Aqsa hospital in Gaza, when a tendopolis inside the hospital complex was struck on Sunday, March 31 by an Israeli air strike,\" wrote the head of the Oms, who did not provide details about the victims.\n&nbsp;\nOn the other hand, the Israeli army replicated X that one of its aircraft \"has hit an operating center of Islamic Jihad and terrorists located in the courtyard of the Al-Aqsa hospital in the Deir al Balah area. \"As a result of the impact, the Al-Aqsa hospital building was not damaged and its function was not compromised,\" he added. Tedros has renewed his appeal for patients, health workers and humanitarian workers to be protected during the conflict and to cease attacks on hospitals. \"The ongoing attacks and militarization of hospitals must end - he added -. International humanitarian law must be respected.\" Tedros urged all parties in conflict to respect the UN Security Council resolution calling for a ceasefire.&nbsp;",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "al",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shifa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Hamas",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dozens",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bodies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hospital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "al-Shifa",
+                "start_char": 21,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 31,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "dozens",
+                "start_char": 44,
+                "end_char": 50,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "al-Shifa",
+                "start_char": 25,
+                "end_char": 33,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 46,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 62,
+                "end_char": 69,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "two weeks ago",
+                "start_char": 133,
+                "end_char": 146,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Afp",
+                "start_char": 164,
+                "end_char": 167,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Al-Rimal",
+                "start_char": 265,
+                "end_char": 277,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Gaza City",
+                "start_char": 309,
+                "end_char": 318,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Tel al-Hawa",
+                "start_char": 323,
+                "end_char": 338,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 349,
+                "end_char": 354,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ministry of Health",
+                "start_char": 356,
+                "end_char": 374,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "dozens",
+                "start_char": 403,
+                "end_char": 409,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "al-Shifa",
+                "start_char": 427,
+                "end_char": 435,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "al-Shifa",
+                "start_char": 585,
+                "end_char": 593,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 768,
+                "end_char": 775,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 821,
+                "end_char": 839,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 953,
+                "end_char": 959,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Oms",
+                "start_char": 995,
+                "end_char": 998,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tedros Adhanom Ghebreyesus",
+                "start_char": 1000,
+                "end_char": 1026,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 1048,
+                "end_char": 1057,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1064,
+                "end_char": 1071,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1111,
+                "end_char": 1115,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Al-Aqsa",
+                "start_char": 1143,
+                "end_char": 1150,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "four",
+                "start_char": 1152,
+                "end_char": 1156,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "17",
+                "start_char": 1181,
+                "end_char": 1183,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the World Health Organization",
+                "start_char": 1250,
+                "end_char": 1279,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1354,
+                "end_char": 1358,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tedros",
+                "start_char": 1365,
+                "end_char": 1371,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1392,
+                "end_char": 1399,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Oms",
+                "start_char": 1458,
+                "end_char": 1461,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Al-Aqsa",
+                "start_char": 1493,
+                "end_char": 1504,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1517,
+                "end_char": 1521,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tendopolis",
+                "start_char": 1530,
+                "end_char": 1540,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Sunday, March 31",
+                "start_char": 1583,
+                "end_char": 1599,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1606,
+                "end_char": 1613,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Oms",
+                "start_char": 1649,
+                "end_char": 1652,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1731,
+                "end_char": 1738,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Islamic Jihad",
+                "start_char": 1814,
+                "end_char": 1827,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Al-Aqsa",
+                "start_char": 1871,
+                "end_char": 1882,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the Deir al Balah",
+                "start_char": 1895,
+                "end_char": 1912,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Al-Aqsa",
+                "start_char": 1947,
+                "end_char": 1958,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tedros",
+                "start_char": 2042,
+                "end_char": 2048,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the UN Security Council",
+                "start_char": 2372,
+                "end_char": 2395,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "In Israele finisce l'esenzione dalla leva per gli ebrei ultraortodossi",
+        "date_raw": "Sun, 31 Mar 2024 23:19:00 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-03-31/israele-finisce-esenzione-leva-ebrei-ortodossi-25875706/",
+        "subtitle": "",
+        "content": "AGI - L'esenzione degli ebrei ultraortodossi dal servizio militare in Israele termina oggi, per effetto di una pronuncia della Corte suprema, dopo anni di rinvii. Si tratta di una questione delicata che divide la società israeliana>, sullo sfondo della guerra tra Israele e Hamas Palestinese. Il servizio militare è obbligatorio in Israele, ma gli ultraortodossi possono evitare la coscrizione se dedicano il loro tempo allo studio dei testi sacri dell'ebraismo. L'esenzione fu decisa da Ben-Gurion all'atto della creazione dello Stato di Israele nel 1948, inizialmente per 400 giovani, ma oggi riguarda 66.000 uomini tra i 18 e i 26 anni. \n&nbsp; \nLa legge che la permetteva è stata invalidata nel 2012 dalla Corte Suprema che ha chiesto una riforma, ma i governi e i partiti ultraortodossi che si sono succeduti hanno sempre concluso accordi provvisori, senza mai riuscire a trovare una soluzione. Negli anni le critiche sono aumentate nella società israeliana e i partiti laici e le ONG hanno portato la questione alla Corte Suprema per chiedere l'immediata coscrizione degli ultraortodossi in nome del principio di uguaglianza. L'Alta Corte aveva concesso al governo tempo fino al 27 marzo per presentare una proposta, ma il primo ministro Benjamin Netanyahu> ha inviato una lettera il giorno successivo chiedendo una proroga di 30 giorni. Lo stesso giorno, la Corte Suprema ha emesso una sentenza provvisoria che prevede, a partire dal 1 aprile, il congelamento dei fondi pubblici destinati agli studenti delle scuole talmudiche che non si presentano per il servizio militare, ma senza dare un termine per le sanzioni contro coloro che si rifiutano di prestare servizio militare.&nbsp; \n&nbsp; \nCosa succederà da oggi? Questi giovani potrebbero in teoria essere chiamati a prestare il servizio militare, spiega Yair Ettinger, esperto di questioni religiose dell'emittente pubblica Kan 11, \"ma la polizia non verrà ad arrestarli perché ci vorrà del tempo per dichiararli disertori, e la Corte dovrà pronunciarsi su questa questione a maggio. \"I leader ultraortodossi vogliono una nuova legge per garantire che i loro studenti non siano costretti ad arruolarsi nell'esercito, ma non sarà facile né politicamente né giuridicamente\", aggiunge Ettinger. \n&nbsp; \nLa coalizione di governo di Netanyahu si basa in gran parte sull'alleanza con i due principali partiti ultra-ortodossi>, Shass e United Torah Judaism, ferocemente contrari alla coscrizione degli ebrei ultra-ortodossi (haredim, in ebraico). La loro uscita farebbe crollare la coalizione. Ma l'opzione di nuove elezioni provocate dagli ultraortodossi sembra improbabile in quanto \"questo governo è il più favorevole agli interessi degli haredim\". \n&nbsp; \nNel maggio 2023, il governo ha approvato un budget senza precedenti di quasi un miliardo di euro (3,7 miliardi di shekel) per le scuole talmudiche>. Da oggi ciò che cambiera' inizialmente è che la Corte Suprema costringerà il governo a tagliare il budget destinato a questi istituti religiosi. Poiché il limite di età per arruolarsi nell'esercito è di 26 anni, verranno privati di circa 500 milioni di shekel, la somma stanziata per gli studenti dai 18 ai 26 anni. \n&nbsp; \nSecondo un recente sondaggio, il 70% della popolazione ebraica del Paese ritiene che gli ebrei ultraortodossi dovrebbero, come gli altri, dare il loro contributo alla sicurezza del Paese e prestare servizio militare, mentre la guerra lanciata da Israele a Gaza dopo l'inedito attacco del 7 ottobre perpetrato da Hamas entrerà nel suo sesto mese. Sono già quasi 600 i soldati israeliani caduti dall'inizio della guerra a Gaza>, di cui 254 nella Striscia, con oltre 3 mila feriti.",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1711951219.238454,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "In Israel ends the lever exemption for ultra-orthodox Jews",
+        "en_content": "AGI - Exemption of ultra-orthodox Jews from military service in Israel ends today, due to a ruling by the Supreme Court, after years of referral. It is a delicate matter that divides Israeli society > against the background of the war between Israel and Palestinian Hamas. Military service is mandatory in Israel, but the ultra-orthodox can avoid conscription if they devote their time to studying the sacred texts of Judaism. The exemption was decided by Ben-Gurion at the creation of the State of Israel in 1948, initially for 400 young people, but today it concerns 66,000 men between 18 and 26 years.\n&nbsp;\nThe law that allowed it was invalidated in 2012 by the Supreme Court that asked for a reform, but the governments and ultra-orthodox parties that succeeded have always concluded interim agreements, without ever being able to find a solution. Over the years, criticisms have increased in Israeli society and secular parties and NGOs have brought the matter to the Supreme Court to seek the immediate conscription of the ultra-orthodox in the name of the principle of equality. The High Court had granted the Government time until 27 March to submit a proposal, but Prime Minister Benjamin Netanyahu> sent a letter the following day asking for a 30-day extension. On the same day, the Supreme Court issued a provisional judgment which provides, from 1 April, the freezing of public funds for students of Talmudic schools who do not present themselves for military service, but without giving a term for sanctions against those who refuse to provide military service. &nbsp;\n&nbsp;\nWhat's going to happen today? These young people could in theory be called to provide military service, explains Yair Ettinger, expert in religious issues of the public broadcaster Kan 11, \"but the police will not come to arrest them because it will take some time to declare them deserters, and the Court will have to pronounce on this issue in May. \"The ultra-orthodox leaders want a new law to ensure that their students are not forced to enlist in the army, but it will not be easy neither politically nor legally,\" adds Ettinger.\n&nbsp;\nThe coalition government of Netanyahu is largely based on the alliance with the two main ultra-orthodox parties, Shass and United Torah Judaism, fiercely opposed to the conscription of ultra-orthodox Jews (haredim, Hebrew). Their exit would bring down the coalition. But the option of new elections caused by the ultra-orthodox seems unlikely as \"this government is the most favorable to the interests of haredim\".\n&nbsp;\nIn May 2023, the government approved an unprecedented budget of nearly a billion euros (3.7 billion shekels) for schools in Talmudic. From today's point of view, the Supreme Court will force the government to cut the budget for these religious institutes. Since the age limit to enlist in the army is 26 years old, it will be deprived of approximately 500 million shekels, the sum allocated for students from 18 to 26 years.\n&nbsp;\nAccording to a recent survey, 70% of the Jewish population of the country believes that the ultra-orthodox Jews should, like others, contribute to the country's security and serve military service, while the war launched by Israel in Gaza after the unpublished October attack perpetrated by Hamas will enter its sixth month. Almost 600 Israeli soldiers have fallen since the beginning of the war in Gaza, 254 of them in the Strip, with over 3,000 wounded.",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lever",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exemption",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Jews",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 3,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jews",
+                "start_char": 54,
+                "end_char": 58,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Jews",
+                "start_char": 34,
+                "end_char": 38,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 64,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 76,
+                "end_char": 81,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Supreme Court",
+                "start_char": 102,
+                "end_char": 119,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "years",
+                "start_char": 127,
+                "end_char": 132,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 183,
+                "end_char": 190,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 243,
+                "end_char": 249,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 254,
+                "end_char": 265,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 306,
+                "end_char": 312,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Judaism",
+                "start_char": 418,
+                "end_char": 425,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ben-Gurion",
+                "start_char": 456,
+                "end_char": 466,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 499,
+                "end_char": 505,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1948",
+                "start_char": 509,
+                "end_char": 513,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "400",
+                "start_char": 529,
+                "end_char": 532,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "today",
+                "start_char": 551,
+                "end_char": 556,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "66,000",
+                "start_char": 569,
+                "end_char": 575,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "between 18 and 26 years",
+                "start_char": 580,
+                "end_char": 603,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2012",
+                "start_char": 655,
+                "end_char": 659,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Supreme Court",
+                "start_char": 663,
+                "end_char": 680,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the years",
+                "start_char": 859,
+                "end_char": 868,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 899,
+                "end_char": 906,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Supreme Court",
+                "start_char": 971,
+                "end_char": 988,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The High Court",
+                "start_char": 1088,
+                "end_char": 1102,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "27 March",
+                "start_char": 1141,
+                "end_char": 1149,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 1191,
+                "end_char": 1209,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "30-day",
+                "start_char": 1256,
+                "end_char": 1262,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the same day",
+                "start_char": 1277,
+                "end_char": 1289,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Supreme Court",
+                "start_char": 1291,
+                "end_char": 1308,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1 April",
+                "start_char": 1360,
+                "end_char": 1367,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Talmudic",
+                "start_char": 1414,
+                "end_char": 1422,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 1614,
+                "end_char": 1619,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Yair Ettinger",
+                "start_char": 1704,
+                "end_char": 1717,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kan 11",
+                "start_char": 1772,
+                "end_char": 1778,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Court",
+                "start_char": 1891,
+                "end_char": 1896,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "May",
+                "start_char": 1937,
+                "end_char": 1940,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ettinger",
+                "start_char": 2116,
+                "end_char": 2124,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 2161,
+                "end_char": 2170,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 2213,
+                "end_char": 2216,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Shass",
+                "start_char": 2246,
+                "end_char": 2251,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "United Torah Judaism",
+                "start_char": 2256,
+                "end_char": 2276,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jews",
+                "start_char": 2333,
+                "end_char": 2337,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hebrew",
+                "start_char": 2348,
+                "end_char": 2354,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "May 2023",
+                "start_char": 2558,
+                "end_char": 2566,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3.7 billion",
+                "start_char": 2643,
+                "end_char": 2654,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Talmudic",
+                "start_char": 2679,
+                "end_char": 2687,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 2694,
+                "end_char": 2699,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Supreme Court",
+                "start_char": 2717,
+                "end_char": 2734,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "26 years old",
+                "start_char": 2856,
+                "end_char": 2868,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "approximately 500 million",
+                "start_char": 2893,
+                "end_char": 2918,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "18 to 26 years",
+                "start_char": 2964,
+                "end_char": 2978,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "70%",
+                "start_char": 3017,
+                "end_char": 3020,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Jewish",
+                "start_char": 3028,
+                "end_char": 3034,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Jews",
+                "start_char": 3094,
+                "end_char": 3098,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 3211,
+                "end_char": 3217,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 3221,
+                "end_char": 3225,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "October",
+                "start_char": 3248,
+                "end_char": 3255,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 3278,
+                "end_char": 3283,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "its sixth month",
+                "start_char": 3295,
+                "end_char": 3310,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Almost 600",
+                "start_char": 3312,
+                "end_char": 3322,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 3323,
+                "end_char": 3330,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the beginning of the",
+                "start_char": 3358,
+                "end_char": 3378,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 3386,
+                "end_char": 3390,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "254",
+                "start_char": 3392,
+                "end_char": 3395,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Strip",
+                "start_char": 3411,
+                "end_char": 3416,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "over 3,000",
+                "start_char": 3423,
+                "end_char": 3433,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "L'opposizione mantiene Ankara e Istanbul, smacco per Erdogan alle amministrative",
+        "date_raw": "Sun, 31 Mar 2024 19:06:56 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-03-31/elezioni-turchia-spoglio-risultati-erdogan-perde-istanbul-e-ankara-25875534/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Vittoria dell'opposizione alle elezioni amministrative in Turchia>: i candidati del presidente turco Recep Tayyp Erdogan> non riescono a riconquistare Istanbul e Ankara e il partito dello stesso Erdogan perde lo scettro di prima forza politica del Paese e viene superato dai repubblicani del Chp>. Lo spoglio dei voti è ancora in corso in tutto il Paese ma soprattutto nella cruciale Istanbul, dove ormai il 57% dei voti sono stati scrutinati. Tuttavia il sindaco uscente e candidato del partito Chp di opposizione, Ekrem Imamoglu>, ha incrementato il vantaggio su Murat Kurum>, il candidato scelto dal presidente turco per riconquistare la metropoli sul Bosforo, persa 5 anni fa. \n&nbsp; \nAl momento Imamoglu ha ottenuto il 50.5% delle preferenze, Kurum è indietro di 9 punti e il margine appare difficilmente colmabile, nonostante a Istanbul abbiano votato 11.3 milioni di persone. Sotto il 2% per la candidata dei filo curdi, presentatisi non come Hdp ma come Dem, i cui voti sembrano in gran parte confluiti su Imamoglu. \n<div></div> \nAltro centro nevralgico di questa giornata elettorale la capitale Ankara, altra metropoli del Paese persa da Erdogan 5 anni fa. Nonostante lo spoglio sia al 30% (4.3 milioni hanno votato), le speranze del presidente di riprendere il controllo della capitale sono pochissime. Il candidato del Chp e opposizione, il sindaco uscente Mansur Yavas>, è al 58.4%, mentre il candidato dell'Akp di Erdogan è al 33%. \n&nbsp; \nIn tutta la Turchia l'affluenza è stata nettamente superiore al 90%>, hanno infatti votato in 61.4 milioni. Al momento lo spoglio complessivo è al 43%. tuttavia il Chp e l'opposizione si confermano sulla costa mediterranea ed egea, mentre il centro dell'Anatolia e il Mar Nero rimangono al partito di Erdogan. \n<div></div> \nIl partito religioso Refah si è imposto a sorpresa in due delle 81 province: Yozgat e Urfa. Agli ultranazionalisti dell'Unione Nazonale (Buyuk Birlik) va Sivas, grande provincia del centro dell'Anatolia. In quasi tutte le province del sud est a maggioranza curda è al momento in vantaggio il partito filo curdo Dem, la sigla che ha sostituito Hdp. Unica eccezione la provincia di Sirnak, dove ha vinto l'Akp di Erdogan. \n&nbsp; \nNelle province terremotate> il partito di Erdogan ha riconquistato Hatay, ma ha perso Adiyaman. In base ai seggi scrutinati il partito Akp di Erdogan perde lo scettro di prima forza politica del Paese con il 37.1% delle preferenze e viene superato dai repubblicani del Chp che hanno ottenuto il 38.47 dei voti. In calo i filo curdi, al momento fermi al 5.7%, circa la metà delle preferenze ottenute in passato \n&nbsp; \n&nbsp;",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1711951219.2384748,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "The opposition keeps Ankara and Istanbul, clear to Erdogan administrative",
+        "en_content": "AGI -&nbsp;Vittoria of the opposition to the administrative elections in Turkey>: the candidates of Turkish President Recep Tayyp Erdogan> fail to regain Istanbul and Ankara and the party of the same Erdogan loses the country's first political force and is surpassed by the Republicans of Chp>. The outburst of votes is still in progress throughout the country but above all in the crucial Istanbul, where 57% of the votes have been scrutinized. However the outgoing mayor and candidate of the opposition party Chp, Ekrem Imamoglu>, increased the advantage on Murat Kurum>, the candidate chosen by the Turkish president to regain the metropolis on the Bosphorus, lost 5 years ago.\n&nbsp;\nAt the moment Imamoglu obtained 50.5% of the preferences, Kurum is back of 9 points and the margin seems difficult to fill, despite in Istanbul they voted 11.3 million people. Under 2% for the candidate of Kurdish threads, presented not as Hdp but as Dem, whose votes seem largely confluent on Imamoglu.\n<div </div\nAnother nerve center of this election day the capital Ankara, another metropolis of the country lost by Erdogan 5 years ago. Despite the loss of both 30% (4.3 million voted), the hopes of the president to regain control of the capital are very few. The candidate of the Chp and opposition, the outgoing mayor Mansur Yavas>, is 58.4%, while the candidate of the Akp of Erdogan is 33%.\n&nbsp;\nAll over Turkey, turnout was well over 90%, in fact, 61.4 million. At the moment the total waste is 43%. However the Chp and the opposition are confirmed on the Mediterranean and Aegean coast, while the center of Anatolia and the Black Sea remain at the party of Erdogan.\n<div </div\nThe religious party Refah was surprised in two of the 81 provinces: Yozgat and Urfa. To the ultranationalists of the Nazonale Union (Buyuk Birlik) goes Sivas, great province of the center of Anatolia. In almost all the provinces of the south east by Kurdish majority is currently in advantage the Kurdish party, the acronym that replaced Hdp. The only exception is the province of Sirnak, where he won the Akp of Erdogan.\n&nbsp;\nIn the earthquake provinces > the party of Erdogan reconquered Hatay, but lost Adiyaman. According to the polluted seats, the Akp party of Erdogan loses the country's first political force with 37.1% of preferences and is surpassed by the Republicans of the Chp who obtained 38.47 votes. In decrease the Kurdish thread, at the moment stopped to 5.7%, about half the preferences obtained in the past\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "opposition",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ankara",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Istanbul",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Erdogan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ankara",
+                "start_char": 21,
+                "end_char": 27,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 32,
+                "end_char": 40,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 51,
+                "end_char": 58,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkey",
+                "start_char": 73,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 100,
+                "end_char": 107,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Recep Tayyp Erdogan",
+                "start_char": 118,
+                "end_char": 137,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 154,
+                "end_char": 162,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 167,
+                "end_char": 173,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 200,
+                "end_char": 207,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 228,
+                "end_char": 233,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Republicans",
+                "start_char": 274,
+                "end_char": 285,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 390,
+                "end_char": 398,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "57%",
+                "start_char": 406,
+                "end_char": 409,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Chp",
+                "start_char": 511,
+                "end_char": 514,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ekrem Imamoglu",
+                "start_char": 516,
+                "end_char": 530,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Murat Kurum",
+                "start_char": 560,
+                "end_char": 571,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkish",
+                "start_char": 602,
+                "end_char": 609,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bosphorus",
+                "start_char": 652,
+                "end_char": 661,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5 years ago",
+                "start_char": 668,
+                "end_char": 679,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 702,
+                "end_char": 710,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "50.5%",
+                "start_char": 720,
+                "end_char": 725,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Kurum",
+                "start_char": 746,
+                "end_char": 751,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "9",
+                "start_char": 763,
+                "end_char": 764,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 823,
+                "end_char": 831,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "11.3 million",
+                "start_char": 843,
+                "end_char": 855,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2%",
+                "start_char": 870,
+                "end_char": 872,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 894,
+                "end_char": 901,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hdp",
+                "start_char": 928,
+                "end_char": 931,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Dem",
+                "start_char": 939,
+                "end_char": 942,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 982,
+                "end_char": 990,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this election day",
+                "start_char": 1027,
+                "end_char": 1044,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 1057,
+                "end_char": 1063,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1107,
+                "end_char": 1114,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5 years ago",
+                "start_char": 1115,
+                "end_char": 1126,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "30%",
+                "start_char": 1153,
+                "end_char": 1156,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "4.3 million",
+                "start_char": 1158,
+                "end_char": 1169,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Chp",
+                "start_char": 1273,
+                "end_char": 1276,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mansur Yavas",
+                "start_char": 1312,
+                "end_char": 1324,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "58.4%",
+                "start_char": 1330,
+                "end_char": 1335,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the Akp of Erdogan",
+                "start_char": 1360,
+                "end_char": 1378,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "33%",
+                "start_char": 1382,
+                "end_char": 1385,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Turkey",
+                "start_char": 1403,
+                "end_char": 1409,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "90%",
+                "start_char": 1433,
+                "end_char": 1436,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "61.4 million",
+                "start_char": 1447,
+                "end_char": 1459,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "43%",
+                "start_char": 1494,
+                "end_char": 1497,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Chp",
+                "start_char": 1511,
+                "end_char": 1514,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mediterranean",
+                "start_char": 1555,
+                "end_char": 1568,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Aegean",
+                "start_char": 1573,
+                "end_char": 1579,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Anatolia",
+                "start_char": 1607,
+                "end_char": 1615,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 1620,
+                "end_char": 1633,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1657,
+                "end_char": 1664,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Refah",
+                "start_char": 1697,
+                "end_char": 1702,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 1720,
+                "end_char": 1723,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "81",
+                "start_char": 1731,
+                "end_char": 1733,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Yozgat",
+                "start_char": 1745,
+                "end_char": 1751,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Urfa",
+                "start_char": 1756,
+                "end_char": 1760,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Nazonale Union",
+                "start_char": 1790,
+                "end_char": 1808,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sivas",
+                "start_char": 1829,
+                "end_char": 1834,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Anatolia",
+                "start_char": 1868,
+                "end_char": 1876,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the south east",
+                "start_char": 1909,
+                "end_char": 1923,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 1927,
+                "end_char": 1934,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 1974,
+                "end_char": 1981,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hdp",
+                "start_char": 2015,
+                "end_char": 2018,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sirnak",
+                "start_char": 2058,
+                "end_char": 2064,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Akp of Erdogan",
+                "start_char": 2079,
+                "end_char": 2097,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 2149,
+                "end_char": 2156,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hatay",
+                "start_char": 2169,
+                "end_char": 2174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Adiyaman",
+                "start_char": 2185,
+                "end_char": 2193,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Akp party",
+                "start_char": 2228,
+                "end_char": 2241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 2245,
+                "end_char": 2252,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 2273,
+                "end_char": 2278,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "37.1%",
+                "start_char": 2300,
+                "end_char": 2305,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Republicans",
+                "start_char": 2345,
+                "end_char": 2356,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chp",
+                "start_char": 2364,
+                "end_char": 2367,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "38.47",
+                "start_char": 2381,
+                "end_char": 2386,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 2410,
+                "end_char": 2417,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "5.7%",
+                "start_char": 2451,
+                "end_char": 2455,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "about half",
+                "start_char": 2457,
+                "end_char": 2467,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Hamas sulla tregua, \"ancora troppo distanti da Israele\"",
+        "date_raw": "Sun, 31 Mar 2024 16:02:08 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-03-31/negoziati-sul-cessate-il-fuoco-posizione-hamas-ancora-troppo-distante-da-israele-25874459/",
+        "subtitle": "",
+        "content": "AGI - Non c'è stata una decisione da parte di&nbsp;Hamas&nbsp;di inviare al Cairo o a Doha una delegazione per la ripresa dei colloqui su un cessate il fuoco a Gaza. Lo ha detto un responsabile dell'organizzazione palestinese, smentendo così le informazioni circolate ieri sulla ripresa del negoziato in Egitto già oggi. \nLe posizioni fra Israele e&nbsp;Hamas&nbsp;sono ancora \"troppo distanti\" perchè si possa avanzare nei negoziati per un cessate il fuoco a Gaza.&nbsp;&nbsp;\"Dubito che ci sia un avanzamento in questi negoziati perchè le posizioni sono troppo lontane\", ha detto una fonte anonima di&nbsp;Hamas&nbsp;parlando con AFP. Il primo ministro israeliano Benjamin Netanyahu \"non è serio e non è interessato, e l'amministrazione Usa non esercita una vera pressione\", ha aggiunto riferendosi al ruolo di mediatore degli Stati Uniti nei colloqui.&nbsp; \n&nbsp; \nIntanto, il movimento islamista ha reso noto che oggi un&nbsp;aereo dell'aeronautica israeliana ha bombardato il cortile dell'ospedale dei Martiri di al Aqsa nella città di Deir al Balah, il più importante della zona centrale di Gaza, provocando diverse vittime. L'esercito israeliano ha affermato che l'obiettivo era \"un comando operativo\" della Jihad islamica palestinese, mentre il governo di Gaza ha denunciato \"martiri e feriti\" in un gruppo di sfollati e giornalisti. Secondo IDF, l'ospedale non è stato danneggiato ed è ancora operativo, mentre&nbsp;Hamas&nbsp;ha denunciato che le bombe hanno colpito \"tende di giornalisti e sfollati all'interno delle mura\" dell'ospedale, causando un numero imprecisato di morti e feriti.&nbsp;Hamas&nbsp;ha chiesto alle \"organizzazioni internazionali, regionali e locali\" del settore medico di condannare quest'ultimo attacco e considerano gli Usa \"pienamente\" responsabili del loro sostegno militare e politico a Israele. \n&nbsp; \nIl ministero della Salute a Gaza ha, infine, dichiarato che sono state almeno 32.782 le persone uccise nel territorio palestinese durante più di cinque mesi di guerra. Il bilancio comprende almeno 77 morti delle ultime 24 ore e conta 75.298 persone che sono state ferite. E più di 400 persone (tra pazienti, sfollati e personale sanitario) sono rimaste uccise negli attacchi israeliani durante i 13 giorni di assedio all'ospedale al-Shifa.",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1711951219.2384923,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "Hamas on the truce, \"still too far from Israel\"",
+        "en_content": "AGI - There was no decision by &nbsp;Hamas&nbsp; to send to Cairo or Doha a delegation to resume talks on a ceasefire in Gaza. He said that he was responsible for the Palestinian organization, thus debating the information yesterday about the resumption of negotiations in Egypt already today.\nThe positions between Israel and e&nbsp;Hamas&nbsp; they are still \"too far away\" so that we can advance in the negotiations for a ceasefire in Gaza.&nbsp;&nbsp;\"I doubt that there is progress in these negotiations because the positions are too far away,\" said an anonymous source of&nbsp;Hamas&nbsp;spe. Israeli Prime Minister Benjamin Netanyahu \"is not serious and is not interested, and the U.S. administration does not exert a real pressure\", he added referring to the role of U.S. mediator in talks.&nbsp;\n&nbsp;\nMeanwhile, the Islamist movement has announced that today an Israeli air force bombed the courtyard of the Aqsa Martyrs Hospital in the city of Deir al Balah, the most important in the central area of Gaza, causing several victims. The Israeli army stated that the target was \"an operating command\" of the Palestinian Islamic Jihad, while the Gaza government denounced \"martyrs and wounded\" in a group of displaced and journalists. According to IDF, the hospital was not damaged and is still operational, while&nbsp;Hamas&nbsp; reported that the bombs hit \"tends of journalists and displaced within the walls\" of the hospital, causing an imprecisive number of dead and wounded.&nbsp;Hamas&nbsp; asked for the \"international, regional and local organizations\" of the medical sector to condemn\n&nbsp;\nThe Ministry of Health in Gaza finally declared that at least 32,782 people killed in the Palestinian territory for more than five months of war. The budget includes at least 77 deaths in the last 24 hours and has 75,298 people who have been injured. And more than 400 people (among patients, displaced people and health personnel) were killed in Israeli attacks during the 13-day siege at the al-Shifa hospital.",
+        "concepts": [
+            {
+                "word": "Hamas",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "truce",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Israel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Cairo",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Doha",
+                "start_char": 69,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 121,
+                "end_char": 125,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 167,
+                "end_char": 178,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 223,
+                "end_char": 232,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Egypt",
+                "start_char": 273,
+                "end_char": 278,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 287,
+                "end_char": 292,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israel",
+                "start_char": 316,
+                "end_char": 322,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 599,
+                "end_char": 606,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 622,
+                "end_char": 640,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 688,
+                "end_char": 692,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 775,
+                "end_char": 779,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Islamist",
+                "start_char": 827,
+                "end_char": 835,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 864,
+                "end_char": 869,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 873,
+                "end_char": 880,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Aqsa Martyrs Hospital",
+                "start_char": 915,
+                "end_char": 940,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Deir al Balah",
+                "start_char": 956,
+                "end_char": 969,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1013,
+                "end_char": 1017,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1048,
+                "end_char": 1055,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Palestinian Islamic Jihad",
+                "start_char": 1114,
+                "end_char": 1143,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1155,
+                "end_char": 1159,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "wounded.&nbsp;Hamas&nbsp",
+                "start_char": 1481,
+                "end_char": 1505,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Ministry of Health",
+                "start_char": 1611,
+                "end_char": 1633,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1637,
+                "end_char": 1641,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least 32,782",
+                "start_char": 1664,
+                "end_char": 1679,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 1701,
+                "end_char": 1712,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "more than five months",
+                "start_char": 1727,
+                "end_char": 1748,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "at least 77",
+                "start_char": 1777,
+                "end_char": 1788,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the last 24 hours",
+                "start_char": 1799,
+                "end_char": 1816,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "75,298",
+                "start_char": 1825,
+                "end_char": 1831,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "more than 400",
+                "start_char": 1866,
+                "end_char": 1879,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1958,
+                "end_char": 1965,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "13-day",
+                "start_char": 1985,
+                "end_char": 1991,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "al-Shifa",
+                "start_char": 2005,
+                "end_char": 2013,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Elezioni in Turchia, 61 milioni alle urne, in bilico il destino di Istanbul e il futuro del Paese ",
+        "date_raw": "Sun, 31 Mar 2024 15:11:26 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-03-31/turchia-vota-per-comunali-erdogan-cerca-riconquistare-istanbul-25870482/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Sono più di 61 milioni gli elettori turchi chiamati alle urne per le elezioni amministrative> previste oggi in tutto il Paese. Le operazioni di voto nelle 81 province si sono concluse poco fa. In alcune province dell'est i seggi sono stati chiusi un'ora prima, dopo essere stati aperti un'ora in anticipo rispetto all'ovest del Paese, come deciso all'Authority per le elezioni in considerazione delle ore di luce in un Paese vasto come la&nbsp;Turchia. Le operazioni relative a spoglio e conteggio inizieranno immediatamente>.&nbsp; \n&nbsp; \nQuella di oggi è una data cruciale soprattutto per il presidente Recep Tayyip Erdogan, deciso a riconquistare Istanbul, la più popolosa città della&nbsp;Turchia&nbsp;persa dal proprio partito nelle elezioni del 2019. \"E' arrivato il momento di riprendere il lavoro da dove era stato interrotto, porre fine a questo periodo di fango e sporcizia e rimetterci al servizio della popolazione come abbiamo fatto per 30 anni. La città è tornata ai problemi del 1994, questi sono stati 5 anni persi\", ha dichiarato Erdogan in un comizio avvenuto proprio a Istanbul a chiusura della campagna a favore dei propri candidati. Erdogan nell'ultimo mese e mezzo non ha lesinato energie in un tour elettorale a sostegno dei candidati del proprio partito, Akp. Proprio la capitale Ankara e la metropoli sul Bosforo hanno rappresentato la più cocente sconfitta subita dal leader turco negli ultimi 25 anni.> Tanto era durato il controllo del proprio partito su Istanbul, città che con un quarto della popolazione complessiva del Paese rappresenta il centro nevralgico della vita politica turca. \"Chi governa Istanbul governa la&nbsp;Turchia\", è stato per anni uno dei mantra preferiti del leader turco, che ha però smesso di ripetere questa frase dopo la sconfitta del 2019, subita per mano del candidato del partito repubblicano Chp, Ekrem Imamoglu. Ed è proprio la sfida tra il Chp e l'Akp a tenere in bilico la giornata di oggi>, anche perchè dai sondaggi non pare che il candidato scelto da Erdogan abbia riscosso un grande successo. L'ex ministro dell'Ambiente Murat Kurum, >fedelissimo del presidente e uno dei rappresentanti più in vista della seconda generazione del partito, non ha mostrato in campagna elettorale ne' carisma ne' capacità di conquistare il pubblico. Nato nel 1976 nella capitale Ankara e padre di 3 figli, caratteristica apprezzata dal presidente turco, è laureato in Ingegneria edilizia. Kurum ha scalato posizioni all'interno del partito e dal 2018 a giugno 2023 ha ricoperto il ruolo di ministro dell'ambiente. Va tuttavia sottolineato che Kurum per anni è stato il responsabile di programmi di rinnovamento edilizio nelle due più grandi città della&nbsp;Turchia;> programmi mirati alla sostituzione di vecchi edifici con case costruite secondo i parametri antisismici previsti dopo il terremoto del 1999. Dopo il terremoto che ha devastato il sud del Paese il 6 febbraio 2023, infatti, diversi scienziati hanno messo in guardia dal rischio concreto e imminente di un sisma di grado superiore al 7. Allarmi che hanno spinto Erdogan ad accelerare i programmi di rinnovamento edilizio e la scelta di Kurum va intesa anche in questo senso. Basterà a sconfiggere il sindaco in carica Ekrem Imamoglu, >l'uomo che 5 anni fa ha inflitto a Erdogan la batosta più violenta di tutta la sua carriera politica? Probabilmente no. Vale la pena ricordare quanto avvenuto nel 2019. Dopo un primo turno in cui Imamoglu si impose per poche migliaia di voti, in una città in cui i votanti sono 11.5 milioni, l'Akp presentò ricorso e si tornò alle urne. Una decisione mal digerita dall'opinione pubblica, che voltò le spalle al candidato del presidente, il poco carismatico ex premier Binali Yildirim e scelse Imamoglu, la cui vittoria nella ripetizione fu schiacciante (circa 800 mila voti in più dello sfidante). Imamoglu come 5 anni fa è sostenuto dai nazionalisti di Iyi parti, Kurum dai nazionalisti dell'Mhp. Tuttavia 5 anni fa a risultare decisivi per la vittoria di Imamoglu furono i voti dei curdi dell'Hdp, che però stavolta hanno una propria candidata.&nbsp;> \nImamoglu ha comunque condotto una campagna convincente, può contare su di un seguito compatto e su un carisma che dal palco gli permette di stabilire un filo diretto con chi lo ascolta. Una condanna a due anni e mezzo, ritenuta politica da gran parte dell'opinione pubblica, ne ha addirittura rafforzato la posizione presso una larga parte della popolazione, che ha visto nella decisione dei giudici una mossa politica. Nelle ultime tornate elettorali inoltre, il partito di Erdogan non ha ottenuto i risultati positivi che otteneva in passato a Istanbul.> La partita insomma si gioca nella capitale Ankara e nella metropoli sul Bosforo in un Paese in cui la costa egea e mediterranea è da sempre in mano all'opposizione, che però non riesce a contrastare lo strapotere del partito di Erdogan in Anatolia Centrale e sulla costa del Mar Nero. In bilico l'est a maggioranza curda, dove il favorito è il partito filo curdo Hdp, insidiato tuttavia dall'Akp, che ha visto il proprio consenso crescere enormemente tra i curdi nel corso degli anni. Da vedere cosa accadrà nelle aree colpite dal devastante terremoto del 6 febbraio 2023. Il partito di Erdogan è forte di una maggioranza schiacciante in molte delle 11 province colpite dal sisma;> un consenso confermato nelle presidenziali dello scorso maggio, avvenute a tre mesi dal sisma. Tuttavia importanti centri come Antakya e Iskenderun sono governate da sindaci del partito di opposizione Chp e sono finiti nel mirino per la gestione del sisma. Amministrazioni su cui è calato anche l'anatema di Erdogan che ha invitato la popolazione a votare per il proprio partito \"per facilitare la ricostruzione e la ripresa post sisma\". A rendere la corsa a Istanbul ancora più interessante è l'annuncio fatto da Erdogan poche settimane fa, con cui ha definito il proprio percorso politico alla fine. Sebbene in politica tutto può succedere, in base alla costituzione vigente il leader turco, che ora ha 70 anni, non avrebbe la possibilità di correre per la presidenza nel 2028> e la dichiarazione di Erdogan lascia spazio a enormi punti interrogativi sul futuro di un Paese di 85 milioni di abitanti, centrale per le sorti di Nato ed Europa. Se a Istanbul vince Kurum quelli che avremo di fronte saranno anni in cui l'Akp di Erdogan rafforzerà ulteriormente la propria posizione, il controllo su politica economica e società e punterà a preparare il terreno a un futuro comunque firmato Akp. Al contrario una riconferma di Imamoglu a sindaco di Istanbul spianerebbe la strada a un sistema più pluralistico, ma anche a una candidatura alla presidenza che a questo punto diverrebbe inevitabile. Se Imamoglu dovesse vincere oggi nel 2028 la corsa alla presidenza partirebbe da uno scenario completamente diverso rispetto allo scorso anno: >questa volta infatti sarebbe l'Akp del presidente a dover cercare un candidato, mentre Imamoglu sarebbe il leader naturale dell'opposizione. Uno scenario che vedrebbe l'attuale sindaco di Istanbul stra-favorito a guidare il Paese, soprattutto se Erdogan dovesse davvero dar seguito alle proprie parole e ritirarsi dalla scena politica.&nbsp;",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1711951219.2385087,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "Elections in Turkey, 61 million at the polls, the fate of Istanbul and the future of the country",
+        "en_content": "AGI -&nbsp; There are more than 61 million Turkish voters called to the polls for the administrative elections > today throughout the country. The voting operations in the 81 provinces ended shortly ago. In some eastern provinces the seats were closed an hour earlier, after opening an hour ahead of the west of the country, as decided at the Authority for the elections in view of the hours of light in a vast country like the&nbsp;Turkey. Disposal and counting operations will begin immediately>.&nbsp;\n&nbsp;\nToday's is a crucial date especially for President Recep Tayyip Erdogan, decided to reconquer Istanbul, the most populous city of the&nbsp;Turchia&nbsp; lost by his party in the 2019 elections. \"It's time to resume work from where it was interrupted, put an end to this period of mud and dirt and put us back at the service of the population as we did for 30 years. The city returned to the problems of 1994, these were 5 years lost,\" said Erdogan in a rally that took place in Istanbul at the end of the campaign for its candidates. Erdogan in the last and a half months did not lessen energies on an electoral tour in support of the candidates of his party, Akp. The control of his party on Istanbul, a city with a quarter of the country's total population, was the nerve center of Turkish political life. \"Who governs Istanbul rules the &nbsp;Turkey,\" has been one of the favorite mantras of the Turkish leader for years, but has stopped repeating this sentence after the defeat of 2019, suffered by the Republican Party candidate Chp, Ekrem Imamoglu. And it is precisely the challenge between the Chp and the Akp to hold today's day in the balance, also because from the polls it does not seem that the candidate chosen by Erdogan has received a great success. Former Environment Minister Murat Kurum, the President's most loyal and one of the most prominent representatives of the second generation of the party, showed no charism or ability to conquer the public. Born in 1976 in the capital Ankara and father of 3 children, a characteristic appreciated by the Turkish president, he graduated in Construction Engineering. Kurum has climbed positions within the party and from 2018 to June 2023 he served as minister of the environment. It should however be pointed out that Kurum for years has been responsible for building renewal programs in the two largest cities of the &nbsp;Turchia;> programs aimed at replacing old buildings with houses built according to the anti-seism parameters foreseen after the 1999 earthquake. After the earthquake that devastated the south of the country on February 6, 2023, in fact, several scientists warned against the concrete and imminent risk of a sisma of rank greater than 7. Alarms that prompted Erdogan to speed up construction renewal programs and the choice of Kurum should also be understood in this sense. Will it be enough to defeat the mayor in charge Ekrem Imamoglu, > the man who 5 years ago inflicted on Erdogan the most violent battalion of his entire political career? Probably not. It is worth remembering what happened in 2019. After a first round in which Imamoglu imposed himself for a few thousand votes, in a city where the voters are 11.5 million, the Akp filed and returned to the ballot box. A decision badly digested by public opinion, which turned its back on the president's candidate, the little charismatic former prime minister Binali Yildirim and chose Imamoglu, whose victory in repetition was overwhelming (about 800 thousand votes more than the challenger). Imamoglu as 5 years ago is supported by the nationalists of Iyi parties, Kurum by the nationalists of Mhp. However, 5 years ago, Imamoglu's victory was the votes of the Kurds of the HP, but this time they have their own candidate.&nbsp;>\nImamoglu has still led a convincing campaign, it can count on a compact follow-up and charisma that from the stage allows him to establish a direct thread with those who listen to it. A two-and-a-half-year sentence, considered political by the majority of the public, has even strengthened its position with a large part of the population, which saw a political move in the judges' decision. In the last election rounds, the Erdogan party did not achieve the positive results it had achieved in the past in Istanbul.» In short, the game is played in the capital Ankara and in the metropolis on the Bosphorus in a country where the Aegean and Mediterranean coast has always been in the hands of the opposition, but it does not manage to counter the overflow of the Erdogan party in Central Anatolia and on the Black Sea coast. In the cross the east by Kurdish majority, where the favorite is the Kurdish thread party Hdp, insidiated however by the Akp, which saw its consent grow enormously among the Kurds over the years. To see what will happen in the areas affected by the devastating earthquake of 6 February 2023. The party of Erdogan is strong of a overwhelming majority in many of the 11 provinces affected by the earthquake; > a consensus confirmed in the presidential last May, which occurred three months after the earthquake. However important centers such as Antakya and Iskenderun are governed by mayors of the opposition party Chp and ended up in the sight for the management of the sisma. Administrations on which the anathema of Erdogan has also fallen, which has invited the population to vote for their party \"to facilitate the reconstruction and recovery post-sym\". To make the race in Istanbul even more interesting is the announcement made by Erdogan a few weeks ago, with which he defined his political path at the end. Although in politics everything can happen, according to the current constitution the Turkish leader, who is now 70 years old, would not have the opportunity to run for the presidency in 2028> and the statement of Erdogan leaves room for enormous questions on the future of a Country of 85 million inhabitants, central for the destiny of NATO and Europe. If Kurum wins in Istanbul, those we face will be years when the Akp of Erdogan will further strengthen its position, control over economic policy and society and will aim to prepare the ground for a future signed by Akp. On the contrary, a reconfirm of Imamoglu to the mayor of Istanbul would pave the way for a more pluralistic system, but also for a candidacy to the presidency that would become inevitable at this point. If Imamoglu had to win today in 2028 the race of the presidency would start from a completely different scenario than last year: > This time in fact it would be the President's Akp to have to look for a candidate, while Imamoglu would be the natural leader of the opposition. A scenario that would see the current mayor of Istanbul overwhelmed to lead the country, especially if Erdogan should really follow his own words and withdraw from the political scene.&nbsp;",
+        "concepts": [
+            {
+                "word": "Elections",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Turkey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "polls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fate",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Istanbul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "future",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "country",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "61 million",
+                "start_char": 21,
+                "end_char": 31,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 58,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "more than 61 million",
+                "start_char": 22,
+                "end_char": 42,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 43,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 113,
+                "end_char": 118,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "81",
+                "start_char": 172,
+                "end_char": 174,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "an hour earlier",
+                "start_char": 252,
+                "end_char": 267,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "opening an hour",
+                "start_char": 275,
+                "end_char": 290,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Authority",
+                "start_char": 343,
+                "end_char": 352,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the hours",
+                "start_char": 382,
+                "end_char": 391,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "immediately>.&nbsp",
+                "start_char": 485,
+                "end_char": 503,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Today",
+                "start_char": 512,
+                "end_char": 517,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Recep Tayyip Erdogan",
+                "start_char": 563,
+                "end_char": 583,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 606,
+                "end_char": 614,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2019",
+                "start_char": 690,
+                "end_char": 694,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "30 years",
+                "start_char": 868,
+                "end_char": 876,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1994",
+                "start_char": 915,
+                "end_char": 919,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "5 years",
+                "start_char": 932,
+                "end_char": 939,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 952,
+                "end_char": 959,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 990,
+                "end_char": 998,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1046,
+                "end_char": 1053,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last and a half months",
+                "start_char": 1057,
+                "end_char": 1083,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Akp",
+                "start_char": 1172,
+                "end_char": 1175,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 1205,
+                "end_char": 1213,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a quarter",
+                "start_char": 1227,
+                "end_char": 1236,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 1296,
+                "end_char": 1303,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 1333,
+                "end_char": 1341,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 1411,
+                "end_char": 1418,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "years",
+                "start_char": 1430,
+                "end_char": 1435,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2019",
+                "start_char": 1497,
+                "end_char": 1501,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Republican Party",
+                "start_char": 1515,
+                "end_char": 1535,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chp",
+                "start_char": 1546,
+                "end_char": 1549,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ekrem Imamoglu",
+                "start_char": 1551,
+                "end_char": 1565,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chp",
+                "start_char": 1613,
+                "end_char": 1616,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 1637,
+                "end_char": 1642,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1739,
+                "end_char": 1746,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Murat Kurum",
+                "start_char": 1805,
+                "end_char": 1816,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 1849,
+                "end_char": 1852,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "second",
+                "start_char": 1898,
+                "end_char": 1904,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "1976",
+                "start_char": 1990,
+                "end_char": 1994,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 2010,
+                "end_char": 2016,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 2031,
+                "end_char": 2032,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 2079,
+                "end_char": 2086,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Construction Engineering",
+                "start_char": 2114,
+                "end_char": 2138,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2018 to June 2023",
+                "start_char": 2194,
+                "end_char": 2211,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kurum",
+                "start_char": 2292,
+                "end_char": 2297,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "years",
+                "start_char": 2302,
+                "end_char": 2307,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 2366,
+                "end_char": 2369,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1999",
+                "start_char": 2526,
+                "end_char": 2530,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "February 6, 2023",
+                "start_char": 2608,
+                "end_char": 2624,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "7",
+                "start_char": 2732,
+                "end_char": 2733,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 2756,
+                "end_char": 2763,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kurum",
+                "start_char": 2824,
+                "end_char": 2829,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ekrem Imamoglu",
+                "start_char": 2919,
+                "end_char": 2933,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5 years ago",
+                "start_char": 2949,
+                "end_char": 2960,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 2974,
+                "end_char": 2981,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2019",
+                "start_char": 3096,
+                "end_char": 3100,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 3110,
+                "end_char": 3115,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 3131,
+                "end_char": 3139,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few thousand",
+                "start_char": 3160,
+                "end_char": 3174,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "11.5 million",
+                "start_char": 3213,
+                "end_char": 3225,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Akp",
+                "start_char": 3231,
+                "end_char": 3234,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Binali Yildirim",
+                "start_char": 3415,
+                "end_char": 3430,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 3441,
+                "end_char": 3449,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "about 800 thousand",
+                "start_char": 3497,
+                "end_char": 3515,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 3549,
+                "end_char": 3557,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5 years ago",
+                "start_char": 3561,
+                "end_char": 3572,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kurum",
+                "start_char": 3622,
+                "end_char": 3627,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5 years ago",
+                "start_char": 3665,
+                "end_char": 3676,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 3678,
+                "end_char": 3686,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kurds",
+                "start_char": 3718,
+                "end_char": 3723,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 3787,
+                "end_char": 3795,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 3973,
+                "end_char": 3976,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 4212,
+                "end_char": 4219,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 4294,
+                "end_char": 4302,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 4349,
+                "end_char": 4355,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Aegean",
+                "start_char": 4418,
+                "end_char": 4424,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mediterranean",
+                "start_char": 4429,
+                "end_char": 4442,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 4551,
+                "end_char": 4558,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Central Anatolia",
+                "start_char": 4568,
+                "end_char": 4584,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 4592,
+                "end_char": 4605,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 4638,
+                "end_char": 4645,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 4682,
+                "end_char": 4689,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Akp",
+                "start_char": 4734,
+                "end_char": 4737,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kurds",
+                "start_char": 4787,
+                "end_char": 4792,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the years",
+                "start_char": 4798,
+                "end_char": 4807,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "6 February 2023",
+                "start_char": 4888,
+                "end_char": 4903,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 4918,
+                "end_char": 4925,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "11",
+                "start_char": 4978,
+                "end_char": 4980,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "last May",
+                "start_char": 5063,
+                "end_char": 5071,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "three months",
+                "start_char": 5088,
+                "end_char": 5100,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Antakya",
+                "start_char": 5157,
+                "end_char": 5164,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Iskenderun",
+                "start_char": 5169,
+                "end_char": 5179,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chp",
+                "start_char": 5227,
+                "end_char": 5230,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 5331,
+                "end_char": 5338,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 5491,
+                "end_char": 5499,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 5550,
+                "end_char": 5557,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few weeks ago",
+                "start_char": 5558,
+                "end_char": 5573,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 5714,
+                "end_char": 5721,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "70 years old",
+                "start_char": 5741,
+                "end_char": 5753,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2028",
+                "start_char": 5815,
+                "end_char": 5819,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 5842,
+                "end_char": 5849,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "85 million",
+                "start_char": 5915,
+                "end_char": 5925,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "NATO",
+                "start_char": 5966,
+                "end_char": 5970,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 5975,
+                "end_char": 5981,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Kurum",
+                "start_char": 5986,
+                "end_char": 5991,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 6000,
+                "end_char": 6008,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "years",
+                "start_char": 6032,
+                "end_char": 6037,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Akp of Erdogan",
+                "start_char": 6043,
+                "end_char": 6061,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Akp",
+                "start_char": 6199,
+                "end_char": 6202,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 6236,
+                "end_char": 6244,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 6261,
+                "end_char": 6269,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 6410,
+                "end_char": 6418,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 6430,
+                "end_char": 6435,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2028",
+                "start_char": 6439,
+                "end_char": 6443,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "last year",
+                "start_char": 6525,
+                "end_char": 6534,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 6627,
+                "end_char": 6635,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 6730,
+                "end_char": 6738,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 6786,
+                "end_char": 6793,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "\"Due americani detenuti nelle carceri in Afghanistan\". E' mistero sulla loro identità",
+        "date_raw": "Sun, 31 Mar 2024 14:47:35 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-03-31/due-americani-arrestati-e-detenuti-in-carcere-in-afghanistan-25873731/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Per la prima volta i talebani hanno confermato che due cittadini Usa si trovano nelle carceri dell'Afghanistan. \"Non e' chiaro lo scopo per cui i due americani sono venuti in Afghanistan, ma qualunque sia lo scopo per cui sono venuti, devono obbedire alla nostra legge\", ha detto il portavoce Zabiullah Mujahid in un videomessaggio trasmesso dal canale TOLO News legato al governo talebano. Il portavoce ha assicurato che sono in corso colloqui su questo caso, ma non ha rivelato i nomi dei prigionieri, che sono stati arrestati per aver \"violato la legge dell'Afghanistan\". Oltre agli americani, ha detto ancora, un numero imprecisato di stranieri e' detenuto nel Paese a causa di violazioni delle regole del regime islamico. \"Chiunque si rechi in Afghanistan deve obbedire alle leggi del paese e se la legge viene infranta, dovra' sicuramente affrontare azioni legali\", ha aggiunto. Sebbene non esistano dettagli ufficiali sull'identita' o sulle presunte violazioni dei detenuti, i familiari e i media denunciano da piu' di un anno l'arresto dell'americano Ryan Corbett nell'agosto 2022 e da allora ne chiedono il rilascio. Corbett ha vissuto per piu' di un decennio in Afghanistan, con moglie e figli, gestendo la propria societa' di consulenza e come subappaltatore per diverse ONG, fino al ritiro delle truppe internazionali e alla caduta di Kabul nelle mani dei talebani, nell'agosto 2021. Corbett e' tornato da solo nel gennaio 2022 per rinnovare il visto d'affari e pagare i suoi lavoratori, secondo la sua famiglia. Come la maggior parte degli stati e delle organizzazioni internazionali, gli Usa non riconoscono il governo talebano ne' hanno una rappresentanza diplomatica nel paese dopo il ritiro delle sue truppe.",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1711951219.238525,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "Two Americans in prisons in Afghanistan. It's a mystery about their identity",
+        "en_content": "AGI -&nbsp; For the first time the Taliban confirmed that two US citizens are in the prisons of Afghanistan. \"It is not clear why the two Americans came to Afghanistan, but whatever the purpose they came for, they must obey our law,\" said spokesman Zabiullah Mujahid in a video message broadcast by the TOLO News channel linked to the Taliban government. The spokesman assured that talks are ongoing on this case, but did not reveal the names of prisoners, who were arrested for \"violate the law of Afghanistan\". Besides the Americans, he said again, an imprecise number of foreigners is held in the country because of violations of Islamic regime rules. \"Whoever goes to Afghanistan must obey the laws of the country and if the law is broken, he will surely face legal actions,\" he added. Although there are no official details about the identity or alleged violations of prisoners, family members and media have been denouncing American Ryan Corbett's arrest in August 2022 and have been calling for release since then. Corbett lived for more than a decade in Afghanistan, with his wife and children, managing his consulting company and as a subcontractor for several NGOs, until the withdrawal of international troops and the fall of Kabul in the hands of the Taliban in August 2021. Corbett returned alone in January 2022 to renew his business visa and pay his workers, according to his family. Like most states and international organizations, the U.S. do not recognize the Taliban government or have diplomatic representation in the country after the withdrawal of its troops.",
+        "concepts": [
+            {
+                "word": "Americans",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "prisons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Afghanistan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "mystery",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "identity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Two",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Americans",
+                "start_char": 4,
+                "end_char": 13,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Afghanistan",
+                "start_char": 28,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "first",
+                "start_char": 20,
+                "end_char": 25,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Taliban",
+                "start_char": 35,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 58,
+                "end_char": 61,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "US",
+                "start_char": 62,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Afghanistan",
+                "start_char": 96,
+                "end_char": 107,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 134,
+                "end_char": 137,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Americans",
+                "start_char": 138,
+                "end_char": 147,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Afghanistan",
+                "start_char": 156,
+                "end_char": 167,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zabiullah Mujahid",
+                "start_char": 249,
+                "end_char": 266,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "TOLO News",
+                "start_char": 303,
+                "end_char": 312,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Taliban",
+                "start_char": 335,
+                "end_char": 342,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Afghanistan",
+                "start_char": 499,
+                "end_char": 510,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Americans",
+                "start_char": 525,
+                "end_char": 534,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Islamic",
+                "start_char": 633,
+                "end_char": 640,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Afghanistan",
+                "start_char": 672,
+                "end_char": 683,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 930,
+                "end_char": 938,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ryan Corbett's",
+                "start_char": 939,
+                "end_char": 953,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "August 2022",
+                "start_char": 964,
+                "end_char": 975,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Corbett",
+                "start_char": 1022,
+                "end_char": 1029,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "more than a decade",
+                "start_char": 1040,
+                "end_char": 1058,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Afghanistan",
+                "start_char": 1062,
+                "end_char": 1073,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kabul",
+                "start_char": 1237,
+                "end_char": 1242,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Taliban",
+                "start_char": 1263,
+                "end_char": 1270,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "August 2021",
+                "start_char": 1274,
+                "end_char": 1285,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "January 2022",
+                "start_char": 1313,
+                "end_char": 1325,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 1453,
+                "end_char": 1457,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Taliban",
+                "start_char": 1479,
+                "end_char": 1486,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Netanyahu sarà operato di ernia stasera. L'interim a Levin",
+        "date_raw": "Sun, 31 Mar 2024 14:23:19 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-03-31/operazione-all-ernia-per-benjamin-netanyahu-25873581/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Il premier israeliano Benjamin Netanyahu sarà operato di&nbsp;ernia&nbsp;questa sera in anestesia generale. Lo ha reso noto il suo ufficio.&nbsp;L'ernia è stata diagnosticata al 74enne premier israeliano durante un controllo di routine effettuato ieri. In un comunicato, l'ufficio del primo ministro ha spiegato che durante l'assenza del capo del governo il vice primo ministro e ministro della Giustizia israeliano, Yariv Levin, svolgerà le sue funzioni. Nello scorso mese di luglio, Netanyahu era stato operato al cuore dove gli è stato impiantato un pacemaker dopo un malore. Proprio per stasera è previsto a Gerusalemme l'inizio di una protesta di quattro giorni contro il governo, alla quale parteciperanno per la prima volta anche le famiglie degli ostaggi rapiti da Hamas nella Striscia di Gaza, e che punta a ottenere dalla classe politica un accordo sulla liberazione dei prigionieri e la convocazione di nuove elezioni.",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1711951219.2385406,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-01 08:00:19",
+        "filename": "ner_conc_en_2024-04-01T08.00.18E1711958418.786746.json",
+        "en_title": "Netanyahu will be operated by hernia tonight. Interim at Levin",
+        "en_content": "AGI -&nbsp; Israeli premier Benjamin Netanyahu will be operated by &nbsp;ernia&nbsp; this evening in general anesthesia. He announced his office.&nbsp; Hernia was diagnosed with the 74-year-old Israeli premier during a routine check yesterday. In a statement, the Prime Minister's office explained that during the absence of the head of government the Israeli Deputy Prime Minister and Minister of Justice, Yariv Levin, will perform its duties. Last July, Netanyahu had been working at the heart where a pacemaker was implanted after a malore. Just for tonight, the beginning of a four-day protest against the government is scheduled to take place in Jerusalem, where for the first time the families of the hostages kidnapped by Hamas in the Gaza Strip, and which aims to obtain from the political class an agreement on the liberation of prisoners and the convocation of new elections.",
+        "concepts": [
+            {
+                "word": "Netanyahu",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "hernia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tonight",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Levin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Netanyahu",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "hernia",
+                "start_char": 30,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tonight",
+                "start_char": 37,
+                "end_char": 44,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 12,
+                "end_char": 19,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 28,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this evening",
+                "start_char": 85,
+                "end_char": 97,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "anesthesia",
+                "start_char": 109,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hernia",
+                "start_char": 152,
+                "end_char": 158,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "74-year-old",
+                "start_char": 182,
+                "end_char": 193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 194,
+                "end_char": 201,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 233,
+                "end_char": 242,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 352,
+                "end_char": 359,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Justice",
+                "start_char": 398,
+                "end_char": 405,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Yariv Levin",
+                "start_char": 407,
+                "end_char": 418,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Last July",
+                "start_char": 445,
+                "end_char": 454,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 456,
+                "end_char": 465,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "tonight",
+                "start_char": 553,
+                "end_char": 560,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "four-day",
+                "start_char": 581,
+                "end_char": 589,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jerusalem",
+                "start_char": 651,
+                "end_char": 660,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 676,
+                "end_char": 681,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 729,
+                "end_char": 734,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 738,
+                "end_char": 752,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]

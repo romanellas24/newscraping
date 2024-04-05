@@ -1,0 +1,939 @@
+[
+    {
+        "title": "Settimana della moda a Copenaghen vieta piume e pelli esotiche",
+        "date_raw": "Sun, 31 Mar 2024 13:14:17 +0200",
+        "date": "2024-03-31",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/03/31/settimana-della-moda-a-copenaghen-vieta-piume-e-pelli-esotiche_6fe8d263-48d7-4216-9c89-20a9085d7622.html",
+        "subtitle": "Plauso degli attivisti: 'Implicano crudeltà sugli animali'",
+        "content": " La settimana della moda di Copenaghen ha annunciato che bandirà le pelli e le piume esotiche dalle sue passerelle il prossimo anno.     Mentre il divieto segue iniziative simili da parte di settimane della moda più piccole, come Stoccolma e Melbourne, nonché di marchi come Burberry e Chanel, ci vorrà del tempo prima che le pelli esotiche, tra cui coccodrillo, serpente, alligatore e struzzo, nonché struzzo e piume di pavone - ricorda il Guardian - siano considerate crudeli allo stesso modo delle pellicce.     Soddisfazione degli ecologisti con Venetia La Manna, attivista di Fair Fashion che sottolinea come la decisione \"dimostri davvero che queste organizzazioni - settimane della moda, potenziali marchi - possono fare questi grandi passi se spinte\".     Anche le piume che le pelli esotiche implicano \"un'abominevole crudeltà\", sostengono gli attivisti ricordando che \"i serpenti vengono gonfiati con aria o acqua mentre sono ancora vivi, le lucertole vengono brutalmente decapitate mentre barre di metallo vengono inserite nelle spine dorsali dei coccodrilli e nel cervello degli alligatori per ucciderli\". \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1711893621.9489186,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 16:00:21",
+        "filename": "ner_conc_en_2024-03-31T16.00.21E1711900821.1955.json",
+        "en_title": "Fashion Week in Copenhagen prohibits feathers and exotic skins",
+        "en_content": "The Copenhagen Fashion Week announced that it will ban exotic skins and feathers from its catwalks next year. While the ban follows similar initiatives from smaller fashion weeks, such as Stockholm and Melbourne, as well as brands like Burberry and Chanel, it will take some time before exotic skins, including crocodile, snake, alligator and ostrich, as well as struzzo and peacock feathers - the Guardian recalls - are considered cruel in the same way as furs. Satisfaction of ecologists with Venetia La Manna, Fair Fashion activist who emphasizes that the decision \"really demonstrates that these organizations - weeks of fashion, potential brands - can take these great steps if pushed\". Even the feathers that exotic skins imply \"an abominable cruelty\", advocate activists recalling that \"the snakes are inflated with air or water while they are still alive, lizards are brutally beheaded while metal bars are inserted into the backbones of crocodiles and in the brain of alligators to kill them.\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Fashion",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Week",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Copenhagen",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "feathers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "skins",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Copenhagen",
+                "start_char": 16,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The Copenhagen Fashion Week",
+                "start_char": 0,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "next year",
+                "start_char": 99,
+                "end_char": 108,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "weeks",
+                "start_char": 173,
+                "end_char": 178,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Stockholm",
+                "start_char": 188,
+                "end_char": 197,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Melbourne",
+                "start_char": 202,
+                "end_char": 211,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Burberry",
+                "start_char": 236,
+                "end_char": 244,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chanel",
+                "start_char": 249,
+                "end_char": 255,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Guardian",
+                "start_char": 398,
+                "end_char": 406,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Venetia",
+                "start_char": 495,
+                "end_char": 502,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "La Manna",
+                "start_char": 503,
+                "end_char": 511,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fair Fashion",
+                "start_char": 513,
+                "end_char": 525,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Amministrative in Turchia, Erdogan vota a Istanbul",
+        "date_raw": "Sun, 31 Mar 2024 12:30:15 +0200",
+        "date": "2024-03-31",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/03/31/amministrative-in-turchia-erdogan-vota-a-istanbul_6b395db1-c963-467c-9c3e-bb6813fe44dc.html",
+        "subtitle": "Il presidente turco cerca di riprendere la città sul Bosforo",
+        "content": "\n                                                \n            Il presidente turco Recep Tayyip\nErdogan ha votato per le elezioni amministrative a Istanbul,\naccompagnato dalla moglie Emine, nel quartiere di Uskudar, sulla\nsponda asiatica della città sul Bosforo. Lo riporta Anadolu.\n                                    \n                                       \n\t\t\t\t   Durante queste amministrative, sostenendo il candidato\ndell'Akp Murat Kurum, Erdogan punta a riconquistate la più\ngrande città turca, che alle elezioni di cinque anni fa è stata\nvinta dal candidato del maggior partito di opposizione, Chp,\nEkrem Imamoglu. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1711893621.984886,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 16:00:21",
+        "filename": "ner_conc_en_2024-03-31T16.00.21E1711900821.1955.json",
+        "en_title": "Administration in Turkey, Erdogan votes in Istanbul",
+        "en_content": "Turkish President Recep Tayyip\nErdogan voted for administrative elections in Istanbul,\naccompanied by his wife Emine, in the Uskudar district, on\nAsian shore of the city on the Bosphorus. Anadolu brings it back.\n\n\nDuring these administrations, supporting the candidate\nof Akp Murat Kurum, Erdogan aims to regain the most\ngreat Turkish city, which in the elections five years ago was\nwon by the candidate of the major opposition party, Chp,\nEkrem Imamoglu.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Administration",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Turkey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Erdogan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Istanbul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 18,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 43,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Turkish",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Recep Tayyip",
+                "start_char": 18,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 31,
+                "end_char": 38,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 77,
+                "end_char": 85,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Emine",
+                "start_char": 111,
+                "end_char": 116,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Uskudar",
+                "start_char": 125,
+                "end_char": 132,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Asian",
+                "start_char": 146,
+                "end_char": 151,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bosphorus",
+                "start_char": 177,
+                "end_char": 186,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 289,
+                "end_char": 296,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 327,
+                "end_char": 334,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "five years ago",
+                "start_char": 364,
+                "end_char": 378,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chp",
+                "start_char": 435,
+                "end_char": 438,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ekrem Imamoglu",
+                "start_char": 440,
+                "end_char": 454,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Carlo con Camilla alla tradizionale messa di Pasqua a Windsor",
+        "date_raw": "Sun, 31 Mar 2024 15:53:19 +0200",
+        "date": "2024-03-31",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/03/31/carlo-con-camilla-alla-tradizionale-messa-di-pasqua-a-windsor_7c4a1589-af64-4863-adeb-0e230417babc.html",
+        "subtitle": "Il re è apparso sorridente, assenti William e Kate",
+        "content": " Il re Carlo III è arrivato nella Cappella di San Giorgio a Windsor per partecipare alla tradizionale cerimonia religiosa di Pasqua. Si tratta della principale apparizione pubblica da quando ha annunciato due mesi fa di avere un cancro.    Vestito con un soprabito scuro, il sovrano, 75 anni, è apparso sorridente, salutando e scherzando, mentre scendeva dall'auto insieme alla moglie, la regina Camilla.     A differenza degli altri membri della famiglia reale, William e Kate con i loro figli non sono presenti dopo l'annuncio della principessa del Galles di aver un tumore e di aver iniziato la chemioterapia preventiva.     Dopo l'annuncio della sua malattia Carlo ha annullato tutti gli impegni pubblici ufficiali, anche se continua a svolgere alcune funzioni ufficiali, come gli incontri con il premier.  \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1711893622.002446,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 16:00:22",
+        "filename": "ner_conc_en_2024-03-31T16.00.21E1711900821.1955.json",
+        "en_title": "Charles with Camilla at the traditional Easter Mass in Windsor",
+        "en_content": "King Charles III arrived in the Chapel of St George in Windsor to attend the traditional Easter religious ceremony. It is the main public appearance since he announced two months ago to have cancer. Dressed with a dark coat, the ruler, 75 years old, appeared smiling, greeting and joking, as he descended from the car along with his wife, Queen Camilla. Unlike other members of the royal family, William and Kate with their children are not present after the announcement of the Princess of Wales to have a tumor and to have begun preventive chemotherapy. After the announcement of his illness Charles canceled all official public commitments, although he continues to perform some official functions, such as meetings with the premier.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Charles",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Camilla",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Easter",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Windsor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Camilla",
+                "start_char": 13,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Easter Mass",
+                "start_char": 40,
+                "end_char": 51,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Charles III",
+                "start_char": 5,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Chapel of St George",
+                "start_char": 28,
+                "end_char": 51,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Easter",
+                "start_char": 89,
+                "end_char": 95,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two months ago",
+                "start_char": 168,
+                "end_char": 182,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "75 years old",
+                "start_char": 236,
+                "end_char": 248,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Queen Camilla",
+                "start_char": 339,
+                "end_char": 352,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "William",
+                "start_char": 396,
+                "end_char": 403,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kate",
+                "start_char": 408,
+                "end_char": 412,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Charles",
+                "start_char": 594,
+                "end_char": 601,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "La presidente del Perù, 'contro di me un attacco sistematico'",
+        "date_raw": "Sun, 31 Mar 2024 14:55:13 +0200",
+        "date": "2024-03-31",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/31/la-presidente-del-peru-contro-di-me-un-attacco-sistematico_059d6023-21bf-48ab-ab87-43395a86e892.html",
+        "subtitle": "Boluarte: 'Le perquisizioni arbitrarie e sproporzionate'",
+        "content": "\n                                                \n            \"Non mi arrendo di fronte a questo\nattacco sistematico\" contro di me e contro \"la democrazia di\nquesto Paese\". La presidente peruviana, Dina Boluarte, al centro\ndi un'indagine preliminare per un presunto arricchimento\nillecito legato ad una collezione di orologi di lusso, in un\ndiscorso ufficiale, ha definito le perquisizioni presso la sua\nabitazione e al Palazzo del governo \"arbitrarie e\nsproporzionate\".\n                                    \n                                       \n\t\t\t\t   \"Rispetto l'indagine della procura, ma respingo il modo in\ncui è stata condotta, in modo discriminatorio e\nincostituzionale\", ha dichiarato Boluarte.\n                                    \n                                       \n\t\t\t\t   \"Basta con la creazione di cortine fumogene per cambiare il\nsenso delle notizie; basta col tentativo di creare un complotto\ncontro il Paese. Invito a difendere la democrazia, lo Stato di\ndiritto e la Costituzione\", ha affermato la presidente,\nribadendo il suo no a elezioni anticipate. \"Sono entrata nel\nPalazzo governo con le mani pulite e così ne uscirò nel 2026,\nnon sono né ladra né corrotta\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1711893622.079797,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 16:00:22",
+        "filename": "ner_conc_en_2024-03-31T16.00.21E1711900821.1955.json",
+        "en_title": "The president of Peru, 'against me a systematic attack'",
+        "en_content": "\"I do not surrender in front of this\nsystematic attack\" against me and against \"the democracy of\nThis country.\" Peruvian president, Dina Boluarte, in the centre\nof a preliminary investigation for an alleged enrichment\nillicit linked to a collection of luxury watches, in a\nofficial speech, he defined searches at his\ndwelling and the Government Palace \"arbitraries and\ndisproportionate.\"\n\n\n\"I respect the prosecutor's investigation, but I reject the way in\nwhich has been conducted in a discriminatory and\ninconstitutional,\" said Boluarte.\n\n\n\"Just with the creation of smokescreens to change the\nsense of news; Just trying to create a plot\nagainst the country. Invitation to defend democracy, the State of\nlaw and the Constitution,\" said the President,\nreiterated his no in early elections. \"I entered into\nGovernment building with clean hands and so I will go out in 2026,\nI am neither thief nor corrupt.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "president",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Peru",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "attack",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Peru",
+                "start_char": 17,
+                "end_char": 21,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Peruvian",
+                "start_char": 112,
+                "end_char": 120,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Dina Boluarte",
+                "start_char": 132,
+                "end_char": 145,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Government Palace",
+                "start_char": 330,
+                "end_char": 351,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Boluarte",
+                "start_char": 530,
+                "end_char": 538,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "State",
+                "start_char": 697,
+                "end_char": 702,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Constitution",
+                "start_char": 718,
+                "end_char": 730,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "2026",
+                "start_char": 868,
+                "end_char": 872,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Ex agente dei servizi austriaci arrestato,'vendeva dati all'Fsb'",
+        "date_raw": "Sat, 30 Mar 2024 17:25:26 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/03/30/ex-agente-dei-servizi-austriaci-arrestatovendeva-dati-allfsb_1ae65f53-766a-45c5-88e5-8493a098d3c2.html",
+        "subtitle": "Era collegato a un truffatore tedesco legato ai servizi russi",
+        "content": " Un ex ufficiale dell'intelligence austriaca è stato arrestato perché sospettato di aver venduto ai servizi segreti russi dell'Fsb dati degli smartphone di tre alti funzionari austriaci. Lo riferisce il quotidiano Der Standard.     Egisto Ott, che lavorava per l'Ufficio federale austriaco per la protezione della Costituzione e l'antiterrorismo, avrebbe consegnato i dati recuperati dagli smartphone all'Fsb nell'estate del 2022.     Ott, secondo la ricostruzione, sarebbe entrato in possesso dei cellulari di un capo di gabinetto del ministero degli Interni, del direttore della polizia federale e del direttore dell'ufficio di immigrazione. I tre dispositivi erano stati consegnati ai tecnici per riparare un danno.     I pubblici ministeri di Vienna ritengono che l'ex agente arrestato abbia utilizzato la sua posizione all'interno dei servizi per ottenere l'accesso alle informazioni riservate contenute nei telefoni e poi venderle a un collega dei servizi austriaci, che a sua volta lavorava per un cittadino tedesco legato agli 007 russi.     Il cittadino tedesco è Jan Marsalek, ex dirigente della compagnia di servizi tecnologici e finanziari Wirecard che era scomparso nel giugno 2020 insieme a diversi miliardi di dollari.     Un mese dopo, The Insider e Bellingcat erano riusciti a dimostrare che il truffatore era fuggito in Russia o in Bielorussia e aveva legami di lunga data con l'Fsb.     Quest'anno sempre The Insider, insieme con Der Spiegel, ha rivelato i dettagli su come Marsalek sia stato reclutato dai russi. Dopo aver collaborato attivamente con il gruppo di mercenari Wagner, aveva iniziato a trasmettere a Mosca i dati ricevuti dagli ufficiali dell'intelligence europea nel suo libro paga.     L'ex agente austriaco Ott è indagato da circa sette anni ed è accusato di diversi crimini. In sostanza la procura sospetta che abbia abusato della sua posizione di garante della tutela costituzionale per accedere e vendere dati sensibili. \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 39,
+        "placed": "Esteri",
+        "epoch": 1711893622.0942225,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 16:00:22",
+        "filename": "ner_conc_en_2024-03-31T16.00.21E1711900821.1955.json",
+        "en_title": "Former Austrian service officer arrested, he sold data to the FBI",
+        "en_content": "A former Austrian intelligence officer was arrested because he suspected of selling to the Russian intelligence services of the Fsb smartphone data from three high Austrian officials. The Der Standard newspaper reports it. Egisto Ott, who worked for the Austrian Federal Office for the Protection of the Constitution and Anti-Terrorism, would deliver the data recovered from smartphones to Fsb in the summer of 2022. Ott, according to the reconstruction, would have been in possession of the cell phones of a chief cabinet of the Interior Ministry, the Director of the Federal Police and the Director of the immigration office. The three devices had been delivered to technicians to repair damage. The prosecutors of Vienna believe that the former arrested officer used his position within the services to gain access to confidential information contained in the phones and then sell them to a colleague of Austrian services, who in turn worked for a German citizen tied to the Russian 007. The German citizen is Jan Marsalek, former manager of the company of technological and financial services Wirecard who had disappeared in June 2020 along with several billion dollars. A month later, The Insider and Bellingcat were able to prove that the scammer had fled to Russia or Belarus and had long-standing ties with the Fsb. This year the Insider, along with Der Spiegel, revealed details about how Marsalek was recruited by the Russians. After collaborating actively with the mercenary group Wagner, he began to transmit to Moscow the data received by the European intelligence officers in his payroll. The former Austrian agent Ott has been investigating for about seven years and is accused of several crimes. In essence, the prosecutor suspects that he has abused his position as a guarantor of constitutional protection to access and sell sensitive data.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "service",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "FBI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Austrian",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "FBI",
+                "start_char": 62,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Austrian",
+                "start_char": 9,
+                "end_char": 17,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 91,
+                "end_char": 98,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three",
+                "start_char": 153,
+                "end_char": 158,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Austrian",
+                "start_char": 164,
+                "end_char": 172,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Der Standard",
+                "start_char": 188,
+                "end_char": 200,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Egisto Ott",
+                "start_char": 223,
+                "end_char": 233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Austrian Federal Office for the Protection of the Constitution and Anti-Terrorism",
+                "start_char": 250,
+                "end_char": 335,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the summer of 2022",
+                "start_char": 397,
+                "end_char": 415,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Interior Ministry",
+                "start_char": 526,
+                "end_char": 547,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Federal Police",
+                "start_char": 565,
+                "end_char": 583,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 632,
+                "end_char": 637,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Vienna",
+                "start_char": 717,
+                "end_char": 723,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Austrian",
+                "start_char": 907,
+                "end_char": 915,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 951,
+                "end_char": 957,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 978,
+                "end_char": 985,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 995,
+                "end_char": 1001,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Jan Marsalek",
+                "start_char": 1013,
+                "end_char": 1025,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Wirecard",
+                "start_char": 1097,
+                "end_char": 1105,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "June 2020",
+                "start_char": 1129,
+                "end_char": 1138,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "several billion dollars",
+                "start_char": 1150,
+                "end_char": 1173,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "A month later",
+                "start_char": 1175,
+                "end_char": 1188,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The Insider and Bellingcat",
+                "start_char": 1190,
+                "end_char": 1216,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 1265,
+                "end_char": 1271,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Belarus",
+                "start_char": 1275,
+                "end_char": 1282,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "This year",
+                "start_char": 1324,
+                "end_char": 1333,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Der Spiegel",
+                "start_char": 1358,
+                "end_char": 1369,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marsalek",
+                "start_char": 1398,
+                "end_char": 1406,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russians",
+                "start_char": 1428,
+                "end_char": 1436,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Wagner",
+                "start_char": 1492,
+                "end_char": 1498,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 1524,
+                "end_char": 1530,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 1556,
+                "end_char": 1564,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Austrian",
+                "start_char": 1614,
+                "end_char": 1622,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ott",
+                "start_char": 1629,
+                "end_char": 1632,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "about seven years",
+                "start_char": 1660,
+                "end_char": 1677,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Settimana della moda a Copenaghen vieta piume e pelli esotiche",
+        "date_raw": "Sun, 31 Mar 2024 12:47:16 +0200",
+        "date": "2024-03-31",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/03/31/settimana-della-moda-a-copenaghen-vieta-piume-e-pelli-esotiche_2b42dba4-e7d0-4656-8b38-ad42cd8ae23f.html",
+        "subtitle": "Plauso degli attivisti: 'Implicano crudeltà sugli animali'",
+        "content": "\n                                                \n            La settimana della moda di Copenaghen\nha annunciato che bandirà le pelli e le piume esotiche dalle sue\npasserelle il prossimo anno.\n                                    \n                                       \n\t\t\t\t   Mentre il divieto segue iniziative simili da parte di\nsettimane della moda più piccole, come Stoccolma e Melbourne,\nnonché di marchi come Burberry e Chanel, ci vorrà del tempo\nprima che le pelli esotiche, tra cui coccodrillo, serpente,\nalligatore e struzzo, nonché struzzo e piume di pavone - ricorda\nil Guardian - siano considerate crudeli allo stesso modo delle\npellicce.\n                                    \n                                       \n\t\t\t\t  Soddisfazione degli ecologisti con Venetia La Manna, attivista\ndi Fair Fashion che sottolinea come la decisione \"dimostri\ndavvero che queste organizzazioni - settimane della moda,\npotenziali marchi - possono fare questi grandi passi se spinte\".\n                                    \n                                       \n\t\t\t\t   Anche le piume che le pelli esotiche implicano\n\"un'abominevole crudeltà\", sostengono gli attivisti ricordando\nche \"i serpenti vengono gonfiati con aria o acqua mentre sono\nancora vivi, le lucertole vengono brutalmente decapitate mentre\nbarre di metallo vengono inserite nelle spine dorsali dei\ncoccodrilli e nel cervello degli alligatori per ucciderli\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1711893622.1128333,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 16:00:22",
+        "filename": "ner_conc_en_2024-03-31T16.00.21E1711900821.1955.json",
+        "en_title": "Fashion Week in Copenhagen prohibits feathers and exotic skins",
+        "en_content": "Copenhagen Fashion Week\nhas announced that it will ban skins and exotic feathers from its\nnext year.\n\n\nWhile the ban follows similar initiatives by\nSmaller fashion weeks, such as Stockholm and Melbourne,\nas well as brands like Burberry and Chanel, it will take some time\nbefore exotic skins, including crocodile, snake,\nalligator and ostrich, as well as ostrich and peacock feathers - remember\nthe Guardian - are considered cruel in the same way as the\nfurs.\n\n\nEcologist satisfaction with Venetia La Manna, activist\nby Fair Fashion that emphasizes how the decision \"shows\nreally that these organizations - weeks of fashion,\npotential brands - can make these great steps if pushed\".\n\n\nEven the feathers that exotic skins involve\n\"an abominable cruelty\", support activists remembering\nthat \"the snakes are inflated with air or water while they are\nStill alive, lizards are brutally beheaded while\nmetal bars are inserted in the dorsal spines of\ncrocodiles and alligators' brains to kill them.\"\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Fashion",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Week",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Copenhagen",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "feathers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "skins",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Copenhagen",
+                "start_char": 16,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "next year",
+                "start_char": 90,
+                "end_char": 99,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Smaller",
+                "start_char": 148,
+                "end_char": 155,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "weeks",
+                "start_char": 164,
+                "end_char": 169,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Stockholm",
+                "start_char": 179,
+                "end_char": 188,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Melbourne",
+                "start_char": 193,
+                "end_char": 202,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Burberry",
+                "start_char": 227,
+                "end_char": 235,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chanel",
+                "start_char": 240,
+                "end_char": 246,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Guardian",
+                "start_char": 398,
+                "end_char": 406,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "La Manna",
+                "start_char": 497,
+                "end_char": 505,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fair Fashion",
+                "start_char": 519,
+                "end_char": 531,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    }
+]

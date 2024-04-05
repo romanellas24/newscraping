@@ -1,0 +1,766 @@
+[
+    {
+        "title": "Il Papa, pace per popoli stremati da guerra, fame, oppressione",
+        "date_raw": "Mon, 1 Apr 2024 13:28:26 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/il-papa-pace-per-popoli-stremati-da-guerra-fame-oppressione_b9ce8ab2-5560-44f5-a6f6-f6a2d54d467f.html",
+        "subtitle": "In 12mila al Regina Caeli in Piazza San Pietro",
+        "content": "\n                                                \n            \"Rinnovo a tutti gli\nauguri pasquali e ringrazio di cuore coloro che in diversi modi\nmi hanno inviato messaggi di vicinanza e di preghiera\". Lo ha\ndetto papa Francesco al Regina Caeli del Lunedì dell'Angelo.\n                                    \n                                       \n\t\t\t\t   \"A queste persone, famiglie, comunità giunga il dono  della\npace del Signore risorto - ha aggiunto il Pontefice -. E vorrei\nche questo dono della pace arrivasse là dove più ce n'è bisogno:\nalle popolazioni stremate dalla guerra, dalla fame, da ogni\nforma di oppressione\".\n                                    \n                                       \n\t\t\t\t   Secondo la Gendarmeria vaticana, erano circa 12 mila i fedeli\npresenti in piazza San Pietro per la recita del Regina Caeli, la\npreghiera mariana che nel tempo pasquale sostituisce l'Angelus.\n                                    \n                                       \n\t\t\t\tA riferire il dato la Sala stampa della Santa Sede. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Politica",
+        "epoch": 1712041223.0443592,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-02 09:00:23",
+        "filename": "ner_conc_en_2024-04-02T09.00.22E1712048422.241054.json",
+        "en_title": "The Pope, peace for war-stricken peoples, hunger, oppression",
+        "en_content": "\"I used to call all\nEaster greetings and I thank heart those who in different ways\nthey sent me messages of closeness and prayer.\" He did.\nPope Francis said to Queen Caeli on Monday of the Angel.\n\n\n\"To these people, families, communities come the gift of\npeace of the risen Lord - the Pontiff added -. And I wish\nthat this gift of peace came where there is no need:\nto the peoples strewed by war, by hunger, by every\nform of oppression.\"\n\n\nAccording to the Vatican Gendarmerie, there were about 12 thousand faithful\npresent in St. Peter's Square for the recitation of Queen Caeli, the\nMarian prayer that in Easter time replaces the Angelus.\n\n\nTo report the data the Press Office of the Holy See.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "peace",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "war",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "peoples",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hunger",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "oppression",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter",
+                "start_char": 20,
+                "end_char": 26,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Francis",
+                "start_char": 144,
+                "end_char": 151,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Queen Caeli",
+                "start_char": 160,
+                "end_char": 171,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Monday",
+                "start_char": 175,
+                "end_char": 181,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Angel",
+                "start_char": 189,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vatican Gendarmerie",
+                "start_char": 457,
+                "end_char": 476,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "about 12 thousand",
+                "start_char": 489,
+                "end_char": 506,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "St. Peter's",
+                "start_char": 527,
+                "end_char": 538,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Queen Caeli",
+                "start_char": 568,
+                "end_char": 579,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marian",
+                "start_char": 585,
+                "end_char": 591,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Easter",
+                "start_char": 607,
+                "end_char": 613,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Angelus",
+                "start_char": 632,
+                "end_char": 639,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the Press Office of the Holy See",
+                "start_char": 662,
+                "end_char": 694,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Ilaria Salis ringrazia Mattarella, 'sono molto contenta'",
+        "date_raw": "Mon, 1 Apr 2024 18:21:59 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/ilaria-salis-ringrazia-mattarella-sono-molto-contenta_7294bc9d-829c-4b4f-bb61-bab51d494f32.html",
+        "subtitle": "'Impressionata dalla rapidità della risposta in prima persona'",
+        "content": "Scrivere al presidente della Repubblica e ricevere come risposta in 24 ore  è stata la piacevole sorpresa di Pasqua per Ilaria Salis, al termine di una settimana tutt'altro che favorevole per la 39enne insegnante italiana in carcere da più di 13 mesi a Budapest con l'accusa di aver partecipato a due aggressioni nei confronti di alcuni militanti di estrema destra. \"Sono molto contenta, ringrazio davvero il presidente della Repubblica Sergio Mattarella. Mi ha molto impressionato che abbia telefonato lui in prima persona e che lo abbia fatto con questa rapidità. Lo ringrazio davvero tanto per il suo coinvolgimento\", ha detto Ilaria Salis, dopo che il padre Roberto le ha raccontato del dialogo con il capo dello Stato avvenuto sabato mattina, a sole 24 ore di distanza dalla pec che gli aveva inviato per chiedere un suo intervento dopo quanto successo a Budapest e Milano, dove due tribunali avevano giudicato in modo diametralmente opposto due imputati a processo con le stesse identiche accuse. Roberto Salis ha spiegato che \"Ilaria sta bene e, si sta riprendendo\" dopo l'udienza di giovedì scorso quando è stata respinta la richiesta di passare ai domiciliari avanzata dai suoi legali: \"E' stata una brutta botta - ha proseguito il padre della 39enne docente milanese - perché ci contava molto, ma ha un piglio abbastanza forte e non ho dubbi che sopporterà bene questa prova di resistenza\". Entro aprile si saprà il verdetto sull'appello presentato contro il rifiuto dei domiciliari, appello che \"se non altro verrà giudicato da un'altra corte e non sarà più nelle mani del giudice Jozsef Sós che ha un evidente pregiudizio grande come una casa nei confronti di Ilaria e che in Italia sarebbe già stato ricusato\", prosegue, ricordando che \"quanto successo giovedì con la sentenza per Ilaria e con quella per Gabriele Marchesi ha rafforzato l'impressione che c'è qualcosa che non va bene e che c'è chiaramente una disparità nell'attuazione dei principi costituzionali\". Di fatto i 4 imputati nel processo successivo alle aggressioni avvenute a Budapest nel cosiddetto Giorno dell'onore stanno tutti seguendo un percorso diverso: Ilaria Salis è in carcere a Budapest, Gabriele Marchesi è invece libero e ha come unica limitazione la permanenza in Italia, visto che in altri paesi potrebbe venir data esecuzione al mandato d'arresto europeo chiesto dall'Ungheria. Per quanto riguarda i due ragazzi tedeschi, accusati solo di far parte di un'associazione criminale chiamata giornalisticamente Hammerbande e non di lesioni, Tobias Edelhoff è già stato condannato a 3 anni dopo che si è dichiarato colpevole con la speranza di venir espulso ma invece è stato di nuovo rinchiuso in cella in Ungheria, mentre la sua fidanzata Anna Christina Mehwald è indagata a piede libero e può seguire il processo in videocollegamento dalla Germania.\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Politica",
+        "epoch": 1712041223.0641932,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-02 09:00:23",
+        "filename": "ner_conc_en_2024-04-02T09.00.22E1712048422.241054.json",
+        "en_title": "Ilaria Salis thanks Mattarella, 'I'm very happy'",
+        "en_content": "Writing to the President of the Republic and receiving as an answer in 24 hours was the pleasant Easter surprise for Ilaria Salis, at the end of a week far from favorable for the 39-year-old Italian teacher in prison for more than 13 months in Budapest on the charge of having participated in two assaults against some militants of extreme right. \"I am very happy, I really thank the President of the Republic Sergio Mattarella. I was very impressed that he called in the first person and did so quickly. I thank him so much for his involvement,\" said Ilaria Salis, after his father Roberto told her about the dialogue with the head of the state on Saturday morning, only 24 hours away from the pect he sent him to ask for his intervention after what happened in Budapest and Milan, where two courts had diametrically judged two defendants at trial with the same identical accusations. Roberto Salis explained that \"Ilaria is fine and, is recovering\" after the hearing last Thursday when the request to pass to the domiciles advanced by his lawyers was rejected: \"It was a bad bang - he continued the father of the 39-year-old Milanese teacher - because it counted a lot, but it has a strong enough hair and I have no doubt that it will bear well this proof of resistance\". By April the verdict on the appeal against the refusal of the domiciles will be known, appeal that \"if nothing else will be judged by another court and will no longer be in the hands of Judge Jozsef Sós who has a clear prejudice as a house towards Ilaria and that in Italy it would already be rejected\", continues, recalling that \"what happened Thursday with the judgment for Ilaria and with that for Gabriele Marchesi has strengthened well\". As a matter of fact, the 4 defendants in the process following the attacks in Budapest on the so-called Day of Honor are all following a different path: Ilaria Salis is in prison in Budapest, Gabriele Marchesi is free and has as its sole limitation the stay in Italy, since in other countries it could be given execution to the European arrest warrant requested by Hungary. As for the two German boys, accused only of being part of a criminal association called Hammerbande journalistically and not of lesions, Tobias Edelhoff was already sentenced to 3 years after he pleaded guilty with the hope of being expelled but instead was again locked up in cell in Hungary, while his fiancée Anna Christina Mehwald is investigated free of charge and can follow the process in video connection.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Ilaria",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "thanks",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "Mattarella",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ilaria Salis",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 20,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "24 hours",
+                "start_char": 71,
+                "end_char": 79,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Easter",
+                "start_char": 97,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 117,
+                "end_char": 129,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the end of a week",
+                "start_char": 134,
+                "end_char": 151,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "39-year-old",
+                "start_char": 179,
+                "end_char": 190,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 191,
+                "end_char": 198,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "more than 13 months",
+                "start_char": 221,
+                "end_char": 240,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 244,
+                "end_char": 252,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 293,
+                "end_char": 296,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Republic Sergio Mattarella",
+                "start_char": 397,
+                "end_char": 427,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 472,
+                "end_char": 477,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 552,
+                "end_char": 564,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Roberto",
+                "start_char": 583,
+                "end_char": 590,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 649,
+                "end_char": 657,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "only 24 hours",
+                "start_char": 667,
+                "end_char": 680,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 763,
+                "end_char": 771,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Milan",
+                "start_char": 776,
+                "end_char": 781,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 789,
+                "end_char": 792,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 825,
+                "end_char": 828,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Roberto Salis",
+                "start_char": 886,
+                "end_char": 899,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 916,
+                "end_char": 922,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "last Thursday",
+                "start_char": 969,
+                "end_char": 982,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "39-year-old",
+                "start_char": 1115,
+                "end_char": 1126,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Milanese",
+                "start_char": 1127,
+                "end_char": 1135,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "April",
+                "start_char": 1277,
+                "end_char": 1282,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jozsef Sós",
+                "start_char": 1466,
+                "end_char": 1476,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 1522,
+                "end_char": 1528,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1541,
+                "end_char": 1546,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 1619,
+                "end_char": 1627,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 1650,
+                "end_char": 1656,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gabriele Marchesi",
+                "start_char": 1675,
+                "end_char": 1692,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "4",
+                "start_char": 1742,
+                "end_char": 1743,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 1795,
+                "end_char": 1803,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 1870,
+                "end_char": 1882,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 1899,
+                "end_char": 1907,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gabriele Marchesi",
+                "start_char": 1909,
+                "end_char": 1926,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1978,
+                "end_char": 1983,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 2045,
+                "end_char": 2053,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 2082,
+                "end_char": 2089,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 2102,
+                "end_char": 2105,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "German",
+                "start_char": 2106,
+                "end_char": 2112,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hammerbande",
+                "start_char": 2179,
+                "end_char": 2190,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tobias Edelhoff",
+                "start_char": 2228,
+                "end_char": 2243,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "3 years",
+                "start_char": 2269,
+                "end_char": 2276,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 2376,
+                "end_char": 2383,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Anna Christina Mehwald",
+                "start_char": 2403,
+                "end_char": 2425,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Il Papa, pace per popoli stremati da guerra, fame, oppressione",
+        "date_raw": "Mon, 1 Apr 2024 16:20:40 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/il-papa-pace-per-popoli-stremati-da-guerra-fame-oppressione_1063f07d-65fe-4fec-a05c-876ab18d8682.html",
+        "subtitle": "Ringrazia per gli auguri e per i messaggi di vicinanza",
+        "content": "\"Rinnovo a tutti gli auguri pasquali e ringrazio di cuore coloro che in diversi modi mi hanno inviato messaggi di vicinanza e di preghiera\". Lo ha detto papa Francesco al Regina Caeli del Lunedì dell'Angelo. \"A queste persone, famiglie, comunità giunga il dono della pace del Signore risorto - ha aggiunto il Pontefice -. E vorrei che questo dono della pace arrivasse là dove più ce n'è bisogno: alle popolazioni stremate dalla guerra, dalla fame, da ogni forma di oppressione\".  \"Condividere la gioia è un'esperienza meravigliosa, che impariamo fin da piccoli: pensiamo a un ragazzo che prende un bel voto a scuola e non vede l'ora di mostrarlo ai genitori, o a un giovane che raggiunge i primi successi sportivi, o a una famiglia in cui nasce un bambino. Proviamo a ricordare, ciascuno di noi, un momento tanto felice che era persino difficile esprimerlo a parole, ma che abbiamo desiderato raccontare subito a tutti!\". Lo ha detto papa Francesco al Regina Caeli - la preghiera mariana che nel tempo pasquale sostituisce l'Angelus - commentando la gioia delle donne che furono prime testimoni della risurrezione di Gesù.\"Le donne, il mattino di Pasqua, vivono quest'esperienza, ma in un modo molto più grande. Perché? Perché la risurrezione di Gesù non è solo una notizia stupenda o il lieto fine di una storia, ma qualcosa che cambia la nostra vita completamente e per sempre! È la vittoria della vita sulla morte, della speranza sullo sconforto\", ha osservato. Secondo il Pontefice, \"la gioia della Risurrezione non è qualcosa di lontano. È vicinissima, è nostra, perché ci è stata donata nel giorno del Battesimo\". \"Non rinunciamo alla gioia della Pasqua!\", ha aggiunto, e \"la gioia, quando si condivide, aumenta\".  \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Politica",
+        "epoch": 1712041223.070016,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-02 09:00:23",
+        "filename": "ner_conc_en_2024-04-02T09.00.22E1712048422.241054.json",
+        "en_title": "The Pope, peace for war-stricken peoples, hunger, oppression",
+        "en_content": "\"I thank all the Easter greetings and I cordially thank those who sent me messages of closeness and prayer in different ways.\" Pope Francis told Regina Caeli on Monday of the Angel. \"To these people, families, communities come the gift of peace of the risen Lord - the Pontiff added -. And I would like this gift of peace to come where it is most needed: to the peoples who are soured by war, hunger and all forms of oppression.\" \"To share joy is a wonderful experience, which we learn from children: We think of a boy who takes a good grade at school and looks forward to showing it to his parents, or a young man who reaches the first sports successes, or a family where a child is born. We try to remember, each of us, a moment so happy that it was even difficult to express it in words, but that we wanted to tell everyone immediately!\" Pope Francis said this to Queen Caeli - the Marian prayer that in Easter time replaces the Angelus - commenting on the joy of women who were first witnesses of the resurrection of Jesus.\" Women, on Easter morning, live this experience, but in a much greater way. Why? Because the resurrection of Jesus is not only a wonderful news or the happy end of a story, but something that changes our life completely and forever! It is the victory of life on death, of hope on defeat,\" he observed. According to the Pontiff, \"the joy of resurrection is not something far away. It is very close, it is ours, because it was given to us on the day of Baptism\". \"We do not give up the joy of Easter!\", he added, and \"the joy, when we share, increases\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "peace",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "war",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "peoples",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hunger",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "oppression",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 132,
+                "end_char": 139,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Monday",
+                "start_char": 161,
+                "end_char": 167,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Angel",
+                "start_char": 175,
+                "end_char": 180,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 631,
+                "end_char": 636,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 846,
+                "end_char": 853,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Queen Caeli",
+                "start_char": 867,
+                "end_char": 878,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marian",
+                "start_char": 885,
+                "end_char": 891,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Easter",
+                "start_char": 907,
+                "end_char": 913,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "first",
+                "start_char": 982,
+                "end_char": 987,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 1021,
+                "end_char": 1026,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter morning",
+                "start_char": 1039,
+                "end_char": 1053,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 1137,
+                "end_char": 1142,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the day",
+                "start_char": 1468,
+                "end_char": 1475,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Easter",
+                "start_char": 1519,
+                "end_char": 1525,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ]
+    },
+    {
+        "title": "Pd, 'Santanchè si è dimessa'. Ma è un pesce d'aprile sui social",
+        "date_raw": "Mon, 1 Apr 2024 13:52:38 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/pd-santanche-si-e-dimessa.-ma-e-un-pesce-daprile-sui-social_73b1c7dc-2954-443f-8b35-b260b5de1e49.html",
+        "subtitle": "Dem, ogni giorno in più da ministra è un'offesa alle istituzioni",
+        "content": "\n                                                \n            Sui social del Partito Democratico\nuna card con la foto della ministra del Turismo in bianco e nero\ne la frase \"Santanchè si è dimessa\", seguita da un asterisco.\n                                    \n                                       \n\t\t\t\tNel testo che accompagna la foto viene ripreso l'asterisco, con\nla spiegazione dello scherzo firmato Pd: \"pesce d'aprile,\npurtroppo\". \"Ma non ci arrendiamo, - si aggiunge - ogni giorno\nin più da ministra è un'offesa alle istituzioni del Paese\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1712041223.1063695,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-02 09:00:23",
+        "filename": "ner_conc_en_2024-04-02T09.00.22E1712048422.241054.json",
+        "en_title": "Pd, 'Santanche resigned'. But it's an April fish on social media",
+        "en_content": "Social on the Democratic Party\na card with photo of the black and white Tourism Minister\nand the phrase \"Santanche has resigned\", followed by an asterisk.\n\n\nIn the text that accompanies the photo is taken the asterisk, with\nthe explanation of the joke signed Pd: \"April fish,\nUnfortunately.\" \"But we do not give up, - it adds - every day\nIn addition, it is an offense to the institutions of the country.\"\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pd",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Santanche",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "April",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fish",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "media",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Santanche",
+                "start_char": 5,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "April",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Democratic Party",
+                "start_char": 10,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Santanche",
+                "start_char": 105,
+                "end_char": 114,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "April",
+                "start_char": 264,
+                "end_char": 269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    }
+]

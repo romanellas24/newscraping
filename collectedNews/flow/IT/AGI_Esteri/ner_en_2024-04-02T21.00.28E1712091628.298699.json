@@ -1,0 +1,3349 @@
+[
+    {
+        "title": "Riparte il dialogo tra Usa e Cina, Blinken e Yellen attesi a Pechino",
+        "date_raw": "Tue, 02 Apr 2024 18:44:40 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/telefonata-xi-biden-chip-25897920/",
+        "subtitle": "",
+        "content": "AGI - Washington e Pechino tornano a parlarsi. Il leader cinese, Xi Jinping>, e il presidente degli Stati Uniti, Joe Biden>, hanno avuto una conversazione telefonica per riavviare il dialogo e cercare di stabilizzare le relazioni dopo. Uno scambio al quale faranno seguito una visita a Pechino \"nei prossimi giorni\" del segretario al Tesoro, Janet Yellen, e un'altra, \"nelle prossime settimane\" del segretario di Stato, Antony Blinken, ha rivelato una fonte dell'amministrazione americana che ha sottolineato la necessità di far ripartire i contatti per \"gestire le tensioni\" tra le due superpotenze. \n&nbsp; \n\"I due capi di Stato hanno avuto un sincero e approfondito scambio di opinioni sulle relazioni Cina-USA e sulle questioni di interesse comune per le due parti\", afferma l'emittente statale di Pechino CCTV. Il comunicato della Casa Bianca, da parte sua, ha sottolineato che il presidente degli Stati Uniti esortato il suo omologo cinese a mantenere la calma intorno a Taiwan, mentre la democrazia autogovernata rivendicata da Pechino si prepara all'insediamento del neoeletto presidente Lai Ching-te in maggio. Biden ha \"sottolineato l'importanza di mantenere la pace e la stabilità attraverso lo Stretto di Taiwan e lo stato di diritto e la libertà di navigazione nel Mar Cinese Meridionale\". \n&nbsp; \nBiden ha poi respinto, aggiunge la Casa Bianca, l'invito di Xi a revocare un ampio divieto di esportazione di chip avanzati. Il presidente americano, quindi,&nbsp;\"ha sottolineato che gli Stati Uniti continueranno a intraprendere le azioni necessarie per impedire che le tecnologie avanzate statunitensi vengano utilizzate per minare la nostra sicurezza nazionale, senza limitare indebitamente il commercio e gli investimenti\". \n&nbsp; \nXi ha replicato che la Cina non resterà \"a braccia incrociate\" se Washington continuerà a reprimere \"lo sviluppo dell'alta tecnologia della Cina\". A quanto riferisce l'agenzia Xinhua, il leader cinese ha affermato che \"gli Stati Uniti hanno lanciato una serie incessante di misure miranti a reprimere l'economia, il commercio, la scienza e la tecnologia della Cina, e la lista delle sanzioni contro le imprese cinesi s'allunga sempre più.&nbsp;",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1712084428.7076857,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "The dialogue between the US and China, Blinken and Yellen expected in Beijing",
+        "en_content": "AGI - Washington and Beijing return to talk. Chinese leader, Xi Jinping>, and U.S. President, Joe Biden>, had a telephone conversation to restart the dialogue and try to stabilize relations later. An exchange to which they will follow a visit to Beijing \"in the coming days\" of the Secretary of the Treasury, Janet Yellen, and another, \"in the coming weeks\" of the Secretary of State, Antony Blinken, has revealed a source of the American administration that has emphasized the need to restart contacts to \"manage tensions\" between the two superpowers.\n&nbsp;\n\"The two heads of state have had a sincere and thorough exchange of views on China-USA relations and on issues of common interest to both parties,\" says Beijing CCTV. The White House's statement, for its part, underlined that the President of the United States urged his Chinese counterpart to keep calm around Taiwan, while the self-governed democracy claimed by Beijing is preparing for the settlement of the newly elected President Lai Ching-te in May. Biden \"underlined the importance of maintaining peace and stability through the Taiwan Strait and the rule of law and freedom of navigation in the South China Sea\".\n&nbsp;\nBiden then rejected, adds the White House, Xi's invitation to revoke a wide ban on exporting advanced chips. The American president, then, &nbsp; \" stressed that the United States will continue to take the necessary steps to prevent US advanced technologies from being used to undermine our national security, without unduly limiting trade and investment.\"\n&nbsp;\nXi replied that China will not remain \"crossed arms\" if Washington will continue to repress \"the development of China's high technology\". As the agency Xinhua reports, the Chinese leader said that \"the United States has launched a ceaseless series of measures aimed at repressing China's economy, commerce, science and technology, and the list of sanctions against Chinese enterprises is growing.&nbsp;",
+        "concepts": [
+            {
+                "word": "dialogue",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "China",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blinken",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Yellen",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Beijing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "US",
+                "start_char": 25,
+                "end_char": 27,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 32,
+                "end_char": 37,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Blinken",
+                "start_char": 39,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yellen",
+                "start_char": 51,
+                "end_char": 57,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 70,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Washington",
+                "start_char": 6,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 21,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 45,
+                "end_char": 52,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Xi Jinping",
+                "start_char": 61,
+                "end_char": 71,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 78,
+                "end_char": 82,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Joe Biden",
+                "start_char": 94,
+                "end_char": 103,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 246,
+                "end_char": 253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the coming days",
+                "start_char": 258,
+                "end_char": 273,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Treasury",
+                "start_char": 299,
+                "end_char": 307,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Janet Yellen",
+                "start_char": 309,
+                "end_char": 321,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the coming weeks",
+                "start_char": 340,
+                "end_char": 356,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "State",
+                "start_char": 378,
+                "end_char": 383,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antony Blinken",
+                "start_char": 385,
+                "end_char": 399,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "American",
+                "start_char": 430,
+                "end_char": 438,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "two",
+                "start_char": 536,
+                "end_char": 539,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 565,
+                "end_char": 568,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "China-USA",
+                "start_char": 637,
+                "end_char": 646,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Beijing CCTV",
+                "start_char": 713,
+                "end_char": 725,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The White House's",
+                "start_char": 727,
+                "end_char": 744,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United States",
+                "start_char": 803,
+                "end_char": 820,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 831,
+                "end_char": 838,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Taiwan",
+                "start_char": 871,
+                "end_char": 877,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 924,
+                "end_char": 931,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lai Ching-te",
+                "start_char": 995,
+                "end_char": 1007,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "May",
+                "start_char": 1011,
+                "end_char": 1014,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Biden",
+                "start_char": 1016,
+                "end_char": 1021,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Taiwan Strait",
+                "start_char": 1092,
+                "end_char": 1109,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the South China Sea",
+                "start_char": 1159,
+                "end_char": 1178,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Biden",
+                "start_char": 1188,
+                "end_char": 1193,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the White House",
+                "start_char": 1214,
+                "end_char": 1229,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Xi",
+                "start_char": 1231,
+                "end_char": 1233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "American",
+                "start_char": 1301,
+                "end_char": 1309,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the United States",
+                "start_char": 1350,
+                "end_char": 1367,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 1421,
+                "end_char": 1423,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Xi",
+                "start_char": 1552,
+                "end_char": 1554,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "China",
+                "start_char": 1568,
+                "end_char": 1573,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Washington",
+                "start_char": 1608,
+                "end_char": 1618,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 1664,
+                "end_char": 1669,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Xinhua",
+                "start_char": 1704,
+                "end_char": 1710,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1724,
+                "end_char": 1731,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the United States",
+                "start_char": 1750,
+                "end_char": 1767,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 1832,
+                "end_char": 1837,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1917,
+                "end_char": 1924,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "La Casa Bianca \"indignata\" per la morte dei sette operatori umanitari ",
+        "date_raw": "Tue, 02 Apr 2024 18:42:49 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/morte-operatori-umanitari-gaza-biden-indignato-25898248/",
+        "subtitle": "",
+        "content": "AGI - La Casa Bianca si è detta \"indignata\" per l'uccisione dei sette operatori umanitari a Gaza, colpiti per errore dalle forze armate israeliane. Il presidente Joe Biden si è intrattenuto con il fondatore dell'ong WCK (World Central Kitchen), lo spagnolo Josè Andres, cui appartenevano le vittime. La portavoce della Casa Bianca, Karine Jean Pierre, ha riferito che il presidente ha \"il cuore infranto\" per l'accaduto e che riaffermerà presso Israele la necessita' che \"gli operatori umanitari siano protetti\".&nbsp; \n&nbsp; \nDal canto suo, il ministero degli Esteri del Regno Unito ha convocato l'ambasciatore israeliano a Londra: dei sette operatori uccisi tre erano britannici.&nbsp;\"Ho richiesto un'indagine rapida e trasparente, condivisa con la comunità internazionale, e la piena responsabilità\", ha dichiarato il sottosegretario agli Esteri Andrew Mitchell in una nota dopo l'incontro con l'ambasciatore israeliano a Londra.&nbsp; \n&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp; \n<div></div> \n&nbsp;",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1712084428.7077217,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "The White House \"indignated\" for the death of seven humanitarian workers",
+        "en_content": "AGI - The White House has been called \"indignated\" for the killing of seven humanitarian workers in Gaza, who were mistakenly affected by the Israeli armed forces. President Joe Biden entertained himself with the founder of the World Central Kitchen, the Spanish Josè Andres, who belonged to the victims. The White House spokesman, Karine Jean Pierre, reported that the president has \"the broken heart\" for the event and that he will reaffirm with Israel the need for \"humanitarian operators to be protected\". &nbsp;\n&nbsp;\nFor his part, the United Kingdom Foreign Ministry convened the Israeli ambassador to London: of the seven operators killed three were British.&nbsp;\"I requested a rapid and transparent investigation, shared with the international community, and full responsibility,\" said Undersecretary of Foreign Affairs Andrew Mitchell in a note after the meeting with the Israeli ambassador in London.&nbsp;\n&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;\n<div </div\n&nbsp;",
+        "concepts": [
+            {
+                "word": "White",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "workers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The White House",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "seven",
+                "start_char": 46,
+                "end_char": 51,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The White House",
+                "start_char": 6,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "seven",
+                "start_char": 70,
+                "end_char": 75,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 100,
+                "end_char": 104,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 142,
+                "end_char": 149,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Joe Biden",
+                "start_char": 174,
+                "end_char": 183,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the World Central Kitchen",
+                "start_char": 224,
+                "end_char": 249,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Spanish",
+                "start_char": 255,
+                "end_char": 262,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Josè Andres",
+                "start_char": 263,
+                "end_char": 274,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "White House",
+                "start_char": 309,
+                "end_char": 320,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Karine Jean Pierre",
+                "start_char": 332,
+                "end_char": 350,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 448,
+                "end_char": 454,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United Kingdom Foreign Ministry",
+                "start_char": 538,
+                "end_char": 573,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 587,
+                "end_char": 594,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "London",
+                "start_char": 609,
+                "end_char": 615,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "seven",
+                "start_char": 624,
+                "end_char": 629,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three",
+                "start_char": 647,
+                "end_char": 652,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Andrew Mitchell",
+                "start_char": 830,
+                "end_char": 845,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 883,
+                "end_char": 890,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Il presidente del Botswana ha minacciato di trasferire 20 mila elefanti in Germania",
+        "date_raw": "Tue, 02 Apr 2024 17:21:28 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/botswana-vuole-mandare-elefanti-in-germania-25897314/",
+        "subtitle": "",
+        "content": "AGI - Il presidente del Botswana ha minacciato di trasferire fino a 20.000 elefanti in Germania, irritato dalle critiche di Berlino alla caccia ai pachidermi e all'esportazione di trofei del suo Paese, che a suo dire mirano a regolare il numero degli animali. I tedeschi devono \"convivere con gli animali che cercano di imporci\", ha dichiarato il leader del Botswana, Mokgweetsi Masisi>, nei commenti al quotidiano tedesco Bild pubblicati oggi online. \"Non è uno scherzo\", ha aggiunto a proposito della sua offerta di trasferire 20.000 pachidermi nel Paese nordeuropeo. \"Vorremmo fare questo regalo alla Germania\", ha dichiarato Masisi, aggiungendo che \"non accetterà un no come risposta\". \n&nbsp; \nIl Botswana, un Paese dell'Africa meridionale senza sbocco sul mare, ospita la più grande popolazione di elefanti al mondo>, circa 130.000, con i quali la convivenza è spesso difficile, secondo il presidente, che fa riferimento agli attacchi agli esseri umani, ai villaggi e ai raccolti. Il ministero dell'Ambiente tedesco, gestito da ambientalisti, ha criticato i trofei di caccia agli elefanti acquistati da ricchi clienti occidentali. All'inizio di quest'anno, il ministero ha avanzato la possibilità di porre limiti più severi all'importazione di questi trofei a causa dei problemi di bracconaggio. \"All'interno dell'UE stiamo discutendo per estendere l'obbligo di autorizzazione all'importazione (...) ad altri trofei di caccia di animali protetti\", ha detto una portavoce del ministero. \n&nbsp; \nPoiché la Germania è uno dei maggiori importatori di trofei di caccia nell'UE, ha \"una particolare responsabilità\" in questo senso, ha aggiunto. Per quanto riguarda il \"regalo\" previsto dal presidente Masisi, il ministero dell'Ambiente tedesco ha dichiarato che \"il Botswana non ha ancora preso contatto\" con lui a riguardo. Nel 2019, il Botswana ha revocato il divieto totale di caccia, introdotto cinque anni prima per invertire il declino delle popolazioni di elefanti e di altre specie. L'abolizione del divieto ha irritato gli ambientalisti. La caccia commerciale è anche un'importante fonte di entrate locali. Da allora, il Botswana decide ogni anno una quota di animali che possono essere cacciati. L'anno scorso il Paese ha offerto 8.000 elefanti all'Angola e 500 al Mozambico entro il 2022.&nbsp;",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1712084428.7077448,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "The president of Botswana threatened to transfer 20 thousand elephants to Germany",
+        "en_content": "AGI - The president of Botswana has threatened to transfer up to 20,000 elephants to Germany, irritated by Berlin's criticism of the hunt for pachyderms and the export of trophies of his country, which in his opinion aims to regulate the number of animals. The Germans must \"live with animals trying to impose on us\", said the leader of Botswana, Mokgweetsi Masi>, in comments to the German daily Bild published online today. \"It's not a joke,\" he added about his offer to transfer 20,000 Pakistani to the North European country. \"We would like to give this gift to Germany,\" said Masisi, adding that \"will not accept a no as an answer.\"\n&nbsp;\nBotswana, a land of southern Africa without landslide on the sea, houses the largest population of elephants in the world, about 130,000, with whom cohabitation is often difficult, according to the president, referring to attacks on human beings, villages and crops. The German Ministry of Environment, managed by environmentalists, criticized elephant hunting trophies purchased by wealthy Western customers. At the beginning of this year, the ministry has advanced the possibility to put more stringent limits on the import of these trophies because of the problems of poaching. \"We are discussing within the EU to extend the import authorization obligation (...) to other protected animal hunting trophies,\" said a ministry spokesman.\n&nbsp;\nSince Germany is one of the largest importers of hunting trophies in the EU, it has \"a particular responsibility\" in this sense, he added. As for the \"regale\" provided by President Masisi, the German Ministry of the Environment stated that \" Botswana has not yet contacted\" with him in this regard. In 2019, Botswana revoked the total ban on hunting, introduced five years earlier to reverse the decline of elephant populations and other species. The abolition of the ban has irritated the environmentalists. Commercial hunting is also an important source of local revenue. Since then, Botswana decides every year a share of animals that can be hunted. Last year the country offered 8,000 elephants to Angola and 500 to Mozambique by 2022.&nbsp;",
+        "concepts": [
+            {
+                "word": "president",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Botswana",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "elephants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Botswana",
+                "start_char": 17,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "20 thousand",
+                "start_char": 49,
+                "end_char": 60,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Germany",
+                "start_char": 74,
+                "end_char": 81,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Botswana",
+                "start_char": 23,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "up to 20,000",
+                "start_char": 59,
+                "end_char": 71,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Germany",
+                "start_char": 85,
+                "end_char": 92,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Berlin",
+                "start_char": 107,
+                "end_char": 113,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Germans",
+                "start_char": 261,
+                "end_char": 268,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Botswana",
+                "start_char": 337,
+                "end_char": 345,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mokgweetsi Masi",
+                "start_char": 347,
+                "end_char": 362,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "German",
+                "start_char": 384,
+                "end_char": 390,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bild",
+                "start_char": 397,
+                "end_char": 401,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 419,
+                "end_char": 424,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "20,000",
+                "start_char": 482,
+                "end_char": 488,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Pakistani",
+                "start_char": 489,
+                "end_char": 498,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "North European",
+                "start_char": 506,
+                "end_char": 520,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Germany",
+                "start_char": 566,
+                "end_char": 573,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Masisi",
+                "start_char": 581,
+                "end_char": 587,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Botswana",
+                "start_char": 645,
+                "end_char": 653,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Africa",
+                "start_char": 674,
+                "end_char": 680,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "about 130,000",
+                "start_char": 768,
+                "end_char": 781,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "The German Ministry of Environment",
+                "start_char": 912,
+                "end_char": 946,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Western",
+                "start_char": 1036,
+                "end_char": 1043,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the beginning of this year",
+                "start_char": 1058,
+                "end_char": 1084,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 1256,
+                "end_char": 1258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Germany",
+                "start_char": 1396,
+                "end_char": 1403,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 1463,
+                "end_char": 1465,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Masisi",
+                "start_char": 1571,
+                "end_char": 1577,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the German Ministry of the Environment",
+                "start_char": 1579,
+                "end_char": 1617,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Botswana",
+                "start_char": 1632,
+                "end_char": 1640,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2019",
+                "start_char": 1692,
+                "end_char": 1696,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Botswana",
+                "start_char": 1698,
+                "end_char": 1706,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "five years earlier",
+                "start_char": 1752,
+                "end_char": 1770,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Botswana",
+                "start_char": 1976,
+                "end_char": 1984,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "every year",
+                "start_char": 1993,
+                "end_char": 2003,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Last year",
+                "start_char": 2043,
+                "end_char": 2052,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "8,000",
+                "start_char": 2073,
+                "end_char": 2078,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Angola",
+                "start_char": 2092,
+                "end_char": 2098,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "500",
+                "start_char": 2103,
+                "end_char": 2106,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mozambique",
+                "start_char": 2110,
+                "end_char": 2120,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2022.&nbsp",
+                "start_char": 2124,
+                "end_char": 2134,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Zelensky abbassa l'età del servizio militare da 27 a 25 anni",
+        "date_raw": "Tue, 02 Apr 2024 16:47:57 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/guerra-ucraina-russia-zelensky-abbassa-eta-servizio-militare-da-27-a-25-anni-25896934/",
+        "subtitle": "",
+        "content": "AGI - Il presidente ucraino Volodymyr Zelensky ha firmato una legge che abbassa l'età del servizio militare da 27 a 25 anni. La legge, approvata un anno fa dai deputati e in attesa di essere promulgata dalla presidenza, entrerà in vigore domani, ha dichiarato la Rada, il parlamento ucraino, sul suo sito web. Il governo ucraino dovrà poi adeguare i vari testi normativi alla nuova età di mobilitazione entro sei mesi. L'arruolamento nell'esercito è stato oggetto di dibattito in&nbsp;Ucraina&nbsp;per mesi. L'esercito ucraino ha subito perdite, la cui entità è tenuta segreta, e oggi, a differenza dell'inizio del conflitto, fatica a trovare volontari per il fronte.&nbsp; \n<br> A febbraio, la Rada ha approvato in prima lettura una serie di misure volte a facilitare la mobilitazione, dopo che una prima bozza preparata dal governo era stata rinviata per essere riscritta qualche settimana prima. Nel dicembre 2023 Volodymyr Zelensky aveva affermato che l'esercito si era offerto di mobilitare fino a 500.000 persone in più, numero poi rivisto al ribasso dal nuovo comandante in capo dell'esercito ucraino, Oleksandre Syrsky. L'attuale sistema di reclutamento è considerato da molti ucraini ingiusto, inefficiente e spesso corrotto. Si chiede anche la smobilitazione di coloro che sono stati a lungo al fronte. \n<br> E a proposito di guerra, dall'inizio dell'anno più di 400 chilometri quadrati di territorio nelle \"nuove regioni\" ucraine che la Russia ha annesso sono passati sotto il controllo delle forze armate russe e cinque insediamenti sono stati liberati a marzo. Lo ha&nbsp; affermato il ministro della Difesa russo Serghei Shoigu, secondo quanto riportato da Ria Novosti. \"Grazie al coraggio e alla professionalità del nostro personale militare, nell'ultimo mese nella Repubblica popolare di Donetsk sono stati liberati gli insediamenti di Nevelskoye, Orlovka, Tonenkoye, Krasnoye e il villaggio di Mirnoye nella regione di Zaporozhye. In totale, dall'inizio dell'anno, 403 chilometri quadrati del territorio di nuove regioni della Federazione Russa sono passati sotto il nostro controllo\", ha affermato in una teleconferenza tematica con la leadership delle Forze armate della Federazione Russa.&nbsp; \n&nbsp;",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1712084428.707764,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "Zelensky lowers military service age from 27 to 25 years",
+        "en_content": "AGI - Ukrainian President Volodymyr Zelensky signed a law that lowers the age of military service from 27 to 25 years. The law, adopted a year ago by Members and waiting to be promulgated by the Presidency, will enter into force tomorrow, said Rada, the Ukrainian parliament, on its website. The Ukrainian Government will then have to adapt the various regulatory texts to the new age of mobilization within six months. The army was debated in&nbsp; Ukraine&nbsp; for months. The Ukrainian army suffered losses, whose entity is kept secret, and today, unlike the beginning of the conflict, struggles to find volunteers for the front.&nbsp;\n<br> In February, the Rada approved a series of measures to facilitate mobilization, after a first draft prepared by the government had been postponed to be rewritten a few weeks earlier. In December 2023, Volodymyr Zelensky claimed that the army had offered to mobilize up to 500,000 more people, number then revised to the downfall by the new commander-in-chief of the Ukrainian army, Oleksandre Syrsky. The current recruitment system is considered by many unjust, inefficient and often corrupt Ukrainians. It is also called for the demobilization of those who have long been in the front.\n<br And speaking of war, from the beginning of the year more than 400 square kilometers of territory in the Ukrainian \"new regions\" that Russia annexed have passed under the control of the Russian armed forces and five settlements were released in March. The Russian Defence Minister Serghei Shoigu said this, according to Ria Novosti. \"Thanks to the courage and professionalism of our military personnel, in the last month in the People's Republic of Donetsk were released the settlements of Nevelskoye, Orlovka, Tonenkoye, Krasnoye and the village of Mirnoye in the Zaporozhye region. In total, from the beginning of the year, 403 square kilometers of the territory of new regions of the Russian Federation have passed under our control\", said in a thematic teleconference with the leadership of the armed forces of the Russian Federation.&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Zelensky",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "service",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "age",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "27 to 25 years",
+                "start_char": 42,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Ukrainian",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Volodymyr Zelensky",
+                "start_char": 26,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "27 to 25 years",
+                "start_char": 103,
+                "end_char": 117,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a year ago",
+                "start_char": 136,
+                "end_char": 146,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 229,
+                "end_char": 237,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rada",
+                "start_char": 244,
+                "end_char": 248,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 254,
+                "end_char": 263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "The Ukrainian Government",
+                "start_char": 292,
+                "end_char": 316,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "six months",
+                "start_char": 408,
+                "end_char": 418,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "months",
+                "start_char": 468,
+                "end_char": 474,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 480,
+                "end_char": 489,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 545,
+                "end_char": 550,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "February",
+                "start_char": 648,
+                "end_char": 656,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rada",
+                "start_char": 662,
+                "end_char": 666,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 733,
+                "end_char": 738,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "a few weeks earlier",
+                "start_char": 807,
+                "end_char": 826,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "December 2023",
+                "start_char": 831,
+                "end_char": 844,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Volodymyr Zelensky",
+                "start_char": 846,
+                "end_char": 864,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "up to 500,000",
+                "start_char": 911,
+                "end_char": 924,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1011,
+                "end_char": 1020,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Oleksandre Syrsky",
+                "start_char": 1027,
+                "end_char": 1044,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 1137,
+                "end_char": 1147,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the beginning of the year",
+                "start_char": 1262,
+                "end_char": 1287,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "400 square kilometers",
+                "start_char": 1298,
+                "end_char": 1319,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1340,
+                "end_char": 1349,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1369,
+                "end_char": 1375,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1421,
+                "end_char": 1428,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "five",
+                "start_char": 1446,
+                "end_char": 1450,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "March",
+                "start_char": 1480,
+                "end_char": 1485,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1491,
+                "end_char": 1498,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Serghei Shoigu",
+                "start_char": 1516,
+                "end_char": 1530,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ria Novosti",
+                "start_char": 1555,
+                "end_char": 1566,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the last month",
+                "start_char": 1641,
+                "end_char": 1655,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the People's Republic of Donetsk",
+                "start_char": 1659,
+                "end_char": 1691,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nevelskoye",
+                "start_char": 1725,
+                "end_char": 1735,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Orlovka",
+                "start_char": 1737,
+                "end_char": 1744,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tonenkoye",
+                "start_char": 1746,
+                "end_char": 1755,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Krasnoye",
+                "start_char": 1757,
+                "end_char": 1765,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mirnoye",
+                "start_char": 1785,
+                "end_char": 1792,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zaporozhye",
+                "start_char": 1800,
+                "end_char": 1810,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the beginning of the year",
+                "start_char": 1834,
+                "end_char": 1859,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "403 square kilometers",
+                "start_char": 1861,
+                "end_char": 1882,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "the Russian Federation",
+                "start_char": 1918,
+                "end_char": 1940,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2054,
+                "end_char": 2061,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Incendio nel centro di Istanbul, 29 morti e 3 feriti. Arrestate 6 persone",
+        "date_raw": "Tue, 02 Apr 2024 16:29:22 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/incendio-istanbul-morti-e-feriti-25894047/",
+        "subtitle": "",
+        "content": "AGI - È salito a 29 morti il bilancio dell'incendio che ha colpito un edificio residenziale a Istanbul. È quanto riferito dal governatore Davut Gul. I feriti sono tre. \"È in corso un'indagine\" hanno aggiunto le autorità. L'incendio sarebbe scoppiato nel seminterrato di un edificio di 16 piani a Gayrettepe, nel quartiere centrale di Besiktas. \n&nbsp; \nIl neo-rieletto sindaco di Istanbul, <a href=\"https://www.agi.it/estero/news/2024-04-02/incendio-istanbul-morti-e-feriti-25894047/\">Ekrem Imamoglu</a>, accorso sul posto, ha detto che nel seminterrato c'era una discoteca. Sul posto vanno avanti le operazioni di salvataggio con numerose squadre di pompieri impegnate per estrarre le persone rimaste intrappolate. Il prefetto di Istanbul ha incaricato dell'indagine due magistrati e dichiarato che sei persone sono in stato di arresto: contrariamente a quanto ipotizzato, infatti, l'incendio sarebbe partito da una sala giochi dove erano in corso dei lavori di manutenzione e rinnovamento, situata al piano terra dell'edificio adiacente il palazzo poi avvolto dall'incendio.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp;",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1712084428.707783,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "Fire in the centre of Istanbul, 29 dead and 3 wounded. Arrested 6 people",
+        "en_content": "AGI - The fire budget hit a residential building in Istanbul has risen to 29 dead. It is reported by Governor Davut Gul. The wounded are three. \"An investigation is underway,\" the authorities added. The fire would have burst into the basement of a 16-story building in Gayrettepe, in the central district of Besiktas.\n&nbsp;\nThe newly elected mayor of Istanbul, <a href=\"https://www.agi.it/estero/news/2024-02/fire-istanbul-morti-e-feriti-25894047/\">Ekrem Imamoglu</a>, noticed in the basement there was a disco. On the spot, rescue operations are carried out with numerous fire teams engaged to extract the people trapped. The Istanbul Prefect commissioned two magistrates and stated that six people are under arrest: Contrary to what was assumed, in fact, the fire would start from a playroom where maintenance and renovation work was underway, located on the ground floor of the adjacent building the palace then wrapped by the fire.&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Fire",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "centre",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Istanbul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Istanbul",
+                "start_char": 22,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "29",
+                "start_char": 32,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "3",
+                "start_char": 44,
+                "end_char": 45,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "6",
+                "start_char": 64,
+                "end_char": 65,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Istanbul",
+                "start_char": 52,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "29",
+                "start_char": 74,
+                "end_char": 76,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Davut Gul",
+                "start_char": 110,
+                "end_char": 119,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 137,
+                "end_char": 142,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "16",
+                "start_char": 248,
+                "end_char": 250,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gayrettepe",
+                "start_char": 269,
+                "end_char": 279,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Besiktas",
+                "start_char": 308,
+                "end_char": 316,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 352,
+                "end_char": 360,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "news/2024-02",
+                "start_char": 397,
+                "end_char": 409,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 628,
+                "end_char": 636,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 658,
+                "end_char": 661,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "six",
+                "start_char": 690,
+                "end_char": 693,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Le richieste di governo e media sul caso Salis sono inutili, avverte l'Ungheria",
+        "date_raw": "Tue, 02 Apr 2024 14:52:47 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/ungheria-ilaria-salis-25895338/",
+        "subtitle": "",
+        "content": "AGI - \"Dobbiamo chiarire che nessuno, nessun gruppo di estrema sinistra, dovrebbe vedere l'Ungheria come una sorta di ring di pugilato dove venire e pianificare di picchiare qualcuno a morte. E no, nessuna richiesta diretta da parte del governo italiano (o di qualsiasi altro importante organo di informazione) al governo ungherese renderà più semplice difendere la causa di Salis, perché il governo, come in qualsiasi altra democrazia moderna, non ha alcun controllo sui tribunali\". Lo scrive su X il portavoce del governo ungherese, Zoltan Kovacs. \n&nbsp; \n\"Chiariamo alcuni fatti sul caso di Ilaria Salis> - scriva il portavoce di Viktor Orban sui social - da metà febbraio, il padre di Ilaria Salis, <a href=\"https://www.agi.it/cronaca/news/2024-03-30/caso-salis-mattarella-chiama-padre-ilaria-grande-vicinanza-25864104/\">Roberto Salis</a>, ha fatto il giro dei media europei dicendo di essere \"preoccupato\" per la sicurezza di sua figlia finché sarà in Ungheria. Per questo hanno chiesto gli arresti domiciliari in Italia, riguardo al quale Szijjarto (il ministro degli esteri ungherese n.d.r.) ha detto che \"sarà deciso dal tribunale, che è un organismo indipendente\". Giovedì scorso, il tribunale di Budapest ha respinto la richiesta di Salis di arresti domiciliari, affermando che esisteva il rischio che fuggisse o si nascondesse. Per lei la Procura chiede ora una condanna a 11 anni. Perché? Perché c'è il ragionevole sospetto che Ilaria Salis si sia recata in Ungheria con i suoi due soci antifascisti con l'obiettivo di picchiare persone innocenti per le strade di Budapest. Nel frattempo, i media italiani hanno fatto del loro meglio per dipingere Salis come un martire\", aggiunge Kovacs. \n&nbsp; \n\"È sorprendente che stiano cercando di interferire in un caso giudiziario ungherese dall'Italia\", ha detto Szijjarto circa un mese fa. Sottolineando la natura premeditata dell'atto, il ministro ha affermato che \"non si è trattato di un crimine commesso per capriccio ma di un atto ben ponderato e pianificato. Hanno quasi ucciso delle persone in Ungheria, e ora lei è dipinta come una martire\".&nbsp;",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1712084428.7078035,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "Government and media demands on the Salis case are useless, warns Hungary",
+        "en_content": "AGI - \"We must clarify that no one, no group of extreme left, should see Hungary as a sort of boxing ring where to come and plan to beat someone to death. And no, no direct request from the Italian government (or any other important information body) to the Hungarian government will make it easier to defend the cause of Salis, because the government, like any other modern democracy, has no control over the courts.\" The Hungarian government spokesman Zoltan Kovacs writes about X.\n&nbsp;\n\"Call some facts on the case of Ilaria Salis> - write Viktor Orban's spokesman on social - from mid-February, Ilaria Salis' father, <a href=\"https://www.agi.it/cronaca/news/2024-03-30/caso-salis-mattarella-padre-ilaria-grande-vicinanza-25864104/\" For this reason they asked for house arrests in Italy, concerning which Szijjarto (the Hungarian Foreign Minister n.d.r.) said that \"it will be decided by the court, which is an independent body\". Last Thursday, the Budapest court rejected Salis' request for house arrest, stating that there was a risk that he would flee or hide. For you, the D.A. now calls for an 11-year sentence. Why? Because there is reasonable suspicion that Ilaria Salis went to Hungary with its two anti-fascist members with the aim of beating innocent people on the streets of Budapest. Meanwhile, the Italian media did their best to paint Salis as a martyr,\" adds Kovacs.\n&nbsp;\n\"It is surprising that they are trying to interfere in a Hungarian judiciary case from Italy,\" Szijjarto said about a month ago. Emphasizing the premeditated nature of the act, the minister said that \"it was not a crime committed by whim but a well-thought and planned act. They almost killed people in Hungary, and now she's painted like a martyr.\" &nbsp;",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "media",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "demands",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Salis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Hungary",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Salis",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 66,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hungary",
+                "start_char": 73,
+                "end_char": 80,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 190,
+                "end_char": 197,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 258,
+                "end_char": 267,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Salis",
+                "start_char": 322,
+                "end_char": 327,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 423,
+                "end_char": 432,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zoltan Kovacs",
+                "start_char": 454,
+                "end_char": 467,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "X.\n&nbsp",
+                "start_char": 481,
+                "end_char": 489,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 523,
+                "end_char": 535,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Orban",
+                "start_char": 552,
+                "end_char": 557,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "mid-February",
+                "start_char": 587,
+                "end_char": 599,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria Salis'",
+                "start_char": 601,
+                "end_char": 614,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "news/2024-03-30",
+                "start_char": 659,
+                "end_char": 674,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 786,
+                "end_char": 791,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Szijjarto",
+                "start_char": 810,
+                "end_char": 819,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 825,
+                "end_char": 834,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Last Thursday",
+                "start_char": 935,
+                "end_char": 948,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 954,
+                "end_char": 962,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Salis",
+                "start_char": 978,
+                "end_char": 983,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "D.A.",
+                "start_char": 1082,
+                "end_char": 1086,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "11-year",
+                "start_char": 1104,
+                "end_char": 1111,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 1170,
+                "end_char": 1182,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hungary",
+                "start_char": 1191,
+                "end_char": 1198,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 1208,
+                "end_char": 1211,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 1291,
+                "end_char": 1299,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1316,
+                "end_char": 1323,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Salis",
+                "start_char": 1354,
+                "end_char": 1359,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kovacs",
+                "start_char": 1379,
+                "end_char": 1385,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 1451,
+                "end_char": 1460,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1481,
+                "end_char": 1486,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Szijjarto",
+                "start_char": 1489,
+                "end_char": 1498,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "about a month ago",
+                "start_char": 1504,
+                "end_char": 1521,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 1697,
+                "end_char": 1704,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Attacco a Gaza, uccisi operatori umanitari occidentali. Netanyahu ammette: \"colpiti involontariamente\"",
+        "date_raw": "Tue, 02 Apr 2024 12:57:17 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/gaza-uccisi-operatori-umanitari-occidentali-israele-tragico-incidente-jose-andres-world-central-kitchen-25887596/",
+        "subtitle": "",
+        "content": "AGI - Sette&nbsp;operatori umanitari, tra cui alcuni stranieri>, sono stati uccisi in un attacco israeliano a Deir el-Balah>, nella striscia di Gaza. Tra le vittime ci sono&nbsp;cittadini polacchi, australiani e britannici>. Nell'attacco, che ha colpito l'auto su cui viaggiavano i cooperanti, è rimasto ucciso almeno anche un palestinese>. Un'altra vittima aveva doppia cittadinanza, di Usa e Canada. Si ritiene che siano i primi operatori umanitari stranieri ad essere uccisi a Gaza dall'inizio della guerra.&nbsp;L'ong, che insieme alla spagnola Open Arms ha portato il primo carico di aiuti dal mare a Gaza City, ha annunciato di aver sospeso le operazioni umanitarie. \n&nbsp; \nWorld Central Kitchen, l'organizzazione umanitaria> con sede negli Stati Uniti, ha confermato che diverse persone sono rimaste uccise nell'attacco, ha riferito il fondatore e leader del gruppo, il famoso chef Jose Andres.&nbsp;>L'organizzazione \"ha perso molti dei nostri fratelli e sorelle in un attacco aereo dell'IDF a Gaza. Sono affranto e addolorato per le loro famiglie e amici e tutta la nostra famiglia\" Andres ha detto su X. \"Non sono persone senza volto... non sono senza nome. Il governo israeliano deve fermare questa uccisione indiscriminata. Deve smettere di limitare gli aiuti umanitari, smettere di uccidere civili e operatori umanitari, e smettere di usare il cibo come arma\".&nbsp; \n&nbsp; \n<blockquote> \n Today <a href=\"https://twitter.com/WCKitchen?ref_src=twsrc%5Etfw\">@WCKitchen</a> lost several of our sisters and brothers in an IDF air strike in Gaza. I am heartbroken and grieving for their families and friends and our whole WCK family. These are people…angels…I served alongside in Ukraine, Gaza, Turkey, Morocco, Bahamas, Indonesia. They… <a href=\"https://t.co/rM3xbsiQ1Q\">https://t.co/rM3xbsiQ1Q</a> — Chef José Andrés ️ (@chefjoseandres) \n <a href=\"https://twitter.com/chefjoseandres/status/1774947232539644286?ref_src=twsrc%5Etfw\">April 1, 2024</a>\n</blockquote>  \n&nbsp; \nIl primo ministro australiano, Anthony Albanese, ha conferma che l'operatrice umanitaria Lalzawmi 'Zomi' Frankcom è stata uccisa nel raid aereo e ha chiesto che si risponda della sua morte. \n<h2></h2> \n<h2>Israele: tragico incidente</h2> \nSulla morte di 5 operatori umanitari a Gaza, tra cui 4 occidentali, l'IDF afferma che sta \"effettuando un esame approfondito> ai massimi livelli per comprendere le circostanze di questo tragico incidente>\". L'esercito aggiunge che \"sta facendo grandi sforzi per consentire la consegna sicura degli aiuti umanitari e ha lavorato a stretto contatto con la World Central Kitchen nei suoi sforzi per fornire cibo e aiuti umanitari ai residenti di Gaza\". \n&nbsp; \n<h2>Sarà un'autorità indipendente ad indagare sull'attacco</h2> \nSarà un organismo di esperti indipendenti>, il Meccanismo di inchiesta e valutazione dei Fatti, a indagare sull'attacco>. Lo ha comunicato l'esercito israeliano. Il portavoce delle Forze di difesa israeliane, Daniel Hagari, ha aggiunto in un messaggio di aver parlato personalmente con lo chef Andres, per esprimergli le sue condoglianze per la morte dei lavoratori. \"Apriremo un'indagine per esaminare questo grave incidente. Questo ci aiuterà a ridurre il rischio che un evento simile si ripeta\". \n&nbsp; \n<h2>La Polonia convoca l'ambasciatore di Israele</h2> \nIl rappresentante diplomatico israeliano in Polonia è stato convocato da Varsavia>. Il ministro degli Esteri polacco ha chiesto \"spiegazioni urgenti\" all'ambasciatore. Lo riporta l'agenzia Reuters. \"Ho chiesto personalmente spiegazioni urgenti all'ambasciatore israeliano Yacov Livne\", ha scritto il ministro polacco Radoslaw Sikorski sulla piattaforma social X. \"Mi ha assicurato che la Polonia riceverà presto i risultati delle indagini su questa tragedia. Mi unisco alle mie condoglianze alla famiglia del nostro coraggioso volontario e a tutte le vittime civili nella Striscia di Gaza\". \n&nbsp; \n<h2>Netanyahu ammette, cooperanti colpiti involontariamente</h2> \n&nbsp;Il primo ministro Benjamin Netanyahu ha ammesso che l'esercito israeliano ha ucciso \"involontariamente\" i sette operatori umanitari della World Central Kitchen (Wck) morti in un raid nella Striscia di Gaza.<br> \"Purtroppo, negli ultimi giorni si è verificato un tragico caso in cui le nostre forze hanno colpito involontariamente persone innocenti nella Striscia di Gaza\", ha detto Netanyahu in un messaggio di gratitudine all'equipe medica che lo ha operato per un'ernia. Il primo ministro, già dimesso, ha ribadito che l'incidente verrà indagato in modo approfondito e si è giustificato dicendo che cose del genere \"succedono in guerra\". \"Faremo tutto il possibile affinché ciò non accada di nuovo\", ha poi assicurato.<br> Poco prima, l'esercito israeliano aveva annunciato che un'entità militare indipendente, il Fact-Finding and Assessment Mechanism, indaghera' sull'attacco, che da oggi ha portato la Ong Wck a sospendere le sue operazioni nella regione.&nbsp;",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1712084428.707821,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "Attack in Gaza, killed Western humanitarian workers. Netanyahu admits: \"involuntarily hit\"",
+        "en_content": "AGI - Seven humanitarian workers, including some foreigners, were killed in an Israeli attack on Deir el-Balah> in the Gaza Strip. Among the victims are Polish, Australian and British citizens. In the attack, which hit the car on which the co-workers traveled, at least one Palestinian was killed. Another victim had double citizenship, of Usa and Canada. It is believed that they are the first foreign humanitarian workers to be killed in Gaza since the beginning of the war.&nbsp; The NGO, which together with the Spanish Open Arms brought the first shipment of aid from the sea to Gaza City, announced that it had suspended humanitarian operations.\n&nbsp;\nWorld Central Kitchen, the U.S.-based humanitarian organization, confirmed that several people were killed in the attack, reported the founder and leader of the group, the famous chef Jose Andres.&nbsp;> The organization \"has lost many of our brothers and sisters in an IDF air strike in Gaza. I am sore and grieved for their families and friends and all our family\" Andres said about X. \"They are not faceless people... I'm not without a name. The Israeli government must stop this indiscriminate killing. He must stop limiting humanitarian aid, stop killing civilians and humanitarian workers, and stop using food as a weapon.\"&nbsp;\n&nbsp;\n< blockquote\nToday <a href=\"https://twitter.com/WCKitchen?ref_src=twsrc%5Etfw\">@WCKitchen</a> lost several of our sisters and brothers in an IDF air strike in Gaza. I am heartbroken and grieving for their families and friends and our whole WCK family. These are people...angels...I served alongside Ukraine, Gaza, Turkey, Morocco, Bahamas, Indonesia. They...\n<a href=\"https://twitter.com/chefjoseandres/status/1774947232539644286?ref_src=twsrc%5Etfw\">April 1, 2024</a>\n</blockquote\n&nbsp;\nAustralian Prime Minister, Anthony Albanese, confirmed that humanitarian worker Lalzawmi 'Zomi' Frankcom was killed in the air raid and asked for his death.\n< < < > < > < < > < > < < > < < < > < < > < < < < < < < < < < < < < < < < < < > < > < > > < > > > < > > > > > > > > > > > > > < < < > > < > > > > < > > > < > > > < > < > > > > > > > > < > < < > < > < > > > > > < > > > > < > > > > > > < < > > < > > > > > >\nIsrael: tragic accident\nOn the death of 5 humanitarian workers in Gaza, including 4 Westerners, the IDF states that it is \"executing a thorough examination at the highest levels to understand the circumstances of this tragic incident\". The Army adds that \"it is making great efforts to ensure safe delivery of humanitarian aid and has worked closely with the World Central Kitchen in its efforts to provide food and humanitarian aid to Gaza residents.\"\n&nbsp;\n<h2> It will be an independent authority to investigate the attack\nIt will be an organism of independent experts >, the Mechanism of investigation and evaluation of the Facts, to investigate the attack > The Israeli army told him. The Israeli Defense Force spokesman, Daniel Hagari, added in a message that he personally spoke to chef Andres, to express his condolences for the death of workers. \"We will open an investigation to examine this serious incident. This will help us reduce the risk that such an event is repeated.\"\n&nbsp;\n<h2> Poland calls the ambassador of Israel\nThe Israeli diplomatic representative in Poland was summoned by Warsaw. The Polish Foreign Minister asked the ambassador for urgent deployments. Reuters agency reports it. \"I personally asked the Israeli ambassador Yacov Livne,\" wrote Polish minister Radoslaw Sikorski on the social platform. \"He assured me that Poland will soon receive the results of the investigations on this tragedy. I join my condolences with the family of our brave volunteer and all civilian victims in the Gaza Strip.\"\n&nbsp;\n<h2>Netanyahu admits, unintentionally affected co-operators\n&nbsp; Prime Minister Benjamin Netanyahu admitted that the Israeli army \"involuntarily\" killed the seven humanitarian workers of the World Central Kitchen (Wck) who died in a raid in the Gaza Strip.<br> \"Unfortunately, in recent days a tragic case occurred in which our forces unintentionally hit innocent people in the Gaza Strip\". The Prime Minister, already resigned, reiterated that the incident will be investigated in detail and justified by saying that things like this \" happen in war\". \"We will do everything we can to prevent this from happening again,\" he said. Shortly before, the Israeli army announced that an independent military entity, the Fact-Finding and Assessment Mechanism, will investigate the attack, which today led the NGO Wck to suspend its operations in the region.&nbsp;",
+        "concepts": [
+            {
+                "word": "Attack",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "workers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 10,
+                "end_char": 14,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 53,
+                "end_char": 62,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 79,
+                "end_char": 86,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Deir el-Balah",
+                "start_char": 97,
+                "end_char": 110,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 115,
+                "end_char": 129,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Polish",
+                "start_char": 153,
+                "end_char": 159,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Australian",
+                "start_char": 161,
+                "end_char": 171,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "British",
+                "start_char": 176,
+                "end_char": 183,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "at least one",
+                "start_char": 261,
+                "end_char": 273,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 274,
+                "end_char": 285,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Usa",
+                "start_char": 340,
+                "end_char": 343,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Canada",
+                "start_char": 348,
+                "end_char": 354,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 389,
+                "end_char": 394,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 440,
+                "end_char": 444,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the beginning of the",
+                "start_char": 451,
+                "end_char": 471,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "NGO",
+                "start_char": 487,
+                "end_char": 490,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Spanish Open Arms",
+                "start_char": 512,
+                "end_char": 533,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 546,
+                "end_char": 551,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Gaza City",
+                "start_char": 584,
+                "end_char": 593,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "World Central Kitchen",
+                "start_char": 659,
+                "end_char": 680,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Jose",
+                "start_char": 843,
+                "end_char": 847,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 947,
+                "end_char": 951,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1108,
+                "end_char": 1115,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Today",
+                "start_char": 1315,
+                "end_char": 1320,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1461,
+                "end_char": 1465,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1601,
+                "end_char": 1608,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1610,
+                "end_char": 1614,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 1616,
+                "end_char": 1622,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Morocco",
+                "start_char": 1624,
+                "end_char": 1631,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bahamas",
+                "start_char": 1633,
+                "end_char": 1640,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Indonesia",
+                "start_char": 1642,
+                "end_char": 1651,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "href=\"https://twitter.com",
+                "start_char": 1664,
+                "end_char": 1689,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "twsrc%5Etfw\">April 1",
+                "start_char": 1740,
+                "end_char": 1760,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2024</a",
+                "start_char": 1762,
+                "end_char": 1769,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Australian",
+                "start_char": 1791,
+                "end_char": 1801,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Anthony Albanese",
+                "start_char": 1818,
+                "end_char": 1834,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lalzawmi",
+                "start_char": 1871,
+                "end_char": 1879,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 2204,
+                "end_char": 2210,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5",
+                "start_char": 2244,
+                "end_char": 2245,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 2270,
+                "end_char": 2274,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 2286,
+                "end_char": 2287,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Westerners",
+                "start_char": 2288,
+                "end_char": 2298,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Army",
+                "start_char": 2444,
+                "end_char": 2448,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the World Central",
+                "start_char": 2559,
+                "end_char": 2576,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 2640,
+                "end_char": 2644,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mechanism",
+                "start_char": 2784,
+                "end_char": 2793,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Facts",
+                "start_char": 2833,
+                "end_char": 2838,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 2872,
+                "end_char": 2879,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "The Israeli Defense Force",
+                "start_char": 2895,
+                "end_char": 2920,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Daniel Hagari",
+                "start_char": 2932,
+                "end_char": 2945,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Andres",
+                "start_char": 2999,
+                "end_char": 3005,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Poland",
+                "start_char": 3204,
+                "end_char": 3210,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 3235,
+                "end_char": 3241,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 3246,
+                "end_char": 3253,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Poland",
+                "start_char": 3283,
+                "end_char": 3289,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Warsaw",
+                "start_char": 3306,
+                "end_char": 3312,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Polish",
+                "start_char": 3318,
+                "end_char": 3324,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Reuters",
+                "start_char": 3387,
+                "end_char": 3394,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 3438,
+                "end_char": 3445,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Yacov Livne",
+                "start_char": 3457,
+                "end_char": 3468,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Polish",
+                "start_char": 3477,
+                "end_char": 3483,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Radoslaw Sikorski",
+                "start_char": 3493,
+                "end_char": 3510,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Poland",
+                "start_char": 3555,
+                "end_char": 3561,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 3720,
+                "end_char": 3734,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 3748,
+                "end_char": 3757,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 3826,
+                "end_char": 3844,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 3863,
+                "end_char": 3870,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "seven",
+                "start_char": 3903,
+                "end_char": 3908,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the World Central",
+                "start_char": 3933,
+                "end_char": 3950,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent days",
+                "start_char": 4026,
+                "end_char": 4037,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 4120,
+                "end_char": 4134,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 4397,
+                "end_char": 4404,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Assessment Mechanism",
+                "start_char": 4478,
+                "end_char": 4498,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 4535,
+                "end_char": 4540,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the NGO Wck",
+                "start_char": 4545,
+                "end_char": 4556,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "Kate costretta a rivelare il suo stato. Qualcuno aveva scoperto la malattia",
+        "date_raw": "Tue, 02 Apr 2024 12:06:31 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/gb-kate-costretta-a-rivelare-tumore-diagnosi-era-trapelata-25892422/",
+        "subtitle": "",
+        "content": "AGI - Kate, la principessa del Galles, è stata forse<a href=\"https://www.agi.it/estero/news/2024-03-23/kate-middleton-cancro-video-25801170/\"> costretta a rivelare al mondo che ha un cancro</a>, non lo ha fatto volontariamente: almeno a sentire il Daily Mail, che rivela in esclusiva come la duchessa abbia dovuto accelerare i tempi> perché qualcuno comunque aveva scoperto la diagnosi della sua malattia>. \nUna fonte definita \"ben informata\" ha raccontato che la tempistica del video non ha avuto nulla a che fare con le voci e congetture circolate nelle lunghe settimane della sua assenza dalla scena pubblica, quando il mondo si interrogava sulla sua sorte ed erano fiorite ogni genere di bizzarre teorie; ma ha fatto il video perché qualcuno era venuto a conoscenza delle sue condizioni di salute. \nQualcuno, al di fuori dell'entourage ristretto, avrebbe saputo del cancro di Kate e contattato Kensington Palace. Venuto a conoscenza dell'imminente fuga di notizia, il Palazzo ha fatto 'di necessità virtù' e ha rapidamente organizzato la registrazione del video.> Non è chiaro chi fosse venuto a conoscenza della notizia. Ma alcuni giorni prima del video, la stampa britannica ha rivelato che qualcuno aveva cercato di impossessarsi della cartella clinica della principessa alla London Clinic,> la clinica dove era stata ricoverata a metà gennaio per subire l'intervento chirurgico all'addome. \nPer quel video, per il coraggio e la resilienza dimostrate, la principessa ha ricevuto un plauso universale:> quindi comunque si è rivelata una mossa azzeccata. Come ha scritto l'editorialista del Daily Mail, Ephraim Hardcastle, \"qualunque sia la ragione, l'applauso generale che Kate ha ricevuto ha confermato che è stata la decisione giusta\".",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1712084428.707837,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "Kate forced to reveal her state. Someone discovered the disease",
+        "en_content": "AGI - Kate, the Princess of Wales, was perhaps <a href=\"https://www.agi.it/estero/news/2024-03-23/kate-middleton-cancro-video-25801170/\"> forced to reveal to the world that has cancer</a>, did not voluntarily do this: at least to hear the Daily Mail, which exclusively reveals how the Duchess had to accelerate the times > because someone had discovered the diagnosis of his disease >.\nA well-informed source told us that the timing of the video had nothing to do with the voices and conjectures circulated in the long weeks of its absence from the public scene, when the world wondered about its fate and all kinds of bizarre theories flourished; but did the video because someone had come to know about his health conditions.\nSomeone outside the restricted entourage would have known about Kate's cancer and contacted Kensington Palace. Coming to the knowledge of the imminent leak of news, the Palace made 'of necessity virtue' and quickly organized the recording of the video.> It is unclear who knew the news. But a few days before the video, the British press revealed that someone had tried to take possession of the princess's medical records at the London Clinic, > the clinic where she was admitted in mid-January to undergo surgery at the abdomen.\nFor that video, for the courage and resilience shown, the princess received a universal applause:> so however it turned out to be a clear move. As the editor of the Daily Mail wrote, Ephraim Hardcastle, \"any reason, the general applause Kate received confirmed that it was the right decision.\"",
+        "concepts": [
+            {
+                "word": "Kate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "state",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "disease",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Kate",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "news/2024-03-23",
+                "start_char": 82,
+                "end_char": 97,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Daily Mail",
+                "start_char": 235,
+                "end_char": 249,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the long weeks",
+                "start_char": 510,
+                "end_char": 524,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kate",
+                "start_char": 792,
+                "end_char": 796,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kensington Palace",
+                "start_char": 820,
+                "end_char": 837,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palace",
+                "start_char": 897,
+                "end_char": 903,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a few days",
+                "start_char": 1019,
+                "end_char": 1029,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "British",
+                "start_char": 1052,
+                "end_char": 1059,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the London Clinic",
+                "start_char": 1154,
+                "end_char": 1171,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "mid-January",
+                "start_char": 1212,
+                "end_char": 1223,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Daily Mail",
+                "start_char": 1420,
+                "end_char": 1434,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ephraim Hardcastle",
+                "start_char": 1442,
+                "end_char": 1460,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kate",
+                "start_char": 1496,
+                "end_char": 1500,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Turchia: economia e debolezza dietro la disfatta di Erdogan",
+        "date_raw": "Tue, 02 Apr 2024 11:32:58 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/turchia-erdogan-subisce-pesante-sconfitta-elettorale-25892159/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp;Il risultato delle elezioni amministrative in Turchia si è abbattuto come un uragano sul partito Akp del presidente Recep Tayyip Erdogan. Quest'ultimo non solo ha fallito la missione di riconquistare la fondamentale metropoli di Istanbul, ma ha dovuto incassare una dura sconfitta in larga parte del Paese, una emorragia di voti costata all'Akp> lo scettro di primo partito della Turchia dopo 22 anni. Oltre a perdere, con notevole distacco, nelle cinque più grandi città del Paese, l'Akp del presidente ha ceduto roccaforti come Adiyaman, Afyon, Sivas, tre delle 11 città perse >in cui il potere del partito di Erdogan era stato solido negli ultimi anni. Una disfatta che corrisponde al trionfo del partito repubblicano Chp, che per la prima volta dal 1977 ha superato la soglia del 27%, divenendo primo partito con il 37.7% delle preferenze ottenute. A rendere ancora più sorprendenti questi risultati il fatto che appena 10 mesi fa il presidente turco ha vinto le elezioni presidenziali a scapito dell'allora segretario del Chp, Kemal Kilicdaroglu. Cosa ha determinato un così grave crollo in un così breve lasso di tempo? Dieci mesi fa Erdogan si presentava come l'alternativa più credibile di un Paese in crisi economica e reduce dal devastante terremoto del 6 febbraio 2023. >Votare per la conferma del presidente sembrava una strada molto più sicura rispetto a un'opposizione apparsa litigiosa e frammentata. \n&nbsp; \nAl contrario Chp e gli altri partiti hanno dimostrato di sapersi compattare a livello locale e proporre modelli di governance alternativi all'Akp, ormai in lento declino. Il partito di Erdogan ha provato, senza successo, a proporre candidati su base locale, cercando di spostare l'attenzione dai problemi del Paese e dalle difficoltà del governo. Erdogan ha fatto comizi in tutte le città, ma ha evitato toni aspri e lo scontro frontale. La campagna elettorale si è svolta in maniera molto tranquilla se paragonata a quanto avvenuto in passato. La gente si aspettava una svolta più rapida in economia. Al contrario l'inflazione ha solo rallentato>, ma si mantiene su livelli che hanno effetti diretti sul costo della vita per i cittadini. Non ha sicuramente rafforzato la fiducia degli elettori il recente, ennesimo, cambio del direttore della Banca Centrale. Il fatto che l'affluenza, pur alta, sia stata del 78.5%, la più bassa dal 2004, segnala il fatto che a rimanere a casa sono stati proprio elettori delusi di Erdogan.&nbsp; \n&nbsp; \nIn base a studi pubblicati da istituti di statistica, una gran parte degli astenuti corrisponde ai circa 16 milioni di pensionati del Paese. La pensione minima infatti è ben al 41% al di sotto del salario minimo>. Una parte importante di elettorato, che in passato aveva dato fiducia a Erdogan, ma da mesi chiede adeguamenti in linea con il costo della vita, che il governo non ha avuto il budget sufficiente a garantire. Una situazione che ha creato rabbia e distacco in larga parte del Paese, che ha visto il proprio potere d'acquisto frantumato dinanzi all'aumento di costi di immobili e affitti. Alla disfatta di Erdogan è corrisposta anche la crescita dei partiti di estrema destra e conservatori. Il partito islamico conservatore Nuovo Refah, al fianco di Erdogan 10 mesi fa, ha catturato i voti di religiosi delusi e accusato il governo turco di \"aver svenduto Gaza a Israele\", aver dato il via libera a movimenti Lgbtq e ovviamente della situazione economica. Religiosi delusi anche dal cambio di politica monetaria, convinti che la strada da seguire fosse quella del continuo taglio di interessi e non degli aumenti intrapresi dopo le elezioni del 2023. Risultato: Nuovo Refah raddoppia le preferenze e passa a 2.8 milioni di voti conquistando due province dove l'Akp aveva dominato negli ultimi due decenni, Akp è passata dai 20.5 milioni di voti delle amministrative del 2019 ai 16.3 di due giorni fa. L'emorragia di voti del partito di Erdogan si spiega con il successo di Nuovo Refah e con l'astensionismo, ma nelle grandi città in tanti hanno voltato le spalle a Erdogan per votare Chp, la cui crescita rimane un dato centrale. La domanda è se il presidente turco avrà le energie e la voglia di rimettersi al lavoro per recuperare il terreno perduto. \n&nbsp; \nOrmai settantenne, un Erdogan apparso stanco ha lasciato intendere che non correrà per le prossime elezioni e l'ultima campagna elettorale ha mostrato la pochezza del partito Akp oltre il proprio leader.&nbsp;",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1712084428.7078536,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "Turkey: economy and weakness behind the defeat of Erdogan",
+        "en_content": "AGI -&nbsp;&nbsp; The result of the administrative elections in Turkey fell as a hurricane on the Akp party of President Recep Tayyip Erdogan. The latter not only failed the mission of reconquering the fundamental metropolis of Istanbul, but had to take on a hard defeat in large part of the country, a hemorrhage of votes costed to Akp> the first party of Turkey after 22 years. In addition to losing, with considerable detachment, in the five largest cities in the country, the President's Akp gave strongholds such as Adiyaman, Afyon, Sivas, three of the 11 lost cities where the power of the Erdogan party had been solid in recent years. A defeat that corresponds to the triumph of the Republican party Chp, which for the first time since 1977 exceeded the threshold of 27%, becoming first party with 37.7% of the preferences obtained. To make these results even more surprising the fact that just 10 months ago the Turkish president won the presidential elections at the expense of the then secretary of the Chp, Kemal Kilicdaroglu. What caused such a serious collapse in such a short time? Ten months ago, Erdogan appeared as the most credible alternative to a country in an economic crisis and was reduced by the devastating earthquake of 6 February 2023. >Voting for the president's confirmation seemed a way much more secure than a secluded and fragmented opposition.\n&nbsp;\nOn the contrary, Chp and the other parties have proven to be able to compact at local level and propose alternative governance models to Akp, now in slow decline. The Erdogan party has tried, without success, to propose candidates on a local basis, trying to move attention from the problems of the country and the difficulties of the government. Erdogan has made comity in all the cities, but has avoided harsh tones and frontal confrontation. The election campaign took place very quietly when compared to what happened in the past. People expected a faster turn in economy. On the contrary, inflation has only slowed down, but it keeps on levels that have direct effects on the cost of living for citizens. He has certainly not strengthened the confidence of the voters the recent, yet, change of the director of the Central Bank. The fact that the turnout, although high, was 78.5%, the lowest since 2004, indicates the fact that to stay at home they were disappointed voters of Erdogan.&nbsp;\n&nbsp;\nBased on studies published by statistical institutes, a large part of the abstained corresponds to about 16 million pensioners in the country. The minimum pension is 41% below the minimum wage > An important part of the voter, who had given confidence to Erdogan in the past, but for months he has been asking for adjustments in line with the cost of life, that the government has not had enough budget to guarantee. A situation that has created anger and detachment in large part of the country, which has seen its purchasing power crushed before the increase in real estate costs and rents. At the defeat of Erdogan the growth of the extreme right and conservative parties is also paid. The Conservative Islamic Party New Refah, alongside Erdogan 10 months ago, captured the votes of disappointed religious and accused the Turkish government of \"having sold Gaza to Israel\", having given the free way to Lgbtq movements and of course the economic situation. They were also disappointed by the change in monetary policy, convinced that the road to follow was that of the continuous cut of interests and not of the increases made after the 2023 elections. Results: New Refah doubles preferences and passes to 2.8 million votes conquering two provinces where Akp had dominated over the last two decades, Akp has passed from 20.5 million votes of the 2019 administrative to 16.3 two days ago. The hemorrhage of votes of the Erdogan party is explained with the success of New Refah and abstentionism, but in the large cities in many have turned their backs to Erdogan to vote Chp, whose growth remains a central figure. The question is whether the Turkish President will have the energies and the desire to get back to work to recover the lost ground.\n&nbsp;\nBy now seventy-year-old, an Erdogan appeared tired has let it be understood that it will not run for the next elections and the last election campaign showed the minority of the Akp party beyond its leader.&nbsp;",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "economy",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "weakness",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "defeat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Erdogan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 50,
+                "end_char": 57,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkey",
+                "start_char": 64,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Akp party",
+                "start_char": 94,
+                "end_char": 107,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Recep Tayyip Erdogan",
+                "start_char": 121,
+                "end_char": 141,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 228,
+                "end_char": 236,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 342,
+                "end_char": 347,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Turkey",
+                "start_char": 357,
+                "end_char": 363,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "22 years",
+                "start_char": 370,
+                "end_char": 378,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "five",
+                "start_char": 440,
+                "end_char": 444,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Adiyaman",
+                "start_char": 521,
+                "end_char": 529,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Afyon",
+                "start_char": 531,
+                "end_char": 536,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sivas",
+                "start_char": 538,
+                "end_char": 543,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 545,
+                "end_char": 550,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "11",
+                "start_char": 558,
+                "end_char": 560,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 596,
+                "end_char": 603,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "recent years",
+                "start_char": 628,
+                "end_char": 640,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Republican party",
+                "start_char": 686,
+                "end_char": 706,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chp",
+                "start_char": 707,
+                "end_char": 710,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 726,
+                "end_char": 731,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "1977",
+                "start_char": 743,
+                "end_char": 747,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "27%",
+                "start_char": 774,
+                "end_char": 777,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "37.7%",
+                "start_char": 805,
+                "end_char": 810,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "just 10 months ago",
+                "start_char": 897,
+                "end_char": 915,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 920,
+                "end_char": 927,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chp",
+                "start_char": 1013,
+                "end_char": 1016,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kemal Kilicdaroglu",
+                "start_char": 1018,
+                "end_char": 1036,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ten months ago",
+                "start_char": 1096,
+                "end_char": 1110,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1112,
+                "end_char": 1119,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "6 February 2023",
+                "start_char": 1246,
+                "end_char": 1261,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chp",
+                "start_char": 1401,
+                "end_char": 1404,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Akp",
+                "start_char": 1521,
+                "end_char": 1524,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1551,
+                "end_char": 1558,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1731,
+                "end_char": 1738,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Central Bank",
+                "start_char": 2200,
+                "end_char": 2216,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "78.5%",
+                "start_char": 2264,
+                "end_char": 2269,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2004",
+                "start_char": 2288,
+                "end_char": 2292,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "about 16 million",
+                "start_char": 2488,
+                "end_char": 2504,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "41%",
+                "start_char": 2555,
+                "end_char": 2558,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 2644,
+                "end_char": 2651,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "months",
+                "start_char": 2673,
+                "end_char": 2679,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 2999,
+                "end_char": 3006,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Conservative Islamic Party",
+                "start_char": 3078,
+                "end_char": 3108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 3130,
+                "end_char": 3137,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "10 months ago",
+                "start_char": 3138,
+                "end_char": 3151,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 3214,
+                "end_char": 3221,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 3249,
+                "end_char": 3253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 3257,
+                "end_char": 3263,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lgbtq",
+                "start_char": 3295,
+                "end_char": 3300,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2023",
+                "start_char": 3529,
+                "end_char": 3533,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Refah",
+                "start_char": 3558,
+                "end_char": 3563,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2.8 million",
+                "start_char": 3598,
+                "end_char": 3609,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 3627,
+                "end_char": 3630,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Akp",
+                "start_char": 3647,
+                "end_char": 3650,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last two decades",
+                "start_char": 3670,
+                "end_char": 3690,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Akp",
+                "start_char": 3692,
+                "end_char": 3695,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "20.5 million",
+                "start_char": 3712,
+                "end_char": 3724,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2019",
+                "start_char": 3738,
+                "end_char": 3742,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16.3 two days ago",
+                "start_char": 3761,
+                "end_char": 3778,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 3811,
+                "end_char": 3818,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Refah",
+                "start_char": 3862,
+                "end_char": 3867,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 3946,
+                "end_char": 3953,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chp",
+                "start_char": 3962,
+                "end_char": 3965,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 4034,
+                "end_char": 4041,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "seventy-year-old",
+                "start_char": 4152,
+                "end_char": 4168,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 4173,
+                "end_char": 4180,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Akp",
+                "start_char": 4323,
+                "end_char": 4326,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Finlandia, 12 enne spara a scuola. Morto un coetaneo, altri due feriti",
+        "date_raw": "Tue, 02 Apr 2024 10:42:22 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-02/spari-scuola-vantaa-finlandia-feriti-arrestato-ultime-notizie-25888892/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Un bambino di 12 anni è morto> e altri due minorenni sono rimasti gravemente> feriti in una sparatoria avvenuta in una scuola in Finlandia>. Lo ha riferito la polizia, aggiungendo che è stato arrestato un altro bambino, anche lui 12 anni>. La sparatoria, secondo quanto riferito alla stampa dai genitori di alcuni alunni, è avvenuta in un'aula di una scuola a Vantaa, a nord della capitale Helsinki.&nbsp;> \n&nbsp; \nLa polizia ha invitato i residenti della zona a rimanere in casa. L'autore del gesto era scappato dopo la sparatoria, ma è stato arrestato sull'altra sponda di un fiume che bagna Vantaa,&nbsp;la quarta città più grande della Finlandia, circa 240.000 abitanti.&nbsp;Il bambino aveva ancora l'arma usata.&nbsp;Il primo ministro, Petteri Orpo ha parlato di avvenimento \"sconvolgente\".&nbsp; \n&nbsp; \nLa scuola Viertola a Vantaa, la quarta citta' piu' grande della Finlandia, ha circa 800 alunni e 90 dipendenti. La frequentano ragazzini tra i sette e i quindici anni. \"Tutte le persone coinvolte nella sparatoria sono minorenni\", ha confermato la polizia.<br> I genitori degli alunni hanno raccontato che la sparatoria è avvenuta in un'aula. Un testimone ha riferito al giornale Iltalehti che gli spari sono riecheggiati anche nel cortile della scuola: \"All'inizio non capivo che fosse un'arma. Poi si è sentito un urlo terribile e i bambini hanno attraversato di corsa il cortile\". La polizia ha aggiunto che il ragazzino autore degli spari in un primo tempo è scappato ma è stato fermato poco dopo in \"modo tranquillo\" sull'altra sponda del fiume. Iltalehti ha pubblicato un video girato da un'auto di passaggio che mostra due agenti di polizia che bloccano un adolescente sul ciglio di una strada in una zona residenziale. Per ore la polizia ha tenuto tutti lontano dalla scuola, invitando le persone a restare in casa.&nbsp; \n&nbsp; \nPoi, intorno a mezzogiorno ora locale, ha fatto entrare i genitori che aspettavano fuori dalla scuola per recuperare i figli. Il premier Petteri Orpo si è detto \"profondamente scioccato\". La giornata è cominciata in modo \"scioccante\", ha dichiarato il ministro dell'Interno, Mari Rantanen, in un post su X. \"Posso solo immaginare il dolore e la preoccupazione che molte famiglie stanno vivendo in questo momento\". La polizia non ha fornito dettagli sulle condizioni dei feriti, ma ha preannunciato una conferenza stampa nel pomeriggio. \n&nbsp; \nLa Finlandia è stata teatro di due raccapriccianti sparatorie nelle scuole nei primi anni 2000: nel novembre 2007, un ragazzo di 18 anni apri' il fuoco in una scuola secondaria di Jokela, a circa 50 chilometri a nord di Helsinki, uccidendo il preside e l'infermiera insieme a sei alunni, prima di suicidarsi. L'anno successivo, nel settembre 2008, ci fu una sparatoria in una scuola professionale a Kauhajoki, compiuta dal 22enne Matti Juhani Saari, che causo' 11 vittime. Da allora, centinaia di scuole hanno ricevuto minacce di sparatorie, come documentato da un articolo pubblicato sul Journal of Scandinavian Studies in Criminology and Crime Prevention: l'articolo indicava i problemi di salute mentale come la ragione principale del fenomeno.&nbsp;  \n&nbsp; \n&nbsp;  \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1712084428.7078693,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-02 21:00:28",
+        "filename": "ner_conc_en_2024-04-02T21.00.28E1712091628.298699.json",
+        "en_title": "Finland, 12 years of age shoots at school. Dead a peer, two more wounded",
+        "en_content": "AGI -&nbsp;A 12-year-old child died> and two other minors were seriously injured in a school shooting in Finland. The police reported it, adding that another child was arrested, even he 12 years ago. The shooting, according to the press from the parents of some pupils, took place in a classroom of a school in Vantaa, north of the capital Helsinki.&nbsp;>\n&nbsp;\nThe police invited local residents to stay at home. The author of the gesture had escaped after the shooting, but was arrested on the other side of a river that wet Vantaa,&nbsp; the fourth largest city in Finland, about 240.000 inhabitants.&nbsp; The child still had the weapon used.&nbsp; The Prime Minister, Petteri Orpo spoke of \"unwilling\" events. &nbsp;\n&nbsp;\nThe Viertola school in Vantaa, Finland's fourth largest city, has about 800 pupils and 90 employees. They're dating kids between seven and fifteen. \"Every person involved in the shooting is underage,\" the police confirmed.<br> The parents of the pupils told that the shooting took place in a courtroom. A witness told the newspaper Iltalehti that the shots were also echoed in the school's courtyard: \"At first, I didn't know it was a weapon. Then he felt a terrible scream and the children crossed the courtyard.\" The police added that the kid author of the gunshots at first ran away but was stopped shortly after in \"quiet mode\" on the other side of the river. Iltalehti posted a video shot by a passing car showing two police officers blocking a teenager on the edge of a street in a residential area. For hours the police kept everyone away from the school, inviting people to stay at home.&nbsp;\n&nbsp;\nThen, around noon local time, he brought in the parents waiting outside the school to recover their children. Prime Minister Petteri Orpo said \"profoundly shocked\". The day began in a \"slightening\" way, said Interior Minister Mari Rantanen, in a post on X. \"I can only imagine the pain and concern that many families are experiencing right now.\" The police did not provide details on the conditions of the wounded, but announced a press conference in the afternoon.\n&nbsp;\nFinland was the scene of two gruesome shootings in schools in the early 2000s: in November 2007, a 18-year-old boy opened fire in a secondary school in Jokela, about 50 kilometers north of Helsinki, killing the principal and the nurse along with six pupils, before committing suicide. The following year, in September 2008, there was a shooting at a professional school in Kauhajoki, performed by 22-year-old Matti Juhani Saari, who caused 11 victims. Since then, hundreds of schools have received threats of shooting, as documented by an article published in the Journal of Scandinavian Studies in Criminology and Crime Prevention: the article indicated mental health problems as the main reason for the phenomenon.&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Finland",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "years",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "age",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shoots",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "peer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Finland",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "12 years of age",
+                "start_char": 9,
+                "end_char": 24,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 56,
+                "end_char": 59,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "12-year-old",
+                "start_char": 13,
+                "end_char": 24,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 41,
+                "end_char": 44,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Finland",
+                "start_char": 105,
+                "end_char": 112,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "12 years ago",
+                "start_char": 186,
+                "end_char": 198,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vantaa",
+                "start_char": 311,
+                "end_char": 317,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "fourth",
+                "start_char": 547,
+                "end_char": 553,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Finland",
+                "start_char": 570,
+                "end_char": 577,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about 240.000",
+                "start_char": 579,
+                "end_char": 592,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Petteri Orpo",
+                "start_char": 675,
+                "end_char": 687,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Viertola",
+                "start_char": 735,
+                "end_char": 743,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Vantaa",
+                "start_char": 754,
+                "end_char": 760,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Finland",
+                "start_char": 762,
+                "end_char": 769,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "fourth",
+                "start_char": 772,
+                "end_char": 778,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "about 800",
+                "start_char": 797,
+                "end_char": 806,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "90",
+                "start_char": 818,
+                "end_char": 820,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "between seven and fifteen",
+                "start_char": 852,
+                "end_char": 877,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Iltalehti",
+                "start_char": 1063,
+                "end_char": 1072,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "first",
+                "start_char": 1136,
+                "end_char": 1141,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 1302,
+                "end_char": 1307,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "two",
+                "start_char": 1450,
+                "end_char": 1453,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "hours",
+                "start_char": 1541,
+                "end_char": 1546,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "around noon",
+                "start_char": 1646,
+                "end_char": 1657,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Petteri Orpo",
+                "start_char": 1765,
+                "end_char": 1777,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The day",
+                "start_char": 1805,
+                "end_char": 1812,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Interior",
+                "start_char": 1848,
+                "end_char": 1856,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mari Rantanen",
+                "start_char": 1866,
+                "end_char": 1879,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Finland",
+                "start_char": 2113,
+                "end_char": 2120,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 2138,
+                "end_char": 2141,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the early 2000s",
+                "start_char": 2175,
+                "end_char": 2190,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "November 2007",
+                "start_char": 2195,
+                "end_char": 2208,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "18-year-old",
+                "start_char": 2212,
+                "end_char": 2223,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jokela",
+                "start_char": 2265,
+                "end_char": 2271,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about 50 kilometers",
+                "start_char": 2273,
+                "end_char": 2292,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Helsinki",
+                "start_char": 2302,
+                "end_char": 2310,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "six",
+                "start_char": 2359,
+                "end_char": 2362,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "The following year",
+                "start_char": 2398,
+                "end_char": 2416,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "September 2008",
+                "start_char": 2421,
+                "end_char": 2435,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kauhajoki",
+                "start_char": 2486,
+                "end_char": 2495,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "22-year-old",
+                "start_char": 2510,
+                "end_char": 2521,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Matti",
+                "start_char": 2522,
+                "end_char": 2527,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Juhani Saari",
+                "start_char": 2528,
+                "end_char": 2540,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "11",
+                "start_char": 2553,
+                "end_char": 2555,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "hundreds",
+                "start_char": 2577,
+                "end_char": 2585,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Journal of Scandinavian Studies",
+                "start_char": 2673,
+                "end_char": 2708,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Criminology and Crime Prevention",
+                "start_char": 2712,
+                "end_char": 2744,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    }
+]

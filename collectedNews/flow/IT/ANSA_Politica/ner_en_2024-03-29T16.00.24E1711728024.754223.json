@@ -1,0 +1,2346 @@
+[
+    {
+        "title": "Meloni pranza con militari in Libano, fra selfie e calciobalilla",
+        "date_raw": "Thu, 28 Mar 2024 16:30:18 +0100",
+        "date": "2024-03-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/28/meloni-pranza-con-militari-in-libano-fra-selfie-e-calciobalilla_e757cb8b-6734-4b6b-a27b-9170901f26fe.html",
+        "subtitle": "Per la premier un mazzo di rose, poi l'uovo di Pasqua tricolore",
+        "content": "\n                                                \n            Dopo il discorso ufficiale e il\npranzo in mensa con i militari, anche una partita a\ncalciobalilla: durante la sua visita in Libano la premier\nGiorgia Meloni ha trascorso così alcune ore alla base di Shamaa,\nnel sud del Paese, con i contingenti italiani della missione Onu\nUnifil e di quella bilaterale Mibil. La presidente del Consiglio\nha ricevuto un mazzo di rose dai militari, con i quali ha posato\nper una serie di selfie, inclusi quelli con tre soldatesse e\nquello con lo staff della cucina dell'Esercito. A ridosso di\nPasqua non poteva mancare un uovo di cioccolato, incartato con i\ncolori della bandiera italiana, che Meloni ha rotto con un\npugno. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 15,
+        "placed": "Politica",
+        "epoch": 1711724430.4624832,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Meloni lunch with soldiers in Lebanon, between selfies and calcibalilla",
+        "en_content": "After the official speech and the\nlunch in the cafeteria with the military, also a game of\nSoccerbalilla: during his visit to Lebanon the premier\nGiorgia Meloni spent some hours at the base of Shamaa,\nin the south of the country, with the Italian quotas of the Onu mission\nUnifil and that bilateral Mibil. The President of the Council\nreceived a bouquet of roses from the military, with which he laid\nfor a series of selfies, including those with three pennies and\nthe one with the Army kitchen staff. Close to\nEaster could not miss a chocolate egg, wrapped with the\ncolors of the Italian flag, that Meloni has broken with a\npunch.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "lunch",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lebanon",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "selfies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "calcibalilla",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Lebanon",
+                "start_char": 30,
+                "end_char": 37,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Soccerbalilla",
+                "start_char": 91,
+                "end_char": 104,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 126,
+                "end_char": 133,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 146,
+                "end_char": 160,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "some hours",
+                "start_char": 167,
+                "end_char": 177,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Shamaa",
+                "start_char": 193,
+                "end_char": 199,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 239,
+                "end_char": 246,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Unifil",
+                "start_char": 273,
+                "end_char": 279,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mibil",
+                "start_char": 299,
+                "end_char": 304,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 327,
+                "end_char": 334,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 447,
+                "end_char": 452,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Army",
+                "start_char": 482,
+                "end_char": 486,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Easter",
+                "start_char": 511,
+                "end_char": 517,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 581,
+                "end_char": 588,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 600,
+                "end_char": 606,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "A Napoli manifestazione per Ilaria Salis, 'libera ora'",
+        "date_raw": "Thu, 28 Mar 2024 20:24:12 +0100",
+        "date": "2024-03-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/28/a-napoli-manifestazione-per-ilaria-salis-libera-ora_f49b1b8c-3517-4b56-9e5a-72d567ddb514.html",
+        "subtitle": "Movimenti con striscione nel centro della città",
+        "content": "\n                                                \n            \"Ilaria Salis libera ora\". Questo\nlo striscione con cui un gruppo di esponenti di movimenti di\nNapoli solidarizza con la giovane italiana sotto processo in\nUngheria e alla quale sono stati negati oggi gli arresti\ndomiciliari a Budapest.\n                                    \n                                       \n\t\t\t\t   \"Anche da Napoli - spiega Alfonso De Vito, uno degli\norganizzatori della manifestazione in Largo Berlinguer, nel\ncentro della città - vogliamo fare arrivare forte il sostegno ad\nIlaria, chiedendo la sua liberazione. Ilaria è in carcere ormai\nda troppo tempo, in condizioni umilianti per la sola colpa di\nessere un'antifascista e di esserlo in questo momento in un\npaese governato dalla destra\".\n                                    \n                                       \n\t\t\t\t   \"Tutti abbiamo letto le lettera di Ilaria, in cui lei\nracconta la percezione di essere come precipitata in un pozzo\nprofondissimo - aggiunge De Vito -, ma con la convinzione di\nstare dalla parte giusta della storia. Tutti abbiamo letto,\ntranne evidentemente il governo italiano, che, confermando di\nessere un governo di estrema destra, se ne sta lavando\nsostanzialmente le mani. Quindi è fondamentale che in tutte le\ncittà, come è cominciato con successo a Milano e a Roma, ci\nsiano iniziative che tengano viva questa situazione e che\nsostengano il diritto di Ilaria, insegnante antifascista e\nantirazzista, a essere libera e a tornare a casa\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 12,
+        "placed": "Politica",
+        "epoch": 1711724430.5003083,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "In Naples event for Ilaria Salis, 'free now'",
+        "en_content": "\"Ilaria Salis frees now.\" This\nthe banner with which a group of exponents of movements of\nNapoli solidarity with the young Italian under trial in\nHungary and to which arrests have been denied today\nhouse in Budapest.\n\n\n\"Even from Naples - Alfonso De Vito explains, one of\norganizers of the event in Largo Berlinguer, in\ncity center - we want to get strong support to\nIlaria, asking for his release. Ilaria is in prison now\nfor too long, under humiliating conditions for the sole guilt of\nbe an anti-fascist and be at this moment in a\ncountry governed by the right.\"\n\n\n\"We all read the letters of Ilaria, in which she\ntells the perception of being as precipitated in a well\ndeep - adds De Vito -, but with the conviction of\nStay on the right side of the story. We all read,\nexcept obviously the Italian government, which, confirming\nbeing an extreme right-wing government, it's washing\nbasically the hands. So it is fundamental that in all\ncity, as it began successfully in Milan and Rome, we\nare initiatives that keep this situation alive and that\nsupport the right of Ilaria, anti-fascist teacher and\nantiracist, free and home.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Naples",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "event",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ilaria",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salis",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Naples",
+                "start_char": 3,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 20,
+                "end_char": 32,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ilaria Salis",
+                "start_char": 1,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Napoli",
+                "start_char": 90,
+                "end_char": 96,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Italian",
+                "start_char": 123,
+                "end_char": 130,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 146,
+                "end_char": 153,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 192,
+                "end_char": 197,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 207,
+                "end_char": 215,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Naples",
+                "start_char": 230,
+                "end_char": 236,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alfonso De Vito",
+                "start_char": 239,
+                "end_char": 254,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 265,
+                "end_char": 268,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Largo Berlinguer",
+                "start_char": 299,
+                "end_char": 315,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 367,
+                "end_char": 373,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 399,
+                "end_char": 405,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 596,
+                "end_char": 602,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "De Vito",
+                "start_char": 685,
+                "end_char": 692,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 794,
+                "end_char": 801,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Milan",
+                "start_char": 973,
+                "end_char": 978,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 983,
+                "end_char": 987,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 1069,
+                "end_char": 1075,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Sardegna: accordo raggiunto tra Todde e Pd sulla giunta",
+        "date_raw": "Thu, 28 Mar 2024 18:46:49 +0100",
+        "date": "2024-03-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/28/sardegna-accordo-raggiunto-tra-todde-e-pd-sulla-giunta_a2727c2a-ef58-4e2d-bbaf-72692c663641.html",
+        "subtitle": "Attesa la convocazione per la prima seduta dell'Aula il 9 aprile",
+        "content": "\n                                                \n            La prima seduta del Consiglio\nregionale della Sardegna per l'insediamento della nuova\ngovernatrice Alessandra Todde e la presentazione della giunta,\nsarà quasi certamente martedì 9 aprile e la convocazione\nufficiale potrebbe arrivare già domani. È quanto emerso dopo\nl'incontro tra la neo governatrice e la delegazione del Pd, nel\nprimo pomeriggio nella sede cagliaritana della coalizione in via\nSonnino a Cagliari. Nel frattempo proseguiranno i colloqui con\nle altre forze politiche e dopo Pasqua ci sarà la sintesi\nfinale.\n                                    \n                                       \n\t\t\t\t   Un vertice proficuo, ha sottolineato Todde rispondendo alle\ndomande dei giornalisti che la attendevano dopo la riunione:\n\"Sicuramente sarà l'ultimo con il Pd e quindi questo mi rende\nparticolarmente felice. Abbiamo discusso in generale di tutti\ngli assetti, la cosa importante - ha chiarito - è aver trovato\ndegli equilibri e soprattutto aver ribadito il principio che il\nM5s, il Partito democratico e la presidente sono un'asse forte e\ncoeso, l'asse portante della coalizione e sarà l'asse portante\ndella giunta del governo di questa regione\", ha precisato.\n                                    \n                                       \n\t\t\t\t    Mancano ancora i dettagli ma l'accordo per la rappresentanza\ndel Pd nell'esecutivo e nella squadra che andrà a comporre i\nvertici degli assessorati sembra fatto. Non parla di nomi e di\nnumeri la presidente ma lascia intendere che è stato raggiunto\nun compromesso: \"I compromessi ci sono perché c'è una mediazione\n- ha spiegato Todde -, altrimenti sono imposizioni, ma non è\nproprio nelle intenzioni di nessuna forza politica mettere in\ndifficoltà la presidente o imporsi con delle condizioni non\ngiustificabili\". Si va verso i tre assessorati per il Pd, più la\npresidenza del Consiglio regionale al segretario Piero\nComandini, ma nessuno conferma che durante l'incontro si sia\nparlato di caselle, quanto invece di criteri e sintesi politica.\n                                    \n                                       \n\t\t\t\t   Ma le comunali sono alle porte. \"Abbiamo delle amministrative\nche ci aspettano, le vogliamo affrontare come coalizione - ha\nribadito la presidente -, abbiamo degli altri appuntamenti che\nci attendono e li vogliamo affrontare nel modo coeso che ci ha\nvisto protagonisti di queste regionali\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 14,
+        "placed": "Politica",
+        "epoch": 1711724430.526929,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Sardinia: agreement reached between Todde and Pd on the junta",
+        "en_content": "The first session of the Council\nSardinia region for the settlement of the new\nGovernor Alessandra Todde and the presentation of the junta,\nwill be almost certainly Tuesday 9 April and the call\nofficial could come tomorrow. It's what happened after\nthe meeting between the new governor and the delegation of the PD, in\nearly afternoon in the Cagliari headquarters of the coalition in via\nSleep in Cagliari. In the meantime, talks will continue with\nthe other political forces and after Easter there will be synthesis\nfinal.\n\n\nA profitable summit, said Todde responding to\nquestions of journalists waiting for her after the meeting:\n\"Surely it will be the last with the Pd and therefore this makes me\nespecially happy. We discussed in general of all\nthe assets, the important thing - has clarified - is having found\nand above all to have reiterated the principle that the\nM5s, the Democratic Party and the President are a strong axis and\ncohesive, the leading axis of the coalition and will be the leading axis\nof the government of this region,\" he said.\n\n\nDetails are still missing but the agreement for representation\nof the Pd in the executive and the team that will compose the\nthe councillors' leadership seems to be done. He doesn't talk about names and names\nnumber the president but it means that it has been reached\na compromise: \"The compromises are there because there is mediation\n- explained Todde -, otherwise they are impositions, but it is not\nin the intention of no political force to put in\nthe President or impose himself under conditions not\njustifiable.\" We go towards the three councillors for the Pd, plus the\nPresidency of the Regional Council to the Secretary Piero\nComandini, but no one confirms that during the meeting\nI would like to thank the rapporteur for his work.\n\n\nBut the municipalities are at the door. \"We have administrative\nwho expect us, we want to face them as a coalition - he has\nPresident. — The next item is the report (Doc.\nwe expect and we want to face them in the cohesive way they have\nseen protagonists of these regional\".\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Sardinia",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "agreement",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Todde",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Pd",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "junta",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Sardinia",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Todde",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "first",
+                "start_char": 4,
+                "end_char": 9,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Council\nSardinia",
+                "start_char": 21,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alessandra Todde",
+                "start_char": 88,
+                "end_char": 104,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday 9 April",
+                "start_char": 165,
+                "end_char": 180,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 214,
+                "end_char": 222,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "early afternoon",
+                "start_char": 319,
+                "end_char": 334,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Cagliari",
+                "start_char": 342,
+                "end_char": 350,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sleep in Cagliari",
+                "start_char": 388,
+                "end_char": 405,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Easter",
+                "start_char": 486,
+                "end_char": 492,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Todde",
+                "start_char": 552,
+                "end_char": 557,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "M5s",
+                "start_char": 871,
+                "end_char": 874,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Democratic Party",
+                "start_char": 876,
+                "end_char": 896,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Todde",
+                "start_char": 1404,
+                "end_char": 1409,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 1593,
+                "end_char": 1598,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Regional Council",
+                "start_char": 1646,
+                "end_char": 1666,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Piero",
+                "start_char": 1684,
+                "end_char": 1689,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Comandini",
+                "start_char": 1690,
+                "end_char": 1699,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "E' morto Simeone Di Cagno Abbrescia, ex sindaco di Bari",
+        "date_raw": "Fri, 29 Mar 2024 09:44:13 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/e-morto-simeone-di-cagno-abbrescia-ex-sindaco-di-bari_52c75e1c-f25d-4acd-a87a-4c8ae4013233.html",
+        "subtitle": "Aveva 80 anni. Fu primo cittadino dal 1995 al 2004",
+        "content": "\n                                                \n            A 80 anni è morto Simeone Di Cagno\nAbbrescia, ex sindaco di Bari dal 1995 al 2004 ed ex deputato di\nForza Italia. Tanti i messaggi di cordoglio. Di Cagno Abbrescia\nè stato anche presidente di Acquedotto Pugliese oltre che\nimprenditore nel settore dell'edilizia e nell'alberghiero. Aderì\na Forza Italia fin dalla sua fondazione, mentre nel 2006 fu\neletto alla Camera dei deputati.\n                                    \n                                       \n\t\t\t\t   Nel 2009 fu di nuovo candidato sindaco di Bari, ma venne\nsconfitto da Michele Emiliano. Nel 2018 è stato nominato\npresidente del cda di Acquedotto Pugliese dalla Giunta regionale\npugliese. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 10,
+        "placed": "Politica",
+        "epoch": 1711724430.544284,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Simeone Di Cagno Abbrescia died, former mayor of Bari",
+        "en_content": "At 80 years he died Simeone Di Cagno\nAbbrescia, former mayor of Bari from 1995 to 2004 and former deputy\nCome on Italy. Lots of strings. By Cagno Abbrescia\nwas also president of Aquedotto Pugliese as well as\nEntrepreneurship in the building sector and in the boat. Aderi\nin Forza Italia since its foundation, while in 2006 it was\nelected to the Chamber of Deputies.\n\n\nIn 2009 he was again mayor of Bari, but he came\ndefeated by Michele Emiliano. In 2018 he was appointed\nPresident of the Aqueduct Apulia by the Regional Council\nApulian.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Simeone",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Di",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cagno",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Abbrescia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mayor",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bari",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bari",
+                "start_char": 49,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "80 years",
+                "start_char": 3,
+                "end_char": 11,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Simeone Di Cagno\nAbbrescia",
+                "start_char": 20,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 64,
+                "end_char": 68,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1995",
+                "start_char": 74,
+                "end_char": 78,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2004",
+                "start_char": 82,
+                "end_char": 86,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cagno Abbrescia",
+                "start_char": 140,
+                "end_char": 155,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Aquedotto",
+                "start_char": 178,
+                "end_char": 187,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pugliese",
+                "start_char": 188,
+                "end_char": 196,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Aderi",
+                "start_char": 265,
+                "end_char": 270,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Forza Italia",
+                "start_char": 274,
+                "end_char": 286,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2006",
+                "start_char": 318,
+                "end_char": 322,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Chamber of Deputies",
+                "start_char": 341,
+                "end_char": 364,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2009",
+                "start_char": 371,
+                "end_char": 375,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bari",
+                "start_char": 398,
+                "end_char": 402,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michele Emiliano",
+                "start_char": 428,
+                "end_char": 444,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2018",
+                "start_char": 449,
+                "end_char": 453,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Aqueduct Apulia",
+                "start_char": 484,
+                "end_char": 503,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Regional Council\nApulian",
+                "start_char": 507,
+                "end_char": 535,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Salvini: 'Altro che buonismo, a scuola si rispetti la nostra cultura'",
+        "date_raw": "Fri, 29 Mar 2024 15:39:21 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/salvini-altro-che-buonismo-a-scuola-si-rispetti-la-nostra-cultura_93c4290b-f730-47d0-8709-6242b5dac7a6.html",
+        "subtitle": "'Solidarietà al preside francese per le minacce di morte'",
+        "content": "\"Solidarietà al preside del liceo francese Maurice Ravel. Altro che \"buonismo\", occorre riportare sui banchi di scuola il rispetto per gli insegnanti e per la nostra cultura\". Lo scrive su X il vicepremier e leader della Lega Matteo Salvini, postando una foto relativa alle dimissioni del preside di un liceo parigino con la didascalia \"Preside vieta il velo islamico a scuola e riceve minacce di morte. L'uomo si dimette: 'non c'è sicurezza'\".La Rete degli Studenti Medi esprime \"ferma contrarietà alla proposta avanzata dal ministro Salvini di stabilire un tetto massimo del 20% di alunni di origine straniera per classe, proposta immediatamente sostenuta anche dal ministro dell'Istruzione Valditara. Si tratta di una proposta che mina i principi fondamentali di inclusione e uguaglianza dell'istruzione pubblica, accentuando le differenze e discriminando gli studenti esclusivamente sulla base della loro origine\". \"L'idea di fissare un tetto massimo di studenti di origine non italiana al 20%, è un'idea di scuola pericolosa e intrisa di razzismo, sotto qualsiasi profilo la si guardi - dichiara Paolo Notarnicola, coordinatore nazionale della Rete degli Studenti Medi -. Le parole dei ministri Salvini e Valditara raccontano per fini elettorali una realtà che non esiste nelle aule, basti pensare che circa il 70% degli studenti con background migratorio sono nati e cresciuti in questo Paese, e conoscono perfettamente la lingua. Sostenere che classi con troppi studenti di origine straniera siano preludio di situazioni di caos, in nome di una presunta difficoltà di far apprendere i valori e la cultura italiani, è un pensiero che minaccia il concetto di scuola come luogo dell'incontro e dell'inclusività. Inoltre, si tratta di una proposta che obbligherebbe alcuni studenti a doversi spostare per chilometri prima di trovare scuole disponibili ad accoglierli, allontanandoli dai luoghi dove vivono e crescono per il solo fatto di non avere la cittadinanza italiana. Uno scenario inaccettabile!\". \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Politica",
+        "epoch": 1711724430.5513148,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Salvini: 'Other than goodism, at school we respect our culture'",
+        "en_content": "\"Solidarity to the French high school principal Maurice Ravel. More than \"goodism\", we must report on the school benches respect for teachers and our culture\". On X the vice-premier and leader of the League Matteo Salvini, posting a photo on the resignation of the principal of a Parisian high school with the caption \"Preside forbids the Islamic veil at school and receives death threats. The man resigns: \"There is no security.\" The Mediterranean Student Network expresses \"the main contradiction to the proposal made by Minister Salvini to establish a maximum roof of 20% of pupils of foreign origin per class, proposed immediately supported by the Minister of Education Valditara. It is a proposal that undermines the fundamental principles of inclusion and equality of public education, accentuating differences and discriminating students exclusively on the basis of their origin.\" \"The idea of fixing a maximum roof of students of non-Italian origin at 20%, is a dangerous and intrigued idea of racism school, in any respect you look at it - says Paolo Notarnicola, national coordinator of the Network of Middle Students -. The words of ministers Salvini and Valditara tell for electoral purposes a reality that does not exist in the classrooms, just think that about 70% of students with migratory background are born and grown in this country, and they know perfectly the language. To argue that classes with too many foreign students are prelude to situations of chaos, in the name of a presumed difficulty of learning Italian values and culture, is a thought that threatens the concept of school as a place of encounter and inclusivity. Moreover, it is a proposal that would require some students to move for kilometers before finding schools available to welcome them, leaving them away from the places where they live and grow for the only fact of not having Italian citizenship. An unacceptable scenario!\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "goodism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "culture",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Solidarity",
+                "start_char": 1,
+                "end_char": 11,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "French",
+                "start_char": 19,
+                "end_char": 25,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Maurice Ravel",
+                "start_char": 48,
+                "end_char": 61,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the League Matteo Salvini",
+                "start_char": 196,
+                "end_char": 221,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parisian",
+                "start_char": 280,
+                "end_char": 288,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Islamic",
+                "start_char": 339,
+                "end_char": 346,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "The Mediterranean Student Network",
+                "start_char": 431,
+                "end_char": 464,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Salvini",
+                "start_char": 532,
+                "end_char": 539,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "20%",
+                "start_char": 571,
+                "end_char": 574,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Valditara",
+                "start_char": 674,
+                "end_char": 683,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "non-Italian",
+                "start_char": 938,
+                "end_char": 949,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "20%",
+                "start_char": 960,
+                "end_char": 963,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Paolo Notarnicola",
+                "start_char": 1054,
+                "end_char": 1071,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Salvini",
+                "start_char": 1154,
+                "end_char": 1161,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valditara",
+                "start_char": 1166,
+                "end_char": 1175,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "about 70%",
+                "start_char": 1269,
+                "end_char": 1278,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Italian",
+                "start_char": 1529,
+                "end_char": 1536,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1872,
+                "end_char": 1879,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Mattarella: 'Sviluppo e crescita con l'impegno sinergico di tutti'",
+        "date_raw": "Fri, 29 Mar 2024 10:55:03 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/mattarella-sviluppo-e-crescita-con-limpegno-sinergico-di-tutti_268fb741-1d1b-481a-b4b2-48bc856d1a8e.html",
+        "subtitle": "Messaggio a Corradini, Associazione Riduzione Debito Pubblico",
+        "content": "\"Il trentesimo anniversario di fondazione dell'Associazione per la Riduzione del Debito Pubblico costituisce utile occasione per esprimere apprezzamento per le attività promosse dal Sodalizio in merito alla divulgazione e sensibilizzazione sulle problematiche economiche del nostro Paese, avanzando, mediante analisi di settore, utili proposte per un utilizzo sempre più consapevole e solidale delle risorse a disposizione del soddisfacimento dei bisogni della comunità, raccolte a mezzo del sistema tributario.Lo sviluppo e la crescita economica sono risultati che, per essere raggiunti, sollecitano l'impegno sinergico di Istituzioni, associazioni e società civile: ogni soggetto è chiamato a contribuire per incrementare il benessere collettivo, come sancito dall'art. 4 della Costituzione. Con l'auspicio che l'Associazione continuerà a profondere il medesimo impegno nel realizzare ulteriori proficue iniziative, rivolgo il più sentito augurio per il prosieguo della sua attività\".E' il messaggio che il Presidente della Repubblica, Sergio Mattarella, ha inviato al Presidente Onorario dell'Associazione per la Riduzione del Debito Pubblico, Luciano Corradini.   \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Politica",
+        "epoch": 1711724430.5616891,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Mattarella: 'Development and growth with the synergistic commitment of all'",
+        "en_content": "\"The 30th anniversary of the foundation of the Association for the Reduction of Public Debt is a useful opportunity to express appreciation for the activities promoted by the Sodalitius regarding the dissemination and awareness of the economic problems of our Country, advancing, through sector analysis, useful proposals for an increasingly conscious and supportive use of the resources available to satisfy the needs of the community, collected through the tax system. The development and economic growth have resulted in the synergistic commitment of institutions, associations and civil society: each subject is called to contribute in order to increase collective well-being, as enshrined in Article 4 of the Constitution. With the hope that the Association will continue to deepen the same commitment to further fruitful initiatives, I wish to wish for the continuation of its activity\". It is the message that the President of the Republic, Sergio Mattarella, sent to the Honorary President of the Association for the Reduction of Public Debt, Luciano Corradini.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Development",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "growth",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "30th",
+                "start_char": 5,
+                "end_char": 9,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Association for the Reduction of Public Debt",
+                "start_char": 43,
+                "end_char": 91,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sodalitius",
+                "start_char": 175,
+                "end_char": 185,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Country",
+                "start_char": 260,
+                "end_char": 267,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Article 4 of the Constitution",
+                "start_char": 697,
+                "end_char": 726,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Association",
+                "start_char": 751,
+                "end_char": 762,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sergio Mattarella",
+                "start_char": 948,
+                "end_char": 965,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Honorary",
+                "start_char": 979,
+                "end_char": 987,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Association for the Reduction of Public Debt",
+                "start_char": 1001,
+                "end_char": 1049,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Luciano Corradini",
+                "start_char": 1051,
+                "end_char": 1068,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Sardegna: Truzzu si dimette da sindaco di Cagliari",
+        "date_raw": "Thu, 28 Mar 2024 19:17:31 +0100",
+        "date": "2024-03-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/28/sardegna-truzzu-si-dimette-da-sindaco-di-cagliari_b29e58f3-aec7-48b7-8655-be6f57172375.html",
+        "subtitle": "Sconfitto da Alessandra Todde entrerà in Consiglio regionale",
+        "content": "\n                                                \n            Paolo Truzzu ha presentato\nufficialmente le sue dimissioni \"immediate e irrevocabili\" dalla\ncarica di sindaco di Cagliari.\n                                    \n                                       \n\t\t\t\t   Il documento, scritto di pugno, è stato protocollato oggi al\nComune.\n                                    \n                                       \n\t\t\t\t   Truzzu, esponente di Fratelli d'Italia e candidato per il\ncentrodestra alla presidenza della Regione, era stato sconfitto\nalle elezioni del 25 febbraio da Alessandra Todde.\n                                    \n                                       \n\t\t\t\t   Ora è pronto a occupare il suo seggio in Consiglio regionale:\naveva annunciato le sue dimissioni a breve, anticipando\nl'insediamento dell'Aula che fa scattare l'incompatibilità con\nla carica di primo cittadino.\n                                    \n                                       \n\t\t\t\t   Ora dovranno trascorrere 20 giorni concessi dalle norme per\nun eventuale ripensamento, poi la Regione dovrà nominare un\ncommissario fino alle prossime amministrative previste per\ngiugno ma non ancora fissate ufficialmente. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 13,
+        "placed": "Politica",
+        "epoch": 1711724430.570915,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Sardinia: Truzzu resigns as mayor of Cagliari",
+        "en_content": "Paolo Truzzu presented\nofficially his resignation \"immediate and irrevocable\" from\noffice of mayor of Cagliari.\n\n\nThe document, written by fist, has been signed today to\nCommon.\n\n\nTruzzu, member of the Italian Brothers and candidate for the\ncenterright to the presidency of the Region, had been defeated\nin the elections of 25 February by Alessandra Todde.\n\n\nNow he is ready to occupy his seat in the Regional Council:\nhad announced his resignation shortly, anticipating\nthe settlement of the House that triggers incompatibility with\nthe office of first citizen.\n\n\nNow they will have to spend 20 days granted by the rules for\na possible rethinking, then the Region will have to appoint a\nCommissioner up to the next administrative provisions for\nJune but not yet officially fixed.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Sardinia",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Truzzu",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mayor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Cagliari",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Cagliari",
+                "start_char": 37,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Paolo Truzzu",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cagliari",
+                "start_char": 102,
+                "end_char": 110,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 161,
+                "end_char": 166,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Truzzu",
+                "start_char": 180,
+                "end_char": 186,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Italian Brothers",
+                "start_char": 198,
+                "end_char": 218,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Region",
+                "start_char": 278,
+                "end_char": 284,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "25 February",
+                "start_char": 324,
+                "end_char": 335,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Alessandra Todde",
+                "start_char": 339,
+                "end_char": 355,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Regional Council",
+                "start_char": 397,
+                "end_char": 417,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "House",
+                "start_char": 493,
+                "end_char": 498,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 548,
+                "end_char": 553,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "20 days",
+                "start_char": 593,
+                "end_char": 600,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Region",
+                "start_char": 658,
+                "end_char": 664,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "June",
+                "start_char": 746,
+                "end_char": 750,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Sardegna: Todde stringe su giunta, prima seduta aula il 9 aprile",
+        "date_raw": "Fri, 29 Mar 2024 13:13:18 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/sardegna-todde-stringe-su-giunta-prima-seduta-aula-il-9-aprile_00f8e003-f708-4aa0-a7dc-7a97e1571b00.html",
+        "subtitle": "Progressisti saranno nell'esecutivo, 'noi decisivi per vittoria'",
+        "content": "\n                                                \n            Ultimo giro di colloqui prima\ndelle festività pasquali - che trascorrerà nella sua Nuoro - per\nla neo presidente della Regione Alessandra Todde che oggi ha\nvisto i Progressisti e i socialisti con Sardi in Europa per\nultimare i ragionamenti sulla composizione della giunta.\n                                    \n                                       \n\t\t\t\t   \"Stiamo discutendo, stiamo ancora affinando gli ultimi\npassaggi, l'obiettivo è di arrivare alla seduta di insediamento\ncon la squadra al completo per dare il segnale di essere pronti\na lavorare e rispondere alle tante esigenze che dobbiamo\naffrontare\", ha risposto ai cronisti al termine dell'incontro\ncon i Progressisti. Seduta che sarà il 9 aprile, oggi sarà\nfirmato il decreto per la convocazione che arriverà al più tardi\nmartedì 2. Ora la governatrice, che ieri ha trovato la quadra\ncon il Pd, dovrà mettere i tasselli del puzzle al posto giusto:\n   \"Ci sono richieste, ci sono curriculum, c'è il tema\nterritoriale, quello di genere: sono tante le variabili che\ndevono essere composte. Devo dire - ha precisato Todde - che le\nforze politiche si sono comportate in maniera molto leale e\ndisciplinata e le ringrazio per il lavoro fatto e il supporto\nche mi stanno dando in queste settimane\".\n                                    \n                                       \n\t\t\t\t   I Progressisti avranno di certo una casella nel prossimo\nesecutivo, lo conferma Luciano Uras all'uscita dalla sede\ncagliaritana della coalizione: \"Assolutamente sì, i Progressisti\nsaranno rappresentati, peraltro - spiega Uras - in modo\nnaturale, perché noi abbiamo contribuito, io credo, in modo\ndecisivo\". \"Abbiamo detto anche di essere disponibili a più\ndeleghe - ha chiarito -. Siamo pronti la settimana prossima\ndefinire in modo inequivocabile la costruzione della squadra di\ngoverno alla quale partecipiamo a pieno titolo\". \"E poi -\nconclude Uras - c'è una richiesta molto chiara di una\npartecipazione di tutta la coalizione al governo complessivo\ndella Regione, a cui nessuno di noi si può sottrarre\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Politica",
+        "epoch": 1711724430.5758529,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Sardinia: Todde strings on junta, first sitting room on 9 April",
+        "en_content": "Last round of interviews first\nof the Easter holidays - that will spend in his Nuoro - for\nthe new president of the Alessandra Todde Region who today has\nseen Progressives and Socialists with Sardi in Europe for\nto finalize the reasoning on the composition of the junta.\n\n\n\"We are discussing, we are still honing the last\nsteps, the goal is to arrive at the installation session\nwith the full team to give the signal to be ready\nto work and respond to the many needs we need\nhe responded to the chroniclers at the end of the meeting\nwith Progressives. Sitting that will be on April 9th, today will be\nsigned the decree for the convocation that will arrive at the later\nTuesday 2. Now the governor, who found the square yesterday\nwith the Pd, you will have to put the dowels of the puzzle in the right place:\n\"There are demands, there are resumes, there is the theme\nterritorial, gender: are so many variables that\nmust be composed. I have to say - he specified Todde - that the\npolitical forces have behaved very loyally and\ndisciplined and thank you for the work done and support\nwho are giving me in these weeks.\"\n\n\nProgressives will certainly have a box in the next\nexecutive, confirms Luciano Uras at the exit from the headquarters\nof the coalition: \"Absolutely yes, the Progressives\nwill be represented, however - Uras explains - so\nnatural, because we have contributed, I believe,\ndecisive.\" \"We also said we were available to more\ndeleghe - clarified -. We are ready next week\nunequivocally define the construction of the team\nGovernment to which we participate fully.\" \"And then -\nconcludes Uras - there is a very clear request of a\nparticipation of the whole coalition to the total government\nof the Region, to which none of us can be subtracted.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Sardinia",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strings",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "junta",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "room",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "April",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "first",
+                "start_char": 34,
+                "end_char": 39,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "9 April",
+                "start_char": 56,
+                "end_char": 63,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "first",
+                "start_char": 25,
+                "end_char": 30,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Easter",
+                "start_char": 38,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nuoro",
+                "start_char": 79,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Alessandra Todde Region",
+                "start_char": 112,
+                "end_char": 139,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 144,
+                "end_char": 149,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Socialists",
+                "start_char": 176,
+                "end_char": 186,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Sardi",
+                "start_char": 192,
+                "end_char": 197,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europe",
+                "start_char": 201,
+                "end_char": 207,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Progressives",
+                "start_char": 538,
+                "end_char": 550,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April 9th",
+                "start_char": 576,
+                "end_char": 585,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 587,
+                "end_char": 592,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the later\nTuesday 2",
+                "start_char": 659,
+                "end_char": 678,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 719,
+                "end_char": 728,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Todde",
+                "start_char": 961,
+                "end_char": 966,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "these weeks",
+                "start_char": 1102,
+                "end_char": 1113,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Luciano Uras",
+                "start_char": 1189,
+                "end_char": 1201,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Progressives",
+                "start_char": 1275,
+                "end_char": 1287,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "next week",
+                "start_char": 1474,
+                "end_char": 1483,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Region",
+                "start_char": 1709,
+                "end_char": 1715,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "Meloni lavora in silenzio, non strumentalizzare Salis",
+        "date_raw": "Thu, 28 Mar 2024 20:55:14 +0100",
+        "date": "2024-03-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/28/meloni-lavora-in-silenzio-non-strumentalizzare-salis_291b637a-745e-4ac8-b437-4d590779fa84.html",
+        "subtitle": "Avviso alle opposizioni, vogliono che torni o fare campagna?",
+        "content": " Se si vuole riportare Ilaria Salis in Italia, è meglio evitare di usarla per fare campagna elettorale.Nel governo circola questo ragionamento davanti alla mobilitazione delle opposizioni per la trentanovenne attivista che resta in carcere a Budapest dopo il respingimento della richiesta dei domiciliari. Una riflessione che si estende anche alla suggestione, attribuita a Elly Schlein, di candidare la docente brianzola alle Europee. È il momento del silenzio, di abbassare il livello della polemica, è la linea condivisa fra Palazzo Chigi e Farnesina, perché è a fari spenti che si lavora in casi dai risvolti diplomatici, giudiziari e politici così intricati. Con la speranza che nel giro di qualche settimana possa essere valutata diversamente una nuova istanza per i domiciliari in Ungheria, passaggio indispensabile per poi chiedere lo stesso regime detentivo nel Paese di origine.Nella maggioranza c'è chi ricorda il caso di Patrick Zaki.Quando tre anni fa il centrosinistra insisteva per votare alla Camera una mozione per impegnare il governo a sostenere l'istanza per conferirgli la cittadinanza italiana, l'allora presidente del Consiglio Mario Draghi era piuttosto perplesso, sostiene un esponente di peso di FdI. Non per il merito, ma perché anche sul caso dello studente detenuto in Egitto serviva evitare di infiammare il clima. E sono poi passati altri ventiquattro mesi per arrivare alla grazia, subito dopo la condanna a tre anni. \"Un risultato - rivendicava in quei giorni l'esecutivo di centrodestra - portato a casa in primis dal lavoro silenzioso di Meloni\".Meloni non parla in pubblico del caso Salis da un paio di mesi. L'ultima volta replicò alle accuse di inerzia sollevate da Elly Schlein: \"Se è più brava di noi sicuramente saprà cosa fare...\". \"Anche in Ungheria c'è l'autonomia dei giudici e i governi non entrano nei processi\", aveva detto pochi giorni prima, dopo aver chiesto a Viktor Orban \"un trattamento di dignità, rispetto e un giusto processo\" per la donna. Entrambi conservatori, i due leader hanno un rapporto consolidato, anche se l'ingresso del partito del premier ungherese nella famiglia dei Conservatori europei guidata da Meloni non è all'ordine del giorno, come ha detto lei stessa di recente. Ma questa dinamica non c'entra, assicurano i meloniani.L'assunto, in ambienti di governo, è invece che attacchi mediatici al governo ungherese possono solo essere controproducenti: Orban, è accerchiato da partner europei che lo criticano su più fronti, non può permettersi di perdere il consenso interno. E c'è il rischio che anche a Budapest questo caso sia usato in campagna elettorale in vista delle Europee.Quindi, finché le pressioni politiche e mediatiche saranno così evidenti è difficile - il sospetto che accompagna queste riflessioni -, sperare nell'accoglimento della richiesta di domiciliari. Aprire scontri diretti con l'Ungheria o politicizzare la vicenda sono vie che difficilmente aiutano la causa di Salis, secondo l'indicazione che arriva da più parti dell'esecutivo. Un'esortazione alle opposizioni in generale, e al Pd in particolare.    \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Politica",
+        "epoch": 1711724430.6087496,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Meloni works silently, not instrumentalizing Salis",
+        "en_content": "If you want to bring Ilaria Salis back to Italy, it is better to avoid using it to campaign. In the government, this argument circulates in front of the mobilization of the oppositions for the thirty-nine activist who remains in prison in Budapest after the rejection of the request of domiciles. A reflection that also extends to the suggestion, attributed to Elly Schlein, to apply the professor brianzola to Europeans. It is the moment of silence, of lowering the level of polemic, is the line shared between Palazzo Chigi and Farnesina, because it is to lighthouses that work in cases of diplomatic, judicial and political implications so intricate. With the hope that in a few weeks it can be assessed differently a new instance for homeowners in Hungary, an indispensable step to then ask for the same detention regime in the country of origin. In the majority there are those who remember the case of Patrick Zaki. When three years ago the centre left the House insisted on voting for a motion to commit the government to support the request to give it the Italian citizenship, then President of the Council Mario Draghi was quite perplexed, says a weighted member of FdI. Not for merit, but because also on the case of the student held in Egypt it was necessary to avoid inflaming the climate. And then another twenty-four months have passed to arrive at grace, immediately after the sentence to three years. \"A result - claimed in those days the executive of center-right - brought home first by the silent work of Meloni\". Meloni hasn't spoken in public about the Salis case for a couple of months. The last time he replied to the inertia charges raised by Elly Schlein: \"If she's better than us, she'll know what to do.\" \"Even in Hungary there is the autonomy of judges and governments do not enter the processes,\" he said a few days before, after asking Viktor Orban \"a treatment of dignity, respect and a just process\" for the woman. Both conservatives, the two leaders have a consolidated relationship, although the entry of the Hungarian premier party into the family of European Conservators led by Meloni is not on the agenda, as she said recently. But this dynamic has nothing to do with it, they assure melonians. The assumption, in government environments, is instead that media attacks on the Hungarian government can only be counterproductive: Orban, is accused by European partners who criticize him on multiple fronts, cannot afford to lose internal consent. And there is a risk that even in Budapest this case is used in the election campaign in view of Europeans. So, as long as political and media pressures are so obvious it is difficult - the suspicion that accompanies these reflections -, to hope in welcoming the request for domiciles. Open direct clashes with Hungary or politicize the affair are ways that hardly help Salis' cause, according to the indication that it comes from several parts of the executive. An exhortation to oppositions in general, and to the PD in particular.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Meloni",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Salis",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Salis",
+                "start_char": 45,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ilaria Salis",
+                "start_char": 21,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "thirty-nine",
+                "start_char": 193,
+                "end_char": 204,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 239,
+                "end_char": 247,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 361,
+                "end_char": 373,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 411,
+                "end_char": 420,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Palazzo Chigi",
+                "start_char": 512,
+                "end_char": 525,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Farnesina",
+                "start_char": 530,
+                "end_char": 539,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few weeks",
+                "start_char": 676,
+                "end_char": 687,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 752,
+                "end_char": 759,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Patrick Zaki",
+                "start_char": 908,
+                "end_char": 920,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three years ago",
+                "start_char": 927,
+                "end_char": 942,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "House",
+                "start_char": 963,
+                "end_char": 968,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 1064,
+                "end_char": 1071,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Council Mario Draghi",
+                "start_char": 1103,
+                "end_char": 1127,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "FdI. Not",
+                "start_char": 1175,
+                "end_char": 1183,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Egypt",
+                "start_char": 1247,
+                "end_char": 1252,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "another twenty-four months",
+                "start_char": 1311,
+                "end_char": 1337,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three years",
+                "start_char": 1404,
+                "end_char": 1415,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "those days",
+                "start_char": 1440,
+                "end_char": 1450,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 1496,
+                "end_char": 1501,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 1524,
+                "end_char": 1530,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 1533,
+                "end_char": 1539,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Salis",
+                "start_char": 1574,
+                "end_char": 1579,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a couple of months",
+                "start_char": 1589,
+                "end_char": 1607,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 1667,
+                "end_char": 1679,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 1741,
+                "end_char": 1748,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a few days before",
+                "start_char": 1834,
+                "end_char": 1851,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Viktor Orban",
+                "start_char": 1866,
+                "end_char": 1878,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 1971,
+                "end_char": 1974,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 2043,
+                "end_char": 2052,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "European",
+                "start_char": 2086,
+                "end_char": 2094,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 2115,
+                "end_char": 2121,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 2314,
+                "end_char": 2323,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Orban",
+                "start_char": 2366,
+                "end_char": 2371,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 2387,
+                "end_char": 2395,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 2516,
+                "end_char": 2524,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 2579,
+                "end_char": 2588,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 2793,
+                "end_char": 2800,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Salis",
+                "start_char": 2852,
+                "end_char": 2857,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Romeo (Lega), Tusk? I leader Ue non soffino sul fuoco",
+        "date_raw": "Fri, 29 Mar 2024 13:36:18 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/romeo-lega-tusk-i-leader-ue-non-soffino-sul-fuoco_6a7864c8-fddf-4c6f-81bb-f9d584e0a06b.html",
+        "subtitle": "'È giusto proteggere Kiev ma è un dovere aprire i negoziati'",
+        "content": "\n                                                \n            \"Accanto al giusto e principale\nobiettivo di proteggere l'Ucraina dall'invasione russa, i leader\neuropei hanno il dovere di impegnarsi per aprire la via dei\nnegoziati. Il mondo brucia e la ragione suggerisce che anziché\nsoffiare sul fuoco bisognerebbe spegnere gli incendi\". Così il\ncapogruppo della Lega al Senato, Massimiliano Romeo, commenta\ncon Affaritaliani.it le affermazioni del primo ministro polacco\nDonald Tusk a La Repubblica, secondo cui ci troviamo in \"un'era\nprebellica\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 6,
+        "placed": "Politica",
+        "epoch": 1711724430.6142662,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Romeo (Lega), Tusk? EU leaders do not blow on fire",
+        "en_content": "\"Actuated to the right and main\naim to protect Ukraine from Russian invasion, leaders\nEuropeans have a duty to commit themselves to open the way to\nnegotiations. The world burns and reason suggests that instead\nblowing on the fire would have to turn off the fire.\" So the\nGroup leader of the League to the Senate, Massimiliano Romeo, comments\nwith Affaritaliani.it the statements of the Polish Prime Minister\nDonald Tusk in La Repubblica, according to which we are in \"an era\npre-war\".\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Romeo",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lega",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Tusk",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Romeo",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tusk",
+                "start_char": 14,
+                "end_char": 18,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 20,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 47,
+                "end_char": 54,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 60,
+                "end_char": 67,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 86,
+                "end_char": 95,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Group",
+                "start_char": 272,
+                "end_char": 277,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 306,
+                "end_char": 312,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Massimiliano Romeo",
+                "start_char": 314,
+                "end_char": 332,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Affaritaliani.it",
+                "start_char": 348,
+                "end_char": 364,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Polish",
+                "start_char": 387,
+                "end_char": 393,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Donald Tusk",
+                "start_char": 409,
+                "end_char": 420,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "La Repubblica",
+                "start_char": 424,
+                "end_char": 437,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nardella, 'annullata presentazione mio libro alla Luiss'",
+        "date_raw": "Fri, 29 Mar 2024 13:43:01 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/nardella-annullata-presentazione-mio-libro-alla-luiss_420bdb3d-7e93-4f6d-b7fd-8239c89ffd0f.html",
+        "subtitle": "'Con Molinari e Prodi. Clima pesante discriminazione politica'",
+        "content": "\n                                                \n            La presentazione del libro del\nsindaco di Firenze Dario Nardella 'La città universale' era in\nprogramma il 4 aprile alla Luiss a Roma ma \"mi ha chiamato il\npresidente della Luiss Gubitosi, molto dispiaciuto e mi ha\nchiesto di annullare l'evento\". Lo ha reso noto lo stesso\nNardella dicendo di essere \"rimasto sbigottito e dispiaciuto\nperché avevamo concordato la presentazione del libro con\npersonalità di varie posizioni politiche come Gaetano\nQuagliarello la cui storia politica di centrodestra è nota a\ntutti e anche la professoressa Cerrina Feroni che certo non è\nun'intellettuale di sinistra, tutt'altro\". Anche Romano Prodi\nfigurava tra i partecipanti all'incontro, moderato dal direttore\ndi Repubblica, Maurizio Molinari. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1711724430.636609,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Nardella, 'annullata presentation my book at Luiss'",
+        "en_content": "The presentation of the book\nmayor of Florence Dario Nardella 'The universal city' was in\nprogram on April 4 at Luiss in Rome but \"he called me the\nPresident of Luiss Gubitosi, very sorry and has me\nasked to cancel the event.\" It has made known the same\nNardella saying he was \"remained unbalanced and sorry\nbecause we agreed to the presentation of the book with\npersonality of various political positions such as Gaetano\nQuailcolor whose political history of the centre-right is known to\nall and also Professor Cerrina Feroni who is certainly not\na left intellect, far from it.\" Also Romano Prodi\nwas among the participants in the meeting, moderated by the director\nby Repubblica, Maurizio Molinari.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Nardella",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "annullata",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "presentation",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "book",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Luiss",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Nardella",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Florence Dario Nardella '",
+                "start_char": 38,
+                "end_char": 63,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "April 4",
+                "start_char": 101,
+                "end_char": 108,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 121,
+                "end_char": 125,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gubitosi",
+                "start_char": 167,
+                "end_char": 175,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaetano",
+                "start_char": 414,
+                "end_char": 421,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cerrina Feroni",
+                "start_char": 512,
+                "end_char": 526,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Romano",
+                "start_char": 585,
+                "end_char": 591,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Repubblica",
+                "start_char": 670,
+                "end_char": 680,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Maurizio Molinari",
+                "start_char": 682,
+                "end_char": 699,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Fedriga, 'investire in Italia è molto più conveniente'",
+        "date_raw": "Fri, 29 Mar 2024 14:29:31 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/fedriga-investire-in-italia-e-molto-piu-conveniente_1a3bd8e7-8f91-4b35-9d31-7b4c922167d5.html",
+        "subtitle": "L'8 e 9 aprile il Selecting Italy, 'opportunità per il mondo'",
+        "content": "\n                                                \n            \"Oggi investire in Italia è molto\npiù conveniente rispetto ad altri Paesi europei, banalmente\nanche per la quantità di investimento: noi costiamo di meno e\nquesto non sarà per sempre. Oggi investire in Italia è\nun'occasione che non si ripeterà per sempre. In Francia e Gran\nBretagna, ad esempio, il real estate ha prezzi esorbitanti\nrispetto al mercato italiano. Oggi investire in Italia conviene,\npuò essere un'opportunità per il mondo\". Lo ha ribadito, oggi a\nTrieste, il presidente del Friuli Venezia Giulia e della\nConferenza delle Regioni, Massimiliano Fedriga, riferendosi al\nSelecting Italy, l'evento in programma l'8 e il 9 aprile a\nTrieste e che mira ad attrarre investimenti esteri in Italia.\n                                    \n                                       \n\t\t\t\t   Secondo il programma, lunedì 8 aprile si alterneranno\ninterventi istituzionali, tra cui quelli del ministro\ndell'Economia, Giancarlo Giorgetti, e del viceministro del\nMimit, Valentino Valentini; martedì 9 aprile sono invece in\ncalendario il vicepresidente del Consiglio e ministro degli\nEsteri, Antonio Tajani, il ministro delle Imprese, Adolfo Urso,\ne il ministro per la Pubblica amministrazione, Paolo Zangrillo.\n                                    \n                                       \n\t\t\t\t   Per Fedriga il Selecting Italy è \"un'opportunità\nstraordinaria\": \"Abbiamo un problema serio - ha constatato a\nmargine di un incontro - di far conoscere a livello\ninternazionale le potenzialità che ci sono nel nostro Paese.\n                                    \n                                       \n\t\t\t\tTanti vedono il nostro Paese solo per la straordinaria bellezza,\nnon c'è dubbio, per l'enogastronomia, per l'architettura, per la\ncultura, per i paesaggi ma non invece - ha concluso - per le\ngrandi capacità di innovazione che il nostro paese ha e le\nopportunità di investimento\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Politica",
+        "epoch": 1711724430.6517296,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "Fedriga, 'investing in Italy is much cheaper'",
+        "en_content": "\"To invest in Italy is very much\nmore convenient than other European countries, banally\nalso for the amount of investment: we cost less and\nThis will not be forever. Today investing in Italy is\nan opportunity that will not be repeated forever. In France and Gran\nBrittany, for example, the real estate has exorbitant prices\ncompared to the Italian market. Today investing in Italy is convenient,\ncan be an opportunity for the world.\" It has reiterated today\nTrieste, the president of Friuli Venezia Giulia and the\nConference of the Regions, Maximilian Fedriga, referring to the\nSelecting Italy, the event scheduled on 8 and 9 April to\nTrieste is aimed at attracting foreign investments in Italy.\n\n\nAccording to the program, Monday, April 8 will alternate\ninstitutional interventions, including those of the Minister\nof the Economy, Giancarlo Giorgetti, and the Deputy Minister of the\nMimit, Valentino Valentini; Tuesday 9 April are instead in\nCouncil Vice-President and Minister for Economic Affairs\nEsteri, Antonio Tajani, Minister of Enterprise, Adolfo Urso,\nand the Minister for Public Administration, Paolo Zangrillo.\n\n\nFor Fedriga the Selecting Italy is \"an opportunity\nextraordinary\": \"We have a serious problem - it has found\nthe margin of a meeting - to make known at the level\ninternational the potential in our country.\n\n\nMany see our country only for the extraordinary beauty,\nthere is no doubt, for food and wine, for architecture, for\nculture, for landscapes but not - it has concluded - for the\ngreat innovation skills that our country has and\ninvestment opportunities.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Italy",
+                "start_char": 23,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italy",
+                "start_char": 14,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 60,
+                "end_char": 68,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Today",
+                "start_char": 166,
+                "end_char": 171,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 185,
+                "end_char": 190,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 247,
+                "end_char": 253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gran\nBrittany",
+                "start_char": 258,
+                "end_char": 271,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italian",
+                "start_char": 340,
+                "end_char": 347,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Today",
+                "start_char": 356,
+                "end_char": 361,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 375,
+                "end_char": 380,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 452,
+                "end_char": 457,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Trieste",
+                "start_char": 458,
+                "end_char": 465,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friuli",
+                "start_char": 484,
+                "end_char": 490,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Venezia",
+                "start_char": 491,
+                "end_char": 498,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Giulia",
+                "start_char": 499,
+                "end_char": 505,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Maximilian Fedriga",
+                "start_char": 541,
+                "end_char": 559,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "8 and 9 April",
+                "start_char": 618,
+                "end_char": 631,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Trieste",
+                "start_char": 635,
+                "end_char": 642,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 689,
+                "end_char": 694,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Monday, April 8",
+                "start_char": 724,
+                "end_char": 739,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giancarlo Giorgetti",
+                "start_char": 832,
+                "end_char": 851,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mimit",
+                "start_char": 884,
+                "end_char": 889,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Valentino Valentini",
+                "start_char": 891,
+                "end_char": 910,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday 9 April",
+                "start_char": 912,
+                "end_char": 927,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Council",
+                "start_char": 943,
+                "end_char": 950,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Esteri",
+                "start_char": 1000,
+                "end_char": 1006,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Antonio Tajani",
+                "start_char": 1008,
+                "end_char": 1022,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Adolfo Urso",
+                "start_char": 1048,
+                "end_char": 1059,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Paolo Zangrillo",
+                "start_char": 1105,
+                "end_char": 1120,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Selecting Italy",
+                "start_char": 1136,
+                "end_char": 1155,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Il Papa: 'Basta una tastiera per insultare e sentenziare'",
+        "date_raw": "Fri, 29 Mar 2024 14:06:03 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/29/il-papa-basta-una-tastiera-per-insultare-e-sentenziare_4bff6a3d-6c2a-4ed2-8b74-90d04acbabed.html",
+        "subtitle": "'Tanti cristi umiliati dalla prepotenza'. Le meditazioni della Via Crucis scritte dal Pontefice. 'Andare controcorrente, rischiare per amore'",
+        "content": "Una  sarà tra le meditazioni della Via Crucis scritte dal Papa. \"Gesù, tanti seguono il barbaro spettacolo della tua esecuzione e, senza conoscerti e senza conoscere la verità, emettono giudizi e condanne, gettando su di te infamia e disprezzo. Accade anche oggi, Signore, e non serve nemmeno un macabro corteo: basta una tastiera per insultare e pubblicare sentenze\", sottolinea Papa Francesco. Nella sesta stazione (\"Gesù riceve conforto dalla Veronica che gli asciuga il volto\") il Papa ricorda che \"mentre tanti urlano e giudicano, una donna si fa strada in mezzo alla folla. Non parla: agisce. Non inveisce: s'impietosisce. , trova il modo di passare tra i soldati solo per darti sul volto il conforto di una carezza. Il suo gesto passerà alla storia ed è un gesto di consolazione\". E' possibile anche oggi vedere Gesù crocifisso \"nei , da guadagni iniqui fatti sulla pelle degli altri nell'indifferenza generale\". Lo dice il Pontefice nelle meditazioni della Via Crucis di questa sera al Colosseo. \"Ora capisco questa tua insistenza nell'immedesimarti coi bisognosi: tu sei stato carcerato; tu straniero, condotto fuori della città per esser crocifisso; tu sei nudo, spogliato delle vesti; tu, malato e ferito; tu, assetato sulla croce e affamato d'amore. Fa' che ti veda nei sofferenti e che veda i sofferenti in te, perché tu sei lì, in chi è spogliato di dignità\", è la preghiera del Papa.  che si terrà questa sera al Colosseo con Papa Francesco. Le donne al Calvario \"non hanno voce ma si fanno sentire. Aiutaci a riconoscere la grandezza delle donne, loro che a Pasqua sono state fedeli e vicine a te, ma che ancora oggi vengono scartate, subendo oltraggi e violenze\", sottolinea il Pontefice nelle meditazioni. \"Gesù, le donne che incontri si battono il petto e fanno lamenti su di te. Non si piangono addosso, ma piangono per te, piangono sul male e sul peccato del mondo\", è la preghiera di Papa Francesco all'ottava stazione (\"Gesù incontra le donne di Gerusalemme\"). \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1711724430.659629,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-03-29 16:00:30",
+        "filename": "ner_conc_en_2024-03-29T16.00.24E1711728024.754223.json",
+        "en_title": "The Pope: 'Just a keyboard to insult and hear'",
+        "en_content": "One will be among the meditations of the Via Crucis written by the Pope. \"Jesus, many follow the barbaric spectacle of your execution and, without knowing and without knowing the truth, issue judgments and convictions, throwing on you infamy and contempt. It also happens today, Lord, and there is no need for a short macabre: a keyboard is enough to insult and publish judgments,\" Pope Francis points out. In the sixth station (\"Jesus receives comfort from Veronica who dries his face\") the Pope recalls that \"while so many scream and judge, a woman makes her way in the crowd. He does not speak: he acts. He doesn't mean he's using. , find a way to pass among the soldiers only to give you on your face the comfort of a caress. His gesture will pass to history and is a gesture of consolation.\" It is also possible today to see Jesus crucified \"in the world, from unequivocal gains made on the skin of others in general indifference\". The Pontiff says this in the meditations of the Via Crucis this evening at the Colosseum. \"Now I understand your insistence in empathy with the needy: you have been imprisoned; you stranger, led out of the city to be crucified; you are naked, stripped of clothes; you, sick and hurt; you, thirsty on the cross and hungry for love. Let him see you in the suffering and see the suffering in you, for you are there, in whom is stripped of dignity\", is the Pope's prayer. that will be held tonight at the Colosseum with Pope Francis. Women at Calvary \"have no voice but make themselves heard. Help us to recognize the greatness of women, who at Easter were faithful and close to you, but who are still being discarded, undergoing outrages and violence,\" the Pontiff underlines in meditations. \"Jesus, the women you meet beat their breasts and complain about you. They do not weep on each other, but cry for you, weep on the evil and sin of the world,\" is Pope Francis' prayer at the eighth station (\"Jesus meets the women of Jerusalem\").\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "keyboard",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "One",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Via Crucis",
+                "start_char": 37,
+                "end_char": 51,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 74,
+                "end_char": 79,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 272,
+                "end_char": 277,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Francis",
+                "start_char": 387,
+                "end_char": 394,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "sixth",
+                "start_char": 414,
+                "end_char": 419,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 430,
+                "end_char": 435,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Veronica",
+                "start_char": 458,
+                "end_char": 466,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 817,
+                "end_char": 822,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jesus",
+                "start_char": 830,
+                "end_char": 835,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Via Crucis",
+                "start_char": 981,
+                "end_char": 995,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "this evening",
+                "start_char": 996,
+                "end_char": 1008,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Colosseum",
+                "start_char": 1016,
+                "end_char": 1025,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "tonight",
+                "start_char": 1423,
+                "end_char": 1430,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Colosseum",
+                "start_char": 1438,
+                "end_char": 1447,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 1458,
+                "end_char": 1465,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Calvary",
+                "start_char": 1476,
+                "end_char": 1483,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Easter",
+                "start_char": 1578,
+                "end_char": 1584,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 1727,
+                "end_char": 1732,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pope Francis'",
+                "start_char": 1888,
+                "end_char": 1901,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "eighth",
+                "start_char": 1916,
+                "end_char": 1922,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 1933,
+                "end_char": 1938,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Jerusalem",
+                "start_char": 1958,
+                "end_char": 1967,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]

@@ -1,0 +1,784 @@
+[
+    {
+        "title": "Mattarella da domani in Costa d'Avorio e Ghana",
+        "date_raw": "Mon, 1 Apr 2024 14:26:24 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/mattarella-da-domani-in-costa-davorio-e-ghana_1640e629-fdbf-4032-aca9-9318c502d24f.html",
+        "subtitle": "Torna in Africa dopo Kenya, Zambia, Mozambico, Etiopia e Algeria",
+        "content": "\n                                                \n            Sergio Mattarella torna in Africa per\nuna visita di Stato in Costa d'Avorio confermando quanto il\ncontinente sia tornato strategico per l'Italia dopo anni di\ndisattenzione che hanno permesso ad altri Paesi (alcuni europei\nma soprattutto a Cina e Russia) la penetrazione economica e\npolitica dell'area. Il presidente della Repubblica atterrerà\ndomani ad Abidjan per una visita di Stato, la prima in assoluto\ndi un capo di Stato italiano nel Paese. Si tratta - segnalano\ndal Quirinale - di \"un segnale di grande attenzione e di un\nmessaggio politico chiaro\" all'Africa occidentale che sarà\ncompletato con una missione a seguire nel vicino Ghana dove\nMattarella si sposterà giovedì 4 aprile. Si arricchisce così la\ngeografia politica africana del presidente che ha già visitato\nnegli anni scorsi il Kenya, lo Zambia, il Mozambico, l'Etiopia e\nl'Algeria. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 1,
+        "placed": "Politica",
+        "epoch": 1711976421.6231043,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-01 15:00:21",
+        "filename": "ner_conc_en_2024-04-01T15.00.20E1711983620.924551.json",
+        "en_title": "Mattarella from tomorrow in Ivory Coast and Ghana",
+        "en_content": "Sergio Mattarella returns to Africa for\na State visit to Ivory Coast confirming how much the\ncontinent has returned strategic for Italy after years of\nattention to other countries (some Europeans\nbut especially in China and Russia) economic penetration and\narea policy. The President of the Republic will land\ntomorrow in Abidjan for a visit of state, the first ever\nof an Italian head of state in the country. It is - report\nfrom the Quirinale - of \"a signal of great attention and of a\nclear political message\" to West Africa\ncompleted with a mission to follow in nearby Ghana where\nMattarella will move on Thursday 4 April. That's how it gets rich.\nAfrican political geography of the President\nin recent years Kenya, Zambia, Mozambique, Ethiopia and\nAlgeria.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tomorrow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ivory",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Coast",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ghana",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "tomorrow",
+                "start_char": 16,
+                "end_char": 24,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ivory Coast",
+                "start_char": 28,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 44,
+                "end_char": 49,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Sergio Mattarella",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Africa",
+                "start_char": 29,
+                "end_char": 35,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "State",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ivory Coast",
+                "start_char": 57,
+                "end_char": 68,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 130,
+                "end_char": 135,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "years",
+                "start_char": 142,
+                "end_char": 147,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 186,
+                "end_char": 195,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "China",
+                "start_char": 214,
+                "end_char": 219,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 224,
+                "end_char": 230,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 310,
+                "end_char": 318,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Abidjan",
+                "start_char": 322,
+                "end_char": 329,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 356,
+                "end_char": 361,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 373,
+                "end_char": 380,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Quirinale - of",
+                "start_char": 431,
+                "end_char": 449,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "West Africa",
+                "start_char": 516,
+                "end_char": 527,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 573,
+                "end_char": 578,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 585,
+                "end_char": 595,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Thursday 4 April",
+                "start_char": 609,
+                "end_char": 625,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "African",
+                "start_char": 652,
+                "end_char": 659,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "recent years",
+                "start_char": 700,
+                "end_char": 712,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kenya",
+                "start_char": 713,
+                "end_char": 718,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zambia",
+                "start_char": 720,
+                "end_char": 726,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mozambique",
+                "start_char": 728,
+                "end_char": 738,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ethiopia",
+                "start_char": 740,
+                "end_char": 748,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Algeria",
+                "start_char": 753,
+                "end_char": 760,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Il Papa, pace per popoli stremati da guerra, fame, oppressione",
+        "date_raw": "Mon, 1 Apr 2024 13:28:26 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/il-papa-pace-per-popoli-stremati-da-guerra-fame-oppressione_b9ce8ab2-5560-44f5-a6f6-f6a2d54d467f.html",
+        "subtitle": "In 12mila al Regina Caeli in Piazza San Pietro",
+        "content": "\n                                                \n            \"Rinnovo a tutti gli\nauguri pasquali e ringrazio di cuore coloro che in diversi modi\nmi hanno inviato messaggi di vicinanza e di preghiera\". Lo ha\ndetto papa Francesco al Regina Caeli del Lunedì dell'Angelo.\n                                    \n                                       \n\t\t\t\t   \"A queste persone, famiglie, comunità giunga il dono  della\npace del Signore risorto - ha aggiunto il Pontefice -. E vorrei\nche questo dono della pace arrivasse là dove più ce n'è bisogno:\nalle popolazioni stremate dalla guerra, dalla fame, da ogni\nforma di oppressione\".\n                                    \n                                       \n\t\t\t\t   Secondo la Gendarmeria vaticana, erano circa 12 mila i fedeli\npresenti in piazza San Pietro per la recita del Regina Caeli, la\npreghiera mariana che nel tempo pasquale sostituisce l'Angelus.\n                                    \n                                       \n\t\t\t\tA riferire il dato la Sala stampa della Santa Sede. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1711976421.7293043,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-01 15:00:21",
+        "filename": "ner_conc_en_2024-04-01T15.00.20E1711983620.924551.json",
+        "en_title": "The Pope, peace for war-stricken peoples, hunger, oppression",
+        "en_content": "\"I used to call all\nEaster greetings and I thank heart those who in different ways\nthey sent me messages of closeness and prayer.\" He did.\nPope Francis said to Queen Caeli on Monday of the Angel.\n\n\n\"To these people, families, communities come the gift of\npeace of the risen Lord - the Pontiff added -. And I wish\nthat this gift of peace came where there is no need:\nto the peoples strewed by war, by hunger, by every\nform of oppression.\"\n\n\nAccording to the Vatican Gendarmerie, there were about 12 thousand faithful\npresent in St. Peter's Square for the recitation of Queen Caeli, the\nMarian prayer that in Easter time replaces the Angelus.\n\n\nTo report the data the Press Office of the Holy See.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "peace",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "war",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "peoples",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hunger",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "oppression",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter",
+                "start_char": 20,
+                "end_char": 26,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Francis",
+                "start_char": 144,
+                "end_char": 151,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Queen Caeli",
+                "start_char": 160,
+                "end_char": 171,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Monday",
+                "start_char": 175,
+                "end_char": 181,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Angel",
+                "start_char": 189,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vatican Gendarmerie",
+                "start_char": 457,
+                "end_char": 476,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "about 12 thousand",
+                "start_char": 489,
+                "end_char": 506,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "St. Peter's",
+                "start_char": 527,
+                "end_char": 538,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Queen Caeli",
+                "start_char": 568,
+                "end_char": 579,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marian",
+                "start_char": 585,
+                "end_char": 591,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Easter",
+                "start_char": 607,
+                "end_char": 613,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Angelus",
+                "start_char": 632,
+                "end_char": 639,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the Press Office of the Holy See",
+                "start_char": 662,
+                "end_char": 694,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Giovedì al via l'esame della proposta di legge sulla settimana corta",
+        "date_raw": "Mon, 1 Apr 2024 14:22:47 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/giovedi-al-via-lesame-della-proposta-di-legge-sulla-settimana-corta_d2e47696-50fb-43f5-8f80-8fe28e7086e2.html",
+        "subtitle": "Provvedimento a firma Scotto (Pd), Fratoianni (Avs) e Conte (M5s)",
+        "content": "Comincerà giovedì alle 13.30 in sede referente in Commissione Lavoro della Camera, l'avvio dell'esame della proposta di legge delle opposizioni sulla settimana corta. Il provvedimento porta le firme di Arturo Scotto Pd), Nicola Fratoianni (SI) e Giuseppe Conte (M5S). In questa seduta, non sono previste votazioni.  \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Politica",
+        "epoch": 1711976421.755165,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-01 15:00:21",
+        "filename": "ner_conc_en_2024-04-01T15.00.20E1711983620.924551.json",
+        "en_title": "Thursday at the start of the examination of the bill on the short week",
+        "en_content": "It will begin on Thursday at 13.30 in the House Labour Commission, the beginning of the examination of the proposed law of the oppositions on the short week. The measure bears the signatures of Arturo Scotto Pd), Nicola Fratoianni (SI) and Giuseppe Conte (M5S). In this session, there are no votes.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Thursday",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "start",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "examination",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "week",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Thursday",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the short week",
+                "start_char": 56,
+                "end_char": 70,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Thursday",
+                "start_char": 17,
+                "end_char": 25,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "13.30",
+                "start_char": 29,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the House Labour Commission",
+                "start_char": 38,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the short week",
+                "start_char": 142,
+                "end_char": 156,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Arturo Scotto Pd",
+                "start_char": 194,
+                "end_char": 210,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nicola Fratoianni",
+                "start_char": 213,
+                "end_char": 230,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 240,
+                "end_char": 254,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Pd, 'Santanchè si è dimessa'. Ma è un pesce d'aprile sui social",
+        "date_raw": "Mon, 1 Apr 2024 13:52:38 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/pd-santanche-si-e-dimessa.-ma-e-un-pesce-daprile-sui-social_73b1c7dc-2954-443f-8b35-b260b5de1e49.html",
+        "subtitle": "Dem, ogni giorno in più da ministra è un'offesa alle istituzioni",
+        "content": "\n                                                \n            Sui social del Partito Democratico\nuna card con la foto della ministra del Turismo in bianco e nero\ne la frase \"Santanchè si è dimessa\", seguita da un asterisco.\n                                    \n                                       \n\t\t\t\tNel testo che accompagna la foto viene ripreso l'asterisco, con\nla spiegazione dello scherzo firmato Pd: \"pesce d'aprile,\npurtroppo\". \"Ma non ci arrendiamo, - si aggiunge - ogni giorno\nin più da ministra è un'offesa alle istituzioni del Paese\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 2,
+        "placed": "Politica",
+        "epoch": 1711976421.7908022,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-01 15:00:21",
+        "filename": "ner_conc_en_2024-04-01T15.00.20E1711983620.924551.json",
+        "en_title": "Pd, 'Santanche resigned'. But it's an April fish on social media",
+        "en_content": "Social on the Democratic Party\na card with photo of the black and white Tourism Minister\nand the phrase \"Santanche has resigned\", followed by an asterisk.\n\n\nIn the text that accompanies the photo is taken the asterisk, with\nthe explanation of the joke signed Pd: \"April fish,\nUnfortunately.\" \"But we do not give up, - it adds - every day\nIn addition, it is an offense to the institutions of the country.\"\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pd",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Santanche",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "April",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fish",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "media",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Santanche",
+                "start_char": 5,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "April",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Democratic Party",
+                "start_char": 10,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Santanche",
+                "start_char": 105,
+                "end_char": 114,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "April",
+                "start_char": 264,
+                "end_char": 269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Ilaria Salis ringrazia Mattarella, 'sono molto contenta'",
+        "date_raw": "Mon, 1 Apr 2024 14:49:05 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/01/ilaria-salis-ringrazia-mattarella-sono-molto-contenta_7294bc9d-829c-4b4f-bb61-bab51d494f32.html",
+        "subtitle": "'Impressionata dalla rapidità della risposta in prima persona'",
+        "content": "\"Sono molto contenta, ringrazio davvero il presidente della Repubblica Sergio Mattarella. Mi ha molto impressionato che abbia  e che lo abbia fatto con questa rapidità. Lo ringrazio davvero tanto per il suo coinvolgimento\": così Ilaria Salis ha voluto ringraziare il presidente della Repubblica Sergio Mattarella come ha riferito all'ANSA suo padre Roberto, contattato sabato dal capo dello Stato.     Ilaria Salis è in carcere da più di 13 mesi a Budapest con l'accusa di aver partecipato a due aggressioni nei confronti di militanti di estrema destra.   Roberto Salis ha spiegato che \"Ilaria sta bene e, si sta riprendendo\" dopo quando è stata respinta la richiesta di passare ai domiciliari avanzata dai suoi legali: \"E' stata una brutta botta - ha proseguito il padre della 39enne docente milanese - perché ci contava molto ma ha un piglio abbastanza forte e non ho dubbi che sopporterà bene questa prova di resistenza\".\"Quanto successo giovedì - ha aggiunto - con la sentenza per Ilaria e con quella per Gabriele Marchesi ha rafforzato l'impressione che c'è qualcosa che non va bene e che c'è chiaramente una disparità nell'attuazione dei principi costituzionali\".Si aspetta ora l'esito dell'appello presentato contro la mancata concessione dei domiciliari \"che se non altro verrà giudicato da un'altra corte e non sarà più nelle mani del giudice Jozsef Sós che ha un evidente pregiudizio nei confronti di Ilaria e che in Italia sarebbe già stato ricusato\".  \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1711976421.842306,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-01 15:00:21",
+        "filename": "ner_conc_en_2024-04-01T15.00.20E1711983620.924551.json",
+        "en_title": "Ilaria Salis thanks Mattarella, 'I'm very happy'",
+        "en_content": "\"I am very happy, I really thank the President of the Republic Sergio Mattarella. I was very impressed that he had and did so quickly. Thank you very much for your involvement\": so Ilaria Salis wanted to thank the president of the Republic Sergio Mattarella as reported to the NSA his father Roberto, contacted Saturday by the head of the state. Ilaria Salis has been in prison for more than 13 months in Budapest with the accusation of having participated in two attacks against militants of the extreme right. Roberto Salis explained that \"Ilaria is fine and, is recovering\" after the request was rejected to pass to the domiciles advanced by his lawyers: \"It was a bad bang - he continued the father of the 39-year-old Milanese teacher - because it counted a lot but it has a piglio strong enough and I have no doubt that it will bear well this proof of resistance\". \"How successful Thursday - he added - with the judgment for Ilaria and with that for Gabriele Marchesi has strengthened the impression that there is something that is not good and that there is clearly a disparity in the implementation of constitutional principles\". The outcome of the appeal against the failure to grant the domiciles is now expected \"that if nothing else will be judged by another court and will no longer be in the hands of Judge Jozsef Sós who has a clear prejudice against Ilaria and who in Italy would already be recused\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Ilaria",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "thanks",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "Mattarella",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ilaria Salis",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 20,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Republic Sergio Mattarella",
+                "start_char": 50,
+                "end_char": 80,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 181,
+                "end_char": 193,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Republic Sergio Mattarella",
+                "start_char": 227,
+                "end_char": 257,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NSA",
+                "start_char": 277,
+                "end_char": 280,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Roberto",
+                "start_char": 292,
+                "end_char": 299,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 311,
+                "end_char": 319,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 346,
+                "end_char": 358,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "more than 13 months",
+                "start_char": 382,
+                "end_char": 401,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 405,
+                "end_char": 413,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 460,
+                "end_char": 463,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Roberto Salis",
+                "start_char": 512,
+                "end_char": 525,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 542,
+                "end_char": 548,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "39-year-old",
+                "start_char": 710,
+                "end_char": 721,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Milanese",
+                "start_char": 722,
+                "end_char": 730,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 886,
+                "end_char": 894,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 930,
+                "end_char": 936,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gabriele Marchesi",
+                "start_char": 955,
+                "end_char": 972,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Jozsef Sós",
+                "start_char": 1320,
+                "end_char": 1330,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 1365,
+                "end_char": 1371,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 1383,
+                "end_char": 1388,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]

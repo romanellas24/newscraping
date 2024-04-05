@@ -1,0 +1,2313 @@
+[
+    {
+        "title": " Salvini si racconta a Belve: \"Mia leadership? Ho ancora tanto da dare\" e \"Meloni gioca a Burraco con mia fidanzata\"",
+        "date_raw": "Tue, 02 Apr 2024 15:39:43 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-04-02/matteo-salvini-a-belve-25895700/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp;\"Io penso di avere ancora tanto da dare, ho voglia, idee, tempo... Poi persone in gamba ce ne sono, ma li lascio aspettare un attimo\". Lo dice Matteo Salvini, ospite della trasmissione Belve su Raidue in onda questa sera, a proposito della sua leadership nella Lega.&nbsp; Qualcuno si è fatto avanti? \"No\", risponde secco.<br> Il congresso della Lega si farà \"entro l'autunno, certo. L'ultima roba che voglio è sembrare incollato alla poltrona\" aggiunge Salvini \"Con Giorgia stiamo costruendo un'amicizia. Ogni tanto la sera gioca a burraco con la mia fidanzata. Sono due faine e odiano perdere\".",
+        "ranked": 1,
+        "placed": "Politica",
+        "epoch": 1712091623.9299233,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "Salvini is told in Belve: \"My leadership? I still have so much to give\" and \"Meloni plays Burraco with my girlfriend\"",
+        "en_content": "AGI -&nbsp;&nbsp;\"I think I still have so much to give, I want, ideas, time... Then there are good people, but I'll let them wait a minute.\" Matteo Salvini, guest of the Belve broadcast on Raidue this evening, says about his leadership in the League.&nbsp; Has anyone come forward? \"No\", he says dry.<br> The League Congress will be \"in the fall, of course. The last stuff I want is to look glued to the armchair,\" adds Salvini \"With Giorgia we are building a friendship. Every now and then, she's playing burraco with my fiancée. They're two flours and they hate to lose.\"",
+        "concepts": [
+            {
+                "word": "Salvini",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belve",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "leadership",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Meloni",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Burraco",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "girlfriend",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Belve",
+                "start_char": 19,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Burraco",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a minute",
+                "start_char": 130,
+                "end_char": 138,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Belve",
+                "start_char": 170,
+                "end_char": 175,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Raidue",
+                "start_char": 189,
+                "end_char": 195,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "this evening",
+                "start_char": 196,
+                "end_char": 208,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "The League Congress",
+                "start_char": 305,
+                "end_char": 324,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the fall",
+                "start_char": 337,
+                "end_char": 345,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Salvini",
+                "start_char": 420,
+                "end_char": 427,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giorgia",
+                "start_char": 434,
+                "end_char": 441,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 539,
+                "end_char": 542,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Riforme: il Senato approva l'elezione diretta del premier",
+        "date_raw": "Tue, 02 Apr 2024 14:09:24 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-04-02/senato-approva-elezione-diretta-del-premier-25894098/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;La commissione Affari costituzionali del Senato ha approvato l'emendamento del governo che modifica l'articolo 92 della Costituzione e introduce l'elezione diretta del presidente del Consiglio dei ministri.<br> Il Governo - si legge nel testo approvato - \"è composto del Presidente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri. Il Presidente del Consiglio è eletto a suffragio universale e diretto per cinque anni, per non più di due legislature consecutive, elevate a tre qualora nelle precedenti abbia ricoperto l'incarico per un periodo inferiore a sette anni e sei mesi. Le elezioni delle Camere e del Presidente del Consiglio hanno luogo contestualmente. \n&nbsp; \nLa legge disciplina il sistema per l'elezione delle Camere e del Presidente del Consiglio, assegnando un premio su base nazionale che garantisca una maggioranza dei seggi in ciascuna delle Camere alle liste e ai candidati collegati al Presidente del Consiglio, nel rispetto del principio di rappresentatività\".<br> La norma prevede poi che \"il Presidente del Consiglio è eletto nella Camera nella quale ha presentato la candidatura\" e che \"il Presidente della Repubblica conferisce al Presidente del Consiglio eletto l'incarico di formare il Governo; nomina e revoca, su proposta di questo, i ministri\".",
+        "ranked": 2,
+        "placed": "Politica",
+        "epoch": 1712091623.9299605,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "Reforms: the Senate approves the direct election of the premier",
+        "en_content": "AGI -&nbsp;The Senate Constitutional Affairs Committee approved the amendment of the government amending Article 92 of the Constitution and introduces the direct election of the President of the Council of Ministers.<br> The Government - reads in the approved text - \"is composed of the President of the Council and the Ministers, who together constitute the Council of Ministers. The President of the Council is elected by universal and direct suffrage for five years, for no more than two consecutive legislatures, three when he has held office for a period of less than seven years and six months. The elections of the Chambers and the President of the Council take place simultaneously.\n&nbsp;\nThe law regulates the system for the election of the Chambers and the President of the Council, assigning a national award which guarantees a majority of seats in each of the Chambers to the lists and candidates linked to the President of the Council, in accordance with the principle of representation\". appoint and revoke, on a proposal of this, the ministers\".",
+        "concepts": [
+            {
+                "word": "Reforms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Senate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "premier",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Senate",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senate Constitutional Affairs Committee",
+                "start_char": 15,
+                "end_char": 54,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Article 92 of the Constitution",
+                "start_char": 105,
+                "end_char": 135,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "the Council of Ministers.<br>",
+                "start_char": 191,
+                "end_char": 220,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 304,
+                "end_char": 311,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 355,
+                "end_char": 379,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 402,
+                "end_char": 409,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "five years",
+                "start_char": 458,
+                "end_char": 468,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "no more than two",
+                "start_char": 474,
+                "end_char": 490,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three",
+                "start_char": 517,
+                "end_char": 522,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "less than seven years",
+                "start_char": 563,
+                "end_char": 584,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "six months",
+                "start_char": 589,
+                "end_char": 599,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chambers",
+                "start_char": 622,
+                "end_char": 630,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 656,
+                "end_char": 663,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chambers",
+                "start_char": 751,
+                "end_char": 759,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 785,
+                "end_char": 792,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chambers",
+                "start_char": 873,
+                "end_char": 881,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 941,
+                "end_char": 948,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Sardegna: conto alla rovescia per la Giunta Todde, i primi nomi",
+        "date_raw": "Tue, 02 Apr 2024 12:05:27 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-04-02/sardegna-a-breve-i-nomi-della-giunta-todde-25892502/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp;Entro questa settimana la nuova presidente della Regione Sardegna, Alessandra Todde, dovrà chiudere l'intesa sulla futura Giunta coi partiti del Campo largo di centrosinistra con cui ha vinto le elezioni del 25 febbraio scorso. I criteri della competenza, della parità di genere>, della rappresentatività e della territorialità dovrebbero guidarla nella scelta degli assessori, tenuto conto delle indicazioni delle forze della coalizione.<br> Il Pd, primo partito della coalizione, rivendica la presidenza del Consiglio regionale, che potrebbe andare al segretario sardo Piero Comandini, il quale, a quel punto, metterebbe il suo mandato a disposizione dei suoi. I dem hanno chiesto anche la vicepresidenza della Giunta >regionale per Giuseppe Meloni (presidente del partito), oltre agli assessorati al Bilancio e Programmazione (sempre per Meloni), Affari generali e Ambiente. Ufficialmente i nomi saranno proposti a Todde dal Pd in questi giorni. \n<br> Al secondo partito, il M5S, di cui fa parte la presidente, potrebbero andare Sanità e Lavoro, a meno che Todde non affidi il primo a un tecnico. Per l'altro assessorato potrebbe essere designata, ma è ancora una delle ipotesi, la consigliera regionale uscente Desire' Manca, la più votata in Sardegna il 25 febbraio con oltre 8 mila preferenze raccolte nel collegio di Sassari.<br> Alleanza Verdi Sinistra potrebbe ottenere i Lavori pubblici, col consigliere regionale uscente Antonino Piu, rieletto nel Sassarese, mentre Orizzonte Comune ha chiesto Turismo, Artigianato e Commercio, materie nelle corde del coordinatore regionale Franco Cuccureddu, già sindaco di Castelsardo, eletto nel collegio di Sassari. Sinistra Futura punta sull'assessorato alla Cultura e Pubblica istruzione, per il quale si fa il nome del candidato consigliere non eletto Andrea Dettori. \n&nbsp;",
+        "ranked": 3,
+        "placed": "Politica",
+        "epoch": 1712091623.929984,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "Sardinia: countdown for the Todde Junta, the first names",
+        "en_content": "AGI -&nbsp;&nbsp;This week the new president of the Sardinia Region, Alessandra Todde, will have to close the agreement on the future Junta with the parties of the Campo wide di centrosinistra with which he won the elections of 25 February last. The criteria of competence, gender equality, representativeness and territoriality should guide it in the choice of councillors, taking into account the indications of the coalition forces. The PD, the first party of the coalition, demands the presidency of the Regional Council, which could go to the Sardinian secretary Piero Comandini, who, at that point, would put his mandate at his disposal. The dems also called for the vice-presidentship of the >regional Junta for Giuseppe Meloni (president of the party), as well as the councillors of the Budget and Programming (always for Meloni), General Affairs and Environment. Officially the names will be proposed to Todde by the Pd these days.\n<br At the second party, the M5S, of which the president is a member, could go Health and Work, unless Todde entrusts the first to a technician. For the other council member may be designated, but it is still one of the hypotheses, the outgoing regional councilwoman Desire' Miss, the most voted in Sardinia on 25 February with more than 8 thousand preferences collected in the College of Sassari.<br> Alliance Verdi Sinistra could obtain the Public Works, with the outgoing regional councilman Antonino Piu, re-elected in the Sassarese, while Orizzonte Comune asked for Tourism, Crafts and Coordinator Sinistra Futura focuses on the Department of Culture and Public Education, for which the nominee Andrea Dettori is named.\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Sardinia",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "countdown",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Todde",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Junta",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "names",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Sardinia",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Todde Junta",
+                "start_char": 24,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 45,
+                "end_char": 50,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Sardinia Region",
+                "start_char": 48,
+                "end_char": 67,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Alessandra Todde",
+                "start_char": 69,
+                "end_char": 85,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Junta",
+                "start_char": 134,
+                "end_char": 139,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Campo",
+                "start_char": 164,
+                "end_char": 169,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25 February",
+                "start_char": 228,
+                "end_char": 239,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 448,
+                "end_char": 453,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Regional Council",
+                "start_char": 504,
+                "end_char": 524,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sardinian",
+                "start_char": 548,
+                "end_char": 557,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Comandini",
+                "start_char": 574,
+                "end_char": 583,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "dems",
+                "start_char": 648,
+                "end_char": 652,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Junta for Giuseppe Meloni",
+                "start_char": 709,
+                "end_char": 734,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Budget and Programming",
+                "start_char": 791,
+                "end_char": 817,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 830,
+                "end_char": 836,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "General Affairs",
+                "start_char": 839,
+                "end_char": 854,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Todde",
+                "start_char": 913,
+                "end_char": 918,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "these days",
+                "start_char": 929,
+                "end_char": 939,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "second",
+                "start_char": 952,
+                "end_char": 958,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Health and Work",
+                "start_char": 1020,
+                "end_char": 1035,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Todde",
+                "start_char": 1044,
+                "end_char": 1049,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 1063,
+                "end_char": 1068,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Desire",
+                "start_char": 1208,
+                "end_char": 1214,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 1240,
+                "end_char": 1248,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "25 February",
+                "start_char": 1252,
+                "end_char": 1263,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than 8 thousand",
+                "start_char": 1269,
+                "end_char": 1289,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the College of Sassari.<br",
+                "start_char": 1315,
+                "end_char": 1341,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alliance Verdi Sinistra",
+                "start_char": 1343,
+                "end_char": 1366,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Public Works",
+                "start_char": 1380,
+                "end_char": 1396,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antonino Piu",
+                "start_char": 1436,
+                "end_char": 1448,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sassarese",
+                "start_char": 1468,
+                "end_char": 1477,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Orizzonte Comune",
+                "start_char": 1485,
+                "end_char": 1501,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Crafts",
+                "start_char": 1521,
+                "end_char": 1527,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Coordinator Sinistra Futura",
+                "start_char": 1532,
+                "end_char": 1559,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Department of Culture and Public Education",
+                "start_char": 1571,
+                "end_char": 1617,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Andrea Dettori",
+                "start_char": 1641,
+                "end_char": 1655,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Meloni: \"Sia Pasqua di speranza, gioia e rinascita\" [VIDEO]",
+        "date_raw": "Sun, 31 Mar 2024 11:22:03 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-03-31/meloni-sia-pasqua-di-speranza-gioia-e-rinascita-video-25872571/",
+        "subtitle": "",
+        "content": "AGI - \"A tutti voi e alle vostre famiglie una felice Santa Pasqua di Resurrezione che sia fatta di speranza, di gioia, di rinascita. Tanti auguri a tutti gli italiani\". Lo dice la presidente del Consiglio, Giorgia Meloni, in un video pubblicato sui suoi canali social.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp;",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1712091623.9300036,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "Meloni: \"The Easter of hope, joy and rebirth\" [VIDEO]",
+        "en_content": "AGI - \"To all of you and your families a happy Easter of Resurrection that is made of hope, joy, rebirth. Happy birthday to all Italians.\" The President of the Council, Giorgia Meloni, says this in a video published on his social channels.&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Meloni",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Easter",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "hope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "joy",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rebirth",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "VIDEO",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The Easter of hope",
+                "start_char": 9,
+                "end_char": 27,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter of Resurrection",
+                "start_char": 47,
+                "end_char": 69,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Italians",
+                "start_char": 128,
+                "end_char": 136,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Council",
+                "start_char": 160,
+                "end_char": 167,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 169,
+                "end_char": 183,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Conte: \"Il Governo sta indebolendo le armi della magistratura\"",
+        "date_raw": "Sun, 31 Mar 2024 08:17:16 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-03-31/conte-m5s-govendo-sta-indebolendo-magistratura-25870747/",
+        "subtitle": "",
+        "content": "AGI - \"Il governo Meloni sta indebolendo le norme anticorruzione e spuntando le armi della magistratura, un pezzo alla volta\". Lo dice il leader del Movimento 5 Stelle, Giuseppe Conte, in un'intervista a \"La Repubblica\". Il presidente M5s parla di \"attacchi ignobili nei confronti del vicepresidente dell'Antimafia, Cafiero De Raho e con lui ai vertici della Procura antimafia. Quando è di tutta evidenza che gli accessi abusivi alle informazioni personali sono avvenuti, negli anni della sua gestione, al di fuori della Dna. La maggioranza invece sta strumentalizzando per mettere in discussione l'intera struttura\". \n\"È in atto - sostiene Conte - uno smantellamento meticoloso e inesorabile della normativa anti corruzione e di essenziali strumenti investigativi come le intercettazioni. Non è cosa da poco. E nessuno può restare alla finestra a osservare inerte, pena la corresponsabilità. Occorre una mobilitazione dentro e fuori il Parlamento\". Sui test psicoattitudinali per i magistrati, \"questo esecutivo - dice il leader M5s - mira ad assoggettare il potere giudiziario, secondo una logica di subordinazione perseguita da tutti coloro che, da Gelli in giù, hanno lavorato per condizionare obliquamente i processi decisionali democratici. Questa maggioranza vuole scardinare il nostro ordinamento costituzionale e, in particolare, i principi dell'autonomia della magistratura e della legge 'uguale per tutti'\".&nbsp;",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1712091623.9300213,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "Count: \"The government is weakening the weapons of judiciary\"",
+        "en_content": "AGI - \"The Meloni government is weakening anti-corruption norms and popping up the weapons of judiciary, one piece at a time.\" This is said by the leader of the 5 Star Movement, Giuseppe Conte, in an interview with \"La Repubblica\". President M5s speaks of \"unbeatable attacks against the vice president of Antimafia, Cafiero De Raho and with him at the top of the Antimafia Prosecution. When it is of all evidence that abusive access to personal information has occurred, in the years of its management, outside the Dna. The majority is instrumentalizing to question the entire structure.\"\n\"It is in place - says Conte - a meticulous and inexorable dismantling of anti-corruption law and essential investigative tools such as interceptions. It's not a small thing. And no one can remain in the window to observe inerts, penalty of co-responsibility. It is necessary to mobilize within and outside Parliament.\" On psychoactive tests for magistrates, \"this executive - says the leader M5s - aims to subject the judiciary power, according to a logic of subordination persecuted by all those who, from Gelli down, have worked to obliquely condition the democratic decision-making processes. This majority wants to discard our constitutional order and, in particular, the principles of the autonomy of judiciary and the 'equal law for all'. &nbsp;",
+        "concepts": [
+            {
+                "word": "Count",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weapons",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "judiciary",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 11,
+                "end_char": 17,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "one",
+                "start_char": 105,
+                "end_char": 108,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the 5 Star Movement",
+                "start_char": 157,
+                "end_char": 176,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 178,
+                "end_char": 192,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "La Repubblica",
+                "start_char": 216,
+                "end_char": 229,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "M5s",
+                "start_char": 242,
+                "end_char": 245,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Antimafia",
+                "start_char": 306,
+                "end_char": 315,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cafiero De Raho",
+                "start_char": 317,
+                "end_char": 332,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the years",
+                "start_char": 475,
+                "end_char": 484,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 897,
+                "end_char": 907,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "M5s",
+                "start_char": 983,
+                "end_char": 986,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gelli",
+                "start_char": 1098,
+                "end_char": 1103,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "democratic",
+                "start_char": 1149,
+                "end_char": 1159,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Dalle liste al caso Tarquinio, Schlein alle prese con i nodi delle Europee",
+        "date_raw": "Sat, 30 Mar 2024 01:44:00 GMT",
+        "date": "2024-03-30",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-03-30/elly-schlein-candidata-pd-europee-25859200/",
+        "subtitle": "",
+        "content": "AGI - Il sentiero che porta alla composizione delle liste Pd per le elezioni europee> si fa sempre più impervio per la segretaria all'approssimarsi della deadline del 28 aprile, ultima data buona per la presentazione dello schieramento dem. Nelle intenzioni dello stato maggiore Pd c'è di chiudere la pratica entro il 15 aprile, per dare modo a chi è in campo di avviare per tempo la campagna. \n&nbsp; \nParte dei malumori interni>, infatti, derivano dall'incertezza di chi si sente in campo, ma attende ancora l'ufficializzazione della candidatura e, quindi, non può pianificare la campagna elettorale. Da qui il pressing sulla segretaria, soprattutto da parte della minoranza rappresentata dalle aree interne di Energia Popolare >e Base Riformista>. Aree che sollevano almeno tre questioni: la candidatura della leader, che in molti nel partito vorrebbero schierata come capolista in tutte le circoscrizioni; la posizione eventuale della leader in campo, che potrebbe fare da 'tappo'&nbsp;alle altre candidature femminili; l'apporto della componente 'civica'&nbsp;che rischierebbe di schiacciare i big del Pd. \n&nbsp; \nL'ultimo schema su cui si ragiona è di una candidatura di Schlein come capolista nelle Isole e al Centro, come riferiscono fonti della minoranza dem. Lo stesso schema riserverebbe a Stefano Bonaccini> il primo posto in lista nel Nord Est, a Cecilia Strada quello nel Nord Ovest, a Lucia Annunziata quello nel Sud. L'apertura sulla candidatura di Bonaccini - che potrebbe ufficializzare la sua corsa già martedì - sarebbe arrivata durante l'incontro di giovedì fra il presidente dell'Emilia-Romagna e la segretaria Schlein. Un incontro \"positivo\", come sottolineato al termine, in cui è stato fatto il punto sulle \"elezioni europee, regionali e amministrative\". \n&nbsp; \nSul tavolo, infatti, non c'è solo la candidatura di Bonaccini come capolista nel Nord Est, viene spiegato da fonti parlamentari, ma anche la scelta del suo successore. Se il governatore sarebbe felice di vedere in campo il sindaco di Ravenna, Michele De Pascale, la segretaria avrebbe individuato nell'assessore Vincenzo Colla un nome su cui puntare. Le competenze di Colla, d'altra parte, sembrano parlare proprio al Pd di Schlein: sviluppo economico e green economy e lavoro. Tutti temi che sono alla base del programma del Pd per le europee.&nbsp; \n<h2>Il caso Tarquinio</h2> \nNonostante queste timide schiarite, non sembra destinato a spegnersi il dibattito sulla candidatura di Marco Tarquinio >nonostante il deputato e figura di riferimento di Base Riformista, Lorenzo Guerini, abbia assicurato che sull'ex direttore di Avvenire, dato in corsa nella circoscrizione centro, non c'è da parte sua nessun veto. I malumori della minoranza dem, in realtà, vanno al di là del nome di Tarquinio e riguardano la 'postura'&nbsp;che il Partito Democratico ha tenuto fin qui sul conflitto in Ucraina e sulla crisi in Medio Oriente. Tarquinio, infatti, ha sempre sostenuto posizioni contrarie all'invio di armi a Kiev, tanto da essere stato accostato nei mesi scorsi anche al M5s per una eventuale candidatura europea con il partito di Conte. \n&nbsp; \nNelle intenzioni di Schlein la candidatura di Tarquinio risponde alla doppia esigenza di dare un segnale al mondo cattolico e al movimento per la pace, rinsaldando i legami con i primi e allargando il consenso tra i secondi. Non a caso a sponsorizzare per primo la candidatura del giornalista è stato il deputato ed esponente della Comunità di Sant'Egidio, Paolo Ciani. \n&nbsp; \nSul fatto che Tarquinio rappresenti una risorsa per il Pd insiste anche un cattolico come Pierluigi Castagnetti: \"Tarquinio col Pd? Lo spero\", scrive sui social lo storico esponente dem, già segretario del Partito Popolare Italiano: \"Io che non ho avuto e non ho dubbi a sostenere l'Ucraina nell'aggressione di Putin, penso che la presenza in lista di un pacifista rappresenti il legittimo pluralismo presente nell'elettorato Pd, oltre che un'utile tensione valoriale nel confronto interno\", aggiunge. \n&nbsp; \nSulla stessa lunghezza d'onda anche il senatore Graziano Delrio> che considera Tarquinio un grande valore aggiunto. A sostegno della candidatura di Tarquinio, poi, sono scesi in campo esponenti di spicco del Pd come Andrea Orlando, Goffredo Bettini e Nicola Zingaretti. Tuttavia, per un pezzo di minoranza dem, in particolare quello rappresentato dall'area di Base Riformista, la candidatura di Tarquinio dopo quella di Cecilia Strada> e quelle delle 'schleiniane'&nbsp;di ferro come Annalisa Corrado e Camilla Laureti rappresenta un altro colpo che sposta l'asse internazionale del Pd verso quel pacifismo a oltranza che preoccupa i riformisti dem. Tanto che lo stesso Guerini, ribadendo di non avere \"nè l'autorità nè la propensione individuale a porre o mettere veti sulle persone\", aggiunge: \"Ho l'interesse a fa sì che il nostro partito, pur nel rispetto del pluralismo che come dice lei è una ricchezza, mantenga una linea chiara e intellegibile sull'Ucraina, che è in questo momento la questione delle questioni e non ammette spazi per ambiguità\".&nbsp;",
+        "ranked": 6,
+        "placed": "Politica",
+        "epoch": 1712091623.9300413,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "From the lists to the Tarquinio case, Schlein took the knots of Europe",
+        "en_content": "AGI - The path leading to the composition of the Pd lists for the European elections > is becoming increasingly impervious for the secretary to the approximation of the deadline of 28 April, last good date for the presentation of the dem line. In the intentions of the major state Pd there is to close the practice by April 15, to give way to those who are in the field to start the campaign for a long time.\n&nbsp;\nIn fact, part of the internal malumours derive from the uncertainty of those who feel in the field, but still awaits the formalization of the candidacy and, therefore, cannot plan the electoral campaign. Hence the pressing on the secretary, especially by the minority represented by the internal areas of People's Energy > and Reformist Base > . Areas that raise at least three issues: the candidacy of the leader, who in many in the party would like to deploy as a leader in all circumscriptions; the possible position of the leader in the field, who could do as 'tap'&nbsp; other female candidatures; the contribution of the component 'civica'&nbsp;which would risk crushing the big ones of the Pd.\n&nbsp;\nThe last pattern on which it is reasoned is a Schlein candidacy as a leader in the Islands and the Centre, as sources of the dem minority report. The same scheme would reserve to Stefano Bonaccini> the first place on the list in the North East, to Cecilia Strada that in the North West, to Lucia Annunziata that in the South. The opening on the candidacy of Bonaccini - which could officialize his race already Tuesday - would have arrived during the meeting of Thursday between the president of Emilia-Romagna and the secretary Schlein. A \"positive\" meeting, as pointed out at the end, in which the point was made on \"European, regional and administrative elements\".\n&nbsp;\nOn the table, in fact, there is not only Bonaccini's candidacy as head of the North East, is explained by parliamentary sources, but also the choice of his successor. If the governor would be happy to see in the field the mayor of Ravenna, Michele De Pascale, the secretary would have identified in the Councillor Vincenzo Colla a name on which to point. Colla's skills, on the other hand, seem to speak at Schlein's Pd: economic development and green economy and work. All themes that are the basis of the Pd programme for Europeans.&nbsp;\n<h2> The case Tarquinio</h2>\nDespite these timid clearings, it does not seem destined to turn off the debate on the candidacy of Marco Tarquinio > Despite the MP and reference figure of Base Riformista, Lorenzo Guerini, has assured that on the former director of Avvenire, running in the center district, there is no veto on his part. The malumors of the minority dem, in fact, go beyond the name of Tarquinio and concern the 'postura'&nbsp; that the Democratic Party held here on the conflict in Ukraine and the crisis in the Middle East. Tarquinio, in fact, has always supported positions contrary to the sending of weapons to Kiev, so much so that he has been approached in recent months also to the M5s for a possible European candidacy with the party of Conte.\n&nbsp;\nIn Schlein's intentions, Tarquinio's candidacy responds to the dual need to give a signal to the Catholic world and the movement for peace, strengthening ties with the first and widening consensus among the second. Not by chance to sponsor the first candidate of the journalist was the deputy and representative of the Community of Sant'Egidio, Paolo Ciani.\n&nbsp;\nOn the fact that Tarquinio represents a resource for the Pd also insists a Catholic like Pierluigi Castagnetti: \"Tarquinio with the Pd? I hope so\", writes on social media the historical exponent dem, already secretary of the Italian People's Party: \"I who have not had and have no doubt supporting Ukraine in Putin's aggression, I think that the presence on the list of a pacifist represents the legitimate pluralism present in the electorate Pd, as well as a useful value tension in the internal confrontation,\" he adds.\n&nbsp;\nOn the same wavelength also Senator Graziano Delrio> who considers Tarquinio a great added value. In support of the candidacy of Tarquinio, then, came to the field prominent exponents of the Pd like Andrea Orlando, Goffredo Bettini and Nicola Zingaretti. However, for a piece of minority dem, in particular the one represented by the Reformist Base area, the candidacy of Tarquinio after that of Cecilia Strada> and those of the 'schleiniane'&nbsp; of iron like Annalisa Corrado and Camilla Laureti represents another blow that moves the international axis of the Pd towards that pacifism to oltranza that worries the reformists dem. So much so that Guerini himself, reasserting that he does not have \"the authority nor the individual propensity to place or set sails on people\", he adds: \"I have the interest in ensuring that our party, while respecting pluralism which as you say is a wealth, maintains a clear and intelligible line on Ukraine, which is at this moment the question of issues and does not admit spaces for ambiguity.\" &nbsp;",
+        "concepts": [
+            {
+                "word": "lists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Schlein",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "knots",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Tarquinio",
+                "start_char": 22,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Schlein",
+                "start_char": 38,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 64,
+                "end_char": 70,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "European",
+                "start_char": 66,
+                "end_char": 74,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "28 April",
+                "start_char": 181,
+                "end_char": 189,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "dem",
+                "start_char": 234,
+                "end_char": 237,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "April 15",
+                "start_char": 318,
+                "end_char": 326,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "People's Energy",
+                "start_char": 721,
+                "end_char": 736,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Reformist Base",
+                "start_char": 743,
+                "end_char": 757,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "at least three",
+                "start_char": 779,
+                "end_char": 793,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 1170,
+                "end_char": 1177,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Islands",
+                "start_char": 1207,
+                "end_char": 1214,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "dem",
+                "start_char": 1249,
+                "end_char": 1252,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Stefano Bonaccini",
+                "start_char": 1303,
+                "end_char": 1320,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 1326,
+                "end_char": 1331,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the North East",
+                "start_char": 1353,
+                "end_char": 1367,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Cecilia Strada",
+                "start_char": 1372,
+                "end_char": 1386,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the North West",
+                "start_char": 1395,
+                "end_char": 1409,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Lucia Annunziata",
+                "start_char": 1414,
+                "end_char": 1430,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "South",
+                "start_char": 1443,
+                "end_char": 1448,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Bonaccini",
+                "start_char": 1482,
+                "end_char": 1491,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 1535,
+                "end_char": 1542,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 1586,
+                "end_char": 1594,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Emilia-Romagna",
+                "start_char": 1620,
+                "end_char": 1634,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Schlein",
+                "start_char": 1653,
+                "end_char": 1660,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 1743,
+                "end_char": 1751,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bonaccini",
+                "start_char": 1840,
+                "end_char": 1849,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the North East",
+                "start_char": 1873,
+                "end_char": 1887,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ravenna",
+                "start_char": 2030,
+                "end_char": 2037,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michele De Pascale",
+                "start_char": 2039,
+                "end_char": 2057,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Colla",
+                "start_char": 2154,
+                "end_char": 2159,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 2206,
+                "end_char": 2213,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tarquinio</h2",
+                "start_char": 2354,
+                "end_char": 2367,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Marco Tarquinio",
+                "start_char": 2469,
+                "end_char": 2484,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Base Riformista",
+                "start_char": 2526,
+                "end_char": 2541,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lorenzo Guerini",
+                "start_char": 2543,
+                "end_char": 2558,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Avvenire",
+                "start_char": 2603,
+                "end_char": 2611,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "dem",
+                "start_char": 2704,
+                "end_char": 2707,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tarquinio",
+                "start_char": 2740,
+                "end_char": 2749,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Democratic Party",
+                "start_char": 2787,
+                "end_char": 2807,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2837,
+                "end_char": 2844,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 2863,
+                "end_char": 2878,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 2969,
+                "end_char": 2973,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "recent months",
+                "start_char": 3017,
+                "end_char": 3030,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "M5s",
+                "start_char": 3043,
+                "end_char": 3046,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 3062,
+                "end_char": 3070,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Conte",
+                "start_char": 3099,
+                "end_char": 3104,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Schlein",
+                "start_char": 3116,
+                "end_char": 3123,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tarquinio",
+                "start_char": 3138,
+                "end_char": 3147,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Catholic",
+                "start_char": 3210,
+                "end_char": 3218,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "first",
+                "start_char": 3281,
+                "end_char": 3286,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "second",
+                "start_char": 3320,
+                "end_char": 3326,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 3357,
+                "end_char": 3362,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Paolo Ciani",
+                "start_char": 3458,
+                "end_char": 3469,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tarquinio",
+                "start_char": 3495,
+                "end_char": 3504,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Catholic",
+                "start_char": 3553,
+                "end_char": 3561,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pierluigi Castagnetti",
+                "start_char": 3567,
+                "end_char": 3588,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "dem",
+                "start_char": 3673,
+                "end_char": 3676,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Italian People's Party",
+                "start_char": 3699,
+                "end_char": 3725,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 3776,
+                "end_char": 3783,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Putin",
+                "start_char": 3787,
+                "end_char": 3792,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Graziano Delrio",
+                "start_char": 4043,
+                "end_char": 4058,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tarquinio",
+                "start_char": 4074,
+                "end_char": 4083,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tarquinio",
+                "start_char": 4136,
+                "end_char": 4145,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Andrea Orlando",
+                "start_char": 4206,
+                "end_char": 4220,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Goffredo Bettini",
+                "start_char": 4222,
+                "end_char": 4238,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nicola Zingaretti",
+                "start_char": 4243,
+                "end_char": 4260,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "dem",
+                "start_char": 4295,
+                "end_char": 4298,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "one",
+                "start_char": 4318,
+                "end_char": 4321,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Reformist Base",
+                "start_char": 4341,
+                "end_char": 4355,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tarquinio",
+                "start_char": 4379,
+                "end_char": 4388,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cecilia Strada",
+                "start_char": 4403,
+                "end_char": 4417,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Annalisa Corrado",
+                "start_char": 4469,
+                "end_char": 4485,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Camilla Laureti",
+                "start_char": 4490,
+                "end_char": 4505,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Guerini",
+                "start_char": 4657,
+                "end_char": 4664,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 4945,
+                "end_char": 4952,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "\"Mi piace flirtare\", \"Qualcuno mi pedina\", \"Mi trattano da bambino\". Ecco i quesiti degli psicotest",
+        "date_raw": "Fri, 29 Mar 2024 12:28:07 GMT",
+        "date": "2024-03-29",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-03-29/quali-domande-per-test-magistrati-psicologia-25854492/",
+        "subtitle": "",
+        "content": "<span><span><span><span><span>AGI - “Quando cammino sto molto attento a non calpestare le fessure dei marciapiedi”, “Ho il sonno agitato e disturbato”, “Qualcuno ce l'ha con me”, “Credo di essere pedinato”, “Mi piace flirtare, amoreggiare”, “Spesso sento voci senza sapere da dove provengano”, “C'è qualcosa che non va nella mia mente”, “A volte sono posseduto dagli spiriti maligni”, “Vorrei fare a pugni con qualcuno”, “I miei familiari mi trattano più da bambino che da adulto”. </span></span></span></span></span> \n<span><span><span><span><span>&nbsp;Sono alcune domande a cui potrebbero rispondere gli aspiranti magistrati italiani. Fanno parte del test MM-PI-2, pubblicato in parte dal quotidiano Libero. Si tratta di una versione rivista dei famosi ‘quiz Minnesota' (dal nome dell'università americana dove furono inventati negli anni Quaranta): in tutto 567 quesiti a doppia risposta, ‘vero' o ‘falso'. In Italia i test psicologici per i magistrati arriveranno nel 2026. Ne faranno parte domande sulla personalità, le abitudini, le sensazioni, le convinzioni degli aspiranti giudici e pm. Il Consiglio superiore della Magistratura valuterà i test mentre le domande saranno stabilite (magari proprio sulla base dei ‘Minnesota') da professori universitari di Psicologia. Chi non supererà la prova dovrà rifare l'esame. Tra le altre domande, che attualmente fanno parte dei questionari per entrare nelle forze armate, alcune susciteranno qualche perplessità: “Mi piaceva andare a scuola”, “Preferisco vincere piuttosto che perdere in un gioco”, “Mi piace il teatro”. &nbsp;</span></span></span></span></span>",
+        "ranked": 7,
+        "placed": "Politica",
+        "epoch": 1712091623.9300585,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "\"I like to flirt,\" \"Someone cares,\" \"They treat me as a child.\" Here are the questions of psychotest",
+        "en_content": "<span><span><span><span>AGI - “When I walk I am very careful not to trample the cracks of the sidewalks,” “I have troubled and agitated sleep”, “Someone has it with me”, “I believe I’m pawned”, “I like to flirt, love”, “I often hear voices without knowing where they come from”, “There’s something wrong with my mind”, “Sometimes I’m possessed by evil spirits”, “I want to punch with someone”, “My family treats me more as a child than as an adult”. </span </span </span </span </span >\n<span><span><span><span> &nbsp; Some questions may be answered by aspiring Italian magistrates. They are part of the MM-PI-2 test, partly published by the Free newspaper. It is a magazine version of the famous 'quiz Minnesota' (from the name of the American university where they were invented in the 1940s): in all 567 questions to double answer, 'real' or 'false'. In Italy the psychological tests for magistrates will arrive in 2026. Questions about personality, habits, sensations, convictions of aspiring judges and pm will be included. The Higher Council of the Magistrature will evaluate the tests while the questions will be established (maybe on the basis of the 'Minnesota') by university professors of Psychology. Whoever doesn't pass the test will have to do the exam again. Among other questions, which are currently part of the questionnaires to enter the armed forces, some will raise some perplexity: “I liked to go to school”, “I prefer to win rather than lose in a game”, “I like theater”. &nbsp;</span> </span </span </span >",
+        "concepts": [
+            {
+                "word": "child",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "questions",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Sometimes I’m",
+                "start_char": 320,
+                "end_char": 333,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "span><span><span><span> &",
+                "start_char": 488,
+                "end_char": 513,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 562,
+                "end_char": 569,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "MM-PI-2",
+                "start_char": 604,
+                "end_char": 611,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Minnesota",
+                "start_char": 703,
+                "end_char": 712,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 736,
+                "end_char": 744,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the 1940s",
+                "start_char": 784,
+                "end_char": 793,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "567",
+                "start_char": 803,
+                "end_char": 806,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 857,
+                "end_char": 862,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2026",
+                "start_char": 918,
+                "end_char": 922,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The Higher Council of the Magistrature",
+                "start_char": 1029,
+                "end_char": 1067,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Minnesota",
+                "start_char": 1160,
+                "end_char": 1169,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Morto Di Cagno Abbrescia, ex sindaco di Bari e deputato di Forza Italia",
+        "date_raw": "Fri, 29 Mar 2024 11:06:08 GMT",
+        "date": "2024-03-29",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-03-29/morto-simeone-di-cagno-abbrescia-ex-sindaco-bari-25852861/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;L'ex sindaco di Bari, Simeone Di Cagno Abbrescia, è morto. Aveva 80 anni ed era malato da tempo. Da questo pomeriggio in municipio sarà aperta la camera ardente. I funerali si svolgeranno domani alle 10.30 nella basilica di San Nicola. Di Cagno Abbrescia aveva iniziato a fare politica nel Pri e nel 1994 aveva aderito a Forza Italia. Con il partito di Berlusconi fu eletto sindaco del capoluogo pugliese nel 1995 e venne rieletto nel 1999. Finito il mandato, si candido' nel 2006 alla Camera nelle liste di FI e conquisto' un seggio, confermato poi nel 2008 con il Pdl. Nel 2009 tento' di tornare sindaco di Bari ma venne sconfitto al ballottaggio da Michele Emiliano.",
+        "ranked": 8,
+        "placed": "Politica",
+        "epoch": 1712091623.9300747,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "Morto Di Cagno Abbrescia, former mayor of Bari and deputy of Forza Italia",
+        "en_content": "AGI -&nbsp; The former mayor of Bari, Simeone Di Cagno Abbrescia, died. He was 80 years old and he was sick for a long time. The burning room will be opened this afternoon in the town hall. The funeral will take place tomorrow at 10.30 in the basilica of San Nicola. Cagno Abbrescia had begun to make politics in Pri and in 1994 had joined Forza Italia. With the Berlusconi party he was elected mayor of the Apulian capital in 1995 and was re-elected in 1999. After finishing his term, he ran to the Chamber in 2006 on the FI lists and won a seat, then confirmed in 2008 with the Pdl. In 2009 he tried to return mayor of Bari but was defeated at the ballot by Michele Emiliano.",
+        "concepts": [
+            {
+                "word": "Morto",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Di",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cagno",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Abbrescia",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "mayor",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bari",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deputy",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Forza",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bari",
+                "start_char": 42,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Forza Italia",
+                "start_char": 61,
+                "end_char": 73,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 32,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Simeone Di Cagno Abbrescia",
+                "start_char": 38,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "80 years old",
+                "start_char": 79,
+                "end_char": 91,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "this afternoon",
+                "start_char": 157,
+                "end_char": 171,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 218,
+                "end_char": 226,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "10.30",
+                "start_char": 230,
+                "end_char": 235,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "San Nicola",
+                "start_char": 255,
+                "end_char": 265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cagno Abbrescia",
+                "start_char": 267,
+                "end_char": 282,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Pri",
+                "start_char": 313,
+                "end_char": 316,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1994",
+                "start_char": 324,
+                "end_char": 328,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Forza Italia",
+                "start_char": 340,
+                "end_char": 352,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Berlusconi party",
+                "start_char": 359,
+                "end_char": 379,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Apulian",
+                "start_char": 408,
+                "end_char": 415,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "1995",
+                "start_char": 427,
+                "end_char": 431,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1999",
+                "start_char": 454,
+                "end_char": 458,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chamber",
+                "start_char": 500,
+                "end_char": 507,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2006",
+                "start_char": 511,
+                "end_char": 515,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2008",
+                "start_char": 566,
+                "end_char": 570,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2009",
+                "start_char": 588,
+                "end_char": 592,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bari",
+                "start_char": 621,
+                "end_char": 625,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michele Emiliano",
+                "start_char": 660,
+                "end_char": 676,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Il Cdm approva il decreto che introduce i test psicoattitudinali per l'accesso alla magistratura",
+        "date_raw": "Tue, 26 Mar 2024 20:42:23 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-03-26/cdm-approva-test-psicoattitudinali-accesso-magistratura-25839272/",
+        "subtitle": "",
+        "content": "AGI - Il Consiglio dei ministri ha approvato il decreto legislativo che introduce i test psicoattitudinali per l'accesso alla magistratura. Lo ha annunciato il ministro della Giustizia, Carlo Nordio, nella conferenza stampa al termine del Consiglio dei ministri. Il governo, inoltre, ha ridotto a 180 il numero dei magistrati fuori ruolo. La norma, ha precisato, \"entrerà però in vigore dal 2026 perché allo stato attuale non sarebbe possibile depauperare alcuni organi di magistrati che sono essenziali\".&nbsp;&nbsp; \n&nbsp; \nLa separazione delle carriere in magistratura? \"Non c'è una data certa\" per l'esame del provvedimento in Consiglio dei ministri, \"ma confermo che fa parte del programma di governo, quindi la faremo quanto prima. Probabilmente entro la primavera. Non so se in aprile o maggio, ma è imminente\", spiega ancora.",
+        "ranked": 9,
+        "placed": "Politica",
+        "epoch": 1712091623.9300945,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "The Cdm approves the decree introducing psychoactive testing for access to judiciary",
+        "en_content": "AGI - The Council of Ministers approved the legislative decree introducing psychoactive tests for access to the judiciary. The Minister of Justice, Carlo Nordio, announced this at the press conference at the end of the Council of Ministers. The government also reduced to 180 the number of magistrates out of role. The norm, he said, \"will come into effect from 2026 because at present it would not be possible to depopulate some organs of magistrates that are essential\". &nbsp;&nbsp;\n&nbsp;\nThe separation of careers in judiciary? \"There is no certain date\" for the examination of the measure in the Council of Ministers, \"but I confirm it is part of the government programme, so we will do it as soon as possible. Probably by spring. I don't know if in April or May, but it's imminent,\" he explains.",
+        "concepts": [
+            {
+                "word": "Cdm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decree",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "testing",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judiciary",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - The Council of Ministers",
+                "start_char": 0,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Justice",
+                "start_char": 139,
+                "end_char": 146,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Carlo Nordio",
+                "start_char": 148,
+                "end_char": 160,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the end of",
+                "start_char": 204,
+                "end_char": 214,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 215,
+                "end_char": 239,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "180",
+                "start_char": 272,
+                "end_char": 275,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2026",
+                "start_char": 362,
+                "end_char": 366,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 598,
+                "end_char": 622,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "April",
+                "start_char": 756,
+                "end_char": 761,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "May",
+                "start_char": 765,
+                "end_char": 768,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Europee, Schlein conferma la linea unitaria e prepara la candidatura",
+        "date_raw": "Tue, 26 Mar 2024 18:59:03 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/politica/rss",
+        "news_url": "https://www.agi.it/politica/news/2024-03-26/europee-schlein-conferma-linea-unita-prepara-candidatura-25838595/",
+        "subtitle": "",
+        "content": "AGI - La campagna per le europee è pronta e presto lo saranno anche le liste. La linea da seguire, come spiegato dalla segretaria Schlein in mattinata all'esecutivo dem, è quella unitaria vista in campo alle elezioni Regionali. Una linea che prescinde dal 'chi ha votato chi' al congresso. La tessera che completa il puzzle è quella della candidatura della segretaria Elly Schlein. Lo stato maggiore dei dem la chiede da tempo: c'è la convinzione che la presenza in campo della leader dem possa trainare il consenso del Pd alle elezioni per il rinnovo del Parlamento europeo. Ma c'è anche la necessità fortemente sentita di dare sicurezza ai candidati che sono da tempo ai blocchi di partenza. Perché un conto è partire da capolista, o almeno in 'pole', altro è partire dal basso, dalla terza o quarta fila. Solo al momento di conoscere il proprio posizionamento, un candidato o una candidata potrà tarare la propria campagna, da un punto di vista degli appuntamenti da tenere sul territorio e dal punto di vista economico. \n\"Tutti i componenti della segreteria del Partito Democratico hanno chiesto a Elly Schlein di candidarsi alle prossime elezioni europee\", riferiscono fonti dem al termine della riunione al Nazareno. Le formule proposte sono state diverse, viene sottolineato. La leader ne ha preso atto e ci ragionerà. Prima di esprimersi, in ogni caso, aspetterà che sia chiuso l'impianto generale delle liste. I nomi in campo sono noti da tempo: gli esponenti di Energia Popolare-Base Riformista Emanuele Fiano, Giorgio Gori, Pierfrancesco Maran saranno con ogni probabilità schierati nel Nord Ovest dove dovrebbe essere schierata anche Cecilia Strada in quota 'società civile'. Gli esponenti di stretto rito schleniano come Annalisa Corrado, Alessandro Zan potrebbero correre nella circoscrizione Nord Est, così come Stefano Bonaccini e Alessandra Moretti. La circoscrizione Centro è la più affollata con Nicola Zingaretti, Dario Nardella, Matteo Ricci, Alessia Moran e la fedelissima della segretaria Camilla Laureti. \nTra le personalità esterne potrebbe correre da capolista l'ex direttore di Avvenire, Marco Tarquinio. Un'altra ex direttrice, Lucia Annunziata, è data come capolista al Sud, nonostante le voci che la danno dubbiosa su questa possibilità. Sempre al Sud dovrebbe correre Antonio Decaro, Sandro Ruotolo e, forse, il medico di Lampedusa ed europarlamentare uscente, Pietro Bartolo, sempre meno convinto di correre nella circoscrizione Isole. Prima dei nomi, però, alla segretaria Pd preme fare il punto sui temi e sugli obiettivi. Il Pd, viene spiegato da fonti del Nazareno, \"vuole confermare la crescita di questo ultimo anno\" e tutto ciò che sarà necessario a raggiungere questo obiettivo sarà messo in campo, a partire dalla chiusura \"a breve\" delle liste. La deadline rimane il 15 aprile, 45 giorni prima del voto. Ma la segretaria non sembra intenzionata ad attendere l'ultimo momento anche per lasciare spazio ai temi, archiviando il dibattito sui nomi. E di temi si è discusso molto durante la riunione della segreteria di oggi, dalla \"sanità in ginocchio\" alla \"classe dirigente inadeguata\", passando per il \"caso Santanchè\" che per i dem \"grida vendetta\" e di fronte al quale le \"dimissioni della ministra inevitabili\". \nOltre a contrastare l'azione del governo, infatti, \"il Pd come primo partito del centrosinistra ha la precisa responsabilità di costruire l'alternativa\", osservano dal quartier generale Pd. La priorità, al momento, rimane il rilancio della legge di iniziativa popolare sul salario minimo: \"Ci sembra un'enormità\" il fatto che il governo abbia voluto affossare la legge, \"anche rispetto ai dati sulla povertà. Non molleremo di un centimetro anche con le altre opposizione\", assicurano i dem. Assieme a questo, il Pd mette al centro della sua azione politica quello che considera un \"attacco alla libertà d'informazione in un quadro che vede la Rai militarmente occupata dalla destra e Mediaset che, certo, non è in linea con il centro sinistra\". A questo si aggiunge quella che i dem chiamano \"la mossa Ungherese del governo su Agi\". Tutto questo, viene aggiunto, \"ci impone di stringere un'alleanza tra le sensibilità di questo partito. C'è un solo avversario che è la destra\", si sottolinea ancora, \"e la corsa a destra di Salvini e Meloni fa male all'Europa\".&nbsp;",
+        "ranked": 10,
+        "placed": "Politica",
+        "epoch": 1712091623.9301114,
+        "language": "it",
+        "source": "AGI_Politica",
+        "local_time": "2024-04-02 23:00:23",
+        "filename": "ner_conc_en_2024-04-02T23.00.23E1712098823.455835.json",
+        "en_title": "Europe, Schlein confirms the unitary line and prepares the application",
+        "en_content": "AGI - The campaign for Europeans is ready and will soon be the lists. The line to follow, as explained by the secretary Schlein in the morning at the executive dem, is that unitary view in the field in the regional elections. A line that comes from the 'who voted who' at the congress. The card that completes the puzzle is that of the candidacy of the secretary Elly Schlein. The major state of the dem has long asked: There is the belief that the presence in the field of the leader dem can draw the consent of the PD to the elections for the renewal of the European Parliament. But there is also the strongly felt need to give security to candidates who have long been at the starting blocks. Because an account is starting as a leader, or at least in 'pole', other is starting from the bottom, from the third or fourth row. Only when you get to know your position, a candidate or candidate will be able to start their campaign, from a point of view of the appointments to be held on the territory and from an economic point of view.\n\"All members of the Democratic Party secretariat asked Elly Schlein to run for the next European elections,\" reports sources at the end of the meeting at Nazareno. The proposed formulas have been different, it is underlined. The leader took note of it and will reason. Before expressing itself, in any case, it will wait for the general plant to be closed. The names in the field have long been known: the exponents of People's Energy-Base Reformist Emanuele Fiano, Giorgio Gori, Pierfrancesco Maran will be in all probability deployed in the North West where Cecilia Strada should also be ranked at the altitude 'civil society'. The exponents of close schlenian rite as Annalisa Corrado, Alessandro Zan could run in the North East constituency, as well as Stefano Bonaccini and Alessandra Moretti. The Centro constituency is the most crowded with Nicola Zingaretti, Dario Nardella, Matteo Ricci, Alessia Moran and the very faithful of the secretary Camilla Laureti.\nAmong the outside personalities could run the former director of Avvenire, Marco Tarquinio. Another former director, Lucia Annunziata, is given as a leader in the South, despite the rumors that they doubtful about this possibility. Also in the South should run Antonio Decaro, Sandro Ruotolo and, perhaps, the doctor of Lampedusa and outgoing MEP, Pietro Bartolo, increasingly less convinced to run in the constituency Islands. Before the names, however, the Secretary Pd would like to point out on themes and objectives. The Pd, is explained by sources of Nazareno, \"want to confirm the growth of this last year\" and all that will be necessary to achieve this goal will be put in the field, starting from the closing \"at short\" of the lists. The deadline remains on April 15, 45 days before the vote. But the secretary does not seem willing to wait for the last moment also to leave room for the themes, archiving the debate on the names. And of themes it has been discussed a lot during the meeting of today's secretariat, from the \"blood on the knee\" to the \"unsuitable leader class\", passing through the \"Santanchè case\" that for the dem \"rebukes revenge\" and in front of which the \"resigns of the inevitable ministra\".\nIn addition to countering the government's action, in fact, \"the Pd as the first party of the centre-left has the precise responsibility to build the alternative,\" they observe from headquarters Pd. The priority, at the moment, remains the relaunch of the law of popular initiative on the minimum wage: \"It seems to us an enormity\" the fact that the government wanted to break down the law, \"even compared to the data on poverty. We will not give up an inch with the other opposition,\" they assure the dems. Along with this, the Pd puts at the heart of its political action what it considers an \"attack to information freedom in a framework that sees the Rai militarily occupied by the right and Mediaset that, of course, is not in line with the left center\". This adds what the dems call \"the Hungarian government move on Agi\". All this is added, \"it requires us to hold an alliance between the sensibilities of this party. There is only one opponent who is the right,\" he said, \"and the right race of Salvini and Meloni hurts Europe.\"&nbsp;",
+        "concepts": [
+            {
+                "word": "Europe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Schlein",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "line",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "application",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Europe",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 8,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europeans",
+                "start_char": 23,
+                "end_char": 32,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 120,
+                "end_char": 127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the morning",
+                "start_char": 131,
+                "end_char": 142,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "dem",
+                "start_char": 160,
+                "end_char": 163,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "congress",
+                "start_char": 276,
+                "end_char": 284,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 363,
+                "end_char": 375,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "dem",
+                "start_char": 400,
+                "end_char": 403,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "dem",
+                "start_char": 485,
+                "end_char": 488,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 556,
+                "end_char": 579,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "third",
+                "start_char": 807,
+                "end_char": 812,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Democratic Party",
+                "start_char": 1053,
+                "end_char": 1073,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 1092,
+                "end_char": 1104,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 1125,
+                "end_char": 1133,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Nazareno",
+                "start_char": 1191,
+                "end_char": 1199,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "People's Energy-Base Reformist Emanuele Fiano",
+                "start_char": 1456,
+                "end_char": 1501,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgio Gori",
+                "start_char": 1503,
+                "end_char": 1515,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pierfrancesco Maran",
+                "start_char": 1517,
+                "end_char": 1536,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the North West",
+                "start_char": 1576,
+                "end_char": 1590,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Cecilia Strada",
+                "start_char": 1597,
+                "end_char": 1611,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Annalisa Corrado",
+                "start_char": 1708,
+                "end_char": 1724,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alessandro Zan",
+                "start_char": 1726,
+                "end_char": 1740,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the North East",
+                "start_char": 1754,
+                "end_char": 1768,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Stefano Bonaccini",
+                "start_char": 1794,
+                "end_char": 1811,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alessandra Moretti",
+                "start_char": 1816,
+                "end_char": 1834,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Centro",
+                "start_char": 1840,
+                "end_char": 1846,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nicola Zingaretti",
+                "start_char": 1885,
+                "end_char": 1902,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dario Nardella",
+                "start_char": 1904,
+                "end_char": 1918,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alessia Moran",
+                "start_char": 1934,
+                "end_char": 1947,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Camilla Laureti",
+                "start_char": 1987,
+                "end_char": 2002,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Avvenire",
+                "start_char": 2069,
+                "end_char": 2077,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marco Tarquinio",
+                "start_char": 2079,
+                "end_char": 2094,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lucia Annunziata",
+                "start_char": 2121,
+                "end_char": 2137,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "South",
+                "start_char": 2167,
+                "end_char": 2172,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "South",
+                "start_char": 2248,
+                "end_char": 2253,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Antonio Decaro",
+                "start_char": 2265,
+                "end_char": 2279,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sandro Ruotolo",
+                "start_char": 2281,
+                "end_char": 2295,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lampedusa",
+                "start_char": 2324,
+                "end_char": 2333,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "MEP",
+                "start_char": 2347,
+                "end_char": 2350,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pietro Bartolo",
+                "start_char": 2352,
+                "end_char": 2366,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nazareno",
+                "start_char": 2561,
+                "end_char": 2569,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this last year",
+                "start_char": 2602,
+                "end_char": 2616,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "April 15, 45 days",
+                "start_char": 2771,
+                "end_char": 2788,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 3008,
+                "end_char": 3013,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "dem",
+                "start_char": 3142,
+                "end_char": 3145,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "first",
+                "start_char": 3303,
+                "end_char": 3308,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Rai",
+                "start_char": 3883,
+                "end_char": 3886,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mediaset",
+                "start_char": 3924,
+                "end_char": 3932,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 4022,
+                "end_char": 4031,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "only one",
+                "start_char": 4162,
+                "end_char": 4170,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Salvini",
+                "start_char": 4231,
+                "end_char": 4238,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 4243,
+                "end_char": 4249,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europe",
+                "start_char": 4256,
+                "end_char": 4262,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    }
+]
