@@ -1,0 +1,3079 @@
+[
+    {
+        "title": "\"Pace è deterrenza,voi la barriera\"",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Meloni ai militari: \"Pace è deterrenza\" \"La pace non si costruisce con i sentimenti e le buone parole, la pace è soprattutto deterrenza e impegno, sacricrificio\". Così la premier Meloni al contingente italiano in Libano. \"Voi rinunciate a tutto per garantire quella pace di cui tanti si riempiono la bocca comodamente seduti dal divano\". \"Sono giorni difficili in Medioriente, in Europa, nel mondo\". Il rischio è non riuscire a domare le fiamme: \"voi siete il fossato, la barriera di sabbia che . aiuta a non far progredire l'incendio\" \"Evitare che le fiamme si propaghino\". ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1711753205.6508267,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "\"Peace is deterrence,you want the barrier\"",
+        "en_content": "Meloni to the military: \"Peace is deterrence\" \"Peace is not built with feelings and good words, peace is above all deterrence and commitment, sacrifice.\" So Premier Meloni to the Italian contingent in Lebanon. \"You give up everything to ensure that peace that many fill their mouths comfortably seated from the couch.\" \"It's difficult days in the Middle East, Europe, the world.\" The risk is to fail to tame the flames: \"You are the moat, the sand barrier that helps not to advance the fire,\" \"To avoid the flames propane.\"",
+        "concepts": [
+            {
+                "word": "Peace",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "deterrence",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "barrier",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 165,
+                "end_char": 171,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 179,
+                "end_char": 186,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 201,
+                "end_char": 208,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 343,
+                "end_char": 358,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 360,
+                "end_char": 366,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "Onu: Israele consenta aiuti a Gaza",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=158",
+        "content": " Corte Onu:Israele consenta aiuti a Gaza La Corte internazionale di Giustizia dell'Onu ordina a Israele di adottare misure per migliorare la situazione  umanitaria a Gaza e consentire l'ingresso di aiuti.    La sentenza arriva dopo un primo pronunciamento a gennaio, dopo la denuncia del Sudafrica contro Israele.Ora si impone a Tel Aviv di compiere \"ogni sforzo per scongiurare il rischio di atti genocidari nella Striscia, C'è rischio reale di carestia\".La Corte internazionale emette ordini vincolanti, ma non è dotata di strumenti per farli attuare. ",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1711753205.658064,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Onu: Israel to help Gaza",
+        "en_content": "UN Court: Israel allows aid to Gaza The International Court of Justice of the United Nations orders Israel to take measures to improve the humanitarian situation in Gaza and allow for the entry of aid. The sentence comes after a first ruling in January, after the South African complaint against Israel. Now it is necessary in Tel Aviv to make \"every effort to avoid the risk of genocide in the Strip, There is real risk of famine.\" The International Court shall issue binding orders, but it is not equipped with tools to enforce them.",
+        "concepts": [
+            {
+                "word": "Onu",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 5,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 20,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "UN Court",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza The International Court of Justice",
+                "start_char": 31,
+                "end_char": 70,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United Nations",
+                "start_char": 74,
+                "end_char": 92,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 100,
+                "end_char": 106,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 165,
+                "end_char": 169,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 229,
+                "end_char": 234,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "January",
+                "start_char": 245,
+                "end_char": 252,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "South African",
+                "start_char": 264,
+                "end_char": 277,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 296,
+                "end_char": 302,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tel Aviv",
+                "start_char": 327,
+                "end_char": 335,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Strip",
+                "start_char": 395,
+                "end_char": 400,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "The International Court",
+                "start_char": 433,
+                "end_char": 456,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "ANM VALUTERA' MOBILITAZIONE SUI TEST   Voluti da governo per accesso toghe",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=125",
+        "content": " Anm valuterà il 6 mobilitazioni su test L'Associaizone nazionale magistrati ha messo all'ordine del giorno del comitato direttivo del 6 e 7 aprile prossimi l'introduzione dei test psicoattitudinali di accesso alla professione voluti dal governo. In quella sede saranno valutate anche eventuali proposte di mobilitazione.     Nei giorni scorsi,già il presidente Anm Santalucia ha definito i test solo un \"proclama contro i magistrati\".Il procuratore Gratteri ieri ha rilanciato: test,compresi quelli per droga e alcol. anche per i politici e per chi governa.",
+        "ranked": 4,
+        "placed": "Politics",
+        "epoch": 1711753205.696835,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "ANM VALUTERA'S FURNITURE ON TEST Voluti da governo peraccesso toghe",
+        "en_content": "Anm will evaluate the 6 mobilizations on test The National Association magistrates put on the agenda of the Steering Committee of 6 and 7 April next the introduction of psychoactive tests of access to the profession desired by the government. Any mobilization proposals will also be evaluated. In recent days, already President Anm Santalucia has defined the tests only a \"proclamation against the magistrates\". Prosecutor Gratteri yesterday raised: tests, including drugs and alcohol. also for politicians and for those who govern.",
+        "concepts": [
+            {
+                "word": "ANM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VALUTERA",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "FURNITURE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ON",
+                "meaning": "prep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TEST",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Voluti",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "da",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "governo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "peraccesso",
+                "meaning": "pobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "toghe",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Voluti da",
+                "start_char": 33,
+                "end_char": 42,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Anm",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "6 mobilizations",
+                "start_char": 22,
+                "end_char": 37,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "The National Association",
+                "start_char": 46,
+                "end_char": 70,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Steering Committee",
+                "start_char": 104,
+                "end_char": 126,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent days",
+                "start_char": 297,
+                "end_char": 308,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Anm Santalucia",
+                "start_char": 328,
+                "end_char": 342,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gratteri",
+                "start_char": 423,
+                "end_char": 431,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 432,
+                "end_char": 441,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "ISTAT: A MARZO RISALE L'INFLAZIONE    +0,1% su febbraio, +1,3% sull'anno    Ma rallenta carrello della spesa",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Istat:inflazione risale a marzo a +1,3% Dopo lo stop di febbraio, l'inflazione torna a salire a marzo.Secondo le stime preliminari Istat,aumenta dello 0,1% su base mensile e dell'1,3% su base annua (da +0,8% del mese precedente).  \"La lieve accelerazione risente dell' attenuarsi della flessione dei prezzi dei beni energetici\",commenta l'Istat. Rallentano però i prezzi del \"carrello della spesa\",da +3,7% di febbraio a +3% di marzo. Beni alimentari, casa e cura persona da 3,4% a 3%. Prodotti ad alta frequenza di acquisto da 2,8% a 2,7%. ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1711753205.7025201,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "ISTAT: A MARZO RISALE L'INFLAZIONE +0.1% on February, +1.3% on the year But slow shopping cart",
+        "en_content": "Istat: inflation dates back to March to +1.3% After the February stop, inflation returns to March. According to the preliminary estimates Istat, an increase of 0.1% on a monthly basis and 1.3% on an annual basis (from +0.8% of the previous month). \"The slight acceleration is affected by the decrease in the prices of energy goods,\" Istat says. However, they slow down the prices of the shopping cart, from +3.7% of February to +3% of March. Food goods, house and person care from 3.4% to 3%. High-frequency purchase products from 2.8% to 2.7%.",
+        "concepts": [
+            {
+                "word": "ISTAT",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "MARZO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RISALE",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "February",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "shopping",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cart",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ISTAT",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "MARZO RISALE L'INFLAZIONE",
+                "start_char": 9,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "+0.1%",
+                "start_char": 35,
+                "end_char": 40,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "February",
+                "start_char": 44,
+                "end_char": 52,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "+1.3%",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the year",
+                "start_char": 63,
+                "end_char": 71,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Istat",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "March",
+                "start_char": 31,
+                "end_char": 36,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "February",
+                "start_char": 56,
+                "end_char": 64,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "March",
+                "start_char": 92,
+                "end_char": 97,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Istat",
+                "start_char": 138,
+                "end_char": 143,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "0.1%",
+                "start_char": 160,
+                "end_char": 164,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "monthly",
+                "start_char": 170,
+                "end_char": 177,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.3%",
+                "start_char": 188,
+                "end_char": 192,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the previous month",
+                "start_char": 227,
+                "end_char": 245,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Istat",
+                "start_char": 333,
+                "end_char": 338,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "+3.7%",
+                "start_char": 407,
+                "end_char": 412,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "February",
+                "start_char": 416,
+                "end_char": 424,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "March",
+                "start_char": 435,
+                "end_char": 440,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3.4% to 3%",
+                "start_char": 481,
+                "end_char": 491,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2.8% to 2.7%",
+                "start_char": 531,
+                "end_char": 543,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "Idf:ucciso vicecomandante Hezbollah",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Israele:ucciso vicecomandante Hezbollah Israele ha ucciso il vicecomandante  dell'unità responsabile dei lanci di razzi di Hezbollah contro Israele. Lo fa sapere l'esercito isareliano,aggiungendo che si occupava anche di pianificare attacchi contro civili israeliani. Hezbollah conferma l'uccisione di Abed Akhsan Naim, definendolo però semplicemente \"un combattente\". Annuncia inoltre il lancio di alcuni missili contro la base militare israeliana in Alta Galilea. Il movimento islamista libanese spiega che è la risposta agli attacchi israeliani su Aleppo, in Siria.  ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1711753205.7106209,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Idf: Killed Deputy Commander Hezbollah",
+        "en_content": "Israel: Killed deputy commander Hezbollah Israel killed the deputy commander of the unit responsible for the launches of Hezbollah rockets against Israel. The Isarelian army let him know, adding that he also planned attacks on Israeli civilians. Hezbollah confirms the killing of Abed Akhsan Naim, however, calling it simply \"a fighter\". It also announces the launch of missiles against the Israeli military base in Upper Galilee. The Lebanese Islamist movement explains that it is the response to Israeli attacks on Aleppo, Syria.",
+        "concepts": [
+            {
+                "word": "Idf",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Deputy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commander",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hezbollah",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hezbollah",
+                "start_char": 29,
+                "end_char": 38,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hezbollah Israel",
+                "start_char": 32,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hezbollah",
+                "start_char": 121,
+                "end_char": 130,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 147,
+                "end_char": 153,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Isarelian",
+                "start_char": 159,
+                "end_char": 168,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 227,
+                "end_char": 234,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hezbollah",
+                "start_char": 246,
+                "end_char": 255,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Abed Akhsan Naim",
+                "start_char": 280,
+                "end_char": 296,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 391,
+                "end_char": 398,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Upper Galilee",
+                "start_char": 416,
+                "end_char": 429,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 435,
+                "end_char": 443,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Islamist",
+                "start_char": 444,
+                "end_char": 452,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 498,
+                "end_char": 505,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Aleppo",
+                "start_char": 517,
+                "end_char": 523,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syria",
+                "start_char": 525,
+                "end_char": 530,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "VALDITARA: ITALIANI MAGGIORANZA IN AULA Per integrare meglio gli stranieri",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Valditara: italiani maggioranza in aula \"Se si è d'accordo che gli stranieri si assimilino sui valori fondamentali iscritti nella Costituzione ciò avverrà più facilmente se nelle classi la maggioranza sarà di italiani,se studieranno in modo potenziato l'italiano laddove già non lo conoscano bene, se nelle scuole si insegni approfonditamente la storia,la letteratura,l'arte italiana\". \"E' in questa direzione che noi intendiamo muoverci\". Così il Ministro dell' Istruzione, Giuseppe Valditara, in un post su X.      ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1711753205.716141,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "VALDITARA: ENGLISH IN AULAR To better integrate foreigners",
+        "en_content": "Valditara: Italian majority in the classroom \"If you agree that foreigners are assimilated on the fundamental values enrolled in the Constitution this will happen more easily if in the classes the majority will be of Italians, if they will study in an enhanced way Italian where they already do not know it well, if in schools you teach in depth history, literature, Italian art\". \"It is in this direction that we intend to move.\" Thus the Minister of Education, Giuseppe Valditara, in a post on X.",
+        "concepts": [
+            {
+                "word": "VALDITARA",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ENGLISH",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "AULAR",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "foreigners",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Valditara",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 11,
+                "end_char": 18,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Constitution",
+                "start_char": 133,
+                "end_char": 145,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Italians",
+                "start_char": 217,
+                "end_char": 225,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 265,
+                "end_char": 272,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 367,
+                "end_char": 374,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Giuseppe Valditara",
+                "start_char": 463,
+                "end_char": 481,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "LIBANO,MELONI: NO ESCALATION AL CONFINE In visita ai contingenti italiani",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Libano,Meloni: no escalation al confine Incontro a Beirut tra la premier Meloni e l'omologo libanese Miqati. Meloni ha ribadito la volontà \"di continuare a contribuire alla sicurezza e alla stabilità del Libano\". E' necessario, ha detto, \"evitare ogni rischio di escalation lungo il confine con Israele\".  Focus anche sul rafforzamento degli  scambi commerciali e sulle politiche migratorie per contrastare le migrazioni irregolari e il traffico di persone. Poi la visita ai contingenti militari italiani operanti Libano con Unifil, ambito Onu, e Mibil, ambito bilaterale.",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1711753205.726276,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "_ Visiting the Italian quotas",
+        "en_content": "Lebanon,Meloni: no escalation at the border Meeting in Beirut between Prime Minister Meloni and the Lebanese Honour Miqati. Meloni said \"to continue to contribute to the security and stability of Lebanon\". It is necessary, he said, \"avoid any risk of escalation along the border with Israel.\" It also focuses on strengthening trade and migration policies to counter irregular migration and traffic of people. Then the visit to the Italian military quotas operating Lebanon with Unifil, Onu, and Mibil, bilateral area.",
+        "concepts": [
+            {
+                "word": "quotas",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Italian",
+                "start_char": 15,
+                "end_char": 22,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Lebanon",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 8,
+                "end_char": 14,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Beirut",
+                "start_char": 55,
+                "end_char": 61,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 85,
+                "end_char": 91,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 100,
+                "end_char": 108,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Miqati",
+                "start_char": 116,
+                "end_char": 122,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 124,
+                "end_char": 130,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 196,
+                "end_char": 203,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 284,
+                "end_char": 290,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 431,
+                "end_char": 438,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 465,
+                "end_char": 472,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Unifil",
+                "start_char": 478,
+                "end_char": 484,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mibil",
+                "start_char": 495,
+                "end_char": 500,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "RUSSIA,PROGETTAVANO ATTENTATO,3 ARRESTI Ancora luogo affollato, a Stavropol",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " 007 Mosca: 3 arresti,sventato attentato I servizi russi hanno sventato un attentato e arrestato a Stavropol, Russia sud-occidentale, tre persone originarie di \"uno dei Paesi dell'Asia centrale\". I 3, annunciano gli 007 dell'Fsb citati dall'agenzia di stampa Ria Novosti,progettavano un attentato esplosivo in un luogo affollato di Stavropol.Sequestrati nel loro luogo di residenza componenti di un ordigno artigianale e sostanze chimiche.Gli arresti pochi giorni dopo quelli dei 4 tagiki autori della strage alla Crocus City Hall a Mosca Nella capitale tagika Dushanbe altri 9 arrestati, possibili fiancheggiatori. ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1711753205.7396855,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "_ Still crowded place, in Stavropol",
+        "en_content": "007 Moscow: 3 arrests, armed attacks The Russian services have thwarted an attack and arrested in Stavropol, south-western Russia, three people originating in \"one of the Central Asian countries\". The 3, announced the 007 of the Fsb cited by the press agency Ria Novosti, produced an explosive attack in a crowded place of Stavropol. Sequestered in their place of residence components of an artisanal ordigno and chemicals. The arrests a few days after those of the 4 Tajiki authors of the massacre at Crocus City Hall in Moscow In the capital tagika Dushanbe another 9 arrested, possible flankers.",
+        "concepts": [
+            {
+                "word": "place",
+                "meaning": "dobj",
+                "pos": "PUNCT"
+            },
+            {
+                "word": "Stavropol",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Stavropol",
+                "start_char": 26,
+                "end_char": 35,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "007",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 4,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 12,
+                "end_char": 13,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Stavropol",
+                "start_char": 98,
+                "end_char": 107,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 123,
+                "end_char": 129,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 131,
+                "end_char": 136,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one",
+                "start_char": 160,
+                "end_char": 163,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Central Asian",
+                "start_char": 171,
+                "end_char": 184,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "3",
+                "start_char": 201,
+                "end_char": 202,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "007",
+                "start_char": 218,
+                "end_char": 221,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ria Novosti",
+                "start_char": 259,
+                "end_char": 270,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Stavropol",
+                "start_char": 323,
+                "end_char": 332,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a few days",
+                "start_char": 436,
+                "end_char": 446,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "4",
+                "start_char": 466,
+                "end_char": 467,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tajiki",
+                "start_char": 468,
+                "end_char": 474,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Crocus City Hall",
+                "start_char": 502,
+                "end_char": 518,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 522,
+                "end_char": 528,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Dushanbe",
+                "start_char": 551,
+                "end_char": 559,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "9",
+                "start_char": 568,
+                "end_char": 569,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "RAID ISRAELE SU ALEPPO: DECINE DI MORTI Colpite postazioni Hezbollah",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Raid Israele su Aleppo: almeno 42 morti L'esercito di Israele ha lanciato un attacco aereo contro postazioni militari della Siria nei pressi di Aleppo, nel nord del Paese.    Una Ong di monitoraggio sul territorio riferisce che i morti sono almeno 42, tra cui cinque membri del gruppo armato libanese Hezbollah.    L'agenzia ufficiale siriana Sana parla di \"diversi morti e feriti\" anche tra i civili. Il governo siriano non ha ancora fornito cifre sul numero delle persone rimaste uccise.    ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1711753205.962779,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:05",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "RAID ISRAELE ON ALEPPO: DECINE OF MORTI Hit Hezbollah Posts",
+        "en_content": "Raid Israel on Aleppo: at least 42 dead The Israeli army launched an air strike against Syrian military posts near Aleppo, in the north of the country. A monitoring NGO on the territory reports that the dead are at least 42, including five members of the Lebanese Hezbollah armed group. The Syrian official agency Sana speaks of \"dead and wounded\" among civilians. The Syrian government has not yet provided figures on the number of people left killed.",
+        "concepts": [
+            {
+                "word": "RAID",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ON",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ALEPPO",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DECINE",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MORTI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Hezbollah",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Posts",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Raid Israel",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "at least 42",
+                "start_char": 23,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Syrian",
+                "start_char": 88,
+                "end_char": 94,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Aleppo",
+                "start_char": 115,
+                "end_char": 121,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least 42",
+                "start_char": 212,
+                "end_char": 223,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "five",
+                "start_char": 235,
+                "end_char": 239,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 255,
+                "end_char": 263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hezbollah",
+                "start_char": 264,
+                "end_char": 273,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Syrian",
+                "start_char": 291,
+                "end_char": 297,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Sana",
+                "start_char": 314,
+                "end_char": 318,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Syrian",
+                "start_char": 369,
+                "end_char": 375,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Attacchi russi, allerta in Polonia",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Ucraina,Isw:Mosca ha conquistato 500 km Secondo l'Institute for the Study of War (Isw), negli ultimi mesi le forze russe hanno conquistato 500 km quadrati di territorio ucraino.Intanto, Kiev riferisce di nuovi attacchi con droni e missili su infrastrutture energetitiche 99 i missili e droni lanciati su Dnipropetrovsk,Kharkiv,Dnipro, e Khmelnytskyi.84 sono stati abbattutti. Allarme anche in Polonia, che ha fatto decollare i suoi caccia e quelli alleati. E Mosca afferma di aver abbattuto 15 \"bersagli aerei nel distretto russo di Belgorod\". I frammenti avrebbero danneggiato 37 appartamenti e lo stadio. ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1711753206.028659,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Russian attacks, alert in Poland",
+        "en_content": "Ukraine,Isw:Mosca has conquered 500 km According to the Institute for the Study of War (Isw), in recent months Russian forces have conquered 500 square kilometers of Ukrainian territory. Meanwhile, Kiev reports of new attacks with drones and missiles on energy infrastructure 99 missiles and drones launched on Dnipropetrovsk,Kharkiv,Dnipro, and Khmelnytskyi.84 were all abducted. Alarm also in Poland, which took off its hunting and allies. And Moscow claims to have knocked down 15 \"air bombs in the Russian Belgorod district\". The fragments would have damaged 37 apartments and the stadium.",
+        "concepts": [
+            {
+                "word": "attacks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "alert",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Poland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russian",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Poland",
+                "start_char": 26,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "500 km",
+                "start_char": 32,
+                "end_char": 38,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "the Institute for the Study of War (Isw",
+                "start_char": 52,
+                "end_char": 91,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent months",
+                "start_char": 97,
+                "end_char": 110,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russian",
+                "start_char": 111,
+                "end_char": 118,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "500 square kilometers",
+                "start_char": 141,
+                "end_char": 162,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 166,
+                "end_char": 175,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 198,
+                "end_char": 202,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "99",
+                "start_char": 276,
+                "end_char": 278,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Dnipropetrovsk",
+                "start_char": 311,
+                "end_char": 325,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Dnipro",
+                "start_char": 334,
+                "end_char": 340,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Poland",
+                "start_char": 395,
+                "end_char": 401,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 446,
+                "end_char": 452,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "15",
+                "start_char": 481,
+                "end_char": 483,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 502,
+                "end_char": 509,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "37",
+                "start_char": 563,
+                "end_char": 565,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "RETE FILORUSSA A BRUXELLES? INCHIESTA  De Croo:deputati Ue pagati da Mosca",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Premier belga: Mosca pagò deputati Ue \"E' venuto alla luce che la Russia si è avvicinata agli eurodeputati, ma li ha anche pagati per promuovere la sua propaganda\". Lo ha detto il premier belga De Croo dopo che Praga ha detto di aver scoperto una rete filorussa che starebbe tentando di influenzare il Parlamento Ue e le Europpe di giugno prossimo. Il Parlamento Ue ha aperto un'inchiesta e la presidente Metsola, dice De Croo, \"è a conoscenza delle accuse\" e ne \"sta esaminando la veridicità\". \"Si tratta di deputati che ricevono denaro\" (dalla Russia). \"E' una pressione esterna, ma ma c'è cooperazione dall'interno\".  ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1711753206.0345886,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Do you want to make it to BRUSSELS? INCHIESTA De Croo: EU members paid by Moscow",
+        "en_content": "Belgian Premier: Moscow paid EU MPs \"It came to light that Russia approached Euro MPs, but also paid them to promote its propaganda.\" This is what the Belgian Prime Minister De Croo said after Prague said he had discovered a pro-Russian network that would be trying to influence the European Parliament and the European Parliament next June. The European Parliament opened an inquiry and President Metsola, says De Croo, \"is aware of the accusations\" and \"is examining the truth\". \"It is Members who receive money\" (from Russia). \"It's an external pressure, but there's cooperation from the inside.\"",
+        "concepts": [
+            {
+                "word": "BRUSSELS",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "INCHIESTA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "De",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Croo",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "members",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Moscow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "BRUSSELS",
+                "start_char": 26,
+                "end_char": 34,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 55,
+                "end_char": 57,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 74,
+                "end_char": 80,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Belgian",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 29,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 59,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Euro",
+                "start_char": 77,
+                "end_char": 81,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Belgian",
+                "start_char": 151,
+                "end_char": 158,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "De Croo",
+                "start_char": 174,
+                "end_char": 181,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Prague",
+                "start_char": 193,
+                "end_char": 199,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "pro-Russian",
+                "start_char": 225,
+                "end_char": 236,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 279,
+                "end_char": 302,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 307,
+                "end_char": 330,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "next June",
+                "start_char": 331,
+                "end_char": 340,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The European Parliament",
+                "start_char": 342,
+                "end_char": 365,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Metsola",
+                "start_char": 398,
+                "end_char": 405,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "De Croo",
+                "start_char": 412,
+                "end_char": 419,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 521,
+                "end_char": 527,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "CACCIA ITALIA INTERCETTANO AEREI RUSSI  Sulle acque internazionali Baltico",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Caccia italiani intercettano voli russi Nelle ultime 24 ore gli Eurofighter italiani della task force aerea 4th Wing -operativa nella base polacca di Malborkhanno effettuato una doppia intercettazione di aerei russi in Baltico L'allarme è scattato ieri e di nuovo oggi dalla base Nato di Uedem (Germania), per velivolo non identificato in volo su acque internazionali. Nei due casi, l'aereo non rispondeva via radio. Identificati i velivoli, degli IL 20 che -si apprende dalla Difesanon avevano intenzioni ostili, i nostri F-2000 sono rientrati a Malbork.   ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1711753206.04114,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "CACCIA ITALIA INTERCETTAAIR RUSSI International Baltic waters",
+        "en_content": "Original news Italian Hunt intercept Russian flights In the last 24 hours the Italian Eurofighters of the aerial task force 4th Wing -operative in the Polish base of Malbork have carried out a double interception of Russian planes in Baltic The alarm took place yesterday and again today from the NATO base of Uedem (Germany), for unidentified aircraft in flight on international waters. In two cases, the plane didn't respond by radio. Identified the aircraft, of the IL 20 that - learned from the Defense did not have hostile intentions, our F-2000s returned to Malbork.",
+        "concepts": [
+            {
+                "word": "ITALIA",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "INTERCETTAAIR",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "International",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Baltic",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "waters",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "CACCIA ITALIA",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 14,
+                "end_char": 21,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 37,
+                "end_char": 44,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the last 24 hours",
+                "start_char": 56,
+                "end_char": 73,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Italian",
+                "start_char": 78,
+                "end_char": 85,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "4th",
+                "start_char": 124,
+                "end_char": 127,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Polish",
+                "start_char": 151,
+                "end_char": 157,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 216,
+                "end_char": 223,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Baltic",
+                "start_char": 234,
+                "end_char": 240,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 262,
+                "end_char": 271,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 282,
+                "end_char": 287,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "NATO",
+                "start_char": 297,
+                "end_char": 301,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Uedem",
+                "start_char": 310,
+                "end_char": 315,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Germany",
+                "start_char": 317,
+                "end_char": 324,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 391,
+                "end_char": 394,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Defense",
+                "start_char": 499,
+                "end_char": 506,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "F-2000s",
+                "start_char": 544,
+                "end_char": 551,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    },
+    {
+        "title": "TENNIS, A MIAMI SINNER VOLA IN FINALE  Giocherà contro Zverev o Dimitrov",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=260",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1711753206.0464606,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "TENNIS, A MIAMI SINNER VOLA IN FINALE",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "TENNIS",
+                "meaning": "dep",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MIAMI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SINNER",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VOLA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "FINALE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "FINALE",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Tusk:Guerra in Europa rischio reale",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Tusk: \"Guerra in Europa rischio reale\" La guerra in Europa è per la prima volta dal 1945 un rischio \"reale\". \"E' l' era prebellica, non sto esagerando. Sta diventando ogni giorno più evidente\". Lo ha detto il premier polacco, Tusk in un' intervista col network Lena.  \"Non voglio spaventare nessuno, ma la guerra non è più un concetto del passato. E' reale ed è incominciata più di due anni fa. La cosa preoccupante è che ogni scenario è possibile\", afferma  Tusk che aggiunge: \"dobbiamo essere  pronti. Ma l'Europa ha ancora molta  strada da fare\".     ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1711753206.0611768,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Tusk:Guerra in Europe real risk",
+        "en_content": "Tusk: \"War in Europe real risk\" The war in Europe is for the first time since 1945 a \"real\" risk. \"It was pre-war, I'm not exaggerating. It's becoming more evident every day.\" The Polish premier Tusk said in an interview with the Lena network. \"I don't want to scare anyone, but war is no longer a concept of the past. It's real and began more than two years ago. The worrying thing is that every scenario is possible,\" says Tusk who adds: \"We must be ready. But Europe still has a lot to do.\"",
+        "concepts": [
+            {
+                "word": "Tusk",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Guerra",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risk",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Europe",
+                "start_char": 15,
+                "end_char": 21,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tusk",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 14,
+                "end_char": 20,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 43,
+                "end_char": 49,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "first",
+                "start_char": 61,
+                "end_char": 66,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "1945",
+                "start_char": 78,
+                "end_char": 82,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "every day",
+                "start_char": 164,
+                "end_char": 173,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Polish",
+                "start_char": 180,
+                "end_char": 186,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tusk",
+                "start_char": 195,
+                "end_char": 199,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lena",
+                "start_char": 230,
+                "end_char": 234,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "more than two years ago",
+                "start_char": 339,
+                "end_char": 362,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tusk",
+                "start_char": 425,
+                "end_char": 429,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 463,
+                "end_char": 469,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "PADRE ILARIA SALIS SCRIVE A MATTARELLA  Il legale: \"Il ricorso dopo Pasqua\"",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1711753206.075652,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "_ Legal: \"The appeal after Easter\"",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "appeal",
+                "meaning": "appos",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Easter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Easter",
+                "start_char": 27,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Schlein \"Deriva pericolosa governo\"",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": " Schlein: governo di destra contro bimbi \"Il Ministro Valditara corre dietro al delirio di Salvini che vuole sbattere fuori dalle classi i bambini nati da genitori stranieri. Non si capisce l'accanimento della destra che governa contro i bambini. Pensano di negare il diritto costituzionale all'istruzione a chi nasce e cresce in Italia? Se approvassimo lo Ius Soli quelle bambine e quei bambini sarebbero già italiani\". Così il segretario del Pd, Schlein.  \"Il ministro parla di Costituzione, ma evidentemente non l'ha letta\". Schlein ha poi parlato di \"deriva pericolosa\". ",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1711753206.0789325,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Schlein \"Deriving Government\"",
+        "en_content": "Schlein: right-wing government against children \"The Minister Valditara runs behind the delirium of Salvini who wants to beat out of classes children born of foreign parents. You do not understand the happening of the right that governs against children. Do they deny the constitutional right to education to those who are born and grow in Italy? If we approved the Ius Soli these girls and those children would already be Italian.\" So the secretary of the Pd, Schlein. \"The minister speaks of Constitution, but obviously he did not read it.\" Schlein then talked about \"dangerous adhesive.\"",
+        "concepts": [
+            {
+                "word": "Schlein",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Deriving",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Government",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valditara",
+                "start_char": 62,
+                "end_char": 71,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 340,
+                "end_char": 345,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Ius Soli",
+                "start_char": 362,
+                "end_char": 374,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 423,
+                "end_char": 430,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 461,
+                "end_char": 468,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Constitution",
+                "start_char": 494,
+                "end_char": 506,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Schlein",
+                "start_char": 543,
+                "end_char": 550,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "IL PAPA NON VA A VIA CRUCIS AL COLOSSEO Forfait \"per conservare sua salute\"",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1711753206.1764307,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "_",
+        "en_content": "",
+        "concepts": []
+    },
+    {
+        "title": "CACCIA ITALIANI INTERCETTANO VOLI RUSSI Su acque internazionali nel Baltico",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1711753206.3071856,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "CACCIA ITALIAN INTERCETTA VOLI RUSSI On international waters in the Baltic",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "CACCIA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ITALIAN",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "INTERCETTA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "VOLI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "RUSSI",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "waters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Baltic",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "CACCIA ITALIAN INTERCETTA VOLI RUSSI On international",
+                "start_char": 0,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Baltic",
+                "start_char": 68,
+                "end_char": 74,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 7,
+        "placed": "Economics",
+        "epoch": 1711753206.3176765,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Festa al ristorante per 6,4 milioni",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=135",
+        "content": " Fipe:\"Pasqua al ristorante per 6,4 mln\" 6,4 mln le persone che si ricano al  ristorante per il pranzo di Pasqua,dato in linea con quello del 2023. La spesa totale sarà di 450 mln di euro, in aumento rispetto al 2023. E' quanto stima Fipe-Confcommercio. Per Pasquetta si prevede una leggera flessione sul 2023: il 78,1% delle attività tra residenti e turisti.Spesa totale prevista di 250mln Secondo Federconsumatori, causa crisi e maltempo, parte solo una famiglia su 7 e una su 4 pranzerà fuori casa. Ristoranti della cucina tradizionale e agriturismi le mete preferite.   ",
+        "ranked": 4,
+        "placed": "Economics",
+        "epoch": 1711753206.3262784,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Restaurant party for 6.4 million",
+        "en_content": "Fipe:\"Pasqua at the restaurant for 6,4 mln\" 6,4 mln people who go to the restaurant for Easter lunch, given in line with that of 2023. The total expenditure will be 450 million euros, increasing compared to 2023. It's what Fipe-Confcommercio estimates. For Pasquetta there is a slight decline on 2023: 78.1% of the activities between residents and tourists. Total expected expenditure of 250mln According to Federconsumatori, cause crisis and bad weather, only one family on 7 and one on 4 will have lunch outside the house. Restaurants in traditional cuisine and farmhouses the favorite destinations.",
+        "concepts": [
+            {
+                "word": "Restaurant",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "6.4 million",
+                "start_char": 21,
+                "end_char": 32,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter",
+                "start_char": 88,
+                "end_char": 94,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2023",
+                "start_char": 129,
+                "end_char": 133,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "450 million",
+                "start_char": 165,
+                "end_char": 176,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2023",
+                "start_char": 207,
+                "end_char": 211,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Fipe-Confcommercio",
+                "start_char": 223,
+                "end_char": 241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pasquetta",
+                "start_char": 257,
+                "end_char": 266,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2023",
+                "start_char": 296,
+                "end_char": 300,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "78.1%",
+                "start_char": 302,
+                "end_char": 307,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "250mln",
+                "start_char": 388,
+                "end_char": 394,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Federconsumatori",
+                "start_char": 408,
+                "end_char": 424,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "only one",
+                "start_char": 456,
+                "end_char": 464,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "7",
+                "start_char": 475,
+                "end_char": 476,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one",
+                "start_char": 481,
+                "end_char": 484,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 488,
+                "end_char": 489,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Traffico in aumento sulle strade",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=134",
+        "content": " Esodo Pasqua,oltre 4 milioni in viaggio Tra oggi e domani si mettono in  viaggio circa 4 milioni di persone su strade e Autostrade Anas per le festività pasquali. Previsto un aumento del traffico del 15% per oggi e del 5% per domani,rispetto alla media settimanale. Visto l'aumento della circolazione su tutto il territorio nazionale, è stata decisa la rimozione di 404 cantieri, il 63% del totale. Sui restanti 242 cantieri inamovibili Anas ha predisposto un piano di ottimizzazione e percorsi alternativi per le tratte più critiche.",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1711753206.3324933,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Increased traffic on roads",
+        "en_content": "Easter Exodus, over 4 million on the way Today and tomorrow about 4 million people are traveling on roads and Anas highways for Easter holidays. Expected a 15% increase in traffic for today and 5% for tomorrow, compared to the weekly average. Given the increase in circulation throughout the national territory, the removal of 404 yards was decided, 63% of the total. On the remaining 242 inamovable yards Anas has prepared an optimization plan and alternative routes for the most critical routes.",
+        "concepts": [
+            {
+                "word": "traffic",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "roads",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter Exodus",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "over 4 million",
+                "start_char": 15,
+                "end_char": 29,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Today",
+                "start_char": 41,
+                "end_char": 46,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "about 4 million",
+                "start_char": 60,
+                "end_char": 75,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Anas",
+                "start_char": 110,
+                "end_char": 114,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Easter",
+                "start_char": 128,
+                "end_char": 134,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "15%",
+                "start_char": 156,
+                "end_char": 159,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "today",
+                "start_char": 184,
+                "end_char": 189,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "5%",
+                "start_char": 194,
+                "end_char": 196,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 201,
+                "end_char": 209,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "weekly",
+                "start_char": 227,
+                "end_char": 233,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "404 yards",
+                "start_char": 327,
+                "end_char": 336,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "63%",
+                "start_char": 350,
+                "end_char": 353,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "242",
+                "start_char": 385,
+                "end_char": 388,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Anas",
+                "start_char": 406,
+                "end_char": 410,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "DOMANI SCIOPERO NEL SETTORE COMMERCIO  8 ore di astensione dal lavoro",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=136",
+        "content": " Sciopero commercio 8 ore il 30 marzo A una settimana dal rinnovo del contratto nazionale del terziario con Confcommercio e Confesercenti, saltano le difficili trattative con Federdistribuzione.Filcams Cgil, Fisascat Cisl e Uiltucs proclamano 8 ore di sciopero in tutto il Paese per il 30 marzo e la mancata disponibilità al lavoro per il 31 marzo e il 1° aprile.   Dopo \"oltre 4 anni dalla scadenza del primo (e ultimo) contratto,la ritrosia di Federdistribuzione a dare il giusto riconoscimento ai dipendenti non accenna ad attenuarsi\",scrivono i sindacati.",
+        "ranked": 5,
+        "placed": "Economics",
+        "epoch": 1711753206.335391,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "SCIOPLE QUESTIONS IN THE COMMERCE SECTOR 8 hours of abstention from work",
+        "en_content": "Strike trade 8 hours on 30 March A week after the renewal of the national contract of the tertiary with Confcommercio and Confesercenti, skip the difficult negotiations with Federdistribuzione. Filcams Cgil, Fisascat Cisl and Uiltucs proclaim 8 hours of strike throughout the country for 30 March and the lack of availability at work for 31 March and 1 April. After \"more than 4 years after the expiry of the first (and last) contract, Federdistribuzione's retrosy to give the right recognition to employees does not mention attenuating\", write the unions.",
+        "concepts": [
+            {
+                "word": "QUESTIONS",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COMMERCE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SECTOR",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hours",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abstention",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "SCIOPLE",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "8 hours",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "8 hours",
+                "start_char": 13,
+                "end_char": 20,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "30 March",
+                "start_char": 24,
+                "end_char": 32,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Confcommercio",
+                "start_char": 104,
+                "end_char": 117,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Confesercenti",
+                "start_char": 122,
+                "end_char": 135,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Filcams Cgil",
+                "start_char": 194,
+                "end_char": 206,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Uiltucs",
+                "start_char": 226,
+                "end_char": 233,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "8 hours",
+                "start_char": 243,
+                "end_char": 250,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "30 March",
+                "start_char": 288,
+                "end_char": 296,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "31 March",
+                "start_char": 338,
+                "end_char": 346,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1 April",
+                "start_char": 351,
+                "end_char": 358,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than 4 years",
+                "start_char": 367,
+                "end_char": 384,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 409,
+                "end_char": 414,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Federdistribuzione",
+                "start_char": 436,
+                "end_char": 454,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "TORNA L'ORA LEGALE, RISPARMIO PER 90MLN Da minor consumo energia elettrica",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=137",
+        "content": " Torna ora legale,risparmiati 90mln euro Da domenica torna in vigore l'ora legale. Alle 2 di notte, tra sabato e domenica,bisogna spostare gli orologi avanti di un'ora. Si tornerà all'ora solare il 27 ottobre.     Il passaggio all'ora legale produrrà un risparmio di 90mln di euro, grazie al minor consumo di energia elettrica.Sono le stime di Terna, che gestisce la rete elettrica di trasmissione nazionale. La minore energia utilizzata produrrà \"un rilevante beneficio ambientale, riducendo di 170 mila tonnellate le emissioni di anidride carbonica\".  ",
+        "ranked": 6,
+        "placed": "Economics",
+        "epoch": 1711753206.3380637,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "TORNA LEGAL NOW, RISPARMIO FOR 90MLN Less power consumption",
+        "en_content": "Back now legal, sprinkled 90mln euro The daylight saving time comes back from Sunday. At 2 o'clock at night, between Saturday and Sunday, we need to move the clocks forward of an hour. It will return to the solar hour on October 27th. The shift to the daylight saving time will produce a saving of 90mln euros, thanks to the lower consumption of electricity. These are Terna's estimates, which manages the national transmission network. The lower energy used will produce \"a significant environmental benefit, reducing carbon dioxide emissions by 170 thousand tonnes\".",
+        "concepts": [
+            {
+                "word": "LEGAL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NOW",
+                "meaning": "advmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "RISPARMIO",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "90MLN",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "power",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consumption",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "90MLN",
+                "start_char": 31,
+                "end_char": 36,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "90mln euro",
+                "start_char": 26,
+                "end_char": 36,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 78,
+                "end_char": 84,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2 o'clock",
+                "start_char": 89,
+                "end_char": 98,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "between Saturday and Sunday",
+                "start_char": 109,
+                "end_char": 136,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "an hour",
+                "start_char": 176,
+                "end_char": 183,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "October 27th",
+                "start_char": 221,
+                "end_char": 233,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "90mln",
+                "start_char": 298,
+                "end_char": 303,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Terna",
+                "start_char": 369,
+                "end_char": 374,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "170 thousand tonnes",
+                "start_char": 547,
+                "end_char": 566,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    },
+    {
+        "title": "Confesercenti: rientro sarà lungo",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Confesercenti: lungo rientro inflazione \"Il rientro dell'inflazione si conferma più lungo del previsto e preoccupa, in prospettiva, il ritorno delle tensioni sugli energetici. Il dato Istat (relativo a marzo) mostra infatti il riaffacciarsi della problematica legata  ai prezzi delle materie prime energetiche\". Lo si legge in una nota di Confesercenti.      Preoccupa la situazione di crisi nei Paesi produttori di petrolio. Risale dell'1,3% dallo 0,8 di febbraio l' indice medio, nonostante la riduzione dei prezzi dei generi alimentari. ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1711753206.3412654,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "Confesercent: return will be long",
+        "en_content": "Confesercenti: long return of inflation \"The return of inflation is longer than expected and worries, in perspective, the return of tensions on energy. The Istat data (relative in March) shows the re-awareness of the problem linked to the prices of energy raw materials\". You read it in a note of Confesercenti. It concerns the crisis situation in oil-producing countries. The average index was 1.3% from February 0.8, despite the reduction in food prices.",
+        "concepts": [
+            {
+                "word": "Confesercent",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "return",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Istat",
+                "start_char": 156,
+                "end_char": 161,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "March",
+                "start_char": 180,
+                "end_char": 185,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Confesercenti",
+                "start_char": 297,
+                "end_char": 310,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1.3%",
+                "start_char": 395,
+                "end_char": 399,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "February 0.8",
+                "start_char": 405,
+                "end_char": 417,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "20 MILIONI IN VACANZA A PASQUA E APRILE Mete italiane nell'85% dei casi",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": " 20 milioni in vacanza a Pasqua e aprile Secondo la stima di Confcommercio sono 10 milioni gli italiani pronti a partire per la vacanze pasquali, anche se 2 mln sono ancora indecisi per via del meteo. Altri 8 mln e mezzo programmano un viaggio per il ponte del 25 aprile. Per Pasqua mete italiane nell'85% dei casi, e spesa complessiva di 3,5 mld (350 euro a persona). In aumento il numero dei vacanzieri che scelgono mete estere: Spagna, Francia e Austria le principali. Cresce il turismo.  \"Meteo e tensioni internazionali non penalizzano la voglia di viaggiare\",dice il presidente Confcommercio,Sangalli",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1711753206.4162834,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 00:00:06",
+        "filename": "ner_conc_en_2024-03-30T00.00.05E1711756805.113522.json",
+        "en_title": "20 MILIONS IN PASQUA AND APRIL Italian destinations in 85% of cases",
+        "en_content": "20 million on holiday in Easter and April According to the estimate of Confcommercio are 10 million Italians ready to leave for the Easter holidays, although 2 mln are still undecided because of the weather. Another 8 mln and a half plan a trip for the bridge of April 25. For Easter Italian destinations in 85% of cases, and total expenditure of 3.5 mld (350 euros per person). Increasing the number of holidaymakers who choose foreign destinations: Spain, France and Austria are the main ones. Tourism grows. \"International media and tensions do not penalize the desire to travel\", says President Confcommercio,Sangalli",
+        "concepts": [
+            {
+                "word": "MILIONS",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PASQUA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "destinations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "20",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "PASQUA",
+                "start_char": 14,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "APRIL",
+                "start_char": 25,
+                "end_char": 30,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 31,
+                "end_char": 38,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "85%",
+                "start_char": 55,
+                "end_char": 58,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "20 million",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Easter",
+                "start_char": 25,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Confcommercio",
+                "start_char": 71,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "10 million",
+                "start_char": 89,
+                "end_char": 99,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italians",
+                "start_char": 100,
+                "end_char": 108,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Easter",
+                "start_char": 132,
+                "end_char": 138,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2",
+                "start_char": 158,
+                "end_char": 159,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8 mln and a half",
+                "start_char": 216,
+                "end_char": 232,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "April 25",
+                "start_char": 263,
+                "end_char": 271,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Easter Italian",
+                "start_char": 277,
+                "end_char": 291,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "85%",
+                "start_char": 308,
+                "end_char": 311,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "3.5",
+                "start_char": 347,
+                "end_char": 350,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "350",
+                "start_char": 356,
+                "end_char": 359,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Spain",
+                "start_char": 451,
+                "end_char": 456,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 458,
+                "end_char": 464,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Austria",
+                "start_char": 469,
+                "end_char": 476,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Confcommercio",
+                "start_char": 599,
+                "end_char": 612,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sangalli",
+                "start_char": 613,
+                "end_char": 621,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

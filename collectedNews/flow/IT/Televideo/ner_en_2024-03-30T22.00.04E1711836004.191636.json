@@ -1,0 +1,2049 @@
+[
+    {
+        "title": "FERITI IN LIBANO 4 OSSERVATORI ONU    Tra loro non ci sono italiani      Gaza,5 morti per la ressa su aiuti",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1711832404.5805776,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "_ Among them there are no Italians Gaza,5 dead for the fight on aid",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Italians",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "fight",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "aid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Italians",
+                "start_char": 26,
+                "end_char": 34,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Stanotte alle 2 torna l'ora legale",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1711832404.599392,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "Tonight at 2 o'clock the summer time returns",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Tonight",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "o'clock",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "summer",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "time",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "returns",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Tonight",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "2 o'clock",
+                "start_char": 11,
+                "end_char": 20,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ]
+    },
+    {
+        "title": "ANTICIPO SERIE A, NAPOLI-ATALANTA 0-3  Alle 18 match clou Lazio-Juventus",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "     ",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1711832404.609986,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "ANTICI SERIES A, NAPOLI-ATALANTA 0-3 At 18 matches clou Lazio-Juventus",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "SERIES",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "A",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NAPOLI",
+                "meaning": "npadvmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ATALANTA",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "matches",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "clou",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lazio",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Juventus",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "0-3",
+                "start_char": 33,
+                "end_char": 36,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "18",
+                "start_char": 40,
+                "end_char": 42,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Lazio-Juventus",
+                "start_char": 56,
+                "end_char": 70,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "MATTARELLA CHIAMA PADRE DI ILARIA SALIS Il capo dello Stato: \"Le sono vicino\"  Dopo lettera inviata al Quirinale",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Mattarella a Roberto Salis: \"Vicinanza\" Il capo dello Stato Mattarella ha telefonato a Roberto Salis,dopo che ieri il padre di Ilaria-la 39enne da oltre un anno detenuta a Budapest aveva inviato una lettera al Quirinale.  Salis ha riferito che il presidente \"ha ribadito la sua vicinanza\" a lui e alla famiglia,\"ha garantito il suo personale interessamento al caso\" aggiungendo che \"la differenza tra il nostro sistema, ispirato ai valori europei,e il loro ha portato a una disparità di trattamento tra due cittadini italiani che colpisce\". Salis lo ha ringraziato per la o solerte risposta e per la vicinanza. ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1711832404.6324704,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "_ The Head of State: \"I'm close to you\" After letter sent to Quirinale",
+        "en_content": "Mattarella to Roberto Salis: \"Vicinanza\" The head of the state Mattarella called Roberto Salis, after yesterday the father of Ilaria-la 39enne from over a year held in Budapest had sent a letter to the Quirinale. Salis reported that the president \"reiterated his closeness\" to him and the family,\" he guaranteed his personal interest in the case\" adding that \"the difference between our system, inspired by European values, and their led to a disparity of treatment between two Italian citizens who strike\". Salis thanked him for his or her response and for his closeness.",
+        "concepts": [
+            {
+                "word": "Head",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "State",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "letter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Quirinale",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The Head of State",
+                "start_char": 2,
+                "end_char": 19,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Quirinale",
+                "start_char": 61,
+                "end_char": 70,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Roberto Salis",
+                "start_char": 14,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 63,
+                "end_char": 73,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Roberto Salis",
+                "start_char": 81,
+                "end_char": 94,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 102,
+                "end_char": 111,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria-la 39enne",
+                "start_char": 126,
+                "end_char": 142,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Budapest",
+                "start_char": 168,
+                "end_char": 176,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 407,
+                "end_char": 415,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "two",
+                "start_char": 474,
+                "end_char": 477,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 478,
+                "end_char": 485,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "OGGI SCIOPERO NEL SETTORE COMMERCIO   8 ore di astensione dal lavoro",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=136",
+        "content": " Sciopero nel commercio oggi per 8 ore A una settimana dal rinnovo del contratto nazionale del terziario con Confcommercio e Confesercenti, saltano le difficili trattative con Federdistribuzione.Filcams Cgil, Fisascat Cisl e Uiltucs proclamano 8 ore di sciopero in tutto il Paese per oggi e la  mancata disponibilità al lavoro per il 31 marzo e il 1° aprile.   Dopo \"oltre 4 anni dalla scadenza del primo (e ultimo) contratto,la ritrosia di Federdistribuzione a dare il giusto riconoscimento ai dipendenti non accenna ad attenuarsi\",scrivono i sindacati.",
+        "ranked": 5,
+        "placed": "Economics",
+        "epoch": 1711832404.6349344,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "SCIOPLE OGGI IN THE COMMERCE SECTOR 8 hours of abstention from work",
+        "en_content": "Strike in trade today for 8 hours A week after the renewal of the national contract of the tertiary with Confcommercio and Confesercenti, skip the difficult negotiations with Federdistribuzione. Filcams Cgil, Fisascat Cisl and Uiltucs proclaim 8 hours of strike throughout the country for today and the lack of availability at work for 31 March and 1 April. After \"more than 4 years after the expiry of the first (and last) contract, Federdistribuzione's retrosy to give the right recognition to employees does not mention attenuating\", write the unions.",
+        "concepts": [
+            {
+                "word": "SCIOPLE",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "OGGI",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COMMERCE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "SECTOR",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hours",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abstention",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "8 hours",
+                "start_char": 36,
+                "end_char": 43,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "today",
+                "start_char": 16,
+                "end_char": 21,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "8 hours",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "A week",
+                "start_char": 34,
+                "end_char": 40,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Confcommercio",
+                "start_char": 105,
+                "end_char": 118,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Confesercenti",
+                "start_char": 123,
+                "end_char": 136,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Filcams Cgil",
+                "start_char": 195,
+                "end_char": 207,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Uiltucs",
+                "start_char": 227,
+                "end_char": 234,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "8 hours",
+                "start_char": 244,
+                "end_char": 251,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "today",
+                "start_char": 289,
+                "end_char": 294,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "31 March",
+                "start_char": 336,
+                "end_char": 344,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1 April",
+                "start_char": 349,
+                "end_char": 356,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than 4 years",
+                "start_char": 365,
+                "end_char": 382,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 407,
+                "end_char": 412,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Federdistribuzione",
+                "start_char": 434,
+                "end_char": 452,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "MATTARELLA CHIAMA PADRE DI ILARIA SALIS \"Colpito da disparità di trattamento\"  Capo dello Stato: \"Le sono vicino\"",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1711832404.6372383,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "MATTARELLA CHIAMA PADRE DI ILARIA SALIS \"Colpit by disparity of treatment\" Head of State: \"I'm close to you\"",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "MATTARELLA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CHIAMA",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PADRE",
+                "meaning": "ccomp",
+                "pos": "AUX"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ILARIA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SALIS",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Colpit",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "disparity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "treatment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Head",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "State",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UOVA DI PASQUA, RINCARI FINO AL 33%   A pesare prezzi di cacao e zucchero",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Uovo Pasqua,Codacons:rincari fino a 40% Uovo di Pasqua salato a causa delle  quotazioni record del cacao.Lo sostiene il Codacons, che segnala rincari per tutti i marchi e in tutto il Paese. Gli aumenti delle uova di cioccolato delle marche più note vanno dal +16% al +24% rispetto al 2023. Per quelle della fascia più alta rincari di più del 33%. Oltre alle quotazioni del cacao (+52%), pesano quelle dello zucchero (+72%). In Italia la produzione di uova pasquali supera le 31.000 t per un giro d'affari di oltre 300 mln.Ciò significa che i rincari peseranno per 72 mln di euro.",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1711832404.7234223,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "PASQUA OVA, RINCARI FINO AL 33% To weigh cocoa and sugar prices",
+        "en_content": "Egg Easter,Codacons:rincari up to 40% Salt Easter egg due to record cocoa quotations. The Codacons supports it, which reports traces for all brands and throughout the country. The chocolate eggs increases of the most known brands range from +16% to +24% compared to 2023. For those of the highest band more than 33%. In addition to the quotations of cocoa (+52%), they weigh those of sugar (+72%). In Italy the production of Easter eggs exceeds 31.000 t for a turnover of more than 300 mln. This means that the waste will weigh for 72 million euros.",
+        "concepts": [
+            {
+                "word": "PASQUA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "OVA",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RINCARI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "FINO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "AL",
+                "meaning": "npadvmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "%",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cocoa",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sugar",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prices",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "33%",
+                "start_char": 28,
+                "end_char": 31,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Egg Easter,Codacons",
+                "start_char": 0,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "up to 40%",
+                "start_char": 28,
+                "end_char": 37,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Salt Easter",
+                "start_char": 38,
+                "end_char": 49,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "+24%",
+                "start_char": 249,
+                "end_char": 253,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2023",
+                "start_char": 266,
+                "end_char": 270,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than 33%",
+                "start_char": 302,
+                "end_char": 315,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Italy",
+                "start_char": 401,
+                "end_char": 406,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Easter",
+                "start_char": 425,
+                "end_char": 431,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "31.000",
+                "start_char": 445,
+                "end_char": 451,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "more than 300",
+                "start_char": 472,
+                "end_char": 485,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "72 million",
+                "start_char": 532,
+                "end_char": 542,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "EXPORT STABILE,MA +30% RISPETTO AL 2019 Cgia: vendite per 620 miliardi euro",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=135",
+        "content": " Export fermo, ma +30% rispetto al 2019 Export sostanzialmente stabile nel 2023 rispetto all'anno precedente, con le vendite all'estero che in termini assoluti si sono attestate sui 620 miliardi di euro. Lo fa sapere la Cgia. Nell'Ue a 27, solo Germania (1.562 mld) e Paesi Bassi (866 mld) hanno realizzato flussi di vendite superiori all'Italia.  La Cgia rileva comunque come rispetto ai livelli pre-Covid (2019) l'export italiano sia aumentato del 30,4%. E la crescità è pari al 70% se il confronto viene fatto con il 2008, l'anno prima della caduta del commercio mondiale. ",
+        "ranked": 4,
+        "placed": "Economics",
+        "epoch": 1711832404.7447283,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "EXPORT STABILE,MA +30% RISPETTO AL 2019 Cgia: sales for 620 billion euro",
+        "en_content": "Export, but +30% compared to 2019 Export substantially stable in 2023 compared to the previous year, with sales abroad that in absolute terms stood at 620 billion euros. Cgia does. In the EU to 27, only Germany (1.562 mld) and the Netherlands (866 mld) have produced sales flows higher than Italy. The Cgia however detects as compared to pre-Covid levels (2019) the Italian export has increased by 30.4%. And growth is 70% if the comparison is made with 2008, the year before the fall of world trade.",
+        "concepts": [
+            {
+                "word": "EXPORT",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "STABILE",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "+30",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RISPETTO",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "AL",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cgia",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "sales",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "euro",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "MA",
+                "start_char": 15,
+                "end_char": 17,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "620 billion euro",
+                "start_char": 56,
+                "end_char": 72,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "2023",
+                "start_char": 65,
+                "end_char": 69,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the previous year",
+                "start_char": 82,
+                "end_char": 99,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "620 billion",
+                "start_char": 151,
+                "end_char": 162,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Cgia",
+                "start_char": 170,
+                "end_char": 174,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 188,
+                "end_char": 190,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "27",
+                "start_char": 194,
+                "end_char": 196,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Germany",
+                "start_char": 203,
+                "end_char": 210,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1.562 mld",
+                "start_char": 212,
+                "end_char": 221,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 231,
+                "end_char": 242,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "866",
+                "start_char": 244,
+                "end_char": 247,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 291,
+                "end_char": 296,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cgia",
+                "start_char": 302,
+                "end_char": 306,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "pre-Covid",
+                "start_char": 338,
+                "end_char": 347,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2019",
+                "start_char": 356,
+                "end_char": 360,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 366,
+                "end_char": 373,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "30.4%",
+                "start_char": 398,
+                "end_char": 403,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "70%",
+                "start_char": 419,
+                "end_char": 422,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2008",
+                "start_char": 454,
+                "end_char": 458,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the year before the fall",
+                "start_char": 460,
+                "end_char": 484,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "PAPA FRANCESCO ALLA VEGLIA PASQUALE   A San Pietro battezzerà 8 fedeli",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1711832404.7513483,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "PAPA FRANCESCO TO THE VEGLIA PASQUALE To St. Peter will beat 8 faithful",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "VEGLIA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PASQUALE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "St.",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Peter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "St. Peter",
+                "start_char": 41,
+                "end_char": 50,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "8",
+                "start_char": 61,
+                "end_char": 62,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "MILIONI DI ITALIANI IN VACANZA      Mete nazionali nell'85% dei casi",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " 20 milioni in vacanza a Pasqua e aprile Secondo la stima di Confcommercio sono 10 milioni gli italiani pronti a partire per la vacanze pasquali, anche se 2 mln sono ancora indecisi per via del meteo. Altri 8 mln e mezzo programmano un viaggio per il ponte del 25 aprile. Per Pasqua mete italiane nell'85% dei casi, e spesa complessiva di 3,5 mld (350 euro a persona). In aumento il numero dei vacanzieri che scelgono mete estere: Spagna, Francia e Austria le principali. Cresce il turismo.  \"Meteo e tensioni internazionali non penalizzano la voglia di viaggiare\",dice il presidente Confcommercio,Sangalli",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1711832404.7552278,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "MILIONS OF ITALIAN IN VACANZA National destinations in 85% of cases",
+        "en_content": "20 million on holiday in Easter and April According to the estimate of Confcommercio are 10 million Italians ready to leave for the Easter holidays, although 2 mln are still undecided because of the weather. Another 8 mln and a half plan a trip for the bridge of April 25. For Easter Italian destinations in 85% of cases, and total expenditure of 3.5 mld (350 euros per person). Increasing the number of holidaymakers who choose foreign destinations: Spain, France and Austria are the main ones. Tourism grows. \"International media and tensions do not penalize the desire to travel\", says President Confcommercio,Sangalli",
+        "concepts": [
+            {
+                "word": "MILIONS",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ITALIAN",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "VACANZA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "destinations",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "VACANZA National",
+                "start_char": 22,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "85%",
+                "start_char": 55,
+                "end_char": 58,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "20 million",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Easter",
+                "start_char": 25,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Confcommercio",
+                "start_char": 71,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "10 million",
+                "start_char": 89,
+                "end_char": 99,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italians",
+                "start_char": 100,
+                "end_char": 108,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Easter",
+                "start_char": 132,
+                "end_char": 138,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2",
+                "start_char": 158,
+                "end_char": 159,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8 mln and a half",
+                "start_char": 216,
+                "end_char": 232,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "April 25",
+                "start_char": 263,
+                "end_char": 271,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Easter Italian",
+                "start_char": 277,
+                "end_char": 291,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "85%",
+                "start_char": 308,
+                "end_char": 311,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "3.5",
+                "start_char": 347,
+                "end_char": 350,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "350",
+                "start_char": 356,
+                "end_char": 359,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Spain",
+                "start_char": 451,
+                "end_char": 456,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 458,
+                "end_char": 464,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Austria",
+                "start_char": 469,
+                "end_char": 476,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Confcommercio",
+                "start_char": 599,
+                "end_char": 612,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sangalli",
+                "start_char": 613,
+                "end_char": 621,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 6,
+        "placed": "Economics",
+        "epoch": 1711832404.7586412,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "MEDIA: IDF CREA ZONA CUSCINETTO A GAZA  Larga 1 km, case saranno abbattute",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Olanda, liberati tutti gli ostaggi Sono state liberate tutte le persone che erano state prese in ostaggio in un bar nel centro di Ede, nei Paesi Bassi. Lo ha riferito la polizia, precisando che il sequestratore è stato fermato. \"L'ultimo ostaggio è appena stato  rilasciato. Una persona è stata  arrestata. Non possiamo dire di più in questo momento\", ha scritto la polizia su X. Per il momento non c'è traccia di \"motivazione terroristica\".  ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1711832404.7624834,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "MEDIA: IDF CREA ZONA CUSCINETTO A GAZA Larga 1 km, houses will be destroyed",
+        "en_content": "The Netherlands, freed all hostages All the people who had been taken hostage in a bar in the centre of Ede, in the Netherlands were released. The police reported it, stating that the kidnapper was stopped. \"The last hostage has just been released. Someone's been arrested. We can't say more right now,\" he wrote the police on X. There's no sign of \"terroristic motion.\"",
+        "concepts": [
+            {
+                "word": "MEDIA",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "IDF",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CREA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ZONA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CUSCINETTO",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GAZA",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Larga",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "km",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "houses",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Netherlands",
+                "start_char": 4,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ede",
+                "start_char": 104,
+                "end_char": 107,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 116,
+                "end_char": 127,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Festa al ristorante per 6,4 milioni",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": " Fipe:\"Pasqua al ristorante per 6,4 mln\" 6,4 mln le persone che si ricano al  ristorante per il pranzo di Pasqua,dato in linea con quello del 2023. La spesa totale sarà di 450 mln di euro, in aumento rispetto al 2023. E' quanto stima Fipe-Confcommercio. Per Pasquetta si prevede una leggera flessione sul 2023: il 78,1% delle attività tra residenti e turisti.Spesa totale prevista di 250mln Secondo Federconsumatori, causa crisi e maltempo, parte solo una famiglia su 7 e una su 4 pranzerà fuori casa. Ristoranti della cucina tradizionale e agriturismi le mete preferite.   ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1711832404.7924151,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "Restaurant party for 6.4 million",
+        "en_content": "Fipe:\"Pasqua at the restaurant for 6,4 mln\" 6,4 mln people who go to the restaurant for Easter lunch, given in line with that of 2023. The total expenditure will be 450 million euros, increasing compared to 2023. It's what Fipe-Confcommercio estimates. For Pasquetta there is a slight decline on 2023: 78.1% of the activities between residents and tourists. Total expected expenditure of 250mln According to Federconsumatori, cause crisis and bad weather, only one family on 7 and one on 4 will have lunch outside the house. Restaurants in traditional cuisine and farmhouses the favorite destinations.",
+        "concepts": [
+            {
+                "word": "Restaurant",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "6.4 million",
+                "start_char": 21,
+                "end_char": 32,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter",
+                "start_char": 88,
+                "end_char": 94,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2023",
+                "start_char": 129,
+                "end_char": 133,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "450 million",
+                "start_char": 165,
+                "end_char": 176,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2023",
+                "start_char": 207,
+                "end_char": 211,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Fipe-Confcommercio",
+                "start_char": 223,
+                "end_char": 241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pasquetta",
+                "start_char": 257,
+                "end_char": 266,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2023",
+                "start_char": 296,
+                "end_char": 300,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "78.1%",
+                "start_char": 302,
+                "end_char": 307,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "250mln",
+                "start_char": 388,
+                "end_char": 394,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Federconsumatori",
+                "start_char": 408,
+                "end_char": 424,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "only one",
+                "start_char": 456,
+                "end_char": 464,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "7",
+                "start_char": 475,
+                "end_char": 476,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one",
+                "start_char": 481,
+                "end_char": 484,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 488,
+                "end_char": 489,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "STANOTTE TORNA IN VIGORE L'ORA LEGALE  Risparmi elettricità per 90 milioni",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=134",
+        "content": " Torna ora legale, risparmio 90 mln euro Stanotte torna in vigore l'ora legale. Alle 2 bisogna spostare gli orologi  avanti di un'ora. Si tornerà all'ora solare il 27 ottobre.    Il passaggio all'ora legale produrrà un risparmio di 90mln di euro, grazie al minor consumo di energia elettrica.Sono le stime di Terna, che gestisce la rete elettrica di trasmissione nazionale. La minore energia utilizzata produrrà \"un rilevante beneficio ambientale, riducendo di 170 mila tonnellate le emissioni di anidride carbonica\".  ",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1711832404.7945955,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "STANOTTE TORNA IN VIGORE LEGAL NOW Saves electricity for 90 million",
+        "en_content": "Return now legal, save 90 mln euro Tonight the daylight saving time comes into effect. At 2 o'clock, you have to move the clocks one hour. It will return to the solar hour on October 27th. The shift to the daylight saving time will produce a saving of 90mln euros, thanks to the lower consumption of electricity. These are Terna's estimates, which manages the national transmission network. The lower energy used will produce \"a significant environmental benefit, reducing carbon dioxide emissions by 170 thousand tonnes\".",
+        "concepts": [
+            {
+                "word": "STANOTTE",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "VIGORE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "LEGAL",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "electricity",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "VIGORE LEGAL",
+                "start_char": 18,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "90 million",
+                "start_char": 57,
+                "end_char": 67,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "90 mln euro",
+                "start_char": 23,
+                "end_char": 34,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Tonight",
+                "start_char": 35,
+                "end_char": 42,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "2 o'clock",
+                "start_char": 90,
+                "end_char": 99,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "one hour",
+                "start_char": 129,
+                "end_char": 137,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "October 27th",
+                "start_char": 175,
+                "end_char": 187,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "90mln",
+                "start_char": 252,
+                "end_char": 257,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Terna",
+                "start_char": 323,
+                "end_char": 328,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "170 thousand tonnes",
+                "start_char": 501,
+                "end_char": 520,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    },
+    {
+        "title": "FERITI IN LIBANO 4 OSSERVATORI ONU    Tra loro non ci sono italiani      Media accusano Israele, che nega",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Feriti in Libano 4 osservatori Onu Quattro osservatori Onu sono rimasti feriti in un raid nel sud del Libano, a ridosso della linea blu al confine con Israele.Nessuno di loro è in pericolo di vita,\"ferite non gravi\".   Uno dei 4 è l'interprete libanese. Gli altri 3 sono di nazionalità  australiana, cilena e norvegese.  Un drone avrebbe colpito il veicolo su cui viaggiavano. I media libanesi  puntano il dito su Israele. Ma l'Idf smentisce: \"Non abbiamo attaccato noi il veicolo Unifil\".    ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1711832404.832103,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "_ Among them there are no Italians Media accuse Israel, which denies",
+        "en_content": "Feriti in Lebanon 4 UN observers Four UN observers were injured in a raid in southern Lebanon, close to the blue line bordering Israel. None of them are in danger of life, \"not serious wounds.\" One of the 4 is the Lebanese interpreter. The other 3 are Australian, Chilean and Norwegian. A drone would have hit the vehicle they were traveling on. The Lebanese media point their finger on Israel. But the Idf denies: \"We didn't attack the Unifil vehicle.\"",
+        "concepts": [
+            {
+                "word": "Italians",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Media",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Italians",
+                "start_char": 26,
+                "end_char": 34,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 48,
+                "end_char": 54,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Lebanon",
+                "start_char": 10,
+                "end_char": 17,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 18,
+                "end_char": 19,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "UN",
+                "start_char": 20,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Four",
+                "start_char": 33,
+                "end_char": 37,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "UN",
+                "start_char": 38,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 86,
+                "end_char": 93,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 128,
+                "end_char": 134,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "One",
+                "start_char": 194,
+                "end_char": 197,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 205,
+                "end_char": 206,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 214,
+                "end_char": 222,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "3",
+                "start_char": 246,
+                "end_char": 247,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Australian",
+                "start_char": 252,
+                "end_char": 262,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chilean",
+                "start_char": 264,
+                "end_char": 271,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Norwegian",
+                "start_char": 276,
+                "end_char": 285,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 350,
+                "end_char": 358,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 387,
+                "end_char": 393,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Unifil",
+                "start_char": 437,
+                "end_char": 443,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "TRUMP POSTA IMMAGINE DI BIDEN LEGATO   Democratici: incita alla violenza",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Trump posta immagine di Biden legato Donald Trump ha pubblicato un post sul social Truth, da lui stesso fondato, in cui compare Joe Biden legato mani e  piedi con una corda. Il post ha suscitato reazioni da parte democratica.  \"Trump incita regolarmente alla violenza politica ed è arrivato il momento di prendere in seria considerazione il  fatto\", ha detto il portavoce della  campagna elettorare di Biden, Michael Tyler. Il portavoce di Trump, Steven Cheung ha minimizzato sul post e ha incalzato parlando dei democratici come di \"pazzi lunatici\".    ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1711832404.836957,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "_ _",
+        "en_content": "Trump posted image of Biden tied Donald Trump published a post on social truth, which he himself founded, in which Joe Biden appears tied hands and feet with a rope. The post aroused democratic reactions. \"Trump regularly urges political violence and it's time to take the matter seriously,\" said Biden's campaign spokesman, Michael Tyler. Trump's spokesman, Steven Cheung minimized on the post and incalculated talking about democrats as \"monotic drugs\".",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Trump",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Biden",
+                "start_char": 22,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 33,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Joe Biden",
+                "start_char": 115,
+                "end_char": 124,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "democratic",
+                "start_char": 183,
+                "end_char": 193,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Biden",
+                "start_char": 297,
+                "end_char": 302,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michael Tyler",
+                "start_char": 325,
+                "end_char": 338,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 340,
+                "end_char": 345,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Steven Cheung",
+                "start_char": 359,
+                "end_char": 372,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "democrats",
+                "start_char": 426,
+                "end_char": 435,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "VALDITARA: NO AI GHETTI ETNICI A SCUOLA Ministro: \"Allontanano l'integrazione\"  Replica su tetto alunni stranieri",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Scuola, Valditara: \"No a ghetti etnici\" \"Evitare la formazione di ghetti etnici che allontanano l'integrazione e favoriscono la dispersione scolastica\". Così il ministro dell'Istruzione, Valditara, a Quotidiano Nazionale, in merito all'intento di porre un tetto alla presenza dei bambini stranieri in classe. Alla sinistra \"stanno bene le classi ghetto, non a noi\". L'accusa di voler cacciare dalle scuole i bimbi figli di stranieri mossa dalla segretaria Pd, Schlein? \"Sciocchezza colossale.Occorre una più equilibrata distribuzione degli studenti stranieri fra le varie classi\"",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1711832404.8404303,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "VALDITARA: NO TO THE ETNICIAL GAMES IN SCHOOL Minister: \"Slow integration\" Replication on roof foreign students",
+        "en_content": "School, Valditara: \"No to ethnic ghettos\" \"To avoid the formation of ethnic ghettos that remove integration and promote school dispersion\". Thus the Minister of Education, Valditara, in Quotidiano Nazionale, on the intent to place a roof in the presence of foreign children in class. On the left \"the ghetto classes are good, not to us\". The accusation of wanting to kick out the children of foreigners from schools moved by the secretary Pd, Schlein? \"Colossal nonsense. We need a more balanced distribution of foreign students among the various classes\"",
+        "concepts": [
+            {
+                "word": "VALDITARA",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ETNICIAL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GAMES",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "SCHOOL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "integration",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Replication",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "roof",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "students",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "School",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Valditara",
+                "start_char": 8,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valditara",
+                "start_char": 172,
+                "end_char": 181,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Quotidiano Nazionale",
+                "start_char": 186,
+                "end_char": 206,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 443,
+                "end_char": 450,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Colossal",
+                "start_char": 453,
+                "end_char": 461,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "GAZA, CALCA E SPARI PER AIUTI, 5 MORTI  All'arrivo di convoglio umanitario",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " A Gaza calca e spari per aiuti, 5 morti Almeno 5 persone sono morte a Gaza per la calca mentre venivano distribuiti aiuti umanitari poco prima dell'alba. Sono stati uditi anche spari di arma da fuoco. Lo riferisce la mezzaluna rossa, affermando che l'episodio è avvenuto quando a Gaza City sono arrivati 15 camion di aiuti diretti al luogo dove era programmata la distribuzione.   L'Afp riferisce che in un suo video si vedono camion muoversi velocemente iin mezzo a ruderi in fiamme, con la folla che si accalca e si odono \"spari di avvertimento\",definiti così da testimoni.",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1711832404.8454256,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-03-30 22:00:04",
+        "filename": "ner_conc_en_2024-03-30T22.00.04E1711836004.191636.json",
+        "en_title": "GAZA, CALCA AND SPARIES FOR AID, 5 MORTI Upon arrival of humanitarian convoy",
+        "en_content": "In Gaza treads and gunfires for aid, 5 deaths At least 5 people died in Gaza for calca while humanitarian aid was distributed just before dawn. Gunshots were also heard. It is reported by the red crescent, stating that the episode occurred when 15 trucks of direct aid arrived in Gaza City where the distribution was planned. The Afp reports that in a video you see trucks move quickly iin between burning ruins, with the crowd that hovers and you hear \"warning odds\", defined as witnesses.",
+        "concepts": [
+            {
+                "word": "GAZA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CALCA",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SPARIES",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "AID",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MORTI",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "arrival",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            },
+            {
+                "word": "convoy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "CALCA",
+                "start_char": 6,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5",
+                "start_char": 33,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 3,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5",
+                "start_char": 37,
+                "end_char": 38,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "At least 5",
+                "start_char": 46,
+                "end_char": 56,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 72,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the red crescent",
+                "start_char": 188,
+                "end_char": 204,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "15",
+                "start_char": 245,
+                "end_char": 247,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza City",
+                "start_char": 280,
+                "end_char": 289,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Afp",
+                "start_char": 330,
+                "end_char": 333,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]

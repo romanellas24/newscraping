@@ -1,0 +1,1301 @@
+[
+    {
+        "title": "TENNIS, MIAMI: SINNER APPRODA AI QUARTI Batte O'Connell,out Musetti-Arnaldi",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=260",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1711544404.2715461,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "_",
+        "en_content": "",
+        "concepts": []
+    },
+    {
+        "title": "CODICE DELLA STRADA, VIA LIBERA CAMERA  Stretta telefonini,alcol e stupefacenti Testo passa ora a esame del Senato",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Codice strada, via libera della Camera L'Aula della Camera ha approvato con 163 voti a favore e 107 contrari -compatta l'opposizioneil Ddl sulla sicurezza della strada e revisione del Codice della strada. Il provvedimento  passa ora all'esame del Senato.  Il disegno di legge prevede l'inasprimento di misure di contrasto alla guida sotto l'effetto di alcol e droga. Viene introdotta la sospensione breve della patente a seguito di una serie di infrazioni gravi (come la guida contromano) e in relazione al \"patrimonio' dei punti disponibili.Sanzioni inasprite se si guida utilizzando il cellulare.  ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1711544404.2801044,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "CODICE OF STRADA, VIA LIBERA CAMERA Stretta phones, alcohol and astonishing Text now examines the Senate",
+        "en_content": "The House of the Chamber approved 163 votes in favour and 107 against -compatta the Ddl opposition on road safety and revision of the Road Code. The measure now passes to the Senate exam. The bill provides for the introduction of contrast measures under the effect of alcohol and drugs. The short suspension of the license is introduced as a result of a series of serious infringements (such as the counter-hand guide) and in relation to the \"patrimony\" of the available points. Unbearable health if you drive using your mobile phone.",
+        "concepts": [
+            {
+                "word": "CODICE",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "STRADA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "VIA",
+                "meaning": "prep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "LIBERA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CAMERA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stretta",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "phones",
+                "meaning": "pobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "alcohol",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Text",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Senate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Stretta",
+                "start_char": 36,
+                "end_char": 43,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Text",
+                "start_char": 76,
+                "end_char": 80,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Senate",
+                "start_char": 98,
+                "end_char": 104,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The House of the Chamber",
+                "start_char": 0,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "163",
+                "start_char": 34,
+                "end_char": 37,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "107",
+                "start_char": 58,
+                "end_char": 61,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Road Code",
+                "start_char": 130,
+                "end_char": 143,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Senate",
+                "start_char": 175,
+                "end_char": 181,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "CODICE DELLA STRADA, VIA LIBERA CAMERA  Stretta telefonini,alcol e stupefacenti Testo ora va all'esame del Senato",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1711544404.306925,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "CODICE OF THE STRADA, VIA LIBERA CAMERA Stretta phones, alcohol and narcotics Text now goes to the Senate examination",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "CODICE",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "STRADA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "VIA",
+                "meaning": "prep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "LIBERA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CAMERA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stretta",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "phones",
+                "meaning": "pobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "alcohol",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "narcotics",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Text",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Senate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "examination",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "STRADA",
+                "start_char": 14,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Stretta",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Senate",
+                "start_char": 99,
+                "end_char": 105,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1711544404.3188303,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "CGIL, 4 REFERENDUM CONTRO PRECARIETA'  Presto partirà la raccolta di firme",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Cgil, 4 referendum contro precarietà Al via la campagna referendaria della Cgil per il superamento della precarietà, la tutela contro i licenziamenti illegittimi e la sicurezza del lavoro in appalto. La decisione di bandire la campagna referendaria è stata presa  dall'assemblea generale di Corso d'Italia che ratifica la proposta avanzata dal segretario Maurizio Landini.  Dopo la deposizione dei quesiti alla Corte di Cassazione, i controlli previsti dalle procedure di rito e la pubblicazione in Gazzetta Ufficiale, partirà la raccolta delle firme.  ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1711544404.3370452,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "CGIL, 4 REFERENDUM CONTRO PRECARIETA' Soon will start the collection of signatures",
+        "en_content": "CGIL, 4 referendums against precariousness The CGIL's referendum campaign for overcoming precariousness, protection against illegitimate dismissals and the safety of contract work begins. The decision to ban the referendum campaign was taken by the General Assembly of Corso d'Italia that ratifies the proposal made by Secretary Maurizio Landini. After deposing the questions to the Court of Cassation, the audits provided for in the proceedings of the rite and the publication in the Official Journal will start the collection of signatures.",
+        "concepts": [
+            {
+                "word": "CGIL",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "REFERENDUM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CONTRO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PRECARIETA",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "collection",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "signatures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "4",
+                "start_char": 6,
+                "end_char": 7,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "4",
+                "start_char": 6,
+                "end_char": 7,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the General Assembly of Corso d'Italia",
+                "start_char": 245,
+                "end_char": 283,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Maurizio Landini",
+                "start_char": 329,
+                "end_char": 345,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Court of Cassation",
+                "start_char": 379,
+                "end_char": 401,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Official Journal",
+                "start_char": 481,
+                "end_char": 501,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "MELONI IN LIBANO, COLLOQUIO COL PREMIER E in visita ai contingenti italiani",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": " Meloni in visita in Libano da Mikati Missione della premier Meloni in Libano, per l'incontro con il primo ministro Mikati e la visita al contingente italiano Unifil, dispiegato nel sud del Libano.      Nel colloquio col premier libanese, il ribadito sostegno italiano alla stabilizzazione del Libano, per evitare rischi di escalation militare al confine con israele.     Sul tavolo anche le politiche contro l' immigrazione irregolare e la collaborazione nel settore dell'energia.  ",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1711544404.3415506,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "MELONI IN LIBANON, COLLOQUIO COL PREMIER And visiting the Italian quotas",
+        "en_content": "Meloni visited Lebanon by Mikati Mission of Prime Minister Meloni in Lebanon, for the meeting with Prime Minister Mikati and the visit to the Italian contingent Unifil, unfolded in southern Lebanon. In the interview with the Lebanese prime minister, the reiterated Italian support for the stabilisation of Lebanon, to avoid risks of military escalation at the border with israele. On the table also policies against irregular immigration and cooperation in the energy sector.",
+        "concepts": [
+            {
+                "word": "MELONI",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LIBANON",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "COLLOQUIO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PREMIER",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "quotas",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "MELONI",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "LIBANON",
+                "start_char": 10,
+                "end_char": 17,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "COLLOQUIO COL",
+                "start_char": 19,
+                "end_char": 32,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Lebanon",
+                "start_char": 15,
+                "end_char": 22,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mikati Mission of Prime",
+                "start_char": 26,
+                "end_char": 49,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 59,
+                "end_char": 65,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 69,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mikati",
+                "start_char": 114,
+                "end_char": 120,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 142,
+                "end_char": 149,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Unifil",
+                "start_char": 161,
+                "end_char": 167,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 190,
+                "end_char": 197,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 225,
+                "end_char": 233,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 265,
+                "end_char": 272,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 306,
+                "end_char": 313,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "AIUTARONO MESSINA DENARO, TRE ARRESTI  Tra fiancheggiatori anche un architetto E tecnico radiologo dell'ospedale",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1711544404.3530898,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "HELP DENARO MESSINE, THREE RERESTIES Among flankers also an architect and radiologist technician of the hospital",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "DENARO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MESSINE",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "RERESTIES",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "flankers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "architect",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "technician",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "THREE",
+                "start_char": 21,
+                "end_char": 26,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "SUPERBONUS, DECRETO A SORPRESA IN CDM  Test psicoattitudinali per le toghe",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Da CdM Superbonus e test per magistrati Via libera del Consiglio dei ministri a un nuovo decreto legge sul Superbonus. Il provvedimento che non era all'ordine del giorno è stato presentato dal ministro dell'Economia Giorgetti e punta a tenere sotto controllo i costi. Con il decreto arriverebbero nuovi 'paletti' per accedere alle agevolazioni per le ristrutturazioni edilizie.   Approvata anche l'introduzione dei test psicoattitudinali per l'accesso alla professione di magistrato. Si faranno per i bandi dal 2026.Il Csm nominerà i docenti universitari per le prove.  ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1711544404.3563824,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "SUPERBONUS, SORPRESA DECREATE IN CDM",
+        "en_content": "From CdM Superbonus and test for magistrates Free Way of the Council of Ministers to a new bill on Superbonus. The measure that was not on the agenda was presented by the Minister of Economy Giorgetti and aims to keep the costs under control. With the decree new 'pallets' would arrive to access the facilities for building renovations. The introduction of psychoactive tests for access to the profession of magistrate is also approved. They've been making bands since 2026. Csm will appoint university professors for evidence.",
+        "concepts": [
+            {
+                "word": "SUPERBONUS",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SORPRESA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DECREATE",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CDM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Free Way",
+                "start_char": 45,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 57,
+                "end_char": 81,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Superbonus",
+                "start_char": 99,
+                "end_char": 109,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "2026",
+                "start_char": 469,
+                "end_char": 473,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Anm: non servono, è propaganda",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Test,Anm:arbitrio se mira a personalità \"La dispensa per infermità anche psichica esiste nel nostro ordinamento da tempo immemorabile, dal '46. Se ci sono casi di squilibrio patologico si interviene ma il ministro della Giustizia ha già un potere di vigilanza e gli strumenti per intervenire in questi casi\". Così il presidente Anm, Santalucia, secondo cui i test psicoattitudinali per magistrati voluti dal Governo \"non servono a nulla, è solamente propaganda\". Poi aggiunge:ma se si vuole controllare altro,come \"l'espressione di una personalità che non piace,questo è arbitrio\"",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1711544404.3684275,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "Anm: they do not serve, it is propaganda",
+        "en_content": "Test,Anm: arbitrary if it aims to personality \"The dispensation for mental infirmity also exists in our order from time immemorial, since '46. If there are cases of pathological imbalances, the Minister of Justice already has a supervisory power and the tools to intervene in these cases.\" Thus President Anm, Santalucia, according to which the psychoactive tests for magistrates wanted by the government \"are useless, it is only propaganda\". Then he adds:but if you want to control more,like \"the expression of a personality that does not like,this is arbitrary\"",
+        "concepts": [
+            {
+                "word": "propaganda",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Anm",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Anm",
+                "start_char": 5,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "'46",
+                "start_char": 138,
+                "end_char": 141,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Justice",
+                "start_char": 206,
+                "end_char": 213,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Santalucia",
+                "start_char": 310,
+                "end_char": 320,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "PONTE DI BALTIMORA, SOSPESE LE RICERCHE Ritenuti morti i sei operai dispersi   \"Acque pericolose per sommozzatori\"",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1711544404.3795679,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "PONTE DI BALTIMORA, SOSPESE LE RICERCHE Remained dead the six missing workers \"Acque hazardous for divers\"",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "PONTE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "BALTIMORA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SOSPESE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LE",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "workers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "divers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "PONTE DI BALTIMORA",
+                "start_char": 0,
+                "end_char": 18,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "six",
+                "start_char": 58,
+                "end_char": 61,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "IDF:UCCISO IN LIBANO CAPO JIHADISTA",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Libano,Idf:ucciso capo gruppo jihadista Le forze di difesa israeliane fanno saper di aver ucciso un esponente di primo piano del gruppo Jamaa al-Islamiya, alleato di Hamas e Hezbollah, in un attacco nel sud del Libano. L'uomo sarebbe stato ucciso \"insieme ad altri terroristi che erano nell'edificio\".  Un funzionario di Jamaa al-Islamiya ha riferito di \"7 soccorritori\" uccisi ad Habariyeh,vicino al confine con Israele Dal Libano è partita una salva di almeno 30 razzi verso la città israeliana di Kyriat Shmona. Morto un 25enne. Hezbollah rivendica: risposta a Habariyeh.",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1711544404.395124,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "_",
+        "en_content": "Lebanon,Idf: killed leader jihadist group The Israeli defence forces know that they killed a prominent leader of the Jamaa al-Islamiya group, Hamas and Hezbollah ally, in an attack in southern Lebanon. The man would have been killed \"together with other terrorists in the building.\" An official of Jamaa al-Islamiya reported \"7 rescuers\" killed in Habariyeh, near the border with Israel From Lebanon a rescue of at least 30 rockets went to the Israeli city of Kyriat Shmona. I died a 25-year-old. Hezbollah claims: answer to Habariyeh.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Lebanon",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "jihadist",
+                "start_char": 27,
+                "end_char": 35,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 46,
+                "end_char": 53,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Jamaa al-Islamiya",
+                "start_char": 113,
+                "end_char": 134,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 142,
+                "end_char": 147,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hezbollah",
+                "start_char": 152,
+                "end_char": 161,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 193,
+                "end_char": 200,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jamaa al-Islamiya",
+                "start_char": 298,
+                "end_char": 315,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7",
+                "start_char": 326,
+                "end_char": 327,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Habariyeh",
+                "start_char": 348,
+                "end_char": 357,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 380,
+                "end_char": 386,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 392,
+                "end_char": 399,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least 30",
+                "start_char": 412,
+                "end_char": 423,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 444,
+                "end_char": 451,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kyriat",
+                "start_char": 460,
+                "end_char": 466,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Shmona",
+                "start_char": 467,
+                "end_char": 473,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "25-year-old",
+                "start_char": 484,
+                "end_char": 495,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hezbollah",
+                "start_char": 497,
+                "end_char": 506,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Habariyeh",
+                "start_char": 525,
+                "end_char": 534,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "PONTE DI BALTIMORA, SOSPESE LE RICERCHE Ritenuti morti i sei operai dispersi   \"Acque pericolose per sommozzatori\"",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Baltimora,sospese ricerche dei dispersi La Guardia Costiera americana ha sospeso le ricerche con i sub dei 6 operai dispersi dopo l'incidente e il crollo del ponte di Baltimora. \"Le acque sono troppo pericolose, continueremo con  delle navi\". Numerose le persone rimaste ferite. Scarse le speranze di trovare vivi i 6 dispersi: \"Non crediamo che riusciremo a trovare nessuno\". La Nave Dali che si è schiantata contro il ponte facendolo crollare è andata in blackout totale prima dell'impatto. Secondo le autorità di Singapore aveva superato due controlli nel 2023.  ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1711544404.401684,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "PONTE DI BALTIMORA, SOSPESE LE RICERCHE Remained dead the six missing workers \"Acque hazardous for divers\"",
+        "en_content": "The American Coast Guard has suspended its research with the subs of the 6 missing workers after the incident and the collapse of the Baltimore Bridge. \"The waters are too dangerous, we will continue with ships.\" Lots of people left injured. Poor hopes of finding alive the 6 missing: \"We don't think we can find anyone.\" The Dali ship that crashed into the bridge, causing it to collapse, went into total blackout before the impact. According to the Singapore authorities, he had passed two controls in 2023.",
+        "concepts": [
+            {
+                "word": "PONTE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "BALTIMORA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SOSPESE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LE",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "workers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "divers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "PONTE DI BALTIMORA",
+                "start_char": 0,
+                "end_char": 18,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "six",
+                "start_char": 58,
+                "end_char": 61,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The American Coast Guard",
+                "start_char": 0,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "6",
+                "start_char": 73,
+                "end_char": 74,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Baltimore Bridge",
+                "start_char": 130,
+                "end_char": 150,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "6",
+                "start_char": 274,
+                "end_char": 275,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Dali",
+                "start_char": 326,
+                "end_char": 330,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Singapore",
+                "start_char": 451,
+                "end_char": 460,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 488,
+                "end_char": 491,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2023",
+                "start_char": 504,
+                "end_char": 508,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "USA: PROTEGGEREMO OGNI CENTIMETRO NATO  Dopo volo razzo russo sulla Polonia",
+        "date_raw": "March 27, 2024",
+        "date": "2024-03-27",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Usa: \"Difenderemo ogni centimetro Nato\" Dopo che il vice degli Esteri polacco, Szejina, aveva ventilato la possibilità di abbattere missili russi in volo 'verso' territori Nato nella loro rotta per l'Ucraina, parla il Pentagono Usa. \"Difenderemo ogni centimetro della Nato Se un alleato Nato dovesse essere attaccato, difenderemo ogni centimetro\", ha detto la vice portavoce Singh.  All'origine di queste dichiarazioni, un episodio domenica, quando un missile da crociera russo ha brevemente sorvolato lo spazio aereo polacco.   ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1711544404.4764771,
+        "language": "it",
+        "source": "Televideo",
+        "timeslot_day": "2024-03-27",
+        "timeslot_number": 4,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-27T14.00.03E1711548003.887972.json",
+        "en_title": "USA: We PROTECTION OGNI CENTIMETRO NATO After Russian rocket flight to Poland",
+        "en_content": "Use: \"We will defend every centimeter NATO\" After the Deputy of the Polish Foreigners, Szejina, had ventilated the possibility of breaking down Russian missiles in flight 'verse' NATO territories in their route to Ukraine, speaks the US Pentagon. \"We will defend every centimeter of NATO If a NATO ally should be attacked, we will defend every inch,\" Singh said. At the origin of these statements, a Sunday episode, when a Russian cruise missile briefly flew over Polish air space.",
+        "concepts": [
+            {
+                "word": "USA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PROTECTION",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "OGNI",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CENTIMETRO",
+                "meaning": "prep",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NATO",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "rocket",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flight",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Poland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "NATO",
+                "start_char": 35,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 46,
+                "end_char": 53,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Poland",
+                "start_char": 71,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "NATO",
+                "start_char": 38,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Polish",
+                "start_char": 68,
+                "end_char": 74,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Szejina",
+                "start_char": 87,
+                "end_char": 94,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 144,
+                "end_char": 151,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "NATO",
+                "start_char": 179,
+                "end_char": 183,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 214,
+                "end_char": 221,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 234,
+                "end_char": 236,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pentagon",
+                "start_char": 237,
+                "end_char": 245,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NATO",
+                "start_char": 283,
+                "end_char": 287,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NATO",
+                "start_char": 293,
+                "end_char": 297,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Singh",
+                "start_char": 351,
+                "end_char": 356,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 400,
+                "end_char": 406,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russian",
+                "start_char": 423,
+                "end_char": 430,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Polish",
+                "start_char": 464,
+                "end_char": 470,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]
