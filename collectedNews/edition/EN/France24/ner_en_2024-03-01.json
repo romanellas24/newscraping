@@ -1,0 +1,3114 @@
+[
+    {
+        "title": "Trump, Biden trade barbs over immigration on rival US-Mexico border visits",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-en-grab-biden-trump-us-mexico-border",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1711999827.8857913,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Trump, Biden trade barbs over immigration on rival US-Mexico border visits",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "barbs",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "immigration",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "visits",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Trump",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Biden",
+                "start_char": 7,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 51,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 54,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Legal prostitution in Germany: A failure?",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/reporters/20240301-legal-prostitution-in-germany-a-failure",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1711999827.885977,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Legal prostitution in Germany: A failure?",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "prostitution",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "failure",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Germany",
+                "start_char": 22,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Sudan conflict: 31,000 refugees have fled to Ethiopia",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-sudan-conflict-31-000-refugees-have-fled-to-ethiopia",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1711999827.8861241,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Sudan conflict: 31,000 refugees have fled to Ethiopia",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conflict",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "refugees",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ethiopia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Sudan",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "31,000",
+                "start_char": 16,
+                "end_char": 22,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ethiopia",
+                "start_char": 45,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Putin's most prolific critic: Navalny, the Russian opposition leader who defied and died",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-putin-s-most-prolific-critic-navalny-the-russian-opposition-leader-who-defied-and-died",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1711999827.8862638,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Putin's most prolific critic: Navalny, the Russian opposition leader who defied and died",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "critic",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opposition",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Putin",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 43,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Israel faces mounting pressure for inquiry into Gaza aid deaths, US to air drop supplies",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/middle-east/20240301-%F0%9F%94%B4-live-macron-expresses-strongest-condemnation-of-gaza-aid-delivery-deaths",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1711999827.8863928,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Israel faces mounting pressure for inquiry into Gaza aid deaths, US to air drop supplies",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pressure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "supplies",
+                "meaning": "pobj",
+                "pos": "PART"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 48,
+                "end_char": 52,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 65,
+                "end_char": 67,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "César French film awards on MeToo",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-c%C3%A9sar-french-film-awards-on-metoo",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1711999827.8865254,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "César French film awards on MeToo",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "César",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "film",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "awards",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MeToo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "French",
+                "start_char": 6,
+                "end_char": 12,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "MeToo",
+                "start_char": 28,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Thousands gather for Navalny funeral as Kremlin warns against protests",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-thousands-gather-for-navalny-funeral-as-kremlin-warns-against-protests",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1711999827.886662,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Thousands gather for Navalny funeral as Kremlin warns against protests",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Thousands",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "funeral",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Kremlin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Thousands",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Navalny",
+                "start_char": 21,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Gaza bloodbath, Navalny's funeral, The World this Week turns 15",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20240301-gaza-bloodbath-navalny-s-funeral-the-world-this-week-turns-fifteen",
+        "content": "",
+        "ranked": 7,
+        "placed": "First_Page",
+        "epoch": 1711999827.8867853,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Gaza bloodbath, Navalny's funeral, The World this Week turns 15",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bloodbath",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "funeral",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "World",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Week",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Navalny",
+                "start_char": 16,
+                "end_char": 23,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The World",
+                "start_char": 35,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "this Week",
+                "start_char": 45,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "15",
+                "start_char": 61,
+                "end_char": 63,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "The fake news campaign targeting India's protesting farmers",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20240301-the-fake-news-campaign-targeting-india-s-protesting-farmers",
+        "content": "",
+        "ranked": 8,
+        "placed": "First_Page",
+        "epoch": 1711999827.8869045,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "The fake news campaign targeting India's protesting farmers",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "news",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "campaign",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farmers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "India",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Conflicting reports after over 100 killed, 750 injured in Gaza chaotic queue for aid",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-conflicting-reports-after-over-100-killed-750-injured-in-gaza-chaotic-queue-for-aid",
+        "content": "",
+        "ranked": 9,
+        "placed": "First_Page",
+        "epoch": 1711999827.8870223,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Conflicting reports after over 100 killed, 750 injured in Gaza chaotic queue for aid",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Conflicting",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "queue",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "aid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "over 100",
+                "start_char": 26,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "750",
+                "start_char": 43,
+                "end_char": 46,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 58,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Israeli public 'wants to see end to war', polls indicate opposition would 'win handily' in elections",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-israeli-public-wants-to-see-end-to-war-polls-indicate-opposition-would-win-handily-in-elections",
+        "content": "",
+        "ranked": 10,
+        "placed": "First_Page",
+        "epoch": 1711999827.8871415,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Israeli public 'wants to see end to war', polls indicate opposition would 'win handily' in elections",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "public",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "polls",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "opposition",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "elections",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Former Canadian prime minister Brian Mulroney dies aged 84",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240301-former-canadian-prime-minister-brian-mulroney-dead",
+        "content": "",
+        "ranked": 11,
+        "placed": "First_Page",
+        "epoch": 1711999827.8872557,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Former Canadian prime minister Brian Mulroney dies aged 84",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "prime",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brian",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mulroney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Canadian",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Brian Mulroney",
+                "start_char": 31,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "84",
+                "start_char": 56,
+                "end_char": 58,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Police arrest more than 60 at farmers' protest on the Champs-Élysées in Paris",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240301-french-farmers-protest-with-tractors-around-the-arc-de-triomphe-in-paris",
+        "content": "",
+        "ranked": 12,
+        "placed": "First_Page",
+        "epoch": 1711999827.887376,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Police arrest more than 60 at farmers' protest on the Champs-Élysées in Paris",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "farmers",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Champs",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Élysées",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "more than 60",
+                "start_char": 14,
+                "end_char": 26,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Champs-Élysées",
+                "start_char": 50,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Paris",
+                "start_char": 72,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Gunfire paralyses Haiti as powerful gang leader says he will try to detain police chief, ministers",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-gunfire-paralyses-haiti-as-powerful-gang-leader-says-he-will-try-to-detain-police-chief-ministers",
+        "content": "",
+        "ranked": 13,
+        "placed": "First_Page",
+        "epoch": 1711999827.8874948,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Gunfire paralyses Haiti as powerful gang leader says he will try to detain police chief, ministers",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Gunfire",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Haiti",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ministers",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Haiti",
+                "start_char": 18,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'People who have lived in Russia up to 2024 can understand the risks pretty correctly'",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-people-who-have-lived-up-to-2024-can-understand-the-risks-pretty-correctly",
+        "content": "",
+        "ranked": 14,
+        "placed": "First_Page",
+        "epoch": 1711999827.8876104,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "'People who have lived in Russia up to 2024 can understand the risks pretty correctly'",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "People",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russia",
+                "start_char": 26,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2024",
+                "start_char": 39,
+                "end_char": 43,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Navalny's family to lay the opposition leader to rest after his death in prison",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-navalny-s-associates-have-said-they-will-stream-the-funeral-live-on-his-youtube-channel",
+        "content": "",
+        "ranked": 15,
+        "placed": "First_Page",
+        "epoch": 1711999827.8877234,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Navalny's family to lay the opposition leader to rest after his death in prison",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Navalny",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "family",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "opposition",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "prison",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Navalny",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Norway gives Arctic foxes a helping hand amid climate woes",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-norway-gives-arctic-foxes-a-helping-hand-amid-climate-woes",
+        "content": "",
+        "ranked": 16,
+        "placed": "First_Page",
+        "epoch": 1711999827.8878365,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Norway gives Arctic foxes a helping hand amid climate woes",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Norway",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Arctic",
+                "meaning": "dative",
+                "pos": "VERB"
+            },
+            {
+                "word": "foxes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hand",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Norway",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arctic",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "French journalist detained in Ethiopia released after a week",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/africa/20240229-french-journalist-detained-in-ethiopia-for-alleged-conspiracy-released",
+        "content": "",
+        "ranked": 17,
+        "placed": "First_Page",
+        "epoch": 1711999827.887952,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "French journalist detained in Ethiopia released after a week",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "journalist",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ethiopia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "week",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "French",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ethiopia",
+                "start_char": 30,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a week",
+                "start_char": 54,
+                "end_char": 60,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Russians gather in subdued defiance to lay 'fearless' Kremlin critic Navalny to rest",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-russians-gather-in-subdued-defiance-to-lay-fearless-kremlin-critic-navalny-to-rest",
+        "content": "",
+        "ranked": 18,
+        "placed": "First_Page",
+        "epoch": 1711999827.8880646,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Russians gather in subdued defiance to lay 'fearless' Kremlin critic Navalny to rest",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Russians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "defiance",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fearless",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kremlin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "critic",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russians",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 54,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Navalny",
+                "start_char": 69,
+                "end_char": 76,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Deaths at aid delivery site in Gaza draw condemnation",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-deaths-at-aid-delivery-site-in-gaza-draw-condemnation",
+        "content": "",
+        "ranked": 19,
+        "placed": "First_Page",
+        "epoch": 1711999827.88818,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Deaths at aid delivery site in Gaza draw condemnation",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Deaths",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "aid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "delivery",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "site",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "condemnation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 31,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Trump and Biden trade barbs over immigration on rival US-Mexico border visits",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240301-trump-biden-trade-barbs-immigration-rival-us-mexico-border-visits",
+        "content": "",
+        "ranked": 20,
+        "placed": "First_Page",
+        "epoch": 1711999827.8882952,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Trump and Biden trade barbs over immigration on rival US-Mexico border visits",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "barbs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "immigration",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "visits",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Trump",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Biden",
+                "start_char": 10,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 54,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 57,
+                "end_char": 63,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Army assault kills Chad opposition leader ahead of election",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-army-assault-kills-chad-opposition-leader-ahead-of-election",
+        "content": "",
+        "ranked": 21,
+        "placed": "First_Page",
+        "epoch": 1711999827.8884068,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Army assault kills Chad opposition leader ahead of election",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Army",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assault",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Chad",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opposition",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Army",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chad",
+                "start_char": 19,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'The Israeli army has now said it did not fire on civilians who were trying to seek aid'",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-the-israeli-army-has-now-said-it-did-not-fire-on-civilians-who-were-trying-to-seek-aid",
+        "content": "",
+        "ranked": 22,
+        "placed": "First_Page",
+        "epoch": 1711999827.888518,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "'The Israeli army has now said it did not fire on civilians who were trying to seek aid'",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "army",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "civilians",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "aid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 5,
+                "end_char": 12,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Iran hardliners expected to tighten grip on power in parliamentary vote",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/middle-east/20240301-iran-heads-to-the-polls-hardliners-poised-to-tighten-grip-on-power",
+        "content": "",
+        "ranked": 23,
+        "placed": "First_Page",
+        "epoch": 1711999827.8886316,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Iran hardliners expected to tighten grip on power in parliamentary vote",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hardliners",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "grip",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vote",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Iran",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "At least 26 dead in migrant shipwreck off Senegal",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-at-least-26-dead-in-migrant-shipwreck-off-senegal",
+        "content": "",
+        "ranked": 24,
+        "placed": "First_Page",
+        "epoch": 1711999827.8887417,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "At least 26 dead in migrant shipwreck off Senegal",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "shipwreck",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Senegal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "At least 26",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Senegal",
+                "start_char": 42,
+                "end_char": 49,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Putin seeks to 'normalise situation' as Russians sense something 'really wrong going on'",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-putin-seeks-to-normalise-situation-as-russians-sense-something-really-wrong-going-on",
+        "content": "",
+        "ranked": 25,
+        "placed": "First_Page",
+        "epoch": 1711999827.8888528,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Putin seeks to 'normalise situation' as Russians sense something 'really wrong going on'",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "situation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Putin",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russians",
+                "start_char": 40,
+                "end_char": 48,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Cape Town artist paints a new meaning to township life",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-cape-town-artist-paints-a-new-meaning-to-township-life",
+        "content": "",
+        "ranked": 26,
+        "placed": "First_Page",
+        "epoch": 1711999827.8889632,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Cape Town artist paints a new meaning to township life",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Cape",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Town",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "artist",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "meaning",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "township",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "life",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gun battles rage in Haiti as gang leader pushes for PM's ouster",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-gun-battles-rage-in-haiti-as-gang-leader-pushes-for-pm-s-ouster",
+        "content": "",
+        "ranked": 27,
+        "placed": "First_Page",
+        "epoch": 1711999827.8890793,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Gun battles rage in Haiti as gang leader pushes for PM's ouster",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Gun",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Haiti",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pushes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ouster",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Haiti",
+                "start_char": 20,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "PM",
+                "start_char": 52,
+                "end_char": 54,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "West must 'split Russian society away from supporting Putin', support 'media & opposition in exile'",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-west-must-split-russian-society-away-from-supporting-putin-support-media-opposition-in-exile",
+        "content": "",
+        "ranked": 28,
+        "placed": "First_Page",
+        "epoch": 1711999827.8891897,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "West must 'split Russian society away from supporting Putin', support 'media & opposition in exile'",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "West",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "society",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Putin",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "support",
+                "meaning": "conj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opposition",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exile",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russian",
+                "start_char": 17,
+                "end_char": 24,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Putin",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "media & opposition",
+                "start_char": 71,
+                "end_char": 89,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Iran votes in first parliament election since 2022 protests as questions over turnout loom",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-iran-votes-in-first-parliament-election-since-2022-protests-as-questions-over-turnout-loom",
+        "content": "",
+        "ranked": 29,
+        "placed": "First_Page",
+        "epoch": 1711999827.8892996,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Iran votes in first parliament election since 2022 protests as questions over turnout loom",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "parliament",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            },
+            {
+                "word": "questions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "turnout",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loom",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Iran",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 14,
+                "end_char": 19,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "2022",
+                "start_char": 46,
+                "end_char": 50,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "More than 1 billion people worldwide are suffering from obesity, WHO study finds",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240301-more-than-one-billion-people-worldwide-afflicted-by-obesity-study",
+        "content": "",
+        "ranked": 30,
+        "placed": "First_Page",
+        "epoch": 1711999827.889413,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "More than 1 billion people worldwide are suffering from obesity, WHO study finds",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "obesity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Argentinian women's rights under threat",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/the-51/20240301-argentinian-women-s-rights-under-threat",
+        "content": "",
+        "ranked": 31,
+        "placed": "First_Page",
+        "epoch": 1711999827.8895268,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Argentinian women's rights under threat",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "women",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rights",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Argentinian",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Europe braces for US elections: Is the EU ready for President Trump 2.0?",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/talking-europe/20240301-europe-braces-for-us-elections-is-the-eu-ready-for-president-trump-2-0",
+        "content": "",
+        "ranked": 32,
+        "placed": "First_Page",
+        "epoch": 1711999827.8896425,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Europe braces for US elections: Is the EU ready for President Trump 2.0?",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Europe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "elections",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "President",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Trump",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Europe",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "US",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 39,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump",
+                "start_char": 62,
+                "end_char": 67,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2.0",
+                "start_char": 68,
+                "end_char": 71,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Gaza aid convoy deaths: 'Hamas holds Israel entirely responsible'",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-hamas-holds-israel-entirely-responsible-for-these-deaths",
+        "content": "",
+        "ranked": 33,
+        "placed": "First_Page",
+        "epoch": 1711999827.8897617,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Gaza aid convoy deaths: 'Hamas holds Israel entirely responsible'",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "convoy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Hamas",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 25,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 37,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Indian billionaire heir Anant Ambani hosts extravagant three-day pre-wedding party",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/in-the-press/20240301-indian-billionaire-heir-anant-ambani-hosts-extravagant-three-day-pre-wedding-party",
+        "content": "",
+        "ranked": 34,
+        "placed": "First_Page",
+        "epoch": 1711999827.8898745,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Indian billionaire heir Anant Ambani hosts extravagant three-day pre-wedding party",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "billionaire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "heir",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Anant",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ambani",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hosts",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Indian",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Anant Ambani",
+                "start_char": 24,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three-day",
+                "start_char": 55,
+                "end_char": 64,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Emboldened Putin regards himself as 'incorporation of the national will of the Russian population'",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-emboldened-putin-regards-himself-as-incorporation-of-the-national-will-of-the-russian-population",
+        "content": "",
+        "ranked": 35,
+        "placed": "First_Page",
+        "epoch": 1711999827.8899868,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Emboldened Putin regards himself as 'incorporation of the national will of the Russian population'",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Emboldened",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "incorporation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "will",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "population",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Emboldened Putin",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 79,
+                "end_char": 86,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Calls for probe, ceasefire follow Israeli gunfire near Gaza aid convoy",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-calls-for-probe-ceasefire-follow-israeli-gunfire-near-aid-convoy",
+        "content": "",
+        "ranked": 36,
+        "placed": "First_Page",
+        "epoch": 1711999827.8901012,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Calls for probe, ceasefire follow Israeli gunfire near Gaza aid convoy",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Calls",
+                "meaning": "advcl",
+                "pos": "VERB"
+            },
+            {
+                "word": "probe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ceasefire",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gunfire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "convoy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 34,
+                "end_char": 41,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 55,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'White gold' rush: US lithium industry sparks hopes and fears in California",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/focus/20240301-white-gold-rush-us-lithium-industry-sparks-hopes-and-fears-in-california",
+        "content": "",
+        "ranked": 37,
+        "placed": "First_Page",
+        "epoch": 1711999827.890216,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "'White gold' rush: US lithium industry sparks hopes and fears in California",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "gold",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rush",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lithium",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "industry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hopes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fears",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "California",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "US",
+                "start_char": 19,
+                "end_char": 21,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "California",
+                "start_char": 65,
+                "end_char": 75,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Iran rulers seek big turnout in election amid mounting discontent",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-iran-rulers-seek-big-turnout-in-election-amid-mounting-discontent",
+        "content": "",
+        "ranked": 38,
+        "placed": "First_Page",
+        "epoch": 1711999827.8903275,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Iran rulers seek big turnout in election amid mounting discontent",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rulers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "turnout",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "discontent",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Iran",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'The Kremlin is worried about what could happen in terms of the number of people who may attend Navalny's funeral'",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-the-kremlin-is-worried-about-what-could-happen-in-terms-of-the-number-of-people-who-may-attend-navalny-s-funeral",
+        "content": "",
+        "ranked": 39,
+        "placed": "First_Page",
+        "epoch": 1711999827.8904426,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "'The Kremlin is worried about what could happen in terms of the number of people who may attend Navalny's funeral'",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Kremlin",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "terms",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "number",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "funeral",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Kremlin",
+                "start_char": 5,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Navalny",
+                "start_char": 96,
+                "end_char": 103,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Navalny laid to rest at Moscow cemetery after thousands gather for funeral",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240301-navalny-s-family-to-hold-funeral-in-moscow-for-the-late-russian-opposition-leader",
+        "content": "",
+        "ranked": 40,
+        "placed": "First_Page",
+        "epoch": 1711999827.8905525,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Navalny laid to rest at Moscow cemetery after thousands gather for funeral",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Navalny",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rest",
+                "meaning": "advcl",
+                "pos": "VERB"
+            },
+            {
+                "word": "Moscow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cemetery",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "thousands",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "funeral",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "thousands",
+                "start_char": 46,
+                "end_char": 55,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "On the troll trail: Uncovering Russia's vast disinformation networks",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-on-the-troll-trail-uncovering-russia-s-vast-disinformation-networks",
+        "content": "",
+        "ranked": 41,
+        "placed": "First_Page",
+        "epoch": 1711999827.8906634,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "On the troll trail: Uncovering Russia's vast disinformation networks",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "troll",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trail",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Russia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disinformation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "networks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russia",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Bangladesh building fire kills 45, injures dozens",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-bangladesh-building-fire-kills-45-injures-dozens",
+        "content": "",
+        "ranked": 42,
+        "placed": "First_Page",
+        "epoch": 1711999827.8907728,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Bangladesh building fire kills 45, injures dozens",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Bangladesh",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "building",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dozens",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "45",
+                "start_char": 31,
+                "end_char": 33,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "dozens",
+                "start_char": 43,
+                "end_char": 49,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Iran heads to the polls, hardliners poised to tighten grip on power",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-en-grab-iran-parliamentary-elections",
+        "content": "",
+        "ranked": 43,
+        "placed": "First_Page",
+        "epoch": 1711999827.890886,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Iran heads to the polls, hardliners poised to tighten grip on power",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "polls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hardliners",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "grip",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Iran",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'We are asking for a public inquiry' into migrant deaths at sea: European Ombudsman",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/tv-shows/talking-europe/20240301-we-are-asking-for-a-public-inquiry-into-migrant-deaths-at-sea-european-ombudsman",
+        "content": "",
+        "ranked": 44,
+        "placed": "First_Page",
+        "epoch": 1711999827.8909986,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "'We are asking for a public inquiry' into migrant deaths at sea: European Ombudsman",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deaths",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sea",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "European",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ombudsman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "European Ombudsman",
+                "start_char": 65,
+                "end_char": 83,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Spanish government looking at initiatives to boost residential stock",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-spanish-government-looking-at-initiatives-to-boost-residential-stock",
+        "content": "",
+        "ranked": 45,
+        "placed": "First_Page",
+        "epoch": 1711999827.8911095,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Spanish government looking at initiatives to boost residential stock",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "initiatives",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "stock",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Spanish",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Iran begins voting as conservatives expected to dominate",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/live-news/20240301-iranians-due-to-vote-with-conservatives-expected-to-dominate",
+        "content": "",
+        "ranked": 46,
+        "placed": "First_Page",
+        "epoch": 1711999827.8912196,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Iran begins voting as conservatives expected to dominate",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conservatives",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Iran",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Haiti, Kenya sign agreement on police deployment to tackle gang violence",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240301-haiti-kenya-sign-agreement-on-police-deployment-to-tackle-gang-violence",
+        "content": "",
+        "ranked": 47,
+        "placed": "First_Page",
+        "epoch": 1711999827.891336,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Haiti, Kenya sign agreement on police deployment to tackle gang violence",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Haiti",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kenya",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sign",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "agreement",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deployment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "violence",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Haiti",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kenya",
+                "start_char": 7,
+                "end_char": 12,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Reactions following passage of controversial anti-LGBTQ bill in Ghana",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-reaction-following-passage-of-controversial-anti-lgbtq-bill-in-ghana",
+        "content": "",
+        "ranked": 48,
+        "placed": "First_Page",
+        "epoch": 1711999827.8914473,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "Reactions following passage of controversial anti-LGBTQ bill in Ghana",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Reactions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ghana",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ghana",
+                "start_char": 64,
+                "end_char": 69,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'We won't forget you!': Navalny mourners bid farewell",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240301-we-won-t-forget-you-navalny-mourners-bid-farewell",
+        "content": "",
+        "ranked": 49,
+        "placed": "First_Page",
+        "epoch": 1711999827.8915577,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "'We won't forget you!': Navalny mourners bid farewell",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Navalny",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mourners",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "farewell",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "‘Flour massacre’: Lifesaving aid becomes a deadly struggle in Gaza",
+        "date_raw": "March 01, 2024",
+        "date": "2024-03-01",
+        "url": "https://www.france24.com/en/archives/2024/03/01-March-2024",
+        "news_url": "https://www.france24.com/en/middle-east/20240301-flour-massacre-aid-delivery-turns-deadly-in-gaza-as-un-warns-of-inevitable-famine",
+        "content": "",
+        "ranked": 50,
+        "placed": "First_Page",
+        "epoch": 1711999827.8916693,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-01 21:30:27",
+        "filename": "ner_conc_en_2024-03-01.json",
+        "en_title": "‘Flour massacre’: Lifesaving aid becomes a deadly struggle in Gaza",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Flour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "massacre",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "struggle",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 62,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]

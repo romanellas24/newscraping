@@ -1,0 +1,621 @@
+[
+    {
+        "title": "Vaud promet 80 millions de francs contre la pénurie de personnel dans les foyers pour enfants",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/vaud-promet-80-millions-de-francs-contre-la-penurie-de-personnel-dans-les-foyers-pour-enfants-28453419.html",
+        "duration": " ",
+        "ranked": 0,
+        "epoch": 1712172610.3631563,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "Vaud promises 80 million francs against shortage of staff in children's homes",
+        "concepts": [
+            {
+                "word": "Vaud",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "francs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shortage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "children",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "homes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "80 million francs",
+                "start_char": 14,
+                "end_char": 31,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ]
+    },
+    {
+        "title": "Lausanne aurait pu mieux faire pour éviter la pollution à la dioxine au Vallon, selon une étude",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/lausanne-aurait-pu-mieux-faire-pour-eviter-la-pollution-a-la-dioxine-au-vallon-selon-une-etude-28453421.html",
+        "duration": " ",
+        "ranked": 1,
+        "epoch": 1712172610.3633263,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "Lausanne could have done better to avoid dioxin pollution in Vallon, according to a study",
+        "concepts": [
+            {
+                "word": "Lausanne",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dioxin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pollution",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Vallon",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "study",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Vallon",
+                "start_char": 61,
+                "end_char": 67,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "La dépollution du quartier populaire du Vallon pourrait coûter 150 millions de francs à Lausanne",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/la-depollution-du-quartier-populaire-du-vallon-pourrait-couter-150-millions-de-francs-a-lausanne-28453417.html",
+        "duration": " ",
+        "ranked": 2,
+        "epoch": 1712172610.3634586,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "The clean-up of the Vallon popular district could cost 150 million francs in Lausanne",
+        "concepts": [
+            {
+                "word": "up",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Vallon",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "district",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "francs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Lausanne",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Vallon",
+                "start_char": 20,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "150 million francs",
+                "start_char": 55,
+                "end_char": 73,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Lausanne",
+                "start_char": 77,
+                "end_char": 85,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Le Conseil fédéral veut limiter les recours d’ONG contre la construction des logements privés",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-conseil-federal-veut-limiter-les-recours-d-ong-contre-la-construction-des-logements-prives-28453440.html",
+        "duration": " ",
+        "ranked": 3,
+        "epoch": 1712172610.3635848,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "Federal Council wants to limit NGO remedies against private housing construction",
+        "concepts": [
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NGO",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "remedies",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "housing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "construction",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Federal Council",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NGO",
+                "start_char": 31,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "L’Allemagne et la Suisse signent un accord sur la poursuite judiciaire des contraventions routières",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-allemagne-et-la-suisse-signent-un-accord-sur-la-poursuite-judiciaire-des-contraventions-routieres-28453450.html",
+        "duration": " ",
+        "ranked": 4,
+        "epoch": 1712172610.3637064,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "Germany and Switzerland sign agreement on prosecution of road traffic violations",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Switzerland",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "sign",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "agreement",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prosecution",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "road",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "traffic",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "violations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Germany",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Switzerland",
+                "start_char": 12,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Les villes genevoises s’inquiètent de l’importante baisse d’impôts décidée par le gouvernement",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/les-villes-genevoises-s-inquietent-de-l-importante-baisse-d-impots-decidee-par-le-gouvernement-28453447.html",
+        "duration": " ",
+        "ranked": 5,
+        "epoch": 1712172610.3638268,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "Geneva cities are worried about the major tax cut decided by the government",
+        "concepts": [
+            {
+                "word": "Geneva",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cities",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "tax",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "government",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Geneva",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Le réseau médical et hospitalier de la bande de Gaza est au bord de l'anéantissement",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-reseau-medical-et-hospitalier-de-la-bande-de-gaza-est-au-bord-de-l-aneantissement-28453453.html",
+        "duration": " ",
+        "ranked": 6,
+        "epoch": 1712172610.363947,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "The Gaza Strip's medical and hospital network is on the brink of annihilation",
+        "concepts": [
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Strip",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "conj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "network",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "brink",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "annihilation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The Gaza Strip's",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "L’héroïne des albums jeunesses Martine fête ses 70 ans: interview de Laurence Boudart",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-heroine-des-albums-jeunesses-martine-fete-ses-70-ans-interview-de-laurence-boudart-28453462.html",
+        "duration": " ",
+        "ranked": 7,
+        "epoch": 1712172610.364067,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "The heroine of youth albums Martine celebrates 70 years: interview with Laurence Boudart",
+        "concepts": [
+            {
+                "word": "heroine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "youth",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "albums",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Martine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "interview",
+                "meaning": "appos",
+                "pos": "VERB"
+            },
+            {
+                "word": "Laurence",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Boudart",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Martine",
+                "start_char": 28,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "70 years",
+                "start_char": 47,
+                "end_char": 55,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Laurence Boudart",
+                "start_char": 72,
+                "end_char": 88,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Hockey: Fribourg-Gottéron reçoit Lugano dans un duel crucial pour se hisser en demi-finales",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/hockey-fribourg-gotteron-recoit-lugano-dans-un-duel-crucial-pour-se-hisser-en-demi-finales-28453473.html",
+        "duration": " ",
+        "ranked": 8,
+        "epoch": 1712172610.3641865,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "Hockey: Fribourg-Gottéron receives Lugano in a crucial duel to get to the semifinals",
+        "concepts": [
+            {
+                "word": "Hockey",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Fribourg",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gottéron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Lugano",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "duel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "semifinals",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Fribourg-Gottéron",
+                "start_char": 8,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lugano",
+                "start_char": 35,
+                "end_char": 41,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "L’invité du 12h30 - L’artiste lausannoise Laura Scaglia présente son album visuel ''The Rise''",
+        "date_raw": "April 28, 2024",
+        "date": "2024-04-28",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28453405.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-invite-du-12h30-l-artiste-lausannoise-laura-scaglia-presente-son-album-visuel-the-rise-28453469.html",
+        "duration": " ",
+        "ranked": 9,
+        "epoch": 1712172610.3643064,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-03 21:30:10",
+        "filename": "ner_conc_en_2024-04-28.json",
+        "en_title": "Guest of 12:30 - Lausan artist Laura Scaglia presents her visual album ''The Rise''",
+        "concepts": [
+            {
+                "word": "Guest",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Lausan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "artist",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Laura",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scaglia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "album",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Rise",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Laura Scaglia",
+                "start_char": 31,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

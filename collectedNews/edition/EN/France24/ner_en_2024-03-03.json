@@ -1,0 +1,974 @@
+[
+    {
+        "title": "Berlin police raid fails to find suspects in decades-old Red Army Faction case",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240303-german-police-make-arrests-in-decades-long-hunt-for-red-army-faction-fugitives",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712172613.8242333,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Berlin police raid fails to find suspects in decades-old Red Army Faction case",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Berlin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "raid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "suspects",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decades",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Red",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Army",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Faction",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Berlin",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "decades-old",
+                "start_char": 45,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Red Army Faction",
+                "start_char": 57,
+                "end_char": 73,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Armed gangs storm Haiti's main prison, unknown number of inmates escape",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240303-armed-gangs-storm-haiti-s-main-prison-releasing-unknown-number-of-inmates",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1712172613.8244371,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Armed gangs storm Haiti's main prison, unknown number of inmates escape",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "gangs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Haiti",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "number",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inmates",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Haiti",
+                "start_char": 18,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'We must win this war': Zelensky vows victory as death toll from Odesa strike rises to at least 12",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240303-we-must-win-this-war-zelensky-vows-victory-as-death-toll-from-odesa-strike-rises-to-at-least-10",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712172613.8245873,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "'We must win this war': Zelensky vows victory as death toll from Odesa strike rises to at least 12",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "war",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Zelensky",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "victory",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Odesa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 24,
+                "end_char": 32,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Odesa",
+                "start_char": 65,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least 12",
+                "start_char": 87,
+                "end_char": 98,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "French farmers may stage more protests in coming weeks, union boss says",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/france/20240303-french-farmers-may-stage-more-protests-in-coming-weeks-union-boss-says",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1712172613.8247252,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "French farmers may stage more protests in coming weeks, union boss says",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "farmers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "protests",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weeks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "union",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "French",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "coming weeks",
+                "start_char": 42,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Cargo ship sunk by Houthi strike poses environmental risk, says US military",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/middle-east/20240303-cargo-ship-sunk-by-houthi-strike-poses-environmental-risk-says-us-military",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1712172613.824854,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Cargo ship sunk by Houthi strike poses environmental risk, says US military",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Cargo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ship",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Houthi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risk",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "military",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Houthi",
+                "start_char": 19,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 64,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Burkina Faso prosecutor says some 170 people 'executed' in attacks on northern villages",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/africa/20240303-burkina-faso-prosecutor-says-around-170-people-killed-in-attacks-on-northern-villages",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1712172613.8249807,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Burkina Faso prosecutor says some 170 people 'executed' in attacks on northern villages",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Burkina",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Faso",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prosecutor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "attacks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "villages",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Burkina Faso",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "some 170",
+                "start_char": 29,
+                "end_char": 37,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Swiss voters back 'historic' proposal to boost pension payments",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240303-swiss-voters-back-historic-proposal-to-boost-pension-payments",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1712172613.8251255,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Swiss voters back 'historic' proposal to boost pension payments",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "voters",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "proposal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pension",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "payments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Swiss",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Family of celebrated French WWII veteran Léon Gautier refuses the commercialisation of his legacy",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/france/20240303-family-of-beloved-french-wwii-veteran-l%C3%A9on-gautier-refuses-the-commercialisation-of-his-legacy",
+        "content": "",
+        "ranked": 7,
+        "placed": "First_Page",
+        "epoch": 1712172613.8252518,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Family of celebrated French WWII veteran Léon Gautier refuses the commercialisation of his legacy",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Family",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "French",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "WWII",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "veteran",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Léon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gautier",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "commercialisation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "legacy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "French",
+                "start_char": 21,
+                "end_char": 27,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "WWII",
+                "start_char": 28,
+                "end_char": 32,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Léon Gautier",
+                "start_char": 41,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Hamas, Qatari and US envoys convene in Cairo for Gaza ceasefire talks",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/middle-east/20240303-live-gaza-ceasefire-talks-to-resume-as-us-official-says-deal-is-on-the-table",
+        "content": "",
+        "ranked": 8,
+        "placed": "First_Page",
+        "epoch": 1712172613.8253756,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Hamas, Qatari and US envoys convene in Cairo for Gaza ceasefire talks",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Hamas",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Qatari",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "US",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "convene",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Cairo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ceasefire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Qatari",
+                "start_char": 7,
+                "end_char": 13,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "US",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cairo",
+                "start_char": 39,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 49,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Hundreds of Navalny supporters pay tribute at his grave",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240303-hundreds-of-navalny-supporters-flock-to-his-grave-to-pay-tribute",
+        "content": "",
+        "ranked": 9,
+        "placed": "First_Page",
+        "epoch": 1712172613.8254936,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Hundreds of Navalny supporters pay tribute at his grave",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Hundreds",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "supporters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tribute",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "grave",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hundreds",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Putin seeks to 'destablise' Germany with wiretap leak, defence minister says",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240303-putin-seeks-to-destablise-germany-with-wiretap-leak-defence-minister-says",
+        "content": "",
+        "ranked": 10,
+        "placed": "First_Page",
+        "epoch": 1712172613.8256147,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Putin seeks to 'destablise' Germany with wiretap leak, defence minister says",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Germany",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wiretap",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leak",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "defence",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Putin",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Germany",
+                "start_char": 28,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Soaring petrol prices in Cuba are a cause of great concern for Havana residents",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240303-soaring-petrol-prices-in-cuba-are-a-cause-of-great-concern-for-population",
+        "content": "",
+        "ranked": 11,
+        "placed": "First_Page",
+        "epoch": 1712172613.8257313,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Soaring petrol prices in Cuba are a cause of great concern for Havana residents",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "petrol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prices",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Cuba",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cause",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "concern",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Havana",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "residents",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Cuba",
+                "start_char": 25,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Havana",
+                "start_char": 63,
+                "end_char": 69,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Shehbaz Sharif elected for second term as Pakistani prime minister after controversial polls",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/asia-pacific/20240303-shehbaz-sharif-elected-for-second-term-as-pakistani-prime-minister-after-controversial-polls",
+        "content": "",
+        "ranked": 12,
+        "placed": "First_Page",
+        "epoch": 1712172613.8258464,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "Shehbaz Sharif elected for second term as Pakistani prime minister after controversial polls",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Shehbaz",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sharif",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "term",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "prime",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "polls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Shehbaz Sharif",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "second",
+                "start_char": 27,
+                "end_char": 33,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Pakistani",
+                "start_char": 42,
+                "end_char": 51,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "LeBron James becomes first player in NBA history to score 40,000 points",
+        "date_raw": "March 03, 2024",
+        "date": "2024-03-03",
+        "url": "https://www.france24.com/en/archives/2024/03/03-March-2024",
+        "news_url": "https://www.france24.com/en/live-news/20240303-lebron-james-becomes-first-nba-player-to-score-40-000-career-points",
+        "content": "",
+        "ranked": 13,
+        "placed": "First_Page",
+        "epoch": 1712172613.8259606,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-03 21:30:13",
+        "filename": "ner_conc_en_2024-03-03.json",
+        "en_title": "LeBron James becomes first player in NBA history to score 40,000 points",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "LeBron",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "James",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "player",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "NBA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "history",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "points",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "LeBron James",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 21,
+                "end_char": 26,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "NBA",
+                "start_char": 37,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "40,000",
+                "start_char": 58,
+                "end_char": 64,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]

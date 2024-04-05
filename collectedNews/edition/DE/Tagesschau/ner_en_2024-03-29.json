@@ -1,0 +1,550 @@
+[
+    {
+        "title": "Deutlich weniger Teilnahmen an traditioneller Prozession zu Karfreitag in Jerusalem",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "0",
+        "epoch": 1711744229.468552,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "Significantly less participation in traditional procession on Good Friday in Jerusalem",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "participation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "procession",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Good",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Friday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Jerusalem",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Good Friday",
+                "start_char": 62,
+                "end_char": 73,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jerusalem",
+                "start_char": 77,
+                "end_char": 86,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Zunehmend anti-israelische Proteste in Jordanien",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "1",
+        "epoch": 1711744229.4689906,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "Increasing anti-Israel protests in Jordan",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Jordan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Jordan",
+                "start_char": 35,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Bundeswahlausschuss lässt 35 Parteien zur Europawahl in Deutschland zu",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "2",
+        "epoch": 1711744229.4692886,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "Federal Elections Committee leaves 35 parties to the European elections in Germany",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Elections",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Committee",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "parties",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "elections",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Federal Elections Committee",
+                "start_char": 0,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "35",
+                "start_char": 35,
+                "end_char": 37,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "European",
+                "start_char": 53,
+                "end_char": 61,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Germany",
+                "start_char": 75,
+                "end_char": 82,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "21 Verletzte bei Busunglück auf der A44 in Nordrhein-Westfalen",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "3",
+        "epoch": 1711744229.4695816,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "21 injured in bus accidents at A44 in North Rhine-Westphalia",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "accidents",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "A44",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rhine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Westphalia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "21",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "A44",
+                "start_char": 31,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "North Rhine-Westphalia",
+                "start_char": 38,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Mindestens 45 Tote bei Busunglück in Südafrika",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "4",
+        "epoch": 1711744229.469855,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "At least 45 dead at bus accident in South Africa",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "accident",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "South",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "At least 45",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "South Africa",
+                "start_char": 36,
+                "end_char": 48,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Kommunalwahlen in der Türkei als Stimmungstest für Präsident Erdogan",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "5",
+        "epoch": 1711744229.4701283,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "Local elections in Turkey as mood test for President Erdogan",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "elections",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Turkey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "mood",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "President",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Erdogan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 19,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 53,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Traditionsreiche Karfreitagsprozession im unterfränkischen Lohr am Main",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "6",
+        "epoch": 1711744229.4704142,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "Traditional Good Friday Procession in the Lower Franconian Lohr",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Good",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Friday",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Procession",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lohr",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Friday",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "300. Jubiläum der Erstaufführung der Johannespassion von Bach in der Nikolaikirche in Leipzig",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "7",
+        "epoch": 1711744229.4706807,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "300. Jubilee of the First Performance of the Johannespassion von Bach in the Nikolaikirche in Leipzig",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Jubilee",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "First",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Performance",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johannespassion",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "von",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Nikolaikirche",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Leipzig",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "300",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Jubilee",
+                "start_char": 5,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nikolaikirche",
+                "start_char": 77,
+                "end_char": 90,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Leipzig",
+                "start_char": 94,
+                "end_char": 101,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Das Wetter",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64010.html",
+        "content": "",
+        "ranked": "8",
+        "epoch": 1711744229.4709332,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-03-29",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-03-29 21:30:29",
+        "filename": "ner_conc_en_2024-03-29.json",
+        "en_title": "The weather",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

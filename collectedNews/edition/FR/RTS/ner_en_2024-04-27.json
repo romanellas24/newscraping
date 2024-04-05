@@ -1,0 +1,478 @@
+[
+    {
+        "title": "Le Centre dépose deux initiatives pour supprimer les discriminations envers les couples mariés",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-centre-depose-deux-initiatives-pour-supprimer-les-discriminations-envers-les-couples-maries-28452009.html",
+        "duration": " ",
+        "ranked": 0,
+        "epoch": 1712086209.4377,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "Centre tables two initiatives to eliminate discrimination against married couples",
+        "concepts": [
+            {
+                "word": "Centre",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "initiatives",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "discrimination",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "couples",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "two",
+                "start_char": 14,
+                "end_char": 17,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Le canton de Genève n'a pas fait preuve de discrimination en refusant d'autoriser un baptême dans le lac",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-canton-de-geneve-n-a-pas-fait-preuve-de-discrimination-en-refusant-d-autoriser-un-bapteme-dans-le-lac-28452005.html",
+        "duration": " ",
+        "ranked": 1,
+        "epoch": 1712086209.43791,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "The Canton of Geneva did not discriminate in refusing to allow baptism in the lake",
+        "concepts": [
+            {
+                "word": "Canton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Geneva",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "baptism",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lake",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Geneva",
+                "start_char": 14,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Les conséquences économiques de l’effondrement du pont percuté par un cargo à Baltimore",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/les-consequences-economiques-de-l-effondrement-du-pont-percute-par-un-cargo-a-baltimore-28452002.html",
+        "duration": " ",
+        "ranked": 2,
+        "epoch": 1712086209.4380429,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "The economic consequences of the collapse of the bridge struck by a cargo ship in Baltimore",
+        "concepts": [
+            {
+                "word": "consequences",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "collapse",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bridge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cargo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Baltimore",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Baltimore",
+                "start_char": 82,
+                "end_char": 91,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Le corps hospitalier en Grèce proteste contre une loi permettant des opérations privées et payantes les après-midis",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-corps-hospitalier-en-grece-proteste-contre-une-loi-permettant-des-operations-privees-et-payantes-les-apres-midis-28452007.html",
+        "duration": " ",
+        "ranked": 3,
+        "epoch": 1712086209.4381673,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "Hospitals in Greece protest against a law allowing private and paid operations in the afternoons",
+        "concepts": [
+            {
+                "word": "Hospitals",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Greece",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "operations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "afternoons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Greece",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Sous d’intenses bombardements, la faim et l’insécurité règnent dans la bande de Gaza",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/sous-d-intenses-bombardements-la-faim-et-l-insecurite-regnent-dans-la-bande-de-gaza-28452003.html",
+        "duration": " ",
+        "ranked": 4,
+        "epoch": 1712086209.438286,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "Under intense bombardment, hunger and insecurity prevail in the Gaza Strip",
+        "concepts": [
+            {
+                "word": "bombardment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hunger",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "insecurity",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Strip",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the Gaza Strip",
+                "start_char": 60,
+                "end_char": 74,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Conférence à Lausanne sur la presse people en Suisse romande: interview d’Anne-Marie Philippe",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/conference-a-lausanne-sur-la-presse-people-en-suisse-romande-interview-d-anne-marie-philippe-28452015.html",
+        "duration": " ",
+        "ranked": 5,
+        "epoch": 1712086209.4384017,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "Conference in Lausanne on the press people in French-speaking Switzerland: interview with Anne-Marie Philippe",
+        "concepts": [
+            {
+                "word": "Conference",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Lausanne",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "press",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "French",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Switzerland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "interview",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Anne",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Marie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Philippe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Lausanne",
+                "start_char": 14,
+                "end_char": 22,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "French",
+                "start_char": 46,
+                "end_char": 52,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "Switzerland",
+                "start_char": 62,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Anne-Marie Philippe",
+                "start_char": 90,
+                "end_char": 109,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Hockey sur glace: pour le titre en National League, le LHC doit s’imposer face à Davos",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/hockey-sur-glace-pour-le-titre-en-national-league-le-lhc-doit-s-imposer-face-a-davos-28452017.html",
+        "duration": " ",
+        "ranked": 6,
+        "epoch": 1712086209.4385223,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "Ice Hockey: For the National League title, the LHC must win over Davos",
+        "concepts": [
+            {
+                "word": "Ice",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hockey",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "National",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "League",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "title",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "LHC",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Davos",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "National League",
+                "start_char": 20,
+                "end_char": 35,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Davos",
+                "start_char": 65,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "L’invitée du 12h30 - Mylène Pardoën, archéologue du patrimoine sonore",
+        "date_raw": "April 27, 2024",
+        "date": "2024-04-27",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-blandine-levite-28452058.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-invitee-du-12h30-mylene-pardoen-archeologue-du-patrimoine-sonore-28452061.html",
+        "duration": " ",
+        "ranked": 7,
+        "epoch": 1712086209.4386446,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-02 21:30:09",
+        "filename": "ner_conc_en_2024-04-27.json",
+        "en_title": "Guest of 12:30 pm - Mylène Pardoën, archaeologist of the sound heritage",
+        "concepts": [
+            {
+                "word": "Guest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mylène",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pardoën",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "archaeologist",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "heritage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "12:30 pm",
+                "start_char": 9,
+                "end_char": 17,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ]
+    }
+]
