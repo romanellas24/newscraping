@@ -1,0 +1,592 @@
+[
+    {
+        "title": "Sozialdemokratische Oppositionspartei CHP stärkste Kraft bei Kommunalwahlen in der Türkei",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "0",
+        "epoch": 1711999829.6665266,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Socialist opposition party CHP strongest force in local elections in Turkey",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "opposition",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CHP",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "force",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "elections",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Turkey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Socialist",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "CHP",
+                "start_char": 27,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkey",
+                "start_char": 69,
+                "end_char": 75,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Andauernde Proteste gegen Regierung von Premierminister Netanyahu in Israel",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "1",
+        "epoch": 1711999829.6669,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Persistent protests against the government of Prime Minister Netanyahu in Israel",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "government",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Prime",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Israel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Netanyahu",
+                "start_char": 61,
+                "end_char": 70,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 74,
+                "end_char": 80,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Israelisches Militär verübt offenbar Luftangriff im syrischen Damaskus",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "2",
+        "epoch": 1711999829.6671968,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Israeli military apparently committed air attack in Syrian Damascus",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "military",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Damascus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Syrian",
+                "start_char": 52,
+                "end_char": 58,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Damascus",
+                "start_char": 59,
+                "end_char": 67,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Mehrwertsteuersatz für Gas und Fernwärme wieder angehoben auf 19 Prozent",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "3",
+        "epoch": 1711999829.6674857,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "VAT rate for gas and district heating up to 19 percent",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "VAT",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rate",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gas",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "district",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "heating",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "percent",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "VAT",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "up to 19 percent",
+                "start_char": 38,
+                "end_char": 54,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "Teillegalisierung von Cannabis tritt in Deutschland in Kraft",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "4",
+        "epoch": 1711999829.6677575,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Partialization of cannabis enters into force in Germany",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Partialization",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cannabis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "enters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "force",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Germany",
+                "start_char": 48,
+                "end_char": 55,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Neue Regelungen für Elterngeld",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "5",
+        "epoch": 1711999829.6680233,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "New rules for parental allowances",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "allowances",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Frühere Bundesverkehrsminister Scheuer legt Bundestagsmandat nieder",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "6",
+        "epoch": 1711999829.6683085,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Previous Federal Transport Minister Scheuer resigns Bundestagsmandat",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Transport",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scheuer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bundestagsmandat",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Previous Federal Transport",
+                "start_char": 0,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Scheuer",
+                "start_char": 36,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bundestagsmandat",
+                "start_char": 52,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Besucherrekod bei Caspar-David-Friedrich-Ausstellung in der Hamburger Kunsthalle",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "7",
+        "epoch": 1711999829.668574,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Visitor Recod at Caspar-David-Friedrich exhibition at the Hamburger Kunsthalle",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Visitor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Recod",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Caspar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "David",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Friedrich",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exhibition",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hamburger",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kunsthalle",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Caspar-David-Friedrich",
+                "start_char": 17,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Stephan Jäger gewinnt  Golf-Turnierserie PGA",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "8",
+        "epoch": 1711999829.6688292,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Stephan Jäger wins golf tournament series PGA",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Stephan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jäger",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "golf",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tournament",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "series",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PGA",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Stephan Jäger",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "PGA",
+                "start_char": 42,
+                "end_char": 45,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "Das Wetter",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64056.html",
+        "content": "",
+        "ranked": "9",
+        "epoch": 1711999829.6690905,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-01",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-01 21:30:29",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "The weather",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

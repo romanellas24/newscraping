@@ -1,0 +1,467 @@
+[
+    {
+        "title": "News Wrap: Salvage operation underway at the site of Baltimore bridge collapse",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/news-wrap-salvage-operation-underway-at-the-site-of-baltimore-bridge-collapse",
+        "duration": "5 min",
+        "ranked": 0,
+        "epoch": 1711830615.0949981,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "News Wrap: Salvage operation underway at the site of Baltimore bridge collapse",
+        "concepts": [
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wrap",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salvage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "operation",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "site",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Baltimore",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bridge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "collapse",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Baltimore",
+                "start_char": 53,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "How heavy industries contribute to climate change and what can be done to cut emissions",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/how-heavy-industries-contribute-to-climate-change-and-what-can-be-done-to-cut-emissions",
+        "duration": "6 min",
+        "ranked": 1,
+        "epoch": 1711830615.0951717,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "How heavy industries contribute to climate change and what can be done to cut emissions",
+        "concepts": [
+            {
+                "word": "industries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "emissions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Brutal wave of gang violence leaves 1.4 million Haitians on brink of starvation",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/brutal-wave-of-gang-violence-leaves-1-4-million-haitians-on-brink-of-starvation",
+        "duration": "5 min",
+        "ranked": 2,
+        "epoch": 1711830615.095314,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "Brutal wave of gang violence leaves 1.4 million Haitians on brink of starvation",
+        "concepts": [
+            {
+                "word": "wave",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "violence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Haitians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "brink",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "starvation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "1.4 million",
+                "start_char": 36,
+                "end_char": 47,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Haitians",
+                "start_char": 48,
+                "end_char": 56,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Police tactics meant to stop people often ends up killing them, investigation reveals",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/police-tactics-meant-to-stop-people-often-ends-up-killing-them-investigation-reveals",
+        "duration": "7 min",
+        "ranked": 3,
+        "epoch": 1711830615.0954478,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "Police tactics meant to stop people often ends up killing them, investigation reveals",
+        "concepts": [
+            {
+                "word": "Police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tactics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "investigation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Georgia lawmakers pass more voting rules ahead of 2024 election",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/georgia-lawmakers-pass-more-voting-rules-ahead-of-2024-election",
+        "duration": "5 min",
+        "ranked": 4,
+        "epoch": 1711830615.0955791,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "Georgia lawmakers pass more voting rules ahead of 2024 election",
+        "concepts": [
+            {
+                "word": "Georgia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "voting",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Georgia",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2024",
+                "start_char": 50,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Oklahoma city commissioner faces recall election over ties to white nationalism",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/oklahoma-city-commissioner-faces-recall-election-over-ties-to-white-nationalism",
+        "duration": "6 min",
+        "ranked": 5,
+        "epoch": 1711830615.095705,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "Oklahoma city commissioner faces recall election over ties to white nationalism",
+        "concepts": [
+            {
+                "word": "Oklahoma",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "city",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commissioner",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "recall",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "election",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nationalism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Oklahoma city",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Brooks and Capehart on Biden’s record fundraiser and the importance of campaign spending",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-bidens-record-fundraiser-and-the-importance-of-campaign-spending",
+        "duration": "12 min",
+        "ranked": 6,
+        "epoch": 1711830615.0958447,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "Brooks and Capehart on Biden’s record fundraiser and the importance of campaign spending",
+        "concepts": [
+            {
+                "word": "Brooks",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Capehart",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "record",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fundraiser",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "importance",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "campaign",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spending",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Brooks",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Capehart",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Biden",
+                "start_char": 23,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "The inspirations behind Beyoncé’s genre-defying album ‘Cowboy Carter’",
+        "date_raw": "March 29, 2024",
+        "date": "2024-03-29",
+        "url": "https://www.pbs.org/newshour/show/march-29-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/the-inspirations-behind-beyonces-genre-defying-album-cowboy-carter",
+        "duration": "5 min",
+        "ranked": 7,
+        "epoch": 1711830615.0959644,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-03-30 16:30:15",
+        "filename": "ner_en_2024-03-29.json",
+        "en_title": "The inspirations behind Beyoncé’s genre-defying album ‘Cowboy Carter’",
+        "concepts": [
+            {
+                "word": "inspirations",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Beyoncé",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "genre",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "album",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cowboy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Carter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Beyoncé",
+                "start_char": 24,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cowboy Carter",
+                "start_char": 55,
+                "end_char": 68,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

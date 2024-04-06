@@ -1,0 +1,353 @@
+[
+    {
+        "title": "Le \"Simplon\" a pu être libéré du débarcadère de Cully et est tracté vers le port d'Ouchy",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28455000.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-simplon-a-pu-etre-libere-du-debarcadere-de-cully-et-est-tracte-vers-le-port-d-ouchy-28454973.html",
+        "duration": " ",
+        "ranked": 0,
+        "epoch": 1711913408.547931,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-31 21:30:08",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "The \"Simplon\" could be released from Cully's landing and is towed to the port of Ouchy",
+        "concepts": [
+            {
+                "word": "Simplon",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Cully",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "landing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "port",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ouchy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Simplon",
+                "start_char": 5,
+                "end_char": 12,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Cully",
+                "start_char": 37,
+                "end_char": 42,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Opération de sauvetage du \"Simplon\" à Cully: interview de Mehdi Jaccaud",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28455000.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/operation-de-sauvetage-du-simplon-a-cully-interview-de-mehdi-jaccaud-28454971.html",
+        "duration": " ",
+        "ranked": 1,
+        "epoch": 1711913408.5481222,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-31 21:30:08",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "\"Simplon\" rescue operation in Cully: interview with Mehdi Jaccaud",
+        "concepts": [
+            {
+                "word": "Simplon",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rescue",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "operation",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "interview",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mehdi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jaccaud",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Simplon",
+                "start_char": 1,
+                "end_char": 8,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Mehdi Jaccaud",
+                "start_char": 52,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Le bilan hivernal des petites stations (épisode 2): TéléCharmey",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28455000.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-bilan-hivernal-des-petites-stations-episode-2-telecharmey-28454981.html",
+        "duration": " ",
+        "ranked": 2,
+        "epoch": 1711913408.5482495,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-31 21:30:08",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "The winter balance of the small stations (episode 2): TéléCharmey",
+        "concepts": [
+            {
+                "word": "winter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "balance",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "episode",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TéléCharmey",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "winter",
+                "start_char": 4,
+                "end_char": 10,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2",
+                "start_char": 50,
+                "end_char": 51,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "TéléCharmey",
+                "start_char": 54,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Le Conseil fédéral renonce une nouvelle fois à adhérer au Traité sur l'interdiction des armes nucléaires",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28455000.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-conseil-federal-renonce-une-nouvelle-fois-a-adherer-au-traite-sur-l-interdiction-des-armes-nucleaires-28454977.html",
+        "duration": " ",
+        "ranked": 3,
+        "epoch": 1711913408.54837,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-31 21:30:08",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "The Federal Council again renounces adherence to the Treaty on the Prohibition of Nuclear Weapons",
+        "concepts": [
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "adherence",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Treaty",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Prohibition",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Nuclear",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Weapons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The Federal Council",
+                "start_char": 0,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Le film \"Oppenheimer\" sort au Japon, pays traumatisé par la bombe atomique",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28455000.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-film-oppenheimer-sort-au-japon-pays-traumatise-par-la-bombe-atomique-28454975.html",
+        "duration": " ",
+        "ranked": 4,
+        "epoch": 1711913408.5484853,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-31 21:30:08",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "The film \"Oppenheimer\" is released in Japan, a country traumatized by the atomic bomb",
+        "concepts": [
+            {
+                "word": "film",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Oppenheimer",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Japan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "country",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "bomb",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Oppenheimer",
+                "start_char": 10,
+                "end_char": 21,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Japan",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Le Point J - Qui est vraiment le lapin de Pâques?",
+        "date_raw": "March 30, 2024",
+        "date": "2024-03-30",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28455000.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-point-j-qui-est-vraiment-le-lapin-de-paques-28455001.html",
+        "duration": " ",
+        "ranked": 5,
+        "epoch": 1711913408.5486012,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-31 21:30:08",
+        "filename": "ner_en_2024-03-30.json",
+        "en_title": "Point J - Who really is the Easter rabbit?",
+        "concepts": [
+            {
+                "word": "Point",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "J",
+                "meaning": "npadvmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Easter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rabbit",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Easter",
+                "start_char": 28,
+                "end_char": 34,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ]
+    }
+]

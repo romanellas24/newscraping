@@ -1,0 +1,312 @@
+[
+    {
+        "title": "Ski alpin: la dernière descente de l'hiver annulée à Saalbach, le petit globe pour Marco Odermatt",
+        "date_raw": "March 24, 2024",
+        "date": "2024-03-24",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28448194.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/ski-alpin-la-derniere-descente-de-l-hiver-annulee-a-saalbach-le-petit-globe-pour-marco-odermatt-28448204.html",
+        "duration": " ",
+        "ranked": 0,
+        "epoch": 1711830613.3095846,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-30 21:30:13",
+        "filename": "ner_en_2024-03-24.json",
+        "en_title": "Alpine skiing: the last winter descent cancelled in Saalbach, the small globe for Marco Odermatt",
+        "concepts": [
+            {
+                "word": "Alpine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "skiing",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "winter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "descent",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Saalbach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "globe",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Marco",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Odermatt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Saalbach",
+                "start_char": 52,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marco Odermatt",
+                "start_char": 82,
+                "end_char": 96,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Journée de deuil national en Russie après l'attentat perpétré vendredi à Moscou",
+        "date_raw": "March 24, 2024",
+        "date": "2024-03-24",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28448194.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/journee-de-deuil-national-en-russie-apres-l-attentat-perpetre-vendredi-a-moscou-28448201.html",
+        "duration": " ",
+        "ranked": 1,
+        "epoch": 1711830613.309875,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-30 21:30:13",
+        "filename": "ner_en_2024-03-24.json",
+        "en_title": "Day of national mourning in Russia after the attack on Friday in Moscow",
+        "concepts": [
+            {
+                "word": "Day",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mourning",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Russia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Friday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Moscow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russia",
+                "start_char": 28,
+                "end_char": 34,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Friday",
+                "start_char": 55,
+                "end_char": 61,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "La revue de presse alémanique",
+        "date_raw": "March 24, 2024",
+        "date": "2024-03-24",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28448194.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/la-revue-de-presse-alemanique-28448202.html",
+        "duration": " ",
+        "ranked": 2,
+        "epoch": 1711830613.3100772,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-30 21:30:13",
+        "filename": "ner_en_2024-03-24.json",
+        "en_title": "The German press review",
+        "concepts": [
+            {
+                "word": "press",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "German",
+                "start_char": 4,
+                "end_char": 10,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Opération de minage hors du commun d’une falaise à Corsier-sur-Vevey",
+        "date_raw": "March 24, 2024",
+        "date": "2024-03-24",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28448194.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/operation-de-minage-hors-du-commun-d-une-falaise-a-corsier-sur-vevey-28448197.html",
+        "duration": " ",
+        "ranked": 3,
+        "epoch": 1711830613.310266,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-30 21:30:13",
+        "filename": "ner_en_2024-03-24.json",
+        "en_title": "Exceptional mining operation of a cliff in Corsier-sur-Vevey",
+        "concepts": [
+            {
+                "word": "mining",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "operation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cliff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Corsier",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sur",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Vevey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Corsier-sur-Vevey",
+                "start_char": 43,
+                "end_char": 60,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Plus de 7 millions de Sénégalais élisent leur nouveau président",
+        "date_raw": "March 24, 2024",
+        "date": "2024-03-24",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28448194.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/plus-de-7-millions-de-senegalais-elisent-leur-nouveau-president-28448199.html",
+        "duration": " ",
+        "ranked": 4,
+        "epoch": 1711830613.3104496,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-30 21:30:13",
+        "filename": "ner_en_2024-03-24.json",
+        "en_title": "More than 7 million Senegalese elect their new president",
+        "concepts": [
+            {
+                "word": "Senegalese",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "president",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "More than 7 million",
+                "start_char": 0,
+                "end_char": 19,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Senegalese",
+                "start_char": 20,
+                "end_char": 30,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "A voix haute - La robustesse pour un nouveau monde",
+        "date_raw": "March 24, 2024",
+        "date": "2024-03-24",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-coralie-claude-28448194.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/a-voix-haute-la-robustesse-pour-un-nouveau-monde-28448203.html",
+        "duration": " ",
+        "ranked": 5,
+        "epoch": 1711830613.3106315,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-03-30 21:30:13",
+        "filename": "ner_en_2024-03-24.json",
+        "en_title": "Out loud - Robustness for a New World",
+        "concepts": [
+            {
+                "word": "Robustness",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

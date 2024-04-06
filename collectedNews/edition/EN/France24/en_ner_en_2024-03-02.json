@@ -1,0 +1,872 @@
+[
+    {
+        "title": "Germany's Scholz vows probe into 'very serious' leak of army talks on Ukraine war",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/europe/20240302-germany-s-scholz-vows-probe-into-apparent-leak-of-ukraine-war-talks",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712086217.077784,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Germany's Scholz vows probe into 'very serious' leak of army talks on Ukraine war",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leak",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "army",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Germany",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Scholz",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 70,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Argentina's Milei warns lawmakers he will make reforms 'with or without' them",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240302-milei-warns-argentinian-lawmakers-he-will-govern-with-or-without-their-support",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1712086217.077963,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Argentina's Milei warns lawmakers he will make reforms 'with or without' them",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Argentina",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Milei",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reforms",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Argentina",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Milei",
+                "start_char": 12,
+                "end_char": 17,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Trump moves closer to Republican nomination with Missouri, Michigan and Idaho wins",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240302-trump-wins-michigan-missouri-s-republican-primaries-in-further-blow-to-nikki-haley",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712086217.0781157,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Trump moves closer to Republican nomination with Missouri, Michigan and Idaho wins",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "moves",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "nomination",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Missouri",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Michigan",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Idaho",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Trump",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Republican",
+                "start_char": 22,
+                "end_char": 32,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Missouri",
+                "start_char": 49,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Michigan",
+                "start_char": 59,
+                "end_char": 67,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Idaho",
+                "start_char": 72,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "French police arrest activists after break-in at 'forever chemicals' plant",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/live-news/20240302-french-police-arrest-eight-activists-targeting-chemicals-site",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1712086217.0782557,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "French police arrest activists after break-in at 'forever chemicals' plant",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "activists",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "in",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "chemicals",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "French",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "UAE's Tadej Pogacar charges to stunning win in Strade Bianche cycling race",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/live-news/20240302-tadej-pogacar-charges-to-stunning-strade-bianche-win",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1712086217.0783875,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "UAE's Tadej Pogacar charges to stunning win in Strade Bianche cycling race",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "UAE",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tadej",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pogacar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "win",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Strade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bianche",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cycling",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "race",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "UAE",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Strade Bianche",
+                "start_char": 47,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "New programmes, more live reports: FRANCE 24 gets a fresh look",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/france/20240302-new-programmes-more-live-reports-france-24-gets-a-fresh-look",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1712086217.0785165,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "New programmes, more live reports: FRANCE 24 gets a fresh look",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "programmes",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reports",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "FRANCE",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "look",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "FRANCE",
+                "start_char": 35,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "24",
+                "start_char": 42,
+                "end_char": 44,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Thief who stole bag with Paris Olympics security plans jailed for seven months",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/live-news/20240302-seven-months-jail-for-thief-who-stole-bag-with-olympics-security-plans",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1712086217.0786555,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Thief who stole bag with Paris Olympics security plans jailed for seven months",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Thief",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bag",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "security",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "months",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Paris",
+                "start_char": 25,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "seven months",
+                "start_char": 66,
+                "end_char": 78,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Chad's transitional leader Déby confirms candidacy for May 6 presidential vote",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/africa/20240302-chad-s-transitional-leader-d%C3%A9by-announces-candidature-for-may-6-presidential-vote",
+        "content": "",
+        "ranked": 7,
+        "placed": "First_Page",
+        "epoch": 1712086217.078784,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Chad's transitional leader Déby confirms candidacy for May 6 presidential vote",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Chad",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Déby",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "candidacy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "May",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Chad",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Déby",
+                "start_char": 27,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "May 6",
+                "start_char": 55,
+                "end_char": 60,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Thousands protest Tunisia's falling living standards",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/africa/20240302-thousands-protest-against-the-socio-economic-crisis-in-tunisia",
+        "content": "",
+        "ranked": 8,
+        "placed": "First_Page",
+        "epoch": 1712086217.0789132,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Thousands protest Tunisia's falling living standards",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Thousands",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tunisia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Thousands",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tunisia",
+                "start_char": 18,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "'Two days at most': Food and other essentials are in short supply in Gaza's Rafah",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/video/20240302-gaza-report",
+        "content": "",
+        "ranked": 9,
+        "placed": "First_Page",
+        "epoch": 1712086217.0790339,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "'Two days at most': Food and other essentials are in short supply in Gaza's Rafah",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "days",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "'",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Food",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "essentials",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "supply",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rafah",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Two days",
+                "start_char": 1,
+                "end_char": 9,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 69,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Haiti gang leader vows to 'keep fighting' prime minister as violence surges",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/americas/20240302-haiti-gang-leader-vows-to-fight-prime-minister-as-violence-surges",
+        "content": "",
+        "ranked": 10,
+        "placed": "First_Page",
+        "epoch": 1712086217.0791562,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Haiti gang leader vows to 'keep fighting' prime minister as violence surges",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Haiti",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "violence",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Haiti",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Israel has 'more or less' accepted Gaza ceasefire deal, says US official",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/middle-east/20240302-%F0%9F%94%B4-live-biden-says-hoping-for-gaza-ceasefire-deal-by-ramadan",
+        "content": "",
+        "ranked": 11,
+        "placed": "First_Page",
+        "epoch": 1712086217.0792732,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Israel has 'more or less' accepted Gaza ceasefire deal, says US official",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ceasefire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 35,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 61,
+                "end_char": 63,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Hundreds protest in Senegal to demand presidential elections before April 2",
+        "date_raw": "March 02, 2024",
+        "date": "2024-03-02",
+        "url": "https://www.france24.com/en/archives/2024/03/02-March-2024",
+        "news_url": "https://www.france24.com/en/africa/20240302-hundreds-protest-in-senegal-to-demand-elections-be-held-within-month",
+        "content": "",
+        "ranked": 12,
+        "placed": "First_Page",
+        "epoch": 1712086217.0793905,
+        "language": "en",
+        "source": "France24",
+        "local_time": "2024-04-02 21:30:17",
+        "filename": "ner_en_2024-03-02.json",
+        "en_title": "Hundreds protest in Senegal to demand presidential elections before April 2",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Hundreds",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Senegal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "elections",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "April",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hundreds",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Senegal",
+                "start_char": 20,
+                "end_char": 27,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April 2",
+                "start_char": 68,
+                "end_char": 75,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    }
+]
