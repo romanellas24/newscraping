@@ -1,0 +1,533 @@
+[
+    {
+        "title": "En France, la qualité des eaux de Nestlé n'est pas garantie, selon une enquête du Monde",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/en-france-la-qualite-des-eaux-de-nestle-n-est-pas-garantie-selon-une-enquete-du-monde-28459178.html",
+        "duration": " ",
+        "ranked": 0,
+        "epoch": 1712345409.2249095,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "In France, the quality of Nestlé water is not guaranteed, according to a World Survey",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "quality",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Nestlé",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "water",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Survey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "France",
+                "start_char": 3,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nestlé",
+                "start_char": 26,
+                "end_char": 32,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            }
+        ]
+    },
+    {
+        "title": "L’inflation continue de ralentir en Suisse, contre toute attente",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-inflation-continue-de-ralentir-en-suisse-contre-toute-attente-28459182.html",
+        "duration": " ",
+        "ranked": 1,
+        "epoch": 1712345409.225136,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Inflation continues to slow in Switzerland, against expectations",
+        "concepts": [
+            {
+                "word": "Inflation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Switzerland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "expectations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Switzerland",
+                "start_char": 31,
+                "end_char": 42,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Les partisans de la loi sur l'énergie soumise à votation le 9 juin lancent leur campagne",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/les-partisans-de-la-loi-sur-l-energie-soumise-a-votation-le-9-juin-lancent-leur-campagne-28459187.html",
+        "duration": " ",
+        "ranked": 2,
+        "epoch": 1712345409.2252707,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Supporters of the Energy Law Subject to Vote on 9 June Launch their Campaign",
+        "concepts": [
+            {
+                "word": "Supporters",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Energy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Law",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Subject",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "June",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Launch",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Campaign",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the Energy Law Subject",
+                "start_char": 14,
+                "end_char": 36,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "9 June",
+                "start_char": 48,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Les affrontements internes à la communauté érythréenne se multiplient en Suisse",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/les-affrontements-internes-a-la-communaute-erythreenne-se-multiplient-en-suisse-28459184.html",
+        "duration": " ",
+        "ranked": 3,
+        "epoch": 1712345409.225393,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Internal clashes within the Eritrean community are increasing in Switzerland",
+        "concepts": [
+            {
+                "word": "clashes",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "community",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Switzerland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Eritrean",
+                "start_char": 28,
+                "end_char": 36,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Switzerland",
+                "start_char": 65,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "En Israël, Benny Gantz appelle à des élections anticipées",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/en-israel-benny-gantz-appelle-a-des-elections-anticipees-28459186.html",
+        "duration": " ",
+        "ranked": 4,
+        "epoch": 1712345409.2255125,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "In Israel, Benny Gantz calls for early elections",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Benny",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gantz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "elections",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 3,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Benny Gantz",
+                "start_char": 11,
+                "end_char": 22,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Football: Ramona Bachmann quitte le PSG pour s’engager aux Etats-Unis",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/football-ramona-bachmann-quitte-le-psg-pour-s-engager-aux-etats-unis-28459190.html",
+        "duration": " ",
+        "ranked": 5,
+        "epoch": 1712345409.2256281,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Football: Ramona Bachmann leaves PSG to join the United States",
+        "concepts": [
+            {
+                "word": "Football",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ramona",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bachmann",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PSG",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "United",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "States",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ramona Bachmann",
+                "start_char": 10,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the United States",
+                "start_char": 45,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Le parapente n'a jamais eu autant d'adeptes: interview de Frédéric Lovis",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-parapente-n-a-jamais-eu-autant-d-adeptes-interview-de-frederic-lovis-28459193.html",
+        "duration": " ",
+        "ranked": 6,
+        "epoch": 1712345409.2257495,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "The paraglider has never had so many followers: interview with Frédéric Lovis",
+        "concepts": [
+            {
+                "word": "paraglider",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "followers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "interview",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Frédéric",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lovis",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Frédéric Lovis",
+                "start_char": 63,
+                "end_char": 77,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Soleure divisée après l’interdiction des aménagements en pierre dans les jardins",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/soleure-divisee-apres-l-interdiction-des-amenagements-en-pierre-dans-les-jardins-28459196.html",
+        "duration": " ",
+        "ranked": 7,
+        "epoch": 1712345409.2258666,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Solar divided after the ban on stone developments in the gardens",
+        "concepts": [
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "stone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "developments",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "gardens",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La liaison ferroviaire Moutier-Soleure et son tunnel du Weissenstein sont en rénovation",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/la-liaison-ferroviaire-moutier-soleure-et-son-tunnel-du-weissenstein-sont-en-renovation-28459204.html",
+        "duration": " ",
+        "ranked": 8,
+        "epoch": 1712345409.2259805,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "The Moutier-Soleure railway link and its Weissenstein tunnel are being renovated",
+        "concepts": [
+            {
+                "word": "Moutier",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Soleure",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "railway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "link",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Weissenstein",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tunnel",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Weissenstein",
+                "start_char": 41,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "L’invitée du 12h30 – Sophie Fontanel, journaliste et chroniqueuse, en rediffusion",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-28459218.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-invitee-du-12h30-sophie-fontanel-journaliste-et-chroniqueuse-en-rediffusion-28459223.html",
+        "duration": " ",
+        "ranked": 9,
+        "epoch": 1712345409.226094,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-05 21:30:09",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Guest of 12:30 – Sophie Fontanel, journalist and columnist, rebroadcast",
+        "concepts": [
+            {
+                "word": "Guest",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sophie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Fontanel",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "columnist",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Sophie Fontanel",
+                "start_char": 17,
+                "end_char": 32,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    }
+]
