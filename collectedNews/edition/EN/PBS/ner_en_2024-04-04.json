@@ -1,0 +1,484 @@
+[
+    {
+        "title": "Biden warns Israel to protect civilians, aid workers in Gaza or risk losing U.S. support",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.pbs.org/newshour/show/april-4-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/biden-warns-israel-to-protect-civilians-aid-workers-in-gaza-or-risk-losing-u-s-support",
+        "duration": "5 min",
+        "ranked": 0,
+        "epoch": 1712345410.8807755,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-05 15:30:10",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Biden warns Israel to protect civilians, aid workers in Gaza or risk losing U.S. support",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "civilians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "aid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risk",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "U.S.",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "support",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Biden",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 12,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 56,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 76,
+                "end_char": 80,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "News Wrap: Russian drone attacks kill 4 in Kharkiv, Ukraine",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.pbs.org/newshour/show/april-4-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/news-wrap-russian-drone-attacks-kill-4-in-kharkiv-ukraine",
+        "duration": "4 min",
+        "ranked": 1,
+        "epoch": 1712345410.8810012,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-05 15:30:10",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "News Wrap: Russian drone attacks kill 4 in Kharkiv, Ukraine",
+        "concepts": [
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wrap",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "drone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attacks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Kharkiv",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russian",
+                "start_char": 11,
+                "end_char": 18,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "4",
+                "start_char": 38,
+                "end_char": 39,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 43,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 52,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Japanese prime minister on strengthening military cooperation with U.S. to counter China",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.pbs.org/newshour/show/april-4-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/japanese-prime-minister-on-strengthening-military-cooperation-with-u-s-to-counter-china",
+        "duration": "12 min",
+        "ranked": 2,
+        "epoch": 1712345410.8811526,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-05 15:30:10",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Japanese prime minister on strengthening military cooperation with U.S. to counter China",
+        "concepts": [
+            {
+                "word": "minister",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cooperation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "U.S.",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "China",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Japanese",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 67,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 83,
+                "end_char": 88,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Growing concerns about bird flu cases in U.S. farm animals and risk to humans",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.pbs.org/newshour/show/april-4-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/growing-concerns-about-bird-flu-cases-in-u-s-farm-animals-and-risk-to-humans",
+        "duration": "7 min",
+        "ranked": 3,
+        "epoch": 1712345410.8812907,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-05 15:30:10",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Growing concerns about bird flu cases in U.S. farm animals and risk to humans",
+        "concepts": [
+            {
+                "word": "concerns",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bird",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flu",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "U.S.",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farm",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "animals",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risk",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "humans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "U.S.",
+                "start_char": 41,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "How Biden and Trump are raising and spending their campaign advertising dollars",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.pbs.org/newshour/show/april-4-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/how-biden-and-trump-are-raising-and-spending-their-campaign-advertising-dollars",
+        "duration": "6 min",
+        "ranked": 4,
+        "epoch": 1712345410.8814187,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-05 15:30:10",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "How Biden and Trump are raising and spending their campaign advertising dollars",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Trump",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "campaign",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "advertising",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dollars",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Biden",
+                "start_char": 4,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 14,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "What asylum-seekers face at the U.S. border after a grueling journey through Mexico",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.pbs.org/newshour/show/april-4-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/what-asylum-seekers-face-at-the-u-s-border-after-a-grueling-journey-through-mexico",
+        "duration": "11 min",
+        "ranked": 5,
+        "epoch": 1712345410.8815458,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-05 15:30:10",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "What asylum-seekers face at the U.S. border after a grueling journey through Mexico",
+        "concepts": [
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seekers",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "face",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "U.S.",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "journey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "U.S.",
+                "start_char": 32,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 77,
+                "end_char": 83,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Documentary captures journalist’s gender transition while embedded with Taliban",
+        "date_raw": "April 04, 2024",
+        "date": "2024-04-04",
+        "url": "https://www.pbs.org/newshour/show/april-4-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/documentary-captures-journalists-gender-transition-while-embedded-with-taliban",
+        "duration": "7 min",
+        "ranked": 6,
+        "epoch": 1712345410.8816864,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-05 15:30:10",
+        "filename": "ner_conc_en_2024-04-04.json",
+        "en_title": "Documentary captures journalist’s gender transition while embedded with Taliban",
+        "concepts": [
+            {
+                "word": "Documentary",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "captures",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gender",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "transition",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Taliban",
+                "start_char": 72,
+                "end_char": 79,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    }
+]

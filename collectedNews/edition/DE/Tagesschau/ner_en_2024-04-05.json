@@ -1,0 +1,596 @@
+[
+    {
+        "title": "Israel lässt mehr Hilfen in den Gazastreifen nach massiver Kritik der USA",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "0",
+        "epoch": 1712345413.8017702,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Israel leaves more help in the Gaza Strip after massive US criticism",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "help",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Strip",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "criticism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 27,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 56,
+                "end_char": 58,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Israelfeindliche Proteste im Iran",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "1",
+        "epoch": 1712345413.8019962,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Anti-Israel Protests in Iran",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Anti",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protests",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Iran",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Anti-Israel",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Iran",
+                "start_char": 24,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Ampelkoalition einigt sich auf bundesweit einheitlichen Rechtsrahmen für Bezahlkarten von Asylbewerbern",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "2",
+        "epoch": 1712345413.8021667,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Ampel coalition agrees on the federally uniform legal framework for payment cards of asylum seekers",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Ampel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coalition",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "framework",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "payment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seekers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ampel",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Anstieg der Benzinpreise durch Sorge über Zuspitzung des Nahost-Konflikts",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "3",
+        "epoch": 1712345413.8023243,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Increase in gasoline prices by worrying about boosting the Middle East conflict",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "gasoline",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Middle",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "East",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conflict",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the Middle East",
+                "start_char": 55,
+                "end_char": 70,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "Expertengruppe empfiehlt Erhöhung der bisherigen THC-Grenzwerte im Straßenverkehr nach Teil-Legalisierung von Cannabis",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "4",
+        "epoch": 1712345413.8024738,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Expert group recommends increasing THC limit values in road traffic by partial marketing of cannabis",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Expert",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "THC",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "limit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "values",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "road",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "traffic",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "marketing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cannabis",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "THC",
+                "start_char": 35,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Bericht der Polizeibehörde Europol über mehr als 800 kriminelle Banden in der EU",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "5",
+        "epoch": 1712345413.8026216,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Report by the police authority Europol on more than 800 criminal gangs in the EU",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Report",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "authority",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Europol",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "gangs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Europol",
+                "start_char": 31,
+                "end_char": 38,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "more than 800",
+                "start_char": 42,
+                "end_char": 55,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "EU",
+                "start_char": 78,
+                "end_char": 80,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "13-Jähriger soll Obdachlosen im Dortmunder Hafen erstochen haben",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "6",
+        "epoch": 1712345413.8027797,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "13-year-old should have stabbed homeless people in the Dortmund port",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Dortmund",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "port",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "13-year-old",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Dortmund",
+                "start_char": 55,
+                "end_char": 63,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Rettungskräfte suchen in Taiwan nach schwerem Erdbeben weiter nach Vermissten",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "7",
+        "epoch": 1712345413.802929,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Rescue forces in Taiwan continue to search for severe earthquakes",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Rescue",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "earthquakes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Taiwan",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Handwerksbetriebe wirken Azubi-Mangel mit Praktika in den Schulferien entgegen",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "8",
+        "epoch": 1712345413.8030677,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "Handicraft companies counteract Azubi deficiency with internships in school holidays",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Handicraft",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "companies",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Azubi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deficiency",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "internships",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "holidays",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Das Wetter",
+        "date_raw": "April 05, 2024",
+        "date": "2024-04-05",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64076.html",
+        "content": "",
+        "ranked": "9",
+        "epoch": 1712345413.803203,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-05",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-05 21:30:13",
+        "filename": "ner_conc_en_2024-04-05.json",
+        "en_title": "The weather",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]
