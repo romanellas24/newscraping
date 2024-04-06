@@ -12,6 +12,7 @@ scrapy crawl ansaGet
 scrapy crawl RioTimes
 scrapy crawl SowetanLive
 scrapy crawl ExpressoPt
+scrapy crawl NewsComAu
 cd ../../..
 git pull
 git add .
