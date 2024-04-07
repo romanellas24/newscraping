@@ -1,0 +1,1991 @@
+[
+    {
+        "title": "MATTARELLA:\"GUERRA E' STRADA SBAGLIATA\" \"Valori comuni tra Italia e Ghana\"",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Mattarella: \"Guerra è strada sbagliata\" Condividiamo con il Ghana \"un sistema di valori\", ispirato \"al multilateralismo, al dialogo tra Paesi, alla pace\". Così il presidente Mattarella dopo l' incontro ad Accra con il presidente del Ghana Akufo-Addo.\"Entrambi convinti che la guerra è la strada sbagliata\" in Europa,Africa,Medio Oriente.\"Va rafforzata l'Onu\" contro le sfide globali, come quella per il clima.    Affrontare insieme il fenomeno migratorio,convertendolo in un sistema di \"ingressi legali e concordati\",dice Mattarella.Il Piano Mattei si basa \"sul rapporto paritario\" tra Africa ed Europa. ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1712394006.1409576,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "MATTARELLA: \"GUERRA E' STRADA SBAGLIATA\" \"Common values between Italy and Ghana\"",
+        "en_content": "Mattarella: \"Guerra is the wrong way\" We share with Ghana \"a system of values\", inspired \"to multilateralism, to dialogue between countries, to peace\". So President Mattarella after the meeting in Accra with Ghana's president Akufo-Addo.\"Let us believe that war is the wrong way\" in Europe, Africa, Middle East. \"It strengthens the UN\" against global challenges, such as climate. To confront the migration phenomenon together, converging it in a system of \"legal and agreed entrances\", says Mattarella. The Mattei Plan is based on \"the equal relationship\" between Africa and Europe.",
+        "concepts": [
+            {
+                "word": "MATTARELLA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GUERRA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "E",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "STRADA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SBAGLIATA",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "values",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ghana",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Italy",
+                "start_char": 64,
+                "end_char": 69,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 74,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ghana",
+                "start_char": 52,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 165,
+                "end_char": 175,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Accra",
+                "start_char": 197,
+                "end_char": 202,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 208,
+                "end_char": 213,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Akufo-Addo",
+                "start_char": 226,
+                "end_char": 236,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "us",
+                "start_char": 242,
+                "end_char": 244,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 283,
+                "end_char": 289,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Africa",
+                "start_char": 291,
+                "end_char": 297,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Middle East",
+                "start_char": 299,
+                "end_char": 310,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "UN",
+                "start_char": 332,
+                "end_char": 334,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 491,
+                "end_char": 501,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The Mattei Plan",
+                "start_char": 503,
+                "end_char": 518,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Africa",
+                "start_char": 564,
+                "end_char": 570,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 575,
+                "end_char": 581,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "Leader Pd: \"Conte aiuta la destra\"",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Schlein a Bari: \"Conte aiuta la destra\" \"E' una sberla per tutta la gente perbene che si stava preparando ad andare a votare\".     Lo dice a Bari la segretaria Pd, Elly Schlein, riferendosi alla scelta di  Conte di chiamarsi fuori dalle primarie per le elezioni comunali.   \"Così aiutano la destra\", aggiunge.  \"Sulla legalità non accettiamo lezioni di moralità da nessuno\".   ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1712394006.1999516,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "Leader Pd: \"Conte helps the right\"",
+        "en_content": "Schlein in Bari: \"Conte helps the right\" \"It's a sberla for all the decent people who were preparing to go vote.\" He says in Bari the secretary Pd, Elly Schlein, referring to the choice of Count to call himself out of the primary for municipal elections. \"So help the right,\" he adds. \"On legality we do not accept morality lessons from anyone.\"",
+        "concepts": [
+            {
+                "word": "Leader",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pd",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Conte",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "right",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 11,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 125,
+                "end_char": 129,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 148,
+                "end_char": 160,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "MELONI:SI'A ENERGIA PULITA DAL NUCLEARE AI? \"Non barattare nostra libertà\"",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": " Meloni:sì a energia pulita dal nucleare \"Una grande prospettiva, una grande  visione, un grande sogno derivano dalla possibilità di produrre in un futuro non lontano energia pulita e illimitata dal nucleare da fusione\".   Così la premier Meloni all'evento \"La Scienza al centro dello Stato\", promosso dall'Italian Scientist Association. Poi, sull'Intelligenza artificiale:  \"L'impressione che ho è che, senza rendercene conto, stiamo barattando la nostra libertà con la comodità\", ha  detto la presidente del Consiglio.  ",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1712394006.2023838,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "MELONI: Is ENERGY PULITA FROM NUCLEAR TO? \"Don't barter our freedom\"",
+        "en_content": "Meloni: yes to clean energy from nuclear \"A great perspective, a great vision, a great dream come from the possibility to produce in a future not far clean and unlimited energy from fusion nuclear.\" So premier Meloni at the event \"La Scienza al centro dello Stato\", promoted by the Italian Scientist Association. Then, on Artificial Intelligence: \"The impression I have is that, without realizing it, we are bartering our freedom with comfort,\" said the President of the Council.",
+        "concepts": [
+            {
+                "word": "ENERGY",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PULITA",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "NUCLEAR",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "TO",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "freedom",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "MELONI",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 210,
+                "end_char": 216,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "La Scienza al centro",
+                "start_char": 231,
+                "end_char": 251,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Italian Scientist Association",
+                "start_char": 278,
+                "end_char": 311,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Artificial Intelligence",
+                "start_char": 322,
+                "end_char": 345,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 471,
+                "end_char": 478,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1712394006.2611094,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "ISTAT:CALANO RISPARMI E POTERE ACQUISTO Imposte famiglie in aumento,+24 mld",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Istat: -0,5% potere d'acquisto famiglie Nel 2023 il reddito disponibile delle famiglie è aumentato del 4,7% ma,a causa dell'inflazione, il loro potere di acquisto si è ridotto dello 0,5%. Lo rileva l'Istat.     Cresce del 6,5% la spesa per consumi finali e cala la propensione al risparmi, dal 7,8% del 2022 al 6,3%, toccando il minimo dal 1995. Le imposte pagate dalle famiglie segnano +24,6 mld,con l' Irpef cresciuta del 10,2%.   Nel 2023, aiuti alle imprese da Italia Ue per 55,2 miliardi.   ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1712394006.2632573,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "ISTAT:CALANO RISPARMI e POTERE ACQUISTO Intensive families,+24 mld",
+        "en_content": "Istat: -0.5% household purchasing power In 2023 household disposable income increased by 4.7% but, due to inflation, their purchasing power reduced by 0.5%. It's Istat. Expenditure for final consumption grew by 6.5% and the propensity for savings fell from 7.8% of 2022 to 6.3%, touching the minimum since 1995. Taxes paid by households mark +24.6 mld, with Irpef raised by 10.2%. In 2023, aid to enterprises from Italy EU for 55.2 billion.",
+        "concepts": [
+            {
+                "word": "ISTAT",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CALANO",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "RISPARMI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "e",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "POTERE",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ACQUISTO",
+                "meaning": "punct",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mld",
+                "meaning": "dobj",
+                "pos": "ADJ"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ISTAT",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Istat",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2023",
+                "start_char": 43,
+                "end_char": 47,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "4.7%",
+                "start_char": 89,
+                "end_char": 93,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "0.5%",
+                "start_char": 151,
+                "end_char": 155,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Istat",
+                "start_char": 162,
+                "end_char": 167,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "6.5%",
+                "start_char": 211,
+                "end_char": 215,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "7.8%",
+                "start_char": 257,
+                "end_char": 261,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2022",
+                "start_char": 265,
+                "end_char": 269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "6.3%",
+                "start_char": 273,
+                "end_char": 277,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "1995",
+                "start_char": 306,
+                "end_char": 310,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Taxes",
+                "start_char": 312,
+                "end_char": 317,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Irpef",
+                "start_char": 358,
+                "end_char": 363,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "10.2%",
+                "start_char": 374,
+                "end_char": 379,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2023",
+                "start_char": 384,
+                "end_char": 388,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy EU",
+                "start_char": 414,
+                "end_char": 422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "55.2 billion",
+                "start_char": 427,
+                "end_char": 439,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ]
+    },
+    {
+        "title": "BANKITALIA CONFERMA IL PIL A +0,6%    Inflazione attesa in calo, all'1,3%",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Bankitalia conferma il Pil a +0,6% La Banca d'Italia conferma le sue previsioni di gennaio lasciando invariata la stima di una crescita dello 0,6% del Pil per il 2024, mentre per il prossimo anno prevede una crescita dell'1% che dovrebbe proseguire nel 2026 con un + 1,2%.       La tenue ripresa sarebbe dovuta alla crescita della domanda estera e a un maggiore potere d'acquisto delle famiglie. L'inflazione dovrebbe segnare un netto calo nel 2024 scendendo all'1,3%, contro l'1,9 della previsione di dicembre. Le retribuzioni crescono del 3,5%.",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1712394006.26661,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "BANKITALIA CONFERENCE GDP A +0.6% Inflation expected in decrease, to 1.3%",
+        "en_content": "Bankitalia confirms GDP to +0.6% The Bank of Italy confirms its forecasts of January leaving unchanged the estimate of a growth of 0.6% of GDP for 2024, while for the next year previews an increase of 1% that should continue in 2026 with a + 1.2%. The slight recovery would be due to the growth of foreign demand and increased purchasing power of households. Inflation should mark a sharp decline in 2024, down to 1.3%, against 1.9 December forecast. Payouts grow by 3.5%.",
+        "concepts": [
+            {
+                "word": "BANKITALIA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CONFERENCE",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "GDP",
+                "meaning": "compound",
+                "pos": "DET"
+            },
+            {
+                "word": "+0.6",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Inflation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decrease",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "1.3%",
+                "start_char": 69,
+                "end_char": 73,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bankitalia",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Bank of Italy",
+                "start_char": 33,
+                "end_char": 50,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "January",
+                "start_char": 77,
+                "end_char": 84,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "0.6%",
+                "start_char": 131,
+                "end_char": 135,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2024",
+                "start_char": 147,
+                "end_char": 151,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the next year",
+                "start_char": 163,
+                "end_char": 176,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1%",
+                "start_char": 201,
+                "end_char": 203,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2026",
+                "start_char": 228,
+                "end_char": 232,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2024",
+                "start_char": 400,
+                "end_char": 404,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.3%",
+                "start_char": 414,
+                "end_char": 418,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "December",
+                "start_char": 432,
+                "end_char": 440,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3.5%",
+                "start_char": 467,
+                "end_char": 471,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "CONTE: \"LEGALITA' NON E' NEGOZIABILE\"  \"Su Bari avevo avvertito Schlein\"",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Bari,Conte:\"Legalità non è negoziabile\" \"Nessuno può permettersi di dire che il M5S è sleale. Mercoledì avevo avvertito con una lunga telefonata la segretaria del Pd Schlein che la situazione a Bari si stava compromettendo e che, se ci fossero state nuove inchieste, noi non saremmo stati disponibili a far finta di nulla proseguendo con le primarie\". Così il leader M5S, Conte dopo lo stop alle primarie per le elezioni comunali. \"Per il Movimento 5 Stelle la legalità non è un valore negoziabile, non è merce di scambio\", aggiunge Conte.  ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1712394006.3184266,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "_",
+        "en_content": "Bari,Conte:\"Legabilities is not negotiable\" \"No one can afford to say that the M5S is unfair. On Wednesday I had warned with a long call the secretary of the Pd Schlein that the situation in Bari was compromising and that, if there were new investigations, we would not have been available to pretend nothing continuing with the primaries\". So the leader M5S, Count after the stop to the primary for municipal elections. \"For the 5 Star Movement legality is not a negotiable value, it is not a commodity of exchange,\" he adds.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 97,
+                "end_char": 106,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Pd Schlein",
+                "start_char": 154,
+                "end_char": 168,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bari",
+                "start_char": 191,
+                "end_char": 195,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5",
+                "start_char": 430,
+                "end_char": 431,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Star Movement",
+                "start_char": 432,
+                "end_char": 445,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "SISMA MAGNITUDO 4.8 FA TREMARE NEW YORK Seguita da 10 scosse d'assestamento",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Terremoto 4.8 fa tremare New York  Un terremoto di 4.8 gradi della scala Richter ha fatto tremare i grattacieli e i palazzi di New York. Il sisma, con epicentro nei pressi della città di Lebanon, in New Jersey, è stato avvertito anche a Philadelphia e Boston. Non si hanno notizie di danni, ma la scossa ha causato una breve interruzione dei lavori del Consiglio di sicurezza in cui si discuteva della situazione in Medio Oriente.      Sono seguite almeno 10 scosse di assestamento. Una, di magnitudo preliminare pari a 4, ha colpito il sud-ovest di Gladstone, sempre nel New Jersey. ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1712394006.3815105,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "_",
+        "en_content": "Earthquake 4.8 makes New York tremble An earthquake of 4.8 degrees of the Richter scale made the skyscrapers and palaces of New York tremble. The earthquake, with epicenter near the city of Lebanon, New Jersey, was also warned in Philadelphia and Boston. There is no news of damage, but the shock caused a brief interruption of the Security Council's work in which the situation in the Middle East was discussed. There are at least 10 drafts. One, with a preliminary magnitude of 4, hit the southwest of Gladstone, always in New Jersey.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "New York",
+                "start_char": 21,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4.8 degrees",
+                "start_char": 55,
+                "end_char": 66,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "New York",
+                "start_char": 124,
+                "end_char": 132,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 190,
+                "end_char": 197,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "New Jersey",
+                "start_char": 199,
+                "end_char": 209,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Philadelphia",
+                "start_char": 230,
+                "end_char": 242,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Boston",
+                "start_char": 247,
+                "end_char": 253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Security Council's",
+                "start_char": 328,
+                "end_char": 350,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 382,
+                "end_char": 397,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "at least 10",
+                "start_char": 423,
+                "end_char": 434,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "One",
+                "start_char": 443,
+                "end_char": 446,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 480,
+                "end_char": 481,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gladstone",
+                "start_char": 504,
+                "end_char": 513,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "New Jersey",
+                "start_char": 525,
+                "end_char": 535,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "RAID DI DRONI RUSSI A KHARKIV, 6 MORTI  Colpite case e dormitori, 10 feriti",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Kharkiv,raid russi: 6 morti e 10 feriti Nuovi attacchi delle forze armate russe su Kharkiv, la seconda città più grande dell'Ucraina. Il bilancio è di 6 morti e 10 feriti, ha fatto sapere il sindaco Terekhov su Telegram.    Secondo Terekhov, la città è stata attaccata con droni iraniani, che hanno causato danni ad almeno 9 edifici residenziali, 3 dormitori, alcuni edifici amministrativi e a una stazione di servizio. Distrutti o danneggiati veicoli privati e aziende locali.Attacchi anche su Zaporizhzhia, dove sono rimaste ferite due persone.    ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1712394006.4400468,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "RAID DRONI RUSSI A KHARKIV, 6 MORTI Hit houses and dorms, 10 wounded",
+        "en_content": "Kharkiv, Russians: 6 dead and 10 wounded New attacks by Russian armed forces on Kharkiv, Ukraine's second largest city. The budget is 6 dead and 10 wounded, told mayor Terekhov on Telegram. According to Terekhov, the city was attacked with Iranian drones, which caused damage to at least 9 residential buildings, 3 dorms, some administrative buildings and a service station. Destroyed or damaged private vehicles and local companies. Attacks also on Zaporizhzhia, where two people were injured.",
+        "concepts": [
+            {
+                "word": "RAID",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DRONI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RUSSI",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "KHARKIV",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MORTI",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "houses",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dorms",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "6",
+                "start_char": 28,
+                "end_char": 29,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 58,
+                "end_char": 60,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Russians",
+                "start_char": 9,
+                "end_char": 17,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "6",
+                "start_char": 19,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 30,
+                "end_char": 32,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 56,
+                "end_char": 63,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 80,
+                "end_char": 87,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 89,
+                "end_char": 96,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 99,
+                "end_char": 105,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "6",
+                "start_char": 134,
+                "end_char": 135,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 145,
+                "end_char": 147,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Terekhov",
+                "start_char": 168,
+                "end_char": 176,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Telegram",
+                "start_char": 180,
+                "end_char": 188,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Terekhov",
+                "start_char": 203,
+                "end_char": 211,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 240,
+                "end_char": 247,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "at least 9",
+                "start_char": 279,
+                "end_char": 289,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "3",
+                "start_char": 313,
+                "end_char": 314,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 450,
+                "end_char": 462,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 470,
+                "end_char": 473,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Chiusa ambasciata israeliana a Roma",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Chiusa l'ambasciata israeliana a Roma E' stata chiusa la sede dell'ambasciata israeliana a Roma. L'allarme è scattato per possibili attacchi in seguito al raid al consolato iraniano a Damasco, nel quale sono morti alti dirigenti dei pasdaran.      Sono circa 30 le missioni diplomatiche israeliane chiuse nel timore di  rappresaglie da parte di Teheran.  Rafforzate inoltre le misure di sicurezza in tutte le istituzioni israeliane nel mondo.     ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1712394006.4971714,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "Closed Israeli embassy in Rome",
+        "en_content": "Closed the Israeli embassy in Rome The office of the Israeli embassy in Rome was closed. The alarm was triggered for possible attacks following the raid on the Iranian consulate in Damascus, in which high leaders of the pasdaran died. There are about 30 Israeli diplomatic missions closed in fear of reprisals by Tehran. It also reinforces security measures in all Israeli institutions around the world.",
+        "concepts": [
+            {
+                "word": "embassy",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Rome",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 7,
+                "end_char": 14,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 26,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 11,
+                "end_char": 18,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 30,
+                "end_char": 34,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 53,
+                "end_char": 60,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 72,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 160,
+                "end_char": 167,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Damascus",
+                "start_char": 181,
+                "end_char": 189,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about 30",
+                "start_char": 245,
+                "end_char": 253,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 254,
+                "end_char": 261,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tehran",
+                "start_char": 313,
+                "end_char": 319,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 365,
+                "end_char": 372,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "GENTILONI:\"EVITATA LA RECESSIONE IN UE\" \"Prevista accelerazione\" a breve",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": " Gentiloni: \"Evitata recessione in Ue\" Il commissario europeo per gli Affari economici, Paolo Gentiloni, a Cernobbio per il Workshop Ambrosetti, traccia un bilancio positivo sul modo in cui l'Ue ha \"evitato la recessione\" dopo \"un  anno e mezzo di crisi difficile che ha portato a un rallentamento notevole  dell'attività economica\".   Le previsioni della Commissione \"sul fatto che la seconda parte dell'anno potremo avere un'accelerazione dell'attività economica e l'anno prossimo questa accelerazione potrebbe prendere velocità, sembrano confermate\".  ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1712394006.5001843,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "GENTILONI: \"EVITATE THE RECESSIONE IN EU\" \"Prevision of acceleration\" short",
+        "en_content": "Gentiloni: \"Evitated recession in EU\" The European Commissioner for Economic Affairs, Paolo Gentiloni, in Cernobbio for the Ambrosetti Workshop, draws a positive balance on how the EU \"avoided the recession\" after \"a year and a half of a difficult crisis that led to a remarkable slowdown in economic activity\". The Commission's forecasts \"on the fact that the second part of the year we can have an acceleration of economic activity and next year this acceleration could take speed, seem confirmed\".",
+        "concepts": [
+            {
+                "word": "GENTILONI",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "RECESSIONE",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Prevision",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "acceleration",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "RECESSIONE",
+                "start_char": 24,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 38,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "EU",
+                "start_char": 34,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Economic Affairs",
+                "start_char": 68,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Paolo Gentiloni",
+                "start_char": 86,
+                "end_char": 101,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cernobbio",
+                "start_char": 106,
+                "end_char": 115,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Ambrosetti Workshop",
+                "start_char": 120,
+                "end_char": 143,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "EU",
+                "start_char": 181,
+                "end_char": 183,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a year and a half",
+                "start_char": 215,
+                "end_char": 232,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Commission",
+                "start_char": 316,
+                "end_char": 326,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "second",
+                "start_char": 361,
+                "end_char": 367,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the year",
+                "start_char": 376,
+                "end_char": 384,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "next year",
+                "start_char": 438,
+                "end_char": 447,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "WASHINGTON TEME ATTACCO IRAN A ISRAELE  Teheran potrebbe mirare anche a Usa",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1712394006.617842,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "WASHINGTON TEME ATTACCO IRAN at ISRAELE Tehran could also aim at Usa",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "WASHINGTON",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "TEME",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ATTACCO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "IRAN",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Tehran",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Usa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "WASHINGTON",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ISRAELE Tehran",
+                "start_char": 32,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Usa",
+                "start_char": 65,
+                "end_char": 68,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PARIGI,15ENNE UCCISO DAL BRANCO:1 FERMO Macron: \"Fermare violenze a scuola\"",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Parigi,15enne ucciso dal branco:1 fermo Un ragazzo di 17 anni è stato arrestato per l'omicidio di Shamseddine, 15enne morto dopo un pestaggio all'uscita di scuola nella banlieue di Parigi.  Lo studente rincasava dopo la lezione di musica ed è stato preso di mira da alcuni individui incappucciati. Ignoto il movente.      Sulla vicenda è intervenuto il presidente Macron: \"Saremo inflessibili,  proteggeremo la scuola da questa violenza senza freni\".    ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1712394006.6203625,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "_ \"To make violence at school\"",
+        "en_content": "Paris,15-year-old killed by the pack:1 stop A 17-year-old boy was arrested for the murder of Shamseddine, 15-year-old dead after a beating at the school exit in the Paris banlieue. The student returned after the music lesson and was targeted by some hooded individuals. Ignored motive. President Macron intervened on the matter: \"We will be inflexible, we will protect the school from this violence without brakes.\"",
+        "concepts": [
+            {
+                "word": "violence",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Paris,15-year-old",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "17-year-old",
+                "start_char": 46,
+                "end_char": 57,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Shamseddine",
+                "start_char": 93,
+                "end_char": 104,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "15-year-old",
+                "start_char": 106,
+                "end_char": 117,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Paris",
+                "start_char": 165,
+                "end_char": 170,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Macron",
+                "start_char": 296,
+                "end_char": 302,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "WASHINGTON TEME ATTACCO IRAN A ISRAELE  Teheran potrebbe mirare anche a Usa",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Allerta Usa, si teme attacco a Israele \"Gli Stati Uniti sono in stato di massima allerta e si stanno preparando attivamente per un attacco significativo entro la prossima settimana da parte dell'Iran in risposta all'attacco israeliano di lunedì a Damasco,che ha ucciso alti comandanti iraniani\". Così alla Cnn un alto funzionario statunitense. Alti funzionari Usa ritengono che l'attacco sia\"inevitabile\",e potrebbe mirare a obiettivi sia isreliani,sia americani. Un attacco diretto contro Israele è lo scenario che più preoccupa perché si rischierebbe una rapida escalation. ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1712394006.62681,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "WASHINGTON TEME ATTACCO IRAN at ISRAELE Tehran could also aim at Usa",
+        "en_content": "U.S. alert, we fear attack on Israel \"The United States is in a state of utmost alert and are actively preparing for a significant attack by Iran next week in response to the Israeli attack on Monday in Damascus, which killed Iranian high commanders.\" So at Cnn a senior U.S. official. High officials They believe that the attack is \"invitable\", and could aim at both isrelian and American goals. A direct attack on Israel is the most worrying scenario because it would risk a rapid escalation.",
+        "concepts": [
+            {
+                "word": "WASHINGTON",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "TEME",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ATTACCO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "IRAN",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Tehran",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Usa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "WASHINGTON",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ISRAELE Tehran",
+                "start_char": 32,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Usa",
+                "start_char": 65,
+                "end_char": 68,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "U.S.",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 30,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The United States",
+                "start_char": 38,
+                "end_char": 55,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 141,
+                "end_char": 145,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "next week",
+                "start_char": 146,
+                "end_char": 155,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 175,
+                "end_char": 182,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Monday",
+                "start_char": 193,
+                "end_char": 199,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Damascus",
+                "start_char": 203,
+                "end_char": 211,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 226,
+                "end_char": 233,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 258,
+                "end_char": 261,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "U.S.",
+                "start_char": 271,
+                "end_char": 275,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 381,
+                "end_char": 389,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 416,
+                "end_char": 422,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Hezbollah:raid Damasco,Iran reagirà",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Hezbollah: Iran reagirà a raid Israele \"L'Iran risponderà senza dubbio all'attacco israeliano contro il consolato iraniano a Damasco\". Così il leader  degli Hezbollah libanesi Nasrallah,in un discorso alla tv.    \"Solo Khamenei può decidere come,quando e dove ci sarà la risposta dell'Iran a Israele\", ha aggiunto. \"L'attacco al consolato costituisce una svolta nella guerra in corso e la regione è entrata in una nuova fase\". Il fronte del Sud del Libano contro Israele rimane aperto \"per sostenere la resistenza a Gaza\", afferma Nasrallah.    ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1712394006.7392898,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "Hezbollah:raid Damascus, Iran will react",
+        "en_content": "Hezbollah: Iran will respond to Israel's raid \"Iran will undoubtedly respond to the Israeli attack against the Iranian consulate in Damascus.\" So the leader of the Lebanese Hezbollah Nasrallah, in a speech to TV. \"Only Khamenei can decide how,when and where there will be the response of Iran to Israel,\" he added. \"The attack on the consulate is a turning point in the ongoing war and the region has entered a new phase\". The southern front of Lebanon against Israel remains open \"to support resistance to Gaza\", says Nasrallah.",
+        "concepts": [
+            {
+                "word": "Hezbollah",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "raid",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Damascus",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Iran",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hezbollah",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Damascus",
+                "start_char": 15,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 25,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hezbollah",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iran",
+                "start_char": 11,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 32,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 47,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 84,
+                "end_char": 91,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 111,
+                "end_char": 118,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Damascus",
+                "start_char": 132,
+                "end_char": 140,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 164,
+                "end_char": 172,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Nasrallah",
+                "start_char": 183,
+                "end_char": 192,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Khamenei",
+                "start_char": 219,
+                "end_char": 227,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Iran",
+                "start_char": 288,
+                "end_char": 292,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 296,
+                "end_char": 302,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 445,
+                "end_char": 452,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 461,
+                "end_char": 467,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 507,
+                "end_char": 511,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nasrallah",
+                "start_char": 519,
+                "end_char": 528,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "GP GIAPPONE, LA POLE E' DI VERSTAPPEN  La Ferrari di Sainz parte quarta",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=260",
+        "content": "",
+        "ranked": 7,
+        "placed": "First_Page",
+        "epoch": 1712394006.7416985,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "GP GIAPPONE, LA POLE IS OF VERSTAPPEN Sainz Ferrari part 4",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "GP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GIAPPONE",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "POLE",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "VERSTAPPEN",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sainz",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ferrari",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "part",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "GP GIAPPONE",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "LA",
+                "start_char": 13,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ferrari",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "4",
+                "start_char": 57,
+                "end_char": 58,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "15 ANNI FA IL TERREMOTO DELL'AQUILA   Il ricordo delle 309 vittime",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712394006.743428,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-06 11:00:06",
+        "filename": "ner_conc_en_2024-04-06T11.00.05E1712401205.398323.json",
+        "en_title": "15 YEARS DO THE THREE OF AQUILA The memory of the 309 victims",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "YEARS",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "AQUILA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "memory",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "victims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "15 YEARS",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "THREE",
+                "start_char": 16,
+                "end_char": 21,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "309",
+                "start_char": 50,
+                "end_char": 53,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]

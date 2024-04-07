@@ -1,0 +1,516 @@
+[
+    {
+        "title": "Slowakei wählt neues Staatsoberhaupt",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "0",
+        "epoch": 1712431815.6612263,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "Slovakia chooses new Head of State",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Slovakia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Head",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "State",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Slovakia",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "State",
+                "start_char": 29,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Zehntausende demonstrieren gegen Ministerpräsident Orban in Ungarn",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "1",
+        "epoch": 1712431815.6616821,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "Tens of thousands demonstrate against Prime Minister Orban in Hungary",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Tens",
+                "meaning": "quantmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "thousands",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Prime",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Orban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Hungary",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Tens of thousands",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Orban",
+                "start_char": 53,
+                "end_char": 58,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 62,
+                "end_char": 69,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Erneut verlieren Menschen ihr Leben nach russischen Luftangriffen auf die Ukraine",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "2",
+        "epoch": 1712431815.6620543,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "Again, people lose their lives after Russian air raids on Ukraine",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lives",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "raids",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russian",
+                "start_char": 37,
+                "end_char": 44,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Israelische Armee hat weitere Geisel tot im Gazastreifen geborgen",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "3",
+        "epoch": 1712431815.6624076,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "Israeli army has secured other hostages dead in the Gaza Strip",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "army",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hostages",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Strip",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 48,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Polizeiliche Kriminalstatistik registrierte im vergangenen Jahr fast sechs Millionen Straftaten",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "4",
+        "epoch": 1712431815.6627436,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "Police criminal statistics recorded nearly six million crimes last year",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Police",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "statistics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crimes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "nearly six million",
+                "start_char": 36,
+                "end_char": 54,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "last year",
+                "start_char": 62,
+                "end_char": 71,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Brandanschlag auf eine Synagoge im niedersächsischen Oldenburg löst bundesweit Empörung aus",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "5",
+        "epoch": 1712431815.6630738,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "Brand attack on a synagogue in Oldenburg in Lower Saxony triggers outrage nationwide",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Brand",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "synagogue",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Oldenburg",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lower",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Saxony",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "outrage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Oldenburg",
+                "start_char": 31,
+                "end_char": 40,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lower Saxony",
+                "start_char": 44,
+                "end_char": 56,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "Deutschland erlebt ungewöhnlich warmes April-Wochenende",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "6",
+        "epoch": 1712431815.6634412,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "Germany experienced unusually warm April weekend",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "April",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weekend",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Germany",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April weekend",
+                "start_char": 35,
+                "end_char": 48,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Die Fußball-Bundesliga",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "7",
+        "epoch": 1712431815.6637743,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "The Football Bundesliga",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Football",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bundesliga",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Die Lottozahlen",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "8",
+        "epoch": 1712431815.6640868,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "The lottery numbers",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "lottery",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "numbers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Das Wetter",
+        "date_raw": "April 06, 2024",
+        "date": "2024-04-06",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64060.html",
+        "content": "",
+        "ranked": "9",
+        "epoch": 1712431815.6643937,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-06",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-06 21:30:15",
+        "filename": "ner_conc_en_2024-04-06.json",
+        "en_title": "The weather",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]
