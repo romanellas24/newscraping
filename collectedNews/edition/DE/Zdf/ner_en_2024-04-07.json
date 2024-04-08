@@ -1,0 +1,158 @@
+[
+    {
+        "title": "Mit folgenden Themen: Erinnerung an Hamas-Überfall vom 07. Oktober",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-07-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-07-april-2024-100.html",
+        "content": "Überfall vom 07. Oktober",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712518206.9261687,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-07 21:30:06",
+        "language": "de",
+        "filename": "ner_conc_en_2024-04-07.json",
+        "en_title": "With the following themes: Remembrance of Hamas' raid from 07. October",
+        "en_content": "Occasion of 7 October",
+        "concepts": [
+            {
+                "word": "themes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Remembrance",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Hamas",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "raid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "October",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "07",
+                "start_char": 59,
+                "end_char": 61,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "October",
+                "start_char": 63,
+                "end_char": 70,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "7 October",
+                "start_char": 12,
+                "end_char": 21,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Ruanda: Gedenken an Beginn des Völkermordes",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-07-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-07-april-2024-100.html",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1712518206.9268346,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-07 21:30:06",
+        "language": "de",
+        "filename": "ner_conc_en_2024-04-07.json",
+        "en_title": "Rwanda: Commemoration of the Genocide",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Rwanda",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Commemoration",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Genocide",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Rwanda",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "weiteren Nachrichten, dem Sport und dem Wetter.",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-07-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-07-april-2024-100.html",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712518206.9274032,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-07 21:30:06",
+        "language": "de",
+        "filename": "ner_conc_en_2024-04-07.json",
+        "en_title": "more news, sport and weather.",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "news",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sport",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weather",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]
