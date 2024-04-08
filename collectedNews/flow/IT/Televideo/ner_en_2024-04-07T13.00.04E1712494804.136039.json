@@ -1,0 +1,2090 @@
+[
+    {
+        "title": "Leader Pd: \"Conte aiuta la destra\"",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Schlein a Bari: \"Conte aiuta la destra\" \"E' una sberla per tutta la gente perbene che si stava preparando ad andare a votare\".     Lo dice a Bari la segretaria Pd, Elly Schlein, riferendosi alla scelta di  Conte di chiamarsi fuori dalle primarie per le elezioni comunali.   \"Così aiutano la destra\", aggiunge.  \"Sulla legalità non accettiamo lezioni di moralità da nessuno\".   ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1712487604.5771239,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "Leader Pd: \"Conte helps the right\"",
+        "en_content": "Schlein in Bari: \"Conte helps the right\" \"It's a sberla for all the decent people who were preparing to go vote.\" He says in Bari the secretary Pd, Elly Schlein, referring to the choice of Count to call himself out of the primary for municipal elections. \"So help the right,\" he adds. \"On legality we do not accept morality lessons from anyone.\"",
+        "concepts": [
+            {
+                "word": "Leader",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pd",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Conte",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "right",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 11,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 125,
+                "end_char": 129,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 148,
+                "end_char": 160,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "ISRAELE, KATZ A ROMA INCONTRA MINISTRI  Sarà accompagnato da familiari ostaggi  Previsto tavolo \"Food for Gaza\"",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Israele, Katz a Roma incontra ministri Visita diplomatica del ministro degli Esteri israeliano Katz a Roma.  Katz sarà accompagnato da familiari degli ostaggi e incontrerà il vicepremier e suo omologo Tajani, il vicepremier Salvini, il ministro della Difesa Crosetto, il ministro dell'Interno Piantedosi, esponenti della Comunità Ebraica. \"Gli incontri si concentreranno sugli sforzi per il rilascio degli ostaggi e per preservare la legittimità internazionale per la continuazione della guerra a Gaza\",fa sapere il ministero. Nel pomeriggio tavolo \"Food for Gaza\". ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1712487604.6044588,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "_ He will be accompanied by family hostages Expected table \"Food for Gaza\"",
+        "en_content": "Israel, Katz in Rome meets ministers Diplomatic visit of Israeli foreign minister Katz in Rome. Katz will be accompanied by relatives of the hostages and will meet the vice-premier and his counterpart Tajani, the vice-premier Salvini, the Minister of Defense Crosetto, the Minister of Interior Piantedosi, members of the Jewish Community. \"The meetings will focus on efforts to release hostages and to preserve international legitimacy for the continuation of the war in Gaza,\" says the ministry. In the afternoon table \"Food for Gaza\".",
+        "concepts": [
+            {
+                "word": "family",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hostages",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "table",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Food",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Food for Gaza",
+                "start_char": 60,
+                "end_char": 73,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Katz",
+                "start_char": 8,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rome",
+                "start_char": 16,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 57,
+                "end_char": 64,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Katz",
+                "start_char": 82,
+                "end_char": 86,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rome",
+                "start_char": 90,
+                "end_char": 94,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Katz",
+                "start_char": 96,
+                "end_char": 100,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 201,
+                "end_char": 207,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Salvini",
+                "start_char": 226,
+                "end_char": 233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Jewish Community",
+                "start_char": 317,
+                "end_char": 337,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 471,
+                "end_char": 475,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 500,
+                "end_char": 513,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Food for Gaza",
+                "start_char": 521,
+                "end_char": 534,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 4,
+        "placed": "Economics",
+        "epoch": 1712487604.6346931,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "ISTAT:CALANO RISPARMI E POTERE ACQUISTO Imposte famiglie in aumento,+24 mld",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": " Istat: -0,5% potere d'acquisto famiglie Nel 2023 il reddito disponibile delle famiglie è aumentato del 4,7% ma,a causa dell'inflazione, il loro potere di acquisto si è ridotto dello 0,5%. Lo rileva l'Istat.     Cresce del 6,5% la spesa per consumi finali e cala la propensione al risparmi, dal 7,8% del 2022 al 6,3%, toccando il minimo dal 1995. Le imposte pagate dalle famiglie segnano +24,6 mld,con l' Irpef cresciuta del 10,2%.   Nel 2023, aiuti alle imprese da Italia Ue per 55,2 miliardi.   ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1712487604.6439774,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "ISTAT:CALANO RISPARMI e POTERE ACQUISTO Intensive families,+24 mld",
+        "en_content": "Istat: -0.5% household purchasing power In 2023 household disposable income increased by 4.7% but, due to inflation, their purchasing power reduced by 0.5%. It's Istat. Expenditure for final consumption grew by 6.5% and the propensity for savings fell from 7.8% of 2022 to 6.3%, touching the minimum since 1995. Taxes paid by households mark +24.6 mld, with Irpef raised by 10.2%. In 2023, aid to enterprises from Italy EU for 55.2 billion.",
+        "concepts": [
+            {
+                "word": "ISTAT",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CALANO",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "RISPARMI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "e",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "POTERE",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ACQUISTO",
+                "meaning": "punct",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mld",
+                "meaning": "dobj",
+                "pos": "ADJ"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ISTAT",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Istat",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2023",
+                "start_char": 43,
+                "end_char": 47,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "4.7%",
+                "start_char": 89,
+                "end_char": 93,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "0.5%",
+                "start_char": 151,
+                "end_char": 155,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Istat",
+                "start_char": 162,
+                "end_char": 167,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "6.5%",
+                "start_char": 211,
+                "end_char": 215,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "7.8%",
+                "start_char": 257,
+                "end_char": 261,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2022",
+                "start_char": 265,
+                "end_char": 269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "6.3%",
+                "start_char": 273,
+                "end_char": 277,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "1995",
+                "start_char": 306,
+                "end_char": 310,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Taxes",
+                "start_char": 312,
+                "end_char": 317,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Irpef",
+                "start_char": 358,
+                "end_char": 363,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "10.2%",
+                "start_char": 374,
+                "end_char": 379,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2023",
+                "start_char": 384,
+                "end_char": 388,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy EU",
+                "start_char": 414,
+                "end_char": 422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "55.2 billion",
+                "start_char": 427,
+                "end_char": 439,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ]
+    },
+    {
+        "title": "BANKITALIA CONFERMA IL PIL A +0,6%    Inflazione attesa in calo, all'1,3%",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=134",
+        "content": " Bankitalia conferma il Pil a +0,6% La Banca d'Italia conferma le sue previsioni di gennaio lasciando invariata la stima di una crescita dello 0,6% del Pil per il 2024, mentre per il prossimo anno prevede una crescita dell'1% che dovrebbe proseguire nel 2026 con un + 1,2%.       La tenue ripresa sarebbe dovuta alla crescita della domanda estera e a un maggiore potere d'acquisto delle famiglie. L'inflazione dovrebbe segnare un netto calo nel 2024 scendendo all'1,3%, contro l'1,9 della previsione di dicembre. Le retribuzioni crescono del 3,5%.",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1712487604.6502197,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "BANKITALIA CONFERENCE GDP A +0.6% Inflation expected in decrease, to 1.3%",
+        "en_content": "Bankitalia confirms GDP to +0.6% The Bank of Italy confirms its forecasts of January leaving unchanged the estimate of a growth of 0.6% of GDP for 2024, while for the next year previews an increase of 1% that should continue in 2026 with a + 1.2%. The slight recovery would be due to the growth of foreign demand and increased purchasing power of households. Inflation should mark a sharp decline in 2024, down to 1.3%, against 1.9 December forecast. Payouts grow by 3.5%.",
+        "concepts": [
+            {
+                "word": "BANKITALIA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CONFERENCE",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "GDP",
+                "meaning": "compound",
+                "pos": "DET"
+            },
+            {
+                "word": "+0.6",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Inflation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decrease",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "1.3%",
+                "start_char": 69,
+                "end_char": 73,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bankitalia",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Bank of Italy",
+                "start_char": 33,
+                "end_char": 50,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "January",
+                "start_char": 77,
+                "end_char": 84,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "0.6%",
+                "start_char": 131,
+                "end_char": 135,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2024",
+                "start_char": 147,
+                "end_char": 151,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the next year",
+                "start_char": 163,
+                "end_char": 176,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1%",
+                "start_char": 201,
+                "end_char": 203,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2026",
+                "start_char": 228,
+                "end_char": 232,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2024",
+                "start_char": 400,
+                "end_char": 404,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.3%",
+                "start_char": 414,
+                "end_char": 418,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "December",
+                "start_char": 432,
+                "end_char": 440,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3.5%",
+                "start_char": 467,
+                "end_char": 471,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "MEDIA:ISRAELE RITIRA TRUPPE DA GAZA SUD Sei mesi fa attacco di Hamas, 7 ottobre Onu:\"Niente giustifica tale orrore\"",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712487604.6581426,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "MEDIA: ISRAELE RITIRA TRUPPE DA GAZA SUD Six months ago Hamas attack, 7 October Onu: \"Nothing justifies this horror\"",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "MEDIA",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RITIRA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "TRUPPE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GAZA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SUD",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "months",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "Hamas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "October",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Onu",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "horror",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Six months ago",
+                "start_char": 41,
+                "end_char": 55,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 56,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7 October Onu",
+                "start_char": 70,
+                "end_char": 83,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "CONTE: \"LEGALITA' NON E' NEGOZIABILE\"  \"Da Pd via cacicchi e capibastone\"",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Bari,Conte:legalità non è negoziabile \"Se volesse mantener fede all'impegno preso a marzo 2023 quando fu acclamata segretario del partito democratico al grido di 'libererò il partito democratico da 'capibastone' e 'cacicchi',troverebbe in me il più grande partner\" Così il leader M5s Conte replica alla critica di Elly Schlein sul fatto che i pentastellati non faranno più le primarie con il Pd a Bari.\"Non è vero che non ho avvisato Schlein prima dell'annuncio-spiega-Ci sono stato al telefono 20 minuti.Nessun ultimatum\".M5s favorisce la destra? \"Ragionamento malato\".E: \"Legalità,trasparenza non negoziabili\" ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1712487604.6645036,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "_",
+        "en_content": "Bari,Conte:legality is not negotiable \"If he wanted to keep faith in the commitment made in March 2023 when he was acclaimed secretary of the democratic party at the cry of 'I will free the democratic party from 'capibastone' and 'cacicchi', he would find in me the greatest partner\" So the leader M5s Conte replies to the criticism of Elly Schlein about the fact that pentastellati will no longer make the primary with the Pd in Bari.\"It is not true that I did not warn Schlein before the announcement-explained-I was on the phone 20 minutes. No ultimatums.\" M5s favors the right? \"Sickness.\" E: \"Freedom, non-negotiable transparency\"",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Conte",
+                "start_char": 5,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "March 2023",
+                "start_char": 92,
+                "end_char": 102,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the democratic party",
+                "start_char": 138,
+                "end_char": 158,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "M5s Conte",
+                "start_char": 298,
+                "end_char": 307,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 336,
+                "end_char": 348,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "pentastellati",
+                "start_char": 369,
+                "end_char": 382,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bari",
+                "start_char": 430,
+                "end_char": 434,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 471,
+                "end_char": 478,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "20 minutes",
+                "start_char": 532,
+                "end_char": 542,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Sickness",
+                "start_char": 583,
+                "end_char": 591,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "SALVINI: PIANO SALVA-CASA NON E'CONDONO \"Penso sarà un guadagno per tutti\"",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": " Salvini: piano salva-casa non è condono \"Sulla casa stiamo lavorando non per condonare abusi esterni, ma per aiutare milioni di famiglie che non riescono a comprare o a vendere casa loro\". Così il ministro delle Infrastrutture Salvini sul piano salva-casa, annunciato nei giorni scorsi e che sia Meloni che Tajani avevano detto di non conoscere. \"Appena il testo sarà definito verrà presentato a tutti.Sarà un guadagno per tutti\",aggiunge.\"E' un problema che sta bloccando gli uffici comunali. Va regolarizzato, ovviamente non riguarda zone sismiche,archeologiche,ville abusive\". ",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1712487604.6748343,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "\"I think it will be a gain for all\"",
+        "en_content": "Salvini: safe-house plan is not condone \"On the house we are working not to condon external abuse, but to help millions of families who fail to buy or sell their home\". So the minister of the Salvini Infrastructures on the saving-home plan, announced in recent days and that both Meloni and Tajani had said not to know. \"Just the text will be defined will be presented to all. \"It's a problem that's blocking municipal offices. It should be regularized, obviously it does not concern seismic, archaeological, abusive.\"",
+        "concepts": [
+            {
+                "word": "gain",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "millions",
+                "start_char": 111,
+                "end_char": 119,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Salvini Infrastructures",
+                "start_char": 188,
+                "end_char": 215,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent days",
+                "start_char": 254,
+                "end_char": 265,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 280,
+                "end_char": 286,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 291,
+                "end_char": 297,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "DONNE, MENO OCCUPATE CON 3 FIGLI MA...  Dipende dal livello di istruzione",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Donne, meno occupate con 3 figli ma... In Italia tra i 25 e i 54 anni lavora il 62% delle donne ma la percentuale sale al 64,7% per le donne senza figli e crolla al 40,9% per quelle con 3 o più figli.Emerge dai dati Eurostat sull'occupazione femminile in base al numero di figli e istruzioni, nel 2022. Incide molto il livello di studio.Con 3 o più figli,infatti, lavora il 77,6% di donne laureate e il 21,3% di quelle con la terza media. Con figli di età inferiore ai 6 anni, è occupato il 16,7% delle donne con istruzione media inferiore e il 73,3% di quelle laureate. ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1712487604.6935952,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "WOMEN, MENO OCCUPATES WITH 3 FIGLI MA... Depends on the level of education",
+        "en_content": "Women, less busy with 3 children but... In Italy between 25 and 54 years, 62% of women work, but the percentage rises to 64.7% for women without children and falls to 40.9% for those with 3 or more children. It emerges from Eurostat data on female employment based on the number of children and instructions, in 2022. It affects the level of study. With 3 or more children, in fact, she works 77.6% of graduate women and 21.3% of those with the third average. With children under the age of 6, 16.7% of women with lower average education and 73.3% of those graduates are employed.",
+        "concepts": [
+            {
+                "word": "WOMEN",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MENO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "OCCUPATES",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "level",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "education",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "3",
+                "start_char": 27,
+                "end_char": 28,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "3",
+                "start_char": 22,
+                "end_char": 23,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 43,
+                "end_char": 48,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "between 25 and 54 years",
+                "start_char": 49,
+                "end_char": 72,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "62%",
+                "start_char": 74,
+                "end_char": 77,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "64.7%",
+                "start_char": 121,
+                "end_char": 126,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "40.9%",
+                "start_char": 167,
+                "end_char": 172,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "3",
+                "start_char": 188,
+                "end_char": 189,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Eurostat",
+                "start_char": 224,
+                "end_char": 232,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2022",
+                "start_char": 312,
+                "end_char": 316,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3",
+                "start_char": 354,
+                "end_char": 355,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "77.6%",
+                "start_char": 393,
+                "end_char": 398,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "21.3%",
+                "start_char": 421,
+                "end_char": 426,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "third",
+                "start_char": 445,
+                "end_char": 450,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the age of 6",
+                "start_char": 480,
+                "end_char": 492,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16.7%",
+                "start_char": 494,
+                "end_char": 499,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "73.3%",
+                "start_char": 542,
+                "end_char": 547,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "LANDINI: STOP LAVORO POVERO E PRECARIO  \"Governo non convochi tavoli finti\"",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Landini: stop lavoro povero e precario \"Vogliamo abolire quelle leggi balorde che hanno reso povero e precario il lavoro e la vita delle persone\". Così il segretario della Cgil, Landini, alla Stampa, parlando della campagna per i referendum. \"La precarietà è una perdita di libertà per chi lavora\", afferma. Meloni smetta \"di fare incontri finti o di voler decidere di confrontarsi con chi le fa comodo.E' da un anno che contestiamo la delega fiscale\". Serve \"una vera progressività su tutta la capacità contributiva, tassare gli extraprofitti delle imprese e le rendite finanziarie\"",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1712487604.7038987,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "LANDS: WORK POVERAGE AND PRECARO \"Governo non convoking fake tables\"",
+        "en_content": "Landini: stop poor and precarious work \"We want to abolish those balorde laws that made poor and precarious the work and life of people\". So the secretary of the Cgil, Landini, the Press, talking about the campaign for referendums. \"Precariousness is a loss of freedom for those who work,\" he says. Meloni quit \"to do fake meetings or to want to decide to confront who is convenient. We've been contesting the tax delegation for a year.\" It serves \"a real progressivist on all the contribution capacity, tax the extra profits of enterprises and financial returns\"",
+        "concepts": [
+            {
+                "word": "LANDS",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "POVERAGE",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Governo",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "non",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tables",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Landini",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "balorde",
+                "start_char": 65,
+                "end_char": 72,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cgil",
+                "start_char": 162,
+                "end_char": 166,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Landini",
+                "start_char": 168,
+                "end_char": 175,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Press",
+                "start_char": 181,
+                "end_char": 186,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a year",
+                "start_char": 429,
+                "end_char": 435,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Derby della capitale, Lazio ko 1-0",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "     ",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1712487604.7606382,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "Derby of the capital, Lazio ko 1-0",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Derby",
+                "meaning": "advcl",
+                "pos": "PROPN"
+            },
+            {
+                "word": "capital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lazio",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ko",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Lazio",
+                "start_char": 22,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1",
+                "start_char": 31,
+                "end_char": 32,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "MEDIA:VIA TRUPPE ISRAELE DA SUD GAZA   Rimasta solo la Brigata Nahal",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Media: via truppe Israele da Gaza Sud L'esercito israeliano ha annunciato di aver ritirato tutte le truppe di terra dal Sud della Striscia di Gaza, dopo circa 4 mesi d'intensi combattimenti. Lo riferiscono i media, precisando che è rimasta sul terreno solo la Brigata Nahal. Il suo compito è di tenere in sicurezza il cosiddetto Corridoio  Netzarim che attraversa la Striscia, lungo la costa dal confine Nord a Sud. Fonti militari riferiscono che finisce così \"la manovra di terra cominciata il 27 ottobre\".Ora l'esercito \"attende una decisione dei vertici politici sulla possibile azione militare a Rafha\". ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1712487604.796011,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "MEDIA:VIA TRUPPE ISRAELE FROM SUD GAZA Only the Nahal Brigade remains",
+        "en_content": "Media: via troops Israel from Gaza South The Israeli army has announced that it has withdrawn all ground troops from the South of the Gaza Strip, after about 4 months of intense fighting. The media report, specifying that only the Nahal Brigade remained on the ground. Its task is to secure the so-called Netzarim Corridor that crosses the Strip, along the coast from the North to the South. Military sources report that this ends \"the land maneuver started on October 27\". Now the army \"waits a decision of political leadership on possible military action in Rafha\".",
+        "concepts": [
+            {
+                "word": "MEDIA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "TRUPPE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "SUD",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GAZA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Nahal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brigade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the Nahal Brigade",
+                "start_char": 44,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 18,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza South",
+                "start_char": 30,
+                "end_char": 40,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 45,
+                "end_char": 52,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "South",
+                "start_char": 121,
+                "end_char": 126,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 130,
+                "end_char": 144,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about 4 months",
+                "start_char": 152,
+                "end_char": 166,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Nahal Brigade",
+                "start_char": 227,
+                "end_char": 244,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Strip",
+                "start_char": 340,
+                "end_char": 345,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "North",
+                "start_char": 372,
+                "end_char": 377,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "South",
+                "start_char": 385,
+                "end_char": 390,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "October 27",
+                "start_char": 461,
+                "end_char": 471,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rafha",
+                "start_char": 560,
+                "end_char": 565,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "F1, VERSTAPPEN VINCE GP DEL GIAPPONE   Davanti a Perez e Sainz, 4° Leclerc",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=260",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1712487604.8136144,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "F1, VERSTAPPEN VINCE GP DEL GIAPPONE In front of Perez and Sainz, 4th Leclerc",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "F1",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VERSTAPPEN",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VINCE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DEL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GIAPPONE",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "front",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Perez",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sainz",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leclerc",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "F1",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "VINCE GP",
+                "start_char": 15,
+                "end_char": 23,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "DEL GIAPPONE",
+                "start_char": 24,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Perez",
+                "start_char": 49,
+                "end_char": 54,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sainz",
+                "start_char": 59,
+                "end_char": 64,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "4th Leclerc",
+                "start_char": 66,
+                "end_char": 77,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Raid israeliani su Libano orientale",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Guterres: nulla giustifica orrore Hamas \"Il 7 ottobre è un giorno di dolore per Israele e per il mondo. Niente può giustificare l'orrore scatenato da Hamas\". E' quanto scrive su X il segretario generale delle Nazioni Unite, Guterres, nella giornata che coincide con i sei mesi dall'attacco di Hamas a Israele. \"Condanno ancora una volta l'uso della violenza sessuale, della tortura e del rapimento di civili e chiedo il rilascio incondizionato di tutti gli ostaggi\", aggiunge il segretario generale. ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1712487604.8222198,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "Israeli raids on eastern Lebanon",
+        "en_content": "Guterres: nothing justifies horror Hamas \"On October 7 is a day of pain for Israel and the world. Nothing can justify the horror triggered by Hamas.\" This is what the UN Secretary-General Guterres writes about X on the day that coincides with the six months from the Hamas attack on Israel. \"They once again condemn the use of sexual violence, torture and the abduction of civilians and ask for the unconditional release of all hostages,\" adds the Secretary-General.",
+        "concepts": [
+            {
+                "word": "raids",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Lebanon",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 25,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 35,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "October 7",
+                "start_char": 45,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israel",
+                "start_char": 76,
+                "end_char": 82,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 142,
+                "end_char": 147,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "UN",
+                "start_char": 167,
+                "end_char": 169,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Guterres",
+                "start_char": 188,
+                "end_char": 196,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the day",
+                "start_char": 215,
+                "end_char": 222,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the six months",
+                "start_char": 243,
+                "end_char": 257,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 267,
+                "end_char": 272,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 283,
+                "end_char": 289,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PROTESTE IN ISRAELE:\"NETANYAHU VATTENE\" 100 mila scesi in piazza a Tel Aviv",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Israele,ancora proteste contro governo Non si fermano le proteste in Israele. In 100mila sono scesi in piazza solo a Tel Aviv per chiedere il rilascio degli ostaggi ancora nelle mani di Hamas,le dimissioni del governo di Netanyahu e nuove elezioni.     Lo riferiscono gli organizzatori della mobilitazione antigovernativa che si è svolta in altre 50 località in tutto Israele, in occasione del sesto mese dagli attacchi del 7 ottobre e l'inizio della guerra a Gaza.    ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1712487604.8291411,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "_",
+        "en_content": "Israel, protests against government Do not stop protests in Israel. In 100 thousand they only went to Tel Aviv to ask for the release of hostages still in the hands of Hamas, the resignation of the Netanyahu government and new elections. The organizers of the anti-government mobilization that took place in 50 other locations throughout Israel, on the occasion of the sixth month of the attacks of October 7 and the beginning of the war in Gaza.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 60,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "100 thousand",
+                "start_char": 71,
+                "end_char": 83,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tel Aviv",
+                "start_char": 102,
+                "end_char": 110,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 168,
+                "end_char": 173,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 198,
+                "end_char": 207,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "50",
+                "start_char": 308,
+                "end_char": 310,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israel",
+                "start_char": 338,
+                "end_char": 344,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the sixth month",
+                "start_char": 365,
+                "end_char": 380,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "October 7",
+                "start_char": 399,
+                "end_char": 408,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 441,
+                "end_char": 445,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "INCIDENTE NEL SALERNITANO, MORTI DUE CC Scontro tra tre auto ad un incrocio",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1712487604.8517232,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "INCIDENT IN SALERNITANO, MORTI DUE CC Meeting between three cars at a crossroads",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "INCIDENT",
+                "meaning": "dep",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SALERNITANO",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MORTI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "DUE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Meeting",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "crossroads",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "SALERNITANO",
+                "start_char": 12,
+                "end_char": 23,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "MORTI DUE CC Meeting",
+                "start_char": 25,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "ISRAELE:PRONTA RISPOSTA A OGNI SCENARIO Dopo annuncio di vendetta da Iran",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Israele:pronta risposta a ogni scenario \"L'apparato della difesa ha completato i preparativi di risposta in caso di qualsiasi scenario che si possa sviluppare con l'Iran\". Lo ha detto il ministro della Difesa israeliano Gallant dopo tutte le valutazioni della situazione in atto     Ieri il capo di Stato maggiore delle Forze armate iraniane, Bagheri, aveva ribadito che \"l'attacco israeliano (alla sede del consolato iraniano a Damasco, ndr) non resterà senza risposta\" e che \"la vendetta dell'Iran è inevitabile\".Bagheri ha inoltre definito l'attacco \"il suicidio del regime sionista\"",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1712487604.8797336,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "_ After announcement of revenge from Iran",
+        "en_content": "Israel: readiness to every scenario \"The defence apparatus has completed response preparations in case of any scenario that can be developed with Iran\". The Israeli Defense Minister Gallant said this after all the evaluations of the situation in effect Yesterday the Chief of Staff of the Iranian Armed Forces, Bagheri, had reiterated that \"the Israeli attack (at the headquarters of the Iranian consulate in Damascus, ndr) will not remain unanswered\" and that \"the revenge of Iran is inevitable\". Bagheri also defined the attack \"the suicide of the Zionist regime\"",
+        "concepts": [
+            {
+                "word": "announcement",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "revenge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Iran",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Iran",
+                "start_char": 37,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 146,
+                "end_char": 150,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 157,
+                "end_char": 164,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gallant",
+                "start_char": 182,
+                "end_char": 189,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yesterday",
+                "start_char": 253,
+                "end_char": 262,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Iranian Armed Forces",
+                "start_char": 285,
+                "end_char": 309,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bagheri",
+                "start_char": 311,
+                "end_char": 318,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 345,
+                "end_char": 352,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 388,
+                "end_char": 395,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Damascus",
+                "start_char": 409,
+                "end_char": 417,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ndr",
+                "start_char": 419,
+                "end_char": 422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iran",
+                "start_char": 477,
+                "end_char": 481,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bagheri",
+                "start_char": 498,
+                "end_char": 505,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Zionist",
+                "start_char": 550,
+                "end_char": 557,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "BUDAPEST, MIGLIAIA IN PIAZZA: VIA ORBAN Scende in campo l'oppositore Magyar",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Ucraina,Zelensky:stiamo finendo missili L'Ucraina potrebbe restare senza missili di difesa aerea. \"Se continuano a colpire ogni giorno come hanno fatto nell'ultimo mese, potremmo rimanere senza missili, e i partner lo sanno\", ha detto in tv il presidente ucraino, Zelensky, ribadendo la richiesta di 25 sistemi di difesa Patriot per difendere tutto il territorio del Paese.  E il ministro della Difesa, Kuleba,lancia l'allarme:i soldati \"vengono attacin modo massiccio e direi anche regolarmente da bombe aeree guidate che  spazzano via le nostre posizioni\".  ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1712487604.9548163,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "_ VIA ORBAN Magyar's opponent goes down",
+        "en_content": "Ukraine,Zelensky: we are finishing missiles Ukraine could stay without air defense missiles. \"If they continue to hit every day as they did in the last month, we could remain without missiles, and partners know it,\" said on TV the Ukrainian president, Zelensky, reaffirming the request of 25 Patriot defense systems to defend the entire territory of the country. And the defense minister, Kuleba, launches the alarm: the soldiers \"come massively attacked and I would also regularly say by guided air bombs that sweep away our positions\".",
+        "concepts": [
+            {
+                "word": "ORBAN",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Magyar",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opponent",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Magyar",
+                "start_char": 12,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 8,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "every day",
+                "start_char": 118,
+                "end_char": 127,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the last month",
+                "start_char": 143,
+                "end_char": 157,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 231,
+                "end_char": 240,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 252,
+                "end_char": 260,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "25",
+                "start_char": 289,
+                "end_char": 291,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kuleba",
+                "start_char": 389,
+                "end_char": 395,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "SEI MESI FA ATTACCO DI HAMAS A ISRAELE  Onu:\"Niente giustifica tale orrore\"",
+        "date_raw": "April 07, 2024",
+        "date": "2024-04-07",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Raid israeliani nel Libano orientale Raid israeliani hanno preso di mira  all'alba il Libano orientale, dove Hezbollah ha una forte presenza. Lo riferisce una fonte vicina al gruppo sostenuto dall'Iran, precisando poi che non sono state segnalate vittime.   I raid sono confermati anche dalle Forze di difesa israeliane,che affermano di aver preso di mira alcuni siti appartenenti all'unità di difesa aerea di Hezbollah a Baalbek,nel nord-est. Gli attacchi arrivano in risposta all'abbattimento da parte di Hezbollah di un drone militare nel Libano meridionale. ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1712487604.963555,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-07 13:00:04",
+        "filename": "ner_conc_en_2024-04-07T13.00.04E1712494804.136039.json",
+        "en_title": "\"Nothing justifies this horror\"",
+        "en_content": "Israeli raids in eastern Lebanon Israeli Raids targeted eastern Lebanon at dawn, where Hezbollah has a strong presence. It refers to a source close to the group supported by Iran, specifying that no victims were reported. The raids are also confirmed by the Israeli Defense Forces, which claim to have targeted some sites belonging to the Hezbollah Air Defense Unit in Baalbek, in the northeast. The attacks come in response to the Hezbollah's defeat of a military drone in southern Lebanon.",
+        "concepts": [
+            {
+                "word": "horror",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 25,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 33,
+                "end_char": 40,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 64,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "dawn",
+                "start_char": 75,
+                "end_char": 79,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Hezbollah",
+                "start_char": 87,
+                "end_char": 96,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iran",
+                "start_char": 174,
+                "end_char": 178,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Israeli Defense Forces",
+                "start_char": 254,
+                "end_char": 280,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Hezbollah Air Defense Unit",
+                "start_char": 335,
+                "end_char": 365,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Baalbek",
+                "start_char": 369,
+                "end_char": 376,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hezbollah",
+                "start_char": 432,
+                "end_char": 441,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 483,
+                "end_char": 490,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]
