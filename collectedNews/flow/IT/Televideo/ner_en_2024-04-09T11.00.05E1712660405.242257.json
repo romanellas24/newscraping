@@ -1,0 +1,1479 @@
+[
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1712653205.8879797,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:05",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "OGGI IL DEF IN CONSIGLIO DEI MINISTRI  In arrivo modifiche tasse e imposte",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Oggi il Def in Consiglio dei ministri Convocato stamane il Consiglio dei ministri che esaminerà il Documento di economia e finanza, nonché il dlgs per la razionalizzazione dell'imposta di registro, dell'imposta sulle successioni e donazioni, dell'imposta di bollo e degli altri tributi indiretti.  Il Def contiene solo dati tendenziali in attesa del nuovo Patto di stabilità Ue, scelta che per le opposizioni serve ad occultare difficoltà nella programmazione di Bilancio.Il ministro dell'Economia, Giorgetti, non prevede una manovra aggiuntiva,ma preoccupa l'impatto del bonus edilizio sull'anno in corso. ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1712653205.9801424,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:05",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "OGGI THE DEF IN COUNCIL OF MINISTERS Incoming changes taxes and taxes",
+        "en_content": "Today the Def in Council of Ministers convened this morning the Council of Ministers which will examine the Economics and Finance Document, as well as the Legislative Decree on the rationalization of the register tax, inheritance tax and donations, stamp tax and other indirect taxes. The Def contains only tensile data waiting for the new EU Stability Pact, a choice that for the oppositions serves to conceal difficulties in budget programming. The Minister of Economy, Giorgetti, does not provide additional manoeuvre, but concerns the impact of the building bonus on the current year.",
+        "concepts": [
+            {
+                "word": "OGGI",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "DEF",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COUNCIL",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MINISTERS",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "changes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taxes",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taxes",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Council of Ministers",
+                "start_char": 17,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "this morning",
+                "start_char": 47,
+                "end_char": 59,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 60,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Economics and Finance Document",
+                "start_char": 104,
+                "end_char": 138,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Legislative Decree",
+                "start_char": 151,
+                "end_char": 173,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 289,
+                "end_char": 292,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "EU Stability Pact",
+                "start_char": 340,
+                "end_char": 357,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgetti",
+                "start_char": 472,
+                "end_char": 481,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the current year",
+                "start_char": 571,
+                "end_char": 587,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "GIORGETTI: NESSUNA MANOVRA CORRETTIVA  \"Rispetteremo gli obiettivi Nadef\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Giorgetti: nessuna manovra correttiva Niente manovra correttiva in arrivo, il Mef rispetterà i target inseriti nella nota di aggiornamento al Def.   Lo ha assicurato il ministro dell'Economia, Giorgetti, alla vigilia del CdM convocato per la mattinata.   C'è bisogno di una manovra correttiva? \"No. Vogliamo rispettare esattamente gli obiettivi della Nadef presentata in autunno per una questione di credibilità. Se c'è qualcosa da correggere la correggeremo ma sostanzialmente siamo in linea\", ha spiegato il ministro. ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1712653205.9921665,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:05",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "_",
+        "en_content": "Giorgetti: no corrective manoeuvre No corrective manoeuvre coming, the Mef will respect the targets inserted in the update note at the Def. The Minister of Economy, Giorgetti, on the eve of the CdM convened for the morning. Need a corrective manoeuvre? \"No. We want to respect exactly the goals of Nadef presented in autumn for a question of credibility. If there is something to correct we will correct but basically we are online\", the minister explained.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Giorgetti",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mef",
+                "start_char": 71,
+                "end_char": 74,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 135,
+                "end_char": 138,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Giorgetti",
+                "start_char": 165,
+                "end_char": 174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the eve",
+                "start_char": 179,
+                "end_char": 186,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "CdM",
+                "start_char": 194,
+                "end_char": 197,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the morning",
+                "start_char": 211,
+                "end_char": 222,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Nadef",
+                "start_char": 298,
+                "end_char": 303,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "autumn",
+                "start_char": 317,
+                "end_char": 323,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "ANTITRUST: APPARECCHI ACUSTICI COSTOSI  \"Offerte commerciali poco trasparenti\"  Prezzi più alti che in altri Paesi\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Apparecchi acustici, Antitrust: costosi L'Antritrust segnala al Parlamento,alle Regioni e Province autonome, nonché ai ministeri della Salute e dell'Economia, criticità sulla trasparenza delle offerte al pubblico e delle forniture del Ssn degli apparecchi acustici.  L'Autorità parla di \"scarsa trasparenza delle condizioni commerciali praticate al pubblico\". Inoltre, rispetto ad altri Paesi, il prezzo medio degli apparecchi in Italia, tra i 1.500 e i 2.100 euro, risulta superiore e con minori sostegni del pubblico per facilitarne l'acquisto.     ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1712653206.0555348,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "ANTITRUST: ACUSTICAL APPARECCHI COSTOSI \"Untransparent trade offers\" Higher prices than in other countries\"",
+        "en_content": "Hearing Aids, Antitrust: The Antritrust reports to the Parliament, the autonomous Regions and Provinces, as well as the Health and Economy ministries, criticality on the transparency of offers to the public and the Ssn supplies of hearing aids. The Authority speaks of \"transparency of commercial conditions practised to the public\". In addition, compared to other countries, the average price of luminaires in Italy, between 1,500 and 2,100 euros, is higher and with smaller supports of the public to facilitate their purchase.",
+        "concepts": [
+            {
+                "word": "ANTITRUST",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ACUSTICAL",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "APPARECCHI",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COSTOSI",
+                "meaning": "nmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "prices",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "countries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ACUSTICAL APPARECCHI COSTOSI",
+                "start_char": 11,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Antritrust",
+                "start_char": 29,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 55,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Regions and Provinces",
+                "start_char": 82,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Health and Economy ministries",
+                "start_char": 116,
+                "end_char": 149,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ssn",
+                "start_char": 215,
+                "end_char": 218,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Authority",
+                "start_char": 249,
+                "end_char": 258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 411,
+                "end_char": 416,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "between 1,500 and 2,100",
+                "start_char": 418,
+                "end_char": 441,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "SERIE A,POSTICIPO UDINESE-INTER 1-2",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "     ",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1712653206.0600843,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "SERIES A,POSTICIO UDINESE-INTER 1-2",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "SERIES",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "A",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "POSTICIO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UDINESE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "INTER",
+                "meaning": "npadvmod",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Stamane Consiglio ministri sul Def",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1712653206.0679562,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "This morning the Council of Ministers on the Def",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "morning",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Council",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ministers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Def",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "This morning",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Council of Ministers on the Def",
+                "start_char": 13,
+                "end_char": 48,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "HAMAS: NO A PROPOSTA ISRAELE DI TREGUA  \"Non soddisfa le nostre richieste\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712653206.0916064,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "HAMAS: NO PROPOSTA ISRAELE DI TREGUA \"Do not meet our requests\"",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "HAMAS",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PROPOSTA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TREGUA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "requests",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "HAMAS",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "GIORGETTI: NESSUNA MANOVRA CORRETTIVA  \"Rispetteremo gli obiettivi Nadef\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712653206.1000206,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "_",
+        "en_content": "",
+        "concepts": []
+    },
+    {
+        "title": "VOTO DI SCAMBIO,ARRESTATO ESPONENTE FDI Ex consigliere comunale di Palermo",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1712653206.1194532,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "_ Former city councillor in Palermo",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "city",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "councillor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Palermo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Palermo",
+                "start_char": 28,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "MARZO E' STATO IL PIU' CALDO DI SEMPRE  Copernicus: nell'ultimo anno +1,68°",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1712653206.1222036,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "MARZO It's been the most important CALDO DI SEMPRE Copernicus: in the last year +1,68°",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "MARZO",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "CALDO",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SEMPRE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Copernicus",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "+1,68",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "°",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the last year +1,68",
+                "start_char": 66,
+                "end_char": 85,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Scambio accuse Mosca-Kiev sui raid",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Zaporizhzhia, scambio accuse Mosca-Kiev Mosca definisce \"una provocazione molto pericolosa\" gli attacchi sulla centrale nucleare di Zaporizhzhia, attribuendone la responsabilità alle forze ucraine. \"I dipendenti dell'Aiea sul posto hanno avuto l'opportunità di assistere a questi attacchi.Una tattica con conseguenze molto negative a lungo termine\",dice il portavoce del Cremlino Peskov.  Kiev respinge le accuse al mittente. La Russia intensifica \"la campagna di provocazioni e falsità.Attacca il sito con i droni, fingendo che la minaccia alla sicurezza nucleare venga dall'Ucraina\".",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1712653206.155736,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "Exchange charges Moscow-Kiev on raids",
+        "en_content": "Zaporizhzhia, exchange accusations Moscow-Kiev Moscow defines \"a very dangerous provocation\" attacks on the nuclear power plant of Zaporizhzhia, giving it responsibility to the Ukrainian forces. \"Aiea employees on site had the opportunity to assist these attacks. A tactic with very negative long-term consequences,\" says Kremlin Peskov's spokesman. Kiev rejects the charges to the sender. Russia intensifies \"the campaign of provocations and falsehood. Attack the site with drones, pretending that the threat to nuclear safety comes from Ukraine.\"",
+        "concepts": [
+            {
+                "word": "Exchange",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Moscow",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kiev",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "raids",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 35,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 47,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 131,
+                "end_char": 143,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 177,
+                "end_char": 186,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kremlin Peskov's",
+                "start_char": 322,
+                "end_char": 338,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 350,
+                "end_char": 354,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 390,
+                "end_char": 396,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 539,
+                "end_char": 546,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "CINA: COOPERAZIONE STRATEGICA CON MOSCA Wang e Lavrov: \"Sostegno reciproco\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Cina:\"cooperazione strategica\"con Mosca \"Pechino e Mosca continueranno a rafforzare la cooperazione strategica sulla scena mondiale e si sosterranno reciprocamente\". Lo ha detto il ministro degli Esteri cinese,Wang Ye,incontrando l'omologo russo Lavrov.    Lavrov ha aggiunto che i due Paesi continueranno la cooperazione nella lotta al terrorismo anche con meccanismi multilaterali. \"Ringrazio la parte cinese per il cordoglio espresso sull'attacco terroristico nella regione di Mosca del 22 marzo\". A sorpresa,e in previsione della visita di Putin in Cina, Lavrov è stato ricevuto anche dal presidente Xi.",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1712653206.1699893,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "CHINA: STRATEGICAL COOPERATION WITH MOSCA Wang and Lavrov: \"Common support\"",
+        "en_content": "China: \"strategic cooperation\" with Moscow \"Pechino and Moscow will continue to strengthen strategic cooperation on the world stage and will support each other\". Chinese Foreign Minister Wang Ye said so, meeting Russian Honour Lavrov. Lavrov added that the two countries will continue cooperation in the fight against terrorism even with multilateral mechanisms. \"I thank the Chinese side for the mourning expressed on the terrorist attack in the Moscow region of 22 March\". Surprisingly, and in anticipation of Putin's visit to China, Lavrov was also received by President Xi.",
+        "concepts": [
+            {
+                "word": "CHINA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COOPERATION",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MOSCA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wang",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lavrov",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "support",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "MOSCA Wang",
+                "start_char": 36,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 51,
+                "end_char": 57,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "China",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 36,
+                "end_char": 42,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pechino",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 56,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 162,
+                "end_char": 169,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Wang Ye",
+                "start_char": 187,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian Honour Lavrov",
+                "start_char": 212,
+                "end_char": 233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 235,
+                "end_char": 241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 257,
+                "end_char": 260,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 376,
+                "end_char": 383,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 447,
+                "end_char": 453,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "22 March",
+                "start_char": 464,
+                "end_char": 472,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Putin",
+                "start_char": 512,
+                "end_char": 517,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "China",
+                "start_char": 529,
+                "end_char": 534,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 536,
+                "end_char": 542,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Xi",
+                "start_char": 574,
+                "end_char": 576,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "ZAPORIZHZHIA, GRAVE RISCHIO NUCLEARE   Aiea:danneggiato involucro reattore",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Zaporizhzhia,Aiea:seri rischi incidenti Gli \"attacchi sconsiderati\" alla centrale nucleare di Zaporizhzhia \"aumentano significativamente il rischio di un grave incidente nucleare e devono cessare immediatamente\": così il direttore Aiea, Grossi. Danneggiato l'involucro di un reattore, \"non compromessa la sicurezza nucleare ma un incidente grave, col potenziale per minare l'integrità del sistema di contenimento\". L'attacco di ieri alla centrale è \"una chiara violazione dei principi fondamentali per la protezione della maggiore centrale nucleare europea\", ha detto Nella notte tre morti nei raid russi. ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1712653206.2001421,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "ZAPORIZHZHIA, GRAVE RESCHIO NUCLEAR Ayea: damaged reactor casing",
+        "en_content": "Zaporizhzhia,Aiea:seri accident risks The \"undesired attacks\" at the nuclear power station of Zaporizhzhia \" significantly increase the risk of a serious nuclear accident and must cease immediately\": So Director Aiea, Grossi. Damaged the envelope of a reactor, \"not compromised nuclear safety but a serious accident, with the potential to undermine the integrity of the containment system\". Yesterday's attack at the station is \"a clear violation of the fundamental principles for the protection of the major European nuclear power plant\", said On the night three deaths in the Russian raids.",
+        "concepts": [
+            {
+                "word": "ZAPORIZHZHIA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GRAVE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RESCHIO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NUCLEAR",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ayea",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "reactor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "casing",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ZAPORIZHZHIA",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "seri",
+                "start_char": 18,
+                "end_char": 22,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 94,
+                "end_char": 106,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aiea",
+                "start_char": 212,
+                "end_char": 216,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Grossi",
+                "start_char": 218,
+                "end_char": 224,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yesterday",
+                "start_char": 391,
+                "end_char": 400,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 509,
+                "end_char": 517,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the night",
+                "start_char": 548,
+                "end_char": 557,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "three",
+                "start_char": 558,
+                "end_char": 563,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 578,
+                "end_char": 585,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "HAMAS: NO A PROPOSTA ISRAELE DI TREGUA  \"Non soddisfa le nostre richieste\"    Netanyahu: c'è una data per Rafah",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Tregua Gaza,Hamas:no a proposta Israele Hamas ha respinto l'ultima proposta di accordo avanzata da Israele, precisando che non soddisfa le richieste avanzate dal gruppo palestinese, che ha ricevuto la proposta tramite mediatori egiziani, qatarioti e americani.   Quest'ultima proposta era stata messa a punto al Cairo alla presenza del direttore della Cia, Burns.Essa includeva il rilascio da parte di Israele di un numero maggiore di detenuti palestinesi in cambio della liberazione di 40  ostaggi nelle mani di Hamas. Intanto il premier israeliano Netanyahu avverte: c'è una data per l'attacco a Rafah. ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1712653206.2964804,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "HAMAS: NO PROPOSTA ISRAELE DI TREGUA \"Do not meet our demands\" Netanyahu: there is a date for Rafah",
+        "en_content": "Gaza truce, Hamas:no to proposal Israel Hamas rejected the last proposal of agreement advanced by Israel, stating that it does not meet the demands advanced by the Palestinian group, which received the proposal through Egyptian, Qatari and American mediators. The latter proposal had been developed in Cairo in the presence of the Director of the CIA, Burns.Essa included Israel's release of a greater number of Palestinian prisoners in exchange for the release of 40 hostages in the hands of Hamas. Meanwhile Israeli premier Netanyahu warns: there is a date for the attack on Rafah.",
+        "concepts": [
+            {
+                "word": "HAMAS",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "PROPOSTA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TREGUA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "demands",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "date",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Rafah",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "HAMAS",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 63,
+                "end_char": 72,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 12,
+                "end_char": 17,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 33,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 40,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 98,
+                "end_char": 104,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 164,
+                "end_char": 175,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Egyptian",
+                "start_char": 219,
+                "end_char": 227,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Qatari",
+                "start_char": 229,
+                "end_char": 235,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "American",
+                "start_char": 240,
+                "end_char": 248,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Cairo",
+                "start_char": 302,
+                "end_char": 307,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "CIA",
+                "start_char": 347,
+                "end_char": 350,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Burns",
+                "start_char": 352,
+                "end_char": 357,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 372,
+                "end_char": 378,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 412,
+                "end_char": 423,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "40",
+                "start_char": 465,
+                "end_char": 467,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 493,
+                "end_char": 498,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 510,
+                "end_char": 517,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 526,
+                "end_char": 535,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 577,
+                "end_char": 582,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "LA TURCHIA LIMITA EXPORT VERSO ISRAELE  Ankara: misura fino a tregua a Gaza",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Turchia limita export verso Israele  La Turchia ha imposto oggi limiti all' export di numerosi beni verso Israele, tra i quali prodotti in ferro e alluminio.      Annunciando la misura, il ministero del Commercio turco spiega: \"Questa decisione resterà in vigore fino a quando Israele non dichiarerà un cessate il fuoco immediato e consentirà l'accesso continuo degli aiuti umanitari a Gaza. Non c'è nessuna scusa perché Israele blocchi i nostri tentativi di paracadutare aiuti sulla Striscia\" (come accaduto ieri, ha denunciato Ankara). ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1712653206.3039036,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "THE TURKEY LIMITA EXPORT VERSO ISRAELE Ankara: measure up to truce in Gaza",
+        "en_content": "Turkey limits export to Israel Turkey has imposed limits on the export of many goods to Israel, including iron and aluminium products. Announcing the measure, the Turkish Ministry of Commerce explains: \"This decision will remain in force until Israel declares an immediate ceasefire and will allow continuous access to humanitarian aid in Gaza. There is no excuse because Israel blocks our attempts to parachute aid on the Strip\" (as happened yesterday, denounced Ankara).",
+        "concepts": [
+            {
+                "word": "TURKEY",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LIMITA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "EXPORT",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VERSO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ankara",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "THE TURKEY LIMITA EXPORT VERSO ISRAELE Ankara",
+                "start_char": 0,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 88,
+                "end_char": 94,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Turkish Ministry of Commerce",
+                "start_char": 159,
+                "end_char": 191,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 244,
+                "end_char": 250,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 339,
+                "end_char": 343,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 372,
+                "end_char": 378,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Strip",
+                "start_char": 423,
+                "end_char": 428,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 443,
+                "end_char": 452,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 464,
+                "end_char": 470,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "S.SEDE:MATERNITA'SURROGATA SIA PROIBITA \"Teoria gender è pericolosissima\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " S.Sede: maternità surrogata sia delitto Posizione della Chiesa contro la maternità surrogata con cui \"il bimbo immensamente degno diventa mero oggetto\". Così l'ex Sant'Uffizio nel documento Dignitas infinita, citando Papa Francesco:\"Ogni vita umana a partire da quella del nascituro nel grembo della madre non può essere soppressa, nè diventare oggetto di mercimonio.Auspico l'impegno della comunità per proibire a livello universale tale pratica\". Si ribadisce il rispetto dei gay,ma si rileva criticità nella teoria del gender \"pericolosissima perché cancella le differenze, nella pretesa di rendere tutti uguali\".",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1712653206.4465635,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 11:00:06",
+        "filename": "ner_conc_en_2024-04-09T11.00.05E1712660405.242257.json",
+        "en_title": "_",
+        "en_content": "S.Sede: surrogate motherhood is delitto Church position against surrogacy with which \"the immensely worthy child becomes mere object\". Thus the ex Sant'Uffizio in the document Dignitas infinite, citing Pope Francis: \"Every human life from that of the birth in the womb of the mother can not be suppressed, nor become object of goodsmonium. I hope the community's commitment to ban this practice universally.\" It reiterates the respect of gays, but it finds criticality in the gender theory \"dangerous because it erases the differences, in the claim to make everyone equal\".",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Dignitas",
+                "start_char": 176,
+                "end_char": 184,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 207,
+                "end_char": 214,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

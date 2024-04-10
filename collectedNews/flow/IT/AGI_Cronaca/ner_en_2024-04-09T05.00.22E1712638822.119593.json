@@ -1,0 +1,2706 @@
+[
+    {
+        "title": "Delitto Yara Gambirasio: il 13 maggio davanti a giudici Bergamo difesa vedrà reperti",
+        "date_raw": "Tue, 09 Apr 2024 00:35:00 GMT",
+        "date": "2024-04-09",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-09/delitto-yara-gambirasio-giudici-bergamo-reperti-25957148/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp;Il 13 maggio i difensori di Massimo Bossetti, condannato all'ergastolo per l'omicidio di Yara Gambirasio, potranno vedere davanti alla Corte d'Assise di Bergamo i reperti dell'inchiesta che portò all'arresto del muratore. La possibilità di vederli ma senza analizzarli, come chiesto invece dalla difesa, era stata sancita dalla Cassazione il 16 febbraio scorso. \n&nbsp; \n\"La Corte Assise - avevano scritto gli 'ermellini' - dovrà consentire alla difesa di Bossetti la ricognizione dei reperti, nei limiti già autorizzati in precedenti provvedimenti, stabilendo contestualmente le opportune cautele idonee a garantirne l'integrità. All'esito della ricognizione, se la difesa avanzerà nuova specifica richiesta, la Corte di assise dovrà valutare la concreta possibilità di nuovi accertamenti tecnici e la loro non manifesta inutilità\". Tra le prove di cui i legali chiedevano nuove analisi c'era anche quella del dna attribuito a Bossetti, ritenuta cruciale dai giudici nei verdetti di condanna in tutti i gradi di giudizio.",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1712631622.6701171,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "Delitto Yara Gambirasio: on May 13 in front of judges Bergamo defense will see finds",
+        "en_content": "AGI -&nbsp;&nbsp; On 13 May, the defenders of Massimo Bossetti, sentenced to life for the murder of Yara Gambirasio, will be able to see in front of the Court of Assisi of Bergamo the findings of the investigation that led to the arrest of the mason. The possibility of seeing them but without analyzing them, as asked by the defence, had been enshrined by Cassation on 16 February.\n&nbsp;\n\"The Court of Assise - they had written the 'ermellini' - will have to allow the defense of Bossetti the reconnaissance of the finds, within the limits already authorized in previous measures, establishing at the same time the appropriate cauteles suitable to guarantee its integrity. If the defence is to be reconnaissance, the Court of Assizes will have to assess the concrete possibility of new technical investigations and their unnecessariness.\" Among the evidence that the lawyers demanded new analysis was also that of the DNA attributed to Bossetti, considered crucial by the judges in verdicts of condemnation in all degrees of judgment.",
+        "concepts": [
+            {
+                "word": "Delitto",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Yara",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gambirasio",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "May",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "front",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judges",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bergamo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "defense",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Delitto Yara Gambirasio",
+                "start_char": 0,
+                "end_char": 23,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "May 13",
+                "start_char": 28,
+                "end_char": 34,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bergamo",
+                "start_char": 54,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "13 May",
+                "start_char": 21,
+                "end_char": 27,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Massimo Bossetti",
+                "start_char": 46,
+                "end_char": 62,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yara Gambirasio",
+                "start_char": 100,
+                "end_char": 115,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Court of Assisi of Bergamo",
+                "start_char": 149,
+                "end_char": 179,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cassation",
+                "start_char": 357,
+                "end_char": 366,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "16 February",
+                "start_char": 370,
+                "end_char": 381,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The Court of Assise",
+                "start_char": 391,
+                "end_char": 410,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Bossetti",
+                "start_char": 482,
+                "end_char": 490,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Court of Assizes",
+                "start_char": 715,
+                "end_char": 735,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bossetti",
+                "start_char": 938,
+                "end_char": 946,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "La lingua italiana in cloud con l'intelligenza artificiale",
+        "date_raw": "Tue, 09 Apr 2024 00:31:00 GMT",
+        "date": "2024-04-09",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-09/editoria-ia-per-analisi-testi-con-piattaforma-talia-cloud-25950789/",
+        "subtitle": "",
+        "content": "AGI - Si chiama Talia.cloud l'innovativa piattaforma editoriale che integra tecnologie IA di linguistica computazionale (Natural Language Processing NLP) già presente nelle nuove soluzioni per l'editoria di ETT S.p.A., industria creativa e digitale, e GruppoMeta, impresa innovatrice nella creazione di soluzioni per la transizione digitale nei settori della formazione, dell'istruzione, dell'editoria scolastica e dei beni culturali. \nTalia.clouD è ideata e sviluppata da Talia, spin off del CNR ILC Istituto di Linguistica Computazionale di Pisa, e da GruppoMeta. La nuova soluzione tecnologica è presentata all'interno di Bologna Children's Book Fair, kermesse internazionale dell'editoria per ragazzi giunta alla sessantunesima edizione, da oggi a BolognaFiere fino all'11 aprile.La piattaforma per il trattamento automatico dei testi Talia.cloud consente l'analisi automatica di enormi quantità di dati testuali: documenti, libri, archivi, articoli scientifici. Permette di gestire l'intero flusso produttivo: l'importazione automatica del catalogo, l'armonizzazione dei dati, la loro annotazione automatica, la gestione, la classificazione delle risorse, il link discovery, l'estrazione e rappresentazione della conoscenza. \nL'AI (Intelligenza Artificiale) è, così, di supporto per l'editore e per gli autori che vengono liberati da attività ripetitive e non-creative. Vengono utilizzate tutte le potenzialità AI nelle sue forme di: natural language processing, understanding, generation. I testi possono, poi, essere arricchiti da immagini, audio, video, essere composti in scene episodiche, simili a serie TV, seguendo la logica narrativa e stilistica voluta dall'autore secondo modelli della letteratura, ad esempio classica (in tre atti), piramidale o contemporanea (modello del viaggio dell'eroe). Ogni pagina di un libro diventa una scena in cui immergersi per un'esperienza di lettura dinamica e coinvolgente su tutti i dispositivi digitali. \nGiovanni Verreschi, amministratore delegato di ETT S.p.A. ha dichiarato: \"La collaborazione tra Talia e GruppoMeta ha permesso al Gruppo Ett di oltrepassare i confini dell'editoria tradizionale, per costruire modelli operativi che coniugano Intelligenza Artificiale con il Trattamento Automatico della Lingua. Far dialogare tecnologia e cultura umanistica ci ha consentito di raggiungere la posizione di main player per il cliente pubblico, istituzionale o privato e per tutte le realtà che hanno bisogno di gestire, conservare, analizzare, catalogare grandi quantità di dati e contenuti non solo testuali - in questo caso rispetto ai nuovi trend dell'editoria, un settore in fase di sviluppo disruptive. In particolare, il ruolo degli editori diventa ancor più importante e centrale date le dinamiche di sviluppo in atto, anche in merito al tema della tutela del diritto d'autore\". \nL'utilizzo dell'Intelligenza Artificiale nell'editoria si declina su diversi fronti. Per esempio, il ricorso all'AI permette la cosiddetta valutazione della complessità linguistica, con l'obiettivo di rendere il testo più leggibile/accessibile, benché complesso. Dall'analisi lessicale e sintattica (readability assessment) viene redatta una relazione, frase per frase, indicando in che misura ciascuna abbia una certa \"leggibilita'\" (rispetto a metriche di leggibilità: base, sintattica, lessicale e leggibilità globale). \nUn testo può quindi avere diversi livelli di intervento per produrre libri curati e favorire un maggior accesso alla lettura e, quindi, migliorare la competitività degli editori. Parallelamente, grazie a Talia.clouD è possibile generare una nuova tipologia di indice dei capitoli di un libro. \nAttraverso l'indice generato dall'AI (indice automatico), la mappa del libro può essere configurata secondo un modello logico, e non forzatamente condizionata dall'approccio della carta stampata in cui il corridoio di lettura è esclusivamente l'ordine delle pagine. Con il digitale si può passare da un nodo concettuale, o da un particolare tema, a un altro o a molti a esso semanticamente vicini. Non più un corridoio rigido, ma una città, in cui l'autore può creare la mappa e il lettore può scegliere la sua strada. \nNello stesso tempo, l'AI ci permette di approfondire quella che in gergo si indica come la \"authorship attribution\", ovvero l'attribuzione a un determinato autore di ogni citazione che compare nel testo. Si può, con Talia.cloud, risalire all'autore originario della citazione senza l'apporto di ricerche filologico-bibliografiche ad hoc, che richiedono ingente investimento di tempo. Grazie all'utilizzo dell'Intelligenza Artificiale, il lettore può immediatamente approfondire, risalendo all'autore originale della citazione e, se incuriosito, acquistare il libro menzionato. \nCiò risponde a due necessità: la corretta e chiara referenziazione dell'autore originale (e verifica che non sia stato alterato) e la possibilità di estendere la lettura ad altri autori e titoli.Un' ulteriore applicazione di Talia.cloud è il campanello di allerta AI: nel cruscotto dell'editore, identifica in via preventiva casi di plagio letterario (plagiarism detection), evitando cause legali una volta che il libro fosse messo in circolazione. \nMa la soluzione sviluppata grazie alla collaborazione con lo spin off eccellenza del CNR di Pisa permette anche di comporre libri, manuali e materiali didattici in un processo semi-automatico e sempre con curatela autoriale (human author in the loop): se l'editore ha pieno possesso dei diritti di un catalogo di libri può, ricorrendo al composer ideato e sviluppato da Talia, \"scomporli\" e \"ricomporli\" in automatico in innumerevoli prodotti/versioni editoriali. \nAd esempio, nel settore editoriale turistico l'editore che si affida all'AI di Talia.cloud potrà creare un titolo completo su una singola regione piuttosto che destrutturare il testo in sottotitoli relativi alle città della medesima o, ancora più nel dettaglio, in titoli di itinerari particolari. I micro-contenuti elementari sono ricomponibili come i mattoncini del Lego in costruzioni sempre diverse. Paolo Ongaro, direttore generale di GruppoMeta, dal canto suo ha sottolineato: \"Talia.cloud è l'esempio di una soluzione tecnologica messa al servizio della cultura nella sua accezione più ampia e del mondo editoriale in particolare. Siamo, infatti, convinti che il prossimo futuro guarda a una costante integrazione tra editoria, AI e AI generativa. Sono gli stessi lettori, d'altra parte, a chiederlo. Gli studenti di oggi, infatti, usano i libri ma anche tool di AI generativa. Puntiamo, dunque, a essere strumenti a disposizione degli editori per gestire o, meglio, guidare questo cambiamento con consapevolezza e professionalità. Anche l'AI può, anzi, deve poter studiare su e imparare da libri e contenuti la cui fonte sia riconosciuta e riconoscibile\".&nbsp;",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1712631622.670153,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "Italian language in the cloud with artificial intelligence",
+        "en_content": "AGI - It is called Talia.cloud the innovative publishing platform that integrates IA technologies of computational linguistics (Natural Language Processing NLP) already present in the new solutions for the publishing of ETT S.p.A., creative and digital industry, and GruppoMeta, an innovative company in the creation of solutions for the digital transition in the fields of education, education, school publishing and cultural goods.\nTalia.clouD is designed and developed by Talia, spin off of the CNR ILC Istituto di Linguistica Computazionale di Pisa, and GruppoMeta. The new technological solution is presented within the Bologna Children's Book Fair, the international festival of publishing for young people, which is now in BolognaFiere until 11 April. The Talia.cloud automatic text processing platform allows automatic analysis of huge amounts of textual data: documents, books, archives, scientific articles. It allows to manage the entire production flow: automatic import of the catalogue, harmonization of data, automatic annotation, management, resource classification, discovery link, extraction and representation of knowledge.\nThe AI (Artificial Intelligence) is, therefore, support for the publisher and authors who are freed from repetitive and non-creative activities. All AI potentials are used in its forms of: natural language processing, understanding, generation. The texts can, then, be enriched by images, audio, video, be composed in episodic scenes, similar to TV series, following the narrative and stylistic logic desired by the author according to models of literature, for example classical (in three acts), pyramidal or contemporary (model of the hero's journey). Each page of a book becomes a scene in which to immerse yourself in a dynamic and engaging reading experience on all digital devices.\nGiovanni Verreschi, CEO of ETT S.p.A. said: \"The collaboration between Talia and GruppoMeta has allowed the Ett Group to cross the boundaries of traditional publishing, to build operational models that combine Artificial Intelligence with Automatic Language Treatment. To communicate technology and humanistic culture has allowed us to reach the position of main player for the public, institutional or private customer and for all the realities that need to manage, store, analyze, catalog large amounts of data and content not only textual - in this case compared to the new trends of publishing, a sector in phase of disruptive development. In particular, the role of publishers becomes even more important and central given the current development dynamics, also on the issue of copyright protection.\"\nThe use of Artificial Intelligence in publishing is on different fronts. For example, the use of AI allows the so-called evaluation of linguistic complexity, with the aim of making the text more readable/accessible, although complex. From lexical and syntactic analysis (readability assessment) a report is drawn up, sentence by sentence, indicating to what extent each has a certain \"readability\" (compared to legibility metrics: base, syntactic, lexical and global readability).\nA text can therefore have different levels of intervention to produce edited books and promote greater access to reading and, therefore, improve the competitiveness of publishers. At the same time, thanks to Talia.clouD it is possible to generate a new type of index of chapters of a book.\nThrough the index generated by the AI (automatic index), the book map can be configured according to a logical model, and not forcedly conditioned by the approach of the printed paper in which the reading corridor is exclusively the order of the pages. With digital you can switch from a conceptual node, or from a particular theme, to another or many to it semantically close. No more a rigid corridor, but a city, where the author can create the map and the reader can choose his way.\nAt the same time, the AI allows us to deepen what in jargon is indicated as the \"authorship attribution\", that is the attribution to a certain author of every quotation that appears in the text. It is possible, with Talia.cloud, to trace back to the original author of the quotation without the contribution of ad hoc philological-bibliographic researches, which require significant investment of time. Thanks to the use of Artificial Intelligence, the reader can immediately deepen, going back to the original author of the quote and, if curious, buy the book mentioned.\nThis answers two needs: the correct and clear reference of the original author (and verify that it was not altered) and the possibility to extend the reading to other authors and titles. An additional application of Talia.cloud is the AI alert doorbell: in the editor's dashboard, it identifies in advance cases of literary plagio (plagiarism detection), avoiding legal causes once the book was put into circulation.\nBut the solution developed thanks to the collaboration with the spin off excellence of the CNR of Pisa also allows to compose books, manuals and teaching materials in a semi-automatic process and always with authorial curation (human author in the loop): if the publisher has full possession of the rights of a catalogue of books can, using the composer conceived and developed by Talia, \"discover them\" and \"remember them\" automatically in countless editorial products/versions.\nFor example, in the editorial field of tourism the publisher who entrusts himself to the AI of Talia.cloud can create a complete title on a single region rather than destructuring the text in subtitles relative to the cities of the same or, even more in detail, in titles of particular itineraries. Elementary micro-contents are available as Lego bricks in different buildings. Paolo Ongaro, General Manager of GruppoMeta, for his part stressed: \"Talia.cloud is the example of a technological solution put at the service of culture in its broadest sense and editorial world in particular. We are, in fact, convinced that the next future looks at a constant integration between publishing, AI and AI generation. They are the same readers, on the other hand, to ask. Today's students, in fact, use books but also AI-generative tools. We aim, therefore, to be tools available to publishers to manage or, better, to guide this change with awareness and professionalism. The AI can, indeed, be able to study and learn from books and contents whose source is recognized and recognizable.\" &nbsp;",
+        "concepts": [
+            {
+                "word": "language",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cloud",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "intelligence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Italian",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "IA",
+                "start_char": 82,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ETT S.p.A.",
+                "start_char": 220,
+                "end_char": 230,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "GruppoMeta",
+                "start_char": 267,
+                "end_char": 277,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Talia.clouD",
+                "start_char": 434,
+                "end_char": 445,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Talia",
+                "start_char": 475,
+                "end_char": 480,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "CNR",
+                "start_char": 498,
+                "end_char": 501,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Linguistica Computazionale",
+                "start_char": 518,
+                "end_char": 544,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "GruppoMeta",
+                "start_char": 558,
+                "end_char": 568,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Bologna Children's Book Fair",
+                "start_char": 621,
+                "end_char": 653,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "BolognaFiere",
+                "start_char": 730,
+                "end_char": 742,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "11 April",
+                "start_char": 749,
+                "end_char": 757,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "AI",
+                "start_char": 1292,
+                "end_char": 1294,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 1627,
+                "end_char": 1632,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Giovanni Verreschi",
+                "start_char": 1831,
+                "end_char": 1849,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ETT S.p.A.",
+                "start_char": 1858,
+                "end_char": 1868,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Talia",
+                "start_char": 1902,
+                "end_char": 1907,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "GruppoMeta",
+                "start_char": 1912,
+                "end_char": 1922,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Ett Group",
+                "start_char": 1935,
+                "end_char": 1948,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Artificial Intelligence with Automatic Language Treatment",
+                "start_char": 2041,
+                "end_char": 2098,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Artificial Intelligence",
+                "start_char": 2648,
+                "end_char": 2671,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AI",
+                "start_char": 2734,
+                "end_char": 2736,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AI",
+                "start_char": 3443,
+                "end_char": 3445,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AI",
+                "start_char": 3917,
+                "end_char": 3919,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "jargon",
+                "start_char": 3948,
+                "end_char": 3954,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Artificial Intelligence",
+                "start_char": 4319,
+                "end_char": 4342,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 4480,
+                "end_char": 4483,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "AI",
+                "start_char": 4702,
+                "end_char": 4704,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "CNR",
+                "start_char": 4975,
+                "end_char": 4978,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pisa",
+                "start_char": 4982,
+                "end_char": 4986,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Talia",
+                "start_char": 5265,
+                "end_char": 5270,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the AI of Talia.cloud",
+                "start_char": 5449,
+                "end_char": 5470,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Elementary",
+                "start_char": 5663,
+                "end_char": 5673,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lego",
+                "start_char": 5706,
+                "end_char": 5710,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Paolo Ongaro",
+                "start_char": 5742,
+                "end_char": 5754,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "GruppoMeta",
+                "start_char": 5775,
+                "end_char": 5785,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AI",
+                "start_char": 6053,
+                "end_char": 6055,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Today",
+                "start_char": 6129,
+                "end_char": 6134,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "AI",
+                "start_char": 6175,
+                "end_char": 6177,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AI",
+                "start_char": 6334,
+                "end_char": 6336,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "VIECCE! La vita nei quartieri di Roma in un podcast  ",
+        "date_raw": "Tue, 09 Apr 2024 00:00:00 GMT",
+        "date": "2024-04-09",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-09/viecce-il-podcast-che-racconta-i-quartieri-di-roma-25952988/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp;\n<span>Roma Capitale lancia “VIECCE! La vita nei quartieri di Roma”, la prima serie podcast dedicata alla vita nei quartieri della città.&nbsp;</span>\n<span>Dall'11 aprile, due episodi settimanali - disponibili sulle principali piattaforme di streaming, tra cui Spotify, Apple Podcasts, Google Podcasts e Amazon Music, e sul sito di Roma Capitale - per un viaggio semiserio tra aneddoti, vicoli, piazze e locali, alla scoperta dei luoghi più amati attraverso la voce di chi a Roma vive, lavora e coltiva il suo talento.&nbsp;&nbsp;</span> \n&nbsp; \nProtagonisti cinque tra i quartieri della Capitale: Monte Sacro, Portuense, Garbatella, Tuscolano e San Giovanni, raccontati rispettivamente da Edoardo Ferrario, Francesco De Carlo, Marta Filippi, Stefano Rapone e Valerio Lundini. Cinque giovani talenti comici si muovono tra le vie dei quartieri in compagnia di Giorgio Maria Daviddi, romano DOC e voce del Trio Medusa, per raccontare, a modo loro, come vivono a Roma e come la città sia una fonte d'ispirazione per il loro lavoro.&nbsp; \n&nbsp; \nPrima puntata giovedì 11 aprile con Edoardo Ferrario e il suo racconto di Monte Sacro tra memoria storica e innovazioni. Lunedì 15 aprile tocca a Francesco De Carlo guidare gli ascoltatori per Portuense, quartiere variopinto dalle diverse anime. Giovedì 18 aprile la voce di Marta Filippi accoglie l'ascoltatore nella sua Garbatella, dove la famiglia vive da generazioni. Quarta puntata lunedì 22 aprile con Stefano Rapone a spasso per le strade del Tuscolano, dove tutto è a portata di mano. Infine, venerdì 26 aprile chiude Valerio Lundini con una passeggiata per San Giovanni, tra ricordi del concertone e aneddoti vissuti. \n&nbsp; \nVIECCE! è un progetto di Roma Capitale, prodotto da MNcomm e da Dopcast, nato per valorizzare la vita nei quartieri di Roma, la loro eterogeneità e il legame che unisce indissolubilmente romane e romani alle zone della città che vivono per nascita o adozione. \n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br> Si può ascoltare, con due nuovi episodi a settimana, cliccando sul multilink https://podcastita.lnk.to/VIECCE e sul sito di Roma Capitale www.comune.roma.it \n&nbsp;&nbsp;",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1712631622.670177,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "VIECCE! Life in the neighborhoods of Rome in a podcast",
+        "en_content": "AGI -&nbsp;&nbsp;\n<span>Roma Capital launches “VIECCE! Life in the districts of Rome”, the first podcast series dedicated to life in the districts of the city.&nbsp;</span>\n<span> From 11 April, two weekly episodes - available on the main streaming platforms, including Spotify, Apple Podcasts, Google Podcasts and Amazon Music, and on the site of Roma Capitale - for a semi-serious journey between anecdotes, alleys, squares and premises, to discover the most loved places through the voice of those who live in Rome, work and cultivate their talent. &nbsp;&nbsp;</span>\n&nbsp;\nFive protagonists among the Capital districts: Monte Sacro, Portuense, Garbatella, Tuscolano and San Giovanni, respectively told by Edoardo Ferrario, Francesco De Carlo, Marta Filippi, Stefano Rapone and Valerio Lundini. Five young comic talents move between the streets of the neighborhoods in the company of Giorgio Maria Daviddi, Roman DOC and voice of the Trio Medusa, to tell, in their own way, how they live in Rome and how the city is a source of inspiration for their work.&nbsp;\n&nbsp;\nFirst episode on Thursday, April 11 with Edoardo Ferrario and his tale of Monte Sacro between historical memory and innovations. On Monday, April 15th, Francesco De Carlo will lead listeners to Portuense, a colourful neighborhood with different souls. On Thursday, 18 April the voice of Marta Filippi welcomes the listener in his Garbatella, where the family has lived for generations. Fourth episode on Monday, April 22 with Stefano Rapone on the streets of Tuscolano, where everything is at hand. Finally, Friday 26 April closes Valerio Lundini with a walk to San Giovanni, between memories of the concert and anecdotes lived.\n&nbsp;\nVIECCE! is a project of Rome Capital, produced by MNcomm and Dopcast, born to value life in the districts of Rome, their heterogeneity and the bond that indissolubly unites Roman and Roman to the areas of the city that live by birth or adoption.\n&nbsp; &nbsp; &nbsp; &nbsp; You can listen, with two new episodes per week, by clicking on the multilink https://podcastita.lnk.to/VIECCE and on the site of Roma Capitale www.comune.roma.it\n&nbsp;&nbsp;",
+        "concepts": [
+            {
+                "word": "VIECCE",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Life",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "neighborhoods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Rome",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "podcast",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "VIECCE",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 37,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Roma Capital",
+                "start_char": 24,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 80,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 91,
+                "end_char": 96,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "11 April",
+                "start_char": 185,
+                "end_char": 193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 195,
+                "end_char": 198,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "weekly",
+                "start_char": 199,
+                "end_char": 205,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Spotify",
+                "start_char": 270,
+                "end_char": 277,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Apple Podcasts",
+                "start_char": 279,
+                "end_char": 293,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Google Podcasts",
+                "start_char": 295,
+                "end_char": 310,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Amazon Music",
+                "start_char": 315,
+                "end_char": 327,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Roma Capitale",
+                "start_char": 348,
+                "end_char": 361,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rome",
+                "start_char": 513,
+                "end_char": 517,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Five",
+                "start_char": 579,
+                "end_char": 583,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Capital",
+                "start_char": 607,
+                "end_char": 614,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Monte Sacro",
+                "start_char": 626,
+                "end_char": 637,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Portuense",
+                "start_char": 639,
+                "end_char": 648,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscolano",
+                "start_char": 662,
+                "end_char": 671,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "San Giovanni",
+                "start_char": 676,
+                "end_char": 688,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Edoardo Ferrario",
+                "start_char": 711,
+                "end_char": 727,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francesco De Carlo",
+                "start_char": 729,
+                "end_char": 747,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marta Filippi",
+                "start_char": 749,
+                "end_char": 762,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Stefano Rapone",
+                "start_char": 764,
+                "end_char": 778,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Valerio Lundini",
+                "start_char": 783,
+                "end_char": 798,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Five",
+                "start_char": 800,
+                "end_char": 804,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Giorgio Maria Daviddi",
+                "start_char": 889,
+                "end_char": 910,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Roman",
+                "start_char": 912,
+                "end_char": 917,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 996,
+                "end_char": 1000,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "First",
+                "start_char": 1074,
+                "end_char": 1079,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Thursday, April 11",
+                "start_char": 1091,
+                "end_char": 1109,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Edoardo Ferrario",
+                "start_char": 1115,
+                "end_char": 1131,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Monte Sacro",
+                "start_char": 1148,
+                "end_char": 1159,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Monday, April 15th",
+                "start_char": 1206,
+                "end_char": 1224,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Francesco De Carlo",
+                "start_char": 1226,
+                "end_char": 1244,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Portuense",
+                "start_char": 1268,
+                "end_char": 1277,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Thursday",
+                "start_char": 1329,
+                "end_char": 1337,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "18 April",
+                "start_char": 1339,
+                "end_char": 1347,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Marta Filippi",
+                "start_char": 1361,
+                "end_char": 1374,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Garbatella",
+                "start_char": 1404,
+                "end_char": 1414,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fourth",
+                "start_char": 1460,
+                "end_char": 1466,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Monday, April 22",
+                "start_char": 1478,
+                "end_char": 1494,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Stefano Rapone",
+                "start_char": 1500,
+                "end_char": 1514,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscolano",
+                "start_char": 1533,
+                "end_char": 1542,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friday 26 April",
+                "start_char": 1582,
+                "end_char": 1597,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Valerio Lundini",
+                "start_char": 1605,
+                "end_char": 1620,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "San Giovanni",
+                "start_char": 1636,
+                "end_char": 1648,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "VIECCE",
+                "start_char": 1710,
+                "end_char": 1716,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome Capital",
+                "start_char": 1734,
+                "end_char": 1746,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "MNcomm",
+                "start_char": 1760,
+                "end_char": 1766,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rome",
+                "start_char": 1819,
+                "end_char": 1823,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Roman",
+                "start_char": 1883,
+                "end_char": 1888,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Roman",
+                "start_char": 1893,
+                "end_char": 1898,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "two",
+                "start_char": 2005,
+                "end_char": 2008,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "per week",
+                "start_char": 2022,
+                "end_char": 2030,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "https://podcastita.lnk.to/VIECCE",
+                "start_char": 2061,
+                "end_char": 2093,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Roma Capitale",
+                "start_char": 2113,
+                "end_char": 2126,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Gli italiani a tavola non gradiscono i prodotti stranieri",
+        "date_raw": "Mon, 08 Apr 2024 23:14:00 GMT",
+        "date": "2024-04-08",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-08/salute-coldiretti-stop-prodotti-alimentari-stranieri-25949570/",
+        "subtitle": "",
+        "content": "AGI - Oltre otto italiani su 10 (83%) chiedono lo stop alle importazioni di prodotti agroalimentari che non rispettano le stesse regole di quelli italiani in materia di sicurezza alimentare, ambientale e di tutela del lavoro. È quanto emerge da un'indagine Coldiretti/Ixè diffusa al Brennero, con diecimila agricoltori, guidati dal presidente nazionale Ettore Prandini, che nei due giorni giungeranno alle frontiere per difendere la salute dei cittadini e il reddito delle aziende dall'invasione di cibo straniero che finisce spesso sulle tavole spacciato come italiano. \nPer l'occasione è stata allestita la tavola del \"fake in Italy\", l'italian sounding di casa nostra, con un vero e proprio menu dal primo al dolce fatto con lasagne alla bolognese, arrosticini abruzzesi, lenticchie umbre tutto di provenienza estera. Con l'avvio della raccolta di firme per una legge europea di iniziativa popolare sull'obbligo di etichettatura dell'origine di tutti i prodotti in commercio. \n<div></div> \n&nbsp; \nColdiretti punta a smascherare il fenomeno degli alimenti importati e camuffati come italiani grazie a minime lavorazioni, rivedendo il criterio dell'ultima trasformazione sostanziale. Ma la raccolta di firme, che potrà essere sostenuta firmando in tutti i mercati contadini di Campagna Amica e negli uffici Coldiretti e \"sarà promossa anche sui social media con l'hashtag #nofakeinitaly, punta anche a mettere finalmente in trasparenza - continua Coldiretti - tutti quei prodotti che sono ancora oggi anonimi e che rappresentano circa un quinto della spesa degli italiani e includono alimenti simbolo a partire dal pane. Su pagnotte e panini non vige, infatti, l'obbligo di indicare l'origine del grano impiegato, come accade per la pasta. E lo stesso vale per tutti i derivati come biscotti, fette biscottate crackers e simili\". \n\"Del tutto anonimi anche i legumi in scatola, magari venduti in confezione con colori o segni che richiamano l'italianita' - rileva Coldiretti - così come le confetture di frutta o di verdura trasformata, come marmellate e sottoli. Niente etichetta d'origine anche per ortaggi e frutta di IV Gamma e noci e pistacchi sgusciati, per i quali dovrebbe pero' aprirsi uno spiraglio dal prossimo anno, ne' per carne di coniglio e di cavallo. Restano inoltre completamente anonime le portate sui menu dei ristoranti\". \n\"Dobbiamo dire basta alla concorrenza sleale, fermare i cibi contraffatti che passano dalle frontiere e dai porti europei - ha dichiarato il presidente della Coldiretti Ettore Prandini - La nostra mobilitazione, in continuità con il lavoro fatto a Bruxelles in questi mesi, prosegue a difesa del reddito degli agricoltori e a salvaguardia della salute dei cittadini\".&nbsp; \n&nbsp;",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1712631622.670197,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "Italians at the table do not like foreign products",
+        "en_content": "AGI - More than eight Italians out of 10 (83%) demand the stop to imports of agri-food products that do not respect the same rules as Italian ones in the matter of food security, environmental and protection of the work. This is what emerges from an investigation Coldiretti/Ixè widespread to Brennero, with ten thousand farmers, led by the national president Ettore Prandini, who in the two days will come to the borders to defend the health of the citizens and the income of the companies from the invasion of foreign food that often ends on the tables spread as Italian.\nFor the occasion the table of the \"fake in Italy\", Italian sounding of our house, with a real menu from the first to the dessert made with lasagna to the Bolognese, arrosticini Abruzzo, lenticchie umbre all of foreign origin. With the start of the collection of signatures for a European law of popular initiative on the obligation to label the origin of all products on the market.\n<div </div\n&nbsp;\nColdiretti aims to expose the phenomenon of imported and camoufled foods as Italians thanks to minimal processing, reviewing the criterion of the last substantial transformation. But the collection of signatures, which can be supported by signing in all the peasant markets of Campagna Amica and in the offices Coldiretti and \"will be promoted also on social media with the hashtag #nofakeinitaly, also aims to finally put in transparency - continues Coldiretti - all those products that are still anonymous and that represent about a fifth of the expenditure of Italians and include food symbol starting from bread. In fact, it is not necessary to indicate the origin of the wheat used, as happens for pasta. And the same goes for all derivatives like biscuits, crackers and the like.\"\n\"From all anonymity also the legumes in box, perhaps sold in a package with colors or signs that recall the Italian ' - notes Coldiretti - as well as the fruit or vegetable jams transformed, like jams and subli. No label of origin also for vegetables and fruits of IV Gamma and nuts and shellfish, for which should open a spire from next year, neither for rabbit and horse meat. The courses on the menus of restaurants are also completely anonymous.\"\n\"We have to say enough to unfair competition, stop counterfeit foods passing through borders and European ports - said the president of Coldiretti Ettore Prandini - Our mobilization, in continuity with the work done in Brussels in these months, continues to defend the income of farmers and to safeguard the health of citizens\". &nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Italians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "table",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "products",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Italians",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italians",
+                "start_char": 22,
+                "end_char": 30,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "10 (83%",
+                "start_char": 38,
+                "end_char": 45,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Italian",
+                "start_char": 134,
+                "end_char": 141,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Coldiretti/Ixè",
+                "start_char": 264,
+                "end_char": 278,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Brennero",
+                "start_char": 293,
+                "end_char": 301,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "ten thousand",
+                "start_char": 308,
+                "end_char": 320,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ettore Prandini",
+                "start_char": 360,
+                "end_char": 375,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the two days",
+                "start_char": 384,
+                "end_char": 396,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 565,
+                "end_char": 572,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 617,
+                "end_char": 622,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 625,
+                "end_char": 632,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "first",
+                "start_char": 682,
+                "end_char": 687,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Bolognese",
+                "start_char": 728,
+                "end_char": 737,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "arrosticini Abruzzo",
+                "start_char": 739,
+                "end_char": 758,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 853,
+                "end_char": 861,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 975,
+                "end_char": 985,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italians",
+                "start_char": 1051,
+                "end_char": 1059,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Amica",
+                "start_char": 1261,
+                "end_char": 1266,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 1286,
+                "end_char": 1296,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "nofakeinitaly",
+                "start_char": 1358,
+                "end_char": 1371,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 1426,
+                "end_char": 1436,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "about a fifth",
+                "start_char": 1502,
+                "end_char": 1515,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italians",
+                "start_char": 1538,
+                "end_char": 1546,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1870,
+                "end_char": 1877,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 1888,
+                "end_char": 1898,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "next year",
+                "start_char": 2095,
+                "end_char": 2104,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 2310,
+                "end_char": 2318,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Coldiretti Ettore Prandini - Our",
+                "start_char": 2349,
+                "end_char": 2381,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Brussels",
+                "start_char": 2432,
+                "end_char": 2440,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "these months",
+                "start_char": 2444,
+                "end_char": 2456,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "\"La teoria gender è pericolosissima\". La Chiesa contro la \"pretesa di rendere tutti uguali\"",
+        "date_raw": "Mon, 08 Apr 2024 17:18:32 GMT",
+        "date": "2024-04-08",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-08/chiesa-pericolosa-la-teoria-gender-tra-violazioni-dignita-25953413/",
+        "subtitle": "",
+        "content": "AGI - Dalla guerra alla povertà, dalla violenza sui migranti a quella sulle donne, dalla tratta agli abusi sessuali, dall'aborto alla maternità surrogata, all'eutanasia e al suicidio assistito, allo scarto dei disabili, dalla teoria del gender al cambio di sesso, alla violenza digitale. È stato pubblicato oggi il documento del Dicastero per la Dottrina della Fede \"Dignitas infinita circa la dignità umana>\". Un testo, come ha sottolineato il prefetto del dicastero, il cardinale Victor Manuel Fernandez che \"non è un vademecum ma vuole in un solo testo riassumere quello che di più importante si è detto sulla dignità umana e organizzarlo attorno a un punto centrale che è la dignità di ogni essere umano al di là di ogni circostanza. Questa è la novità del documento\". \n&nbsp; \n\"Dignitas infinita\" ha richiesto 5 anni di lavoro e include il magistero papale dell'ultimo decennio sulle \"gravi violazioni\" della dignità umana. Nel testo si mette in luce l'equivoco rappresentato dalla posizione di coloro che all'espressione \"dignità umana\" preferiscono \"dignità personale\" e fa memoria del 75esimo anniversario della Dichiarazione universale dei diritti dell'uomo e riafferma \"l'imprescindibilità del concetto di dignità della persona umana all'interno dell'antropologia cristiana\". La dichiarazione presenta quindi l'elenco non esaustivo di \"alcune gravi violazioni della dignità umana\", ossia \"tutto ciò che è contro la vita stessa, come ogni specie di omicidio, il genocidio, l'aborto, l'eutanasia e lo stesso suicidio volontario\"; ma anche \"tutto ciò che viola l'integrità della persona umana, come le mutilazioni, le torture inflitte al corpo e alla mente, le costrizioni psicologiche\". E infine \"tutto ciò che offende la dignità umana, come le condizioni di vita subumana, le incarcerazioni arbitrarie, le deportazioni, la schiavitù, la prostituzione, il mercato delle donne e dei giovani, o ancora le ignominiose condizioni di lavoro, con le quali i lavoratori sono trattati come semplici strumenti di guadagno, e non come persone libere e responsabili\". Si cita pure la pena di morte che \"viola la dignità inalienabile di ogni persona umana al di là di ogni circostanza\".&nbsp;&nbsp;Di seguito alcune gravi violazioni particolarmente attuali, descritte nel documento: \n<h2>Il dramma della povertà</h2> \n\"Una delle più grandi ingiustizie del mondo contemporaneo\", \"l'ingiustizia della cattiva distribuzione dei beni e dei servizi destinati originariamente a tutti\". Nel testo si ricorda che \"non esiste peggiore povertà di quella che priva del lavoro e della dignità del lavoro\". Se alcuni sono nati in un Paese o in una famiglia dove hanno meno possibilità di sviluppo, bisogna riconoscere che ciò è in contrasto con la loro dignità, che è esattamente la stessa di quelli che sono nati in una famiglia o in un Paese ricco. Tutti siamo responsabili, sebbene in diversi gradi, di questa palese iniquità. \n<h2>La guerra</h2> \n\"Un'altra tragedia che nega la dignità umana\". \"Pur riaffermando il diritto inalienabile alla legittima difesa, nonché&nbsp;la responsabilità di proteggere coloro la cui esistenza è minacciata, dobbiamo ammettere che la guerra è sempre una sconfitta dell'umanità\" al punto che \"oggi è molto difficile sostenere i criteri razionali maturati in altri secoli per parlare di una possibile 'guerra giusta\". \"Nessuna guerra vale le lacrime di una madre che ha visto suo figlio mutilato o morto; nessuna guerra vale la perdita della vita, fosse anche di una sola persona umana, essere sacro, creato a immagine e somiglianza del creatore; nessuna guerra vale l'avvelenamento della nostra Casa Comune; e nessuna guerra vale la disperazione di quanti sono costretti a lasciare la loro patria e vengono privati, da un momento all'altro, della loro casa e di tutti i legami familiari, amicali, sociali e culturali che sono stati costruiti, a volte attraverso generazioni\". L'intima relazione che esiste tra fede e dignità umana rende contraddittorio che la guerra sia fondata su convinzioni religiose: \"coloro che invocano il nome di Dio per giustificare il terrorismo, la violenza e la guerra non seguono la via di Dio: la guerra in nome della religione è una guerra contro la religione stessa\". \n<h2>Il travaglio dei migranti</h2> \nSono tra le prime vittime delle molteplici forme di povertà. \"La loro stessa vita è messa a rischio perché&nbsp;non hanno più i mezzi per creare una famiglia, per lavorare o per nutrirsi\". Una volta poi che sono arrivati in Paesi che dovrebbero essere in grado di accoglierli, \"vengono considerati non abbastanza degni di partecipare alla vita sociale come qualsiasi altro, e si dimentica che possiedono la stessa intrinseca dignità di qualunque persona\". \"Non si dirà mai che non sono umani, pero' in pratica, con le decisioni e il modo di trattarli, si manifesta che li si considera di minor valore, meno importanti, meno umani\". \n<h2>La tratta delle persone</h2> \nSta assumendo \"dimensioni tragiche\" e viene definita \"un'attività ignobile, una vergogna per le nostre società che si dicono civilizzate\". Il documento invita \"sfruttatori e clienti\" a fare un serio esame di coscienza. Allo stesso modo si esorta a lottare contro fenomeni quali \"commercio di organi e tessuti umani, sfruttamento sessuale di bambini e bambine, lavoro schiavizzato, compresa la prostituzione, traffico di droghe e di armi, terrorismo e crimine internazionale organizzato\".<br> ABUSI SESSUALI - Ogni abuso sessuale lascia \"profonde cicatrici nel cuore di chi lo subisce\". Si tratta di \"sofferenze che possono durare tutta la vita e a cui nessun pentimento puo' porre rimedio. Tale fenomeno è diffuso nella società, tocca anche la Chiesa e rappresenta un serio ostacolo alla sua missione\". Da qui l'impegno che essa non cessa di esercitare per porre fine a ogni tipo di abuso, iniziando dal suo interno. \n<h2>La violenza contro le donne</h2> \nScandalo globale, che viene sempre di più riconosciuto. Tra le forme di violenza esercitate sulle donne, come non citare, sottolinea il documento, la costrizione all'aborto, che colpisce sia la madre che il figlio, cosi' spesso per soddisfare l'egoismo dei maschi? E come non citare pure la pratica della poligamia la quale - come ricorda il Catechismo della Chiesa Cattolica - è contraria alla pari dignità delle donne e degli uomini ed è altresì contraria \"all'amore coniugale che è unico ed esclusivo\"?. In questo orizzonte di violenza contro le donne, non si condannerà mai a sufficienza il fenomeno del femminicidio. \n<h2>Aborto</h2> \nNel documento è netta la condanna dell'aborto: \"fra tutti i delitti che l'uomo può compiere contro la vita, l'aborto procurato presenta caratteristiche che lo rendono particolarmente grave e deprecabile\". Si registra la diffusione di una terminologia ambigua, come quella di \"interruzione della gravidanza\", che tende a nasconderne la vera natura e ad attenuarne la gravità nell'opinione pubblica. Forse questo fenomeno linguistico è esso stesso sintomo di un disagio delle coscienze. Ma nessuna parola vale a cambiare la realtà delle cose: l'aborto procurato è l'uccisione deliberata e diretta, comunque venga attuata, di un essere umano nella fase iniziale della sua esistenza, compresa tra il concepimento e la nascita. I bambini nascituri sono cosi' \"i più indifesi e innocenti di tutti, ai quali oggi si vuole negare la dignità umana al fine di poterne fare quello che si vuole, togliendo loro la vita e promuovendo legislazioni in modo che nessuno possa impedirlo\". Il testo ricorda che la \"difesa della vita nascente è intimamente legata alla difesa di qualsiasi diritto umano\". \n<h2>Maternità surrogata</h2> \nForte anche il no alla maternità surrogata, \"attraverso la quale il bambino, immensamente degno, diventa un mero oggetto\". Una pratica \"che lede gravemente la dignità della donna e del figlio\", \"fondata sullo sfruttamento di una situazione di necessità materiale della madre. Un bambino e' sempre un dono e mai l'oggetto di un contratto\". Si auspica un impegno della Comunità internazionale per proibire a livello universale tale pratica. \n<h2>L'eutanasia e il suicidio assistito</h2> \nUn caso particolare di violazione della dignità umana, che e' più silenzioso ma che sta guadagnando molto terreno. Nel testo si sottolinea come le leggi che riconoscono la possibilità dell'eutanasia o del suicidio assistito si designano a volte come \"leggi di morte degna\". E' assai diffusa l'idea che siano coerenti con il rispetto della dignità della persona umana. Davanti a questo fatto, si deve ribadire con forza che la sofferenza non fa perdere al malato quella dignità che gli e' propria in modo intrinseco e inalienabile. Si parla quindi dell'importanza delle cure palliative e dell'evitare \"ogni accanimento terapeutico o intervento sproporzionato\", ribadendo che \"la vita e' un diritto, non la morte, la quale va accolta, non somministrata\". \n<h2>Lo scarto dei diversamenti abili</h2> \nNel nostro tempo, purtroppo, va imponendosi una cultura dello scarto. La questione dell'imperfezione umana comporta chiari risvolti anche dal punto di vista socio-culturale, dal momento che, in alcune culture, le persone con disabilità talvolta subiscono l'emarginazione, se non l'oppressione, essendo trattate come veri e propri \"scarti\". In realtà, ogni essere umano, qualunque sia la condizione di vulnerabilità in cui viene a trovarsi, riceve la sua dignità per il fatto stesso che e' voluto e amato da Dio. \n<h2>Teoria del gender</h2> \nDopo aver ribadito che nei confronti delle persone omosessuali va evitato \"ogni marchio di ingiusta discriminazione e particolarmente ogni forma di aggressione e violenza\", denunciando \"come contrario alla dignità umana\" il fatto che in alcuni luoghi persone \"vengano incarcerate, torturate e perfino private del bene della vita unicamente per il proprio orientamento sessuale\", il documento critica la teoria del gender, \"che e' pericolosissima perché cancella le differenze nella pretesa di rendere tutti uguali\". La Chiesa ricorda che la \"vita umana, in tutte le sue componenti, fisiche e spirituali, e' un dono di Dio, che va accolto con gratitudine e posto a servizio del bene. Voler disporre di se', cosi' come prescrive la teoria del gender\" \"non significa altro che cedere all'antichissima tentazione dell'essere umano che si fa Dio\". \n&nbsp; \nLa teoria del gender \"vuole negare la più grande possibile tra le differenze esistenti tra gli esseri viventi: quella sessuale\". Diventa cosi' inaccettabile che \"alcune ideologie di questo tipo, che pretendono di rispondere a certe aspirazioni a volte comprensibili, cerchino di imporsi come un pensiero unico che determini anche l'educazione dei bambini. Non si deve ignorare che sesso biologico (sex) e ruolo sociale-culturale del sesso (gender), si possono distinguere, ma non separare\". Sono dunque \"da respingere tutti quei tentativi che oscurano il riferimento all'ineliminabile differenza sessuale fra uomo e donna\". \n<h2>Cambio di sesso</h2> \nNegativo anche il giudizio sul cambio di sesso, che \"di norma, rischia di minacciare la dignità unica che la persona ha ricevuto fin dal momento del concepimento\" anche se \"questo non significa escludere la possibilità che una persona affetta da anomalie dei genitali già evidenti alla nascita o che si sviluppino successivamente, possa scegliere di ricevere assistenza medica allo scopo di risolvere tali anomalie\". \n<h2>Violenza digitale</h2> \nL'elenco si completa con la \"violenza digitale\", e cita le \"nuove forme di violenza si diffondono attraverso i social media, ad esempio il cyberbullismo\" e la \"diffusione della pornografia e di sfruttamento delle persone a scopo sessuale o tramite il gioco d'azzardo\" sul web. Ed e' cosi' che, laddove crescono le possibilità di connessione, accade paradossalmente che ciascuno si trovi in realtà sempre più isolato e impoverito di relazioni interpersonali.&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1712631622.6702154,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "\"The gender theory is very dangerous.\" The Church against the \"ahead to make all equal\"",
+        "en_content": "AGI - From war to poverty, from violence on migrants to violence on women, from trafficking to sexual abuse, from abortion to surrogate motherhood, to euthanasia and assisted suicide, to disability, from gender theory to sex change, to digital violence. The document of the Dicastery for the Doctrine of the Faith \"Infinite dignitas about human dignity >\". A text, as the prefect of the dicastery underlined, Cardinal Victor Manuel Fernandez who \"is not a vademecum but wants in one text to sum up what is most important is said about human dignity and organize it around a central point that is the dignity of every human being beyond any circumstance. This is the novelty of the document.\"\n&nbsp;\n\"Dignitas Infinite\" required 5 years of work and includes the papal magisterium of the last decade on the \"gravi violations\" of human dignity. In the text, the equivocal represented by the position of those who in the expression \"human dignity\" prefer \"personal dignity\" and recalls the 75th anniversary of the Universal Declaration of Human Rights and reaffirms \"the irreversible concept of human dignity within Christian anthropology\". The statement therefore presents the unexhausted list of \"some serious violations of human dignity\", i.e. \"all that is against life itself, like any kind of murder, genocide, abortion, euthanasia and the same voluntary suicide\"; but also \"all that violates the integrity of the human person, such as mutilation, torture inflicted on the body and mind, psychological constraints.\" And finally, \"everything that offends human dignity, such as subhuman living conditions, arbitrary imprisonment, deportations, slavery, prostitution, the market for women and young people, or even the ignominious working conditions, with which workers are treated as simple instruments of gain, and not as free and responsible people.\" It is also quoted the death penalty that \"violates the inalienable dignity of every human person beyond all circumstances\". &nbsp;&nbsp; Below are some serious particularly current violations, described in the document:\n<h2> The drama of poverty\n\"One of the greatest injustices of the contemporary world,\" \"the injustice of the bad distribution of goods and services originally intended for all\". In the text it is remembered that \"there is no worse poverty than the one deprived of work and the dignity of work\". If some are born in a country or in a family where they have less chances of development, we must recognize that this is in contrast to their dignity, which is exactly the same as those who are born in a family or in a rich country. We are all responsible, although in different degrees, of this blatant iniquity.\n<h2> War\n\"Another tragedy that denies human dignity.\" \"Pur reaffirming the inalienable right to self-defense, as well as &nbsp; the responsibility to protect those whose existence is threatened, we must admit that war is always a defeat of humanity\" to the point that \"today it is very difficult to support the rational criteria matured in other centuries to talk about a possible 'just war\". \"No war is worth the tears of a mother who saw her mutilated or dead child; no war is worth the loss of life, even of one human person, being sacred, created in the image and likeness of the creator; no war is worth the poisoning of our Common House; and no war is worth the despair of those who are forced to leave their home and are deprived, from one moment to another, of their home and of all family, friendly, social and cultural links that have been built, sometimes through generations.\" The intimate relationship between faith and human dignity makes war contradictory on religious beliefs: \"those who invoke the name of God to justify terrorism, violence and war do not follow the way of God: war in the name of religion is a war against religion itself.\"\n<h2> Migrant labor\nThey are among the first victims of the many forms of poverty. \"Their own life is put at risk because &nbsp; they no longer have the means to create a family, to work or to feed.\" Once they have arrived in countries that should be able to accept them, \"they are considered not worthy enough to participate in social life as any other, and we forget that they possess the same intrinsic dignity as any person.\" \"It will never be said that they are not human, but in practice, with decisions and the way to treat them, it is manifested that they are considered less valuable, less important, less human.\"\n<h2>The treatment of persons\nHe is assuming \"tragic dimensions\" and is called \"unreliable activity, a shame for our societies that are called civilized\". The document invites \"suppliers and customers\" to take a serious examination of conscience. In the same way, he urges us to fight against phenomena such as \"commerce of human organs and tissues, sexual exploitation of children and girls, slave labor, including prostitution, drug trafficking and weapons, terrorism and international crime organized\". This is \"sofferences that can last all life and to which no repentance can remedy. This phenomenon is widespread in society, it also touches the Church and represents a serious obstacle to its mission\". Hence the commitment that it does not cease to exercise to end all kinds of abuse, starting from its interior.\n<h2> Violence against women\nGlobal Scandal, which is increasingly recognized. Among the forms of violence exerted on women, how not to quote, emphasizes the document, the compulsion to abortion, which affects both the mother and the son, so often to satisfy the selfishness of males? And how can we not mention the practice of polygamy which - as the Catechism of the Catholic Church recalls - is contrary to the equal dignity of women and men and is also contrary to \"the conjugal love that is unique and exclusive\"? In this context of violence against women, the phenomenon of feminism is never enough.\n<h2> Abbott\nIn the document is clear the condemnation of abortion: \"among all the crimes that man can do against life, abortion has characteristics that make it particularly serious and deprecatable.\" The diffusion of an ambiguous terminology, such as the \"interruption of pregnancy\", which tends to hide its true nature and to attenuate its gravity in public opinion. Perhaps this linguistic phenomenon is itself a symptom of an discomfort of consciences. But no word is to change the reality of things: abortion is the deliberate and direct killing, however, of a human being in the initial phase of his existence, between conception and birth. Nascituri children are so \"the most defenseless and innocent of all, to whom today we want to deny human dignity in order to be able to do what we want, taking away their lives and promoting legislation so that no one can prevent it.\" The text recalls that the \"defense of nascent life is intimately linked to the defense of any human right\".\n<h2> Surrogacy\nStrong also the no to surrogate motherhood, \"through which the child, immensely worthy, becomes a mere object\". A practice \"which severely harms the dignity of women and children\", \"founded on the exploitation of a situation of material necessity of the mother. A child is always a gift and never the object of a contract.\" It is hoped that the international community should strive to ban this practice at a universal level.\n<h2> Euthanasia and assisted suicide\nA special case of violation of human dignity, which is quieter but which is gaining a lot of ground. In the text it is underlined that the laws that recognize the possibility of euthanasia or assisted suicide are sometimes designated as \"deserved death laws\". The idea is widespread that they are consistent with the respect for the dignity of the human person. In front of this fact, one must strongly reiterate that suffering does not cause the sick to lose that dignity which is intrinsically and inalienable. Therefore, we are talking about the importance of palliative care and the avoidance of \"any therapeutic accompaniment or disproportionate intervention\", recalling that \"life is a right, not death, which should be welcomed, not administered\".\n<h2> The discarding of eligible differences\nIn our time, unfortunately, we must impose a culture of waste. The question of human imperfection involves clear implications also from the socio-cultural point of view, since, in some cultures, people with disabilities sometimes suffer marginalization, if not oppression, being treated as real \"scarti\". In reality, every human being, whatever the condition of vulnerability in which he finds himself, receives his dignity for the very fact that he is wanted and loved by God.\n<h2> Gender theory\nAfter reitering that homosexuals should be avoided \"every brand of unjust discrimination and especially every form of aggression and violence\", denouncing \"as opposed to human dignity\" the fact that in some places people \"come imprisoned, tortured and even deprived of the good of life solely for their sexual orientation\", the document criticises gender theory, \"which is very dangerous because it erases the differences in the claim to make everyone equal\". The Church recalls that the \"human life, in all its components, physical and spiritual, is a gift of God, which must be welcomed with gratitude and placed at the service of good. He wants to dispose of himself, as he prescribes gender theory, \"it means nothing but surrender to the very ancient temptation of the human being who makes himself God.\"\n&nbsp;\nThe gender theory \"would deny the greatest possible differences between living beings: sex.\" It becomes so unacceptable that \"some ideologies of this kind, which claim to respond to certain sometimes understandable aspirations, try to impose themselves as a unique thought that also determines the education of children. It should not be ignored that biological sex (sex) and social-cultural role of sex (gender), can be distinguished, but not separated\". I am therefore \"to reject all those attempts that obscure the reference to the inevitable sexual difference between man and woman.\"\n<h2> Sex change\nI also deny the judgment on the change of sex, which \"normally, risks threatening the unique dignity that the person has received from the moment of conception\" even if \"this does not mean to exclude the possibility that a person affected by genital abnormalities already evident at birth or that subsequently develop, may choose to receive medical assistance in order to solve such abnormalities\".\n<h2> Digital Violence\nThe list completes with the \"digital violence\", and cites the \"new forms of violence spread through social media, such as cyberbullying\" and the \"dissemination of pornography and exploitation of people for sexual purposes or through gambling\" on the web. And this is how, where the connection possibilities grow, it happens paradoxically that each one is actually increasingly isolated and impoverished with interpersonal relationships. &nbsp;\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "gender",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "theory",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Church",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Church",
+                "start_char": 43,
+                "end_char": 49,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Dicastery for the Doctrine of the Faith \"Infinite dignitas about",
+                "start_char": 270,
+                "end_char": 338,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Victor Manuel Fernandez",
+                "start_char": 418,
+                "end_char": 441,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 479,
+                "end_char": 482,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Dignitas Infinite",
+                "start_char": 700,
+                "end_char": 717,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "5 years",
+                "start_char": 728,
+                "end_char": 735,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the last decade",
+                "start_char": 782,
+                "end_char": 797,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "75th",
+                "start_char": 986,
+                "end_char": 990,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Universal Declaration of Human Rights",
+                "start_char": 1006,
+                "end_char": 1047,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Christian",
+                "start_char": 1112,
+                "end_char": 1121,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "subhuman",
+                "start_char": 1578,
+                "end_char": 1586,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "One",
+                "start_char": 2100,
+                "end_char": 2103,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "today",
+                "start_char": 2950,
+                "end_char": 2955,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "one",
+                "start_char": 3192,
+                "end_char": 3195,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one",
+                "start_char": 3424,
+                "end_char": 3427,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 3878,
+                "end_char": 3883,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Church",
+                "start_char": 5112,
+                "end_char": 5118,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Global Scandal",
+                "start_char": 5309,
+                "end_char": 5323,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Abbott",
+                "start_char": 5891,
+                "end_char": 5897,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nascituri",
+                "start_char": 6533,
+                "end_char": 6542,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 6610,
+                "end_char": 6615,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Surrogacy\nStrong",
+                "start_char": 6881,
+                "end_char": 6897,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Euthanasia",
+                "start_char": 7322,
+                "end_char": 7332,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Church",
+                "start_char": 9114,
+                "end_char": 9120,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Digital Violence",
+                "start_char": 10474,
+                "end_char": 10490,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "A Turbigo la festa per la fine del Ramadan si farà al campo sportivo. Il portavoce degli islamici \"ha vinto la Costituzione\"",
+        "date_raw": "Mon, 08 Apr 2024 16:14:27 GMT",
+        "date": "2024-04-08",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-08/a-turbigo-festa-fine-ramadan-al-campo-sportivo-25955038/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;La festa di fine Ramadan a Turbigo si svolgerà nel campo sportivo della cittadina, nell'area destinata agli allenamenti. È quanto apprende l'AGI in relazione all'esito dell'incontro in Prefettura tra rappresentanti della locale comunità musulmana e dell'amministrazione del Comune di Turbigo. Sabato il Tar della Lombardia aveva chiesto l'intervento del Prefetto di Milano per dirimere la controversia tra l'associazione culturale 'Moschea Essà&nbsp;e il sindaco di Fratelli d'Italia Fabrizio Allevi che aveva escluso la disponibilità di spazi pubblici da destinare alla festività. Circa l'ipotesi del campo sportivo, il primo cittadino aveva detto che non era disponibilità perché la società che lo ha in gestione aveva espresso la preoccupazione che si sarebbe rovinata l'erba a stagione calcistica in corso. Altre soluzioni erano state escluse lamentando la penuria di organico del Comune che non avrebbe permesso di garantire l'ordine pubblico. \n&nbsp; \n&nbsp;\"Ha vinto la Costituzione\". Munib Asfaq, portavoce delle comunità islamiche lombarde, esulta dopo la decisione del Prefetto di Milano di garantire il campo sportivo di Turbigo ai fedeli per la celebrazione della festa di fine Ramadan domani e dopodomani. \"Una decina di nostri volontari garantirà la sicurezza - dice all'AGI -. Ringraziamo il prefetto, i nostri avvocati Luca Bauccio e Aldo Russo che hanno fatto un grandissimo lavoro e tutti coloro i quali ci hanno espresso la loro solidarietà in questi giorni durissimi. Speriamo che in futuro non ci siano più bracci di ferro col Comune, siamo pronti a collaborare\". \n&nbsp; \n<h2>Prefetto, ok anche dal sindaco</h2> \n&nbsp;Anche il sindaco di Fratelli d'Italia Fabrizio Allevi ha dato il suo parere favorevole all'individuazione del campo sportivo di Turbigo come spazio adatto alla festa di fine Ramadan. Lo fa sapere la Prefettura di Milano in una nota evidenziando che \"per consentire i festeggiamenti della ricorrenza religiosa, è stata individuata, di intesa con tutte le parti, l'area destinata agli allenamenti del campo sportivo comunale che, per la presenza di un'area parcheggio e di un'adeguata perimetrazione, risulta adatta per fruibilità e controllabilità degli spazi\". \n&nbsp; \nSi legge nella nota: \"A seguito del decreto del Tar della Lombardia il Prefetto di Milano, Claudio Sgaraglia ha oggi incontrato il sindaco del Comune di Turbigo e l'associazione culturale 'Moschea Essa'&nbsp;con la partecipazione della Questura, dell'Arma dei Carabinieri, dei Vigili del Fuoco e di Città Metropolitana, al fine di valutare la sussistenza dei motivi di sicurezza e incolumità pubblica per lo svolgimento della festività di fine Ramadan, che si svolgerà nelle date del 9 e 10 aprile prossimi. Il Sindaco ha assicurato la rapida adozione dei conseguenti provvedimenti autorizzativi e organizzativi. Al termine dell'incontro, il Prefetto Sgaraglia ha ringraziato tutte le parti che, con grande spirito di collaborazione, hanno consentito il pieno raggiungimento dell'accordo.&nbsp; \n&nbsp; \n<h2>Prefetto, non più di 200 a festa</h2> \nIl numero di partecipanti alla festa di fine Ramadan nel campo sportivo di Turbigo non dovrà superare i duecento per ragioni di sicurezza, secondo quanto indicato dai vigili del fuoco. È quanto si legge nel verbale d'intesa tra le parti visionato dall'AGI. Il si' della Prefettura di Milano è arrivato anche dopo un sopralluogo di carabinieri e vigili del fuoco, incaricati di valutare se ci fossero le condizioni di sicurezza che sono state riscontrate. Respingendo la richiesta della comunità islamica, il sindaco Fabrizio Allevi aveva addotto ragioni di ordine pubblico che non avrebbero permesso lo svolgimento dell'evento. Il primo cittadino, si legge nel documento, ha ottenuto il via libera del gestore del campo che non lo aveva concesso nei giorni scorsi, secondo quanto da lui stesso riferito per timori sulla 'tenuta'&nbsp;del campo erboso. L'area \"non è interessata da eventi sportivi in quella fascia oraria, è recintata, è capiente e ha un parcheggio\", tutte condizioni che la rendono la più adatta in base all'intesa.",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1712631622.6702356,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "In Turbigo the party for the end of Ramadan will take place at the sports field. The Islamic spokesman \"winned the Constitution\"",
+        "en_content": "AGI -&nbsp;The Ramadan end party in Turbigo will take place in the sports field of the town, in the area intended for training. It is what the AGI learns in relation to the outcome of the meeting in Prefecture between representatives of the local Muslim community and the administration of the Municipality of Turbigo. On Saturday the Tar of Lombardy had asked the intervention of the Prefect of Milan to settle the dispute between the cultural association 'Moschea Essà&nbsp; and the mayor of Fratelli d'Italia Fabrizio Allevi who had excluded the availability of public spaces to be allocated to the festival. About the hypothesis of the sports field, the first citizen had said that it was not available because the company that has it in management had expressed the concern that it would spoil the grass to the current football season. Other solutions had been excluded complaining of the shortage of staff of the Municipality that would not allow to guarantee the public order.\n&nbsp;\n\"He won the Constitution.\" Munib Asfaq, spokesman of the Islamic communities of Lombardy, exults after the decision of the Prefect of Milan to guarantee the sports field of Turbigo to the faithful for the celebration of the feast of end Ramadan tomorrow and after tomorrow. \"A dozen of our volunteers will guarantee security - says AGI -. We thank the prefect, our lawyers Luca Bauccio and Aldo Russo who have done a great job and all those who have expressed their solidarity in these hard days. We hope that in the future there are no more iron arms with the Municipality, we are ready to cooperate.\"\n&nbsp;\n<h2> Prefect, ok also by the mayor\n&nbsp;Even the mayor of Fratelli d'Italia Fabrizio Allevi has given his favourable opinion to the identification of the sports field of Turbigo as a space suitable for the party of the end Ramadan. The Prefecture of Milan in a note points out that \"to allow the festivities of the religious celebration, has been identified, in agreement with all the parts, the area destined for the workouts of the municipal sports field that, for the presence of a parking area and an adequate perimeter, is suitable for usability and controllability of the spaces\".\n&nbsp;\nYou read in the note: \"As a result of the decree of the Tar of Lombardy the Prefect of Milan, Claudio Sgaraglia today met the mayor of the Municipality of Turbigo and the cultural association 'Moschea Essa'&nbsp; with the participation of the Questura, the Carabinieri, the Fire Brigade and the Metropolitan City, in order to assess the subsistence of the reasons of safety and public safety for the performance of the next Ramadan holiday. The Mayor has ensured the rapid adoption of the subsequent authorisation and organisational measures. At the end of the meeting, the Prefect Sgaraglia thanked all the parties who, with great spirit of collaboration, allowed the full achievement of the agreement.&nbsp;\n&nbsp;\n<h2> Prefect, no more than 200 per party\nThe number of participants at the end of Ramadan in the sports field of Turbigo will not exceed two hundred for security reasons, as indicated by the firefighters. That is what we read in the minutes of understanding between the parties viewed by the AGI. The yes of the Prefecture of Milan arrived also after an inspection of carabinieri and firefighters, charged to assess whether there were the safety conditions that were found. Rejecting the request of the Islamic community, Mayor Fabrizio Allevi had brought public reasons that would not allow the event to take place. The first citizen, read in the document, obtained the free way of the field manager who had not granted it in recent days, according to what he himself reported for fears on the 'tenuta'&nbsp; of the grassy field. The area \"is not affected by sporting events in that time slot, is fenced, is capacious and has a parking lot\", all conditions that make it the most suitable according to the understanding.",
+        "concepts": [
+            {
+                "word": "Turbigo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ramadan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "place",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sports",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "field",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "spokesman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Constitution",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Turbigo",
+                "start_char": 3,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 25,
+                "end_char": 43,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Islamic",
+                "start_char": 85,
+                "end_char": 92,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Constitution",
+                "start_char": 115,
+                "end_char": 127,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turbigo",
+                "start_char": 36,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "AGI",
+                "start_char": 143,
+                "end_char": 146,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Prefecture",
+                "start_char": 199,
+                "end_char": 209,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Muslim",
+                "start_char": 247,
+                "end_char": 253,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Municipality of Turbigo",
+                "start_char": 290,
+                "end_char": 317,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 322,
+                "end_char": 330,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Prefect of Milan",
+                "start_char": 381,
+                "end_char": 401,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moschea",
+                "start_char": 458,
+                "end_char": 465,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Fratelli d'Italia Fabrizio Allevi",
+                "start_char": 494,
+                "end_char": 527,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 658,
+                "end_char": 663,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the current football season",
+                "start_char": 812,
+                "end_char": 839,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Constitution",
+                "start_char": 1003,
+                "end_char": 1015,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Munib Asfaq",
+                "start_char": 1018,
+                "end_char": 1029,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Islamic",
+                "start_char": 1048,
+                "end_char": 1055,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lombardy",
+                "start_char": 1071,
+                "end_char": 1079,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Prefect of Milan",
+                "start_char": 1110,
+                "end_char": 1130,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turbigo",
+                "start_char": 1164,
+                "end_char": 1171,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 1255,
+                "end_char": 1263,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "A dozen",
+                "start_char": 1266,
+                "end_char": 1273,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Luca Bauccio",
+                "start_char": 1364,
+                "end_char": 1376,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aldo Russo",
+                "start_char": 1381,
+                "end_char": 1391,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "these hard days",
+                "start_char": 1471,
+                "end_char": 1486,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Municipality",
+                "start_char": 1552,
+                "end_char": 1564,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the mayor\n&nbsp;Even",
+                "start_char": 1626,
+                "end_char": 1646,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fratelli d'Italia Fabrizio Allevi",
+                "start_char": 1660,
+                "end_char": 1693,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turbigo",
+                "start_char": 1772,
+                "end_char": 1779,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The Prefecture of Milan",
+                "start_char": 1834,
+                "end_char": 1857,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Tar of Lombardy the Prefect of Milan",
+                "start_char": 2248,
+                "end_char": 2288,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Claudio Sgaraglia",
+                "start_char": 2290,
+                "end_char": 2307,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 2308,
+                "end_char": 2313,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Municipality of Turbigo",
+                "start_char": 2331,
+                "end_char": 2358,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moschea Essa'&nbsp",
+                "start_char": 2389,
+                "end_char": 2407,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Questura",
+                "start_char": 2439,
+                "end_char": 2447,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Carabinieri",
+                "start_char": 2453,
+                "end_char": 2464,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Fire Brigade",
+                "start_char": 2466,
+                "end_char": 2482,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Metropolitan City",
+                "start_char": 2487,
+                "end_char": 2508,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the next Ramadan holiday",
+                "start_char": 2611,
+                "end_char": 2635,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Prefect",
+                "start_char": 2770,
+                "end_char": 2777,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Sgaraglia",
+                "start_char": 2778,
+                "end_char": 2787,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "no more than 200 per party",
+                "start_char": 2927,
+                "end_char": 2953,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 2984,
+                "end_char": 3002,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turbigo",
+                "start_char": 3026,
+                "end_char": 3033,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two hundred",
+                "start_char": 3050,
+                "end_char": 3061,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "AGI",
+                "start_char": 3205,
+                "end_char": 3208,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Prefecture of Milan",
+                "start_char": 3221,
+                "end_char": 3244,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Islamic",
+                "start_char": 3416,
+                "end_char": 3423,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Fabrizio Allevi",
+                "start_char": 3441,
+                "end_char": 3456,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 3534,
+                "end_char": 3539,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "recent days",
+                "start_char": 3640,
+                "end_char": 3651,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "\"No al cibo contraffatto\", Coldiretti blocca il Brennero",
+        "date_raw": "Mon, 08 Apr 2024 16:02:50 GMT",
+        "date": "2024-04-08",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-08/coldiretti-blocca-il-brennero-contro-cibo-contraffatto-25956614/",
+        "subtitle": "",
+        "content": "AGI - La Coldiretti difende la produzione nazionale, manifestando proprio al Brennero, al confine con l'Austria. L'associazione dei coltivatori si scaglia ancora una volta&nbsp; contro il cibo contraffatto&nbsp; e tutela del made in Italy. \"Fermare l'invasione di prodotti alimentari stranieri spacciati per italiani che mettono a rischio la salute dei cittadini e il futuro dell'agroalimentare tricolore\". \nOggi e domani, gli agricoltori, guidati dal presidente nazionale Ettore Prandini, verificheranno il contenuto di tir, camion frigo, autobotti con la collaborazione determinante delle forze dell'ordine.<br> La manifestazione secondo Coldiretti, \"è un'azione resa necessaria dagli arrivi incontrollati di alimenti dall'estero che spesso non rispettano le stesse regole di quelli nazionali e fanno cosi' concorrenza sleale alle produzioni italiane facendo crollare i prezzi pagati agli agricoltori\".&nbsp; \n&nbsp; \nNel corso della prima giornata di manifestazione è stato bloccato un tir diretto in Calabria, che trasportava 21 tonnellate di patate.&nbsp; \nLa merce era destinata a una azienda industriale del Crotonese per essere lavorate a stick e gratinate, precotte e surgelate, per poi essere probabilmente commercializzate come patate della Sila.&nbsp; \n&nbsp; \n\"Troppi prodotti stranieri diventano italiani varcando i nostri confini, questo non è più accettabile. Vogliamo una giusta trasparenza rispetto a quelle che sono le informazioni che devono essere date ai cittadini: serve l'obbligo di origine a livello europeo e poi saranno i cittadini a scegliere con consapevolezza cosa acquistare\". È quanto affermato dal presidente di Coldiretti, Ettore Prandini nella prima giornata di mobilitazione contro i prodotti in arrivo dall'estero e poi spacciati come 'made in Italy'. Oggi all'interno dei tir sono state trovate cosce di maiale danesi dirette a Modena, uva indiana destinata a Novara, preparati industriali a base di uova fatti in Polonia con destinazione Verona. \n&nbsp; \n<div></div> \n&nbsp; \n\"Ci dicevano che oggi al Brennero non avremmo trovato camion in ingresso che trasportavano prodotti agroalimentari come li avevamo trovati negli anni passati, purtroppo i fatti hanno dimostrato esattamente il contrario\", ha precisato Prandini.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1712631622.6702533,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "\"No to counterfeit food,\" Coldiretti blocks Brennero",
+        "en_content": "AGI - Coldiretti defends national production, manifesting right at Brennero, on the border with Austria. The cultivators' association is once again encased; against counterfeit food &nbsp; and protection of made in Italy. \"Enhancing the invasion of foreign food for Italians that jeopardize the health of citizens and the future of tricolored food\".\nToday and tomorrow, farmers, led by the national president Ettore Prandini, will verify the content of tir, truck fridge, autobotti with the decisive collaboration of the forces of the order.<br> The event according to Coldiretti, \"is an action made necessary by the uncontrolled arrivals of foods from abroad that often do not respect the same rules of national ones and thus make unfair competition to Italian productions by bringing down the prices paid to farmers\". &nbsp;\n&nbsp;\nDuring the first day of the event a direct tir was blocked in Calabria, which transported 21 tons of potatoes.&nbsp;\nThe goods were destined to an industrial company of Crotonese to be worked with sticks and gratinates, precooked and frozen, and then probably marketed as potatoes of Sila.&nbsp;\n&nbsp;\n\"Through foreign products become Italian by crossing our borders, this is no longer acceptable. We want a fair transparency over what is the information that must be given to citizens: needs the obligation of origin at European level and then citizens will choose with awareness what to buy.\" It is stated by the president of Coldiretti, Ettore Prandini in the first day of mobilization against the products coming from abroad and then spread as 'made in Italy'. Today inside the pitches have been found thighs of Danish pork directed to Modena, Indian grape destined to Novara, industrial preparations based on eggs made in Poland with destination Verona.\n&nbsp;\n<div </div\n&nbsp;\n\"We were told that today at Brennero we would not find incoming trucks carrying agri-food products as we had found them in the past years, unfortunately the facts have proved exactly the opposite,\" Prandini said.&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "food",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Coldiretti",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brennero",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Brennero",
+                "start_char": 44,
+                "end_char": 52,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Coldiretti",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Brennero",
+                "start_char": 67,
+                "end_char": 75,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Austria",
+                "start_char": 96,
+                "end_char": 103,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 215,
+                "end_char": 220,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italians",
+                "start_char": 266,
+                "end_char": 274,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Today",
+                "start_char": 350,
+                "end_char": 355,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 360,
+                "end_char": 368,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ettore Prandini",
+                "start_char": 409,
+                "end_char": 424,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 569,
+                "end_char": 579,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 754,
+                "end_char": 761,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the first day",
+                "start_char": 841,
+                "end_char": 854,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Calabria",
+                "start_char": 896,
+                "end_char": 904,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "21 tons",
+                "start_char": 924,
+                "end_char": 931,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1170,
+                "end_char": 1177,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "European",
+                "start_char": 1356,
+                "end_char": 1364,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 1463,
+                "end_char": 1473,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Prandini",
+                "start_char": 1482,
+                "end_char": 1490,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the first day",
+                "start_char": 1494,
+                "end_char": 1507,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1592,
+                "end_char": 1597,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Today",
+                "start_char": 1600,
+                "end_char": 1605,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Danish",
+                "start_char": 1651,
+                "end_char": 1657,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Modena",
+                "start_char": 1675,
+                "end_char": 1681,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Indian",
+                "start_char": 1683,
+                "end_char": 1689,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Novara",
+                "start_char": 1708,
+                "end_char": 1714,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Poland",
+                "start_char": 1762,
+                "end_char": 1768,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Verona",
+                "start_char": 1786,
+                "end_char": 1792,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 1838,
+                "end_char": 1843,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Brennero",
+                "start_char": 1847,
+                "end_char": 1855,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the past years",
+                "start_char": 1942,
+                "end_char": 1956,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Prandini",
+                "start_char": 2017,
+                "end_char": 2025,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Terrorismo: arrestato 32enne dell'Isis a Fiumicino",
+        "date_raw": "Mon, 08 Apr 2024 15:44:10 GMT",
+        "date": "2024-04-08",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-08/arrestato-a-fiumicino-membro-isis-25956353/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;La polizia ha arrestato Ilkhomi Sayrakhmonzoda, 32 anni, cittadino del Tagikistan, colpito da mandato di arresto internazionale a fini estradizionali \"per essersi arruolato nelle fila dello stato islamico ed essere andato in Siria a combattere nel 2014; lo stesso risulta essere un membro attivo dell'organizzazione terroristica denominata Isis\". L'uomo, latitante e caratterizzato da numerosi alias con nazionalità e date di nascita diverse - in particolare degli stati Uzbekistan, Kirghizistan e Ukraina -, è atterrato all'aeroporto di Fiumicino con volo proveniente da Eindhoven (Paesi Bassi) alle ore 11.45 di oggi. L'operazione, svolta dalla Digos capitolina con il coordinamento della Direzione Centrale della Polizia di Prevenzione e il contributo della Polizia di Frontiera di Fiumicino, si inquadra in un più ampio scenario di attività preventive a largo raggio poste in essere dalla polizia in particolare, anche in considerazione della estrema delicatezza dell'attuale scenario internazionale.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1712631622.6702695,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "Terrorism: 32-year-old Isis arrested in Fiumicino",
+        "en_content": "AGI -&nbsp;The police arrested Ilkhomi Sayrakhmonzoda, 32 years old, citizen of Tajikistan, hit by international arrest warrant for extraditional purposes \"for enlisting in the ranks of the Islamic state and having gone to Syria to fight in 2014; the same turns out to be an active member of the terrorist organization called Isis\". The man, latitating and characterized by numerous aliases with different nationalities and dates of birth - in particular the states Uzbekistan, Kyrgyzstan and Ukraina -, is landed at Fiumicino airport with flight from Eindhoven (Netherlands) at 11.45 today. The operation, carried out by the Capitoline Digos with the coordination of the Central Direction of the Police of Prevention and the contribution of the Police of Frontiera of Fiumicino, is framed in a wider scenario of preventive activities to wide range placed in being from the police in particular, also in view of the extreme delicacy of the current international scenario. &nbsp;\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Terrorism",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Isis",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Fiumicino",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "32-year-old",
+                "start_char": 11,
+                "end_char": 22,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Isis",
+                "start_char": 23,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fiumicino",
+                "start_char": 40,
+                "end_char": 49,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI -&nbsp;The",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ilkhomi Sayrakhmonzoda",
+                "start_char": 31,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "32 years old",
+                "start_char": 55,
+                "end_char": 67,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tajikistan",
+                "start_char": 80,
+                "end_char": 90,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Islamic",
+                "start_char": 190,
+                "end_char": 197,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Syria",
+                "start_char": 223,
+                "end_char": 228,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2014",
+                "start_char": 241,
+                "end_char": 245,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Uzbekistan",
+                "start_char": 466,
+                "end_char": 476,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kyrgyzstan",
+                "start_char": 478,
+                "end_char": 488,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraina -",
+                "start_char": 493,
+                "end_char": 502,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fiumicino",
+                "start_char": 517,
+                "end_char": 526,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Eindhoven",
+                "start_char": 552,
+                "end_char": 561,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 563,
+                "end_char": 574,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "11.45",
+                "start_char": 579,
+                "end_char": 584,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "today",
+                "start_char": 585,
+                "end_char": 590,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Capitoline Digos",
+                "start_char": 622,
+                "end_char": 642,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Central Direction of the Police of Prevention",
+                "start_char": 668,
+                "end_char": 717,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Frontiera of Fiumicino",
+                "start_char": 756,
+                "end_char": 778,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ]
+    },
+    {
+        "title": "Codacons contro La Sad, il gruppo diffidato a non usare il nome dell'associazione",
+        "date_raw": "Mon, 08 Apr 2024 14:53:07 GMT",
+        "date": "2024-04-08",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-08/codacons-diffida-la-sad-25955317/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp;<span>Il Codacons diffida oggi il gruppo musicale La Sad a non usare il nome dell'associazione per pubblicizzare il nuovo album.&nbsp;</span><span>Da giorni il trio punk sta sfruttando a più riprese e in innumerevoli occasioni il nome del Codacons per dare visibilità al disco, ricorrendo ad un patetico vittimismo e a lacrime di coccodrillo parlando – del tutto a sproposito – di odio generato dall'associazione attraverso le proteste sollevate in occasione della partecipazione di La Sad al Festival di Sanremo.</span> \n&nbsp; \nUn utilizzo del tutto strumentale della sigla Codacons al fine di ottenere visibilità mediatica e citazioni sulla stampa, che però omette – volutamente – di indicare la natura delle proteste dell'assocazione. E infatti più che “Odio La Sad”, il trio avrebbe forse fatto meglio a chiamare il nuovo disco “Odio le donne”, considerati testi sessisti e violenti contenuti in alcune precedenti canzoni del trio, con frasi quali “Ma tu sei peggio della coca, sei una tr*”; “ti sco* solo per strapparti il cuore”; “E non ho più voglia di stare al mondo, se ci sei te. Prendo il doppio degli psico.. “&nbsp;- conclude il Codacons. \n&nbsp;",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1712631622.6702855,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "Codacons versus La Sad, the group not to use the name of the association",
+        "en_content": "AGI -&nbsp;&nbsp;<span> The Codacons today defies the musical group La Sad not to use the name of the association to advertise the new album.&nbsp;</span><span> From days the punk trio is exploiting on several occasions the name of the Codacons to give visibility to the disc, resorting to a pathetic vittimism and protests\n&nbsp;\nA completely instrumental use of the Codacons acronym in order to obtain media visibility and quotes on the press, but it deliberately omits to indicate the nature of the protests of the assocation. And in fact more than “Odio La Sad”, the trio would perhaps have done better to call the new album “Odio le donne”, considered sexist and violent texts contained in some previous songs of the trio, with phrases such as “But you are worse than the coke, you are a tr*”; “I find you only to tear your heart away”; “And I don’t want to be in the world, if you’re there. I'll take twice as many psychos. “&nbsp;- concludes the Codacons.\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Codacons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sad",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "group",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "name",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "association",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "La Sad",
+                "start_char": 16,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "today",
+                "start_char": 37,
+                "end_char": 42,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "La Sad",
+                "start_char": 68,
+                "end_char": 74,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Codacons",
+                "start_char": 236,
+                "end_char": 244,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Codacons",
+                "start_char": 368,
+                "end_char": 376,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Odio La Sad",
+                "start_char": 553,
+                "end_char": 564,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "Cannibalismo cosmico e dei irati, tutti i miti del sole nero",
+        "date_raw": "Mon, 08 Apr 2024 14:46:38 GMT",
+        "date": "2024-04-08",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-08/cannibalismo-cosmico-dei-irati-tutti-miti-sole-nero-25954674/",
+        "subtitle": "",
+        "content": "AGI - Centinaia di migliaia di persone in Nord America rivolgono gli occhi al cielo per godersi lo spettacolo dell'eclissi totale di Sole che metterà nell'ombra una fascia chilometrica di territorio estesa dal Pacifico all'Atlantico. Ma non sempre in passato questo fenomeno astronomico è stato accolto con lo stesso umore di entusiasta curiosità dagli abitanti del Pianeta. Molte culture antiche credevano che ciò che accadeva nei cieli riflettesse eventi passati, presenti e futuri sulla Terra. \nCiò era particolarmente vero per i Maya. Questo popolo amerindo considerava la distanza nello spazio e la distanza nel tempo come la stessa cosa. \nIn altre parole, guardare lontano nel cosmo fungeva da sorta di portale verso il passato. Quando gli antichi Maya osservavano le eclissi, vedevano un evento per il quale sembrava che la luna mangiasse il sole. Lo interpretavano come una visione delle pratiche cannibalistiche dei loro antenati, che erano state eliminate da tempo dalle loro leggi. I Maya non erano gli unici a credere di vedere il sole che venisse mangiato. Per l'antica mitologia cinese, le eclissi solari si verificavano quando un drago cercava di divorare il sole. In risposta la gente si accalcava nelle strade, suonando i tamburi per spaventare il drago. Per gli antichi greci, le eclissi erano un segno di rimprovero degli dei nei confronti degli esseri umani, una sorta di rappresaglia, per cui il sole abbandonava la Terra. \nLa parola eclissi deriverebbe etimologicamente in effetti dal termine greco \"ekleipsis\", che significa \"abbandono\" o \"un abbandono\". Ispirato da un'eclissi solare avvenuta nel 647 a.C., il poeta Archiloco scrisse: \"Non c'è nulla che sia oltre la speranza, nulla che si possa giurare impossibile, nulla di meraviglioso, poiché Zeus, padre degli dei dell'Olimpo, fece la notte da mezzogiorno, nascondendo la luce del sole splendente, e un grande timore venne sugli uomini\". \nSecondo una leggenda dei nativi americani Choctaw , la causa delle eclissi era un dispettoso scoiattolo nero che rosicchiava il Sole. Come il drago cinese, anche lo scoiattolo doveva essere spaventato dal clamore e dalle urla dei testimoni umani dell'evento. I popoli Ojibwa e Cree raccontavano una storia secondo cui un ragazzo (o talvolta un nano) di nome Tcikabis cercò vendetta sul Sole per averlo bruciato. Nonostante le proteste della sorella, catturò il Sole in un laccio, provocando un'eclissi. Diversi animali tentarono di liberare il Sole dalla trappola, ma solo l'umile topo riusci' a masticare le corde e riportare il Sole sul suo cammino. \nL'antica mitologia indù fornisce una spiegazione assai inquietante per le eclissi solari. Secondo la leggenda, un astuto demone di nome Rahu cercò di bere il nettare degli dei e raggiungere cosi' l'immortalità. Travestito da donna, Rahu tentò di partecipare a un banchetto degli dei ma fu scoperto da Vishnu. Per punizione, il demone venne prontamente decapitato, ed e' proprio la sua testa decapitata che vola nel cielo a oscurare il Sole durante un'eclissi. Alcune versioni dicono che Rahu riuscì effettivamente a rubare un sorso di nettare ma fu decapitato prima che l'elisir raggiungesse il resto del corpo. La sua testa immortale, alla continua ricerca del Sole, a volte lo cattura e lo ingoia, ma il Sole riappare rapidamente, poiché Rahu, essendo stato decollato, non ha gola.&nbsp;",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1712631622.6703014,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-09 05:00:22",
+        "filename": "ner_conc_en_2024-04-09T05.00.22E1712638822.119593.json",
+        "en_title": "Cosmic Cannibalism and Irati, all the myths of the black sun",
+        "en_content": "AGI - Hundreds of thousands of people in North America turn their eyes to the sky to enjoy the spectacle of the total eclipse of Sun that will put in the shadows a kilometer of territory extended from the Pacific to the Atlantic. But not always in the past this astronomical phenomenon has been welcomed with the same mood of enthusiastic curiosity by the inhabitants of the planet. Many ancient cultures believed that what happened in the heavens reflected past, present and future events on Earth.\nThis was especially true for the Mayans. This loving people considered the distance in space and distance in time as the same thing.\nIn other words, looking far into the cosmos served as a kind of portal to the past. When the ancient Mayans observed the eclipses, they saw an event for which the moon seemed to eat the sun. They interpreted it as a vision of the cannibalistic practices of their ancestors, who had long been removed from their laws. The Mayans weren't the only ones who believed to see the sun being eaten. For ancient Chinese mythology, solar eclipses occurred when a dragon tried to devour the sun. In response, people hovered in the streets, playing drums to scare the dragon. For ancient Greeks, eclipses were a sign of rebuke of gods towards human beings, a kind of reprisal, so the sun abandoned the Earth.\nThe word eclipses would result etymologically in effect from the Greek term \"ekleipsis\", which means \"abandonment\" or \"an abandonment\". Inspired by a solar eclipse in 647 BC, the Archiloco poet wrote: \"There is nothing that is beyond hope, nothing that can be sworn impossible, nothing wonderful, because Zeus, the father of the gods of Olympus, made the night from midday, hiding the light of the shining sun, and a great fear came upon men.\"\nAccording to a legend of the Native American Choctaw, the cause of the eclipses was a disrespectful black squirrel that gnawed the Sun. Like the Chinese dragon, even the squirrel had to be frightened by the clamor and screams of the human witnesses of the event. The Ojibwa and Cree peoples told a story that a boy (or sometimes a dwarf) named Tcikabis sought revenge on the Sun for burning it. Despite her sister's protests, she captured the Sun in a lace, causing an eclipse. Several animals tried to free the Sun from the trap, but only the humble mouse could chew the ropes and bring the Sun back on its path.\nThe ancient Hindu mythology provides a very disturbing explanation for solar eclipses. According to legend, an astute demon named Rahu tried to drink the nectar of the gods and thus attain immortality. In disguise as a woman, Rahu attempted to participate in a feast of the gods but was discovered by Vishnu. For punishment, the demon was promptly beheaded, and it is his beheaded head that flies into the sky to obscure the Sun during an eclipse. Some versions say that Rahu actually managed to steal a sip of nectar but was beheaded before the helixir reached the rest of the body. His immortal head, constantly searching for the Sun, sometimes catches him and swallows him, but the Sun quickly reappears, because Rahu, having been taken, has no throat.&nbsp;",
+        "concepts": [
+            {
+                "word": "Cosmic",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cannibalism",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Irati",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "myths",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "sun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Irati",
+                "start_char": 23,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Hundreds of thousands",
+                "start_char": 0,
+                "end_char": 27,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "North America",
+                "start_char": 41,
+                "end_char": 54,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sun",
+                "start_char": 129,
+                "end_char": 132,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pacific",
+                "start_char": 205,
+                "end_char": 212,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 220,
+                "end_char": 228,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Earth",
+                "start_char": 493,
+                "end_char": 498,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Mayans",
+                "start_char": 533,
+                "end_char": 539,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mayans",
+                "start_char": 734,
+                "end_char": 740,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mayans",
+                "start_char": 954,
+                "end_char": 960,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1036,
+                "end_char": 1043,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Greeks",
+                "start_char": 1209,
+                "end_char": 1215,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Earth",
+                "start_char": 1323,
+                "end_char": 1328,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Greek",
+                "start_char": 1395,
+                "end_char": 1400,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "647",
+                "start_char": 1497,
+                "end_char": 1500,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "BC",
+                "start_char": 1501,
+                "end_char": 1503,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Zeus",
+                "start_char": 1635,
+                "end_char": 1639,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Olympus",
+                "start_char": 1667,
+                "end_char": 1674,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the night",
+                "start_char": 1681,
+                "end_char": 1690,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "midday",
+                "start_char": 1696,
+                "end_char": 1702,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Native American Choctaw",
+                "start_char": 1799,
+                "end_char": 1826,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sun",
+                "start_char": 1905,
+                "end_char": 1908,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1919,
+                "end_char": 1926,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Cree",
+                "start_char": 2052,
+                "end_char": 2056,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tcikabis",
+                "start_char": 2118,
+                "end_char": 2126,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sun",
+                "start_char": 2149,
+                "end_char": 2152,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sun",
+                "start_char": 2217,
+                "end_char": 2220,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sun",
+                "start_char": 2286,
+                "end_char": 2289,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sun",
+                "start_char": 2366,
+                "end_char": 2369,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hindu",
+                "start_char": 2400,
+                "end_char": 2405,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rahu",
+                "start_char": 2518,
+                "end_char": 2522,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rahu",
+                "start_char": 2614,
+                "end_char": 2618,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sun",
+                "start_char": 2813,
+                "end_char": 2816,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Rahu",
+                "start_char": 2859,
+                "end_char": 2863,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sun",
+                "start_char": 3020,
+                "end_char": 3023,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sun",
+                "start_char": 3073,
+                "end_char": 3076,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rahu",
+                "start_char": 3104,
+                "end_char": 3108,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

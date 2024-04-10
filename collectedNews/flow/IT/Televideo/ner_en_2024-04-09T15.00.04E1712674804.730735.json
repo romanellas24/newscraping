@@ -1,0 +1,1687 @@
+[
+    {
+        "title": "PIL AL +1%,DEBITO SALE MA SOTTO IL 140% Consiglio ministri approva il Def",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Pil al +1%,Debito sale ma sotto il 140% Il Consiglio dei ministri ha approvato il Documento di Economia e Finanza. Pil 2024 +1% (nella Nadef era +1,2%)  Il debito sale ma resta sotto quota 140 (al 137,8% quest'anno,per poi aumentare al 138,9% nel 2025 e a 139,8% nel 2026) Debito tendenziale al 4,3% del Pil quest'anno, che si ridurrà al 3,7% nel  2025,al 3% nel 2026 e al 2,2% nel 2027. Il ministro Giorgetti: \"Il debito sale perché \"è pesantemente condizionato dal superbonus\".\"Crescita in ribasso, pesa il quadro geopolitico\".   ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1712667605.36396,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "GDP AL +1%,DEBITO SALE MA under 140% Council Ministers approves the Def",
+        "en_content": "GDP at +1%, Debt rises but under 140% The Council of Ministers approved the Economic and Finance Document. Pil 2024 +1% (in Nadef it was +1.2%) The debt rises but remains below 140 (at 137.8% this year, then increase to 138.9% in 2025 and to 139.8% in 2026) Tenthial debt to 4.3% of GDP this year, which will be reduced to 3.7% in 2025, 3% in 2026 and 2.2% in 2027. Minister Giorgetti: \"The debt rises because \"it is heavily conditioned by superbonus\". \"Cressed down, weighs the geopolitical picture.\"",
+        "concepts": [
+            {
+                "word": "GDP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "AL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "+1%,DEBITO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SALE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ministers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Def",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "140%",
+                "start_char": 32,
+                "end_char": 36,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "under 140%",
+                "start_char": 27,
+                "end_char": 37,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "The Council of Ministers",
+                "start_char": 38,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nadef",
+                "start_char": 124,
+                "end_char": 129,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "140",
+                "start_char": 177,
+                "end_char": 180,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "137.8%",
+                "start_char": 185,
+                "end_char": 191,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "this year",
+                "start_char": 192,
+                "end_char": 201,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "138.9%",
+                "start_char": 220,
+                "end_char": 226,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2025",
+                "start_char": 230,
+                "end_char": 234,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "139.8%",
+                "start_char": 242,
+                "end_char": 248,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2026",
+                "start_char": 252,
+                "end_char": 256,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "4.3%",
+                "start_char": 275,
+                "end_char": 279,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "this year",
+                "start_char": 287,
+                "end_char": 296,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3.7%",
+                "start_char": 323,
+                "end_char": 327,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2025",
+                "start_char": 331,
+                "end_char": 335,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3%",
+                "start_char": 337,
+                "end_char": 339,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2026",
+                "start_char": 343,
+                "end_char": 347,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.2%",
+                "start_char": 352,
+                "end_char": 356,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2027",
+                "start_char": 360,
+                "end_char": 364,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giorgetti",
+                "start_char": 375,
+                "end_char": 384,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "PIL AL +1%,DEBITO SALE MA SOTTO IL 140% Consiglio dei ministri approva il Def  Il deficit tendenziale al 4,34%",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712667605.4105275,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "GDP AL +1%,DEBITO SALE MA SOTTO 140% Council of Ministers approves Def The deficit tends to 4,34%",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "GDP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "AL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "+1%,DEBITO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SALE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SOTTO",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ministers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Def",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deficit",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "140%",
+                "start_char": 32,
+                "end_char": 36,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Council of Ministers",
+                "start_char": 37,
+                "end_char": 57,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "4,34%",
+                "start_char": 92,
+                "end_char": 97,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "ISRAELE,40MILA TENDE PER EVACUARE RAFAH Netanyahu:\"C'è una data per l'attacco\"  Pressing Usa? \"Nessuno ci ferma\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Israele:40mila tende per evacuare Rafah Il governo di Israele sta acquistando 40mila tende allo scopo di preparare l' evacuazione di centinaia di migliaia di civili dall'area della città di Rafah, nell'estremità meridionale della Striscia di Gaza, dove le forze armate israeliane si apprestano all'annunciata offensiva di terra.    Il premier israeliano Netanyahu ha annunciato che è stata fissata una data per l'operazione dell'esercito israeliano nonostante gli altolà dei molti Paesi, anche gli Usa. \"Non c'è forza a mondo che ci fermerà\", ha avvertito,nonostante continu il pressing di Biden. ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1712667605.4191,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "ISRAELE,40MILA TENDE FOR EVACUARE RAFAH Netanyahu: \"Is there a date for the attack\" US Pressing? \"No one stops us\"",
+        "en_content": "Israel:40 thousand tents to evacuate Rafah The government of Israel is buying 40 thousand tents in order to prepare the evacuation of hundreds of thousands of civilians from the area of the city of Rafah, in the southern end of the Gaza Strip, where the Israeli armed forces are preparing for the announced offensive of land. Israeli premier Netanyahu announced that a date for the Israeli army was set up despite the highlands of many countries, including the US. \"There is no force in the world that will stop us,\" he warned, despite continuing Biden's pressing.",
+        "concepts": [
+            {
+                "word": "TENDE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "EVACUARE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RAFAH",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "date",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pressing",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "one",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Netanyahu",
+                "start_char": 40,
+                "end_char": 49,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US Pressing",
+                "start_char": 84,
+                "end_char": 95,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "one",
+                "start_char": 101,
+                "end_char": 104,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "thousand",
+                "start_char": 10,
+                "end_char": 18,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israel",
+                "start_char": 61,
+                "end_char": 67,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "40 thousand",
+                "start_char": 78,
+                "end_char": 89,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "hundreds of thousands",
+                "start_char": 134,
+                "end_char": 155,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 198,
+                "end_char": 203,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 228,
+                "end_char": 242,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 254,
+                "end_char": 261,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 326,
+                "end_char": 333,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 342,
+                "end_char": 351,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 382,
+                "end_char": 389,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "US",
+                "start_char": 461,
+                "end_char": 463,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Biden",
+                "start_char": 547,
+                "end_char": 552,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "ISIS MINACCIA LA CHAMPIONS:\"UCCIDETELI\" Allerta stadi Madrid,Parigi,Londra",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712667605.4796636,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "ISIS MINACCIA LA CHAMPIONS: \"UCCIDETELI\" Alert stadi Madrid,Paris,London",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "ISIS",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MINACCIA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CHAMPIONS",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UCCIDETELI",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "stadi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Madrid",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paris",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "London",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ISIS",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "LA",
+                "start_char": 14,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Madrid",
+                "start_char": 53,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Paris",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "London",
+                "start_char": 66,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "LA TURCHIA LIMITA EXPORT VERSO ISRAELE  Ankara: misura fino a tregua a Gaza",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Turchia limita export verso Israele  La Turchia ha imposto oggi limiti all' export di numerosi beni verso Israele, tra i quali prodotti in ferro e alluminio.      Annunciando la misura, il ministero del Commercio turco spiega: \"Questa decisione resterà in vigore fino a quando Israele non dichiarerà un cessate il fuoco immediato e consentirà l'accesso continuo degli aiuti umanitari a Gaza. Non c'è nessuna scusa perché Israele blocchi i nostri tentativi di paracadutare aiuti sulla Striscia\" (come accaduto ieri, ha denunciato Ankara). ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1712667605.5310304,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "THE TURKEY LIMITA EXPORT VERSO ISRAELE Ankara: measure up to truce in Gaza",
+        "en_content": "Turkey limits export to Israel Turkey has imposed limits on the export of many goods to Israel, including iron and aluminium products. Announcing the measure, the Turkish Ministry of Commerce explains: \"This decision will remain in force until Israel declares an immediate ceasefire and will allow continuous access to humanitarian aid in Gaza. There is no excuse because Israel blocks our attempts to parachute aid on the Strip\" (as happened yesterday, denounced Ankara).",
+        "concepts": [
+            {
+                "word": "TURKEY",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LIMITA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "EXPORT",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VERSO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ankara",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "THE TURKEY LIMITA EXPORT VERSO ISRAELE Ankara",
+                "start_char": 0,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 88,
+                "end_char": 94,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Turkish Ministry of Commerce",
+                "start_char": 159,
+                "end_char": 191,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 244,
+                "end_char": 250,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 339,
+                "end_char": 343,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 372,
+                "end_char": 378,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Strip",
+                "start_char": 423,
+                "end_char": 428,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 443,
+                "end_char": 452,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 464,
+                "end_char": 470,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "ISIS MINACCIA LA CHAMPIONS:\"UCCIDETELI\" Nel mirino stadi a Madrid,Parigi,Londra Notizia diffusa dai media spagnoli",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Minacce Isis su Champions: \"Uccideteli\" L'Isis ha minacciato di colpire quattro stadi che ospiteranno le gare di andata dei quarti di finale di Champions  League. Ne danno notizia diversi media spagnoli che citano i canali di diffusione dei messaggi dello stato islamico L'Isis ha pubblicato un'immagine di 4 stadi, due a Madrid dove si giocheranno Real Madrid-Manchester City stasera e Atletico Madrid-Borussia Dortmund domani sera, uno a Parigi dove si giocherà domani Psg-Barcellona, e uno a Londra dove si disputa stasera Arsenal-Bayern, con la scritta \"Uccideteli tutti\".  ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1712667605.5438464,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "ISIS MINACCIA LA CHAMPIONS: \"UCCIDETELI\" In the sights in Madrid,Paris,London News widespread by Spanish media",
+        "en_content": "Isis threats on Champions: Kill them. Isis has threatened to hit four stadiums that will host the Champions League quarter-final rounds. The Isis has published an image of 4 stages, two in Madrid where they will play Real Madrid-Manchester City tonight and Atletico Madrid-Borussia Dortmund tomorrow evening, one in Paris where they will play tomorrow Psg-Barcellona, and one in London where they will play tonight Arsenal-Bayern, with the written \"Ucci\".",
+        "concepts": [
+            {
+                "word": "ISIS",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MINACCIA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "LA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CHAMPIONS",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UCCIDETELI",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "sights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Madrid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Paris",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "London",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "News",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "media",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ISIS",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "LA",
+                "start_char": 14,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Madrid",
+                "start_char": 58,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Paris",
+                "start_char": 65,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "London News",
+                "start_char": 71,
+                "end_char": 82,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Spanish",
+                "start_char": 97,
+                "end_char": 104,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "four",
+                "start_char": 65,
+                "end_char": 69,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Isis",
+                "start_char": 141,
+                "end_char": 145,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "4",
+                "start_char": 172,
+                "end_char": 173,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 182,
+                "end_char": 185,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Madrid",
+                "start_char": 189,
+                "end_char": 195,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Real Madrid-",
+                "start_char": 217,
+                "end_char": 229,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "tonight",
+                "start_char": 245,
+                "end_char": 252,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Atletico Madrid-Borussia Dortmund",
+                "start_char": 257,
+                "end_char": 290,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 291,
+                "end_char": 299,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "evening",
+                "start_char": 300,
+                "end_char": 307,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Paris",
+                "start_char": 316,
+                "end_char": 321,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 343,
+                "end_char": 351,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Psg-Barcellona",
+                "start_char": 352,
+                "end_char": 366,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "London",
+                "start_char": 379,
+                "end_char": 385,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tonight",
+                "start_char": 407,
+                "end_char": 414,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Arsenal-Bayern",
+                "start_char": 415,
+                "end_char": 429,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Ucci",
+                "start_char": 449,
+                "end_char": 453,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "CINA: COOPERAZIONE STRATEGICA CON MOSCA Wang e Lavrov: \"Sostegno reciproco\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Cina:\"cooperazione strategica\"con Mosca \"Pechino e Mosca continueranno a rafforzare la cooperazione strategica sulla scena mondiale e si sosterranno reciprocamente\". Lo ha detto il ministro degli Esteri cinese,Wang Ye,incontrando l'omologo russo Lavrov.    Lavrov ha aggiunto che i due Paesi continueranno la cooperazione nella lotta al terrorismo anche con meccanismi multilaterali. \"Ringrazio la parte cinese per il cordoglio espresso sull'attacco terroristico nella regione di Mosca del 22 marzo\". A sorpresa,e in previsione della visita di Putin in Cina, Lavrov è stato ricevuto anche dal presidente Xi.",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1712667605.744139,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "CHINA: STRATEGICAL COOPERATION WITH MOSCA Wang and Lavrov: \"Common support\"",
+        "en_content": "China: \"strategic cooperation\" with Moscow \"Pechino and Moscow will continue to strengthen strategic cooperation on the world stage and will support each other\". Chinese Foreign Minister Wang Ye said so, meeting Russian Honour Lavrov. Lavrov added that the two countries will continue cooperation in the fight against terrorism even with multilateral mechanisms. \"I thank the Chinese side for the mourning expressed on the terrorist attack in the Moscow region of 22 March\". Surprisingly, and in anticipation of Putin's visit to China, Lavrov was also received by President Xi.",
+        "concepts": [
+            {
+                "word": "CHINA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COOPERATION",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MOSCA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wang",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lavrov",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "support",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "MOSCA Wang",
+                "start_char": 36,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 51,
+                "end_char": 57,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "China",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 36,
+                "end_char": 42,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pechino",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 56,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 162,
+                "end_char": 169,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Wang Ye",
+                "start_char": 187,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian Honour Lavrov",
+                "start_char": 212,
+                "end_char": 233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 235,
+                "end_char": 241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 257,
+                "end_char": 260,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 376,
+                "end_char": 383,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 447,
+                "end_char": 453,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "22 March",
+                "start_char": 464,
+                "end_char": 472,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Putin",
+                "start_char": 512,
+                "end_char": 517,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "China",
+                "start_char": 529,
+                "end_char": 534,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 536,
+                "end_char": 542,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Xi",
+                "start_char": 574,
+                "end_char": 576,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "ANTITRUST: APPARECCHI ACUSTICI COSTOSI  \"Offerte commerciali poco trasparenti\"  Prezzi più alti che in altri Paesi\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Apparecchi acustici, Antitrust: costosi L'Antritrust segnala al Parlamento,alle Regioni e Province autonome, nonché ai ministeri della Salute e dell'Economia, criticità sulla trasparenza delle offerte al pubblico e delle forniture del Ssn degli apparecchi acustici.  L'Autorità parla di \"scarsa trasparenza delle condizioni commerciali praticate al pubblico\". Inoltre, rispetto ad altri Paesi, il prezzo medio degli apparecchi in Italia, tra i 1.500 e i 2.100 euro, risulta superiore e con minori sostegni del pubblico per facilitarne l'acquisto.     ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1712667605.8429773,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "ANTITRUST: ACUSTICAL APPARECCHI COSTOSI \"Untransparent trade offers\" Higher prices than in other countries\"",
+        "en_content": "Hearing Aids, Antitrust: The Antritrust reports to the Parliament, the autonomous Regions and Provinces, as well as the Health and Economy ministries, criticality on the transparency of offers to the public and the Ssn supplies of hearing aids. The Authority speaks of \"transparency of commercial conditions practised to the public\". In addition, compared to other countries, the average price of luminaires in Italy, between 1,500 and 2,100 euros, is higher and with smaller supports of the public to facilitate their purchase.",
+        "concepts": [
+            {
+                "word": "ANTITRUST",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ACUSTICAL",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "APPARECCHI",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COSTOSI",
+                "meaning": "nmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "prices",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "countries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ACUSTICAL APPARECCHI COSTOSI",
+                "start_char": 11,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Antritrust",
+                "start_char": 29,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 55,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Regions and Provinces",
+                "start_char": 82,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Health and Economy ministries",
+                "start_char": 116,
+                "end_char": 149,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ssn",
+                "start_char": 215,
+                "end_char": 218,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Authority",
+                "start_char": 249,
+                "end_char": 258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 411,
+                "end_char": 416,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "between 1,500 and 2,100",
+                "start_char": 418,
+                "end_char": 441,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "BRENNERO, PROSEGUE PROTESTA COLDIRETTI  Controlli per falso Made in Italy",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Brennero,proseguono proteste Coldiretti Proseguono per il secondo giorno le  proteste Coldiretti contro il\"fake Italy\" al Brennero. Gli agricoltori sono al valico per seguire i controlli a  campione da parte delle forze dell'ordine, sulle merci che vi transitano  ogni giorno.     Tonnellate di patate entrano dai valichi e poi sono riconfezionate con un nastrino tricolore;prosciutti dalla Polonia e uova non etichettate dai Paesi dell'Est. Di fatto concorrenza sleale, visto che si importano prodotti coltivati con fitofarmaci vietati in Italia.",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1712667605.8482785,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "BRENNERO, PROSEGUE PROTESTA COLDIRETTI Controls for false Made in Italy",
+        "en_content": "Brennero, Coldiretti protests continue for the second day Coldiretti protests against Fake Italy at Brennero. Farmers are at the crossroads to follow the inspections by law enforcement agencies, on the goods that transit them every day. Tons of potatoes enter from the valics and then are repacked with a tricolor ribbon; prosciutti from Poland and eggs not labeled by the countries of the East. As a matter of fact unfair competition, since they import grown products with pesticides prohibited in Italy.",
+        "concepts": [
+            {
+                "word": "BRENNERO",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PROSEGUE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PROTESTA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COLDIRETTI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Controls",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "BRENNERO",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 66,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Brennero",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 10,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the second day",
+                "start_char": 43,
+                "end_char": 57,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 58,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fake Italy",
+                "start_char": 86,
+                "end_char": 96,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Brennero",
+                "start_char": 100,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Poland",
+                "start_char": 338,
+                "end_char": 344,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "East",
+                "start_char": 390,
+                "end_char": 394,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italy",
+                "start_char": 499,
+                "end_char": 504,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "MARZO E' STATO IL PIU' CALDO DI SEMPRE  Copernicus: nell'ultimo anno +1,68°",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1712667605.8589072,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "MARZO It's been the most important CALDO DI SEMPRE Copernicus: in the last year +1,68°",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "MARZO",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "CALDO",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SEMPRE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Copernicus",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "+1,68",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "°",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the last year +1,68",
+                "start_char": 66,
+                "end_char": 85,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "GIORGETTI:\"DEBITO SALE PER SUPERBONUS\"  \"Pensiamo a altri tagli alla spesa\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Giorgetti:pensiamo ad altri tagli spesa \"Non auspicavamo il disastro del Superbonus anche se credo di averlo evocato diverse volte. Questo complica il quadro, onestamente\".Così il ministro dell'Economia dopo il CdM che ha approvato il Def.Con le verifiche,annullati o sequestrati già 16mld e \"si va avanti\". \"Pensiamo a ulteriori tagli di spesa\". \"L'obiettivo è replicare il taglio del cuneo anche nel 2025\".   Sul Pnrr \"ho già chiesto la proroga oltre 2026. Dietro il no alla proroga, un largo fronte di Paesi contro debito Ue per progetti come Next Generation EU. ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1712667605.8807113,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "_",
+        "en_content": "Giorgetti: we think of other spending cuts \"We didn't want the Superbonus disaster even if I think I evoked it several times. This complicates the picture, honestly.\" Thus the Minister of Economy after the Board of Directors who approved the Def.With the verifications, nodded or seized already 16mld and \"go ahead\". \"Let's think of additional expense cuts.\" \"The goal is to replicate the wedge cut in 2025.\" On the Pnrr \"I have already asked for the extension over 2026. Behind the no extension, a broad front of EU debt countries for projects such as Next Generation EU.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Giorgetti",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Board of Directors",
+                "start_char": 202,
+                "end_char": 224,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 242,
+                "end_char": 245,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "16mld",
+                "start_char": 295,
+                "end_char": 300,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2025",
+                "start_char": 402,
+                "end_char": 406,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2026",
+                "start_char": 466,
+                "end_char": 470,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 514,
+                "end_char": 516,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Next Generation EU",
+                "start_char": 553,
+                "end_char": 571,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "P.CHIGI: \"NESSUN RISCHIO SIU MERCATI\"  Def sarà \"più asciutto e lineare\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Def \"più asciutto,no rischi su mercati\" Approvato \"nei tempi previsti\", il Def sarà \"molto più asciutto\" dei precedenti e funzionerà nel 2024 in \"regime  transitorio\" poiché \"sono cambiate le regole di programmazione economica Ue\". Così fonti di governo. La sospensione delle vecchie procedure \"è stata concordata a livello Ue\". \"Processo lineare, non ci sono rischi incertezze mercati\".Nel Def \"numeri realistici\",emergerà \"pesante impatto\" del Superbonus. Previste anche \"nuove tempistiche\": il Piano di medio termine sarà in Commissione Ue \"entro il 20 settembre\". ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1712667605.9268296,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "_ Def will be \"dryer and linear\"",
+        "en_content": "Def \"dryer, no risks on markets\" Approved \"in the foreseen times\", the Def will be \"very dry\" of the preceding and will work in 2024 in \"transitional regime\" since \"the rules of economic programming have changed\". So sources of government. The suspension of the old procedures \"was agreed at EU level\". \" Linear process, there are no uncertain market risks.\" In the Def \"realistic numbers\", it will emerge \"heavy impact\" of the Superbonus. Also predicted \"new timing\": the medium-term plan will be in the EU Commission \"within 20 September\".",
+        "concepts": [
+            {
+                "word": "Def",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "dryer",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Def",
+                "start_char": 2,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Def",
+                "start_char": 71,
+                "end_char": 74,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "2024",
+                "start_char": 128,
+                "end_char": 132,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 292,
+                "end_char": 294,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Linear",
+                "start_char": 305,
+                "end_char": 311,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 366,
+                "end_char": 369,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Superbonus",
+                "start_char": 428,
+                "end_char": 438,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the EU Commission",
+                "start_char": 501,
+                "end_char": 518,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "20 September",
+                "start_char": 527,
+                "end_char": 539,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1712667605.943546,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 15:00:05",
+        "filename": "ner_conc_en_2024-04-09T15.00.04E1712674804.730735.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]

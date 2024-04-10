@@ -1,0 +1,561 @@
+[
+    {
+        "title": "Un groupe d'experts indépendants enquêtera sur l'accident du bateau \"Simplon\"",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/un-groupe-d-experts-independants-enquetera-sur-l-accident-du-bateau-simplon-28462765.html",
+        "duration": " ",
+        "ranked": 0,
+        "epoch": 1712691017.7287235,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "A group of independent experts will investigate the \"Simplon\" boat accident",
+        "concepts": [
+            {
+                "word": "group",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "experts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Simplon",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boat",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "accident",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Simplon",
+                "start_char": 53,
+                "end_char": 60,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    },
+    {
+        "title": "Benoît Gaillard, président de la CGN, s’exprime sur l’enquête et l’accident du Simplon",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/benoit-gaillard-president-de-la-cgn-s-exprime-sur-l-enquete-et-l-accident-du-simplon-28462763.html",
+        "duration": " ",
+        "ranked": 1,
+        "epoch": 1712691017.728951,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "Benoît Gaillard, President of the CGN, speaks on the investigation and accident of the Simplon",
+        "concepts": [
+            {
+                "word": "Benoît",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gaillard",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "President",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "CGN",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "investigation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "accident",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Simplon",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Benoît Gaillard",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "CGN",
+                "start_char": 34,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Le PLR propose d’augmenter la hauteur des bâtiments pour lutter contre la pénurie de logements",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-plr-propose-d-augmenter-la-hauteur-des-batiments-pour-lutter-contre-la-penurie-de-logements-28462761.html",
+        "duration": " ",
+        "ranked": 2,
+        "epoch": 1712691017.729106,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "PLR proposes raising the height of buildings to address housing shortage",
+        "concepts": [
+            {
+                "word": "PLR",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "height",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "buildings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "housing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shortage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "PLR",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Le taux de chômage se stabilise à 2,4% au mois de mars en Suisse",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-taux-de-chomage-se-stabilise-a-2-4-au-mois-de-mars-en-suisse-28462764.html",
+        "duration": " ",
+        "ranked": 3,
+        "epoch": 1712691017.7292385,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "Unemployment rate stabilizes at 2.4% in March in Switzerland",
+        "concepts": [
+            {
+                "word": "Unemployment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "March",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Switzerland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "2.4%",
+                "start_char": 32,
+                "end_char": 36,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "March",
+                "start_char": 40,
+                "end_char": 45,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Switzerland",
+                "start_char": 49,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "\"Si le Congrès américain n’aide pas l’Ukraine, l’Ukraine perdra la guerre\", prévient Volodymyr Zelensky",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/si-le-congres-americain-n-aide-pas-l-ukraine-l-ukraine-perdra-la-guerre-previent-volodymyr-zelensky-28462762.html",
+        "duration": " ",
+        "ranked": 4,
+        "epoch": 1712691017.7293692,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "\"If the US Congress does not help Ukraine, Ukraine will lose the war,\" warns Zelensky",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Congress",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Zelensky",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the US Congress",
+                "start_char": 4,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 34,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 43,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 77,
+                "end_char": 85,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Quatre jeunes mis en examen après la mort d’un adolescent passé à tabac près de son école en France",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/quatre-jeunes-mis-en-examen-apres-la-mort-d-un-adolescent-passe-a-tabac-pres-de-son-ecole-en-france-28462768.html",
+        "duration": " ",
+        "ranked": 5,
+        "epoch": 1712691017.7294977,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "Four young people charged after the death of a teenager beaten near his school in France",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "teenager",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Four",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "France",
+                "start_char": 82,
+                "end_char": 88,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "A Bienne, la vente-événement de la nouvelle MoonSwatch rencontre un franc succès",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/a-bienne-la-vente-evenement-de-la-nouvelle-moonswatch-rencontre-un-franc-succes-28462779.html",
+        "duration": " ",
+        "ranked": 6,
+        "epoch": 1712691017.7296326,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "In Biel, the sale-event of the new MoonSwatch is a great success",
+        "concepts": [
+            {
+                "word": "Biel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sale",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "event",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MoonSwatch",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "success",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "MoonSwatch",
+                "start_char": 35,
+                "end_char": 45,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    },
+    {
+        "title": "En hockey, le LHC gagne en confiance après deux matchs gagnés sur trois",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/en-hockey-le-lhc-gagne-en-confiance-apres-deux-matchs-gagnes-sur-trois-28462776.html",
+        "duration": " ",
+        "ranked": 7,
+        "epoch": 1712691017.7297547,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "In hockey, the LHC gains confidence after two out of three wins",
+        "concepts": [
+            {
+                "word": "hockey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "LHC",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "confidence",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "two",
+                "start_char": 42,
+                "end_char": 45,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three",
+                "start_char": 53,
+                "end_char": 58,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Les invitées du 12h30 - L'exposition \"Dessine-moi la vigne de demain\" avec Delphine Niederberger et Muriel Borgeat-Theler",
+        "date_raw": "April 08, 2024",
+        "date": "2024-04-08",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-guillaume-rey-28462774.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/les-invitees-du-12h30-l-exposition-dessine-moi-la-vigne-de-demain-avec-delphine-niederberger-et-muriel-borgeat-theler-28462778.html",
+        "duration": " ",
+        "ranked": 8,
+        "epoch": 1712691017.7298758,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-09 21:30:17",
+        "filename": "ner_conc_en_2024-04-08.json",
+        "en_title": "The guests of 12:30 - The exhibition \"Draw me the vine of tomorrow\" with Delphine Niederberger and Muriel Borgeat-Theler",
+        "concepts": [
+            {
+                "word": "guests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "exhibition",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vine",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tomorrow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Delphine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Niederberger",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Muriel",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Borgeat",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Theler",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "tomorrow",
+                "start_char": 58,
+                "end_char": 66,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Delphine Niederberger",
+                "start_char": 73,
+                "end_char": 94,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Muriel Borgeat-Theler",
+                "start_char": 99,
+                "end_char": 120,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

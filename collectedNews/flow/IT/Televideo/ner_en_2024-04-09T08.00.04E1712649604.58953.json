@@ -1,0 +1,1524 @@
+[
+    {
+        "title": "Tajani:\"Evitare un'altra Chernobyl\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Zaporizhzhia,Tajani: no altra Chernobyl \"Mi preoccupa la guerra in corso. Bisogna creare una zona franca attorno a Zaporizhzhia. E' bene che le forze in campo non combattano intorno o dentro la centrale. Bisogna evitare un'altra Chernobyl. Speriamo prevalga sempre il buonsenso\".Così il ministro degli Esteri Tajani.     Riguardo al Medioriente \"il governo lavora per una de-escalation. Sapendo però che Hamas ha la grande responsabilità di aver scatenato questo inferno\", afferma Tajani.    ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1712642405.0477593,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "Tajani: \"To avoid another Chernobyl\"",
+        "en_content": "Zaporizhzhia,Tajani: no other Chernobyl \"I care about the ongoing war. You have to create a free zone around Zaporizhzhia. It's good that the forces in the field don't fight around or inside the power station. We have to avoid another Chernobyl. We hope that common sense always prevails.\" So the Foreign Minister Tajani. Regarding the Middle East, \"the government works for a de-escalation. But knowing that Hamas has the great responsibility to have unleashed this hell,\" says Tajani.",
+        "concepts": [
+            {
+                "word": "Tajani",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Chernobyl",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Chernobyl",
+                "start_char": 26,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chernobyl",
+                "start_char": 30,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 109,
+                "end_char": 121,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chernobyl",
+                "start_char": 235,
+                "end_char": 244,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 314,
+                "end_char": 320,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 332,
+                "end_char": 347,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 409,
+                "end_char": 414,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tajani",
+                "start_char": 479,
+                "end_char": 485,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "OGGI IL DEF IN CONSIGLIO DEI MINISTRI  In arrivo modifiche tasse e imposte",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Oggi il Def in Consiglio dei ministri Convocato stamane il Consiglio dei ministri che esaminerà il Documento di economia e finanza, nonché il dlgs per la razionalizzazione dell'imposta di registro, dell'imposta sulle successioni e donazioni, dell'imposta di bollo e degli altri tributi indiretti.  Il Def contiene solo dati tendenziali in attesa del nuovo Patto di stabilità Ue, scelta che per le opposizioni serve ad occultare difficoltà nella programmazione di Bilancio.Il ministro dell'Economia, Giorgetti, non prevede una manovra aggiuntiva,ma preoccupa l'impatto del bonus edilizio sull'anno in corso. ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1712642405.0634623,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "OGGI THE DEF IN COUNCIL OF MINISTERS Incoming changes taxes and taxes",
+        "en_content": "Today the Def in Council of Ministers convened this morning the Council of Ministers which will examine the Economics and Finance Document, as well as the Legislative Decree on the rationalization of the register tax, inheritance tax and donations, stamp tax and other indirect taxes. The Def contains only tensile data waiting for the new EU Stability Pact, a choice that for the oppositions serves to conceal difficulties in budget programming. The Minister of Economy, Giorgetti, does not provide additional manoeuvre, but concerns the impact of the building bonus on the current year.",
+        "concepts": [
+            {
+                "word": "OGGI",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "DEF",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COUNCIL",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MINISTERS",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "changes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taxes",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taxes",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Council of Ministers",
+                "start_char": 17,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "this morning",
+                "start_char": 47,
+                "end_char": 59,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 60,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Economics and Finance Document",
+                "start_char": 104,
+                "end_char": 138,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Legislative Decree",
+                "start_char": 151,
+                "end_char": 173,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 289,
+                "end_char": 292,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "EU Stability Pact",
+                "start_char": 340,
+                "end_char": 357,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgetti",
+                "start_char": 472,
+                "end_char": 481,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the current year",
+                "start_char": 571,
+                "end_char": 587,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "MOSCA-KIEV, PIANO TRUMP PER STOP GUERRA L'Ucraina ceda Donbass e la Crimea",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Piano Trump per stop guerra Mosca-Kiev Se tornasse alla Casa Bianca, l'ex presidente Trump avrebbe un piano segreto per mettere fine alla guerra tra Russia e Ucraina in 24 ore. Lo riporta il Washington Post.    Per Trump servono pressioni sull'Ucraina perché ceda la Crimea e il Donbass alla Russia. E' convinto che sia Mosca che Kiev \"vogliano salvare la faccia. Vogliono una via d'uscita\".   Smentisce un consigliere di Trump, Miller:\"Notizia falsa del WP. Trump è il solo a parlare di fermare le uccisioni\"",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1712642405.070265,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "MOSCA-KIEV, TRUMP PLAN FOR GUERRA STOP Ukraine ceda Donbass and Crimea",
+        "en_content": "Trump plan for stop war Moscow-Kiev If he returned to the White House, former President Trump would have a secret plan to end the war between Russia and Ukraine in 24 hours. The Washington Post. Trump needs pressure on Ukraine to stop Crimea and Donbass from Russia. He's convinced that both Moscow and Kiev \"want to save their face. They want a way out.\" He denies Trump's advisor, Miller:\"WP's fake news. Trump is the only one to talk about stopping the killings\"",
+        "concepts": [
+            {
+                "word": "MOSCA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "KIEV",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "TRUMP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PLAN",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GUERRA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Donbass",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Crimea",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "TRUMP PLAN",
+                "start_char": 12,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "GUERRA",
+                "start_char": 27,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 39,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Donbass",
+                "start_char": 52,
+                "end_char": 59,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Crimea",
+                "start_char": 64,
+                "end_char": 70,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Trump",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the White House",
+                "start_char": 54,
+                "end_char": 69,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump",
+                "start_char": 88,
+                "end_char": 93,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 142,
+                "end_char": 148,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 153,
+                "end_char": 160,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "24 hours",
+                "start_char": 164,
+                "end_char": 172,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "The Washington Post",
+                "start_char": 174,
+                "end_char": 193,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump",
+                "start_char": 195,
+                "end_char": 200,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 219,
+                "end_char": 226,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Crimea",
+                "start_char": 235,
+                "end_char": 241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Donbass",
+                "start_char": 246,
+                "end_char": 253,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 259,
+                "end_char": 265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 292,
+                "end_char": 298,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 303,
+                "end_char": 307,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trump",
+                "start_char": 366,
+                "end_char": 371,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 407,
+                "end_char": 412,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "SERIE A,POSTICIPO UDINESE-INTER 1-2",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "     ",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1712642405.075333,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "SERIES A,POSTICIO UDINESE-INTER 1-2",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "SERIES",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "A",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "POSTICIO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UDINESE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "INTER",
+                "meaning": "npadvmod",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "ZAPORIZHZHIA, GRAVE RISCHIO NUCLEARE   Aiea:danneggiato involucro reattore",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Zaporizhzhia,Aiea:seri rischi incidenti Gli \"attacchi sconsiderati\" alla centrale nucleare di Zaporizhzhia \"aumentano significativamente il rischio di un grave incidente nucleare e devono cessare immediatamente\": così il direttore Aiea, Grossi. Danneggiato l'involucro di un reattore, \"non compromessa la sicurezza nucleare ma un incidente grave, col potenziale per minare l'integrità del sistema di contenimento\". L'attacco di ieri alla centrale è \"una chiara violazione dei principi fondamentali per la protezione della maggiore centrale nucleare europea\", ha detto Nella notte tre morti nei raid russi. ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1712642405.0801716,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "ZAPORIZHZHIA, GRAVE RESCHIO NUCLEAR Ayea: damaged reactor casing",
+        "en_content": "Zaporizhzhia,Aiea:seri accident risks The \"undesired attacks\" at the nuclear power station of Zaporizhzhia \" significantly increase the risk of a serious nuclear accident and must cease immediately\": So Director Aiea, Grossi. Damaged the envelope of a reactor, \"not compromised nuclear safety but a serious accident, with the potential to undermine the integrity of the containment system\". Yesterday's attack at the station is \"a clear violation of the fundamental principles for the protection of the major European nuclear power plant\", said On the night three deaths in the Russian raids.",
+        "concepts": [
+            {
+                "word": "ZAPORIZHZHIA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GRAVE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RESCHIO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NUCLEAR",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ayea",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "reactor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "casing",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ZAPORIZHZHIA",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "seri",
+                "start_char": 18,
+                "end_char": 22,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 94,
+                "end_char": 106,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aiea",
+                "start_char": 212,
+                "end_char": 216,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Grossi",
+                "start_char": 218,
+                "end_char": 224,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yesterday",
+                "start_char": 391,
+                "end_char": 400,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 509,
+                "end_char": 517,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the night",
+                "start_char": 548,
+                "end_char": 557,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "three",
+                "start_char": 558,
+                "end_char": 563,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 578,
+                "end_char": 585,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Scambio accuse Mosca-Kiev sui raid",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Zaporizhzhia, scambio accuse Mosca-Kiev Mosca definisce \"una provocazione molto pericolosa\" gli attacchi sulla centrale nucleare di Zaporizhzhia, attribuendone la responsabilità alle forze ucraine. \"I dipendenti dell'Aiea sul posto hanno avuto l'opportunità di assistere a questi attacchi.Una tattica con conseguenze molto negative a lungo termine\",dice il portavoce del Cremlino Peskov.  Kiev respinge le accuse al mittente. La Russia intensifica \"la campagna di provocazioni e falsità.Attacca il sito con i droni, fingendo che la minaccia alla sicurezza nucleare venga dall'Ucraina\".",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1712642405.085492,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "Exchange charges Moscow-Kiev on raids",
+        "en_content": "Zaporizhzhia, exchange accusations Moscow-Kiev Moscow defines \"a very dangerous provocation\" attacks on the nuclear power plant of Zaporizhzhia, giving it responsibility to the Ukrainian forces. \"Aiea employees on site had the opportunity to assist these attacks. A tactic with very negative long-term consequences,\" says Kremlin Peskov's spokesman. Kiev rejects the charges to the sender. Russia intensifies \"the campaign of provocations and falsehood. Attack the site with drones, pretending that the threat to nuclear safety comes from Ukraine.\"",
+        "concepts": [
+            {
+                "word": "Exchange",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Moscow",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kiev",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "raids",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 35,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 47,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 131,
+                "end_char": 143,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 177,
+                "end_char": 186,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kremlin Peskov's",
+                "start_char": 322,
+                "end_char": 338,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 350,
+                "end_char": 354,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 390,
+                "end_char": 396,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 539,
+                "end_char": 546,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "MARZO E' STATO IL PIU' CALDO DI SEMPRE  Copernicus: nell'ultimo anno +1,68°",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1712642405.1384614,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "MARZO It's been the most important CALDO DI SEMPRE Copernicus: in the last year +1,68°",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "MARZO",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "CALDO",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "DI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SEMPRE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Copernicus",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "+1,68",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "°",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the last year +1,68",
+                "start_char": 66,
+                "end_char": 85,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "ZAPORIZHZHIA, GRAVE RISCHIO NUCLEARE   Tajani:\"Evitare un'altra Cernobyl\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1712642405.145597,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "_",
+        "en_content": "",
+        "concepts": []
+    },
+    {
+        "title": "GIORGETTI: NESSUNA MANOVRA CORRETTIVA  \"Il Mef rispetterà obiettivi Nadef\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712642405.192587,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "_",
+        "en_content": "",
+        "concepts": []
+    },
+    {
+        "title": "In mattinata Def all'esame del Cdm",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1712642405.1985683,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "In the morning Def at the examination of the Cdm",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "morning",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Def",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "examination",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Cdm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Def",
+                "start_char": 15,
+                "end_char": 18,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "ROMA, ARRESTATO MEMBRO ATTIVO DELL'ISIS Dalla Digos in aeroporto Fiumicino",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712642405.2137287,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "ROMA, ARRESTED MEMBRO ISIS ACTIVE From Digos to Fiumicino airport",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "ROMA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MEMBRO",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISIS",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ACTIVE",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Digos",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Fiumicino",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "airport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ARRESTED MEMBRO",
+                "start_char": 6,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Digos",
+                "start_char": 39,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Fiumicino",
+                "start_char": 48,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PREZZO BENZINA TORNA A MASSIMI OTTOBRE  In media 1,91 euro/litro al self",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Benzina torna ai massimi di 6 mesi fa Con una media al self di 1,911 euro, il prezzo della benzina è tornato ai massimi del 19/10. Le compagnie oscillano tra 1,906 e 1,928 euro/litro, mentre i distributori no logo sono a 1,897. Il prezzo medio praticato del diesel self è 1,811 euro al litro (da 1,803). Sul servito per la benzina il prezzo medio è 2,048 euro al litro (da 2,037): le compagnie tra 1,999 e 2,131; no logo a 1,950. Diesel servito a 1,951 euro: prezzi medi delle compagnie 1,889-2,029 euro/litro e no logo a 1,853 euro.  ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1712642405.230614,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "PRICE BENZINA TORNA TO MASSIMI OCTOBER Average 1,91 euro/liter to self",
+        "en_content": "Benzina returns to the maximum of 6 months ago With an average self of 1,911 euros, the price of gasoline is back to the maximum of 19/10. The companies range between 1,906 and 1,928 euro/liter, while the distributors no logo are at 1.897. The average price of self diesel is 1.811 euro per liter (from 1,803). On the gasoline service the average price is 2,048 euros per liter (from 2,037): the companies between 1,999 and 2,131; no logo to 1,950. Diesel served at 1,951 euro: average prices of 1,889-2,029 euro/liter and no logo at 1,853 euro.",
+        "concepts": [
+            {
+                "word": "PRICE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "BENZINA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TORNA",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MASSIMI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "OCTOBER",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Average",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "euro",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "liter",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "self",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "OCTOBER",
+                "start_char": 31,
+                "end_char": 38,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Benzina",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "6 months ago",
+                "start_char": 34,
+                "end_char": 46,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1,911",
+                "start_char": 71,
+                "end_char": 76,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "19/10",
+                "start_char": 132,
+                "end_char": 137,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "between 1,906 and 1,928",
+                "start_char": 159,
+                "end_char": 182,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.897",
+                "start_char": 233,
+                "end_char": 238,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.811 euro",
+                "start_char": 276,
+                "end_char": 286,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "1,803",
+                "start_char": 303,
+                "end_char": 308,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2,048 euros per liter",
+                "start_char": 356,
+                "end_char": 377,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "2,037",
+                "start_char": 384,
+                "end_char": 389,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "between 1,999 and 2,131",
+                "start_char": 406,
+                "end_char": 429,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1,950",
+                "start_char": 442,
+                "end_char": 447,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Diesel",
+                "start_char": 449,
+                "end_char": 455,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1,951 euro",
+                "start_char": 466,
+                "end_char": 476,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "1,889-2,029 euro",
+                "start_char": 496,
+                "end_char": 512,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "1,853 euro",
+                "start_char": 534,
+                "end_char": 544,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    },
+    {
+        "title": "GIORGETTI: NESSUNA MANOVRA CORRETTIVA  \"Il Mef rispetterà i target Nadef\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Giorgetti: nessuna manovra correttiva Niente manovra correttiva in arrivo, il Mef rispetterà i target inseriti nella nota di aggiornamento al Def.   Lo ha assicurato il ministro dell'Economia, Giorgetti, alla vigilia del CdM convocato per la mattinata.   C'è bisogno di una manovra correttiva? \"No. Vogliamo rispettare esattamente gli obiettivi della Nadef presentata in autunno per una questione di credibilità. Se c'è qualcosa da correggere la correggeremo ma sostanzialmente siamo in linea\", ha spiegato il ministro. ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1712642405.2358797,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "_",
+        "en_content": "Giorgetti: no corrective manoeuvre No corrective manoeuvre coming, the Mef will respect the targets inserted in the update note at the Def. The Minister of Economy, Giorgetti, on the eve of the CdM convened for the morning. Need a corrective manoeuvre? \"No. We want to respect exactly the goals of Nadef presented in autumn for a question of credibility. If there is something to correct we will correct but basically we are online\", the minister explained.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Giorgetti",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mef",
+                "start_char": 71,
+                "end_char": 74,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 135,
+                "end_char": 138,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Giorgetti",
+                "start_char": 165,
+                "end_char": 174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the eve",
+                "start_char": 179,
+                "end_char": 186,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "CdM",
+                "start_char": 194,
+                "end_char": 197,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the morning",
+                "start_char": 211,
+                "end_char": 222,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Nadef",
+                "start_char": 298,
+                "end_char": 303,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "autumn",
+                "start_char": 317,
+                "end_char": 323,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "S.SEDE:MATERNITA'SURROGATA SIA PROIBITA \"Teoria gender è pericolosissima\"",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " S.Sede: maternità surrogata sia delitto Posizione della Chiesa contro la maternità surrogata con cui \"il bimbo immensamente degno diventa mero oggetto\". Così l'ex Sant'Uffizio nel documento Dignitas infinita, citando Papa Francesco:\"Ogni vita umana a partire da quella del nascituro nel grembo della madre non può essere soppressa, nè diventare oggetto di mercimonio.Auspico l'impegno della comunità per proibire a livello universale tale pratica\". Si ribadisce il rispetto dei gay,ma si rileva criticità nella teoria del gender \"pericolosissima perché cancella le differenze, nella pretesa di rendere tutti uguali\".",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1712642405.256336,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "_",
+        "en_content": "S.Sede: surrogate motherhood is delitto Church position against surrogacy with which \"the immensely worthy child becomes mere object\". Thus the ex Sant'Uffizio in the document Dignitas infinite, citing Pope Francis: \"Every human life from that of the birth in the womb of the mother can not be suppressed, nor become object of goodsmonium. I hope the community's commitment to ban this practice universally.\" It reiterates the respect of gays, but it finds criticality in the gender theory \"dangerous because it erases the differences, in the claim to make everyone equal\".",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Dignitas",
+                "start_char": 176,
+                "end_char": 184,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 207,
+                "end_char": 214,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "M.O.NETANYAHU: \"PER RAFAH C'E' UNA DATA Usa:6 settimane tregua per 40 ostaggi  Hamas sta studiando una proposta",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Usa:6 settimane tregua per 40 ostaggi Sei settimane di tregua temporanea in cambio del rilascio di 40 ostaggi. Sarebbe la proposta avanzata dagli Usa e ripresa dai media israeliani, per un cessate il fuoco temporaneo nella Striscia, all'esame di Hamas e Israele.Prevista anche tregua iniziale di 3 giorni per Eid el-Fitr che comincia domani. Secondo fonti Hamas il gruppo sta studiando la proposta che oltre al cessate il fuoco di 6 settimane prevede la liberazione di donne e bambini israeliani in cambio di \"un massimo di 900 prigionieri palestinesi\".Intanto Netanyahu annuncia:\"Per Rafah c'è una data\".  ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1712642405.309496,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "M.O.NETANYAHU: \"PER RAFAH C'E'UNA DATA Usa:6 weeks truce for 40 Hamas hostages is studying a proposal",
+        "en_content": "Use:6 weeks truce for 40 hostages Six weeks of temporary truce in exchange for the release of 40 hostages. It would be the proposal made by the U.S. and resumed by the Israeli media, for a temporary ceasefire in the Strip, at the examination of Hamas and Israel. Also anticipated initial truce of 3 days for Eid el-Fitr that begins tomorrow. According to Hamas sources the group is studying the proposal that in addition to the ceasefire of 6 weeks previews the release of Israeli women and children in exchange for \"a maximum of 900 Palestinian prisoners\". Meanwhile Netanyahu announces: \"There is a date for Rafah.\"",
+        "concepts": [
+            {
+                "word": "M.O.NETANYAHU",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "C'E'UNA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "DATA",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Usa:6",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weeks",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truce",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Hamas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hostages",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "proposal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "weeks",
+                "start_char": 45,
+                "end_char": 50,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "40",
+                "start_char": 61,
+                "end_char": 63,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 64,
+                "end_char": 69,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Use:6 weeks",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "40",
+                "start_char": 22,
+                "end_char": 24,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Six weeks",
+                "start_char": 34,
+                "end_char": 43,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "40",
+                "start_char": 94,
+                "end_char": 96,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 144,
+                "end_char": 148,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 168,
+                "end_char": 175,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Strip",
+                "start_char": 216,
+                "end_char": 221,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 245,
+                "end_char": 250,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 255,
+                "end_char": 261,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3 days",
+                "start_char": 297,
+                "end_char": 303,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Eid el-Fitr",
+                "start_char": 308,
+                "end_char": 319,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 332,
+                "end_char": 340,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 355,
+                "end_char": 360,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "6 weeks",
+                "start_char": 441,
+                "end_char": 448,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 473,
+                "end_char": 480,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "900",
+                "start_char": 530,
+                "end_char": 533,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 534,
+                "end_char": 545,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 568,
+                "end_char": 577,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1712642405.3230693,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-09 08:00:05",
+        "filename": "ner_conc_en_2024-04-09T08.00.04E1712649604.58953.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]

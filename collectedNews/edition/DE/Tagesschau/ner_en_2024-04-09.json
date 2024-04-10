@@ -1,0 +1,496 @@
+[
+    {
+        "title": "Wegweisendes Urteil für Klimaschutz durch den Europäischen Gerichtshof für Menschenrechte",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "0",
+        "epoch": 1712691026.964286,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "Groundbreaking Judgment for Climate Protection by the European Court of Human Rights",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Groundbreaking",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Judgment",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protection",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "European",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Court",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Human",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the European Court of Human Rights",
+                "start_char": 50,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Bundesverfassungsgericht stärkt Rechte leiblicher Väter",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "1",
+        "epoch": 1712691026.9645064,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "Federal Constitutional Court strengthens rights of paternal fathers",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Constitutional",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fathers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Federal Constitutional Court",
+                "start_char": 0,
+                "end_char": 28,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Zahl der registrierten Straftaten steigt um 5",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "2",
+        "epoch": 1712691026.9646695,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "Number of registered offences increases by 5",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Number",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "offences",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "increases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "5",
+                "start_char": 43,
+                "end_char": 44,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "5 Prozent in der Kriminalitätsstatistik für 2023",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "3",
+        "epoch": 1712691026.9648244,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "5 percent in crime statistics for 2023",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "percent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crime",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "statistics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "5 percent",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2023",
+                "start_char": 34,
+                "end_char": 38,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Sorge um Zunahme bei Kinder- und Jugendkriminalität",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "4",
+        "epoch": 1712691026.9649718,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "Concern for increasing child and youth crime",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Concern",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "child",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "youth",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Konsortium plant Übernahme von Galeria Karstadt Kaufhof",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "5",
+        "epoch": 1712691026.9651265,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "Konsortium plans takeover of Galeria Karstadt Kaufhof",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Konsortium",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "takeover",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Galeria",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Karstadt",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kaufhof",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Konsortium",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Galeria Karstadt Kaufhof",
+                "start_char": 29,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Regionale Unterschiede bei der Bevölkerungsentwicklung",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "6",
+        "epoch": 1712691026.9652853,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "Regional differences in population development",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "differences",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "population",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "development",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Totale Sonnenfinsternis in Nordamerika",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "7",
+        "epoch": 1712691026.9654295,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "Total solar eclipse in North America",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "eclipse",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "America",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "North America",
+                "start_char": 23,
+                "end_char": 36,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "Deutsches Team setzt sich gegen Island in Qualifikationsspiel für die Fußball-EM durch",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "8",
+        "epoch": 1712691026.965568,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "German team competes against Iceland in qualifying game for the football-EM",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "team",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Iceland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "game",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "football",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "German",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Iceland",
+                "start_char": 29,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Das Wetter",
+        "date_raw": "April 09, 2024",
+        "date": "2024-04-09",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64230.html",
+        "content": "",
+        "ranked": "9",
+        "epoch": 1712691026.9657087,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-09",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-09 21:30:26",
+        "filename": "ner_conc_en_2024-04-09.json",
+        "en_title": "The weather",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]
