@@ -1,0 +1,1923 @@
+[
+    {
+        "title": "GIORGETTI:\"DEBITO SALE PER SUPERBONUS\"  \"Pensiamo a altri tagli alla spesa\"",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=125",
+        "content": " Giorgetti:pensiamo ad altri tagli spesa \"Non auspicavamo il disastro del Superbonus anche se credo di averlo evocato diverse volte. Questo complica il quadro, onestamente\".Così il ministro dell'Economia dopo il CdM che ha approvato il Def.Con le verifiche,annullati o sequestrati già 16mld e \"si va avanti\". \"Pensiamo a ulteriori tagli di spesa\". \"L'obiettivo è replicare il taglio del cuneo anche nel 2025\".   Sul Pnrr \"ho già chiesto la proroga oltre 2026. Dietro il no alla proroga, un largo fronte di Paesi contro debito Ue per progetti come Next Generation EU. ",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1712739605.0532067,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "_",
+        "en_content": "Giorgetti: we think of other spending cuts \"We didn't want the Superbonus disaster even if I think I evoked it several times. This complicates the picture, honestly.\" Thus the Minister of Economy after the Board of Directors who approved the Def.With the verifications, nodded or seized already 16mld and \"go ahead\". \"Let's think of additional expense cuts.\" \"The goal is to replicate the wedge cut in 2025.\" On the Pnrr \"I have already asked for the extension over 2026. Behind the no extension, a broad front of EU debt countries for projects such as Next Generation EU.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Giorgetti",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Board of Directors",
+                "start_char": 202,
+                "end_char": 224,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 242,
+                "end_char": 245,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "16mld",
+                "start_char": 295,
+                "end_char": 300,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2025",
+                "start_char": 402,
+                "end_char": 406,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2026",
+                "start_char": 466,
+                "end_char": 470,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 514,
+                "end_char": 516,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Next Generation EU",
+                "start_char": 553,
+                "end_char": 571,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "SUVIANA, MATTARELLA: \"FARE PIENA LUCE\"  E telefona al governatore Bonaccini",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Suviana, Mattarella: \"Fare piena luce\" Il presidente della Repubblica Sergio Mattarella si è messo in contatto con il presidente della regione Emilia-Romagna Stefano Bonaccini dal quale ha assunto informazioni sulla tragedia avvenuta nella centrale elettrica del  Lago di Suviana.    Nel corso della telefonata il Presidente Mattarella ha espresso il suo cordoglio per gli operai deceduti e solidarietà ai feriti, alle famiglie e ai colleghi di lavoro delle vittime,  auspicando che sia fatta piena luce  sulla dinamica dell'incidente.  ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1712739605.0622077,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "♪ And call Governor Bonaccini",
+        "en_content": "Suviana, Mattarella: \"Make full light\" The president of the Republic Sergio Mattarella contacted the president of the Emilia-Romagna region Stefano Bonaccini from whom he assumed information on the tragedy occurred in the power station of Lake Suviana. In the course of the call, President Mattarella expressed his condolence for deceased workers and solidarity with the wounded, the families and the working colleagues of the victims, wishing full light on the dynamics of the incident.",
+        "concepts": [
+            {
+                "word": "Governor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bonaccini",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "♪",
+                "start_char": 0,
+                "end_char": 1,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bonaccini",
+                "start_char": 20,
+                "end_char": 29,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Suviana",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Republic Sergio Mattarella",
+                "start_char": 56,
+                "end_char": 86,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Stefano Bonaccini",
+                "start_char": 140,
+                "end_char": 157,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lake Suviana",
+                "start_char": 239,
+                "end_char": 251,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 290,
+                "end_char": 300,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "KILLER MICHIGAN, CONDANNATI I GENITORI  Fatto nulla per prevenire la strage",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Killer Michigan, condannati i genitori Sono stati condannati ad una sentenza che va dai 10 ai 15 anni di carcere i genitori di Ethan Crumbley, il teenager che nel novembre 2021 sparò e uccise quattro suoi compagni di classe in una scuola del Michigan e ne ferì sette. Lo riporta la Cnn. Entrambi sono stati condannati per non avere fatto nulla per prevenire la strage compiuta dal figlio.L'imputazione è per omicidio  colposo involontario. Si tratta della prima volta negli Stati Uniti.Avrebbero lasciato incustodita una pistola in casa e ignorato i disturbi di Ethan.  ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1712739605.094691,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "KILLER MICHIGAN, CONDANNATI Done nothing to prevent the massacre",
+        "en_content": "Killer Michigan, sentenced to parents They were sentenced to a sentence that goes from 10 to 15 years in prison Ethan Crumbley's parents, the teenager who in November 2021 fired and killed four of his classmates in a Michigan school and wounded seven. The Cnn. Both were sentenced to have done nothing to prevent the massacre accomplished by their son. The defendant is for involuntary manslaughter. This is the first time in the United States. They would have left an unattended gun in the house and ignored Ethan's ailments.",
+        "concepts": [
+            {
+                "word": "KILLER",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MICHIGAN",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "CONDANNATI",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "massacre",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "CONDANNATI Done",
+                "start_char": 17,
+                "end_char": 32,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Michigan",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "10 to 15 years",
+                "start_char": 87,
+                "end_char": 101,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ethan Crumbley's",
+                "start_char": 112,
+                "end_char": 128,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "November 2021",
+                "start_char": 158,
+                "end_char": 171,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "four",
+                "start_char": 189,
+                "end_char": 193,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Michigan",
+                "start_char": 217,
+                "end_char": 225,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "seven",
+                "start_char": 245,
+                "end_char": 250,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 256,
+                "end_char": 259,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 412,
+                "end_char": 417,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the United States",
+                "start_char": 426,
+                "end_char": 443,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ethan",
+                "start_char": 509,
+                "end_char": 514,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "P.CHIGI: \"NESSUN RISCHIO SUI MERCATI\"  Def sarà \"più asciutto e lineare\"",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=126",
+        "content": " Def \"più asciutto,no rischi su mercati\" Approvato \"nei tempi previsti\", il Def sarà \"molto più asciutto\" dei precedenti e funzionerà nel 2024 in \"regime  transitorio\" poiché \"sono cambiate le regole di programmazione economica Ue\". Così fonti di governo. La sospensione delle vecchie procedure \"è stata concordata a livello Ue\". \"Processo lineare, non ci sono rischi incertezze mercati\".Nel Def \"numeri realistici\",emergerà \"pesante impatto\" del Superbonus. Previste anche \"nuove tempistiche\": il Piano di medio termine sarà in Commissione Ue \"entro il 20 settembre\". ",
+        "ranked": 4,
+        "placed": "Politics",
+        "epoch": 1712739605.188021,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "_ Def will be \"dryer and linear\"",
+        "en_content": "Def \"dryer, no risks on markets\" Approved \"in the foreseen times\", the Def will be \"very dry\" of the preceding and will work in 2024 in \"transitional regime\" since \"the rules of economic programming have changed\". So sources of government. The suspension of the old procedures \"was agreed at EU level\". \" Linear process, there are no uncertain market risks.\" In the Def \"realistic numbers\", it will emerge \"heavy impact\" of the Superbonus. Also predicted \"new timing\": the medium-term plan will be in the EU Commission \"within 20 September\".",
+        "concepts": [
+            {
+                "word": "Def",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "dryer",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Def",
+                "start_char": 2,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Def",
+                "start_char": 71,
+                "end_char": 74,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "2024",
+                "start_char": 128,
+                "end_char": 132,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 292,
+                "end_char": 294,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Linear",
+                "start_char": 305,
+                "end_char": 311,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Def",
+                "start_char": 366,
+                "end_char": 369,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Superbonus",
+                "start_char": 428,
+                "end_char": 438,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the EU Commission",
+                "start_char": 501,
+                "end_char": 518,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "20 September",
+                "start_char": 527,
+                "end_char": 539,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "JOHANSSON:PATTO MIGRANTI E' PRIORITA'  Attesa approvazione dell'Eurocamera",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Johansson:patto migranti è una priorità \"C'è chi non vuole che abbiamo successo. Ci sono forze politiche che puntano sulla migrazione come tema tossico da sfruttare ma speriamo che sia una minoranza dello spettro politico\". Così la commissaria Ue all'Interno, Johansson. \"Non temo ha aggiunto che l'estrema destra possa ostacolare l'attuazione del Patto: i Paesi sono davvero convinti e per la Commissione è una priorità\" L'Eurocamera approvi l'intero pacchetto altrimenti \"rischia di fallire\", ha ammonito alla vigilia del voto del Parlamento Ue sul Patto per le migrazioni.",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1712739605.1945803,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "_",
+        "en_content": "Johansson:Migrant path is a priority \"There are those who do not want us to succeed. There are political forces pointing to migration as a toxic theme to be exploited but we hope it is a minority of the political spectrum.\" So the Ue Commissioner at the Interior, Johansson. \"I do not fear that the extreme right can hinder the implementation of the Covenant: the countries are really convinced and for the Commission is a priority\" The Eurocamera approves the whole package otherwise \"returns to fail\", warned on the eve of the EU Parliament's vote on the migration pact.",
+        "concepts": [],
+        "content_NER": [
+            {
+                "word": "Johansson",
+                "start_char": 264,
+                "end_char": 273,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Covenant",
+                "start_char": 350,
+                "end_char": 358,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Commission",
+                "start_char": 407,
+                "end_char": 417,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Eurocamera",
+                "start_char": 437,
+                "end_char": 447,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the eve",
+                "start_char": 514,
+                "end_char": 521,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the EU Parliament's",
+                "start_char": 525,
+                "end_char": 544,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "RAID ISRAELE SU NUSEIRAT, 14 MORTI    Biden:non condivido approccio Netanyahu \"Israele accetti cessate il fuoco\"",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Raid Israele su Nuseirat, 14 le vittime Un raid delle forze israeliane sul campo profughi di Nuseirat,nel centro della Striscia di Gaza, ha causato almeno 14 morti.Lo riporta l'agenzia di stampa palestinese, Wafa. Secondo Hamas,il bilancio delle vittime palestinesi dal 7 ottobre è di oltre 33mila morti.  Intanto, il presidente americano,Biden, chiede a Israele di accettare un cessate il fuoco \"di 6-8 settimane\" e afferma che Netanyahu sta facendo un errore: \"Non sono d'accordo con il suo approccio\".Israele consenta \"l'accesso a cibo e medicine\" nella Striscia, ribadisce. ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1712739605.270092,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "RAID ISRAELE ON NUSEIRAT, 14 MORTI Biden: I do not share Netanyahu approach \"Israel accept ceasefire\"",
+        "en_content": "Raid Israel on Nuseirat, 14 victims A raid of Israeli forces on the refugee camp of Nuseirat, in the center of the Gaza Strip, caused at least 14 deaths. The Palestinian press agency, Wafa. According to Hamas, the Palestinian victims' budget since October 7 is over 33,000 dead. Meanwhile, the American president, Biden, asks Israel to accept a ceasefire \"of 6-8 weeks\" and states that Netanyahu is making a mistake: \"I disagree with your approach.\" Israel allows \"access to food and medicine\" in the Strip, reiterates.",
+        "concepts": [
+            {
+                "word": "RAID",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAELE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ON",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NUSEIRAT",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MORTI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "approach",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ceasefire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "NUSEIRAT",
+                "start_char": 16,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "14",
+                "start_char": 26,
+                "end_char": 28,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Biden",
+                "start_char": 35,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 57,
+                "end_char": 66,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 77,
+                "end_char": 83,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Raid Israel",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nuseirat",
+                "start_char": 15,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "14",
+                "start_char": 25,
+                "end_char": 27,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 46,
+                "end_char": 53,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Nuseirat",
+                "start_char": 84,
+                "end_char": 92,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 111,
+                "end_char": 125,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least 14",
+                "start_char": 134,
+                "end_char": 145,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 158,
+                "end_char": 169,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Wafa",
+                "start_char": 184,
+                "end_char": 188,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 203,
+                "end_char": 208,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 214,
+                "end_char": 225,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "October 7",
+                "start_char": 248,
+                "end_char": 257,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "over 33,000",
+                "start_char": 261,
+                "end_char": 272,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "American",
+                "start_char": 294,
+                "end_char": 302,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Biden",
+                "start_char": 314,
+                "end_char": 319,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 326,
+                "end_char": 332,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "6-8 weeks",
+                "start_char": 359,
+                "end_char": 368,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 386,
+                "end_char": 395,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 450,
+                "end_char": 456,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Strip",
+                "start_char": 501,
+                "end_char": 506,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "ISRAELE,40MILA TENDE PER EVACUARE RAFAH Netanyahu:\"C'è una data per l'attacco\"  Pressing Usa? Nessuno può fermarci",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Israele:40mila tende per evacuare Rafah Il governo di Israele sta acquistando 40mila tende allo scopo di preparare l' evacuazione di centinaia di migliaia di civili dall'area della città di Rafah, nell'estremità meridionale della Striscia di Gaza, dove le forze armate israeliane si apprestano all'annunciata offensiva di terra.    Il premier israeliano Netanyahu ha annunciato che è stata fissata una data per l'operazione dell'esercito israeliano nonostante gli altolà dei molti Paesi, anche gli Usa. \"Non c'è forza a mondo che ci fermerà\", ha avvertito,nonostante continu il pressing di Biden. ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1712739605.2758963,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "ISRAELE,40MILA TENDE FOR EVACUARE RAFAH Netanyahu: \"Is there a date for the attack\" US Pressing? No one can stop",
+        "en_content": "Israel:40 thousand tents to evacuate Rafah The government of Israel is buying 40 thousand tents in order to prepare the evacuation of hundreds of thousands of civilians from the area of the city of Rafah, in the southern end of the Gaza Strip, where the Israeli armed forces are preparing for the announced offensive of land. Israeli premier Netanyahu announced that a date for the Israeli army was set up despite the highlands of many countries, including the US. \"There is no force in the world that will stop us,\" he warned, despite continuing Biden's pressing.",
+        "concepts": [
+            {
+                "word": "TENDE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "EVACUARE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RAFAH",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "date",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pressing",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "one",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Netanyahu",
+                "start_char": 40,
+                "end_char": 49,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US Pressing",
+                "start_char": 84,
+                "end_char": 95,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "thousand",
+                "start_char": 10,
+                "end_char": 18,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israel",
+                "start_char": 61,
+                "end_char": 67,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "40 thousand",
+                "start_char": 78,
+                "end_char": 89,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "hundreds of thousands",
+                "start_char": 134,
+                "end_char": 155,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 198,
+                "end_char": 203,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 228,
+                "end_char": 242,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 254,
+                "end_char": 261,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 326,
+                "end_char": 333,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 342,
+                "end_char": 351,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 382,
+                "end_char": 389,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "US",
+                "start_char": 461,
+                "end_char": 463,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Biden",
+                "start_char": 547,
+                "end_char": 552,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Meloni esprime cordoglio del Governo122 Cgil-Uil: domani sciopero di 8 ore",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Suviana,Cgil-Uil:sciopero otto ore l'11 \"Siamo di fronte all' ennesima strage. In un Paese che ha più di 1.000 morti all'anno, c'è un modello di fare impresa che non va bene e e che va cambiato\" Così il segretario della Cgil, Landini, sull'esplosione alla diga di Suviana. \"Non sappiamo nel dettaglio quello che è successospiega-aspettiamo la magistratura,ma salute e sicurezza non possono essere considerate un costo\". E annuncia per domani uno sciopero di 8 ore in tutti i settori, pubblici e privati dell'Emilia Romagna e dalle 9 manifestazione a Bologna.   ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1712739605.283786,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "Meloni expresses the condolence of the Government122 Cgil-Uil: tomorrow 8-hour strike",
+        "en_content": "Suviana,Cgil-Uil: dissolved eight hours on 11 \"We are in front of the eternal massacre. In a country that has more than 1,000 deaths a year, there is a model of doing business that is not good and needs to be changed\" So the secretary of the Cgil, Landini, on the explosion at the Suviana dam. \"We do not know in detail what has happenedexplained-we wait for the judiciary, but health and safety cannot be considered a cost.\" And announces for tomorrow an 8-hour strike in all sectors, public and private of Emilia Romagna and from the 9 manifestations in Bologna.",
+        "concepts": [
+            {
+                "word": "Meloni",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "condolence",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Government122",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cgil",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Uil",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tomorrow",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Cgil-Uil",
+                "start_char": 53,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "8-hour",
+                "start_char": 72,
+                "end_char": 78,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Suviana",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cgil-Uil",
+                "start_char": 8,
+                "end_char": 16,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "eight hours",
+                "start_char": 28,
+                "end_char": 39,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "11",
+                "start_char": 43,
+                "end_char": 45,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "more than 1,000",
+                "start_char": 110,
+                "end_char": 125,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cgil",
+                "start_char": 242,
+                "end_char": 246,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Landini",
+                "start_char": 248,
+                "end_char": 255,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Suviana",
+                "start_char": 281,
+                "end_char": 288,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 444,
+                "end_char": 452,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "8-hour",
+                "start_char": 456,
+                "end_char": 462,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Emilia Romagna",
+                "start_char": 508,
+                "end_char": 522,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "9",
+                "start_char": 536,
+                "end_char": 537,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bologna",
+                "start_char": 556,
+                "end_char": 563,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "E'MORTA PAOLA GASSMAN,AVEVA 78 ANNI",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1712739605.3401673,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "It's GASSMAN PAUL.",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "GASSMAN",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PAUL",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "IRLANDA RICONOSCERA' STATO PALESTINESE  Ministro Esteri lo proporrà a breve",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Irlanda riconoscerà Stato palestinese L'Irlanda si prepara a riconoscere uno Stato palestinese nelle prossime settimane. Lo ha annunciato a Dublino il ministro degli Esteri Micheal Martin parlando in Parlamento, dove ha spiegato di voler presentare al governo una proposta formale una volta completate le \"discussioni internazionali\". Ritardare il riconoscimento \"non è più credibile né sostenibile\", secondo il ministro. \"Non c'è dubbio che siano stati commessi crimini di guerra e condanno categoricamente i continui bombardamenti sulla popolazione di Gaza\", ha aggiunto. ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1712739605.3451207,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "IRELAND RICONOSCERA' STATO PALESTINESE Foreign Minister will propose it shortly",
+        "en_content": "Ireland will recognize Palestinian State Ireland is preparing to recognize a Palestinian state in the coming weeks. He announced in Dublin the Foreign Minister Micheal Martin speaking in Parliament, where he explained that he wanted to present to the government a formal proposal once the \"international debates\" were completed. Retarding recognition \"is no longer credible or sustainable\", according to the minister. \"There is no doubt that war crimes have been committed and categorically condemn the continuous bombing of the people of Gaza,\" he added.",
+        "concepts": [
+            {
+                "word": "IRELAND",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "RICONOSCERA",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "STATO",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PALESTINESE",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Foreign",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "IRELAND",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ireland",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian State Ireland",
+                "start_char": 23,
+                "end_char": 48,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 77,
+                "end_char": 88,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the coming weeks",
+                "start_char": 98,
+                "end_char": 114,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Dublin",
+                "start_char": 132,
+                "end_char": 138,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Micheal Martin",
+                "start_char": 160,
+                "end_char": 174,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 187,
+                "end_char": 197,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 539,
+                "end_char": 543,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PIL AL +1%,DEBITO SALE MA SOTTO IL 140% Consiglio ministri approva il Def    Il testo inviato ora al Parlamento",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": " Pil al +1%,Debito sale ma sotto il 140% Il Consiglio dei ministri ha approvato il Documento di Economia e Finanza. Pil 2024 +1% (nella Nadef era +1,2%).Il testo è stato inviato al Parlamento. Il debito sale ma resta sotto quota 140 (al 137,8% quest'anno,per poi aumentare al 138,9% nel 2025 e a 139,8% nel 2026) Debito tendenziale al 4,3% del Pil quest'anno, che si ridurrà al 3,7% nel  2025,al 3% nel 2026 e al 2,2% nel 2027. Il ministro Giorgetti: \"Il debito sale perché \"è pesantemente condizionato dal superbonus\".\"Crescita in ribasso, pesa il quadro geopolitico\".   ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1712739605.3935606,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "GDP AL +1%,DEBITO SALE MA SOTTO 140% Council Ministers approves Def The text now sent to Parliament",
+        "en_content": "GDP at +1%, Debt rises but under 140% The Council of Ministers approved the Economic and Finance Document. Pil 2024 +1% (in Nadef it was +1.2%). The text was sent to Parliament. The debt rises but remains below 140 (at 137.8% this year, then increase to 138.9% in 2025 and to 139.8% in 2026) Tenthial debt to 4.3% of GDP this year, which will be reduced to 3.7% in 2025, 3% in 2026 and 2.2% in 2027. Minister Giorgetti: \"The debt rises because \"it is heavily conditioned by superbonus\". \"Cressed down, weighs the geopolitical picture.\"",
+        "concepts": [
+            {
+                "word": "GDP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "AL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "+1%,DEBITO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SALE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SOTTO",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ministers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Def",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "text",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "140%",
+                "start_char": 32,
+                "end_char": 36,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Parliament",
+                "start_char": 89,
+                "end_char": 99,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "under 140%",
+                "start_char": 27,
+                "end_char": 37,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "The Council of Ministers",
+                "start_char": 38,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nadef",
+                "start_char": 124,
+                "end_char": 129,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 166,
+                "end_char": 176,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "140",
+                "start_char": 211,
+                "end_char": 214,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "137.8%",
+                "start_char": 219,
+                "end_char": 225,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "this year",
+                "start_char": 226,
+                "end_char": 235,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "138.9%",
+                "start_char": 254,
+                "end_char": 260,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2025",
+                "start_char": 264,
+                "end_char": 268,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "139.8%",
+                "start_char": 276,
+                "end_char": 282,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2026",
+                "start_char": 286,
+                "end_char": 290,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "4.3%",
+                "start_char": 309,
+                "end_char": 313,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "this year",
+                "start_char": 321,
+                "end_char": 330,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3.7%",
+                "start_char": 357,
+                "end_char": 361,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2025",
+                "start_char": 365,
+                "end_char": 369,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3%",
+                "start_char": 371,
+                "end_char": 373,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2026",
+                "start_char": 377,
+                "end_char": 381,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.2%",
+                "start_char": 386,
+                "end_char": 390,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2027",
+                "start_char": 394,
+                "end_char": 398,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giorgetti",
+                "start_char": 409,
+                "end_char": 418,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "RAID ISRAELE SU NUSEIRAT, 14 MORTI    Biden:Israele accetti cessate fuoco",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712739605.399198,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "RAID ISRAEL ON NUSEIRAT, 14 MORTI Biden: Israel accept ceased fire",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "RAID",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ISRAEL",
+                "meaning": "dep",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NUSEIRAT",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MORTI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ISRAEL",
+                "start_char": 5,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NUSEIRAT",
+                "start_char": 15,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "14",
+                "start_char": 25,
+                "end_char": 27,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Biden",
+                "start_char": 34,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 41,
+                "end_char": 47,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "BRENNERO, PROSEGUE PROTESTA COLDIRETTI  Controlli per falso Made in Italy",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Brennero,proseguono proteste Coldiretti Sono proseguite anche ieri le proteste Coldiretti contro il \"fake Italy\" al Brennero. Gli agricoltori erano al valico per seguire i controlli a campione da parte delle forze dell'ordine, sulle merci che vi transitano ogni giorno.      Tonnellate di patate entrano dai valichi e poi sono riconfezionate con un nastrino tricolore;prosciutti dalla Polonia e uova non etichettate dai Paesi dell'Est. Di fatto concorrenza sleale, visto che si importano prodotti coltivati con fitofarmaci vietati in Italia.",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1712739605.4091406,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "BRENNERO, PROSEGUE PROTESTA COLDIRETTI Controls for false Made in Italy",
+        "en_content": "Brennero, Coldiretti protests continued yesterday Coldiretti protests against the \"fake Italy\" at Brennero. Farmers were at the pass to follow the sample controls by law enforcement agencies, on the goods that transit there every day. Tons of potatoes enter from the valics and then are repacked with a tricolor ribbon; prosciutti from Poland and eggs not labeled by the countries of the East. As a matter of fact unfair competition, since they import grown products with pesticides prohibited in Italy.",
+        "concepts": [
+            {
+                "word": "BRENNERO",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PROSEGUE",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PROTESTA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COLDIRETTI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Controls",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "BRENNERO",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 66,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Brennero",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 10,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 40,
+                "end_char": 49,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 50,
+                "end_char": 60,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 88,
+                "end_char": 93,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Brennero",
+                "start_char": 98,
+                "end_char": 106,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Poland",
+                "start_char": 336,
+                "end_char": 342,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "East",
+                "start_char": 388,
+                "end_char": 392,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italy",
+                "start_char": 497,
+                "end_char": 502,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "SUVIANA, MATTARELLA: \"FARE PIENA LUCE\"  Domani sciopero 8 ore in E.Romagna",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1712739605.4154122,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "♪ Tomorrow strike 8 hours in E.Romagna",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Tomorrow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hours",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "E.Romagna",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Tomorrow",
+                "start_char": 2,
+                "end_char": 10,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "8 hours",
+                "start_char": 18,
+                "end_char": 25,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "E.Romagna",
+                "start_char": 29,
+                "end_char": 38,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1712739605.4238496,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indices",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "ANTITRUST: APPARECCHI ACUSTICI COSTOSI  \"Offerte commerciali poco trasparenti\"  Prezzi più alti che in altri Paesi\"",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Apparecchi acustici, Antitrust: costosi L'Antritrust segnala al Parlamento,alle Regioni e Province autonome, nonché ai ministeri della Salute e dell'Economia, criticità sulla trasparenza delle offerte al pubblico e delle forniture del Ssn degli apparecchi acustici.  L'Autorità parla di \"scarsa trasparenza delle condizioni commerciali praticate al pubblico\". Inoltre, rispetto ad altri Paesi, il prezzo medio degli apparecchi in Italia, tra i 1.500 e i 2.100 euro, risulta superiore e con minori sostegni del pubblico per facilitarne l'acquisto.     ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1712739605.542243,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "ANTITRUST: ACUSTICAL APPARECCHI COSTOSI \"Untransparent trade offers\" Higher prices than in other countries\"",
+        "en_content": "Hearing Aids, Antitrust: The Antritrust reports to the Parliament, the autonomous Regions and Provinces, as well as the Health and Economy ministries, criticality on the transparency of offers to the public and the Ssn supplies of hearing aids. The Authority speaks of \"transparency of commercial conditions practised to the public\". In addition, compared to other countries, the average price of luminaires in Italy, between 1,500 and 2,100 euros, is higher and with smaller supports of the public to facilitate their purchase.",
+        "concepts": [
+            {
+                "word": "ANTITRUST",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ACUSTICAL",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "APPARECCHI",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COSTOSI",
+                "meaning": "nmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "prices",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "countries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ACUSTICAL APPARECCHI COSTOSI",
+                "start_char": 11,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Antritrust",
+                "start_char": 29,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 55,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Regions and Provinces",
+                "start_char": 82,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Health and Economy ministries",
+                "start_char": 116,
+                "end_char": 149,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ssn",
+                "start_char": 215,
+                "end_char": 218,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Authority",
+                "start_char": 249,
+                "end_char": 258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 411,
+                "end_char": 416,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "between 1,500 and 2,100",
+                "start_char": 418,
+                "end_char": 441,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "SUVIANA, PROSEGUONO RICERCHE DISPERSI  Nel Bolognese,poche speranze superstiti Tre morti e 5 feriti per esplosione",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712739605.5484085,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-10 11:00:05",
+        "filename": "ner_conc_en_2024-04-10T11.00.04E1712746804.526866.json",
+        "en_title": "SUVIANA, PROSEGUING DISPERTS In Bolognese, only surviving hopes Three dead and 5 wounded by explosion",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "SUVIANA",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "DISPERTS",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bolognese",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hopes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bolognese",
+                "start_char": 32,
+                "end_char": 41,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Three",
+                "start_char": 64,
+                "end_char": 69,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "5",
+                "start_char": 79,
+                "end_char": 80,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]
