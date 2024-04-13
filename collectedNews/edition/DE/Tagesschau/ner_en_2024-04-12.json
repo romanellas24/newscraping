@@ -1,0 +1,427 @@
+[
+    {
+        "title": "Bundestag beschließt mit klarer Mehrheit das Selbstbestimmungsgesetz",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "0",
+        "epoch": 1712950215.830325,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "Bundestag decides by a clear majority the self-determination law",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Bundestag",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "majority",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "self",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "determination",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bundestag",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Bundestag verabschiedet einheitliche Regeln für die Bezahlkarte für Asylbewerber",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "1",
+        "epoch": 1712950215.830837,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "Bundestag adopts uniform rules for the payment card for asylum seekers",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Bundestag",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "payment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "card",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seekers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bundestag",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Wissing droht mit Fahrverboten bei Diskussion über das Klimaschutzgesetz",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "2",
+        "epoch": 1712950215.8312628,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "Wissing threatens to ban driving when discussing the Climate Protection Act",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Wissing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protection",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Act",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the Climate Protection Act",
+                "start_char": 49,
+                "end_char": 75,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            }
+        ]
+    },
+    {
+        "title": "Geplanter Stellenabbau beim Stahlhersteller Thyssenkrupp am Standort Duisburg",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "3",
+        "epoch": 1712950215.8316712,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "Planned job reduction at the steel manufacturer Thyssenkrupp at the Duisburg site",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "job",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reduction",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "steel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manufacturer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Thyssenkrupp",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Duisburg",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "site",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Thyssenkrupp",
+                "start_char": 48,
+                "end_char": 60,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Duisburg",
+                "start_char": 68,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Festnahmen nach Terrorverdacht gegen drei Jugendliche",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "4",
+        "epoch": 1712950215.83206,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "arrests for terrorist attacks against three young people",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "arrests",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attacks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "three",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Abstimmung im polnischen Parlament über das Abtreibungsrecht",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "5",
+        "epoch": 1712950215.8324473,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "Vote in the Polish Parliament on the right to abortion",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Polish",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "right",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "abortion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Polish",
+                "start_char": 12,
+                "end_char": 18,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 19,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Forscher beschäftigen sich auf UN-Ozeankonferenz mit rasanter Erwärmung der Meere",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "6",
+        "epoch": 1712950215.8328724,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "Researchers are engaged in rapid warming of the seas at the UN Ocean Conference",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Researchers",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "warming",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "seas",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UN",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ocean",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Conference",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the UN Ocean Conference",
+                "start_char": 56,
+                "end_char": 79,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Das Wetter",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.tagesschau.de/archiv/sendungen",
+        "url_news": "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/ts-64214.html",
+        "content": "",
+        "ranked": "7",
+        "epoch": 1712950215.8332717,
+        "language": "de",
+        "source": "Tagesschau",
+        "timeslot_day": "2024-04-12",
+        "timeslot_number": 6,
+        "elapsed_hours_timeslot_end": 1,
+        "local_time": "2024-04-12 21:30:15",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "The weather",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]
