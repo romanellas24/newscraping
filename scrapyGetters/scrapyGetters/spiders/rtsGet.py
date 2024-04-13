@@ -63,7 +63,9 @@ class RtsgetSpider(BaseScraper):
                 'epoch': time.time(),
                 'language': "FR",
                 'source': "RTS",
-                'local_time': self.calculate_local_time()
+                'local_time': self.calculate_local_time(),
+                'timezone': self.timezone,
+                'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             }
             edition.append(scraped_info)
 

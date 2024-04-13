@@ -108,7 +108,9 @@ class CnngetSpider(BaseScraper):
                 'epoch': time.time(),
                 'language': 'EN',
                 'source': "CNN",
-                'local_time': self.calculate_local_time()
+                'local_time': self.calculate_local_time(),
+                'timezone': self.timezone,
+                'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             }
 
             if ("Korea" in scraped_info['title'] or "Korea" in scraped_info['content']) and scraped_info[

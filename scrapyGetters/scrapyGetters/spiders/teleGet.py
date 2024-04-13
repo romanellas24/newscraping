@@ -122,7 +122,9 @@ class TelegetSpider(BaseScraper):
             'epoch': time.time(),
             'language': 'IT',
             'source': "Televideo",
-            'local_time': self.calculate_local_time()
+            'local_time': self.calculate_local_time(),
+            'timezone': self.timezone,
+            'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
         }
 
         response.meta.get('edition').append(scraped_info)

@@ -84,6 +84,8 @@ class SowetanLive(BaseScraper):
             'epoch': timestamp,
             'language': 'EN',
             'source': 'SowetanLive',
-            'local_time': self.calculate_local_time()
+            'local_time': self.calculate_local_time(),
+            'timezone': self.timezone,
+            'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
         }
         self.edition.append(new)

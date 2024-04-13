@@ -59,6 +59,8 @@ class FrgetSpider(BaseScraper):
                 'language': "EN",
                 'source': "France24",
                 'local_time': self.calculate_local_time(),
+                'timezone': self.timezone,
+                'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             }
             edition.append(scraped_info)
 

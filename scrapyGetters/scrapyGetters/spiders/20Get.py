@@ -71,7 +71,9 @@ class A20getSpider(BaseScraper):
                 'timeslot_day': self.timeslot_day,
                 'timeslot_number': self.timeslot_number,
                 'elapsed_hours_timeslot_end': self.elapsed_hours,
-                'local_time': self.calculate_local_time()
+                'local_time': self.calculate_local_time(),
+                'timezone': self.timezone,
+                'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             }
             i += 1
             edition.append(scraped_info)

@@ -69,7 +69,9 @@ class ZdfgetSpider(BaseScraper):
                 'epoch': time.time(),
                 'langauge': "DE",
                 'source': "Zdf",
-                'local_time': self.calculate_local_time()
+                'local_time': self.calculate_local_time(),
+                'timezone': self.timezone,
+                'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             }
             edition.append(scraped_info)
 
