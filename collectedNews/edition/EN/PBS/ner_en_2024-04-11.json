@@ -1,0 +1,435 @@
+[
+    {
+        "title": "Biden moves to close ‘gun show loophole’ and expand background checks for gun buyers",
+        "date_raw": "April 11, 2024",
+        "date": "2024-04-11",
+        "url": "https://www.pbs.org/newshour/show/april-11-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/biden-moves-to-close-gun-show-loophole-and-expand-background-checks-for-gun-buyers",
+        "duration": "7 min",
+        "ranked": 0,
+        "epoch": 1712950212.0269682,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-12 15:30:12",
+        "filename": "ner_conc_en_2024-04-11.json",
+        "en_title": "Biden moves to close ‘gun show loophole’ and expand background checks for gun buyers",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "show",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loophole",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "background",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "checks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "buyers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Biden",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "News Wrap: White House warns Iran against retaliation for Israeli airstrike on consulate",
+        "date_raw": "April 11, 2024",
+        "date": "2024-04-11",
+        "url": "https://www.pbs.org/newshour/show/april-11-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/news-wrap-white-house-warns-iran-against-retaliation-for-israeli-airstrike-on-consulate",
+        "duration": "5 min",
+        "ranked": 1,
+        "epoch": 1712950212.027161,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-12 15:30:12",
+        "filename": "ner_conc_en_2024-04-11.json",
+        "en_title": "News Wrap: White House warns Iran against retaliation for Israeli airstrike on consulate",
+        "concepts": [
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wrap",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "White",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Iran",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "retaliation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "airstrike",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "consulate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "White House",
+                "start_char": 11,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iran",
+                "start_char": 29,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "How O.J. Simpson’s murder trial exposed a stark racial fissure in America",
+        "date_raw": "April 11, 2024",
+        "date": "2024-04-11",
+        "url": "https://www.pbs.org/newshour/show/april-11-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/how-o-j-simpsons-murder-trial-exposed-a-stark-racial-fissure-in-america",
+        "duration": "9 min",
+        "ranked": 2,
+        "epoch": 1712950212.0273013,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-12 15:30:12",
+        "filename": "ner_conc_en_2024-04-11.json",
+        "en_title": "How O.J. Simpson’s murder trial exposed a stark racial fissure in America",
+        "concepts": [
+            {
+                "word": "O.J.",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Simpson",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trial",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fissure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "America",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "O.J. Simpson",
+                "start_char": 4,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "America",
+                "start_char": 66,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "U.S. bolsters military ties with Japan and Philippines amid Chinese provocations",
+        "date_raw": "April 11, 2024",
+        "date": "2024-04-11",
+        "url": "https://www.pbs.org/newshour/show/april-11-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/u-s-bolsters-military-ties-with-japan-and-philippines-amid-chinese-provocations",
+        "duration": "9 min",
+        "ranked": 3,
+        "epoch": 1712950212.027433,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-12 15:30:12",
+        "filename": "ner_conc_en_2024-04-11.json",
+        "en_title": "U.S. bolsters military ties with Japan and Philippines amid Chinese provocations",
+        "concepts": [
+            {
+                "word": "U.S.",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bolsters",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ties",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Japan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Philippines",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "provocations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "U.S.",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Japan",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Philippines",
+                "start_char": 43,
+                "end_char": 54,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 60,
+                "end_char": 67,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Why right-wing Republicans are blocking the reauthorization of FISA",
+        "date_raw": "April 11, 2024",
+        "date": "2024-04-11",
+        "url": "https://www.pbs.org/newshour/show/april-11-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/why-right-wing-republicans-are-blocking-the-reauthorization-of-fisa",
+        "duration": "7 min",
+        "ranked": 4,
+        "epoch": 1712950212.0275567,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-12 15:30:12",
+        "filename": "ner_conc_en_2024-04-11.json",
+        "en_title": "Why right-wing Republicans are blocking the reauthorization of FISA",
+        "concepts": [
+            {
+                "word": "wing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Republicans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reauthorization",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "FISA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Republicans",
+                "start_char": 15,
+                "end_char": 26,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "FISA",
+                "start_char": 63,
+                "end_char": 67,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            }
+        ]
+    },
+    {
+        "title": "Wind-assisted vessels could make commercial shipping climate-friendly",
+        "date_raw": "April 11, 2024",
+        "date": "2024-04-11",
+        "url": "https://www.pbs.org/newshour/show/april-11-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/wind-assisted-vessels-could-make-commercial-shipping-climate-friendly",
+        "duration": "7 min",
+        "ranked": 5,
+        "epoch": 1712950212.0276768,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-12 15:30:12",
+        "filename": "ner_conc_en_2024-04-11.json",
+        "en_title": "Wind-assisted vessels could make commercial shipping climate-friendly",
+        "concepts": [
+            {
+                "word": "Wind",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "vessels",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shipping",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "climate",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ]
+    },
+    {
+        "title": "Celebrity chef’s ‘chili crunch’ trademark sparks debate over food and culture",
+        "date_raw": "April 11, 2024",
+        "date": "2024-04-11",
+        "url": "https://www.pbs.org/newshour/show/april-11-2024-pbs-newshour-full-episode",
+        "news_url": "https://www.pbs.org/newshour/show/celebrity-chefs-chili-crunch-trademark-sparks-debate-over-food-and-culture",
+        "duration": "7 min",
+        "ranked": 6,
+        "epoch": 1712950212.0278184,
+        "language": "en",
+        "source": "PBS",
+        "local_time": "2024-04-12 15:30:12",
+        "filename": "ner_conc_en_2024-04-11.json",
+        "en_title": "Celebrity chef’s ‘chili crunch’ trademark sparks debate over food and culture",
+        "concepts": [
+            {
+                "word": "Celebrity",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chef",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chili",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "crunch",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trademark",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sparks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "food",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "culture",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

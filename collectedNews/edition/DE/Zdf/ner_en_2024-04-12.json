@@ -1,0 +1,155 @@
+[
+    {
+        "title": "Mit folgenden Themen: Wissing droht mit Fahrverboten",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1712950206.17176,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-12 21:30:06",
+        "language": "de",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "With the following topics: Wissing threatens to ban driving",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "topics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Wissing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ZDF-Politbarometer zur Ampelregierung",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "content": "Politbarometer zur Ampelregierung",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1712950206.1720746,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-12 21:30:06",
+        "language": "de",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "ZDF Police Station",
+        "en_content": "Politbarometer for traffic lights",
+        "concepts": [
+            {
+                "word": "ZDF",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Police",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Station",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "ZDF Police Station",
+                "start_char": 0,
+                "end_char": 18,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Politbarometer",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Cannabis-Legalisierung mit Lücken",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "content": "Legalisierung mit Lücken",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1712950206.1723208,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-12 21:30:06",
+        "language": "de",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "Cannabis management with gaps",
+        "en_content": "Legalization with gaps",
+        "concepts": [
+            {
+                "word": "Cannabis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "management",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gaps",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "weiteren Nachrichten, dem Sport und dem Wetter.",
+        "date_raw": "April 12, 2024",
+        "date": "2024-04-12",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-12-april-2024-100.html",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1712950206.172551,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-12 21:30:06",
+        "language": "de",
+        "filename": "ner_conc_en_2024-04-12.json",
+        "en_title": "more news, sport and weather.",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "news",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sport",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weather",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

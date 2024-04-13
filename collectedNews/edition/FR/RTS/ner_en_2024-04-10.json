@@ -1,0 +1,611 @@
+[
+    {
+        "title": "Le Conseil fédéral met en consultation des propositions concrètes pour freiner la hausse des loyers",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-conseil-federal-met-en-consultation-des-propositions-concretes-pour-freiner-la-hausse-des-loyers-28465084.html",
+        "duration": " ",
+        "ranked": 0,
+        "epoch": 1712950210.381133,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "Federal Council consults concrete proposals to curb rent increases",
+        "concepts": [
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "proposals",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rent",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "increases",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Federal Council",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "La justice est-elle le seul recours face à l’inaction climatique? Interview de Sophie Swaton",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/la-justice-est-elle-le-seul-recours-face-a-l-inaction-climatique-interview-de-sophie-swaton-28465092.html",
+        "duration": " ",
+        "ranked": 1,
+        "epoch": 1712950210.3813314,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "Is justice the only recourse to climate inaction? Interview with Sophie Swaton",
+        "concepts": [
+            {
+                "word": "justice",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "recourse",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "climate",
+                "meaning": "relcl",
+                "pos": "NOUN"
+            },
+            {
+                "word": "inaction",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sophie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Swaton",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Sophie",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Les musulmans déplacés de Gaza fêtent la fin du ramadan malgré les risques de famine",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/les-musulmans-deplaces-de-gaza-fetent-la-fin-du-ramadan-malgre-les-risques-de-famine-28465088.html",
+        "duration": " ",
+        "ranked": 2,
+        "epoch": 1712950210.3814628,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "Displaced Muslims in Gaza celebrate the end of Ramadan despite the risk of famine",
+        "concepts": [
+            {
+                "word": "Displaced",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Muslims",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "end",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ramadan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risk",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            },
+            {
+                "word": "famine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Displaced Muslims",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 21,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 36,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "L’UE doit se prononcer sur le pacte migratoire qui prévoit d’accélérer les renvois à la frontière",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-ue-doit-se-prononcer-sur-le-pacte-migratoire-qui-prevoit-d-accelerer-les-renvois-a-la-frontiere-28465096.html",
+        "duration": " ",
+        "ranked": 3,
+        "epoch": 1712950210.3815846,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "The EU must decide on the migration pact to speed up cross-border returns",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migration",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "returns",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 4,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Une décision de justice restreint la circulation des taxis et Uber les plus polluants à Genève",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/une-decision-de-justice-restreint-la-circulation-des-taxis-et-uber-les-plus-polluants-a-geneve-28465098.html",
+        "duration": " ",
+        "ranked": 4,
+        "epoch": 1712950210.3817043,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "A court ruling restricts the circulation of the most polluting taxis and Uber in Geneva",
+        "concepts": [
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ruling",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "circulation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "taxis",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Uber",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Geneva",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Uber",
+                "start_char": 73,
+                "end_char": 77,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Geneva",
+                "start_char": 81,
+                "end_char": 87,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Le chantier de rénovation des salles du Montreux Jazz Festival va être prolongé jusqu’en 2026",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/le-chantier-de-renovation-des-salles-du-montreux-jazz-festival-va-etre-prolonge-jusqu-en-2026-28465097.html",
+        "duration": " ",
+        "ranked": 5,
+        "epoch": 1712950210.3818243,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "The renovation of the rooms of the Montreux Jazz Festival will be extended until 2026",
+        "concepts": [
+            {
+                "word": "renovation",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "rooms",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Montreux",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jazz",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Festival",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the Montreux Jazz Festival",
+                "start_char": 31,
+                "end_char": 57,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "2026",
+                "start_char": 81,
+                "end_char": 85,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Les autorités américaines enquêtent sur la fiabilité de trois modèles de l’avionneur Boeing",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/les-autorites-americaines-enquetent-sur-la-fiabilite-de-trois-modeles-de-l-avionneur-boeing-28465106.html",
+        "duration": " ",
+        "ranked": 6,
+        "epoch": 1712950210.3819401,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "US authorities investigate the reliability of three Boeing aircraft models",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "authorities",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reliability",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Boeing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aircraft",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "models",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "US",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 46,
+                "end_char": 51,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Boeing",
+                "start_char": 52,
+                "end_char": 58,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Une agence de notation attribue une note négative au crédit des finances publiques de la Chine",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/une-agence-de-notation-attribue-une-note-negative-au-credit-des-finances-publiques-de-la-chine-28465102.html",
+        "duration": " ",
+        "ranked": 7,
+        "epoch": 1712950210.3820546,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "Credit rating agency assigns negative rating to China's public finance credit",
+        "concepts": [
+            {
+                "word": "Credit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rating",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "agency",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rating",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "finance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "credit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "China",
+                "start_char": 48,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Un syndicat policier veut que la Swiss Football League sanctionne les hooligans comme les cantons",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/un-syndicat-policier-veut-que-la-swiss-football-league-sanctionne-les-hooligans-comme-les-cantons-28465114.html",
+        "duration": " ",
+        "ranked": 8,
+        "epoch": 1712950210.38217,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "A police union wants Swiss Football League to punish hooligans like cantons",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "union",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Swiss",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Football",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "League",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hooligans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cantons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Swiss Football League",
+                "start_char": 21,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "L’invité du 12h30 - L’écrivain Noël Nétonon Ndjékéry présente son récit ‘‘L’Angle mort du rêve’’",
+        "date_raw": "April 10, 2024",
+        "date": "2024-04-10",
+        "url": "https://www.rts.ch/audio-podcast/2024/audio/le-12h30-presente-par-manuela-salvi-28465125.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2024/audio/l-invite-du-12h30-l-ecrivain-noel-netonon-ndjekery-presente-son-recit-l-angle-mort-du-reve-28465127.html",
+        "duration": " ",
+        "ranked": 9,
+        "epoch": 1712950210.3822832,
+        "language": "fr",
+        "source": "RTS",
+        "local_time": "2024-04-12 21:30:10",
+        "filename": "ner_conc_en_2024-04-10.json",
+        "en_title": "Guest of 12:30 pm - The writer Noël Nétonon Ndjékéry presents his story ‘ ‘'L",
+        "concepts": [
+            {
+                "word": "Guest",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "writer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Noël",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nétonon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ndjékéry",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "story",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "12:30 pm",
+                "start_char": 9,
+                "end_char": 17,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Noël Nétonon Ndjékéry",
+                "start_char": 31,
+                "end_char": 52,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
