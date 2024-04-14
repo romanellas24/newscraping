@@ -1,0 +1,740 @@
+[
+    {
+        "title": "Senatore di Milei accusato di 'apologia della violenza sessuale'",
+        "date_raw": "Fri, 12 Apr 2024 17:46:58 +0200",
+        "date": "2024-04-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/04/12/senatore-di-milei-accusato-di-apologia-della-violenza-sessuale_bbaa9b9d-8c00-4df6-9ba2-793488d5b279.html",
+        "subtitle": "Ha distorto in modo sessuale la favola della Bella Addormentata",
+        "content": "\n                                                \n            La metafora distorta e a\nsfondo sessuale della fiaba della Bella Addormentata utilizzata\nda un senatore del partito di Javier Milei durante un dibattito\nin commissione ha suscitato polemiche e indignazione in\nArgentina. Protagonista dell'episodio il senatore per la\nprovincia di Formosa, Francisco Paoltroni, che per descrivere la\nsituazione dell'Argentina ha affermato che \"la situazione gli\nricorda una favola dell'infanzia\". \"Un giorno venne una strega e\naddormentò a tutti, ma il 19 novembre - in riferimento alla data\ndel ballottaggio delle presidenziali - è arrivato il principe ha\nfatto l'amore con loro e li ha svegliati tutti\", ha affermato il\nsenatore.\n                                    \n                                       \n\t\t\t\t   La versione distorta del noto racconto di Charles Perrault ha\nsuscitato l'immediata indignazione e le proteste della senatrice\nAnabel Fernandez Sagasti, che ha ravvisato nelle parole del\ncollega \"un'apologia della violenza sessuale\". \"Lei ha detto che\nMilei è venuto a violentarci tutti per svegliarci, lei non è\nmoralmente preparato per stare in Parlamento\", ha affermato\nSagasti.\n                                    \n                                       \n\t\t\t\t   L'episodio ripreso nella trasmissione in diretta della\ncommissione è diventato virale anche sui social e poi ampiamente\nrilanciato dai media locali dando ampia eco alla polemica.\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 41,
+        "placed": "Esteri",
+        "epoch": 1713020437.7022283,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-13 17:00:37",
+        "filename": "ner_en_2024-04-13T17.00.36E1713027636.661463.json",
+        "en_title": "Senator of Milei accused of 'apology of sexual violence'",
+        "en_content": "The distorted metaphor\nsex background of the fairy tale of the Addormented Bella used\nby a senator of Javier Milei's party during a debate\nin committee has aroused controversy and indignation in\nArgentina. Protagonist of the episode senator for the\nprovince of Formosa, Francisco Paoltroni, than to describe the\nsituation in Argentina said that \"the situation\nremembers a fairy tale of childhood.\" \"One day came a witch and\nhe adores everyone, but on November 19 - in reference to the date\nof the presidential ballot - the prince has arrived\nmade love with them and woke them all,\" said the\nSenator.\n\n\nThe distorted version of Charles Perrault's famous story\nthe immediate outrage and the protests of the senator\nAnabel Fernandez Sagasti, who has seen in the words of\nconnects \"an apology of sexual violence.\" \"She said that\nMilei came to rape us all to wake up, she's not\nmorally prepared to stay in Parliament,\" he said.\nSagasti.\n\n\nThe episode resumed in the live broadcast of\ncommission became viral also on social and then widely\nrelaunched by local media giving a broad echo to the controversy.\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "title_NER": [
+            {
+                "word": "Milei",
+                "start_char": 11,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Javier Milei's",
+                "start_char": 102,
+                "end_char": 116,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Argentina",
+                "start_char": 195,
+                "end_char": 204,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Formosa",
+                "start_char": 261,
+                "end_char": 268,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Francisco Paoltroni",
+                "start_char": 270,
+                "end_char": 289,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Argentina",
+                "start_char": 325,
+                "end_char": 334,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "One day",
+                "start_char": 399,
+                "end_char": 406,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "November 19",
+                "start_char": 451,
+                "end_char": 462,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Charles Perrault's",
+                "start_char": 627,
+                "end_char": 645,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Anabel Fernandez Sagasti",
+                "start_char": 713,
+                "end_char": 737,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 901,
+                "end_char": 911,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sagasti",
+                "start_char": 923,
+                "end_char": 930,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "La Germania invierà nuovi Patriot all'Ucraina",
+        "date_raw": "Sat, 13 Apr 2024 16:32:18 +0200",
+        "date": "2024-04-13",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/04/13/la-germania-inviera-nuovi-patriot-allucraina_7a1690c6-445b-45fe-950d-b5825498c9c5.html",
+        "subtitle": "La difesa antiaerea è cruciale per Kiev. Mosca annuncia una nuova conquista, gli ucraini lo smentiscono",
+        "content": "    La Germania ha annunciato che invierà all'Ucraina un nuovo sistema Patriot per la difesa antiaerea, per aiutare le forze armate a respingere l'aumento degliattacchi aerei russi, ha annunciato il l'esecutivo. \"A causa dell'aumento degli attacchi aerei russi contro l'Ucraina, il governo tedesco ha deciso di rafforzare ulteriormente la difesa aerea ucraina\", si legge in una nota del ministero della Difesa.   Il ministro degli Esteri ucraino Dmytro Kuleba ha detto che Kiev sta negoziando attivamente per due batterie di missili Patriot e una del sistema d'arma Samp-T, dopo che ieri aveva indicato di aver parlato con il suo omologo italiano Antonio Tajani , riguardo ai \"passi concreti su come l'Italia può assumere un ruolo attivonella ricerca di sistemi di difesa aerea e nel prendere decisioni coordinate sulla loro consegna all'Ucraina\".    Il giornalista della Bild Julian Röpke, che segue gli scontri in Ucraina, ha affermato su X che l'Ucraina ha finito i missili per i sistemi di difesa aerea Patriot e Iris-T. Lo riporta Ukrainska Pravda. \"L'Ucraina ha esaurito i missili Patriot e Iris-T. Anche la maggior parte delle altre scorte di difesa aerea sono state esaurite o distrutte\", afferma il giornalista.    \"Ho avuto una chiamata importante e produttiva con Olaf Scholz. Sono grato al cancelliere per la decisione di fornire all'Ucraina un ulteriore sistema di difesa aerea Patriot, nonché missili di difesa aerea per i sistemi esistenti\". Lo scrive su X Volodymyr Zelensky.   \"Grazie Olaf per la tua leadership. Si tratta di una vera dimostrazione di sostegno all'Ucraina in un momento critico. Invito tutti i leader dei Paesi partner a seguire l'esempio. Abbiamo anche discusso della prossima Conferenza sulla ricostruzione dell'Ucraina a Berlino\", in programma a giugno.\"Ho inoltre informato il cancelliere sui preparativi per il vertice della pace che si terrà in Svizzera a giugno. Sono grato al cancelliere per la sua disponibilità a rendere il vertice un grande successo\", ha aggiunto.     La Russia afferma di aver conquistato un villaggio ucraino nella zona di Avdiivka, nel Donetsk. I soldati russi, ha dichiarato il ministero della Difesa di Mosca, hanno \"liberato\" il villaggio di Pervomaiske, a sud-est di Avdiivka, conquistata dai russi in febbraio.     L'Ucraina però non conferma l'asserita conquista russa di Chasiv Yar, affermando anzi di aver respinto attacchi russi sul villaggio del Donetsk. Kiev ha tuttavia ammesso, per voce del comandante delle forze armate, Oleksandr Syrsky, che la situazione sul fronte del Donbass si è \"notevolmente deteriorata\" per la pressione militare russa.   Syrsky ha anche detto che, data l'inferiorità di armamenti e munizioni, le forze ucraine si stanno attrezzando per perfezionare la guerra elettronica e la tecnologia sul fronte.\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1713020437.7664278,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-13 17:00:37",
+        "filename": "ner_en_2024-04-13T17.00.36E1713027636.661463.json",
+        "en_title": "Germany will send new Patriots to Ukraine",
+        "en_content": "Germany has announced that it will send Ukraine a new Patriot system for anti-aircraft defense, to help the armed forces to reject the increase of Russian air attacks, announced the executive. \"Due to the increase of Russian air attacks against Ukraine, the German government decided to further strengthen Ukrainian air defense,\" reads in a note from the Ministry of Defense. Ukrainian Foreign Minister Dmytro Kuleba said that Kiev is actively negotiating for two Patriot missile batteries and one of the Samp-T weapon system, after yesterday he indicated he had spoken to his Italian counterpart Antonio Tajani, about \"concrete steps on how Italy can take an active role in the search for air defense systems and make coordinated decisions on their delivery to Ukraine\". Bild journalist Julian Röpke, who follows the clashes in Ukraine, said on X that Ukraine finished missiles for air defense systems Patriot and Iris-T. This is Ukrainska Pravda. \"Ukraine has exhausted Patriot and Iris-T missiles. Most of the other air defense supplies have also been exhausted or destroyed,\" said the journalist. \"I had an important and productive call with Olaf Scholz. I am grateful to the Chancellor for the decision to provide Ukraine with an additional Patriot air defense system as well as air defense missiles for existing systems.\" He writes about X Volodymyr Zelensky. \"Thank you Olaf for your leadership. This is a real demonstration of support for Ukraine at a critical moment. I invite all partner countries leaders to follow the example. We also discussed the next Conference on the Reconstruction of Ukraine in Berlin\" in June. \"I also informed the Chancellor about the preparations for the peace summit in Switzerland in June. I am grateful to the Chancellor for his willingness to make the summit a great success,\" he added. Russia claims to have conquered a Ukrainian village in the Avdiivka area, in the Donetsk. The Russian soldiers, declared the Moscow Defense Ministry, \"freed\" the village of Pervomaiske, southeast of Avdiivka, conquered by the Russians in February. Ukraine, however, does not confirm the alleged Russian conquest of Chasiv Yar, asserting that it has rejected Russian attacks on the village of Donetsk. Kiev admitted, however, by the voice of the commander of the armed forces, Oleksandr Syrsky, that the situation on the front of Donbass was \"notely deteriorated\" for Russian military pressure. Syrsky also said that, given the inferiority of armaments and ammunition, Ukrainian forces are gearing up to perfect electronic warfare and technology on the front.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "title_NER": [
+            {
+                "word": "Germany",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Patriots",
+                "start_char": 22,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 34,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Germany",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Patriot",
+                "start_char": 54,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 147,
+                "end_char": 154,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 217,
+                "end_char": 224,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 245,
+                "end_char": 252,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "German",
+                "start_char": 258,
+                "end_char": 264,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 306,
+                "end_char": 315,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Ministry of Defense",
+                "start_char": 351,
+                "end_char": 374,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 376,
+                "end_char": 385,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Dmytro Kuleba",
+                "start_char": 403,
+                "end_char": 416,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 427,
+                "end_char": 431,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 460,
+                "end_char": 463,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one",
+                "start_char": 494,
+                "end_char": 497,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 533,
+                "end_char": 542,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 577,
+                "end_char": 584,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Antonio Tajani",
+                "start_char": 597,
+                "end_char": 611,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 642,
+                "end_char": 647,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 762,
+                "end_char": 769,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bild",
+                "start_char": 772,
+                "end_char": 776,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Julian Röpke",
+                "start_char": 788,
+                "end_char": 800,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 829,
+                "end_char": 836,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 853,
+                "end_char": 860,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Patriot",
+                "start_char": 903,
+                "end_char": 910,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Iris-T. This",
+                "start_char": 915,
+                "end_char": 927,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainska Pravda",
+                "start_char": 931,
+                "end_char": 947,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 950,
+                "end_char": 957,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Patriot",
+                "start_char": 972,
+                "end_char": 979,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iris",
+                "start_char": 984,
+                "end_char": 988,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Olaf Scholz",
+                "start_char": 1146,
+                "end_char": 1157,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1219,
+                "end_char": 1226,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Olaf",
+                "start_char": 1377,
+                "end_char": 1381,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1447,
+                "end_char": 1454,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1602,
+                "end_char": 1609,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Berlin",
+                "start_char": 1613,
+                "end_char": 1619,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "June",
+                "start_char": 1624,
+                "end_char": 1628,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Switzerland",
+                "start_char": 1709,
+                "end_char": 1720,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "June",
+                "start_char": 1724,
+                "end_char": 1728,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1829,
+                "end_char": 1835,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1863,
+                "end_char": 1872,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Avdiivka",
+                "start_char": 1888,
+                "end_char": 1896,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 1923,
+                "end_char": 1930,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Moscow Defense Ministry",
+                "start_char": 1950,
+                "end_char": 1977,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pervomaiske",
+                "start_char": 2002,
+                "end_char": 2013,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Avdiivka",
+                "start_char": 2028,
+                "end_char": 2036,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russians",
+                "start_char": 2055,
+                "end_char": 2063,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "February",
+                "start_char": 2067,
+                "end_char": 2075,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2077,
+                "end_char": 2084,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2124,
+                "end_char": 2131,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chasiv Yar",
+                "start_char": 2144,
+                "end_char": 2154,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2187,
+                "end_char": 2194,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Donetsk",
+                "start_char": 2221,
+                "end_char": 2228,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 2230,
+                "end_char": 2234,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Oleksandr Syrsky",
+                "start_char": 2305,
+                "end_char": 2321,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Donbass",
+                "start_char": 2358,
+                "end_char": 2365,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2396,
+                "end_char": 2403,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Syrsky",
+                "start_char": 2423,
+                "end_char": 2429,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 2497,
+                "end_char": 2506,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Al via il 15 a Montevideo il Foro Pymes organizzato dall'Iila",
+        "date_raw": "Sat, 13 Apr 2024 14:58:47 +0200",
+        "date": "2024-04-13",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/04/13/al-via-il-15-a-montevideo-il-foro-pymes-organizzato-dalliila_45b37546-9d23-4d35-8a1c-b58d072e9871.html",
+        "subtitle": "L'ottava edizione centrata su turismo sostenibile e innovazione",
+        "content": "\n                                                \n            Prenderà il via lunedì 15\naprile a Montevideo, in Uruguay il Foro Pymes, Italia-America\nLatina, un'iniziativa promossa dall'Organizzazione\nInternazionale Italo-Latino Americana (Iila) e centrata nella\nsua ottava edizione sui temi del turismo sostenibile, del\nsistema moda, della produzione lattiero-casearia, dei processi\ndi innovazione nelle PMI e nella filiera del legno.\n                                    \n                                       \n\t\t\t\t   Il foro, si legge in una nota dell'Iila, \"rappresenta uno\nspazio di dialogo sulle politiche pubbliche, le opportunità di\nbusiness e le collaborazioni tecnologiche, focalizzato sulle\nmicro, piccole e medie imprese e sullo sviluppo territoriale\nsostenibile\".\n                                    \n                                       \n\t\t\t\t   Il programma dell'evento è articolato in tre intense giornate\nche prevedono spazi tanto per le visite di campo come per la\ndiscussione e il networking con l'obiettivo di \"consentire agli\nimprenditori italiani e latinoamericani di approfondire la\nconoscenza dei modelli proposti e condividere buone pratiche ed\nesperienze\".\n                                    \n                                       \n\t\t\t\t  \"Protagoniste dell'iniziativa - afferma la nota - sono le\nistituzioni nazionali e locali, le PMI e le associazioni di\ncategoria, le istituzioni finanziarie e le università e i centri\ndi servizi tecnologici, sia italiani che latinoamericani\".\n                                    \n                                       \n\t\t\t\t   L'edizione di Montevideo del Foro Pymes è realizzata in\ncollaborazione con il ministero dell'Industria, dell'Energia e\ndelle Miniere dell'Uruguay, la Cooperazione Italiana allo\nSviluppo e la Banca di Sviluppo dell'America Latina e Caraibi\n(Caf) mentre i partner italiani sono Confartigianato e\nAssocamerestero. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1713020437.8066542,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-13 17:00:37",
+        "filename": "ner_en_2024-04-13T17.00.36E1713027636.661463.json",
+        "en_title": "On the 15th in Montevideo the Forum Pymes organized by Iila",
+        "en_content": "It will take the way Monday 15\nApril in Montevideo, Uruguay the Forum Pymes, Italy-America\nLatina, an initiative promoted by the Organization\nInternational Italo-Latino Americana (Iila) and centered in\nits eighth edition on sustainable tourism,\nfashion system, dairy production, processes\nof innovation in SMEs and in the wood industry.\n\n\nThe hole, reads in a note of the Iila, \"represents one\nspace for dialogue on public policies, opportunities for\nbusiness and technological collaborations, focused on\nmicro, small and medium-sized enterprises and spatial development\nsustainable\".\n\n\nThe event programme is divided into three intense days\nthat provide space for field visits as well as for\ndiscussion and networking with the goal of \"enable to\nItalian and Latin American entrepreneurs to deepen the\nknowledge of the proposed models and share good practices and\nexperiences.\"\n\n\n\"Protagonists of the initiative - says the note - are the\nnational and local institutions, SMEs and associations\ncategory, financial institutions and universities and centres\nof technological services, both Italian and Latin American.\"\n\n\nThe Montevideo del Foro Pymes edition is made of\ncollaboration with the Ministry of Industry, Energy and\nof the Mines of Uruguay, Italian Cooperation\nDevelopment and Development Bank of Latin America and Caribbean\n(Caf) while Italian partners are Confartigianato and\nAssocamerestero.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "title_NER": [
+            {
+                "word": "the 15th",
+                "start_char": 3,
+                "end_char": 11,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Montevideo the Forum Pymes",
+                "start_char": 15,
+                "end_char": 41,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Iila",
+                "start_char": 55,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Monday 15\nApril",
+                "start_char": 21,
+                "end_char": 36,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Latina",
+                "start_char": 91,
+                "end_char": 97,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Organization\nInternational Italo-Latino",
+                "start_char": 125,
+                "end_char": 168,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iila",
+                "start_char": 180,
+                "end_char": 184,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "eighth",
+                "start_char": 206,
+                "end_char": 212,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Iila",
+                "start_char": 372,
+                "end_char": 376,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 390,
+                "end_char": 393,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three intense days",
+                "start_char": 623,
+                "end_char": 641,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 747,
+                "end_char": 754,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Latin American",
+                "start_char": 759,
+                "end_char": 773,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1087,
+                "end_char": 1094,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Latin American",
+                "start_char": 1099,
+                "end_char": 1113,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "The Montevideo del Foro Pymes",
+                "start_char": 1118,
+                "end_char": 1147,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "the Ministry of Industry, Energy",
+                "start_char": 1186,
+                "end_char": 1218,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Mines of Uruguay",
+                "start_char": 1226,
+                "end_char": 1246,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian Cooperation\nDevelopment and Development Bank of Latin America",
+                "start_char": 1248,
+                "end_char": 1317,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Caribbean",
+                "start_char": 1322,
+                "end_char": 1331,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1344,
+                "end_char": 1351,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Confartigianato",
+                "start_char": 1365,
+                "end_char": 1380,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Assocamerestero",
+                "start_char": 1385,
+                "end_char": 1400,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    }
+]
