@@ -1,0 +1,1263 @@
+[
+    {
+        "title": "Mosca:moderazione,lavori diplomazia",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Mosca: moderazione,lavori la diplomazia Il ministero degli Esteri russo ha espresso \"massima preoccupazione per una altra pericolosa escalation\" e ha invitato alla \"moderazione\" dopo gli attacchi iraniani contro Israele.  \"Esortiamo tutte le parti coinvolte a mostrare moderazione.Contiamo sul fatto che gli Stati regionali risolvano i  problemi esistenti con mezzi politici e diplomatici. Consideriamo importante che gli attori internazionali contribuiscano a questo\", ha dichiarato il ministero in un comunicato.  ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1713117605.438226,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "Moscow:moderation, diplomacy work",
+        "en_content": "Moscow: moderation, working diplomacy The Russian Foreign Ministry expressed \"the greatest concern for another dangerous escalation\" and called for \"moderation\" after Iranian attacks against Israel. \"We exhort all parties involved to show moderation. We consider that the regional States solve existing problems by political and diplomatic means. We consider it important that international actors contribute to this,\" said the ministry in a statement.",
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Russian Foreign Ministry",
+                "start_char": 38,
+                "end_char": 66,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iranian",
+                "start_char": 167,
+                "end_char": 174,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 191,
+                "end_char": 197,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "States",
+                "start_char": 281,
+                "end_char": 287,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PAPA:SI FERMI VIOLENZA,DUE STATI VICINI Preoccupazione e accorato appello",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Papa:si fermi violenza,due Stati vicini Papa Francesco segue \"con preoccupazione e dolore\" le notizie sull'aggravamento della situazione in Israele per l'attacco dell'Iran in Israele.  \"Faccio un accorato appello affinché si fermi ogni azione che possa alimentare una spirale di violenza con il rischio di trascinare il Medio Oriente in un conflitto bellico ancora più grande\",ha detto Bergoglio al Regina Coeli.\"Tutte le nazioni si schierino dalla parte  della pace e aiutino israeliani e palestinesi a vivere in De Stati, fianco a fianco, in sicurezza\", ha esortato. ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1713117605.4480436,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "PAPA:SI FERMI VIOLENZA,DUE STATI VICINI Preoccupation and short call",
+        "en_content": "Pope: there is still violence, two neighboring states Pope Francis follows \"with concern and pain\" news on the aggravation of the situation in Israel for the attack of Iran in Israel. \"I appeal to stop any action that might fuel a spiral of violence with the risk of dragging the Middle East into an even greater war conflict,\" said Bergoglio to Queen Coeli. \"All nations stand on the side of peace and help Israelis and Palestinians live in De Stati, side by side, in security,\" he urged.",
+        "title_NER": [
+            {
+                "word": "SI FERMI VIOLENZA",
+                "start_char": 5,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "DUE",
+                "start_char": 23,
+                "end_char": 26,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "VICINI Preoccupation",
+                "start_char": 33,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "two",
+                "start_char": 31,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Francis",
+                "start_char": 59,
+                "end_char": 66,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 143,
+                "end_char": 149,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 168,
+                "end_char": 172,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 176,
+                "end_char": 182,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 276,
+                "end_char": 291,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Queen Coeli",
+                "start_char": 346,
+                "end_char": 357,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israelis",
+                "start_char": 408,
+                "end_char": 416,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 421,
+                "end_char": 433,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "De Stati",
+                "start_char": 442,
+                "end_char": 450,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "G7:FERMA CONDANNA A IRAN,NO ESCALATION  E invita parti:evitare altre azioni",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " G7:ferma condanna a Iran,no escalation E' durata circa un'ora la riunione del G7 sull'attacco iraniano a Israele,convocata e presieduta dalla premier Meloni,collegata da Palazzo Chigi.  I leader G7 hanno adottato una dichiarazione congiunta \"che condanna fermamente il lancio di droni e missili dall'Iran\", ribadendo \"pieno sostegno alla sicurezza di Israele\".Hanno poi sottolineato \"l'esigenza di evitare un'ulteriore escalation,invitando le parti ad astenersi da azioni volte ad acuire la tensione nella Regione\",si legge in una nota.Poi l'appello a \"porre fine alle ostilità a Gaza e a liberare ostaggi\". ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1713117605.502446,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "G7: And invites parts:avoid other actions",
+        "en_content": "G7: the main condemnation of Iran, no escalation It lasted about an hour the G7 meeting on the Iranian attack on Israel, convened and chaired by Prime Minister Meloni, connected by Palazzo Chigi. G7 leaders adopted a joint statement \"which firmly condemns the launch of drones and missiles from Iran,\" recalling \"full support for Israel's security\". They then underlined \"the need to avoid further escalation, inviting the parties to refrain from actions aimed at sharpening the tension in the Region\", read in a note. Then the call to \"end hostilities in Gaza and release hostages.\"",
+        "content_NER": [
+            {
+                "word": "Iran",
+                "start_char": 29,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about an hour",
+                "start_char": 59,
+                "end_char": 72,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "G7",
+                "start_char": 77,
+                "end_char": 79,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 95,
+                "end_char": 102,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 113,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 160,
+                "end_char": 166,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palazzo Chigi",
+                "start_char": 181,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "G7",
+                "start_char": 196,
+                "end_char": 198,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Iran",
+                "start_char": 295,
+                "end_char": 299,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 330,
+                "end_char": 336,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Region",
+                "start_char": 494,
+                "end_char": 500,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 556,
+                "end_char": 560,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Gantz:reazione in momento opportuno",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Gantz: reazione in modo e tempi adatti \"Costruiremo una coalizione regionale contro la minaccia dell'Iran ed esigeremo un prezzo nel modo e nel momento che ci conviene\". Lo ha affermato il ministro del Gabinetto di Guerra di  Israele, Benny Gantz.    \"L'incidente non è finito. L'alleanza strategica e il sistema di cooperazione regionale che abbiamo costruito devono essere rafforzati\", ribadisce Gantz, per il quale Israele deve ancora portare a termine \"i suoi compiti: il ritorno delle persone rapite e l'eliminazione delle minacce\".    ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1713117605.5136566,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "Gantz:",
+        "en_content": "Gantz: reaction in a proper way and time \"We will build a regional coalition against the threat of Iran and we will demand a price in the way and at the time it suits us.\" The Israeli War Cabinet Minister Benny Gantz said so. \"The incident is not over. The strategic alliance and the regional cooperation system we have built must be strengthened,\" said Gantz, for whom Israel must still carry out \"its tasks: the return of kidnapped persons and the elimination of threats\".",
+        "content_NER": [
+            {
+                "word": "Iran",
+                "start_char": 99,
+                "end_char": 103,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Israeli War Cabinet",
+                "start_char": 172,
+                "end_char": 195,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Benny Gantz",
+                "start_char": 205,
+                "end_char": 216,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gantz",
+                "start_char": 354,
+                "end_char": 359,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 370,
+                "end_char": 376,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "BIDEN:\"NON SOSTERREMMO UN CONTRATTACCO\" Netanyahu consideri già una vittoria151  RIUNITO GABINETTO DI GUERRA ISRAELIANO  Cnn: Israele risponderà all'attacco",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Cnn: Israele risponderà all'attacco  Israele risponderà all'attacco iraniano, ma la portata della reazione deve ancora essere decisa. Lo scrive il sito della Cnn, citando un alto funzionario dell'amministrazione israeliana.  La stessa fonte ha aggiunto che Israele deve ancora determinare se scatenare una reazione molto violenta o fare qualcosa di piu' misurato. Le diverse opzioni dovrebbero essere discusse in dettaglio durante la riunione del Gabinetto di guerra israeliano convocato nel pomeriggio, ha concluso la stessa fonte.      ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1713117605.519581,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "_ Israel will respond to the attack",
+        "en_content": "Cnn: Israel will respond to the attack Israel will respond to the Iranian attack, but the extent of the reaction must still be determined. The Cnn website writes it, citing a high official of the Israeli administration. The same source added that Israel still has to determine whether to trigger a very violent reaction or do something more measured. The various options should be discussed in detail during the meeting of the Israeli War Cabinet convened in the afternoon, concluded the same source.",
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 2,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Cnn",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 5,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 39,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 66,
+                "end_char": 73,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 143,
+                "end_char": 146,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 196,
+                "end_char": 203,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 247,
+                "end_char": 253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Israeli War Cabinet",
+                "start_char": 423,
+                "end_char": 446,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "NATO E UE: \"NO ESCALATION, MODERAZIONE\" Martedì summit dei ministri europei",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Nato e Ue: \"No escalation, moderazione\" La Nato condanna l'attacco come \"una escalation dell'instabilità\",invitando \"con urgenza alla moderazione\" tutte le parti.\"Di vitale importanza che il conflitto non vada fuori controllo\".  \"Condanno fermamente l'attacco palese e ingiustificabile dell'Iran contro Israele. Tutti gli attori devono astenersi da un'ulteriore escalation e lavorare per ripristinare la stabilità\".Così la presidente della Comm.Ue,von der Leyen. Per la presidente dell'Europarlamento, Metsola,\"l'Ue continuerà a lavorare per allentare la tensione\"in M.O. Borrell: martedì summit straordinario ministri. ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1713117605.5277143,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "NATO AND EU: \"NO ESCALATION, MODERATION\" Tuesday Summit of European Ministers",
+        "en_content": "Born and Ue: \"No escalation, moderation\" NATO condemns the attack as \"an escalation of instability\", inviting \"with urgency to moderation\" all parts.\" \"They firmly condemn Iran's blatant and unjustifiable attack against Israel. All actors must refrain from further escalation and work to restore stability.\" So the president of the Comm.Ue,von der Leyen. For the President of the European Parliament, Metsola, \"the EU will continue to work to ease the tension\" in M.O. Borrell: Tuesday Extraordinary Summit Ministers.",
+        "title_NER": [
+            {
+                "word": "NATO",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 9,
+                "end_char": 11,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 59,
+                "end_char": 67,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "NATO",
+                "start_char": 41,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iran",
+                "start_char": 172,
+                "end_char": 176,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 220,
+                "end_char": 226,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "von der",
+                "start_char": 340,
+                "end_char": 347,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Leyen",
+                "start_char": 348,
+                "end_char": 353,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 376,
+                "end_char": 399,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Metsola",
+                "start_char": 401,
+                "end_char": 408,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 415,
+                "end_char": 417,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "M.O. Borrell",
+                "start_char": 464,
+                "end_char": 476,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 478,
+                "end_char": 485,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "IRAN,CENTINAIA MISSILI-DRONI SU ISRAELE All'Onu:\"Con attacco questione chiusa\"  \"Israele non faccia errore reagire\"",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1713117605.538554,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "IRAN,CENTINAIA MISSILI-DRONI SU ISRAELE AT THE UN: \"With closed question attack\" \"Israel not make any mistake to react\"",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "IRAN",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "CENTINAIA MISSILI-DRONI",
+                "start_char": 5,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "UN",
+                "start_char": 47,
+                "end_char": 49,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 82,
+                "end_char": 88,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "SERIE A, STASERA INTER-CAGLIARI",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "     ",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1713117605.5642598,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "SERIES A, INTER-CAGLIARIES",
+        "en_content": ""
+    },
+    {
+        "title": "Le reazioni all'attacco iraniano",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " M.O., le reazioni all'attacco iraniano Condanna da parte dei principali Paesi europei per l'attacco dell'Iran contro Israele. La Francia esprime ferma condanna e ribadisce l'impegno \"per la sicurezza di Israele\",affermano presidente Macron e ministro Séjourné. Parigi raccomanda anche ai connazionali di\"lasciare temporaneamente\" l'Iran. Attacco \"ingiustificato. Siamo in contatto con Israele e discuteremo con gli alleati\", ha detto il cancelliere tedesco,Scholz. \"Attacchi sconsiderati\" per il Regno Unito, che chiede a Teheran \"di fermare l'escalation\".Preoccupazione e condanna da Tokyo. Pechino chiede \"moderazione\".",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1713117605.608277,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "The reactions to the Iranian attack",
+        "en_content": "M.O., the reactions to the Iranian attack Condanna by the main European countries for the attack of Iran against Israel. France expresses firm condemnation and reaffirms the commitment \"for the security of Israel\", says President Macron and Minister Séjourné. Paris also recommends the compatriots to leave Iran temporarily. \"unjustified attack. We are in contact with Israel and we will discuss with allies,\" said the German Chancellor, Scholz. \"Unwelcome attacks\" for the United Kingdom, which asks Tehran \"to stop escalation\". Preoccupation and condemnation from Tokyo. Beijing calls for \"moderation.\"",
+        "title_NER": [
+            {
+                "word": "Iranian",
+                "start_char": 21,
+                "end_char": 28,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "M.O.",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iranian",
+                "start_char": 27,
+                "end_char": 34,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Condanna",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 63,
+                "end_char": 71,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Iran",
+                "start_char": 100,
+                "end_char": 104,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 113,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 121,
+                "end_char": 127,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 206,
+                "end_char": 212,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Macron",
+                "start_char": 230,
+                "end_char": 236,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Séjourné",
+                "start_char": 250,
+                "end_char": 258,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Paris",
+                "start_char": 260,
+                "end_char": 265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 307,
+                "end_char": 311,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 369,
+                "end_char": 375,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "German",
+                "start_char": 419,
+                "end_char": 425,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Scholz",
+                "start_char": 438,
+                "end_char": 444,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United Kingdom",
+                "start_char": 470,
+                "end_char": 488,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tehran",
+                "start_char": 501,
+                "end_char": 507,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tokyo",
+                "start_char": 566,
+                "end_char": 571,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 573,
+                "end_char": 580,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1713117605.633351,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "G7:FERMA CONDANNA A IRAN, NO ESCALATION E invita parti:evitare altre azioni",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1713117605.6371646,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "G7: CONDANNA A IRAN, NO ESCALATION And invites parts:avoid other actions",
+        "en_content": ""
+    },
+    {
+        "title": "VINITALY, A VERONA LA 56ESIMA EDIZIONE  La kermesse fino al 17 aprile",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Verona, la 56esima edizione di Vinitaly Dal 14 fino al 17 aprile ogni regione d'Italia mette in mostra le sue eccellenze vinicole a Vinitaly di Verona. Ogni anno sono oltre quattromila gli espositori che partecipano alla manifestazione vinicola giunta alla 56esima edizione.Il quartiere fieristico di  Veronafiere vede la partecipazione di più di centomila i visitatori.  A Vinitaly 2024 sono attesi oltre mille buyers dall'estero provenienti da Stati Uniti(i più numerosi)Canada, Cina e  Regno Unito.     ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1713117605.6454005,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "VINITALY, IN VERONA THE 56th EDITION The kermesse until 17 April",
+        "en_content": "Verona, the 56th edition of Vinitaly From 14 to 17 April each region of Italy showcases its wine excellence in Vinitaly in Verona. Every year there are more than four thousand exhibitors who participate in the wine event that has reached the 56th edition. The exhibition district of Veronafiere sees the participation of more than one hundred thousand visitors. Over a thousand foreign buyers from the United States (the most numerous)Canada, China and the United Kingdom are expected in Vinitaly 2024.",
+        "title_NER": [
+            {
+                "word": "VINITALY",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "56th",
+                "start_char": 24,
+                "end_char": 28,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "17 April",
+                "start_char": 56,
+                "end_char": 64,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Verona",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "56th",
+                "start_char": 12,
+                "end_char": 16,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Vinitaly",
+                "start_char": 28,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "14 to 17 April",
+                "start_char": 42,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 72,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vinitaly",
+                "start_char": 111,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Verona",
+                "start_char": 123,
+                "end_char": 129,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Every year",
+                "start_char": 131,
+                "end_char": 141,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than four thousand",
+                "start_char": 152,
+                "end_char": 175,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "56th",
+                "start_char": 242,
+                "end_char": 246,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Veronafiere",
+                "start_char": 283,
+                "end_char": 294,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than one hundred thousand",
+                "start_char": 321,
+                "end_char": 351,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the United States",
+                "start_char": 398,
+                "end_char": 415,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "numerous)Canada",
+                "start_char": 426,
+                "end_char": 441,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 443,
+                "end_char": 448,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United Kingdom",
+                "start_char": 453,
+                "end_char": 471,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vinitaly",
+                "start_char": 488,
+                "end_char": 496,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2024",
+                "start_char": 497,
+                "end_char": 501,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "IRAN-ISRAELE, DOMANI COMITATO SICUREZZA Prefetto Roma: \"Massima attenzione\"",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1713117605.6498945,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "IRAN-ISRAELE, QUESTIONS PREVENTION SECURITY Rome: \"Maximum attention\"",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "IRAN-ISRAELE",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "M.O,SCHLEIN SENTE MELONI:\"COLLABORIAMO\" \"Impegno per evitare l'escalation\"",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " M.O,Schlein sente Meloni:\"Collaboriamo\" Sull'attacco dell'Iran contro Israele \"ho già sentito la presidente del Consiglio per esprimere tutta la nostra preoccupazione e offrire collaborazione nell'interesse dell'Italia\". Così la segretaria del Pd, Elly Schlein.  \"L'attacco iraniano a Israele va condannato con forza. L'impegno della comunità internazionale dev'essere tutto teso a evitare l'escalation, far cessare il fuoco e a costruire la pace in Medio Oriente\", afferma Schlein in una nota. E convoca per stasera la segreteria del Pd, \"visti i preoccupanti sviluppi in Medio Oriente\".   ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1713117605.6579506,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "M.O,SCHLEIN SENTE MELONI:\"COLLABORIAMO\" \"Impegno per senza l'escalation\"",
+        "en_content": "M.O,Schlein hears Meloni: \"We collaborate\" On the attack of Iran against Israel \"I have already heard the President of the Council to express all our concern and offer collaboration in the interest of Italy\". So the secretary of the Pd, Elly Schlein. \"The Iranian attack on Israel must be condemned. The commitment of the international community must be to avoid escalation, cease fire and build peace in the Middle East,\" Schlein said. And he called the PD secretariat tonight, \"live the worrying developments in the Middle East\".",
+        "title_NER": [
+            {
+                "word": "Impegno",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 4,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Iran",
+                "start_char": 60,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 73,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Council",
+                "start_char": 123,
+                "end_char": 130,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 201,
+                "end_char": 206,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 237,
+                "end_char": 249,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 256,
+                "end_char": 263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 274,
+                "end_char": 280,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 405,
+                "end_char": 420,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 423,
+                "end_char": 430,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "PD",
+                "start_char": 455,
+                "end_char": 457,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tonight",
+                "start_char": 470,
+                "end_char": 477,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 514,
+                "end_char": 529,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "BIDEN:\"NON SOSTERREMMO UN CONTRATTACCO\" \"Netanyahu consideri sua vittoria\"",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1713117605.6938446,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "_",
+        "en_content": ""
+    },
+    {
+        "title": "TAJANI:\"ORA MI AUGURO PRUDENZA ISRAELE\" \"Ha avuto collaborazione alleati\"",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Tajani:\"Ora mi auguro prudenza Israele\" E'\"un fatto positivo che l'attacco iraniano sia concluso. E' stato bloccato da Israele con la collaborazione degli alleati.Si tratta di un atto da condannare assolutamente.Ora il nostro obiettivo come governo italiano che presiede il G7 è fare di tutto per evitare l'escalation\", occorre che \"i contendenti siano più prudenti\".Lo ha detto il ministro degli Esteri Tajani a Rtl 102,5. \"Mi auguro che il governo israeliano adotti la prudenza e non ci sia un contrattacco.Ho convocato gli ambasciatori dei Paesi arabi per fare il punto\"merrcoledì vedo il segretario Usa, Blinken",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1713117605.8358665,
+        "language": "it",
+        "source": "Televideo",
+        "local_time": "2024-04-14 20:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-14T20.00.05",
+        "filename": "ner_en_2024-04-14T20.00.04E1713124804.934179.json",
+        "en_title": "TAJANI: \"Now I've been involved in the IRAEL PRUDENZA\"",
+        "en_content": "Tajani: \"Now I hope for Israel\" It is a positive fact that the Iranian attack is concluded. He was blocked by Israel with the collaboration of allies. It is an act to condemn absolutely. Now our goal as an Italian government that presides over the G7 is to do everything to avoid escalation,\" it is necessary that \"the contenders are more prudent\". The Foreign Minister Tajani said so at Rtl 102.5. \"I hope the Israeli government adopts caution and there is no counterattack. I summoned the ambassadors of the Arab countries to do the point \"I see the US Secretary, Blinken",
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 63,
+                "end_char": 70,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 110,
+                "end_char": 116,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 206,
+                "end_char": 213,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "G7",
+                "start_char": 248,
+                "end_char": 250,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 370,
+                "end_char": 376,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rtl 102.5",
+                "start_char": 388,
+                "end_char": 397,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 411,
+                "end_char": 418,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Arab",
+                "start_char": 510,
+                "end_char": 514,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "US",
+                "start_char": 552,
+                "end_char": 554,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Blinken",
+                "start_char": 566,
+                "end_char": 573,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

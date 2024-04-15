@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Mit folgenden Themen: Großangriff Irans auf Israel",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-14-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-14-april-2024-100.html",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1713123006.2728953,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-14 21:30:06",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2024-04-14T21.30.06",
+        "language": "de",
+        "filename": "ner_en_2024-04-14.json",
+        "en_title": "With the following topics: Iran's Great Attack on Israel",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "Iran",
+                "start_char": 27,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Great Attack",
+                "start_char": 34,
+                "end_char": 46,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 50,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "China-Reise von Nahostkonflikt überschattet",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-14-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-14-april-2024-100.html",
+        "content": "Reise von Nahostkonflikt überschattet",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1713123006.273597,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-14 21:30:06",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2024-04-14T21.30.06",
+        "language": "de",
+        "filename": "ner_en_2024-04-14.json",
+        "en_title": "China trip from Middle East conflict overshadowed",
+        "en_content": "Journey of Middle East conflict overshadowed",
+        "title_NER": [
+            {
+                "word": "China",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Middle East",
+                "start_char": 16,
+                "end_char": 27,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Middle East",
+                "start_char": 11,
+                "end_char": 22,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "weiteren Nachrichten, dem Sport und dem Wetter.",
+        "date_raw": "April 14, 2024",
+        "date": "2024-04-14",
+        "url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-14-april-2024-100.html",
+        "news_url": "https://www.zdf.de/nachrichten-sendungen/heute-19-uhr/nachrichten-sendungen/heute-19-uhr/heute-19-uhr-vom-14-april-2024-100.html",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1713123006.27417,
+        "langauge": "DE",
+        "source": "Zdf",
+        "local_time": "2024-04-14 21:30:06",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2024-04-14T21.30.06",
+        "language": "de",
+        "filename": "ner_en_2024-04-14.json",
+        "en_title": "more news, sport and weather.",
+        "en_content": ""
+    }
+]
