@@ -1,0 +1,158 @@
+[
+    {
+        "title": "Atenas se rinde ante la gentrificación",
+        "date_raw": "Thu, 21 Mar 2024 03:34:15 +0100",
+        "date": "2024-03-21",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/atenas-rinde-ante-gentrificacion-20240321033415-nt.html",
+        "subtitle": "El barrio anarquista de Exarchia es el último bastión ateniense que resiste, aunque son muchos los suburbios de la capital en el que el aumento de los pisos turísticos y el precio de los alquileres están expulsando a los vecinos",
+        "content": "«Estamos perdiendo los ",
+        "ranked": 13,
+        "placed": "Abroad",
+        "epoch": 1711036036.0811024,
+        "language": "ES",
+        "source": "ABC",
+        "en_title": "Athens se rinde ante la gentrificación",
+        "en_content": "«We are losing them",
+        "en_subtitle": "El barrio anarchist of Exarchia es el ultima basstión ateniense que resiste, aunque son muchos los suburbanios de la capital en el que el aumento de los turisticas y el precio de los alquileres están expulsando a los vecinos",
+        "title_NER": [
+            {
+                "word": "Athens",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Exarchia",
+                "start_char": 23,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el ultima basstión",
+                "start_char": 35,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "muchos los",
+                "start_char": 88,
+                "end_char": 98,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de la",
+                "start_char": 111,
+                "end_char": 116,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el que el",
+                "start_char": 128,
+                "end_char": 137,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de los turisticas",
+                "start_char": 146,
+                "end_char": 163,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el precio de los",
+                "start_char": 166,
+                "end_char": 182,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Muere un niño de dos años en California tras ser atropellado por un camión que conducía un menor de tres",
+        "date_raw": "Thu, 21 Mar 2024 12:19:01 +0100",
+        "date": "2024-03-21",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/muere-nino-dos-anos-california-tras-atropellado-20240321121900-nt.html",
+        "subtitle": "Se está llevando a cabo una investigación, cuyos resultados serán enviados a la Oficina del Fiscal de Distrito",
+        "content": "Un niño de dos años ha muerto en California tras ser atropellado por un camión ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1711036036.7065654,
+        "language": "ES",
+        "source": "ABC",
+        "en_title": "Muere un niño de dos años en California tras ser atropellado por un camión que conducía un minor de tres",
+        "en_content": "Un niño de dos años ha muerto en California tras ser atropellado por un camión",
+        "en_subtitle": "If you are carrying out a research, cuyos results serán sent to the Oficina del Fiscal de Distrito",
+        "title_NER": [
+            {
+                "word": "un",
+                "start_char": 6,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "California",
+                "start_char": 29,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "un",
+                "start_char": 65,
+                "end_char": 67,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un",
+                "start_char": 88,
+                "end_char": 90,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "the Oficina del Fiscal de Distrito",
+                "start_char": 64,
+                "end_char": 98,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Un",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "California",
+                "start_char": 33,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "un",
+                "start_char": 69,
+                "end_char": 71,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    }
+]

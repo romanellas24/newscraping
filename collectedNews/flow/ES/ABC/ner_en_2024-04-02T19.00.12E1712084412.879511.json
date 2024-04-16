@@ -1,0 +1,908 @@
+[
+    {
+        "title": "Estados Unidos compra uranio ruso con más intensidad que nunca",
+        "date_raw": "Tue, 02 Apr 2024 18:38:17 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/estados-unidos-compra-uranio-ruso-intensidad-nunca-20240402183817-nt.html",
+        "subtitle": "Europa no ha sancionado el material ruso porque paralizaría la producción de varias centrales nucleares, pero EE.UU. no está sujeto a este condicionante",
+        "content": "El carguero ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1712077212.2493503,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "United States buys uranio ruso con más intensidad que never",
+        "en_content": "El carguero",
+        "en_subtitle": "Europe no ha sancionado el material ruso because paralizaría la producción de varias central nuclear, pero E.U. no é subjectto a esteconditionnte",
+        "title_NER": [
+            {
+                "word": "United States",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Europe",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "E.U.",
+                "start_char": 107,
+                "end_char": 111,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Irán amenaza con una represalia tras el ataque israelí en Damasco: «No quedará sin respuesta»",
+        "date_raw": "Tue, 02 Apr 2024 11:40:09 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/iran-amenaza-represalia-tras-ataque-israeli-damasco-20240402113939-nt.html",
+        "subtitle": "El ministro de Exteriores considera a Washington responsable indirecto del bombardeo",
+        "content": "Al menos ",
+        "ranked": 17,
+        "placed": "Abroad",
+        "epoch": 1712077212.3282347,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "Irán amenaza con una represalia tras el attack israelí en Damascus: «In the fall shall be a sin of respuesta»",
+        "en_content": "Less",
+        "en_subtitle": "El Minister de Exteriores considers Washington indirectly responsible for the bombing",
+        "title_NER": [
+            {
+                "word": "israelí en",
+                "start_char": 47,
+                "end_char": 57,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Damascus",
+                "start_char": 58,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El Minister de Exteriores",
+                "start_char": 0,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Washington",
+                "start_char": 36,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Rusia decomisa explosivos procedentes de Ucrania que habrían pasado por la Unión Europea",
+        "date_raw": "Tue, 02 Apr 2024 12:45:31 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/rusia-decomisa-explosivos-procedentes-ucrania-pasado-union-20240402124531-nt.html",
+        "subtitle": "La FSB rusa incauta decenas de kilos de munición ocultos en íconos ortodoxos ",
+        "content": "Los servicios de seguridad rusos (",
+        "ranked": 13,
+        "placed": "Abroad",
+        "epoch": 1712077212.4236152,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "Rusia decomposes explosives from Ukraine that habrían pasado por la Unión Europea",
+        "en_content": "Los servicios de seguridad rusos (",
+        "en_subtitle": "La FSB rusa incauta decenas de kilos de munición occult en Íconos ortodoxos",
+        "title_NER": [
+            {
+                "word": "Rusia",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 33,
+                "end_char": 40,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "habrían pasado",
+                "start_char": 46,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Unión Europea",
+                "start_char": 68,
+                "end_char": 81,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "La FSB",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "decenas de kilos de munición",
+                "start_char": 20,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Íconos",
+                "start_char": 59,
+                "end_char": 65,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "de seguridad rusos",
+                "start_char": 14,
+                "end_char": 32,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Drones ucranianos bombardean una factoría militar y una refinería en la república rusa de Tatarstán",
+        "date_raw": "Tue, 02 Apr 2024 12:22:31 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/drones-ucranianos-bombardean-factoria-militar-rusa-refinaria-20240402122230-nt.html",
+        "subtitle": "Se trata el primer ataque de las fuerzas de Kiev a más de mil kilómetros de Ucrania",
+        "content": "Varios aparatos aéreos no tripulados ucranianos atacaron en la mañana de este martes una factoría de producción de armas en Yelábuga y una refinaría en Nizhnekamsk, localidades ambas situadas en la república rusa de Tatarstán. Se trata del primer bombardeo de las fuerzas de Kiev ...",
+        "ranked": 15,
+        "placed": "Abroad",
+        "epoch": 1712077212.4527776,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "Ukrainian drones bomban una factoría militar y una refinería en la republic rusa de Tatarstán",
+        "en_content": "Varios aerial apparatuses in the Ukrainian crew attackedon en la mañana de este martes una factoría de producción de armas en Yelábuga y una refinaría en Nizhnekamsk, localities both situated in the Rusa Republic of Tatarstán. It is the primer bombardment of the fuerzas of Kiev ...",
+        "en_subtitle": "It is the primer attack of the fuerzas of Kiev to a thousand kilometers of Ukraine",
+        "title_NER": [
+            {
+                "word": "Ukrainian",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "la republic",
+                "start_char": 64,
+                "end_char": 75,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 42,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a thousand kilometers",
+                "start_char": 50,
+                "end_char": 71,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 75,
+                "end_char": 82,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ukrainian",
+                "start_char": 33,
+                "end_char": 42,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "attackedon en la",
+                "start_char": 48,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "mañana de",
+                "start_char": 65,
+                "end_char": 74,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de armas",
+                "start_char": 114,
+                "end_char": 122,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yelábuga",
+                "start_char": 126,
+                "end_char": 134,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nizhnekamsk",
+                "start_char": 154,
+                "end_char": 165,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Rusa Republic of Tatarstán",
+                "start_char": 195,
+                "end_char": 225,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 274,
+                "end_char": 278,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "La Policía tailandesa pide el arresto de 'Big Joke', la cara visible del cuerpo en el caso Daniel Sancho",
+        "date_raw": "Tue, 02 Apr 2024 12:51:33 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/policia-tailandesa-pide-arresto-big-joke-cara-20240402125133-nt.html",
+        "subtitle": "Está acusado de cargos de sobornos en los que hay implicados grupos ilegales de apuestas en línea",
+        "content": "La Oficina Central de Investigación de la Policía Metropolitana de Bangkok (CIB) ha pedido este martes a un tribunal",
+        "ranked": 12,
+        "placed": "Abroad",
+        "epoch": 1712077212.4928327,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "La Policía tailandesa pide el arresto de 'Big Joke', la cara visible del cuerpo en el caso Daniel Sancho",
+        "en_content": "La Oficina Central de Investigación de la Policía Metropolitana de Bangkok (CIB) ha pedido este martes a un tribunal",
+        "en_subtitle": "He is accused of positions of sobornos en los que hay implicados unlawful groups of apuestas en linea",
+        "title_NER": [
+            {
+                "word": "La Policía",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el arresto de 'Big Joke'",
+                "start_char": 27,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "la cara",
+                "start_char": 53,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del cuerpo",
+                "start_char": 69,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el caso",
+                "start_char": 83,
+                "end_char": 90,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Daniel Sancho",
+                "start_char": 91,
+                "end_char": 104,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "los que hay",
+                "start_char": 42,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "La Oficina Central de Investigación de la",
+                "start_char": 0,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Policía Metropolitana de Bangkok",
+                "start_char": 42,
+                "end_char": 74,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un",
+                "start_char": 105,
+                "end_char": 107,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Boluarte cambia al ministro del Interior y otros cinco miembros del gabinete en plena crisis de los 'Rolex'",
+        "date_raw": "Tue, 02 Apr 2024 09:29:32 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/boluarte-cambia-ministro-interior-cinco-miembros-gabinete-20240402092932-nt.html",
+        "subtitle": "El saliente ministro Torres renunció al cargo después de haber sido cuestionado por la participación de agentes de la Policía Nacional en el allanamiento de la casa ",
+        "content": "La mandataria peruana, ",
+        "ranked": 19,
+        "placed": "Abroad",
+        "epoch": 1712077212.513982,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "Boluarte cambia al minister del del Interior y otros five miembros del enclosure en plena crisis de los 'Rolex'",
+        "en_content": "La mandataria peruana,",
+        "en_subtitle": "El saliente Ministro Torres renunció al cargo después de haber foi cuestionado por la participación de agents de la Policía Nacional en el allanamiento de la casa",
+        "title_NER": [
+            {
+                "word": "al minister",
+                "start_char": 16,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "del del Interior",
+                "start_char": 28,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rolex",
+                "start_char": 105,
+                "end_char": 110,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "al cargo",
+                "start_char": 37,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "allanamiento de la",
+                "start_char": 139,
+                "end_char": 157,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "La mandataria peruana",
+                "start_char": 0,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "¿Cómo ha vencido la oposición turca al AKP de Erdogan en las elecciones locales? Las claves de la sorpresa",
+        "date_raw": "Tue, 02 Apr 2024 12:16:12 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/vencido-oposicion-turca-akp-erdogan-elecciones-locales-20240402121611-nt.html",
+        "subtitle": "En apenas diez meses de margen, el presidente turco pasó de celebrar eufórico su reelección como presidente, a comparecer ante los suyos con gesto muy serio y tono bajo",
+        "content": "Recep Tayyip ",
+        "ranked": 16,
+        "placed": "Abroad",
+        "epoch": 1712077212.5243669,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "¿Cómo ha vencido la oposición Turkish al AKP de Erdogan en las elecciones locales? Las claves de la sorpresa",
+        "en_content": "Recep Tayip",
+        "en_subtitle": "In just diez months of margen, el presidente turkish pasó de celebra eufórico su re-election como presidente, aparcer ante los suyos con gesture muy serio y tono bajo",
+        "title_NER": [
+            {
+                "word": "Turkish",
+                "start_char": 30,
+                "end_char": 37,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "months",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "margen",
+                "start_char": 23,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el presidente",
+                "start_char": 31,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "muy",
+                "start_char": 145,
+                "end_char": 148,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "tono bajo",
+                "start_char": 157,
+                "end_char": 166,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Recep Tayip",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "José Andrés, «desconsolado»: «Lo peor de todo es que estas muertes no sirvan para parar la guerra»",
+        "date_raw": "Tue, 02 Apr 2024 12:45:07 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/jose-andres-desconsolado-peor-muertes-sirvan-parar-20240402124507-nt.html",
+        "subtitle": "WCK cuenta con 73 cocinas en Gaza y reparte una media de 335.956 comidas al día",
+        "content": "Día de luto en World Central Kitchen (WCK) tras la muerte de siete empleados en un ataque de Israel contra los vehículos blindados en los que viajaban en ",
+        "ranked": 14,
+        "placed": "Abroad",
+        "epoch": 1712077212.5914972,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "José Andrés, \"dissolved\": «Lo peor of all these muertes in the sirvan to stop the war»",
+        "en_content": "Día de luto en World Central Kitchen (WCK) tras la muerte de siete empleados en un attack de Israel contra los vehículos armorados en los que travelban en",
+        "en_subtitle": "WCK cuenta con 73 cocinas en Gaza y reparte una media de 335.956 alimentoss al día",
+        "title_NER": [
+            {
+                "word": "José Andrés",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lo",
+                "start_char": 27,
+                "end_char": 29,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "73",
+                "start_char": 15,
+                "end_char": 17,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 29,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "335.956 alimentoss al día",
+                "start_char": 57,
+                "end_char": 82,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "World Central",
+                "start_char": 15,
+                "end_char": 28,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "un",
+                "start_char": 80,
+                "end_char": 82,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 93,
+                "end_char": 99,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "contra",
+                "start_char": 100,
+                "end_char": 106,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "los vehículos armorados",
+                "start_char": 107,
+                "end_char": 130,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "los que",
+                "start_char": 134,
+                "end_char": 141,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Muere un niño y dos quedan gravemente heridos tras un tiroteo en un colegio de Helsinki",
+        "date_raw": "Tue, 02 Apr 2024 09:30:17 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/varios-heridos-detenido-tras-tiroteo-escuela-afueras-20240402093016-nt.html",
+        "subtitle": "El autor del tiroteo, de 12 años, disparó a sus compañeros por «motivos personales»",
+        "content": "Un conductor contempló ayer con estupor como siete policías tiraban al suelo y detenían bruscamente a un niño en la tranquila zona residencial de Siltamäki, en ",
+        "ranked": 18,
+        "placed": "Abroad",
+        "epoch": 1712077212.6662054,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "Muere un niño y dos quedan gravely inherited tras un tirateo en un colegio de Helsinki",
+        "en_content": "Un conductor contempló ayer con estupor como siete policías tiraban al suelo y detenían bruscamente a un niño en la tranquil zona residential de Siltamäki, en",
+        "en_subtitle": "El autor del Tiroteo, 12 años, disparó a sus compañeros por «motivos personales»",
+        "title_NER": [
+            {
+                "word": "un",
+                "start_char": 6,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un",
+                "start_char": 50,
+                "end_char": 52,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un",
+                "start_char": 64,
+                "end_char": 66,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "colegio de Helsinki",
+                "start_char": 67,
+                "end_char": 86,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "del Tiroteo",
+                "start_char": 9,
+                "end_char": 20,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "12",
+                "start_char": 22,
+                "end_char": 24,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Un",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "como",
+                "start_char": 40,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "policías tiraban",
+                "start_char": 51,
+                "end_char": 67,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "al suelo",
+                "start_char": 68,
+                "end_char": 76,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un",
+                "start_char": 102,
+                "end_char": 104,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "la tranquil",
+                "start_char": 113,
+                "end_char": 124,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Netanyahu admite que Israel bombardeó de forma «no intencionada» a los siete trabajadores de la ONG del chef José Andrés",
+        "date_raw": "Tue, 02 Apr 2024 14:30:14 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/netanyahu-admite-israel-bombardeo-forma-intencionada-siete-20240402143013-nt.html",
+        "subtitle": "«Esto sucede en una guerra», ha declarado el primer ministro de Israel",
+        "content": "El primer ministro israelí, Benjamin Netanyahu, ha admitido este martes que Israel bombardeó de forma «no intencionada» a los siete trabajadores de la ONG del chef José Andrés, ",
+        "ranked": 8,
+        "placed": "Abroad",
+        "epoch": 1712077212.8473222,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "Netanyahu admits that Israel bombs in a \"intention\" way to the workers of the NGO of chef José Andrés",
+        "en_content": "El primer Ministro israelí, Benjamin Netanyahu, has admitted this martes that Israel bombed in a \"intention\" way to the Siete trabajadores de la NGO del chef José Andrés,",
+        "en_subtitle": "«It is happening in a war», has declared the Prime Minister of Israel",
+        "title_NER": [
+            {
+                "word": "Netanyahu",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 22,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NGO",
+                "start_char": 78,
+                "end_char": 81,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "José Andrés",
+                "start_char": 90,
+                "end_char": 101,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Israel",
+                "start_char": 63,
+                "end_char": 69,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ministro israelí",
+                "start_char": 10,
+                "end_char": 26,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 28,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 78,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Siete",
+                "start_char": 120,
+                "end_char": 125,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "José Andrés",
+                "start_char": 158,
+                "end_char": 169,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Al menos 29 muertos en un incendio en una discoteca en Estambul",
+        "date_raw": "Tue, 02 Apr 2024 15:16:47 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/muertos-ocho-heridos-incendio-estambul-20240402151647-nt.html",
+        "subtitle": "El fuego se desató durante unas obras en el sótano de un inmueble residencial de 16 pisos",
+        "content": "víctimas de las llamas de un incendio declarado en una discoteca ubicada en el sótano de un edificio residencial de 16 plantas del barrio de Besiktas, en la ciudad turca de Estambul, en el noroeste del país.",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1712077212.8792422,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-04-02 19:00:12",
+        "en_title": "Al minus 29 muertos en un incendio en una disco en Estambul",
+        "en_content": "víctimas de las llamas de un incendio declared in a disco ubicada en el sotano de un edificio residential de 16 plantas del barrio de Besiktas, en la ciudad Turkish de Estambul, en el norte del país.",
+        "en_subtitle": "El fuego se desató during a works in the sole of a residential inmueble of 16 floors",
+        "title_NER": [
+            {
+                "word": "un",
+                "start_char": 23,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "16",
+                "start_char": 75,
+                "end_char": 77,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "víctimas de las llamas de un",
+                "start_char": 0,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el sotano de un edificio residential de",
+                "start_char": 69,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "16",
+                "start_char": 109,
+                "end_char": 111,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turkish de Estambul",
+                "start_char": 157,
+                "end_char": 176,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
