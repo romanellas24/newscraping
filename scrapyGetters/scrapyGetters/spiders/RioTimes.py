@@ -87,7 +87,7 @@ class RioTimes(BaseScraper):
             'placed': 'Abroad',
             'epoch': timestamp,
             'language': 'EN',
-            'source': 'Rio Times',
+            'source': 'RioTimes',
             'local_time': self.calculate_local_time(),
             'timezone': self.timezone,
             'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
