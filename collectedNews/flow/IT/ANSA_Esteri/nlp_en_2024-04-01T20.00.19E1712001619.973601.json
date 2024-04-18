@@ -1,0 +1,2022 @@
+[
+    {
+        "title": "Israele approva stretta sulle tv, nel mirino Al Jazeera",
+        "date_raw": "Mon, 1 Apr 2024 18:23:11 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/04/01/israele-approva-stretta-sulle-tv-nel-mirino-al-jazeera_db8583c3-8567-4e49-b60a-dbdc665ae412.html",
+        "subtitle": "E altre reti che 'minano la sicurezza'. Legge passa alla Knesset",
+        "content": "\n                                                \n            Il parlamento israeliano ha\napprovato la legge che permette di chiudere un'emittente\nstraniera in Israele che danneggia la sicurezza dello stato. Lo\nhanno riferito i media secondo cui la decisione sulla chiusura\ndi una rete - e nel mirino c'e' la tv del Qatar Al Jazeera -\ndovrà essere firmata dal ministro delle Comunicazioni Shlomo\nKarhi. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1711994420.734381,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-01 20:00:20",
+        "filename": "ner_conc_en_2024-04-01T20.00.19E1712001619.973601.json",
+        "en_title": "Israel approves tightly on TV, in the Al Jazeera viewfinder",
+        "en_content": "The Israeli parliament has\napproved the law that allows to close an issuer\nforeign in Israel that damages state security. I do.\nreported the media that the decision on the closure\nof a network - and in the viewer there is the TV of Qatar Al Jazeera -\nmust be signed by the Minister of Communications Shlomo\nKarhi.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "TV",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Al",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jazeera",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "viewfinder",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Al Jazeera",
+                "start_char": 38,
+                "end_char": 48,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 4,
+                "end_char": 11,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 86,
+                "end_char": 92,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Qatar Al Jazeera",
+                "start_char": 232,
+                "end_char": 248,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Communications Shlomo\nKarhi",
+                "start_char": 285,
+                "end_char": 312,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "cont_nlp": {
+            "text": "The Israeli parliament has\napproved the law that allows to close an issuer\nforeign in Israel that damages state security. I do.\nreported the media that the decision on the closure\nof a network - and in the viewer there is the TV of Qatar Al Jazeera -\nmust be signed by the Minister of Communications Shlomo\nKarhi.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+            "ents": [
+                {
+                    "start": 4,
+                    "end": 11,
+                    "label": "NORP"
+                },
+                {
+                    "start": 86,
+                    "end": 92,
+                    "label": "GPE"
+                },
+                {
+                    "start": 232,
+                    "end": 248,
+                    "label": "ORG"
+                },
+                {
+                    "start": 285,
+                    "end": 312,
+                    "label": "PERSON"
+                }
+            ],
+            "sents": [
+                {
+                    "start": 0,
+                    "end": 121
+                },
+                {
+                    "start": 122,
+                    "end": 319
+                },
+                {
+                    "start": 319,
+                    "end": 361
+                }
+            ],
+            "tokens": [
+                {
+                    "id": 0,
+                    "start": 0,
+                    "end": 3,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 2
+                },
+                {
+                    "id": 1,
+                    "start": 4,
+                    "end": 11,
+                    "tag": "JJ",
+                    "pos": "ADJ",
+                    "morph": "Degree=Pos",
+                    "lemma": "israeli",
+                    "dep": "amod",
+                    "head": 2
+                },
+                {
+                    "id": 2,
+                    "start": 12,
+                    "end": 22,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "parliament",
+                    "dep": "nsubj",
+                    "head": 5
+                },
+                {
+                    "id": 3,
+                    "start": 23,
+                    "end": 26,
+                    "tag": "VBZ",
+                    "pos": "AUX",
+                    "morph": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "have",
+                    "dep": "aux",
+                    "head": 5
+                },
+                {
+                    "id": 4,
+                    "start": 26,
+                    "end": 27,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 3
+                },
+                {
+                    "id": 5,
+                    "start": 27,
+                    "end": 35,
+                    "tag": "VBN",
+                    "pos": "VERB",
+                    "morph": "Aspect=Perf|Tense=Past|VerbForm=Part",
+                    "lemma": "approve",
+                    "dep": "ROOT",
+                    "head": 5
+                },
+                {
+                    "id": 6,
+                    "start": 36,
+                    "end": 39,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 7
+                },
+                {
+                    "id": 7,
+                    "start": 40,
+                    "end": 43,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "law",
+                    "dep": "dobj",
+                    "head": 5
+                },
+                {
+                    "id": 8,
+                    "start": 44,
+                    "end": 48,
+                    "tag": "WDT",
+                    "pos": "PRON",
+                    "morph": "PronType=Rel",
+                    "lemma": "that",
+                    "dep": "nsubj",
+                    "head": 9
+                },
+                {
+                    "id": 9,
+                    "start": 49,
+                    "end": 55,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "allow",
+                    "dep": "relcl",
+                    "head": 7
+                },
+                {
+                    "id": 10,
+                    "start": 56,
+                    "end": 58,
+                    "tag": "TO",
+                    "pos": "PART",
+                    "morph": "",
+                    "lemma": "to",
+                    "dep": "aux",
+                    "head": 11
+                },
+                {
+                    "id": 11,
+                    "start": 59,
+                    "end": 64,
+                    "tag": "VB",
+                    "pos": "VERB",
+                    "morph": "VerbForm=Inf",
+                    "lemma": "close",
+                    "dep": "xcomp",
+                    "head": 9
+                },
+                {
+                    "id": 12,
+                    "start": 65,
+                    "end": 67,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Ind|PronType=Art",
+                    "lemma": "an",
+                    "dep": "det",
+                    "head": 15
+                },
+                {
+                    "id": 13,
+                    "start": 68,
+                    "end": 74,
+                    "tag": "JJ",
+                    "pos": "ADJ",
+                    "morph": "Degree=Pos",
+                    "lemma": "issuer",
+                    "dep": "amod",
+                    "head": 15
+                },
+                {
+                    "id": 14,
+                    "start": 74,
+                    "end": 75,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 13
+                },
+                {
+                    "id": 15,
+                    "start": 75,
+                    "end": 82,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "foreign",
+                    "dep": "dobj",
+                    "head": 11
+                },
+                {
+                    "id": 16,
+                    "start": 83,
+                    "end": 85,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "in",
+                    "dep": "prep",
+                    "head": 15
+                },
+                {
+                    "id": 17,
+                    "start": 86,
+                    "end": 92,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Israel",
+                    "dep": "pobj",
+                    "head": 16
+                },
+                {
+                    "id": 18,
+                    "start": 93,
+                    "end": 97,
+                    "tag": "WDT",
+                    "pos": "PRON",
+                    "morph": "PronType=Rel",
+                    "lemma": "that",
+                    "dep": "nsubj",
+                    "head": 19
+                },
+                {
+                    "id": 19,
+                    "start": 98,
+                    "end": 105,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "damage",
+                    "dep": "relcl",
+                    "head": 15
+                },
+                {
+                    "id": 20,
+                    "start": 106,
+                    "end": 111,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "state",
+                    "dep": "compound",
+                    "head": 21
+                },
+                {
+                    "id": 21,
+                    "start": 112,
+                    "end": 120,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "security",
+                    "dep": "dobj",
+                    "head": 19
+                },
+                {
+                    "id": 22,
+                    "start": 120,
+                    "end": 121,
+                    "tag": ".",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Peri",
+                    "lemma": ".",
+                    "dep": "punct",
+                    "head": 5
+                },
+                {
+                    "id": 23,
+                    "start": 122,
+                    "end": 123,
+                    "tag": "PRP",
+                    "pos": "PRON",
+                    "morph": "Case=Nom|Number=Sing|Person=1|PronType=Prs",
+                    "lemma": "I",
+                    "dep": "nsubj",
+                    "head": 24
+                },
+                {
+                    "id": 24,
+                    "start": 124,
+                    "end": 126,
+                    "tag": "VBP",
+                    "pos": "AUX",
+                    "morph": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+                    "lemma": "do",
+                    "dep": "aux",
+                    "head": 27
+                },
+                {
+                    "id": 25,
+                    "start": 126,
+                    "end": 127,
+                    "tag": ".",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Peri",
+                    "lemma": ".",
+                    "dep": "punct",
+                    "head": 24
+                },
+                {
+                    "id": 26,
+                    "start": 127,
+                    "end": 128,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 25
+                },
+                {
+                    "id": 27,
+                    "start": 128,
+                    "end": 136,
+                    "tag": "VBD",
+                    "pos": "VERB",
+                    "morph": "Tense=Past|VerbForm=Fin",
+                    "lemma": "report",
+                    "dep": "ROOT",
+                    "head": 27
+                },
+                {
+                    "id": 28,
+                    "start": 137,
+                    "end": 140,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 29
+                },
+                {
+                    "id": 29,
+                    "start": 141,
+                    "end": 146,
+                    "tag": "NNS",
+                    "pos": "NOUN",
+                    "morph": "Number=Plur",
+                    "lemma": "medium",
+                    "dep": "dobj",
+                    "head": 27
+                },
+                {
+                    "id": 30,
+                    "start": 147,
+                    "end": 151,
+                    "tag": "IN",
+                    "pos": "SCONJ",
+                    "morph": "",
+                    "lemma": "that",
+                    "dep": "mark",
+                    "head": 46
+                },
+                {
+                    "id": 31,
+                    "start": 152,
+                    "end": 155,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 32
+                },
+                {
+                    "id": 32,
+                    "start": 156,
+                    "end": 164,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "decision",
+                    "dep": "nsubj",
+                    "head": 30
+                },
+                {
+                    "id": 33,
+                    "start": 165,
+                    "end": 167,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "on",
+                    "dep": "prep",
+                    "head": 32
+                },
+                {
+                    "id": 34,
+                    "start": 168,
+                    "end": 171,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 35
+                },
+                {
+                    "id": 35,
+                    "start": 172,
+                    "end": 179,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "closure",
+                    "dep": "pobj",
+                    "head": 33
+                },
+                {
+                    "id": 36,
+                    "start": 179,
+                    "end": 180,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 35
+                },
+                {
+                    "id": 37,
+                    "start": 180,
+                    "end": 182,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "of",
+                    "dep": "prep",
+                    "head": 35
+                },
+                {
+                    "id": 38,
+                    "start": 183,
+                    "end": 184,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Ind|PronType=Art",
+                    "lemma": "a",
+                    "dep": "det",
+                    "head": 39
+                },
+                {
+                    "id": 39,
+                    "start": 185,
+                    "end": 192,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "network",
+                    "dep": "pobj",
+                    "head": 37
+                },
+                {
+                    "id": 40,
+                    "start": 193,
+                    "end": 194,
+                    "tag": ":",
+                    "pos": "PUNCT",
+                    "morph": "",
+                    "lemma": "-",
+                    "dep": "punct",
+                    "head": 32
+                },
+                {
+                    "id": 41,
+                    "start": 195,
+                    "end": 198,
+                    "tag": "CC",
+                    "pos": "CCONJ",
+                    "morph": "ConjType=Cmp",
+                    "lemma": "and",
+                    "dep": "cc",
+                    "head": 46
+                },
+                {
+                    "id": 42,
+                    "start": 199,
+                    "end": 201,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "in",
+                    "dep": "prep",
+                    "head": 46
+                },
+                {
+                    "id": 43,
+                    "start": 202,
+                    "end": 205,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 44
+                },
+                {
+                    "id": 44,
+                    "start": 206,
+                    "end": 212,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "viewer",
+                    "dep": "pobj",
+                    "head": 42
+                },
+                {
+                    "id": 45,
+                    "start": 213,
+                    "end": 218,
+                    "tag": "EX",
+                    "pos": "PRON",
+                    "morph": "",
+                    "lemma": "there",
+                    "dep": "expl",
+                    "head": 46
+                },
+                {
+                    "id": 46,
+                    "start": 219,
+                    "end": 221,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "be",
+                    "dep": "ccomp",
+                    "head": 27
+                },
+                {
+                    "id": 47,
+                    "start": 222,
+                    "end": 225,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 48
+                },
+                {
+                    "id": 48,
+                    "start": 226,
+                    "end": 228,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "tv",
+                    "dep": "attr",
+                    "head": 46
+                },
+                {
+                    "id": 49,
+                    "start": 229,
+                    "end": 231,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "of",
+                    "dep": "prep",
+                    "head": 48
+                },
+                {
+                    "id": 50,
+                    "start": 232,
+                    "end": 237,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Qatar",
+                    "dep": "compound",
+                    "head": 52
+                },
+                {
+                    "id": 51,
+                    "start": 238,
+                    "end": 240,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Al",
+                    "dep": "compound",
+                    "head": 52
+                },
+                {
+                    "id": 52,
+                    "start": 241,
+                    "end": 248,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Jazeera",
+                    "dep": "pobj",
+                    "head": 49
+                },
+                {
+                    "id": 53,
+                    "start": 249,
+                    "end": 250,
+                    "tag": "HYPH",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Dash",
+                    "lemma": "-",
+                    "dep": "punct",
+                    "head": 57
+                },
+                {
+                    "id": 54,
+                    "start": 250,
+                    "end": 251,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 53
+                },
+                {
+                    "id": 55,
+                    "start": 251,
+                    "end": 255,
+                    "tag": "MD",
+                    "pos": "AUX",
+                    "morph": "VerbForm=Fin",
+                    "lemma": "must",
+                    "dep": "aux",
+                    "head": 57
+                },
+                {
+                    "id": 56,
+                    "start": 256,
+                    "end": 258,
+                    "tag": "VB",
+                    "pos": "AUX",
+                    "morph": "VerbForm=Inf",
+                    "lemma": "be",
+                    "dep": "auxpass",
+                    "head": 57
+                },
+                {
+                    "id": 57,
+                    "start": 259,
+                    "end": 265,
+                    "tag": "VBN",
+                    "pos": "VERB",
+                    "morph": "Aspect=Perf|Tense=Past|VerbForm=Part",
+                    "lemma": "sign",
+                    "dep": "conj",
+                    "head": 27
+                },
+                {
+                    "id": 58,
+                    "start": 266,
+                    "end": 268,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "by",
+                    "dep": "agent",
+                    "head": 57
+                },
+                {
+                    "id": 59,
+                    "start": 269,
+                    "end": 272,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 60
+                },
+                {
+                    "id": 60,
+                    "start": 273,
+                    "end": 281,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Minister",
+                    "dep": "pobj",
+                    "head": 58
+                },
+                {
+                    "id": 61,
+                    "start": 282,
+                    "end": 284,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "of",
+                    "dep": "prep",
+                    "head": 60
+                },
+                {
+                    "id": 62,
+                    "start": 285,
+                    "end": 299,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Communications",
+                    "dep": "compound",
+                    "head": 63
+                },
+                {
+                    "id": 63,
+                    "start": 300,
+                    "end": 306,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Shlomo",
+                    "dep": "pobj",
+                    "head": 61
+                },
+                {
+                    "id": 64,
+                    "start": 306,
+                    "end": 307,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 63
+                },
+                {
+                    "id": 65,
+                    "start": 307,
+                    "end": 312,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Karhi",
+                    "dep": "pobj",
+                    "head": 61
+                },
+                {
+                    "id": 66,
+                    "start": 312,
+                    "end": 313,
+                    "tag": ".",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Peri",
+                    "lemma": ".",
+                    "dep": "punct",
+                    "head": 57
+                },
+                {
+                    "id": 67,
+                    "start": 313,
+                    "end": 319,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n\n\n\n\n\n",
+                    "dep": "dep",
+                    "head": 66
+                },
+                {
+                    "id": 68,
+                    "start": 319,
+                    "end": 331,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "reproduction",
+                    "dep": "nsubj",
+                    "head": 69
+                },
+                {
+                    "id": 69,
+                    "start": 332,
+                    "end": 340,
+                    "tag": "VBD",
+                    "pos": "VERB",
+                    "morph": "Tense=Past|VerbForm=Fin",
+                    "lemma": "reserve",
+                    "dep": "ROOT",
+                    "head": 69
+                },
+                {
+                    "id": 70,
+                    "start": 341,
+                    "end": 342,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "©",
+                    "dep": "amod",
+                    "head": 72
+                },
+                {
+                    "id": 71,
+                    "start": 343,
+                    "end": 352,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Copyright",
+                    "dep": "compound",
+                    "head": 72
+                },
+                {
+                    "id": 72,
+                    "start": 353,
+                    "end": 357,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "ansa",
+                    "dep": "dobj",
+                    "head": 69
+                },
+                {
+                    "id": 73,
+                    "start": 357,
+                    "end": 361,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n\n\n\n",
+                    "dep": "dep",
+                    "head": 72
+                }
+            ]
+        },
+        "title_nlp": {
+            "text": "Israel approves tightly on TV, in the Al Jazeera viewfinder",
+            "ents": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "label": "GPE"
+                },
+                {
+                    "start": 38,
+                    "end": 48,
+                    "label": "ORG"
+                }
+            ],
+            "sents": [
+                {
+                    "start": 0,
+                    "end": 59
+                }
+            ],
+            "tokens": [
+                {
+                    "id": 0,
+                    "start": 0,
+                    "end": 6,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Israel",
+                    "dep": "nsubj",
+                    "head": 1
+                },
+                {
+                    "id": 1,
+                    "start": 7,
+                    "end": 15,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "approve",
+                    "dep": "ROOT",
+                    "head": 1
+                },
+                {
+                    "id": 2,
+                    "start": 16,
+                    "end": 23,
+                    "tag": "RB",
+                    "pos": "ADV",
+                    "morph": "",
+                    "lemma": "tightly",
+                    "dep": "advmod",
+                    "head": 1
+                },
+                {
+                    "id": 3,
+                    "start": 24,
+                    "end": 26,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "on",
+                    "dep": "prep",
+                    "head": 1
+                },
+                {
+                    "id": 4,
+                    "start": 27,
+                    "end": 29,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "tv",
+                    "dep": "pobj",
+                    "head": 3
+                },
+                {
+                    "id": 5,
+                    "start": 29,
+                    "end": 30,
+                    "tag": ",",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Comm",
+                    "lemma": ",",
+                    "dep": "punct",
+                    "head": 1
+                },
+                {
+                    "id": 6,
+                    "start": 31,
+                    "end": 33,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "in",
+                    "dep": "prep",
+                    "head": 1
+                },
+                {
+                    "id": 7,
+                    "start": 34,
+                    "end": 37,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 9
+                },
+                {
+                    "id": 8,
+                    "start": 38,
+                    "end": 40,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Al",
+                    "dep": "compound",
+                    "head": 9
+                },
+                {
+                    "id": 9,
+                    "start": 41,
+                    "end": 48,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Jazeera",
+                    "dep": "pobj",
+                    "head": 6
+                },
+                {
+                    "id": 10,
+                    "start": 49,
+                    "end": 59,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "viewfinder",
+                    "dep": "npadvmod",
+                    "head": 1
+                }
+            ]
+        },
+        "en_subtitle": "",
+        "subtitle_nlp": {
+            "text": "",
+            "ents": [],
+            "sents": [],
+            "tokens": []
+        }
+    },
+    {
+        "title": "Truth, il social di Trump, cala a Wall Street e perde il 13%",
+        "date_raw": "Mon, 1 Apr 2024 17:41:13 +0200",
+        "date": "2024-04-01",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2024/04/01/truth-il-social-di-trump-cala-a-wall-street-e-perde-il-13_a4c45f07-c54e-4fba-a374-f2b452a14d49.html",
+        "subtitle": "A pesare sono le comunicazioni alla Sec su perdite 2023",
+        "content": "\n                                                \n            Truth, il social di Donald Trump,\ncala a Wall Street, dove arriva a perdere il 13%. A pesare sono\nle comunicazioni alla Sec, che hanno rivelato perdite nel 2023\nper 58 milioni di dollari su ricavi per 4 milioni. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1711994420.761805,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-01 20:00:20",
+        "filename": "ner_conc_en_2024-04-01T20.00.19E1712001619.973601.json",
+        "en_title": "Truth, Trump's social, drops to Wall Street and loses 13%",
+        "en_content": "Truth, Donald Trump's social,\ndrops to Wall Street, where it gets to lose 13%. To weigh are\ncommunications to the Sec, which revealed losses in 2023\nfor 58 million dollars on revenues for 4 million.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Truth",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Trump",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wall",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Street",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Trump",
+                "start_char": 7,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "13%",
+                "start_char": 54,
+                "end_char": 57,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Donald Trump's",
+                "start_char": 7,
+                "end_char": 21,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "13%",
+                "start_char": 74,
+                "end_char": 77,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Sec",
+                "start_char": 114,
+                "end_char": 117,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2023",
+                "start_char": 144,
+                "end_char": 148,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "58 million dollars",
+                "start_char": 153,
+                "end_char": 171,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "4 million",
+                "start_char": 188,
+                "end_char": 197,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "cont_nlp": {
+            "text": "Truth, Donald Trump's social,\ndrops to Wall Street, where it gets to lose 13%. To weigh are\ncommunications to the Sec, which revealed losses in 2023\nfor 58 million dollars on revenues for 4 million.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+            "ents": [
+                {
+                    "start": 7,
+                    "end": 21,
+                    "label": "PERSON"
+                },
+                {
+                    "start": 74,
+                    "end": 77,
+                    "label": "PERCENT"
+                },
+                {
+                    "start": 114,
+                    "end": 117,
+                    "label": "ORG"
+                },
+                {
+                    "start": 144,
+                    "end": 148,
+                    "label": "DATE"
+                },
+                {
+                    "start": 153,
+                    "end": 171,
+                    "label": "MONEY"
+                },
+                {
+                    "start": 188,
+                    "end": 197,
+                    "label": "CARDINAL"
+                }
+            ],
+            "sents": [
+                {
+                    "start": 0,
+                    "end": 78
+                },
+                {
+                    "start": 79,
+                    "end": 204
+                },
+                {
+                    "start": 204,
+                    "end": 246
+                }
+            ],
+            "tokens": [
+                {
+                    "id": 0,
+                    "start": 0,
+                    "end": 5,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Truth",
+                    "dep": "nsubj",
+                    "head": 8
+                },
+                {
+                    "id": 1,
+                    "start": 5,
+                    "end": 6,
+                    "tag": ",",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Comm",
+                    "lemma": ",",
+                    "dep": "punct",
+                    "head": 0
+                },
+                {
+                    "id": 2,
+                    "start": 7,
+                    "end": 13,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Donald",
+                    "dep": "compound",
+                    "head": 3
+                },
+                {
+                    "id": 3,
+                    "start": 14,
+                    "end": 19,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Trump",
+                    "dep": "appos",
+                    "head": 0
+                },
+                {
+                    "id": 4,
+                    "start": 19,
+                    "end": 21,
+                    "tag": "POS",
+                    "pos": "PART",
+                    "morph": "",
+                    "lemma": "'s",
+                    "dep": "case",
+                    "head": 3
+                },
+                {
+                    "id": 5,
+                    "start": 22,
+                    "end": 28,
+                    "tag": "JJ",
+                    "pos": "ADJ",
+                    "morph": "Degree=Pos",
+                    "lemma": "social",
+                    "dep": "amod",
+                    "head": 8
+                },
+                {
+                    "id": 6,
+                    "start": 28,
+                    "end": 29,
+                    "tag": ",",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Comm",
+                    "lemma": ",",
+                    "dep": "punct",
+                    "head": 8
+                },
+                {
+                    "id": 7,
+                    "start": 29,
+                    "end": 30,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 6
+                },
+                {
+                    "id": 8,
+                    "start": 30,
+                    "end": 35,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "drop",
+                    "dep": "ROOT",
+                    "head": 8
+                },
+                {
+                    "id": 9,
+                    "start": 36,
+                    "end": 38,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "to",
+                    "dep": "prep",
+                    "head": 8
+                },
+                {
+                    "id": 10,
+                    "start": 39,
+                    "end": 43,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Wall",
+                    "dep": "compound",
+                    "head": 11
+                },
+                {
+                    "id": 11,
+                    "start": 44,
+                    "end": 50,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Street",
+                    "dep": "pobj",
+                    "head": 9
+                },
+                {
+                    "id": 12,
+                    "start": 50,
+                    "end": 51,
+                    "tag": ",",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Comm",
+                    "lemma": ",",
+                    "dep": "punct",
+                    "head": 11
+                },
+                {
+                    "id": 13,
+                    "start": 52,
+                    "end": 57,
+                    "tag": "WRB",
+                    "pos": "SCONJ",
+                    "morph": "",
+                    "lemma": "where",
+                    "dep": "advmod",
+                    "head": 15
+                },
+                {
+                    "id": 14,
+                    "start": 58,
+                    "end": 60,
+                    "tag": "PRP",
+                    "pos": "PRON",
+                    "morph": "Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs",
+                    "lemma": "it",
+                    "dep": "nsubj",
+                    "head": 15
+                },
+                {
+                    "id": 15,
+                    "start": 61,
+                    "end": 65,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "get",
+                    "dep": "relcl",
+                    "head": 11
+                },
+                {
+                    "id": 16,
+                    "start": 66,
+                    "end": 68,
+                    "tag": "TO",
+                    "pos": "PART",
+                    "morph": "",
+                    "lemma": "to",
+                    "dep": "aux",
+                    "head": 17
+                },
+                {
+                    "id": 17,
+                    "start": 69,
+                    "end": 73,
+                    "tag": "VB",
+                    "pos": "VERB",
+                    "morph": "VerbForm=Inf",
+                    "lemma": "lose",
+                    "dep": "xcomp",
+                    "head": 15
+                },
+                {
+                    "id": 18,
+                    "start": 74,
+                    "end": 76,
+                    "tag": "CD",
+                    "pos": "NUM",
+                    "morph": "NumType=Card",
+                    "lemma": "13",
+                    "dep": "nummod",
+                    "head": 19
+                },
+                {
+                    "id": 19,
+                    "start": 76,
+                    "end": 77,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "%",
+                    "dep": "dobj",
+                    "head": 17
+                },
+                {
+                    "id": 20,
+                    "start": 77,
+                    "end": 78,
+                    "tag": ".",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Peri",
+                    "lemma": ".",
+                    "dep": "punct",
+                    "head": 8
+                },
+                {
+                    "id": 21,
+                    "start": 79,
+                    "end": 81,
+                    "tag": "TO",
+                    "pos": "PART",
+                    "morph": "",
+                    "lemma": "to",
+                    "dep": "aux",
+                    "head": 22
+                },
+                {
+                    "id": 22,
+                    "start": 82,
+                    "end": 87,
+                    "tag": "VB",
+                    "pos": "VERB",
+                    "morph": "VerbForm=Inf",
+                    "lemma": "weigh",
+                    "dep": "csubj",
+                    "head": 23
+                },
+                {
+                    "id": 23,
+                    "start": 88,
+                    "end": 91,
+                    "tag": "VBP",
+                    "pos": "AUX",
+                    "morph": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+                    "lemma": "be",
+                    "dep": "ROOT",
+                    "head": 23
+                },
+                {
+                    "id": 24,
+                    "start": 91,
+                    "end": 92,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 23
+                },
+                {
+                    "id": 25,
+                    "start": 92,
+                    "end": 106,
+                    "tag": "NNS",
+                    "pos": "NOUN",
+                    "morph": "Number=Plur",
+                    "lemma": "communication",
+                    "dep": "attr",
+                    "head": 23
+                },
+                {
+                    "id": 26,
+                    "start": 107,
+                    "end": 109,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "to",
+                    "dep": "prep",
+                    "head": 25
+                },
+                {
+                    "id": 27,
+                    "start": 110,
+                    "end": 113,
+                    "tag": "DT",
+                    "pos": "DET",
+                    "morph": "Definite=Def|PronType=Art",
+                    "lemma": "the",
+                    "dep": "det",
+                    "head": 28
+                },
+                {
+                    "id": 28,
+                    "start": 114,
+                    "end": 117,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Sec",
+                    "dep": "pobj",
+                    "head": 26
+                },
+                {
+                    "id": 29,
+                    "start": 117,
+                    "end": 118,
+                    "tag": ",",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Comm",
+                    "lemma": ",",
+                    "dep": "punct",
+                    "head": 28
+                },
+                {
+                    "id": 30,
+                    "start": 119,
+                    "end": 124,
+                    "tag": "WDT",
+                    "pos": "PRON",
+                    "morph": "",
+                    "lemma": "which",
+                    "dep": "nsubj",
+                    "head": 31
+                },
+                {
+                    "id": 31,
+                    "start": 125,
+                    "end": 133,
+                    "tag": "VBD",
+                    "pos": "VERB",
+                    "morph": "Tense=Past|VerbForm=Fin",
+                    "lemma": "reveal",
+                    "dep": "relcl",
+                    "head": 28
+                },
+                {
+                    "id": 32,
+                    "start": 134,
+                    "end": 140,
+                    "tag": "NNS",
+                    "pos": "NOUN",
+                    "morph": "Number=Plur",
+                    "lemma": "loss",
+                    "dep": "dobj",
+                    "head": 31
+                },
+                {
+                    "id": 33,
+                    "start": 141,
+                    "end": 143,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "in",
+                    "dep": "prep",
+                    "head": 31
+                },
+                {
+                    "id": 34,
+                    "start": 144,
+                    "end": 148,
+                    "tag": "CD",
+                    "pos": "NUM",
+                    "morph": "NumType=Card",
+                    "lemma": "2023",
+                    "dep": "pobj",
+                    "head": 33
+                },
+                {
+                    "id": 35,
+                    "start": 148,
+                    "end": 149,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n",
+                    "dep": "dep",
+                    "head": 34
+                },
+                {
+                    "id": 36,
+                    "start": 149,
+                    "end": 152,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "for",
+                    "dep": "prep",
+                    "head": 31
+                },
+                {
+                    "id": 37,
+                    "start": 153,
+                    "end": 155,
+                    "tag": "CD",
+                    "pos": "NUM",
+                    "morph": "NumType=Card",
+                    "lemma": "58",
+                    "dep": "compound",
+                    "head": 38
+                },
+                {
+                    "id": 38,
+                    "start": 156,
+                    "end": 163,
+                    "tag": "CD",
+                    "pos": "NUM",
+                    "morph": "NumType=Card",
+                    "lemma": "million",
+                    "dep": "nummod",
+                    "head": 39
+                },
+                {
+                    "id": 39,
+                    "start": 164,
+                    "end": 171,
+                    "tag": "NNS",
+                    "pos": "NOUN",
+                    "morph": "Number=Plur",
+                    "lemma": "dollar",
+                    "dep": "pobj",
+                    "head": 36
+                },
+                {
+                    "id": 40,
+                    "start": 172,
+                    "end": 174,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "on",
+                    "dep": "prep",
+                    "head": 39
+                },
+                {
+                    "id": 41,
+                    "start": 175,
+                    "end": 183,
+                    "tag": "NNS",
+                    "pos": "NOUN",
+                    "morph": "Number=Plur",
+                    "lemma": "revenue",
+                    "dep": "pobj",
+                    "head": 40
+                },
+                {
+                    "id": 42,
+                    "start": 184,
+                    "end": 187,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "for",
+                    "dep": "prep",
+                    "head": 31
+                },
+                {
+                    "id": 43,
+                    "start": 188,
+                    "end": 189,
+                    "tag": "CD",
+                    "pos": "NUM",
+                    "morph": "NumType=Card",
+                    "lemma": "4",
+                    "dep": "compound",
+                    "head": 44
+                },
+                {
+                    "id": 44,
+                    "start": 190,
+                    "end": 197,
+                    "tag": "CD",
+                    "pos": "NUM",
+                    "morph": "NumType=Card",
+                    "lemma": "million",
+                    "dep": "pobj",
+                    "head": 42
+                },
+                {
+                    "id": 45,
+                    "start": 197,
+                    "end": 198,
+                    "tag": ".",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Peri",
+                    "lemma": ".",
+                    "dep": "punct",
+                    "head": 23
+                },
+                {
+                    "id": 46,
+                    "start": 198,
+                    "end": 204,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n\n\n\n\n\n",
+                    "dep": "dep",
+                    "head": 45
+                },
+                {
+                    "id": 47,
+                    "start": 204,
+                    "end": 216,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "reproduction",
+                    "dep": "nsubj",
+                    "head": 48
+                },
+                {
+                    "id": 48,
+                    "start": 217,
+                    "end": 225,
+                    "tag": "VBD",
+                    "pos": "VERB",
+                    "morph": "Tense=Past|VerbForm=Fin",
+                    "lemma": "reserve",
+                    "dep": "ROOT",
+                    "head": 48
+                },
+                {
+                    "id": 49,
+                    "start": 226,
+                    "end": 227,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "©",
+                    "dep": "amod",
+                    "head": 51
+                },
+                {
+                    "id": 50,
+                    "start": 228,
+                    "end": 237,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Copyright",
+                    "dep": "compound",
+                    "head": 51
+                },
+                {
+                    "id": 51,
+                    "start": 238,
+                    "end": 242,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "ansa",
+                    "dep": "dobj",
+                    "head": 48
+                },
+                {
+                    "id": 52,
+                    "start": 242,
+                    "end": 246,
+                    "tag": "_SP",
+                    "pos": "SPACE",
+                    "morph": "",
+                    "lemma": "\n\n\n\n",
+                    "dep": "dep",
+                    "head": 51
+                }
+            ]
+        },
+        "title_nlp": {
+            "text": "Truth, Trump's social, drops to Wall Street and loses 13%",
+            "ents": [
+                {
+                    "start": 7,
+                    "end": 12,
+                    "label": "ORG"
+                },
+                {
+                    "start": 54,
+                    "end": 57,
+                    "label": "PERCENT"
+                }
+            ],
+            "sents": [
+                {
+                    "start": 0,
+                    "end": 57
+                }
+            ],
+            "tokens": [
+                {
+                    "id": 0,
+                    "start": 0,
+                    "end": 5,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Truth",
+                    "dep": "nsubj",
+                    "head": 6
+                },
+                {
+                    "id": 1,
+                    "start": 5,
+                    "end": 6,
+                    "tag": ",",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Comm",
+                    "lemma": ",",
+                    "dep": "punct",
+                    "head": 0
+                },
+                {
+                    "id": 2,
+                    "start": 7,
+                    "end": 12,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Trump",
+                    "dep": "conj",
+                    "head": 0
+                },
+                {
+                    "id": 3,
+                    "start": 12,
+                    "end": 14,
+                    "tag": "POS",
+                    "pos": "PART",
+                    "morph": "",
+                    "lemma": "'s",
+                    "dep": "case",
+                    "head": 2
+                },
+                {
+                    "id": 4,
+                    "start": 15,
+                    "end": 21,
+                    "tag": "JJ",
+                    "pos": "ADJ",
+                    "morph": "Degree=Pos",
+                    "lemma": "social",
+                    "dep": "amod",
+                    "head": 0
+                },
+                {
+                    "id": 5,
+                    "start": 21,
+                    "end": 22,
+                    "tag": ",",
+                    "pos": "PUNCT",
+                    "morph": "PunctType=Comm",
+                    "lemma": ",",
+                    "dep": "punct",
+                    "head": 0
+                },
+                {
+                    "id": 6,
+                    "start": 23,
+                    "end": 28,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "drop",
+                    "dep": "ROOT",
+                    "head": 6
+                },
+                {
+                    "id": 7,
+                    "start": 29,
+                    "end": 31,
+                    "tag": "IN",
+                    "pos": "ADP",
+                    "morph": "",
+                    "lemma": "to",
+                    "dep": "prep",
+                    "head": 6
+                },
+                {
+                    "id": 8,
+                    "start": 32,
+                    "end": 36,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Wall",
+                    "dep": "compound",
+                    "head": 9
+                },
+                {
+                    "id": 9,
+                    "start": 37,
+                    "end": 43,
+                    "tag": "NNP",
+                    "pos": "PROPN",
+                    "morph": "Number=Sing",
+                    "lemma": "Street",
+                    "dep": "pobj",
+                    "head": 7
+                },
+                {
+                    "id": 10,
+                    "start": 44,
+                    "end": 47,
+                    "tag": "CC",
+                    "pos": "CCONJ",
+                    "morph": "ConjType=Cmp",
+                    "lemma": "and",
+                    "dep": "cc",
+                    "head": 6
+                },
+                {
+                    "id": 11,
+                    "start": 48,
+                    "end": 53,
+                    "tag": "VBZ",
+                    "pos": "VERB",
+                    "morph": "Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "lemma": "lose",
+                    "dep": "conj",
+                    "head": 6
+                },
+                {
+                    "id": 12,
+                    "start": 54,
+                    "end": 56,
+                    "tag": "CD",
+                    "pos": "NUM",
+                    "morph": "NumType=Card",
+                    "lemma": "13",
+                    "dep": "nummod",
+                    "head": 13
+                },
+                {
+                    "id": 13,
+                    "start": 56,
+                    "end": 57,
+                    "tag": "NN",
+                    "pos": "NOUN",
+                    "morph": "Number=Sing",
+                    "lemma": "%",
+                    "dep": "dobj",
+                    "head": 11
+                }
+            ]
+        },
+        "en_subtitle": "",
+        "subtitle_nlp": {
+            "text": "",
+            "ents": [],
+            "sents": [],
+            "tokens": []
+        }
+    }
+]
