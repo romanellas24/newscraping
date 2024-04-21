@@ -1,0 +1,2808 @@
+[
+    {
+        "title": "Il sito dell'AGI non è aggiornato per uno sciopero dei giornalisti",
+        "date_raw": "Tue, 26 Mar 2024 22:59:54 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-20/sciopero-agi-25787640/",
+        "subtitle": "",
+        "content": "AGI - L'Assemblea dei redattori dell'AGI è tornata a riunirsi all'indomani dell'incontro avuto con l'ad dell'azienda e la direttrice responsabile. L'Assemblea ha preso atto della risposta con cui l'azienda e la direttrice hanno affermato che \"Eni S.p.A. ha ricevuto una manifestazione non vincolante di interesse non sollecitata da parte di un soggetto interessato ad AGI Spa i cui contenuti sono soggetti a impegni di riservatezza. A tale manifestazione è seguita una interlocuzione preliminare. A oggi non c'è un negoziato in corso e pertanto non è stato sottoscritto alcun accordo di vendita\".<br> Si tratta, per l'assemblea, di rassicurazioni generiche che, anziché ridimensionarla, accrescono la preoccupazione di tutta la redazione. \n&nbsp; \nIl Cdr dell'AGI proclama dalla mezzanotte di oggi (dalle 00.01 di mercoledì 27 marzo) altri due giorni di sciopero del pacchetto di cinque deliberato all'unanimità dall'assemblea di redazione del 18 marzo. La battaglia contro la vendita al gruppo Angelucci dell'AGI, testata che per sua natura è oggi imparziale e autonoma da condizionamenti politici, è una battaglia per la stabilità occupazionale dei giornalisti e dei poligrafici; ma ancor di più è una battaglia a difesa del ruolo di informazione primaria delle agenzie di stampa che hanno nel loro dna indipendenza e pluralismo. Il Cdr ricorda che la possibile cessione dell'AGI è oggi sotto osservazione dell'Unione europea, alla luce della Legge sulla libertà dei media (Media freedom act), provvedimento \"rilevante - ha affermato la Commissione europea - per qualsiasi situazione di fusione dei media\". \n&nbsp; \nIl Cdr sta valutando con l'Fnsi e le associazioni di stampa regionali tutte le azioni da mettere in campo per evitare la vendita dell'AGI e affinché l'agenzia possa restare sotto un editore che ha sempre garantito autonomia e indipendenza. In questo quadro l'Assemblea all'unanimità affida al Cdr un nuovo pacchetto di quattro giorni di sciopero da utilizzare nei tempi e nelle modalità che il Cdr riterrà più opportuni. Il Cdr ha chiesto un incontro con il sottosegretario alla Presidenza del Consiglio con delega all'Editoria, Alberto Barachini, che ha la responsabilità dei rapporti con le agenzie di stampa e del sostegno all'informazione primaria.",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185426,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "The AGI site is not updated for a journalist strike",
+        "en_content": "AGI - The AGI Editors' Meeting has returned to meet the next day of the meeting with the company's advisor and the manager. The Assembly took note of the answer with which the company and the director stated that \"Eni S.p.A. received a non-binding event of unsolicited interest by a subject interested in AGI Spa whose content is subject to confidentiality commitments. A preliminary interlocution is followed. Today there is no negotiation in progress and therefore no agreement has been signed\".\n&nbsp;\nThe Cdr of the AGI proclaims from midnight today (from 00.01 on Wednesday 27 March) another two days of strike of the package of five deliberated unanimously by the drafting assembly of 18 March. The battle against sale to the Angelucci group of the AGI, tested that by its nature is now impartial and autonomous by political conditioning, is a battle for the occupational stability of journalists and polygraphs; but even more is a battle to defend the primary information role of the press agencies that have in their dna independence and pluralism. The Board recalls that the possible transfer of AGI is now under observation of the European Union, in the light of the Law on Media Freedom (Media freedom act), a measure \"relevant - the European Commission has asserted - for any situation of media fusion\".\n&nbsp;\nThe Board is evaluating all the actions to be put in place to avoid the sale of AGI and the agency can remain under a publisher who has always guaranteed autonomy and independence. In this context, the unanimity Assembly entrusts the CoR with a new four-day strike package to be used in the times and arrangements that the CoR will feel more appropriate. The Board asked for a meeting with the Undersecretary of the Presidency of the Council with a delegation to Editorial, Alberto Barachini, who has the responsibility for relations with the press agencies and support for primary information.",
+        "concepts": [
+            {
+                "word": "AGI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "site",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "journalist",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "AGI",
+                "start_char": 4,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the next day",
+                "start_char": 52,
+                "end_char": 64,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Assembly",
+                "start_char": 128,
+                "end_char": 136,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Eni S.p.A.",
+                "start_char": 214,
+                "end_char": 224,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Today",
+                "start_char": 411,
+                "end_char": 416,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The Cdr of the AGI",
+                "start_char": 505,
+                "end_char": 523,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "midnight today",
+                "start_char": 539,
+                "end_char": 553,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "00.01",
+                "start_char": 560,
+                "end_char": 565,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Wednesday 27 March",
+                "start_char": 569,
+                "end_char": 587,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "another two days",
+                "start_char": 589,
+                "end_char": 605,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "five",
+                "start_char": 634,
+                "end_char": 638,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "18 March",
+                "start_char": 691,
+                "end_char": 699,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Angelucci",
+                "start_char": 732,
+                "end_char": 741,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "AGI",
+                "start_char": 755,
+                "end_char": 758,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Board",
+                "start_char": 1061,
+                "end_char": 1066,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AGI",
+                "start_char": 1105,
+                "end_char": 1108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Union",
+                "start_char": 1137,
+                "end_char": 1155,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Commission",
+                "start_char": 1241,
+                "end_char": 1264,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Board",
+                "start_char": 1327,
+                "end_char": 1332,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AGI",
+                "start_char": 1403,
+                "end_char": 1406,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Assembly",
+                "start_char": 1535,
+                "end_char": 1543,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "CoR",
+                "start_char": 1557,
+                "end_char": 1560,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "four-day",
+                "start_char": 1572,
+                "end_char": 1580,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "CoR",
+                "start_char": 1646,
+                "end_char": 1649,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Board",
+                "start_char": 1682,
+                "end_char": 1687,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 1757,
+                "end_char": 1764,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Editorial",
+                "start_char": 1786,
+                "end_char": 1795,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alberto Barachini",
+                "start_char": 1797,
+                "end_char": 1814,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Si dà fuoco in auto a Varese, morto in ospedale",
+        "date_raw": "Tue, 26 Mar 2024 18:32:38 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/grave-uomo-che-si-da-fuoco-davanti-casa-varese-25833552/",
+        "subtitle": "",
+        "content": "AGI - È morto nel primo pomeriggio D.R., l'uomo di 50 anni che all'alba si è cosparso di benzina e si è dato fuoco davanti all'abitazione di famiglia a Golasecca, in provincia di Varese. Il decesso è stato dichiarato dai medici del centro grandi ustionati dell'ospedale Niguarda dove l'uomo era stato trasportato in condizione disperate con l'elisoccorso. Dietro al gesto ci sarebbero state difficolta' nel gestire la separazione dalla moglie con cui aveva avuto una figlia di 13 anni.",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185445,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "Fire in the car in Varese, dead in the hospital",
+        "en_content": "AGI - He died in the early afternoon D.R., the man of 50 years who at dawn sprinkled with gasoline and burned himself in front of the family house in Golasecca, in the province of Varese. The death was declared by the doctors of the center great burners of the hospital Niguarda where the man had been transported in desperate condition with the helium. Behind the gesture, there would have been difficulties in managing separation from his wife he had a 13-year-old daughter.",
+        "concepts": [
+            {
+                "word": "Fire",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Varese",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hospital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Varese",
+                "start_char": 19,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "D.R.",
+                "start_char": 37,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "50 years",
+                "start_char": 54,
+                "end_char": 62,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "dawn",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Golasecca",
+                "start_char": 150,
+                "end_char": 159,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Varese",
+                "start_char": 180,
+                "end_char": 186,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Niguarda",
+                "start_char": 270,
+                "end_char": 278,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "13-year-old",
+                "start_char": 455,
+                "end_char": 466,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Sviluppata una guida per le applicazioni cliniche dell'ADHD",
+        "date_raw": "Tue, 26 Mar 2024 18:03:44 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/sviluppata-guida-adhd-25837933/",
+        "subtitle": "",
+        "content": "AGI - È stata sviluppata una guida aggiornata sull'ADHD, o disturbo da deficit di attenzione e iperattività, che colpisce maggiormente i bambini ed è caratterizzato da livelli invalidanti di disattenzione, disorganizzazione, iperattività e impulsività, cosi' da aggiornare le linee guida dell'American Academy of Pediatrics e informare la pratica clinica. Le nuove linee guida, pubblicate sulla rivista Pediatrics, sono state tracciate dai ricercatori del Southern California Evidence Review Center, che fa parte della Keck School of Medicine dell'USC. Ogni anno vengono divulgati centinaia di studi sull'ADHD, ma sono necessari ulteriori approfondimenti per garantire che queste scoperte migliorino la vita delle persone.> In generale, gli scienziati hanno scoperto che sia i farmaci che i trattamenti psicosociali funzionano per il trattamento dell'ADHD e che i bambini affetti da questa patologia possono migliorare. \n&nbsp; \n\"Abbiamo più ricerche che mai sull'ADHD, ma dobbiamo riassumerle in modo affidabile e valido\", ha dichiarato Susanne Hempel, professoressa di scienze cliniche di popolazione e salute pubblica presso la Keck School of Medicine e direttrice del Southern California Evidence Review Center, che ha supervisionato il lavoro. Il gruppo di ricerca, che comprende ricercatori del Southern California Evidence-based Practice Center, della divisione di psichiatria infantile della Keck School of Medicine e del Children's Hospital Los Angeles Behavioral Health Institute, ha esaminato più di 23.000 pubblicazioni sull'ADHD. Il lavoro è stato commissionato dall'Agency for Healthcare Research and Quality e finanziato dal Patient-Centered Outcomes Research Institute.&nbsp;I risultati rispondono a grandi domande volte a identificare cosa è utile per diagnosticare e trattare efficacemente l'ADHD e indicano le lacune in corso nella ricerca, tra cui il modo più efficace per monitorare la progressione della condizione nel tempo. I medici selezionati dall'American Academy of Pediatrics utilizzeranno ora la revisione per creare linee guida cliniche aggiornate che informino le migliori pratiche nella cura dell'ADHD in tutta la nazione. \n<blockquote> \n &nbsp; \n \"Genitori, insegnanti e operatori hanno bisogno di informazioni sull'ADHD basate sull'evidenza. Nella nostra revisione abbiamo incluso solo gli studi più solidi, il che ci permette di fare affermazioni forti sulle evidenze\"&nbsp; \n</blockquote> \n&nbsp; \nPrima di iniziare la revisione della letteratura, la squadra di ricerca ha sviluppato le domande e i protocolli in collaborazione con esperti di ADHD del settore, per assicurarsi di porre e rispondere a domande che potessero essere di beneficio diretto a pazienti, famiglie e operatori del settore. Durante il processo, i ricercatori hanno anche pubblicato i risultati preliminari e hanno accolto i commenti, in un periodo di 45 giorni. I ricercatori hanno condotto una ricerca approfondita che non si è limitata agli strumenti diagnostici o agli approcci terapeutici già noti per la loro efficacia. Da oltre 23.000 pubblicazioni, i ricercatori hanno selezionato 550 studi per l'analisi finale. >I lavori sono stati selezionati se soddisfacevano i rigorosi criteri di inclusione dell'equipe, che davano la priorità a disegni di studio rigorosi, come le ricerche controllate randomizzate. Per la diagnosi dell'ADHD sono disponibili molti strumenti, tra cui scale di valutazione per genitori e insegnanti, auto-rapporti dei pazienti, test neuropsicologici, approcci EEG, imaging, biomarcatori, monitoraggio delle attivita' e osservazione. Per i diversi approcci, i ricercatori hanno riscontrato una sostanziale variazione dei risultati, con alcuni studi che indicavano che un determinato metodo era altamente efficace e altri che indicavano che le prestazioni erano scarse. \n&nbsp; \n\"Stiamo migliorando la diagnosi dell'ADHD, ma la ricerca è ancora caratterizzata da molte variazioni\", ha sottolineato Hempel. Molti trattamenti per l'ADHD sono stati rigorosamente testati, creando una solida base di evidenze per i farmaci, compresi gli stimolanti e i non stimolanti, e per gli approcci psicosociali, come la modifica del comportamento. Altri trattamenti non farmacologici analizzati dalla squadra di scienziati sono il training cognitivo, il neurofeedback, l'esercizio fisico, l'alimentazione e gli integratori, il sostegno ai genitori e gli interventi scolastici. \"I farmaci hanno le prove piu' solide per migliorare non solo i sintomi dell'ADHD, ma anche altri problemi che spesso lo accompagnano, come i comportamenti oppositivi e dirompenti\", ha evidenziato Bradley Peterson, direttore dell'Institute for the Developing Mind del Children's Hospital Los Angeles e autore principale della revisione. Oltre a rivedere le evidenze sulla diagnosi e sul trattamento, i ricercatori hanno esplorato cio' che si sa sul monitoraggio continuo dell'ADHD, concludendo che sono necessarie ulteriori ricerche. Le pubblicazioni saranno ora utilizzate per supportare un aggiornamento delle linee guida di pratica clinica dell'AAP per l'ADHD, fornendo consigli aggiornati su come diagnosticare, valutare e trattare al meglio la condizione. \"Il risultato generale ci dice che l'ADHD e' curabile: ci sono molti studi che ci dimostrano che i piccoli possono assolutamente migliorare\", ha aggiunto Hempel.",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185454,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "Developed a guide to ADHD clinical applications",
+        "en_content": "AGI - An updated guide on ADHD, or attention deficit and hyperactivity disorder has been developed, which affects children more and is characterized by disrespect, disorganization, hyperactivity and impulsivity levels, so as to update the guidelines of the American Academy of Pediatrics and inform clinical practice. The new guidelines, published in Pediatrics magazine, were traced by researchers from Southern California Evidence Review Center, which is part of the USC Keck School of Medicine. Hundreds of ADHD studies are disseminated each year, but further insights are needed to ensure that these discoveries improve people's lives.> In general, scientists found that both drugs and psychosocial treatments work for the treatment of ADHD and children affected by this pathology can improve.\n&nbsp;\n\"We have more research than ever on ADHD, but we have to recapture them reliably and validly,\" said Susanne Hempel, professor of public health and population clinics at the Keck School of Medicine and director of the Southern California Evidence Review Center, who supervised the work. The research group, which includes researchers from the Southern California Evidence-based Practice Center, the childhood psychiatrist division of the Keck School of Medicine and the Children's Hospital Los Angeles Behavioral Health Institute, examined more than 23,000 publications on the ADHD. The work was commissioned by the Agency for Healthcare Research and Quality and funded by the Patient-Centered Outcomes Research Institute.&nbsp;The results answer great questions to identify what is useful for diagnosing and treating ADHD effectively and indicate the gaps in research, including the most effective way to monitor the progression of the condition over time. The doctors selected by the American Academy of Pediatrics will now use the review to create updated clinical guidelines that inform the best practices in the care of ADHD throughout the nation.\n< blockquote\n&nbsp;\n\"Manufacturers, teachers and operators need evidence-based ADHD information. In our review we have included only the most solid studies, which allows us to make strong statements on the evidence\"&nbsp;\n</blockquote\n&nbsp;\nBefore starting the literature review, the research team developed questions and protocols in collaboration with ADHD experts in the field, to make sure to ask and answer questions that could be of direct benefit to patients, families and industry operators. During the process, researchers also published preliminary results and welcomed comments in a period of 45 days. Researchers conducted extensive research that was not limited to diagnostic tools or therapeutic approaches already known for their effectiveness. From over 23,000 publications, researchers have selected 550 studies for final analysis. > The works were selected if they met the stringent equipe inclusion criteria, which gave priority to rigorous study drawings, such as randomized controlled research. Many tools are available to diagnose ADHD, including evaluation scales for parents and teachers, patient auto-reports, neuropsychological tests, EEG approaches, imaging, biomarkers, activity monitoring and observation. For different approaches, researchers found a substantial change in results, with studies indicating that a given method was highly effective and others indicating that performance was poor.\n&nbsp;\n\"We are improving the diagnosis of ADHD, but research is still characterized by many variations,\" he said. Many treatments for ADHD have been rigorously tested, creating a solid basis of evidence for drugs, including stimulants and non-stimulants, and psychosocial approaches, such as changing behavior. Other non-pharmacological treatments analysed by the team of scientists are cognitive training, neurofeedback, physical exercise, nutrition and supplements, support for parents and school interventions. \"The drugs have the most solid evidence to improve not only the symptoms of ADHD, but also other problems that often accompany him, such as opposite and disruptive behaviors,\" said Bradley Peterson, Director of the Institute for the Developing Mind of Children's Hospital Los Angeles and chief author of the review. In addition to reviewing evidence on diagnosis and treatment, researchers have explored what is known about the continuous monitoring of ADHD, concluding further research is needed. Publications will now be used to support an update of AAP clinical practice guidelines for ADHD, providing up-to-date advice on how to better diagnose, assess and treat the condition. \"The general result tells us that ADHD is curable: there are many studies that show us that children can absolutely improve,\" he added.",
+        "concepts": [
+            {
+                "word": "guide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "applications",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the American Academy of Pediatrics",
+                "start_char": 253,
+                "end_char": 287,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pediatrics",
+                "start_char": 351,
+                "end_char": 361,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Southern California Evidence Review Center",
+                "start_char": 404,
+                "end_char": 446,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the USC Keck School of Medicine",
+                "start_char": 465,
+                "end_char": 496,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hundreds",
+                "start_char": 498,
+                "end_char": 506,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "each year",
+                "start_char": 540,
+                "end_char": 549,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Susanne Hempel",
+                "start_char": 905,
+                "end_char": 919,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Keck School of Medicine",
+                "start_char": 974,
+                "end_char": 1001,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Southern California Evidence Review Center",
+                "start_char": 1018,
+                "end_char": 1064,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Southern California Evidence",
+                "start_char": 1147,
+                "end_char": 1175,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Practice Center",
+                "start_char": 1182,
+                "end_char": 1197,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Keck School of Medicine",
+                "start_char": 1238,
+                "end_char": 1265,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Children's Hospital Los Angeles Behavioral Health Institute",
+                "start_char": 1270,
+                "end_char": 1333,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than 23,000",
+                "start_char": 1344,
+                "end_char": 1360,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Agency for Healthcare Research and Quality",
+                "start_char": 1420,
+                "end_char": 1462,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Patient-Centered Outcomes Research",
+                "start_char": 1477,
+                "end_char": 1515,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the American Academy of Pediatrics",
+                "start_char": 1786,
+                "end_char": 1820,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a period of 45 days",
+                "start_char": 2550,
+                "end_char": 2569,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "over 23,000",
+                "start_char": 2723,
+                "end_char": 2734,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "550",
+                "start_char": 2775,
+                "end_char": 2778,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "EEG",
+                "start_char": 3119,
+                "end_char": 3122,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bradley Peterson",
+                "start_char": 4079,
+                "end_char": 4095,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Institute for the Developing Mind of Children's Hospital Los Angeles",
+                "start_char": 4109,
+                "end_char": 4181,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "ADHD",
+                "start_char": 4351,
+                "end_char": 4355,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Test manipolati per Alessia Pifferi, il pm vuole interrogare una psicologa",
+        "date_raw": "Tue, 26 Mar 2024 17:57:09 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/alessia-pifferi-psicologa-indagata-test-qi-manipolati-25837575/",
+        "subtitle": "",
+        "content": "AGI - Una delle altre due nuove psicologhe indagate per falso e favoreggiamento avrebbe \"predisponendo i relativi protocolli con i punteggi già inseriti\" prima della somministrazione del test psicodiagnostico di Wais ad Alessia Pifferi, la donna a processo per l'omicidio pluriaggravato della figlia Diana. È quanto emerge dalla contestazione del pm Francesco De Tommasi nell'invito a comparire notificato a Federica M., 44 anni, e Maria G., 66 anni. Quest'ultima è accusata, \"senza aver partecipato alla materiale somministrazione del test\" e \"basandosi anche su quanto riferitole verbalmente\" da Monica Guerzoni, la prima psicologa in servizio a San Vittore finita indagata, \"contribuiva a redigere la relazione\" in cui si attestava un disturbo cognitivo in Pifferi \"modificando e revisionando la versione originaria nonché 'cambiando' alcuni grafici\". Le iscrizioni nel registro degli indagati delle due professioniste, seguite a quella di Guerzoni, un'altra psicologa e l'avvocata di Pifferi, Alessia Pontenani, sono state anticipate dall'edizione milanese di Repubblica.&nbsp;",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185462,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "Test manipulated for Alessia Pifferi, the pm wants to interview a psychologist",
+        "en_content": "AGI - One of the other two new psychologists investigated for false and favoring would \"predisposing the related protocols with the scores already inserted\" before the administration of Wais' psychodiagnostic test to Alessia Pifferi, the woman at trial for the multi-aggraved murder of her daughter Diana. This is what emerges from the contest of the Pope Francis De Tommasi in the invitation to appear notified to Federica M., 44 years, and Maria G., 66 years. The latter is accused, \"without participating in the material administration of the test\" and \"also based on verbal reporting\" by Monica Guerzoni, the first psychologist in service in San Vittore fini indagata, \"contributed to draft the report\" in which a cognitive disorder was attested in Pifferi \"modifying and reviewing the original version as well as 'changing' some charts\". The inscriptions in the register of the inquiries of the two professionals, followed by that of Guerzoni, another psychologist and the approach of Pifferi, Alessia Pontenani, were anticipated by the Milan edition of Repubblica.&nbsp;",
+        "concepts": [
+            {
+                "word": "Test",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Alessia",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pifferi",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "psychologist",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Alessia Pifferi",
+                "start_char": 21,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "two",
+                "start_char": 23,
+                "end_char": 26,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Wais",
+                "start_char": 186,
+                "end_char": 190,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alessia Pifferi",
+                "start_char": 217,
+                "end_char": 232,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Diana",
+                "start_char": 299,
+                "end_char": 304,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francis De Tommasi",
+                "start_char": 356,
+                "end_char": 374,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Federica M.",
+                "start_char": 415,
+                "end_char": 426,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "44 years",
+                "start_char": 428,
+                "end_char": 436,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Maria G.",
+                "start_char": 442,
+                "end_char": 450,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "66 years",
+                "start_char": 452,
+                "end_char": 460,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Monica Guerzoni",
+                "start_char": 592,
+                "end_char": 607,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 613,
+                "end_char": 618,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "San Vittore",
+                "start_char": 646,
+                "end_char": 657,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pifferi",
+                "start_char": 753,
+                "end_char": 760,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "two",
+                "start_char": 900,
+                "end_char": 903,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Guerzoni",
+                "start_char": 939,
+                "end_char": 947,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pifferi",
+                "start_char": 990,
+                "end_char": 997,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Alessia Pontenani",
+                "start_char": 999,
+                "end_char": 1016,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Milan",
+                "start_char": 1042,
+                "end_char": 1047,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Tutti assolti i pastori che protestarono per il prezzo del latte",
+        "date_raw": "Tue, 26 Mar 2024 17:16:32 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/proteste-prezzo-latte-2019-assolti-26-pastori-a-nuoro-25836693/",
+        "subtitle": "",
+        "content": "AGI - Sono stati tutti assolti, perché il fatto non costituisce reato, i 26 pastori sardi finiti a processo per una manifestazione di protesta per il basso prezzo del latte tenutasi l'8 febbraio 2019 sulla strada statale 131 Dcn, all'altezza di Siniscola (Nuoro). Sono state così accolte le richieste degli avvocati della difesa Marcella Cabras, Giulia e Francesco Lai, Adriano Sollai, Margherita Baragliu, Rinaldo Lai, Mario Silvestro Pittalis e Antonello Cao. Nel dispositivo della sentenza la giudice del tribunale di Nuoro, Claudia Falchi Delitala, evidenzia come a bloccare la strada furono i pastori con la loro presenza e non i bidoni del latte, che i manifestanti portarono con sé per poi sversarli sulla carreggiata esponendo uno striscione con la scritta 'Lat 60 cent. Vergogna!'. Secondo la giudice, i fusti furono \"semplicemente mostrati come effige delle rivendicazioni\" e non erano idonei per peso e per dimensioni a bloccare i veicoli. \nNon solo: la manifestazione, fra le tante che nel febbraio 2019, durante la campagna per le elezioni regionali, contraddistinsero la cosiddetta 'guerra del latte' in Sardegna, aveva interessato \"solo un ridotto tratto di strada\" e \"per un arco temporale contenuto (non superiore a un'ora)\". Peraltro, il traffico aveva continuato a fluire sulla strada parallela dov'era stato deviato. \"La circolazione\", conclude la giudice, \"mai bloccata del tutto, fu solo ostacolata\". Inoltre, gli imputati erano perlopiù incensurati \"o al massimo interessati da qualche remoto e non grave precedente di natura eterogenea rispetto al reato contestato\". \nAltro elemento rilevato nel dispositivo della sentenza: era \"notorio che la larga maggioranza dell'opinione pubblica (sarda e non solo) solidarizzasse coi pastori condividendone le rivendicazioni poiché il dramma dell'oggettiva anti-economicità dei prezzi di vendita del latte aveva messo in ginocchio un settore nevralgico dell'economia dell'isola, esponendo al rischio improvviso di povertà una moltitudine di famiglie. Le ragioni degli allevatori erano state, peraltro, sostenute sia dai politici di vari schieramenti sia dalle istituzioni locali e nazionali, tanto che i sindaci spesso si unirono ai cortei e ai ministri della Repubblica manifestarono esplicitamente il loro appoggio alle manifestazioni mediante dichiarazioni pubbliche. Tali incoraggiamenti provenienti dalle autorità avrebbero potuto agevolmente determinare in soggetti (eventualmente non particolarmente istruiti e comunque non esperti di diritto) la convinzione che la manifestazione, al di la' del mancato rispetto di qualche formalismo burocratico, fosse sostanzialmente giusta o quantomeno non penalmente rilevante\". \n\"In questo processo si sono confermate le conclusioni che il Collegio del tribunale di Nuoro aveva già espresso\", commenta l'avvocata del collegio della difesa, Giulia Lai. \"Quelle manifestazioni non sono state un reato (il fatto non è previsto dalla legge come reato) ricalcando peraltro le conclusioni di questo difensore sul ruolo che ebbero i politici dell'epoca, compreso il ministro Salvini, nel determinare le persone a continuare le manifestazioni proprio perché rivendicavano il giusto prezzo del proprio lavoro. \nStesso ministro che ha reintrodotto il reato di blocco stradale qualche mese prima dei fatti. Le denunce comunque arrivarono e finalmente possiamo dire di aver avuto ragione nel sostenere in ogni processo che quelle manifestazioni erano giuste e non da criminalizzare. Oggi molti colleghi dall'Italia mi chiamano perché queste sentenze stanno facendo giurisprudenza, ma soprattutto io ritengo la storia della giustizia sarda\". Gli atti saranno trasmessi al prefetto di Nuoro per gli eventuali provvedimenti amministrativi di competenza.",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185469,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "All the shepherds who protested for the price of milk",
+        "en_content": "AGI - They were all acquitted, because the fact does not constitute a crime, the 26 Sardinian shepherds finished trial for a protest for the low price of milk held on February 8, 2019 on the state road 131 Dcn, at the height of Siniscola (Nuoro). The demands of the defense lawyers Marcella Cabras, Giulia and Francesco Lai, Adriano Sollai, Margherita Baragliu, Rinaldo Lai, Mario Silvestro Pittalis and Antonello Cao were accepted. In the decision the judge of the court of Nuoro, Claudia Falchi Delitala, points out how to block the road were the shepherds with their presence and not the dairy bins, which the protesters carried with them and then to cross them on the carriageway exposing a banner with the words 'Lat 60 cent. Vergogna!'. According to the judge, the stems were simply shown as an effigy of claims and were not suitable for weight and size to block vehicles.\nNot only: the event, among the many that in February 2019, during the campaign for regional elections, marked the so-called 'War of milk' in Sardinia, had interested \"only a reduced stretch of road\" and \"for a contained time span (not more than an hour)\". On the other hand, traffic had continued to flow on the parallel road where it had been deviated. \"The circulation\", the judge concludes, \"never completely blocked, was only hampered.\" In addition, the defendants were mostly incensured \"or at most interested by some remote and not serious precedent of a heterogeneous nature compared to the contested offence\".\nAnother element found in the sentence device: it was \"notorious that the vast majority of public opinion (sard and not only) supported with the shepherds by sharing their claims because the drama of the objective anti-economicity of milk sales prices had put on its knee a nerve sector of the economy of the island, exposing at the sudden risk of poverty a multitude of families. The reasons for the breeders were, however, supported by both politicians from various sides and local and national institutions, so much so that the mayors often joined the parades and ministers of the Republic explicitly expressed their support for demonstrations through public statements. Such encouragements from the authorities could easily determine in subjects (possibly not particularly educated and not law experts) the belief that the event, beyond the lack of respect for some bureaucratic formalism, was substantially right or at least not penally relevant.\"\n\"In this process, the conclusions that the College of the Court of Nuoro had already expressed were confirmed,\" commented the advocacy of the College of Defense, Giulia Lai. \"Those demonstrations were not a crime (the fact is not foreseen by the law as a crime) emphasizing the conclusions of this defender on the role that politicians of the time, including Minister Salvini, in determining people to continue the demonstrations precisely because they claimed the right price of their work.\nSame minister who reintroduced the road blockade a few months before the events. The complaints however arrived and finally we can say we were right in supporting in every process that those manifestations were right and not to criminalize. Today many colleagues from Italy call me because these judgments are jurisprudence, but above all I consider the history of Sardinian justice\". The acts will be transmitted to the Nuoro Prefect for any administrative measures of competence.",
+        "concepts": [
+            {
+                "word": "shepherds",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "price",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "milk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "26",
+                "start_char": 81,
+                "end_char": 83,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sardinian",
+                "start_char": 84,
+                "end_char": 93,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "February 8, 2019",
+                "start_char": 167,
+                "end_char": 183,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "131",
+                "start_char": 202,
+                "end_char": 205,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Siniscola",
+                "start_char": 228,
+                "end_char": 237,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nuoro",
+                "start_char": 239,
+                "end_char": 244,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Marcella Cabras",
+                "start_char": 282,
+                "end_char": 297,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giulia",
+                "start_char": 299,
+                "end_char": 305,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Francesco Lai",
+                "start_char": 310,
+                "end_char": 323,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Adriano Sollai",
+                "start_char": 325,
+                "end_char": 339,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Margherita Baragliu",
+                "start_char": 341,
+                "end_char": 360,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rinaldo Lai",
+                "start_char": 362,
+                "end_char": 373,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mario Silvestro Pittalis",
+                "start_char": 375,
+                "end_char": 399,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Antonello Cao",
+                "start_char": 404,
+                "end_char": 417,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nuoro",
+                "start_char": 475,
+                "end_char": 480,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Claudia Falchi",
+                "start_char": 482,
+                "end_char": 496,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "60 cent",
+                "start_char": 722,
+                "end_char": 729,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "February 2019",
+                "start_char": 923,
+                "end_char": 936,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 1020,
+                "end_char": 1028,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than an hour",
+                "start_char": 1114,
+                "end_char": 1131,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the College of the Court of Nuoro",
+                "start_char": 2488,
+                "end_char": 2521,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the College of Defense",
+                "start_char": 2587,
+                "end_char": 2609,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lai",
+                "start_char": 2618,
+                "end_char": 2621,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Salvini",
+                "start_char": 2817,
+                "end_char": 2824,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few months",
+                "start_char": 2990,
+                "end_char": 3002,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Today",
+                "start_char": 3182,
+                "end_char": 3187,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 3209,
+                "end_char": 3214,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sardinian",
+                "start_char": 3306,
+                "end_char": 3315,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il sito non è aggiornato per un'assemblea sindacale dei giornalisti dell'AGI",
+        "date_raw": "Tue, 26 Mar 2024 09:47:47 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-01-18/sito-non-aggiornato-assemblea-giornalisti-24898635/",
+        "subtitle": "",
+        "content": "Il sito non è aggiornato per un'assemblea sindacale dei giornalisti dell'AGI",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185478,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "The site is not updated for a mayoral assembly of AGI journalists",
+        "en_content": "The site is not updated for a mayoral assembly of AGI journalists",
+        "concepts": [
+            {
+                "word": "site",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "assembly",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "AGI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "AGI",
+                "start_char": 50,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 50,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Novecento braccianti assunti per finta, arrestati 3 imprenditori",
+        "date_raw": "Tue, 26 Mar 2024 09:02:16 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/lecce-braccianti-assunti-per-finta-arrestati-imprenditori-25832583/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;I carabinieri del Nucleo Ispettorato del Lavoro di Lecce> con i finanzieri della Tenenza di Porto Cesareo hanno arrestato tre persone con l'accusa di favoreggiamento dell'immigrazione> clandestina. L'attività di indagine è stata coordinata dalla locale Procura della Repubblica, su disposizione del G.I.P. del Tribunale di Lecce. I manette sono finiti tre imprenditori titolari di aziende agricole, edilizie ristorative. L'inchiesta, avviata nei primi mesi del 2023, ha portato all'acquisizione, anche attraverso l'esecuzione di perquisizioni e l'analisi dei flussi finanziari e bancari, di elementi da cui il risultato che gli imprenditori a partire dal 2020, hanno favorito l'immigrazione clandestina >per la permanenza nel territorio dello Stato di oltre 900 extracomunitari, eludendo le disposizioni normative imposte dal \"Decreto Flussi\", attraverso la falsificazione di atti e documenti attestanti assunzioni fittizie. \n&nbsp; \nSecondo le indagini i tre hanno chiesto somme pari a 1.500 euro ogni volta, per ogni pratica utile al rilascio del permesso di soggiorno. Ottenuta la somma, procedevano all'inoltro al Ministero dell'Interno del modello informatico attestante la presunta assunzione degli stranieri. Gli indagati hanno quindi ottenuto introiti per oltre un milione e trecentomila euro. Uno di loro inoltre, ha percepito indebitamente reddito di cittadinanza per circa 20.000 euro.",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185483,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "20th century arms hired for fake, arrested 3 entrepreneurs",
+        "en_content": "AGI -&nbsp;The Carabinieri of the Nucleus Labour Inspectorate of Lecce> with the financiers of the Tenence of Porto Cesareo arrested three persons with the charge of favoring illegal immigration. The investigation was coordinated by the local prosecutor of the Republic, at the disposal of the G.I.P. of the Court of Lecce. The handcuffs are finished three entrepreneurs holding farms, restorative building. The investigation, initiated in the first months of 2023, has led to the acquisition, also through the execution of searches and the analysis of financial and banking flows, of elements from which the result that entrepreneurs from 2020, have favored clandestine immigration > for the stay in the territory of the State of more than 900 non-communities, eluding the normative provisions imposed by the \"Decreto Flussi\".\n&nbsp;\nAccording to the surveys, the three asked for sums of 1,500 euros each time, for each practice useful to the release of the residence permit. They obtained the sum, proceeded to forward to the Ministry of the Interior of the computer model attesting the alleged hiring of foreigners. Inquiries have therefore obtained revenue for more than one million and three hundred thousand euros. One of them also felt unduly income of citizenship for about 20,000 euros.",
+        "concepts": [
+            {
+                "word": "century",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "entrepreneurs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "20th century",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3",
+                "start_char": 43,
+                "end_char": 44,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Nucleus Labour Inspectorate of Lecce",
+                "start_char": 30,
+                "end_char": 70,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 133,
+                "end_char": 138,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "G.I.P.",
+                "start_char": 294,
+                "end_char": 300,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Court of Lecce",
+                "start_char": 304,
+                "end_char": 322,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 351,
+                "end_char": 356,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the first months of 2023",
+                "start_char": 440,
+                "end_char": 464,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2020",
+                "start_char": 640,
+                "end_char": 644,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Decreto Flussi",
+                "start_char": 811,
+                "end_char": 825,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 865,
+                "end_char": 870,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1,500",
+                "start_char": 889,
+                "end_char": 894,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Ministry of the Interior of the computer",
+                "start_char": 1024,
+                "end_char": 1068,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than one million and three hundred thousand euros",
+                "start_char": 1165,
+                "end_char": 1219,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "One",
+                "start_char": 1221,
+                "end_char": 1224,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "about 20,000",
+                "start_char": 1276,
+                "end_char": 1288,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Caporalato nelle Langhe, scoperti 40 agricoltori sfruttati [VIDEO]",
+        "date_raw": "Tue, 26 Mar 2024 08:46:43 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/caporalato-nelle-langhe-trovati-40-agricoltori-sfruttati-25831967/",
+        "subtitle": "",
+        "content": "AGI - Quaranta lavoratori vittime di sfruttamento in agricoltura (14 provenienti dal Gambia, 4 dal Senegal, 1 dal Ghana, 3 dalla Macedonia, 3 dalla Tunisia, 1 dal Pakistan, 1 dalla Nigeria, 1 dalla Guinea, 4 dall'Egitto, 2 dall'Albania, 3 dal Marocco, 1 dal Gabon, 2 dal Bangladesh): per 30 di loro, ricorrendone le condizioni, è stato chiesto ed ottenuto il nulla osta al rilascio del permesso di soggiorno per grave sfruttamento lavorativo. I Carabinieri del Nucleo Carabinieri Ispettorato del Lavoro di Cuneo e dei Comandi Provinciali dei Carabinieri di Cuneo e Bolzano, hanno eseguito una ordinanza di misura cautelare interdittiva del divieto temporaneo di esercitare l'attività professionale o imprenditoriale - e un'altra relativa al sequestro preventivo di 11 veicoli - emesse dal gip del Tribunale di Asti su richiesta della procura della Repubblica del medesimo centro nei confronti di 9 persone (4 macedoni, 4 albanesi e 1 tunisino) responsabili di caporalato e di aver occupato alle proprie dipendenze lavoratori non in regola con il soggiorno in Italia. Una parte dei lavoratori sfruttata è stata inoltre presa in carico da O.I.M. 7(Organizzazione Internazionale per le Migrazioni) che li ha trasferiti e inseriti in progetti SAI (Sistema Accoglienza Integrazione) in altre localitàa' italiane lontane da Alba, luogo dello sfruttamento, per l'inserimento lavorativo in diverse realtà imprenditoriali. Tra questi vi erano anche quelli che avevano trovato riparo in accampamenti di fortuna lungo il fiume Tanaro.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \nLe indagini, avviate nel mese di aprile 2023 a seguito di attivita' ispettiva condotte dall'Arma territoriale di Cuneo, ispettori ITL e con il concorso di mediatori culturali dell'OIM (Organizzazione Internazionale per le Migrazioni), ha permesso di individuare un quadro diffuso di sfruttamento lavorativo in tutta la zona di Alba (CN) e territori limitrofi (zona delle \"Langhe\") a forte vocazione vitivinicola, a danno di cittadini extracomunitari in stato di bisogno reclutati sulle piazze e prelevati con pulmini o autovetture da parte di datori di lavoro contoterzisti. Ricostruita dai militari la rete dello sfruttamento: da un luogo di concentramento dei lavoratori, gli stessi venivano prelevati e trasportati a cura dei caporali, titolari di aziende agricole di lavoro conto terzi, per l'impiego in condizioni di sfruttamento in aziende agricole operanti nei vigneti delle province di Cuneo, Asti e Alessandria.&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1711641621.218549,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "Caporalato in the Langhe, discovered 40 exploited farmers [VIDEO]",
+        "en_content": "AGI - Forty workers victims of exploitation in agriculture (14 from Gambia, 4 from Senegal, 1 from Ghana, 3 from Macedonia, 3 from Tunisia, 1 from Pakistan, 1 from Nigeria, 1 from Guinea, 4 from Egypt, 2 from Albania, 3 from Morocco, 1 from Gabon, 2 from Bangladesh): for 30 of them, using the conditions, was asked and obtained the non-existence of the residence permit for serious occupational exploitation. The Carabinieri of the Nucleo Carabinieri Labour Inspectorate of Cuneo and the Provincial Commands of the Carabinieri of Cuneo and Bolzano, have carried out an order of interim precautionary measure of the temporary prohibition of exercising the professional or entrepreneurial activity - and another relative to the preventive seizure of 11 vehicles - issued from the gip of the Tribunal of Asti on request of the prosecutor of the Republic of the same center against 9 people (4 A part of the exploited workers has also been taken into account by O.I.M. 7 (International Organization for Migration) which has transferred them and incorporated them into SAI projects (Accoglience Integration System) in other Italian localities, far from Alba, the place of exploitation, for job inclusion in different entrepreneurial realities. Among these were also those who had found shelter in camps of fortune along the river Tanaro.&nbsp;\n&nbsp;\n<div </div\n&nbsp;\nThe investigations, launched in April 2023 as a result of the activity 'inspective carried out by the Territorial Authority of Cuneo, ITL inspectors and with the contest of cultural mediators of the IIM (International Organization for Migration), has allowed to identify a widespread picture of labor exploitation throughout the area of Alba (CN) and neighboring territories (zone of the \"Langhe\") to a strong viticultural vocation, to damage of non-communicipal citizens. Rebuild by the military the network of exploitation: from a place of concentration of workers, the same were taken and transported by the corporals, holders of agricultural holdings of work account third parties, for use in conditions of exploitation in farms operating in the vineyards of the provinces of Cuneo, Asti and Alessandria.&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Caporalato",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Langhe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "farmers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "VIDEO",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Langhe",
+                "start_char": 18,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "40",
+                "start_char": 37,
+                "end_char": 39,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "14",
+                "start_char": 60,
+                "end_char": 62,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gambia",
+                "start_char": 68,
+                "end_char": 74,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 76,
+                "end_char": 77,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Senegal",
+                "start_char": 83,
+                "end_char": 90,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1",
+                "start_char": 92,
+                "end_char": 93,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 99,
+                "end_char": 104,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 106,
+                "end_char": 107,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Macedonia",
+                "start_char": 113,
+                "end_char": 122,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 124,
+                "end_char": 125,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tunisia",
+                "start_char": 131,
+                "end_char": 138,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1",
+                "start_char": 140,
+                "end_char": 141,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Pakistan",
+                "start_char": 147,
+                "end_char": 155,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1",
+                "start_char": 157,
+                "end_char": 158,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Nigeria",
+                "start_char": 164,
+                "end_char": 171,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1",
+                "start_char": 173,
+                "end_char": 174,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Guinea",
+                "start_char": 180,
+                "end_char": 186,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 188,
+                "end_char": 189,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Egypt",
+                "start_char": 195,
+                "end_char": 200,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2",
+                "start_char": 202,
+                "end_char": 203,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Albania",
+                "start_char": 209,
+                "end_char": 216,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 218,
+                "end_char": 219,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Morocco",
+                "start_char": 225,
+                "end_char": 232,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1",
+                "start_char": 234,
+                "end_char": 235,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gabon",
+                "start_char": 241,
+                "end_char": 246,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2",
+                "start_char": 248,
+                "end_char": 249,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bangladesh",
+                "start_char": 255,
+                "end_char": 265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "30",
+                "start_char": 272,
+                "end_char": 274,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Carabinieri",
+                "start_char": 414,
+                "end_char": 425,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Provincial Commands",
+                "start_char": 485,
+                "end_char": 508,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Carabinieri of Cuneo and Bolzano",
+                "start_char": 512,
+                "end_char": 548,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "11",
+                "start_char": 749,
+                "end_char": 751,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Tribunal of Asti",
+                "start_char": 786,
+                "end_char": 806,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Republic of the same",
+                "start_char": 839,
+                "end_char": 863,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "9",
+                "start_char": 879,
+                "end_char": 880,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 889,
+                "end_char": 890,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "O.I.M. 7",
+                "start_char": 959,
+                "end_char": 967,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "International Organization for Migration",
+                "start_char": 969,
+                "end_char": 1009,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "SAI",
+                "start_char": 1065,
+                "end_char": 1068,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Accoglience Integration System",
+                "start_char": 1079,
+                "end_char": 1109,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 1120,
+                "end_char": 1127,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Alba",
+                "start_char": 1149,
+                "end_char": 1153,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April 2023",
+                "start_char": 1397,
+                "end_char": 1407,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Territorial Authority of Cuneo",
+                "start_char": 1463,
+                "end_char": 1497,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "ITL",
+                "start_char": 1499,
+                "end_char": 1502,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the IIM (International Organization for Migration",
+                "start_char": 1560,
+                "end_char": 1609,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alba",
+                "start_char": 1702,
+                "end_char": 1706,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Langhe",
+                "start_char": 1754,
+                "end_char": 1760,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "third",
+                "start_char": 2036,
+                "end_char": 2041,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Cuneo",
+                "start_char": 2145,
+                "end_char": 2150,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Asti",
+                "start_char": 2152,
+                "end_char": 2156,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "La Toscana si conferma la meta preferita dagli stranieri per nozze",
+        "date_raw": "Tue, 26 Mar 2024 01:45:00 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/stranieri-e-italiani-scelgono-la-toscana-per-le-nozze-25823810/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;La Toscana si conferma come location preferita dagli stranieri che scelgono l'Italia per il fatidico \"si'\". È qui, infatti, che nel 2023 è stato celebrato il maggior numero di nozze, rispetto alle altre regioni: 2600 matrimoni internazionali, il 12,5% in più rispetto al 2022>, per un giro di affari cresciuto del 29,5%, sfiorando la quota di 170 milioni di euro, per una spesa media di 65mila euro, ovvero il 15,3% in più rispetto al 2022. I numeri emergono dall'aggiornamento dell'Osservatorio Destination Weddings in Tuscany effettuato dal Centro Studi Turistici per Toscana Promozione Turistica e certificano il successo del bando triennale con cui Tuscany for Weddings, divisione di Destination Florence Convention &amp; Visitors Bureau per la promozione dell'offerta wedding della Toscana, ha operato per conto dell'agenzia regionale. Una collaborazione che oggi si rinnova con la firma di un protocollo d'intesa tra i due enti, che amplia ulteriormente l'accordo tra Destination Florence CVB e TPT: oltre al wedding, il nuovo protocollo, deliberato dall'assessorato al Turismo della Regione Toscana, prevede un lavoro in tandem sul turismo congressuale. \n&nbsp; \n\"Sale il numero di cittadini stranieri che eleggono la Toscana come destinazione dove celebrare le nozze - commenta il presidente della Regione Toscana, Eugenio Giani -, un risultato che ci riempie di soddisfazione. La decisione, maturata alcuni anni fa, di creare un progetto ad hoc, Tuscany for Weddings, >grazie alla collaborazione tra Toscana Promozione Turistica e Destination Florence Convention &amp; Visitors Bureau per promuovere l'offerta wedding, si è rivelata vincente. Ritengo che per lo sviluppo di questo segmento turistico la Toscana abbia tutto quello che occorre: luoghi autentici in scenari mozzafiato abbinati a un'organizzazione impeccabile\". \n&nbsp; \n&nbsp;\"Da diversi anni - aggiunge l'assessore a economia e turismo Leonardo Marras - la Toscana è tra le mete più scelte da cittadini stranieri per celebrare il proprio matrimonio. Il 'giorno più bello' è un'emozione da vivere, ma al tempo stesso un evento da curare in ogni dettaglio coinvolgendo molti professionisti. Il lavoro portato avanti in questi anni con Toscana Promozione Turistica e Destination Florence Convention &amp; Visitors Bureau con il progetto Tuscany for Weddings, e che oggi si amplia anche al turismo congressuale, è dunque un punto di forza su cui continuare a puntare. Il costante incremento di coloro che scelgono questa regione per unirsi in matrimonio è la conferma della bontà di questa collaborazione\". \n&nbsp; \n\"Gli ottimi dati sul segmento del wedding vanno di pari passo con la necessità di valorizzare il comparto del turismo congressuale - aggiunge il Direttore di Toscana Promozione Turistica, Francesco Tapinassi. - è da qui che nasce un protocollo d'intesa che conferma e amplia il rapporto tra Toscana Promozione Turistica e il Destination Florence Convention &amp; Visitors Bureau, impegnato su entrambi i segmenti wedding e MICE. Da considerare, inoltre, il ruolo del Destination Florence CVB nell'organizzazione della Grand Dèpart del Tour de France da Firenze a giugno: un ulteriore elemento di connessione tra l'azione del Bureau e la nostra agenzia, considerando l'impegno di TPT nella valorizzazione del comparto cicloturistico\". \n&nbsp; \n\"I dati sul wedding della nostra regione certificano la bontà del lavoro svolto in questi anni - spiega Jacopo Vicini, presidente di Destination Florence Convention &amp; Visitors Bureau. - già nel 2015, siamo stati il primo Convention Bureau a creare una divisione dedicata al segmento wedding, per promuovere in modo organico, coerente e strutturato l'offerta della Toscana in Italia e all'estero, e il costante aumento delle presenze dimostra la nostra lungimiranza e premia i nostri sforzi\". \n&nbsp; \nOltre la pandemia - I dati dimostrano il superamento del periodo pandemico. A scegliere la Toscana per sposarsi sono soprattutto coppie provenienti da Stati Uniti e Regno Unito> (60%), mentre per quanto riguarda il tipo di celebrazione, il rito simbolico è ancora quello preferito (66,3%),> con quello civile e religioso che si attestano rispettivamente al 22,4% e all'11,3%. Il 9,3% dei riti civili e simbolici riguarda inoltre unioni civili celebrate tra persone dello stesso sesso. \n&nbsp; \n&nbsp;Quasi una coppia su due, ovvero il 48,2% del totale, si è affidata a un wedding planner per coronare il proprio sogno d'amore (+5% rispetto al 2022), mentre per quanto riguarda il periodo scelto l'89% delle celebrazioni si sono svolte tra aprile e settembre. \n&nbsp; \nPernottamenti e invitati> - Anche se è calata leggermente la durata media della permanenza degli invitati (3,2 notti contro le 3,3 del 2022), i pernottamenti nelle strutture ricettive sono saliti a 496mila (+14,5%) e il volume di affari complessivo ha raggiunto 168,7 milioni di euro (+29,5%). È cresciuto anche il numero medio degli invitati (60,6 contro i 56 rilevati nel 2022) ed è aumentato del 25% il numero di celebrazioni con un numero di invitati compreso tra 51 e 100, che rappresentano il 63% del totale. Nel complesso gli arrivi sono cresciuti del 21,7%, attestandosi a 157mila, mentre le presenze turistiche collegate alle celebrazioni dei matrimoni delle coppie straniere sono state 496mila (+14,5%). \n&nbsp; \nLe location preferite sono le ville, passate dal 22% del 2022 al 26,7% del 2023, seguite dalle residenze storiche (17,5%) e dagli agriturismi (15%). Chiudono la classifica i castelli (11,7%), i borghi (10%), gli hotel di lusso (7,5%) i resort (5%) e altri (hotel, ristoranti, stabilimenti balneari, case private). Le attese per il 2024 - Anche per il 2024 le aspettative del settore sono di un'ulteriore crescita del mercato, con un incremento stimato intorno al 9,1%. I principali arrivi resteranno ancora quelli extra UE,> ma si consoliderà la domanda proveniente da coppie scandinave, tedesche, svizzere, olandesi, austriache, spagnole e francesi. \n&nbsp; \nLe coppie italiane - Nel 2023 si sono rivolte alle imprese della filiera anche 630 coppie italiane>, provenienti da altre regioni, che hanno scelto la Toscana per il fatidico \"si'\", generando un fatturato complessivo di 25 milioni di euro. Per quanto riguarda il numero medio degli invitati, nel 2023 si è attestato a 89,9, contro i 78,7 del 2022, mentre la spesa media per l'organizzazione dell'evento sfiora i 40mila euro (39.700 euro, +19% rispetto al 2022). \n&nbsp; \nComplessivamente gli arrivi da fuori regione sono stati 56.600, mentre le presenze turistiche 98.300. Un'alleanza per il wedding in Toscana - Il quadro positivo emerso certifica il successo di Tuscany for Weddings, divisione di Destination Florence Convention &amp; Visitors Bureau dedicata alla promozione del territorio toscano verso il mercato wedding internazionale. Un'alleanza che oggi si rafforza grazie alla firma di un protocollo tra le due realtà, che estende la collaborazione non più solo al comparto del wedding, ma anche al MICE (Meeting, Incentive, Conference, Exhibition) al fine di realizzare attività che possano arricchire l'intero territorio intercettando un turismo di qualità.&nbsp;",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185497,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "Tuscany confirms the preferred destination for wedding guests",
+        "en_content": "AGI -&nbsp;Tuscany is confirmed as a preferred location by foreigners who choose Italy for the fateful \"yes\". It is here, in fact, that in 2023 the greatest number of marriage was celebrated, compared to the other regions: 2600 international marriages, 12.5% more than 2022>, for a turnover of 29.5%, up to 170 million euros, for an average expenditure of 65 thousand euros, that is 15.3% more than 2022. The numbers emerge from the update of the Destination Weddings in Tuscany Observatory carried out by the Tourist Office for Tuscany Tourist Promotion and certify the success of the three-year call with which Tuscany for Weddings, division of Destination Florence Convention &amp; Visitors Bureau for the promotion of the wedding offer of Tuscany, has operated on behalf of the regional agency. A collaboration that today renews with the signature of a protocol of understanding between the two entities, which further expands the agreement between Destination Florence CVB and TPT: in addition to the wedding, the new protocol, deliberated by the allotted to Tourism of the Tuscany Region, previews a work in tandem on the congress tourism.\n&nbsp;\n\"The number of foreign citizens electing Tuscany as a destination to celebrate the wedding - comments the president of the Tuscany Region, Eugenio Giani -, a result that fills us with satisfaction. The decision, matured a few years ago, to create an ad hoc project, Tuscany for Weddings, > thank you to the collaboration between Tuscany Tourist Promotion and Destination Florence Convention &amp; Visitors Bureau to promote the wedding offer, turned out to be winning. I believe that for the development of this tourist segment Tuscany has everything you need: authentic places in breathtaking scenery combined with an impeccable organization\".\n&nbsp;\n&nbsp;\"For several years - adds the Councillor to economy and tourism Leonardo Marras - Tuscany is among the most chosen destinations by foreign citizens to celebrate their wedding. The 'most beautiful day' is an emotion to live, but at the same time an event to be treated in every detail involving many professionals. The work carried out in these years with Tuscany Tourist Promotion and Destination Florence Convention &amp; Visitors Bureau with the project Tuscany for Weddings, and which today expands also to the congress tourism, is therefore a strength on which to continue to point. The constant increase of those who choose this region to join in marriage is the confirmation of the goodness of this collaboration\".\n&nbsp;\n\"The excellent data on the wedding segment go hand in hand with the need to value the congress tourism sector - adds the Director of Tuscany Tourist Promotion, Francesco Tapinassi. - from here comes a protocol of understanding that confirms and expands the relationship between Tuscany Tourist Promotion and the Destination Florence Convention &amp; Visitors Bureau, engaged on both segments wedding and MICE. Moreover, the role of Destination Florence CVB in the organization of the Grand Dèpart del Tour de France from Florence to June: an additional element of connection between the Bureau's action and our agency, considering the commitment of TPT in the valorization of the cycling sector\".\n&nbsp;\n\"The data on the wedding of our region certify the goodness of the work done in recent years - explains Jacopo Vicini, president of Destination Florence Convention &amp; Visitors Bureau. - already in 2015, we were the first Convention Bureau to create a division dedicated to the wedding segment, in order to promote in an organic, coherent and structured way the offer of Tuscany in Italy and abroad, and the constant increase of presences demonstrates our foresight and rewards our efforts\".\n&nbsp;\nBeyond pandemic - The data demonstrates the overcoming of the pandemic period. To choose Tuscany to marry are mainly couples from the United States and the United Kingdom > (60%), while with regard to the type of celebration, the symbolic rite is still the preferred one (66.3%), > with the civil and religious one that stands at 22.4% and 11.3% respectively. 9.3% of civil and symbolic rites also concern civilian unions celebrated among people of the same sex.\n&nbsp;\n&nbsp;Almost a couple out of two, i.e. 48.2% of the total, was entrusted to a wedding planner to crown their dream of love (+5% compared to 2022), while regarding the chosen period 89% of the celebrations took place between April and September.\n&nbsp;\nOvernight and invited» - Although the average duration of the stay of guests decreased slightly (3,2 nights compared to 3,3 of 2022), the overnight stays in the accommodation facilities rose to 496 thousand (+14.5%) and the total business volume reached 168.7 million euros (+29.5%). The average number of guests increased (60.6 versus 56 in 2022) and the number of guests between 51 and 100 increased by 25%, representing 63% of the total. Overall arrivals grew by 21.7%, attesting to 157 thousand, while tourist attendance linked to the wedding celebrations of foreign couples was 496 thousand (+14.5%).\n&nbsp;\nThe preferred locations are villas, from 22% of 2022 to 26.7% of 2023, followed by historical residences (17.5%) and farms (15%). Castles (11.7%), villages (10%), luxury hotels (7.5%) resorts (5%) and others (hotels, restaurants, bathing establishments, private houses). The expectations for 2024 - Even for 2024 the expectations of the sector are of further growth of the market, with an estimated increase around 9.1%. The main arrivals will still remain the extra EU, > but will consolidate the demand from Scandinavian, German, Swiss, Dutch, Austrian, Spanish and French couples.\n&nbsp;\nItalian couples - In 2023, 630 Italian couples came to the supply chain companies, coming from other regions, who chose Tuscany for the fateful \"yes\", generating a total turnover of 25 million euros. As for the average number of guests, in 2023 it stood at 89.9, against 78.7 of 2022, while the average expenditure for the organization of the event amounted to 40 thousand euros (39.700 euros, +19% compared to 2022).\n&nbsp;\nOverall arrivals from outside the region were 56,600, while tourist attendance 98,300. An alliance for the wedding in Tuscany - The positive picture emerged certifies the success of Tuscany for Weddings, division of Destination Florence Convention &amp; Visitors Bureau dedicated to promoting the Tuscan territory towards the international wedding market. An alliance that today strengthens thanks to the signature of a protocol between the two realities, which extends the collaboration not only to the wedding sector, but also to the MICE (Meeting, Incentive, Conference, Exhibition) in order to realize activities that can enrich the entire territory intercepting a quality tourism. &nbsp;",
+        "concepts": [
+            {
+                "word": "Tuscany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "destination",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wedding",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 81,
+                "end_char": 86,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2023",
+                "start_char": 139,
+                "end_char": 143,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2600",
+                "start_char": 223,
+                "end_char": 227,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "12.5%",
+                "start_char": 253,
+                "end_char": 258,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "29.5%",
+                "start_char": 294,
+                "end_char": 299,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "up to 170 million",
+                "start_char": 301,
+                "end_char": 318,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "65 thousand",
+                "start_char": 356,
+                "end_char": 367,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15.3%",
+                "start_char": 383,
+                "end_char": 388,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the Destination Weddings",
+                "start_char": 443,
+                "end_char": 467,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany Observatory",
+                "start_char": 471,
+                "end_char": 490,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Tourist Office for Tuscany Tourist Promotion",
+                "start_char": 506,
+                "end_char": 554,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three-year",
+                "start_char": 586,
+                "end_char": 596,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tuscany for Weddings",
+                "start_char": 613,
+                "end_char": 633,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Destination Florence Convention &amp",
+                "start_char": 647,
+                "end_char": 683,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Visitors Bureau",
+                "start_char": 685,
+                "end_char": 700,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 743,
+                "end_char": 750,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 820,
+                "end_char": 825,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 895,
+                "end_char": 898,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "TPT",
+                "start_char": 982,
+                "end_char": 985,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "congress",
+                "start_char": 1128,
+                "end_char": 1136,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 1194,
+                "end_char": 1201,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Tuscany Region",
+                "start_char": 1272,
+                "end_char": 1290,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Eugenio Giani -",
+                "start_char": 1292,
+                "end_char": 1307,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few years ago",
+                "start_char": 1373,
+                "end_char": 1388,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tuscany for Weddings",
+                "start_char": 1419,
+                "end_char": 1439,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany Tourist Promotion and Destination Florence Convention &amp",
+                "start_char": 1482,
+                "end_char": 1548,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Visitors Bureau",
+                "start_char": 1550,
+                "end_char": 1565,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 1681,
+                "end_char": 1688,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "several years",
+                "start_char": 1816,
+                "end_char": 1829,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Councillor",
+                "start_char": 1841,
+                "end_char": 1851,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Leonardo Marras - Tuscany",
+                "start_char": 1875,
+                "end_char": 1900,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "these years",
+                "start_char": 2149,
+                "end_char": 2160,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tuscany Tourist Promotion and Destination Florence Convention &amp",
+                "start_char": 2166,
+                "end_char": 2232,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Visitors Bureau",
+                "start_char": 2234,
+                "end_char": 2249,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany for Weddings",
+                "start_char": 2267,
+                "end_char": 2287,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 2299,
+                "end_char": 2304,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "congress",
+                "start_char": 2325,
+                "end_char": 2333,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "congress",
+                "start_char": 2625,
+                "end_char": 2633,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany Tourist Promotion",
+                "start_char": 2672,
+                "end_char": 2697,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany Tourist Promotion",
+                "start_char": 2817,
+                "end_char": 2842,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Destination Florence Convention &amp",
+                "start_char": 2847,
+                "end_char": 2887,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Visitors Bureau",
+                "start_char": 2889,
+                "end_char": 2904,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "del Tour de France",
+                "start_char": 3036,
+                "end_char": 3054,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Florence",
+                "start_char": 3060,
+                "end_char": 3068,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bureau",
+                "start_char": 3126,
+                "end_char": 3132,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "TPT",
+                "start_char": 3188,
+                "end_char": 3191,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent years",
+                "start_char": 3323,
+                "end_char": 3335,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jacopo Vicini",
+                "start_char": 3347,
+                "end_char": 3360,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Destination Florence Convention &amp",
+                "start_char": 3375,
+                "end_char": 3411,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Visitors Bureau",
+                "start_char": 3413,
+                "end_char": 3428,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2015",
+                "start_char": 3443,
+                "end_char": 3447,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the first Convention Bureau",
+                "start_char": 3457,
+                "end_char": 3484,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 3616,
+                "end_char": 3623,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 3627,
+                "end_char": 3632,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 3833,
+                "end_char": 3840,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the United States",
+                "start_char": 3874,
+                "end_char": 3891,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United Kingdom",
+                "start_char": 3896,
+                "end_char": 3914,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "60%",
+                "start_char": 3918,
+                "end_char": 3921,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "66.3%",
+                "start_char": 4016,
+                "end_char": 4021,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "22.4%",
+                "start_char": 4074,
+                "end_char": 4079,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "11.3%",
+                "start_char": 4084,
+                "end_char": 4089,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "9.3%",
+                "start_char": 4104,
+                "end_char": 4108,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "two",
+                "start_char": 4243,
+                "end_char": 4246,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "48.2%",
+                "start_char": 4253,
+                "end_char": 4258,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "+5%",
+                "start_char": 4338,
+                "end_char": 4341,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2022",
+                "start_char": 4354,
+                "end_char": 4358,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "89%",
+                "start_char": 4395,
+                "end_char": 4398,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "between April and September",
+                "start_char": 4430,
+                "end_char": 4457,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Overnight",
+                "start_char": 4466,
+                "end_char": 4475,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "3,2 nights",
+                "start_char": 4563,
+                "end_char": 4573,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3,3",
+                "start_char": 4586,
+                "end_char": 4589,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 4593,
+                "end_char": 4597,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "496 thousand",
+                "start_char": 4660,
+                "end_char": 4672,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "168.7 million",
+                "start_char": 4720,
+                "end_char": 4733,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "60.6",
+                "start_char": 4790,
+                "end_char": 4794,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "56",
+                "start_char": 4802,
+                "end_char": 4804,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 4808,
+                "end_char": 4812,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "between 51 and 100",
+                "start_char": 4839,
+                "end_char": 4857,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "25%",
+                "start_char": 4871,
+                "end_char": 4874,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "63%",
+                "start_char": 4889,
+                "end_char": 4892,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "21.7%",
+                "start_char": 4932,
+                "end_char": 4937,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "157 thousand",
+                "start_char": 4952,
+                "end_char": 4964,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "496 thousand",
+                "start_char": 5049,
+                "end_char": 5061,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "22%",
+                "start_char": 5120,
+                "end_char": 5123,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2022",
+                "start_char": 5127,
+                "end_char": 5131,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "26.7%",
+                "start_char": 5135,
+                "end_char": 5140,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2023",
+                "start_char": 5144,
+                "end_char": 5148,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "17.5%",
+                "start_char": 5185,
+                "end_char": 5190,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "15%",
+                "start_char": 5203,
+                "end_char": 5206,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "11.7%",
+                "start_char": 5218,
+                "end_char": 5223,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "10%",
+                "start_char": 5236,
+                "end_char": 5239,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "7.5%",
+                "start_char": 5257,
+                "end_char": 5261,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "5%",
+                "start_char": 5272,
+                "end_char": 5274,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2024",
+                "start_char": 5371,
+                "end_char": 5375,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2024",
+                "start_char": 5387,
+                "end_char": 5391,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "around 9.1%",
+                "start_char": 5487,
+                "end_char": 5498,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "EU",
+                "start_char": 5546,
+                "end_char": 5548,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Scandinavian",
+                "start_char": 5589,
+                "end_char": 5601,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 5603,
+                "end_char": 5609,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Swiss",
+                "start_char": 5611,
+                "end_char": 5616,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Dutch",
+                "start_char": 5618,
+                "end_char": 5623,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Austrian",
+                "start_char": 5625,
+                "end_char": 5633,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Spanish",
+                "start_char": 5635,
+                "end_char": 5642,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "French",
+                "start_char": 5647,
+                "end_char": 5653,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 5670,
+                "end_char": 5677,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2023",
+                "start_char": 5691,
+                "end_char": 5695,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "630",
+                "start_char": 5697,
+                "end_char": 5700,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 5701,
+                "end_char": 5708,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 5790,
+                "end_char": 5797,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "25 million",
+                "start_char": 5852,
+                "end_char": 5862,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2023",
+                "start_char": 5910,
+                "end_char": 5914,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "89.9",
+                "start_char": 5927,
+                "end_char": 5931,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "78.7",
+                "start_char": 5941,
+                "end_char": 5945,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 5949,
+                "end_char": 5953,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "40 thousand",
+                "start_char": 6031,
+                "end_char": 6042,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "39.700",
+                "start_char": 6050,
+                "end_char": 6056,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 6081,
+                "end_char": 6085,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "56,600",
+                "start_char": 6141,
+                "end_char": 6147,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "98,300",
+                "start_char": 6174,
+                "end_char": 6180,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 6213,
+                "end_char": 6220,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tuscany for Weddings",
+                "start_char": 6277,
+                "end_char": 6297,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Destination Florence Convention &amp",
+                "start_char": 6311,
+                "end_char": 6347,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Visitors Bureau",
+                "start_char": 6349,
+                "end_char": 6364,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscan",
+                "start_char": 6392,
+                "end_char": 6398,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 6468,
+                "end_char": 6473,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 6536,
+                "end_char": 6539,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "A messa con un'app. DinDonDan spopola tra i fedeli",
+        "date_raw": "Tue, 26 Mar 2024 01:19:00 GMT",
+        "date": "2024-03-26",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-26/app-trova-messa-vicina-dindondan-idea-gruppo-milanesi-25826612/",
+        "subtitle": "",
+        "content": "AGI - DinDonDan, l'applicazione ideata da quattro giovani milanesi, sta vivendo un'enorme crescita, ed è diventata punto di riferimento per migliaia di fedeli in cerca degli orari delle messe. Lanciata nel 2018, DinDonDan ha raggiunto i 400mila utenti, consolidando la sua posizione come strumento indispensabile per coloro che desiderano partecipare alle celebrazioni religiose ovunque si trovino. Partita dall'Italia, l'app ha esteso negli ultimi mesi la sua portata anche in Spagna, Francia, Grecia, Lussemburgo e persino Egitto, con l'obiettivo ambizioso di raggiungere tutte le capitali europee entro l'estate. \"Siamo lieti di vedere che sempre più persone si affidano a DinDonDan per trovare gli orari delle messe, sia durante le vacanze che nei viaggi di lavoro o nelle gite fuoriporta nel weekend\", dichiarano i fondatori. \"Con il lancio della versione internazionale, siamo pronti a offrire il servizio anche all'estero, per soddisfare le esigenze dei fedeli in tutta Europa\". \nLa app attualmente è disponibile in italiano, inglese e spagnolo, e consente agli utenti di individuare facilmente le chiese più vicine e consultare gli orari delle messe feriali e festive, nonché gli orari delle confessioni. Grazie alla sua interfaccia intuitiva e alla funzione di localizzazione, DinDonDan offre un accesso rapido alle informazioni necessarie per partecipare alle celebrazioni. Inoltre, DinDonDan è un'applicazione partecipativa che permette all'utente di segnalare modifiche agli orari e suggerire l'inserimento di nuove chiese, garantendo così un database sempre aggiornato. In questi anni sono state effettuate più di 50mila segnalazioni, a dimostrazione di una community di utenti molto attiva. \"Il contributo degli utenti è per noi cruciale per mantenere i dati sempre aggiornati: vedere migliaia di persone che giornalmente contribuiscono al nostro progetto è straordinario\", dice Federico, uno dei giovani fondatori. I ragazzi di DinDonDan hanno anche sviluppato la app gratuita <a href=\"https://dindondan.app/contapersone/\">Contapersone</a> , già utilizzata in diverse manifestazioni ecclesiali e civili, strumento utile ad esempio alle chiese nel periodo Covid e di recente anche ad Expo Dubai 2020. DinDonDan e disponibile gratuitamente su App Store, Play Store e in versione web sul sito <a href=\"http://www.dindondan.app\">www.dindondan.app</a>.&nbsp;",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1711641621.2185504,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "timeslot_day": "2024-03-28",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 0,
+        "filename": "ner_conc_en_2024-03-28T17.00.20E1711645220.793123.json",
+        "en_title": "At Mass with an app. DinDonDan spopola among the faithful",
+        "en_content": "AGI - DinDonDan, the application created by four young Milanese, is experiencing a huge growth, and has become a point of reference for thousands of faithful in search of the times of the masses. Launched in 2018, DinDonDan reached 400,000 users, consolidating its position as an indispensable tool for those wishing to participate in religious celebrations wherever they are. Starting from Italy, the app has extended in recent months its scope in Spain, France, Greece, Luxembourg and even Egypt, with the ambitious goal of reaching all European capitals by summer. \"We are pleased to see that more and more people rely on DinDonDan to find the schedule of the harvests, both during holidays and on business trips or weekend outings,\" the founders say. \"With the launch of the international version, we are ready to offer service abroad, to meet the needs of the faithful throughout Europe.\"\nThe app is currently available in Italian, English and Spanish, and allows users to easily locate the nearest churches and consult the working and festive schedule, as well as confession times. Due to its intuitive interface and location function, DinDonDan provides quick access to the information needed to participate in celebrations. In addition, DinDonDan is a participatory application that allows the user to report changes to the times and suggest the insertion of new churches, thus ensuring a constantly updated database. Over 50 thousand reports have been made over the past few years, demonstrating a community of very active users. \"The user contribution is crucial for us to keep the data always up to date: seeing thousands of people who daily contribute to our project is extraordinary\", says Federico, one of the young founders. The children of DinDonDan have also developed the free app <a href=\"https://dindondan.app/contapersone/\">Contapersone</a> , already used in different ecclesial and civil events, useful tool for example to churches in the Covid period and recently also at Expo Dubai 2020. DinDonDan is available free of charge on the App Store, Play Store and on the website <a href=\"http://www.dindondan.app\">www.dindondan.app</a>.&nbsp;",
+        "concepts": [
+            {
+                "word": "Mass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "app",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "DinDonDan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "spopola",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "four",
+                "start_char": 44,
+                "end_char": 48,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Milanese",
+                "start_char": 55,
+                "end_char": 63,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "thousands",
+                "start_char": 136,
+                "end_char": 145,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2018",
+                "start_char": 208,
+                "end_char": 212,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "DinDonDan",
+                "start_char": 214,
+                "end_char": 223,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "400,000",
+                "start_char": 232,
+                "end_char": 239,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 391,
+                "end_char": 396,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "recent months",
+                "start_char": 422,
+                "end_char": 435,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Spain",
+                "start_char": 449,
+                "end_char": 454,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 456,
+                "end_char": 462,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greece",
+                "start_char": 464,
+                "end_char": 470,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Luxembourg",
+                "start_char": 472,
+                "end_char": 482,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Egypt",
+                "start_char": 492,
+                "end_char": 497,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 539,
+                "end_char": 547,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "summer",
+                "start_char": 560,
+                "end_char": 566,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "weekend",
+                "start_char": 719,
+                "end_char": 726,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Europe",
+                "start_char": 885,
+                "end_char": 891,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italian",
+                "start_char": 928,
+                "end_char": 935,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "English",
+                "start_char": 937,
+                "end_char": 944,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "Spanish",
+                "start_char": 949,
+                "end_char": 956,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "DinDonDan",
+                "start_char": 1142,
+                "end_char": 1151,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "DinDonDan",
+                "start_char": 1245,
+                "end_char": 1254,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Over 50 thousand",
+                "start_char": 1426,
+                "end_char": 1442,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the past few years",
+                "start_char": 1471,
+                "end_char": 1489,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "thousands",
+                "start_char": 1623,
+                "end_char": 1632,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "daily",
+                "start_char": 1647,
+                "end_char": 1652,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Federico",
+                "start_char": 1703,
+                "end_char": 1711,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 1713,
+                "end_char": 1716,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "DinDonDan",
+                "start_char": 1756,
+                "end_char": 1765,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Expo Dubai 2020",
+                "start_char": 1995,
+                "end_char": 2010,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "DinDonDan",
+                "start_char": 2012,
+                "end_char": 2021,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the App Store",
+                "start_char": 2053,
+                "end_char": 2066,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

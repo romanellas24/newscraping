@@ -1,0 +1,785 @@
+[
+    {
+        "title": "Kiev, in 24 ore Zaporizhzhia colpita dai russi 400 volte",
+        "date_raw": "Mon, 15 Apr 2024 09:09:13 +0200",
+        "date": "2024-04-15",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/04/15/kiev-in-24-ore-zaporizhzhia-colpita-dai-russi-400-volte_80058217-c680-4052-a5d1-741aa627456f.html",
+        "subtitle": "Governatore: 'Una donna è stata uccisa'",
+        "content": "\n                                                \n            \"Durante le ultime 24 ore, l'esercito\nrusso ha colpito la regione sud-orientale di Zaporizhzhia per\n400 volte, una donna è rimasta uccisa nel distretto di\nVasilievskij\", ha reso noto su Telegram il governatore Ivan\nFedorov, citato da Ukrainska Pravda. \"In totale, i russi in una\nsola giornata hanno colpito la regione di Zaporozhzhia 400\nvolte. Sette località sono finite sotto il fuoco nemico: in\nparticolare Gulyaypole, Levadnoye, Robotino, Malaya Tokmachka,\nMalinovka e Novoandreevka. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1713175223.92293,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-15 12:00:23",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-15T12.00.23",
+        "en_title": "Kiev, in 24 hours Zaporizhzhia hit by the Russians 400 times",
+        "en_content": "\"During the last 24 hours, the army\nRussian hit the south-eastern region of Zaporizhzhia for\n400 times, a woman was killed in the district\nVasilievsky\", announced on Telegram Governor Ivan\nFedorov, quoted by Ukrainska Pravda. \"In total, the Russians in one\nonly day hit the region of Zaporozhia 400\ntimes. Seven locations ended under enemy fire: in\nGulyaypole, Levadnoye, Robotino, Malaya Tokmachka,\nMalinovka and Novoandreevka.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Governor: 'A woman was killed'",
+        "title_NER": [
+            {
+                "word": "24 hours",
+                "start_char": 9,
+                "end_char": 17,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 18,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russians",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "400",
+                "start_char": 51,
+                "end_char": 54,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the last 24 hours",
+                "start_char": 8,
+                "end_char": 25,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Russian",
+                "start_char": 36,
+                "end_char": 43,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 76,
+                "end_char": 88,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "400",
+                "start_char": 93,
+                "end_char": 96,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Vasilievsky",
+                "start_char": 139,
+                "end_char": 150,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Telegram",
+                "start_char": 166,
+                "end_char": 174,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ivan\nFedorov",
+                "start_char": 184,
+                "end_char": 196,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainska Pravda",
+                "start_char": 208,
+                "end_char": 224,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russians",
+                "start_char": 241,
+                "end_char": 249,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "one",
+                "start_char": 253,
+                "end_char": 256,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "only day",
+                "start_char": 257,
+                "end_char": 265,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "400",
+                "start_char": 295,
+                "end_char": 298,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Seven",
+                "start_char": 306,
+                "end_char": 311,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gulyaypole",
+                "start_char": 349,
+                "end_char": 359,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Levadnoye",
+                "start_char": 361,
+                "end_char": 370,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Robotino",
+                "start_char": 372,
+                "end_char": 380,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Malaya Tokmachka",
+                "start_char": 382,
+                "end_char": 398,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Malinovka",
+                "start_char": 400,
+                "end_char": 409,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Novoandreevka",
+                "start_char": 414,
+                "end_char": 427,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Precipita un elicottero a Città del Messico, ci sono 3 morti",
+        "date_raw": "Mon, 15 Apr 2024 11:07:13 +0200",
+        "date": "2024-04-15",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/04/15/precipita-un-elicottero-a-citta-del-messico-ci-sono-3-morti_169ff832-c5ca-4430-8fd3-64e073871d2e.html",
+        "subtitle": "Il pilota è riuscito a evitare l'impatto su un mercato affollato",
+        "content": "\n                                                \n            Un elicottero privato,\nutilizzato come taxi aereo, è precipitato nel sud di Città del\nMessico, causando la morte di almeno tre persone. Non sono\nancora chiare le dinamiche dell'incidente, ma le autorità\nmessicane hanno avviato un'indagine per determinarne le cause.\n                                    \n                                       \n\t\t\t\t   Il ministero delle Infrastrutture, delle Comunicazioni e dei\nTrasporti ha fatto sapere in un comunicato che \"l'elicottero si\nè schiantato a causa di un apparente guasto al motore sopra una\nstruttura di riparazione di mezzi per il trasporto pubblico, nel\nquartiere di Coyoacan\", e che l'uomo che controllava il velivolo\n\"era in possesso della licenza di pilota commerciale\".\n                                    \n                                       \n\t\t\t\t   Secondo i testimoni oculari, intervistati dalla stampa\nlocale, il pilota avrebbe evitato, con un'ultima manovra, di\ncadere sopra un mercato di frutta e verdura, indirizzando\nl'aeromobile all'interno di un deposito per autobus. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1713175223.9463181,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-15 12:00:23",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-15T12.00.23",
+        "en_title": "Precise a helicopter in Mexico City, there are 3 dead",
+        "en_content": "A private helicopter,\nused as air taxi, crashed in the south of City of\nMexico, causing the death of at least three people. I'm not\nthe dynamics of the accident, but the authorities\nMexicans started an investigation to determine their causes.\n\n\nThe Ministry of Infrastructures, Communications and\nTransportation has made known in a statement that \"the helicopter si si\ncrashed due to an apparent engine failure over a\nrepair structure of means for public transport, in\ndistrict of Coyoacan\", and that the man who controlled the aircraft\n\"She was in possession of the commercial pilot license.\"\n\n\nAccording to eyewitnesses, interviewed by the press\nthe pilot would have avoided, with a last manoeuvre, of\nfall over a fruit and vegetable market, addressing\nthe aircraft inside a bus deposit.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "The pilot managed to avoid the impact on a crowded market",
+        "title_NER": [
+            {
+                "word": "Mexico City",
+                "start_char": 24,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 47,
+                "end_char": 48,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Mexico",
+                "start_char": 72,
+                "end_char": 78,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least three",
+                "start_char": 101,
+                "end_char": 115,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mexicans",
+                "start_char": 182,
+                "end_char": 190,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "The Ministry of Infrastructures, Communications",
+                "start_char": 245,
+                "end_char": 292,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Transportation",
+                "start_char": 297,
+                "end_char": 311,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Coyoacan",
+                "start_char": 481,
+                "end_char": 489,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Maduro rilancia il cartoon 'SuperBaffo' per farsi rieleggere",
+        "date_raw": "Mon, 15 Apr 2024 09:11:49 +0200",
+        "date": "2024-04-15",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/04/15/maduro-rilancia-il-cartoon-superbaffo-per-farsi-rieleggere_b9b784bb-5951-4854-b484-d695b77860b1.html",
+        "subtitle": "E annuncia un reality per scegliere il jingle della sua campagna",
+        "content": "\n                                                \n             Il presidente del Venezuela,\nNicolás Maduro, ha rilanciato la serie animata 'SuperBigote'\n(SuperBaffo), con lui stesso come protagonista, nell'ambito\ndella sua strategia elettorale in vista del voto del 28 luglio,\ndove correrà per un ulteriore mandato. Il leader chavista ha\ninoltre annunciato un reality show, chiamato 'Factor M', per\nscegliere il jingle della sua campagna.\n                                    \n                                       \n\t\t\t\t   Le iniziative, secondo alcuni osservatori, servono al governo\nper cercare di ripulire la propria immagine e distrarre\nl'attenzione nazionale e internazionale dalla crisi politica\ninterna, soprattutto dopo l'esclusione dalla contesa elettorale\ndella principale candidata dell'opposizione, l'ex deputata María\nCorina Machado, nonché della sostituta di quest'ultima, la\nfilosofa Corina Yoris.\n                                    \n                                       \n\t\t\t\t   Rientra in questa tattica anche il recente arresto dell'ex\nministro del Petrolio, Tareck El Aissami, accusato di gravi\ncrimini di corruzione. L'operazione è stata descritta dal\nprocuratore generale, Tarek William Saab, come parte di una\ncampagna incessante contro la corruzione, che ha coinvolto anche\naltre figure chiave come l'ex ministro dell'Economia e delle\nFinanze, Simón Alejandro Zerpa, e l'imprenditore Samark José\nLopez. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1713175223.97164,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-15 12:00:23",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-15T12.00.23",
+        "en_title": "Maduro re-launches the cartoon 'SuperBaffo' to be re-elected",
+        "en_content": "The President of Venezuela,\nNicolás Maduro, relaunched the animated series 'SuperBigote'\n(SuperBaffo), with him as the protagonist, within\nof its electoral strategy for the vote of 28 July,\nwhere he will run for a further mandate. The chavista leader has\nalso announced a reality show, called 'Factor M', for\nchoose the jingle of his campaign.\n\n\nThe initiatives, according to some observers, serve the government\nto try to clean up your image and distract\nnational and international attention from the political crisis\ninternal, especially after the exclusion from the electoral dispute\nof the main opposition candidate, former MP María\nCorina Machado and the replacement of the latter, the\nphilosopher Corina Yoris.\n\n\nThe recent arrest of the ex\nMinister of Oil, Tareck El Aissami, accused of serious\ncorruption crimes. The operation was described by\nAttorney General, Tarek William Saab, as part of a\nincessant campaign against corruption, which also involved\nother key figures such as the former Minister of Economy and\nFinances, Simón Alejandro Zerpa, and entrepreneur Samark José\nLopez.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "And announces a reality to choose the jingle of his campaign",
+        "title_NER": [
+            {
+                "word": "Maduro",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "SuperBaffo",
+                "start_char": 32,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Venezuela",
+                "start_char": 17,
+                "end_char": 26,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nicolás Maduro",
+                "start_char": 28,
+                "end_char": 42,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "SuperBaffo",
+                "start_char": 90,
+                "end_char": 100,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "28 July",
+                "start_char": 181,
+                "end_char": 188,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Corina Yoris",
+                "start_char": 703,
+                "end_char": 715,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "William Saab",
+                "start_char": 876,
+                "end_char": 888,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Simón Alejandro Zerpa",
+                "start_char": 1033,
+                "end_char": 1054,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Samark José\nLopez",
+                "start_char": 1073,
+                "end_char": 1090,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Frana travolge distretto in Indonesia centrale, almeno 15 morti",
+        "date_raw": "Sun, 14 Apr 2024 14:28:56 +0200",
+        "date": "2024-04-14",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/asia/2024/04/14/frana-travolge-distretto-in-indonesia-centrale-almeno-15-morti_71f69fdd-65b1-466c-a022-58302b81d2d3.html",
+        "subtitle": "Provocata dalle forti piogge",
+        "content": "Almeno 15 persone sono morte nella provincia di South Sulawesi, nell'Indonesia centrale, a seguito di forti piogge. Lo ha reso noto l'Agenzia nazionale per la gestione dei disastri. \"Un totale di 15 persone sono morte e altre due sono rimaste ferite dopo essere state sepolte da una frana nel distretto di Tana Toraja della provincia di South Sulawesi\", ha dichiarato l'agenzia locale per la gestione dei disastri. La frana si è verificata ieri sera.     \"Secondo quanto riferito dai residenti, risultano ancora due persone scomparse, presumibilmente sepolte sotto i detriti della frana\", ha detto il capo dell'agenzia locale per i disastri, Sulaiman Maila. Tana Toraja e le aree circostanti sono state colpite da forti piogge la scorsa settimana, ha aggiunto.     L'Indonesia è soggetta a frane durante la stagione delle piogge e il problema è stato aggravato in alcuni luoghi dalla deforestazione, con piogge torrenziali prolungate che hanno causato inondazioni in alcune aree della nazione dell'arcipelago.   \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 36,
+        "placed": "Esteri",
+        "epoch": 1713175224.0630186,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-15 12:00:24",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-15T12.00.24",
+        "en_title": "Frana overwhelms district in central Indonesia, at least 15 dead",
+        "en_content": "At least 15 people died in the province of South Sulawesi, central Indonesia, following heavy rain. The national disaster management agency has announced this. \"A total of 15 people died and two others were injured after being buried by a landslide in the Tana Toraja district of South Sulawesi province,\" said the local disaster management agency. The landslide occurred last night. \"According to the residents, there are still two missing persons, allegedly buried under the debris of the landslide,\" said the head of the local disaster agency, Sulaiman Maila. Tana Toraja and the surrounding areas were hit by heavy rain last week, he added. Indonesia is subject to landslides during the rainy season and the problem has been aggravated in some places by deforestation, with prolonged torrential rains that caused floods in some areas of the nation of the archipelago.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Provoked by heavy rains",
+        "title_NER": [
+            {
+                "word": "Frana",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Indonesia",
+                "start_char": 37,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least 15",
+                "start_char": 48,
+                "end_char": 59,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "At least 15",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "South Sulawesi",
+                "start_char": 43,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Indonesia",
+                "start_char": 67,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "15",
+                "start_char": 172,
+                "end_char": 174,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 191,
+                "end_char": 194,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Tana Toraja district",
+                "start_char": 252,
+                "end_char": 276,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "South Sulawesi",
+                "start_char": 280,
+                "end_char": 294,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last night",
+                "start_char": 372,
+                "end_char": 382,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "two",
+                "start_char": 429,
+                "end_char": 432,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sulaiman Maila",
+                "start_char": 547,
+                "end_char": 561,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tana Toraja",
+                "start_char": 563,
+                "end_char": 574,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "last week",
+                "start_char": 624,
+                "end_char": 633,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Indonesia",
+                "start_char": 645,
+                "end_char": 654,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the rainy season",
+                "start_char": 687,
+                "end_char": 703,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Amb.Israele, 'Iran dietro minacce ad ambasciate, anche a Roma'",
+        "date_raw": "Mon, 15 Apr 2024 11:25:48 +0200",
+        "date": "2024-04-15",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/04/15/amb.israele-iran-dietro-minacce-ad-ambasciate-anche-a-roma_c5f7570d-ceb2-45a6-971f-b91e136f813b.html",
+        "subtitle": "'Grati a polizia italiana che garantisce sicurezza israeliani'",
+        "content": "\n                                                \n            \"Ci sono minacce contro le ambasciate\nisraeliane nel mondo, anche in Italia. E abbiamo indizi sul\ncoinvolgimento dell'Iran\". Lo ha detto l'ambasciatore israeliano\na Roma, Alon Bar, in un'intervista a Skytg24, aggiungendo che\nIsraele \"condivide le informazioni\" con le varie polizie locali.\n                                    \n                                       \n\t\t\t\t\"Siamo preoccupati per i diplomatici e per i cittadini\nisraeliani. E siamo grati alla polizia italiana che fa tutto il\npossibile per garantire la sicurezza degli israeliani\", ha\nconcluso. Nei giorni scorsi l'ambasciata israeliana a Roma era\nstata chiusa per motivi di sicurezza. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1713175224.0848856,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-15 12:00:24",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-15T12.00.24",
+        "en_title": "Amb. Israel, 'Iran behind threats to embassies, even in Rome'",
+        "en_content": "\"There are threats against embassies\nIsraeli in the world, also in Italy. And we have clues about\ninvolvement of Iran.\" The Israeli ambassador said so.\nin Rome, Alon Bar, in an interview with Skytg24, adding that\nIsrael \"shares information\" with the various local police.\n\n\n\"We are worried about diplomats and citizens\nIsraelis. And we are grateful to the Italian police who does everything\npossible to guarantee the security of the Israelis\", he has\nfinished. In recent days the Israeli embassy in Rome was\nwas closed for security reasons.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "'Grati to Italian police that guarantees Israeli security'",
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 5,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 14,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 56,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Grati",
+                "start_char": 1,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 10,
+                "end_char": 17,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 37,
+                "end_char": 44,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 67,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 113,
+                "end_char": 117,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 124,
+                "end_char": 131,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 155,
+                "end_char": 159,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alon Bar",
+                "start_char": 161,
+                "end_char": 169,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Skytg24",
+                "start_char": 192,
+                "end_char": 199,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 213,
+                "end_char": 219,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israelis",
+                "start_char": 319,
+                "end_char": 327,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 356,
+                "end_char": 363,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israelis",
+                "start_char": 433,
+                "end_char": 441,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "recent days",
+                "start_char": 464,
+                "end_char": 475,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 480,
+                "end_char": 487,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 499,
+                "end_char": 503,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Ambasciatore Israele, 'non diremo come ma fermeremo l'Iran'",
+        "date_raw": "Mon, 15 Apr 2024 11:11:27 +0200",
+        "date": "2024-04-15",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/04/15/ambasciatore-israele-non-diremo-come-ma-fermeremo-liran_45e07e38-622a-4355-9025-e1a628e4cbb8.html",
+        "subtitle": "'Se non lo facciamo continuerà il rischio di escalation'",
+        "content": "\n                                                \n            \"Non è una buona idea dire al nemico\ncosa faremo\" per rispondere agli attacchi contro Israele, \"ma\nfinché non troveremo un modo di fermare l'Iran il rischio di\nescalation continuerà ad esistere\". Lo ha detto l'ambasciatore\nisraeliano Alon Bar a Skytg24.\n                                    \n                                       \n\t\t\t\t   \"Israele è stato attaccato da centinaia di missili balistici,\nda crociera, droni. Con successo abbiamo bloccato l'attacco. Ma\nquesto fa parte di uno sforzo continuo di Teheran di provocare\nuna escalation, ci sono attacchi contro il nostro Paese dal\nLibano, dallo Yemen, dall'Iraq, dalla Siria. Finché non\ntroveremo un modo per fermare l'Iran, il rischio di escalation\ncontinua a esistere\", ha spiegato l'ambasciatore. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1713175224.092598,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-15 12:00:24",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-15T12.00.24",
+        "en_title": "Ambassador Israel, 'we will not say how but we will stop Iran'",
+        "en_content": "\"It's not a good idea to tell the enemy\nwhat we will do\" to respond to attacks against Israel, \"but\nuntil we find a way to stop Iran the risk of\nescalation will continue to exist.\" The ambassador said so.\nIsraeli Alon Bar in Skytg24.\n\n\n\"Israel was attacked by hundreds of ballistic missiles,\ncruise, drones. We successfully blocked the attack. Ma\nThis is part of a continuous effort of Tehran to provoke\nan escalation, there are attacks against our country from\nLebanon, Yemen, Iraq, Syria. Until\nwe will find a way to stop Iran, the risk of escalation\ncontinues to exist,\" the ambassador explained.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "'If we do not do it will continue the risk of escalation'",
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 11,
+                "end_char": 17,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 57,
+                "end_char": 61,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 87,
+                "end_char": 93,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 128,
+                "end_char": 132,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli Alon Bar",
+                "start_char": 205,
+                "end_char": 221,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 237,
+                "end_char": 243,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "hundreds",
+                "start_char": 260,
+                "end_char": 268,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tehran",
+                "start_char": 386,
+                "end_char": 392,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 462,
+                "end_char": 469,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yemen",
+                "start_char": 471,
+                "end_char": 476,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iraq",
+                "start_char": 478,
+                "end_char": 482,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syria",
+                "start_char": 484,
+                "end_char": 489,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iran",
+                "start_char": 524,
+                "end_char": 528,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2633 @@
+[
+    {
+        "title": "Felipe Iv per la prima volta al giuramento della Guardia Civil",
+        "date_raw": "Sun, 07 Apr 2024 00:04:00 GMT",
+        "date": "2024-04-07",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-07/re-felipe-partecipa-a-giuramento-guardia-civil-25925844/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;<span>&nbsp;Felipe VI parteciperà per la prima volta al giuramento della nuova classe di guardie civili presso l'Accademia Baeza (Jaén) il prossimo 12 aprile.&nbsp;</span> \n&nbsp; \nDon Felipe è stato principe dell'Accademia delle Guardie e dei Sottufficiali nell'aprile del 2008, due anni dopo che lo avevano fatto il re Juan Carlos e la regina Sofía, in entrambi i casi anche con un giuramento di bandiera. \nNella sua prima visita, l'allora erede al trono fu nominato \"Guardia Civile\" onoraria, per la quale gli fu consegnato un diploma e un cappello della Benemérita, in un atto in cui era accompagnato dall'allora ministro degli Interni, Alfredo Pérez Rubalcaba . \n&nbsp; \nLa nuova classe delle guardie civili è composta da 2.317 studenti, di cui 1.585 uomini e 732 donne. La visita di Felipe VI a Baeza si svolge in un contesto segnato dai due eventi che hanno coinvolto gli agenti della Guardia Civil negli ultimi due mesi.&nbsp;Il primo è avvenuto il 9 febbraio a Barbate (Cadice), dove due guardie civili sono morte dopo aver speronato una nave antidroga contro la motovedetta su cui si trovavano a bordo. \nIl 19 marzo, altri due agenti sono morti insieme ad altre quattro persone quando sono stati investiti da un camion mentre si trovavano a un posto di blocco sull'autostrada tra Cadice e Siviglia, vicino alla città sivigliana di Los Palacios.&nbsp;L'Accademia Baeza, creata nel 1945, è uno dei due centri educativi dove vengono formati gli agenti appartenenti ai ranghi dei sottufficiali, caporali e guardie dell'istituto armato. \n&nbsp;",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1712451621.273179,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "Felipe Iv for the first time at the oath of the Civil Guard",
+        "en_content": "AGI -&nbsp;<span>&nbsp;Felipe VI will participate for the first time in the oath of the new class of civil guards at the Baeza Academy (Jaén) next 12 April.&nbsp;</span>\n&nbsp;\nDon Felipe was Prince of the Academy of Guards and Sottufficials in April 2008, two years after King Juan Carlos and Queen Sofía had done so, in both cases even with a flag oath.\nIn his first visit, the then heir to the throne was named \"Civil Guard\" honorary, for which he was given a diploma and a hat of the Benemérita, in an act in which he was accompanied by the then Minister of Interior, Alfredo Pérez Rubalcaba .\n&nbsp;\nThe new class of civil guards consists of 2.317 students, including 1,585 men and 732 women. The visit of Felipe VI to Baeza takes place in a context marked by the two events that involved the Civil Guard agents in the last two months.&nbsp; The first took place on 9 February in Barbate (Cadice), where two civilian guards died after spurring an anti-drug ship against the motorvedetta on which they were on board.\nOn 19 March, two other agents died together with four other people when they were hit by a truck while they were at a blockade on the highway between Cadiz and Seville, near the city of Los Palacios.&nbsp; The Baeza Academy, created in 1945, is one of the two educational centers where the agents belonging to the ranks of the submarines, corporals and guards of the armed institute are formed.\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Felipe",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Iv",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "time",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "oath",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Civil",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Guard",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "first",
+                "start_char": 18,
+                "end_char": 23,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Civil Guard",
+                "start_char": 44,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "VI",
+                "start_char": 30,
+                "end_char": 32,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 58,
+                "end_char": 63,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Baeza Academy",
+                "start_char": 117,
+                "end_char": 134,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "next 12",
+                "start_char": 142,
+                "end_char": 149,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Don Felipe",
+                "start_char": 177,
+                "end_char": 187,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Academy of Guards and Sottufficials",
+                "start_char": 202,
+                "end_char": 241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "April 2008",
+                "start_char": 245,
+                "end_char": 255,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two years",
+                "start_char": 257,
+                "end_char": 266,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Juan Carlos",
+                "start_char": 278,
+                "end_char": 289,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Queen Sofía",
+                "start_char": 294,
+                "end_char": 305,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 363,
+                "end_char": 368,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Civil Guard",
+                "start_char": 415,
+                "end_char": 426,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Interior",
+                "start_char": 562,
+                "end_char": 570,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alfredo Pérez Rubalcaba",
+                "start_char": 572,
+                "end_char": 595,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2.317",
+                "start_char": 647,
+                "end_char": 652,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1,585",
+                "start_char": 673,
+                "end_char": 678,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "732",
+                "start_char": 687,
+                "end_char": 690,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Felipe VI",
+                "start_char": 711,
+                "end_char": 720,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Baeza",
+                "start_char": 724,
+                "end_char": 729,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 769,
+                "end_char": 772,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Civil Guard",
+                "start_char": 798,
+                "end_char": 809,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 829,
+                "end_char": 832,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 851,
+                "end_char": 856,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "9 February",
+                "start_char": 871,
+                "end_char": 881,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Barbate",
+                "start_char": 885,
+                "end_char": 892,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 909,
+                "end_char": 912,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "19 March",
+                "start_char": 1024,
+                "end_char": 1032,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 1034,
+                "end_char": 1037,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "four",
+                "start_char": 1070,
+                "end_char": 1074,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cadiz",
+                "start_char": 1171,
+                "end_char": 1176,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Seville",
+                "start_char": 1181,
+                "end_char": 1188,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Los Palacios.&nbsp",
+                "start_char": 1207,
+                "end_char": 1225,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Baeza Academy",
+                "start_char": 1227,
+                "end_char": 1244,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1945",
+                "start_char": 1257,
+                "end_char": 1261,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 1277,
+                "end_char": 1280,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Recuperato il corpo di un ostaggio israeliano ucciso durante la prigionia. La sorella \"poteva essere salvato\"",
+        "date_raw": "Sat, 06 Apr 2024 19:09:05 GMT",
+        "date": "2024-04-06",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-06/hamas-israele-trovato-corpo-ostaggio-sorella-accusa-governo-25938738/",
+        "subtitle": "",
+        "content": "AGI -&nbsp; Israele è obbligato \"a fare tutto, in modo creativo, persistente e con determinazione\", in suo potere per garantire il rilascio degli ostaggi ancora detenuti a Gaza. Lo scrive il Times of Israel attribuendo queste parole al presidente Isaac Herzog. \"Domani alle 6:29 ricorderemo i sei mesi dal brutale attacco terroristico e dal terribile massacro\", si legge, riferendosi all'ora esatta in cui Hamas ha iniziato a lanciare razzi su Israele la mattina del 7 ottobre. \"Sei mesi dopo il crimine contro le nostre sorelle e i nostri fratelli, contro il nostro Paese, contro l'umanità\", continua, definendo la guerra contro Hamas \"pesante nei giorni e pesante nel sangue\". \n&nbsp; \nSulla vicenda degli ostaggi,&nbsp; l'attenzione dei media è rivolta al caso di Elad Katzir, rapito da Hamas nel kibbutz Nir Oz il 7 ottobre scorso e ucciso durante la prigionia. Lo ha reso noto la sorella Carmit, annunciando con un post su Facebook che la morte dell'uomo è stata notificata alla famiglia e che il suo corpo, recuperato nella Striscia di Gaza nel corso di un raid, è stato riportato in Israele la notte scorsa. \"Il portavoce dell'Esercito non vi dirà che il premier, il governo e l'Idf non hanno alcuna idea di dove la maggioranza dei rapiti sono tenuti e se sono vivi o sono stati uccisi. Non vi dira' nemmeno che non hanno alcuna maniera di proteggerli, anche quando sappiano dove sono\", ha aggiunto la sorella di Katzir, sottolineando che il congiunto \"avrebbe potuto essere salvato se si fosse raggiunto un accordo in tempo utile\". La donna accusa il governo israeliano di \"codardia\": \"Guardatevi allo specchio e vedete se le vostre mani non grondano di quel sangue\". Anche la madre di Elad Katzir, Hanna, fu rapita da Hamas nel kibbutz Nir Oz il 7 ottobre e venne rilasciata il 24 novembre scorso in occasione del temporaneo cessate il fuoco mediato da Qatar e Stati Uniti. Il padre di Elad, invece, Rami Katzir, fu massacrato da Hamas durante il raid nel kibbutz.&nbsp; \n&nbsp; \nIntanto, si susseguono le manifestazioni antigovernative a Tel Aviv e Haifa così come i raduni piu' piccoli a livello nazionale, con la partecipazione di tantissime persone a Cesarea, Herzliya, Kfar Saba, Ràanana e Karkur. In particolare a Cesarea, dove i manifestanti chiedevano nuove elezioni e invitavano Benjamin Netanyahu a dimettersi, la polizia ha arrestato almeno una persona vicino alla residenza privata del premier. Nei video di quell'incidente, si vede la polizia trascinare la donna lontano da una recinzione dove i manifestanti contro il governo si erano riuniti alla fine di una marcia verso le barricate della polizia intorno alla residenza.&nbsp; \n&nbsp; \nIntanto, Hamas ha rifiutato di \"fare marcia indietro\" rispetto alle sue richieste per un cessate il fuoco a Gaza, ma ha accettato di inviare una delegazione per rinnovare i colloqui al Cairo questo fine settimana. \"Hamas conferma la sua adesione alla posizione presentata il 14 marzo e non ci tireremo indietro da questa posizione\", si legge in una nota del gruppo palestinese in cui si fa riferimento alle richieste, che includono un cessate il fuoco completo a Gaza e il ritiro delle forze israeliane da Gaza. Intanto, il ministero della sanità della Striscia di Gaza gestita da Hamas ha aggiornato il bilancio delle vittime della guerra: i morti hanno sono 33.137, di cui 46 nelle ultime 24 ore, e i feriti 75.815. &nbsp; \n.&nbsp;<br> &nbsp;",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1712451621.2732296,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "Recaptured the body of an Israeli hostage killed during the prisoner. The sister \"may be saved\"",
+        "en_content": "AGI -&nbsp; Israel is obliged to \"do everything, creatively, persistently and with determination\", in its power to ensure the release of hostages still held in Gaza. The Times of Israel writes this by giving these words to President Isaac Herzog. \"Today at 6:29 we will remember the six months from the brutal terrorist attack and the terrible massacre,\" we read, referring to the exact time in which Hamas began to launch rockets on Israel on the morning of October 7. \"You are months after the crime against our sisters and brothers, against our country, against humanity,\" he continues, calling the war against Hamas \"heavy in days and heavy in blood.\"\n&nbsp;\nOn the case of hostages, &nbsp; media attention is directed to the case of Elad Katzir, kidnapped by Hamas in the kibbutz Nir Oz on 7 October and killed during the captivity. His sister Carmit announced it, announcing with a Facebook post that the death of man was notified to the family and that his body, recovered in the Gaza Strip during a raid, was reported in Israel last night. \"The Army spokesman will not tell you that the PM, the government and the Idf have no idea where the majority of the kidnapped are kept and whether they are alive or have been killed. He won't even tell you that they have no way to protect them, even when they know where they are,\" added Katzir's sister, underlining that the joint \"would have been saved if they had reached a deal in good time.\" The woman accuses the Israeli government of \"codardy\": \"Look in the mirror and see if your hands don't dribble from that blood.\" Elad Katzir's mother, Hanna, was kidnapped by Hamas in the kibbutz Nir Oz on October 7 and was released on November 24 at the temporary ceasefire mediated by Qatar and the United States. Elad's father, Rami Katzir, was massacred by Hamas during the raid in the kibbutz.&nbsp;\n&nbsp;\nMeanwhile, anti-government demonstrations are held in Tel Aviv and Haifa as well as the smaller gatherings at national level, with the participation of many people in Cesarea, Herzliya, Kfar Saba, Ràanana and Karkur. In particular to Caesarea, where protesters demanded new elections and invited Benjamin Netanyahu to resign, the police arrested at least one person near the private residence of the premier. In the videos of that incident, you see the police dragging the woman away from a fence where protesters against the government gathered at the end of a march towards the police barricades around the residence.&nbsp;\n&nbsp;\nMeanwhile, Hamas refused to \"turn back\" over his demands for a ceasefire in Gaza, but agreed to send a delegation to renew talks in Cairo this weekend. \"Hamas confirms its adherence to the position presented on March 14 and will not draw us back from this position\", we read in a note of the Palestinian group in which reference is made to the demands, which include a complete ceasefire in Gaza and the withdrawal of Israeli forces from Gaza. Meanwhile, the Gaza Strip health ministry managed by Hamas updated the budget of the victims of the war: the dead have 33.137, of which 46 in the last 24 hours, and the wounded 75.815. &nbsp;\n.&nbsp;<br> &nbsp;",
+        "concepts": [
+            {
+                "word": "body",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hostage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "prisoner",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sister",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Israeli",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 12,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 160,
+                "end_char": 164,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Times of Israel",
+                "start_char": 166,
+                "end_char": 185,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Isaac Herzog",
+                "start_char": 233,
+                "end_char": 245,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Today",
+                "start_char": 248,
+                "end_char": 253,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "6:29",
+                "start_char": 257,
+                "end_char": 261,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the six months",
+                "start_char": 279,
+                "end_char": 293,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 401,
+                "end_char": 406,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 434,
+                "end_char": 440,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the morning",
+                "start_char": 444,
+                "end_char": 455,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "October 7",
+                "start_char": 459,
+                "end_char": 468,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "months",
+                "start_char": 479,
+                "end_char": 485,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 614,
+                "end_char": 619,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "days",
+                "start_char": 630,
+                "end_char": 634,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Elad Katzir",
+                "start_char": 738,
+                "end_char": 749,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 764,
+                "end_char": 769,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nir Oz",
+                "start_char": 785,
+                "end_char": 791,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7 October",
+                "start_char": 795,
+                "end_char": 804,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Carmit",
+                "start_char": 849,
+                "end_char": 855,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 983,
+                "end_char": 997,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 1029,
+                "end_char": 1035,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last night",
+                "start_char": 1036,
+                "end_char": 1046,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Army",
+                "start_char": 1053,
+                "end_char": 1057,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Katzir",
+                "start_char": 1337,
+                "end_char": 1343,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1468,
+                "end_char": 1475,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Elad Katzir's",
+                "start_char": 1575,
+                "end_char": 1588,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hanna",
+                "start_char": 1597,
+                "end_char": 1602,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 1621,
+                "end_char": 1626,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nir Oz",
+                "start_char": 1642,
+                "end_char": 1648,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "October 7",
+                "start_char": 1652,
+                "end_char": 1661,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "November 24",
+                "start_char": 1682,
+                "end_char": 1693,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Qatar",
+                "start_char": 1733,
+                "end_char": 1738,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United States",
+                "start_char": 1743,
+                "end_char": 1760,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Elad",
+                "start_char": 1762,
+                "end_char": 1766,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rami Katzir",
+                "start_char": 1777,
+                "end_char": 1788,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 1807,
+                "end_char": 1812,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "kibbutz.&nbsp",
+                "start_char": 1836,
+                "end_char": 1849,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tel Aviv",
+                "start_char": 1912,
+                "end_char": 1920,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Haifa",
+                "start_char": 1925,
+                "end_char": 1930,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cesarea",
+                "start_char": 2025,
+                "end_char": 2032,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Herzliya",
+                "start_char": 2034,
+                "end_char": 2042,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kfar Saba",
+                "start_char": 2044,
+                "end_char": 2053,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ràanana",
+                "start_char": 2055,
+                "end_char": 2062,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Karkur",
+                "start_char": 2067,
+                "end_char": 2073,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Caesarea",
+                "start_char": 2092,
+                "end_char": 2100,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Benjamin Netanyahu",
+                "start_char": 2154,
+                "end_char": 2172,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "at least one",
+                "start_char": 2204,
+                "end_char": 2216,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the end of a march",
+                "start_char": 2407,
+                "end_char": 2425,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 2502,
+                "end_char": 2507,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 2567,
+                "end_char": 2571,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cairo",
+                "start_char": 2623,
+                "end_char": 2628,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "this weekend",
+                "start_char": 2629,
+                "end_char": 2641,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 2644,
+                "end_char": 2649,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "March 14",
+                "start_char": 2702,
+                "end_char": 2710,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 2783,
+                "end_char": 2794,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 2882,
+                "end_char": 2886,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 2909,
+                "end_char": 2916,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 2929,
+                "end_char": 2933,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 2946,
+                "end_char": 2960,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 2988,
+                "end_char": 2993,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "33.137",
+                "start_char": 3054,
+                "end_char": 3060,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "46",
+                "start_char": 3071,
+                "end_char": 3073,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the last 24 hours",
+                "start_char": 3077,
+                "end_char": 3094,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "75.815",
+                "start_char": 3112,
+                "end_char": 3118,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "In migliaia in piazza a Budapest contro Orban",
+        "date_raw": "Sat, 06 Apr 2024 16:43:29 GMT",
+        "date": "2024-04-06",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-06/budapest-proteste-piazza-orban-25937081/",
+        "subtitle": "",
+        "content": "AGI - Decine di migliaia di persone hanno protestato a Budapest contro il primo ministro ungherese, l'ultranazionalista Viktor Orban, in una manifestazione convocata da Peter Magyar, avvocato fino a poco tempo fa vicino al governo, e che ora vuole lanciare un suo partito e denuncia il \"potere corrotto\" del Paese. \"Oggi la nazione ungherese ha inviato un messaggio al potere dicendo che è troppo\",> ha dichiarato Magyar arringando la folla che riempiva la centrale piazza Kossuth a Budapest, di fronte al palazzo del Parlamento, affermando che il governo \"ha paura\" di vedere l'unita' degli ungheresi. \"Lasciamo che restituiscano il potere al popolo\", ha esclamato il politico al termine della cosiddetta \"Marcia Nazionale\" da lui stesso indetta, aggiungendo che passo dopo passo gli ungheresi riconquisteranno l'Ungheria e costruiranno un Paese moderno, libero e democratico. \n&nbsp; \n<div></div> \n&nbsp; \nMagyar è emerso in politica due mesi fa come dissidente del regime di Orban >e oggi ha promesso che parteciperà alle elezioni europee con una formazione ancora non precisata. Fino a tre mesi fa è stato membro dei consigli di amministrazione di diverse aziende statali e ha lavorato come avvocato nella rappresentanza ungherese presso l'Unione europea. Due settimane fa, l'avvocato ha rivelato una registrazione in cui la sua ex moglie ed ex ministro della Giustizia, Judit Varga, afferma che l'entourage di Orban ha esercitato pressioni per nascondere le prove di casi di corruzione che hanno colpito membri dell'esecutivo. Sulle sue parole è stata aperta un'inchiesta \n&nbsp; \nMagyar ha rilasciato la sua prima intervista due mesi fa quando uno scandalo politico ha portato l'ex moglie a dimettersi dagli incarichi politici, dopo che era emerso che l'anno scorso, mentre era ancora ministra, aveva firmato l'indulto concesso dall'allora presidente del Paese, Katalin Novak, a un uomo che aveva coperto atti di pedofilia. In realtà, era stato Orba'n a volere la grazia. Magyar ha assicurato di non voler far parte di un sistema in cui, ha detto, \"i veri autori si nascondono dietro le gonne delle donne\". \n&nbsp;",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1712451621.2732584,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "In thousands in the square in Budapest against Orban",
+        "en_content": "AGI - Tens of thousands of people protested in Budapest against the Hungarian Prime Minister, the ultranationalist Viktor Orban, in a demonstration convened by Peter Magyar, a lawyer until recently near the government, and who now wants to launch his party and denounces the \" corrupt power\" of the country. \"Today the Hungarian nation sent a message to power saying that it's too much,\" said Magyar by enlisting the crowd that filled the central Kossuth Square in Budapest, in front of the Parliament building, stating that the government \"fear\" to see the Hungarian unit. \"Let the politician return power to the people,\" he exclaimed at the end of the so-called \"National March\" he himself announced, adding that step by step the Hungarians will regain Hungary and build a modern, free and democratic country.\n&nbsp;\n<div </div\n&nbsp;\nMagyar emerged in politics two months ago as a dissident of the Orban regime today promised that he will participate in the European elections with an unspecified training. Up to three months ago he was a member of the board of directors of several state companies and worked as a lawyer in the Hungarian representation at the European Union. Two weeks ago, the lawyer revealed a recording in which his ex-wife and former Justice Minister, Judit Varga, said that Orban's entourage exerted pressure to hide evidence of cases of corruption that struck members of the executive. An inquiry was opened on his words\n&nbsp;\nMagyar released his first interview two months ago when a political scandal led the ex-wife to resign from political assignments, after it had emerged that last year, while he was still a minister, he signed the indulgence granted by the then president of the country, Katalin Novak, to a man who had covered acts of pedophilia. Actually, it was Orba'n who wanted grace. Magyar assured that he did not want to be part of a system in which, he said, \"the real authors hide behind the skirts of women\".\n&nbsp;",
+        "concepts": [
+            {
+                "word": "thousands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "square",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Budapest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Orban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "thousands",
+                "start_char": 3,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 30,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Orban",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Budapest",
+                "start_char": 47,
+                "end_char": 55,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 68,
+                "end_char": 77,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Viktor Orban",
+                "start_char": 115,
+                "end_char": 127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Peter Magyar",
+                "start_char": 160,
+                "end_char": 172,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Today",
+                "start_char": 309,
+                "end_char": 314,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 319,
+                "end_char": 328,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Magyar",
+                "start_char": 393,
+                "end_char": 399,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kossuth Square",
+                "start_char": 447,
+                "end_char": 461,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Budapest",
+                "start_char": 465,
+                "end_char": 473,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 491,
+                "end_char": 501,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 558,
+                "end_char": 567,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the end of the",
+                "start_char": 639,
+                "end_char": 653,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hungarians",
+                "start_char": 732,
+                "end_char": 742,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 755,
+                "end_char": 762,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Magyar",
+                "start_char": 837,
+                "end_char": 843,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two months ago",
+                "start_char": 864,
+                "end_char": 878,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Orban",
+                "start_char": 901,
+                "end_char": 906,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 914,
+                "end_char": 919,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 961,
+                "end_char": 969,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Up to three months ago",
+                "start_char": 1010,
+                "end_char": 1032,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 1132,
+                "end_char": 1141,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the European Union",
+                "start_char": 1160,
+                "end_char": 1178,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Two weeks ago",
+                "start_char": 1180,
+                "end_char": 1193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Judit Varga",
+                "start_char": 1277,
+                "end_char": 1288,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Orban",
+                "start_char": 1300,
+                "end_char": 1305,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Magyar",
+                "start_char": 1455,
+                "end_char": 1461,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two months ago",
+                "start_char": 1491,
+                "end_char": 1505,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "last year",
+                "start_char": 1611,
+                "end_char": 1620,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Katalin Novak",
+                "start_char": 1724,
+                "end_char": 1737,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Magyar",
+                "start_char": 1826,
+                "end_char": 1832,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Crolla la diga di Orsk in Russia per ritardi nella manutenzione, più di 4.000 persone evacuate",
+        "date_raw": "Sat, 06 Apr 2024 14:37:35 GMT",
+        "date": "2024-04-06",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-06/russia-diga-crollata-negli-urali-per-ritardi-manutenzione-25933650/",
+        "subtitle": "",
+        "content": "AGI - La diga crollata a Orsk>, nella zona russa degli Urali, ha ceduto a causa di ritardi nella manutenzione. Lo ha fatto sapere l'ufficio del procuratore regionale che sta indagando sul crollo, che ha provocato tre morti, al momento, oltre all'evacuazione di 4.208 le persone (tra cui 1.019 bambini) e all'inondazione di oltre 2.500 case. Gli evacuati sono stati indirizzati \"verso i centri di accoglienza temporanei. \"La diga è crollata il 5 aprile 2024,> perché le misure volte a mantenere in buono stato tecnico le sue attrezzature idrotecniche non sono state prese in tempo\", ha detto la procura. \nLa struttura era stata messa in funzione nel 2010. \"Le filiali dell'Autorità statale di supervisione tecnica hanno identificato in precedenza le violazioni nella manutenzione della diga e sono state inviate note all'autorità competente in merito\", ha detto l'ufficio del procuratore. \n<div></div> \n&nbsp; \nIn particolare, proprio nel mese scorso la procura ha inviato al primo vicesindaco di Orsk \"un avvertimento sull'inammissibilità della violazione della legge sulla protezione della popolazione e dei territori dalle situazioni di emergenza naturali e provocate dall'uomo\". Due giorni fa nella regione di Orenburg era stato dichiarato lo stato di emergenza a causa del peggioramento della situazione delle inondazioni, sono state dislocate in totale 495 strutture di alloggio temporanee con una capacita' di oltre 82.300 persone.&nbsp;Le autorita' regionali, dal canto loro, hanno citato anche lo scioglimento delle nevi che provoca \"l'innalzamento\" dei fiumi della regione - compresi gli Urali - come ulteriore \"motivo\" delle inondazioni. \"Il livello dell'acqua (del fiume Ural) continuera' a salire\", ha avvertito il sindaco della citta' di Orenburg, Sergei Salmine. \"Il livello potrebbe raggiungere una soglia critica\", ha aggiunto, invitando \"tutti a lasciare immediatamente le case situate nella zona alluvionata\" prima di dover usare la \"forza\". Le inondazioni dovute allo scioglimento delle nevi colpiscono anche il Kazakistan, paese confinante con la Russia. In un discorso alla nazione, il presidente Kassym-Jomart Tokayev ha parlato di \"un disastro naturale\", \"forse il piu' grande, in termini di dimensioni e conseguenze, degli ultimi 80 anni\".&nbsp; \n&nbsp;",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1712451621.2732828,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "Croll the dam of Orsk in Russia for maintenance delays, more than 4,000 evacuated people",
+        "en_content": "AGI - The dam collapsed in Orsk>, in the Russian Ural area, has yielded due to delays in maintenance. The regional prosecutor's office is investigating the collapse, which caused three deaths, at the moment, in addition to the evacuation of 4.208 people (including 1,019 children) and the flooding of over 2,500 homes. The evacuates were addressed \"to temporary reception centers. \"The dam collapsed on 5 April 2024, > because the measures aimed at maintaining in good technical state its hydrotechnical equipment were not taken in time,\" said the prosecutor.\nThe structure was set up in 2010. \"The branches of the State Technical Supervisory Authority have previously identified breaches in the maintenance of the dam and have been sent notes to the competent authority on this,\" said the prosecutor's office.\n<div </div\n&nbsp;\nIn particular, in the last month the prosecutor sent to the first deputy mayor of Orsk \"a warning about the inadmissibility of the violation of the law on the protection of the population and the territories from the situations of natural emergency and caused by man\". Two days ago the state of emergency was declared in the Orenburg region because of the deterioration of the flood situation, 495 temporary accommodation facilities were deployed in total with a capacity of more than 82,300 people.&nbsp; the regional authorities, for their part, also cited the dissolution of the snows that cause \"the rise\" of the rivers of the region - including the Urals. \"The level of water (of the Ural River) will continue to rise,\" warned the mayor of the city of Orenburg, Sergei Salmine. \"The level could reach a critical threshold,\" he added, inviting \"all to leave immediately the houses located in the flooded area\" before having to use the \"force\". The floods due to the dissolution of snow also affect Kazakhstan, a country bordering Russia. In a speech to the nation, President Kassym-Jomart Tokayev spoke of \"a natural disaster\", \"perhaps the largest, in terms of size and consequences, of the last 80 years\".&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "dam",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Orsk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Russia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "maintenance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "delays",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Croll",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Orsk",
+                "start_char": 17,
+                "end_char": 21,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 25,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than 4,000",
+                "start_char": 56,
+                "end_char": 71,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Orsk",
+                "start_char": 27,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three",
+                "start_char": 179,
+                "end_char": 184,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4.208",
+                "start_char": 241,
+                "end_char": 246,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1,019",
+                "start_char": 265,
+                "end_char": 270,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "over 2,500",
+                "start_char": 301,
+                "end_char": 311,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "5 April 2024",
+                "start_char": 403,
+                "end_char": 415,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2010",
+                "start_char": 588,
+                "end_char": 592,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the State Technical Supervisory Authority",
+                "start_char": 611,
+                "end_char": 652,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the last month",
+                "start_char": 847,
+                "end_char": 861,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 889,
+                "end_char": 894,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Orsk",
+                "start_char": 911,
+                "end_char": 915,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Two days ago",
+                "start_char": 1098,
+                "end_char": 1110,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Orenburg",
+                "start_char": 1154,
+                "end_char": 1162,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "495",
+                "start_char": 1223,
+                "end_char": 1226,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "more than 82,300",
+                "start_char": 1304,
+                "end_char": 1320,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Urals",
+                "start_char": 1483,
+                "end_char": 1488,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Ural River",
+                "start_char": 1514,
+                "end_char": 1528,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Orenburg",
+                "start_char": 1586,
+                "end_char": 1594,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sergei Salmine",
+                "start_char": 1596,
+                "end_char": 1610,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kazakhstan",
+                "start_char": 1831,
+                "end_char": 1841,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1863,
+                "end_char": 1869,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kassym-Jomart Tokayev",
+                "start_char": 1908,
+                "end_char": 1929,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last 80",
+                "start_char": 2021,
+                "end_char": 2032,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "years\".&nbsp",
+                "start_char": 2033,
+                "end_char": 2045,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Esplode un ordigno, 7 bambini uccisi nel sud della Siria",
+        "date_raw": "Sat, 06 Apr 2024 14:34:18 GMT",
+        "date": "2024-04-06",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-06/siria-esplosione-uccide-7-bambini-nel-sud-25936085/",
+        "subtitle": "",
+        "content": "AGI - Sette bambini sono stati uccisi sabato nella provincia di Daraa, nel Sud della Siria, quando un \"ordigno\" è esploso, hanno riferito i media statali. \"Sette bambini\" sono stati uccisi \"e altre due persone sono rimaste ferite, tra cui una donna, quando un ordigno esplosivo piazzato dai terroristi\" è esploso nella città di Sanamayn, ha riferito l'agenzia di stampa statale Sana, citando una fonte della polizia. L'Osservatorio siriano per i diritti umani ha fornito un bilancio diverso, affermando che \"otto bambini di età diverse sono stati uccisi e un altro è rimasto ferito\" nell'esplosione. \nSecondo l'Osservatorio, con sede in Gran Bretagna, le milizie sono state accusate di aver piazzato l'ordigno allo scopo di prendere di mira una persona non identificata nella zona. Daraa è stata la culla della rivolta del 2011 contro il governo del presidente Bashar al-Assad, ma è stata restituita al controllo del governo nel 2018 in base a un accordo di cessate il fuoco sostenuto dalla Russia. Da allora la provincia è stata tormentata da omicidi, scontri e condizioni di vita terribili. La guerra in Siria, che si è trasformata in un conflitto mortale che ha coinvolto jihadisti ed eserciti stranieri, ha ucciso più di 507.000 persone, milioni di sfollati e ha colpito le infrastrutture e l'industria del Paese.&nbsp;",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1712451621.273306,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "Explodes an ordigna, 7 children killed in southern Syria",
+        "en_content": "AGI - Seven children were killed Saturday in the province of Daraa, in southern Syria, when a \"ordigno\" exploded, state media reported. \"Seven children\" were killed \"and two other people were injured, including a woman, when an explosive device placed by terrorists\" exploded in the city of Sanamayn, reported the Sana state press agency, citing a police source. The Syrian Observatory for Human Rights provided a different budget, stating that \" eight different children were killed and another was injured\" in the explosion.\nAccording to the Observatory, based in Britain, militias were accused of placing the device in order to target an unidentified person in the area. Daraa was the cradle of the 2011 revolt against the government of President Bashar al-Assad, but was returned to government control in 2018 under a ceasefire agreement supported by Russia. Since then the province has been tormented by murders, clashes and terrible living conditions. The war in Syria, which turned into a deadly conflict that involved jihadists and foreign armies, killed more than 507,000 people, millions of displaced people and hit the infrastructure and industry of the country.&nbsp;",
+        "concepts": [
+            {
+                "word": "ordigna",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Syria",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "7",
+                "start_char": 21,
+                "end_char": 22,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Syria",
+                "start_char": 51,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Seven",
+                "start_char": 6,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 33,
+                "end_char": 41,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Daraa",
+                "start_char": 61,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syria",
+                "start_char": 80,
+                "end_char": 85,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Seven",
+                "start_char": 137,
+                "end_char": 142,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 170,
+                "end_char": 173,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sanamayn",
+                "start_char": 291,
+                "end_char": 299,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sana",
+                "start_char": 314,
+                "end_char": 318,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Syrian Observatory for Human Rights",
+                "start_char": 363,
+                "end_char": 402,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "eight",
+                "start_char": 447,
+                "end_char": 452,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Observatory",
+                "start_char": 544,
+                "end_char": 555,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Britain",
+                "start_char": 566,
+                "end_char": 573,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2011",
+                "start_char": 702,
+                "end_char": 706,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bashar al-Assad",
+                "start_char": 750,
+                "end_char": 765,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2018",
+                "start_char": 809,
+                "end_char": 813,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russia",
+                "start_char": 855,
+                "end_char": 861,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syria",
+                "start_char": 969,
+                "end_char": 974,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than 507,000",
+                "start_char": 1063,
+                "end_char": 1080,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "millions",
+                "start_char": 1089,
+                "end_char": 1097,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "In India ‘Una bici per la scuola', quando pedalare rende libere  ",
+        "date_raw": "Sat, 06 Apr 2024 12:20:41 GMT",
+        "date": "2024-04-06",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-06/biciclette-alle-bambine-per-andare-a-scuola-progetto-interlife-in-india-25924881/",
+        "subtitle": "",
+        "content": "<span><span><span><span><span>AGI - Arul Princiya vive nel villaggio indiano di S. Kamatchipuram e ogni giorno percorre otto chilometri a piedi per raggiungere la scuola più vicina. Rekha, invece, parte da Hanumantharayankottai e può considerarsi quasi fortunata. La sua scuola dista dieci chilometri, ma ne deve fare a piedi ‘solamente' tre per arrivare alla fermata dell'autobus. E non c'è solo la fatica. Durante il tragitto, queste ragazze, come altre loro coetanee, rischiano di essere violentate o rapite. Distanza e pericoli, però, non spengono il desiderio di studiare. A loro si rivolge oggi ‘Una bici per la scuola', il progetto di Interlife in India che dona biciclette alle bambine per garantire loro la possibilità di raggiungere la scuola senza paure. Affrontare da sole il tragitto a piedi, oltre che stancante, è anche molto rischioso. Ecco perché&nbsp;la bicicletta diventa per queste bambine un mezzo per spostarsi in velocità e sicurezza. In definitiva, uno strumento di libertà ed emancipazione.</span></span></span></span></span>&nbsp;<span><span><span><span><span>Il progetto di Interlife prevede una raccolta fondi per donare 500 biciclette a bambine&nbsp;indiane, parallelamente a un vero e proprio viaggio in bici del fotografo e regista Virginio Favale&nbsp;che attraverserà le aree rurali più povere dello Stato meridionale del Tamil Nadu, dove Interlife opera dal 2008. Il&nbsp;viaggio, che prenderà il via proprio nei prossimi giorni, sarà l'occasione per realizzare il documentario ‘Passaggio in India' che racconterà la vita delle bambine beneficiarie di ‘Una bici per la scuola'.&nbsp;Il percorso di Favale girerà tutto intorno alle bambine e al loro quotidiano. Un viaggio visivo alla ricerca di volti, mani che lavorano, sguardi pieni di dignità, tempo che scorre.</span></span></span></span></span> \n&nbsp; \n<div></div> \n&nbsp; \n<span><span><span><span><span>“Siamo molto contenti che Virginio Favale potrà documentare attraverso il suo tour l'importanza del nostro progetto - spiega all'AGI&nbsp;Giorgia Gambini, presidente di Interlife – raccontando così le tante storie che stanno dietro la donazione di una bicicletta, le tante bambine per cui la bici non è un semplice mezzo di trasporto ma diviene un grande strumento di libertà. È necessario però continuare ad andare avanti tutti insieme in questo viaggio su due ruote e pedali – esorta ancora la presidente -, per poter continuare a donare altre bici ad altri bambini e bambine. Il nostro obiettivo è raggiungere 500 biciclette”.&nbsp;</span></span></span></span></span>&nbsp;<span><span><span><span><span>“Le ruote e i pedali sono come un meccanismo inceppato che, con il giusto lubrificante, ricomincia a girare - commenta Virginio Favale -. In questo progetto hanno proprio questo valore. Di colpo tutto gira. Prima lentamente, per poi diventare motore di energia e nuove possibilità”. A volte, il futuro inizia con una pedalata.</span></span></span></span></span> \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1712451621.2733288,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "In India ‘A bike for school’, when pedaling makes free",
+        "en_content": "<span><span><span><span>AGI - Arul Princiya lives in the Indian village of S. Kamatchipuram and every day travels eight kilometers on foot to reach the nearest school. Rekha, instead, departs from Hanumantharayankottai and can be considered almost lucky. His school is ten kilometers away, but he has to walk 'only' three to get to the bus stop. And there's not only fatigue. On the way, these girls, like other peers, are likely to be raped or kidnapped. Distance and dangers, however, do not turn out the desire to study. To them is addressed today 'A bike for the school', the project of Interlife in India that gives bikes to the girls to ensure they can reach the school without fear. Face the journey alone, as well as tired, is also very risky. This is why &nbsp; the bike becomes a means for these girls to move in speed and safety. Ultimately, an instrument of freedom and emancipation. </span </span </span </span </span > > > > > > > > < > > > > > < > > > < > > > < > > > < > > > < > > > > > > > > > > < > > > > > > > > > > > > > < > > > > > > > > > > > > < > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > The Interlife project provides a fundraiser to donate 500 bikes to girls &nbsp; Indians, parallel to a real bike trip by photographer and director Virginio Favale&nbsp; who will cross the poorest rural areas of the southern state of Tamil Nadu, where Interlife has been operating since 2008. The &nbsp;viaggio, which will take its way in the coming days, will be the opportunity to realize the documentary 'Passage in India' that will tell the life of the girls beneficiaries of 'A bike for the school'.&nbsp; The path of Favale will turn everything around the girls and their daily life. A visual journey in search of faces, hands working, eyes full of dignity, time flowing.</span></span></span></span></span>\n&nbsp;\n<div </div\n&nbsp;\n<span><span><span><span>“We are very pleased that Virginio Favale will be able to document through his tour the importance of our project - explains to AGI&nbsp;Giorgia Gambini, president of Interlife - thus telling the many stories behind the donation of a bicycle, the many girls for which the bike is not a simple means of transport but becomes a great tool of freedom. It is necessary, however, to continue to move forward all together on this journey on two wheels and pedals – the president still exhorts – in order to continue to donate other bikes to other children and girls. Our goal is to reach 500 bikes.” &nbsp;</span></span></span></span></span> &nbsp;<span><span><span> <span>«The wheels and pedals are like a jammed mechanism that, with the right lubricant, starts turning - comments Virginio Favale -. In this project they have this value. Suddenly everything turns. First slowly, then become an engine of energy and new possibilities.” Sometimes the future begins with a pedal.</span></span></span>/span></span>\n&nbsp;\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bike",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "India",
+                "start_char": 3,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Indian",
+                "start_char": 57,
+                "end_char": 63,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "S. Kamatchipuram",
+                "start_char": 75,
+                "end_char": 91,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "eight kilometers",
+                "start_char": 114,
+                "end_char": 130,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Hanumantharayankottai",
+                "start_char": 197,
+                "end_char": 218,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ten kilometers",
+                "start_char": 269,
+                "end_char": 283,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "today",
+                "start_char": 545,
+                "end_char": 550,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Interlife",
+                "start_char": 591,
+                "end_char": 600,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "India",
+                "start_char": 604,
+                "end_char": 609,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "500",
+                "start_char": 1221,
+                "end_char": 1224,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Indians",
+                "start_char": 1247,
+                "end_char": 1254,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Virginio",
+                "start_char": 1314,
+                "end_char": 1322,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tamil Nadu",
+                "start_char": 1400,
+                "end_char": 1410,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Interlife",
+                "start_char": 1418,
+                "end_char": 1427,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2008",
+                "start_char": 1453,
+                "end_char": 1457,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The &nbsp;viaggio",
+                "start_char": 1459,
+                "end_char": 1476,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the coming days",
+                "start_char": 1505,
+                "end_char": 1520,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "India",
+                "start_char": 1585,
+                "end_char": 1590,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Favale",
+                "start_char": 1689,
+                "end_char": 1695,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Virginio Favale",
+                "start_char": 1954,
+                "end_char": 1969,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gambini",
+                "start_char": 2073,
+                "end_char": 2080,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Interlife",
+                "start_char": 2095,
+                "end_char": 2104,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 2363,
+                "end_char": 2366,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "500",
+                "start_char": 2510,
+                "end_char": 2513,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Virginio Favale -.",
+                "start_char": 2704,
+                "end_char": 2722,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "First",
+                "start_char": 2788,
+                "end_char": 2793,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Ancora droni russi sull'Ucraina. Nella notte nuovo attacco su Kharkiv, 6 morti",
+        "date_raw": "Sat, 06 Apr 2024 05:32:59 GMT",
+        "date": "2024-04-06",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-06/ucraina-attacco-russo-con-droni-25931383/",
+        "subtitle": "",
+        "content": "GI - Un attacco notturno di droni russi contro Kharkiv, la seconda città più grande dell'Ucraina, ha ucciso sei persone e ne ha ferite altre 10. Lo ha riferito il sindaco della città. \"A partire da questa mattina, ci sono sei morti e 10 feriti a seguito dello sciopero notturno nel distretto di Shevchenkivskyi\", ha detto il sindaco di Kharkiv Igor Terekhov in un post su Telegram, riferendosi alla zona settentrionale della città.&nbsp;",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1712451621.2733607,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "Still Russian drones on Ukraine. In the new night attack on Kharkiv, 6 dead",
+        "en_content": "GI - A night attack of Russian drones against Kharkiv, Ukraine's second largest city, killed six people and wounded 10 more. The mayor of the city reported it. \"Since this morning, there are six dead and 10 wounded following the night strike in the district of Shevchenkivskyi\", said the mayor of Kharkiv Igor Terekhov in a post on Telegram, referring to the northern part of the city.&nbsp;",
+        "concepts": [
+            {
+                "word": "drones",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "night",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Kharkiv",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Russian",
+                "start_char": 6,
+                "end_char": 13,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 24,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 60,
+                "end_char": 67,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "6",
+                "start_char": 69,
+                "end_char": 70,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "GI",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 23,
+                "end_char": 30,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kharkiv,",
+                "start_char": 46,
+                "end_char": 54,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 55,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "six",
+                "start_char": 93,
+                "end_char": 96,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 116,
+                "end_char": 118,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "this morning",
+                "start_char": 167,
+                "end_char": 179,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "six",
+                "start_char": 191,
+                "end_char": 194,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 204,
+                "end_char": 206,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Shevchenkivskyi",
+                "start_char": 261,
+                "end_char": 276,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv Igor Terekhov",
+                "start_char": 297,
+                "end_char": 318,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Telegram",
+                "start_char": 332,
+                "end_char": 340,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "New York, il chatbot del Comune invita a violare la legge",
+        "date_raw": "Fri, 05 Apr 2024 23:43:00 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-05/new-york-chatbot-del-comune-invita-a-violare-la-legge-25919252/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Il sindaco di New York Eric Adams> ha difeso l'intelligenza artificiale utilizzata dai servizi municipali finita sotto accusa per aver fornito alle attività commerciali consigli che infrangevano la legge. Lanciato a ottobre come progetto pilota, il chatbot MyCity >è stato presentato come un software \"affidabile\" a cui chiedere consigli su come portare avanti le attività economiche, ma all'atto pratico sarebbe caduto in una serie di errori marchiani e da codice civile. Giornalisti del sito investigativo The Markup hanno segnalato, la settimana scorsa, la presenza di alcune risposte sbagliate fornite agli utenti: in una MyCity considerava valida la possibilità di tagliare le mance ai dipendenti e affermava l'assenza di obblighi del datore di lavoro nel pre-avvertire i dipendenti dei cambiamenti nei turni di lavoro. In entrambi i casi, non era vero.&nbsp; \n&nbsp; \nInoltre il chatbot ha detto che i negozianti potevano accettare solo pagamenti con carte, in realtà violando una legge municipale che dal 2020 obbliga le attività ad accettare anche i pagamenti in contanti. In un'altra risposta il chatbot non è apparso neanche granché&nbsp;aggiornato: ha parlato di paga minima oraria di 15 dollari, quando da quest'anno è salita a 16. \n&nbsp; \n\"Ci sono stati errori - ha spiegato il sindaco - ma li abbiamo risolti. \"Ogni volta ti affidi alla tecnologia - ha aggiunto, parlando ai giornalisti - hai bisogno di metterlo alla prova nella vita reale per oliare i meccanismi\". \n&nbsp; \nIl chatbot utilizza il sistema Azure di Microsoft >e presenta problemi come tutte le intelligenze artificiali, che al momento cadono ancora in contraddizione. Non tutte le risposte, generalmente, sono precise, ma nel caso di attività commerciali la ricaduta degli errori può essere pesante, non solo sulla vita dei diretti interessati, ma anche per motivi legali. Nel frattempo sul sito è apparsa una nuova avvertenza in cui si segnala che il robot \"potrebbe fornire a volte risposte non accurate o incomplete\" e si invitano gli imprenditori a \"non utilizzare le sue risposte come consigli legali o professionali\". \n&nbsp; \nDi fatto, senza la certezza dell'affidabilità è consigliabile tenersi alla larga. Adams è sempre stato un sostenitore dell'utilizzo di tecnologie non testate, ma il suo ottimismo non è sempre stato ripagato dai risultati. L'anno scorso il sindaco aveva autorizzato l'impiego alla stazione della metropolitana di Times Square di un robot di quasi duecento chili per dare una mano alla polizia a contrastare il crimine, ma l'esperimento è stato bloccato dopo appena cinque mesi. Centinaia di pendolari avevano segnalato come il robot se ne stesse fermo a non fare niente tutto il giorno e fosse incapace di utilizzare le scale.&nbsp;",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1712451621.2733867,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "New York City chatbot invites you to violate the law",
+        "en_content": "AGI -&nbsp; New York mayor Eric Adams> defended the artificial intelligence used by the municipal services charged for providing business councils that broke the law. Launched in October as a pilot project, the chatbot MyCity > was presented as a \"reliable\" software to ask for advice on how to carry out economic activities, but at practical time it would fall into a series of Marche errors and civil code. Journalists of the website The Markup reported, last week, the presence of some wrong answers provided to users: in a MyCity considered the possibility of cutting tips to employees and asserted the absence of employers' obligations in pre-adverting employees of changes in work shifts. In both cases, it was not true.&nbsp;\n&nbsp;\nThe chatbot also said that retailers could only accept card payments, in fact violating a municipal law that from 2020 obliges businesses to accept cash payments. In another answer the chatbot did not appear even much &nbsp; added: he spoke of minimum hourly pay of 15 dollars, when from this year he climbed to 16.\n&nbsp;\n\"There were mistakes - the mayor explained - but we solved them. \"Every time you rely on technology - he added, speaking to journalists - you need to test it in real life to oil mechanisms.\"\n&nbsp;\nThe chatbot uses Microsoft's Azure system >e has problems like all artificial intelligences, which at the moment still fall in contradiction. Not all answers, generally, are accurate, but in the case of commercial activity the relapse of errors can be heavy, not only on the lives of the direct concerned, but also for legal reasons. In the meantime, a new warning appeared on the site in which it is reported that the robot \"would provide sometimes non-accuracy or incomplete answers\" and invite entrepreneurs to \"not use its answers as legal or professional advice\".\n&nbsp;\nIn fact, without the certainty of reliability it is advisable to stay away. Adams has always been a supporter of the use of untested technologies, but his optimism has not always been repaid by the results. Last year the mayor had authorized the use of a robot of nearly 200 kilos to help the police fight crime, but the experiment was blocked after just five months. Hundreds of commuters had reported how the robot stopped doing nothing all day and was unable to use the stairs.&nbsp;",
+        "concepts": [
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "City",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chatbot",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "New York City",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "New York",
+                "start_char": 12,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Eric Adams",
+                "start_char": 27,
+                "end_char": 37,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "October",
+                "start_char": 179,
+                "end_char": 186,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "MyCity",
+                "start_char": 219,
+                "end_char": 225,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Marche",
+                "start_char": 379,
+                "end_char": 385,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Markup",
+                "start_char": 440,
+                "end_char": 446,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "last week",
+                "start_char": 457,
+                "end_char": 466,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "MyCity",
+                "start_char": 527,
+                "end_char": 533,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2020",
+                "start_char": 854,
+                "end_char": 858,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "15 dollars",
+                "start_char": 1006,
+                "end_char": 1016,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "this year",
+                "start_char": 1028,
+                "end_char": 1037,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16",
+                "start_char": 1052,
+                "end_char": 1054,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Microsoft",
+                "start_char": 1278,
+                "end_char": 1287,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Last year",
+                "start_char": 2044,
+                "end_char": 2053,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "nearly 200",
+                "start_char": 2101,
+                "end_char": 2111,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "just five months",
+                "start_char": 2187,
+                "end_char": 2203,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hundreds",
+                "start_char": 2205,
+                "end_char": 2213,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "all day",
+                "start_char": 2276,
+                "end_char": 2283,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Sud Corea alle urne, un indebolito Yoon cerca di risalire la china",
+        "date_raw": "Fri, 05 Apr 2024 23:17:00 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-05/corea-sud-elezioni-yoon-25920377/",
+        "subtitle": "",
+        "content": "AGI - Al via in Corea del Sud> le operazioni di voto anticipato in vista delle elezioni del 10 aprile. Il presidente Yoon Suk Yeol>, che cerca di riconquistare la maggioranza parlamentare, ha votato nella città portuale di Busan, nel sud del paese. Secondo alcuni sondaggisti, l'indice di gradimento del leader sudcoreano è sceso sotto il 40% nelle ultime settimane, a causa di una serie di scandali e dell'insoddisfazione degli elettori per la crescente inflazione. La tornata elettorale si presenta quindi come un vero e proprio referendum sull'operato del leader> e del suo partito il Ppp. Nel caso in cui fallisse il tentativo di invertire gli equilibri parlamentari, il presidente trascorrerebbe i rimanenti tre anni del suo unico mandato quinquennale come \"anatra zoppa\", ovvero senza il sostegno politico del parlamento. \n&nbsp; \nIl presidente e l'11,1% degli elettori aventi diritto del paese hanno votato in più di 3.500 seggi elettorali, secondo la commissione elettorale del paese. Si tratta dell'affluenza più alta per un'elezione generale da quando è stato introdotto il voto anticipato nel 2013, hanno affermato le autorità. Giovedì Yoon aveva esortato ogni elettore avente diritto a votare, definendolo un \"esercizio di diritto e responsabilità\". \n&nbsp; \nLa Costituzione gli concede un solo mandato di cinque anni, e il suo partito è ansioso di ottenere il controllo del Parlamento in modo da poter fare progressi sulla sua agenda socialmente conservatrice e sull'approccio da falco nei confronti di Pyongyang>. Il suo partito ha affrontato diversi scandali, inclusa l'affermazione secondo cui l'ex ministro della Difesa di Yoon avrebbe interferito con un'indagine sulla morte di un giovane marine. \n&nbsp; \nIn un sondaggio congiunto pubblicato da quattro importanti organizzazioni elettorali, il 39% dei partecipanti ha dichiarato che voterebbe per il PPP, mentre il 37% per il partito di opposizione DP, il cui leader Lee Jae-myung è anch'esso nel mirino della giustizia e su cui pende un mandato di arresto per corruzione> con l'accusa di aver favorito, tra il 2014 e il 2017 quando era sindaco di Seongnam, un'azienda edile in un appalto pubblico per un progetto residenziale. \n&nbsp; \nNella corsa presidenziale del 2022, Yoon ha battuto di poco Lee con un piccolo margine dello 0,73%, con DP che detiene ancora la maggioranza parlamentare. \"Se il partito di Yoon va bene, gli darà più potere; se il suo partito va male, potrebbe effettivamente impedire a Yoon di guidare\", ha detto all'AFP Linda Hasunuma, politologa della Temple University. Il periodo di votazione anticipata terminerà oggi.",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1712451621.2734072,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "South Korea at the urns, a weakened Yoon tries to trace the china",
+        "en_content": "AGI - In South Korea > early voting operations in view of the April 10 elections. President Yoon Suk Yeol>, who seeks to regain the parliamentary majority, has voted in the port city of Busan, in the south of the country. According to some polls, the South Korean leader's liking index fell below 40% in recent weeks, due to a series of scandals and the dissatisfaction of voters for increasing inflation. The electoral round is therefore a real referendum on the leadership's work and its party Ppp. In the event that it failed to attempt to reverse the parliamentary balances, the president would spend the remaining three years of his only five-year term as a \"natra zoppa\", or without the political support of parliament.\n&nbsp;\nThe President and 11.1% of the country's right-wing voters voted in more than 3,500 polling stations, according to the country's electoral commission. This is the highest turnout for a general election since the early vote was introduced in 2013, the authorities said. On Thursday, Yoon exhorted every voter entitled to vote, calling it an exercise of right and responsibility.\n&nbsp;\nThe Constitution grants him a single five-year term, and his party is anxious to obtain Parliament's control so that he can make progress on his socially conservative agenda and on the falcon approach to Pyongyang>. His party faced several scandals, including the claim that former Yoon Defense Minister would interfere with an investigation into the death of a young Marine.\n&nbsp;\nIn a joint poll published by four major electoral organizations, 39% of participants declared that they would vote for the PPP, while 37% for the opposition party DP, whose leader Lee Jae-myung is also in the view of justice and on which he pendes a arrest warrant for bribery > with the accusation of having favored, between 2014 and 2017 when he was mayor of Seongnam, a construction company in a residential project.\n&nbsp;\nIn the presidential race of 2022, Yoon soon beat Lee with a small margin of 0.73%, with DP still holding the parliamentary majority. \"If Yoon's party is fine, it will give him more power; If his party goes wrong, he could effectively prevent Yoon from leading,\" said AFP Linda Hasunuma, Temple University polytologue. The early voting period will end today.",
+        "concepts": [
+            {
+                "word": "South",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Korea",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "urns",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Yoon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "china",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "South Korea",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yoon",
+                "start_char": 36,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "china",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "South Korea",
+                "start_char": 9,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April 10",
+                "start_char": 62,
+                "end_char": 70,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Yoon Suk Yeol",
+                "start_char": 92,
+                "end_char": 105,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Busan",
+                "start_char": 186,
+                "end_char": 191,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "South Korean",
+                "start_char": 251,
+                "end_char": 263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "below 40%",
+                "start_char": 291,
+                "end_char": 300,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "recent weeks",
+                "start_char": 304,
+                "end_char": 316,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the remaining three years",
+                "start_char": 605,
+                "end_char": 630,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "five-year",
+                "start_char": 643,
+                "end_char": 652,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "11.1%",
+                "start_char": 751,
+                "end_char": 756,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "more than 3,500",
+                "start_char": 801,
+                "end_char": 816,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2013",
+                "start_char": 974,
+                "end_char": 978,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 1005,
+                "end_char": 1013,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Yoon",
+                "start_char": 1015,
+                "end_char": 1019,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Constitution",
+                "start_char": 1122,
+                "end_char": 1134,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "five-year",
+                "start_char": 1155,
+                "end_char": 1164,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 1206,
+                "end_char": 1216,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pyongyang",
+                "start_char": 1322,
+                "end_char": 1331,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yoon Defense",
+                "start_char": 1400,
+                "end_char": 1412,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Marine",
+                "start_char": 1486,
+                "end_char": 1492,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "four",
+                "start_char": 1530,
+                "end_char": 1534,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "39%",
+                "start_char": 1566,
+                "end_char": 1569,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "PPP",
+                "start_char": 1624,
+                "end_char": 1627,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "37%",
+                "start_char": 1635,
+                "end_char": 1638,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Lee Jae-myung",
+                "start_char": 1681,
+                "end_char": 1694,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "between 2014 and 2017",
+                "start_char": 1819,
+                "end_char": 1840,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Seongnam",
+                "start_char": 1862,
+                "end_char": 1870,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2022",
+                "start_char": 1956,
+                "end_char": 1960,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Yoon",
+                "start_char": 1962,
+                "end_char": 1966,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lee",
+                "start_char": 1977,
+                "end_char": 1980,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "0.73%",
+                "start_char": 2004,
+                "end_char": 2009,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Yoon",
+                "start_char": 2065,
+                "end_char": 2069,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yoon",
+                "start_char": 2170,
+                "end_char": 2174,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "AFP Linda Hasunuma",
+                "start_char": 2195,
+                "end_char": 2213,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Temple University",
+                "start_char": 2215,
+                "end_char": 2232,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 2279,
+                "end_char": 2284,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Massacrato dopo scuola, muore studente di 15 anni. Fermato un 17enne",
+        "date_raw": "Fri, 05 Apr 2024 21:18:23 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2024-04-05/aggredito-dopo-scuola-muore-studente-15-anni-in-francia-25926004/",
+        "subtitle": "",
+        "content": "&nbsp;AGI - Un adolescente di 15 anni aggredito con brutale violenza ieri a Viry-Chatillon, nei pressi di Parigi, è morto per le ferite riportate dopo il pestaggio. Lo ha fatto sapere una nota della procura francese. Dopo l'\"intervento d'urgenza ieri sera, il giovane è morto oggi nel primo pomeriggio\", precisa il comunicato. Si attende ora l'autopsia. \nUn diciassettenne è stato fermato per l'omicidio. Gli inquirenti sono sulle tracce degli aggressori, tre o quattro persone incappucciate. \n<div>\n Lo studente, che frequentava il college Sablons, stava tornando a casa dopo una lezione di musica, intorno alle 16, quando è stato preso di mira da un gruppo di tre o quattro individui incappucciati. \"È stato aggredito tra due scale da tre o quattro persone che lo hanno picchiato, che lo hanno massacrato\", ha detto a BFMTV il sindaco di Viry-Chatillon Jean-Marie Vilain. I media francesi riportano che è in corso un'indagine su \"atti di omicidio e violenza durante riunioni nei pressi di una scuola\" nel tentativo di trovare gli autori dell'attacco. Per il momento le autorità si interrogano sul motivo di questo violento attacco. Il prefetto di Essonne Frèdèrique Camilleri ha detto che \"il motivo (del pestaggio) non è affatto chiaro\".&nbsp;\n</div> \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1712451621.273425,
+        "language": "it",
+        "source": "AGI_Esteri",
+        "local_time": "2024-04-07 03:00:21",
+        "filename": "ner_conc_en_2024-04-07T03.00.20E1712458820.767319.json",
+        "en_title": "After school, he died a 15-year-old student. Stop a 17-year-old",
+        "en_content": "&nbsp;AGI - A 15-year-old teenager attacked with brutal violence yesterday in Viry-Chatillon, near Paris, died of injuries reported after the plague. He let him know a note from the French prosecutor. After the \"emergency surgery last night, the young man died today in the early afternoon,\" he said. The autopsy is waiting.\nA 17-year-old was stopped for the murder. The pollutants are on the trail of the attackers, three or four people encapsulated.\n<\nThe student, who attended the Sablons college, was returning home after a music lesson, around 16, when he was targeted by a group of three or four hooded individuals. \"He was attacked between two stairs by three or four people who beat him, who slaughtered him,\" said to BFMTV the mayor of Viry-Chatillon Jean-Marie Vilain. The French media report that an investigation is underway on \"activities of murder and violence during meetings near a school\" in an attempt to find the authors of the attack. For the moment, the authorities are questioning the reason for this violent attack. The prefect of Essonne Frèdèrique Camilleri said that \"the reason (of pestage) is not clear at all\". &nbsp;\n</div\n&nbsp;\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "student",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "15-year-old",
+                "start_char": 24,
+                "end_char": 35,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "17-year-old",
+                "start_char": 52,
+                "end_char": 63,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "15-year-old",
+                "start_char": 14,
+                "end_char": 25,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 65,
+                "end_char": 74,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Viry-Chatillon",
+                "start_char": 78,
+                "end_char": 92,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Paris",
+                "start_char": 99,
+                "end_char": 104,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "French",
+                "start_char": 182,
+                "end_char": 188,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "last night",
+                "start_char": 230,
+                "end_char": 240,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "today",
+                "start_char": 261,
+                "end_char": 266,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "17-year-old",
+                "start_char": 327,
+                "end_char": 338,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "three",
+                "start_char": 417,
+                "end_char": 422,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "four",
+                "start_char": 426,
+                "end_char": 430,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sablons",
+                "start_char": 484,
+                "end_char": 491,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 588,
+                "end_char": 593,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "four",
+                "start_char": 597,
+                "end_char": 601,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 647,
+                "end_char": 650,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three",
+                "start_char": 661,
+                "end_char": 666,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "four",
+                "start_char": 670,
+                "end_char": 674,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Viry-Chatillon Jean-Marie Vilain",
+                "start_char": 745,
+                "end_char": 777,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "French",
+                "start_char": 783,
+                "end_char": 789,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Essonne Frèdèrique Camilleri",
+                "start_char": 1054,
+                "end_char": 1082,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

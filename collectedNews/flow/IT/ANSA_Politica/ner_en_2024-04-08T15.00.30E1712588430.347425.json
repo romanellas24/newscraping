@@ -1,0 +1,901 @@
+[
+    {
+        "title": "Tajani, discutiamo di proposte per sanare piccoli abusi",
+        "date_raw": "Mon, 8 Apr 2024 14:42:40 +0200",
+        "date": "2024-04-08",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/08/tajani-discutiamo-di-proposte-per-sanare-piccoli-abusi_3c3b9ece-47cc-4478-a5a6-48bbda22804b.html",
+        "subtitle": "Il vicepremier a Matera per le Regionali del 21 e 22 aprile",
+        "content": "\n                                                \n            \"C'è una proposta di legge di Forza\nItalia al Senato dedicata alla rigenerazione urbana, nell'ambito\ndella quale si possono sanare piccoli abusi, senza che questo\nappaia un condono per abusi che possono danneggiare l'ambiente,\no dai cittadini che rispettano le regole, un'offesa. La nostra\nproposta va in questa direzione, discutiamone\". Lo ha detto a\nMatera il vicepremier e ministro degli Esteri, Antonio Tajani,\nparlando con i giornalisti a margine della giornata conclusiva\ndell'assemblea annuale della Federazione italiana cuochi.\n                                    \n                                       \n\t\t\t\t   \"Noi ci stiamo lavorando da tempo e si può arricchire questo\ndibattito. Se la proposta che verrà presentata va in questa\ndirezione - ha concluso -  saremo favorevoli\".\n                                    \n                                       \n\t\t\t\t   Oggi, Tajani è in Basilicata per partecipare anche ad\niniziative elettorali a sostegno del governatore uscente, Vito\nBardi (Forza Italia), ricandidato dalla coalizione di\ncentrodestra alle Regionali del 21 e 22 aprile. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 1,
+        "placed": "Politica",
+        "epoch": 1712581231.2845082,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-08 15:00:31",
+        "filename": "ner_conc_en_2024-04-08T15.00.30E1712588430.347425.json",
+        "en_title": "Tajani, we discuss proposals to heal small abuses",
+        "en_content": "\"There is a law proposal of Force\nItaly to the Senate dedicated to urban regeneration, within\nof which small abuses can be healed, without this\na contract for abuse that can damage the environment,\nor by citizens who respect the rules, an offence. Ours\nthe proposal goes in this direction, let's discuss it.\" He told me.\nMatera Deputy Premier and Foreign Minister, Antonio Tajani,\nspeaking with journalists on the edge of the final day\nof the annual assembly of the Italian Federation cooks.\n\n\n\"We have been working on it for a long time and you can enrich this\ndebate. If the proposal to be submitted goes into this\ndirection - it has concluded - we will be favorable\".\n\n\nToday, Tajani is in Basilicata to participate in\nelectoral initiatives in support of the outgoing governor, Vito\nBardi (Forza Italia), renamed by the coalition\ndistrict at the Regionals of 21 and 22 April.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Tajani",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "proposals",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abuses",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Force",
+                "start_char": 28,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 34,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Senate",
+                "start_char": 47,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Matera",
+                "start_char": 321,
+                "end_char": 327,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antonio Tajani",
+                "start_char": 365,
+                "end_char": 379,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the final day",
+                "start_char": 422,
+                "end_char": 435,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "annual",
+                "start_char": 443,
+                "end_char": 449,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 466,
+                "end_char": 473,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Today",
+                "start_char": 673,
+                "end_char": 678,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 680,
+                "end_char": 686,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Basilicata",
+                "start_char": 693,
+                "end_char": 703,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vito\nBardi (Forza Italia",
+                "start_char": 781,
+                "end_char": 805,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Regionals of 21",
+                "start_char": 845,
+                "end_char": 864,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "22 April",
+                "start_char": 869,
+                "end_char": 877,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Pronto il codice di autoregolamentazione per i candidati del Pd",
+        "date_raw": "Mon, 8 Apr 2024 11:21:32 +0200",
+        "date": "2024-04-08",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/07/pronto-il-codice-di-autoregolamentazione-per-i-candidati-del-pd_d568d66f-8403-43cd-a5de-54910fca5115.html",
+        "subtitle": "Misiani al lavoro in Campania, ma si può estendere ovunque. Sarà presentato lunedì 8 aprile",
+        "content": "Un 'codice di autoregolamentazione' per i candidati. Lo hanno messo a punto il Commissario del Pd per la Campania, Antonio Misiani, insieme ai segretari provinciali Dem e lunedì verrà presentato per la prima volta in una riunione del partito regionale. \"Ma è chiaro - spiega all'ANSA Misiani - che queste regole rigide che intendiamo applicare ora in Campania a tutti i candidati delle prossime amministrative e che in parte erano già state sperimentate per le comunali a Napoli, potranno essere estese in ogni luogo dove potrebbe rendersi necessario\".Nella bozza del 'Codice di autoregolamentazione' che l'Ansa è in grado di anticipare ci sono varie richieste che verranno poste al candidato Dem. Tra queste, prima di tutto, il certificato penale. Il Pd regionale e provinciale e i circoli dovranno acquisire infatti, prima del termine della presentazione delle liste, i curriculum, il casellario giudiziario e il certificato penale dei candidati \"al fine di istruire adeguatamente l'approvazione delle liste secondo le modalità statutarie\". Poi il Pd, secondo quanto si legge nella bozza messa a punto dal responsabile Economia del partito e senatore del Pd Antonio Misiani, insieme ai segretari provinciali Dem, chiederà ai propri candidati di sottoscrivere un'autodichiarazione con cui si impegnano a denunciare alle sedi competenti e agli organi di Partito: - eventuali fenomeni di condizionamento del voto, di voto di scambio, di intimidazione nel corso della campagna elettorale - tentativi di intimidazione, di corruzione o di concussione nel corso del proprio mandato elettivo o amministrativo. E si chiede anche di porre la massima attenzione: - affinché ci siano chiari meccanismi di trasparenza amministrativa e di lotta alla corruzione e al condizionamento delle organizzazioni criminali: - sia data priorità al tema del riuso dei beni confiscati alla camorra combattendo ogni forma di omissione e opacità. - sia data priorità al tema dell'educazione alla legalità e alla povertà educativa. Inoltre, gli eventuali candidati dovranno sottoscrivere il 'codice etico' e dovranno dichiarare di non essere in condizioni di incandidabilità rispetto al codice di autoregolamentazione antimafia. Poi gli viene chiesto anche di impegnarsi a comunicare agli organi di garanzia del partito ogni eventuale variazione della propria posizione. Secondo quanto si apprende, l'applicazione in Campania di questo 'Codice' verrà affidata dal Pd al magistrato Franco Roberti, già Procuratore Nazionale Antimafia. \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 10,
+        "placed": "Politica",
+        "epoch": 1712581231.6606922,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-08 15:00:31",
+        "filename": "ner_conc_en_2024-04-08T15.00.30E1712588430.347425.json",
+        "en_title": "Ready autoregulation code for Pd candidates",
+        "en_content": "A 'autoregulation code' for candidates. The PD Commissioner for Campania, Antonio Misiani, together with the provincial secretaries Dem and Monday will be presented for the first time at a regional party meeting. \"But it is clear - explains to the NSA Misiani - that these rigid rules that we intend to apply now in Campania to all the candidates of the next administrative and that in part they had already been experimented for the municipalities in Naples, can be extended everywhere where it could be necessary\". In the draft of the 'Code of self-regulation' that the Ansa is able to anticipate there are various demands that will be placed to the candidate Dem. Among these, first of all, the penal certificate. The regional and provincial PD and the circles will have to acquire, in fact, before the end of the presentation of the lists, the resumes, the judiciary and the criminal certificate of the candidates \"in order to properly instruct the approval of the lists according to the statutory methods\". Then the Pd, according to the draft set up by the party's Economics and Senator of the Pd Antonio Misiani, together with the provincial secretaries Dem, will ask its candidates to sign a self-declaration with which they commit to denounce to the competent offices and party bodies: - any phenomena of conditioning of the vote, of voting, of intimidation in the course of the electoral campaign - attempts to intimidation, corruption or concussion during its elective or administrative mandate. And he also asks to put maximum attention: - to ensure that there are clear mechanisms of administrative transparency and the fight against corruption and conditioning of criminal organizations: - be given priority to the issue of the reuse of goods confiscated to the chamorra by fighting every form of omission and opacity. - be given priority to education to legality and educational poverty. In addition, candidates will have to subscribe to the 'ethical code' and will have to declare that they are not in conditions of unfairness with respect to the anti-mafia self-regulation code. Then he is also asked to engage in communicating to the party's guarantee bodies any change in his position. According to what is learned, the application in Campania of this 'Codice' will be entrusted by the Pd to the magistrate Franco Roberti, former National Attorney Antimafia.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "autoregulation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "code",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Pd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "candidates",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "PD",
+                "start_char": 44,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Campania",
+                "start_char": 64,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Antonio Misiani",
+                "start_char": 74,
+                "end_char": 89,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dem",
+                "start_char": 132,
+                "end_char": 135,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Monday",
+                "start_char": 140,
+                "end_char": 146,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 173,
+                "end_char": 178,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Campania",
+                "start_char": 316,
+                "end_char": 324,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Naples",
+                "start_char": 452,
+                "end_char": 458,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ansa",
+                "start_char": 572,
+                "end_char": 576,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dem",
+                "start_char": 662,
+                "end_char": 665,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 680,
+                "end_char": 685,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "PD",
+                "start_char": 745,
+                "end_char": 747,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Economics",
+                "start_char": 1070,
+                "end_char": 1079,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antonio Misiani",
+                "start_char": 1102,
+                "end_char": 1117,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dem",
+                "start_char": 1160,
+                "end_char": 1163,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Campania",
+                "start_char": 2253,
+                "end_char": 2261,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Franco Roberti",
+                "start_char": 2325,
+                "end_char": 2339,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "National",
+                "start_char": 2348,
+                "end_char": 2356,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antimafia",
+                "start_char": 2366,
+                "end_char": 2375,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Decaro rinnova tessera Anpi, 'difende i valori democratici'",
+        "date_raw": "Mon, 8 Apr 2024 13:20:19 +0200",
+        "date": "2024-04-08",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/08/decaro-rinnova-tessera-anpi-difende-i-valori-democratici_9d069e6b-7311-4e5d-8087-89dd186662b9.html",
+        "subtitle": "Sindaco di Bari: 'Ruolo determinante in tutela memoria storica'",
+        "content": "\n                                                \n            Il sindaco di Bari e presidente\ndell'Anci, Antonio Decaro, questa mattina ha rinnovato la sua\niscrizione all'Anpi nell'ambito della campagna di tesseramento\n2024 dell'associazione nazionale partigiani d'Italia, promossa\nnella sede del Comune del capoluogo pugliese.  \n   \"Anche quest'anno - ha detto Decaro - nell'ottantesimo\nanniversario del primo congresso dei Comitati di liberazione\nnazionale, che nel teatro Piccinni scrisse una pagina\nfondamentale della storia dell'Italia democratica e\nrepubblicana, ho voluto rinnovare la tessera Anpi\". \"L'ho fatto\n- ha aggiunto - per ribadire il ruolo determinante svolto\ndall'associazione dei partigiani d'Italia in difesa dei valori\ndemocratici e a tutela della comune memoria storica, e per\nriaffermare il mio impegno per la promozione dei principi\ncostituzionali e dell'identità antifascista della Repubblica\nitaliana\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Politica",
+        "epoch": 1712581231.6754086,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-08 15:00:31",
+        "filename": "ner_conc_en_2024-04-08T15.00.30E1712588430.347425.json",
+        "en_title": "Decaro renews Anpi Card, 'defends democratic values'",
+        "en_content": "The mayor of Bari and president\nby Anci, Antonio Decaro, this morning renewed his\nAnpi registration within the membership campaign\n2024 of the national association partisans of Italy, promoted\nin the headquarters of the Municipality of Puglia.\n\"Even this year - said Decaro - in the eightyth\nanniversary of the first Congress of Liberation Committees\nnational, that in the theater Piccinni wrote a page\nfundamental of the history of democratic and\nRepublican, I wanted to renew the Anpi card.\" \"I did.\n- added - to reaffirm the decisive role played\nfrom the association of the partisans of Italy in defense of the values\ndemocratic and to protect the common historical memory, and\nreaffirm my commitment to the promotion of principles\nconstitutional and anti-fascist identity of the Republic\nItalian.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Decaro",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Anpi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Card",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "values",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Anpi Card",
+                "start_char": 14,
+                "end_char": 23,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 13,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Anci",
+                "start_char": 35,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Antonio Decaro",
+                "start_char": 41,
+                "end_char": 55,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this morning",
+                "start_char": 57,
+                "end_char": 69,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Anpi",
+                "start_char": 82,
+                "end_char": 86,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "2024",
+                "start_char": 131,
+                "end_char": 135,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 177,
+                "end_char": 182,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Municipality of Puglia",
+                "start_char": 216,
+                "end_char": 242,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 311,
+                "end_char": 316,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Piccinni",
+                "start_char": 381,
+                "end_char": 389,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Republican",
+                "start_char": 448,
+                "end_char": 458,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Anpi",
+                "start_char": 482,
+                "end_char": 486,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 590,
+                "end_char": 595,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Republic\nItalian",
+                "start_char": 779,
+                "end_char": 799,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Pd attacca, grave se nel Def ci fosse solo il quadro tendenziale",
+        "date_raw": "Mon, 8 Apr 2024 11:55:18 +0200",
+        "date": "2024-04-08",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/08/pd-attacca-grave-se-nel-def-ci-fosse-solo-il-quadro-tendenziale_03e7a9e5-eb91-4d45-8ec0-d9217bf2df7b.html",
+        "subtitle": "'Il governo gioca con i bilanci delle famiglie'",
+        "content": "\n                                                \n            Un Def, il documento di economia e\nfinanza, solo con il quadro tendenziale sarebbe da parte del\ngoverno \"una scelta grave\". I capigruppo del Pd alla Camera e al\nSenato, Chiara Braga e Francesco Boccia, attaccano l'esecutivo\nche potrebbe \"congelare\" la fotografia dello stato dei conti\npubblici.\n                                    \n                                       \n\t\t\t\t   Si tratta di \"un altro primato negativo del governo Meloni\",\ndice Braga sostenendo come il ministro dell'Economia Giancarlo\nGirogetti e la premier Giorgia Meloni dimostrino di essere\n\"irresponsabili\". Ne fatti, aggiunge, \"giocano con il bilancio\ndelle famiglie\". Sarebbe \"una presa in giro del Paese e del\nParlamento - aggiunge Boccia - se ci trovassimo di fronte ad un\ngoverno che da una parte vive di concordati fiscali e condoni\nedilizi e dall'altra presenta un Def indefinito che lascerebbe\nnell'incertezza i cittadini, le imprese, gli investitori e\nl'Europa. L'anno scorso hanno raccontato bugie e ora non\nvogliono assumersi le proprie responsabilità e hanno paura di\ndire agli italiani che la prossima manovra sarà solo di tagli e\nsacrifici\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1712581231.7536545,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-08 15:00:31",
+        "filename": "ner_conc_en_2024-04-08T15.00.30E1712588430.347425.json",
+        "en_title": "Pd attacks, serious if in the Def there was only the curtain picture",
+        "en_content": "A Def, the economic document and\nfinance, only with the curtain would be by the\ngovernment \"a serious choice.\" The group leaders of the Pd at the Chamber and the\nSenate, Chiara Braga and Francesco Boccia, attack the executive\nthat could \"freeze\" the photograph of the state of accounts\npublic.\n\n\nThis is \"another negative primacy of the Meloni government\",\nsays Braga supporting as the Minister of Economy Giancarlo\nGirogetti and the premier Giorgia Meloni prove to be\n\"irresponsible.\" In fact, he adds, \"play with the budget\nof families.\" It would be \"a teasing around the country and the\nParliament - adds Boccia - if we were faced with a\nGovernment living on the one hand of tax agreements and condones\nand on the other it presents an indefinite Def that would leave\nin uncertainty citizens, businesses, investors and\nEurope. Last year they told lies and now not\nthey want to assume their responsibilities and are afraid of\nto tell the Italians that the next manoeuvre will be only of cuts and\nsacrifices.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attacks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Def",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "curtain",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "picture",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Def",
+                "start_char": 30,
+                "end_char": 33,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Chamber",
+                "start_char": 146,
+                "end_char": 153,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 162,
+                "end_char": 168,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chiara Braga",
+                "start_char": 170,
+                "end_char": 182,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francesco Boccia",
+                "start_char": 187,
+                "end_char": 203,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 337,
+                "end_char": 343,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Braga",
+                "start_char": 362,
+                "end_char": 367,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 442,
+                "end_char": 456,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 590,
+                "end_char": 600,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Boccia - if",
+                "start_char": 608,
+                "end_char": 619,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Def",
+                "start_char": 749,
+                "end_char": 752,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 821,
+                "end_char": 827,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Last year",
+                "start_char": 829,
+                "end_char": 838,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italians",
+                "start_char": 939,
+                "end_char": 947,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Conte: 'Lite con Schlein? Non riduciamo la politica a slogan'",
+        "date_raw": "Mon, 8 Apr 2024 14:27:21 +0200",
+        "date": "2024-04-08",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/08/conte-lite-con-schlein-non-riduciamo-la-politica-a-slogan_872a7568-c841-4137-963f-8b5f3e6c809a.html",
+        "subtitle": "'Non ne facciamo una questione personale'",
+        "content": "\"Con Elly non ci siamo sentiti, ma non ne facciamo una questione personale, basta con la rappresentazione dei litigi tra leader. Qui si parla di principi, di valori, di politica. Li vogliamo perseguire o riduciamo tutto agli slogan?\". Così il leader Cinquestelle , a Fisciano per la presentazione del libro di Pasquale Tridico, rispondendo alla moderatrice che gli ha chiesto se avesse avuto contatti con la segreteria del Pd, Elly Schlein, nelle ultime ore.Conte, tornando sulla frattura col Pd sulle primarie di Bari, ha ricostruito così la vicenda: \"Per le primarie di Bari avevamo chiesto regole più severe per consentire la verifica di chi andava a votare, tra cui semplicemente una regola in piu' dettata dalle inchieste di questi giorni che suggeriscono un supplemento di rigore. Un'unica condizione - ha precisato l'ex premier - su cui poi si è litigato, visto che non siamo stati ascoltati in questo braccio di ferro su Bari. Avevamo chiesto almeno di consentirci la pre registrazione, anche qualche ora prima, come effetto dissuasivo di un contesto ambientale in cui tutti i giornali hanno scritto che ci sono 14 clan che hanno capacità espansiva tra parenti, famiglie e amici. Tutto qua, e chiudiamola qui\".\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 2,
+        "placed": "Politica",
+        "epoch": 1712581231.9031625,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-08 15:00:31",
+        "filename": "ner_conc_en_2024-04-08T15.00.30E1712588430.347425.json",
+        "en_title": "Count: 'Lite with Schlein? We don't reduce politics to slogans.",
+        "en_content": "\"With Elly we haven't heard each other, but we don't make a personal issue, enough with the representation of the fights between leaders. Here we talk about principles, values, politics. Do we want to pursue or reduce everything to slogans?\" So the leader Cinquestelle, in Fisciano for the presentation of the book of Pasquale Tridico, responding to the moderator who asked him if he had contact with the secretariat of the Pd, Elly Schlein, in the last hours. Conte, returning to the fracture with the PD on the primary of Bari, reconstructed the story: \"For the primaries of Bari we had asked for stricter rules to allow for the verification of those who went to vote, including simply an extra rule dictated by the investigations of these days suggesting a penalty supplement. A single condition - it has specified the former premier - on which he then quashed, since we were not listened in this arm of iron on Bari. We had asked at least to allow us to pre-register, even a few hours before, as a deterrent effect of an environmental context in which all newspapers wrote that there are 14 clans who have expanded capacity between relatives, families and friends. That's it, and let's close it.\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Count",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Lite",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Schlein",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "politics",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "slogans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 18,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Cinquestelle",
+                "start_char": 256,
+                "end_char": 268,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fisciano",
+                "start_char": 273,
+                "end_char": 281,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pasquale Tridico",
+                "start_char": 318,
+                "end_char": 334,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 428,
+                "end_char": 440,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last hours",
+                "start_char": 445,
+                "end_char": 459,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Bari",
+                "start_char": 524,
+                "end_char": 528,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 577,
+                "end_char": 581,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "these days",
+                "start_char": 736,
+                "end_char": 746,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bari",
+                "start_char": 915,
+                "end_char": 919,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few hours",
+                "start_char": 977,
+                "end_char": 988,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "14",
+                "start_char": 1092,
+                "end_char": 1094,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il centrodestra cerca il candidato a Bari. Salvini, la Lega c'è",
+        "date_raw": "Mon, 8 Apr 2024 11:43:17 +0200",
+        "date": "2024-04-08",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/08/il-centrodestra-cerca-il-candidato-a-bari.-salvini-la-lega-ce_5beb676a-1b7f-41ee-99bc-a601b0824f7b.html",
+        "subtitle": "Tajani, 'noi uniti, come ovunque'",
+        "content": "\n                                                \n            Il centrodestra cerca il candidato\nper guidare la città di Bari. \"Siamo agli ultimi giorni di\nrifinitura  e come Lega abbiamo messo a disposizione più di un\nnome per rilanciare una splendida città come Bari che oggi sta\nfacendo il giro del mondo per problemi di mafia, voti comprati,\nsparatorie e non se lo merita\", dice Matteo Salvini in un\nincontro con i candidati della Lega alle prossime elezioni\nregionali del 21 e 22 aprile.\n                                    \n                                       \n\t\t\t\t    Il leaderi di FI Antonio Tajani ribadisce - parlando con i\ngiornalisti a margine di un convegno all'Irccs Crob (Centro di\nriferimento oncologico di Basilicata) di Rionero in Vulture\n(Potenza) - l'unità del \"centrodestra\", a Bari \"come ovunque\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1712581231.9203115,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-08 15:00:31",
+        "filename": "ner_conc_en_2024-04-08T15.00.30E1712588430.347425.json",
+        "en_title": "The centre is looking for the candidate in Bari. Salvini, the League is",
+        "en_content": "The training centre seeks the candidate\nto drive the city of Bari. \"We are in the last days of\nfinishing and as League we have made available more than one\nname to raise a beautiful city like Bari that today is\nwandering around the world for mafia problems, votes bought,\nshooting and not worth it,\" says Matteo Salvini in a\nmeeting with the League candidates at the next elections\nRegional of 21 and 22 April.\n\n\nFI Antonio Tajani's leaders reiterate - speaking with the\njournalists at the margin of a conference at the Irccs Crob (Centre of\noncological reference of Basilicata) by Rionero in Vulture\n(Potenza) - the unity of the \"centrodestra\", in Bari \"as everywhere\".\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "centre",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "candidate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Bari",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "advcl",
+                "pos": "AUX"
+            },
+            {
+                "word": "League",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bari",
+                "start_char": 43,
+                "end_char": 47,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 61,
+                "end_char": 65,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last days",
+                "start_char": 78,
+                "end_char": 91,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than one",
+                "start_char": 142,
+                "end_char": 155,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bari",
+                "start_char": 192,
+                "end_char": 196,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 202,
+                "end_char": 207,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Matteo Salvini",
+                "start_char": 305,
+                "end_char": 319,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "League",
+                "start_char": 342,
+                "end_char": 348,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "21",
+                "start_char": 394,
+                "end_char": 396,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "22 April",
+                "start_char": 401,
+                "end_char": 409,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Antonio Tajani's",
+                "start_char": 416,
+                "end_char": 432,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Irccs Crob (Centre",
+                "start_char": 516,
+                "end_char": 538,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Basilicata",
+                "start_char": 567,
+                "end_char": 577,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Rionero",
+                "start_char": 582,
+                "end_char": 589,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 649,
+                "end_char": 653,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

@@ -1,0 +1,291 @@
+[
+    {
+        "title": "Carlo con Camilla alla tradizionale messa di Pasqua a Windsor",
+        "date_raw": "Sun, 31 Mar 2024 14:26:03 +0200",
+        "date": "2024-03-31",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/03/31/carlo-con-camilla-alla-tradizionale-messa-di-pasqua-a-windsor_7c4a1589-af64-4863-adeb-0e230417babc.html",
+        "subtitle": "Il re è apparso sorridente, assenti William e Kate",
+        "content": " Il re Carlo III è arrivato nella Cappella di San Giorgio a Windsor per partecipare alla tradizionale cerimonia religiosa di Pasqua. Si tratta della principale apparizione pubblica da quando ha annunciato due mesi fa di avere un cancro.    Vestito con un soprabito scuro, il sovrano, 75 anni, è apparso sorridente, salutando e scherzando, mentre scendeva dall'auto insieme alla moglie, la regina Camilla.     A differenza degli altri membri della famiglia reale, William e Kate con i loro figli non sono presenti dopo l'annuncio della principessa del Galles di aver un tumore e di aver iniziato la chemioterapia preventiva.     Dopo l'annuncio della sua malattia Carlo ha annullato tutti gli impegni pubblici ufficiali, anche se continua a svolgere alcune funzioni ufficiali, come gli incontri con il premier.  \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1711890022.61026,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 15:00:22",
+        "filename": "ner_conc_en_2024-03-31T15.00.21E1711897221.751638.json",
+        "en_title": "Charles with Camilla at the traditional Easter Mass in Windsor",
+        "en_content": "King Charles III arrived in the Chapel of St George in Windsor to attend the traditional Easter religious ceremony. It is the main public appearance since he announced two months ago to have cancer. Dressed with a dark coat, the ruler, 75 years old, appeared smiling, greeting and joking, as he descended from the car along with his wife, Queen Camilla. Unlike other members of the royal family, William and Kate with their children are not present after the announcement of the Princess of Wales to have a tumor and to have begun preventive chemotherapy. After the announcement of his illness Charles canceled all official public commitments, although he continues to perform some official functions, such as meetings with the premier.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Charles",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Camilla",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Easter",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Windsor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Camilla",
+                "start_char": 13,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Easter Mass",
+                "start_char": 40,
+                "end_char": 51,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Charles III",
+                "start_char": 5,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Chapel of St George",
+                "start_char": 28,
+                "end_char": 51,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Easter",
+                "start_char": 89,
+                "end_char": 95,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two months ago",
+                "start_char": 168,
+                "end_char": 182,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "75 years old",
+                "start_char": 236,
+                "end_char": 248,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Queen Camilla",
+                "start_char": 339,
+                "end_char": 352,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "William",
+                "start_char": 396,
+                "end_char": 403,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kate",
+                "start_char": 408,
+                "end_char": 412,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Charles",
+                "start_char": 594,
+                "end_char": 601,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Amministrative in Turchia, Erdogan vota a Istanbul",
+        "date_raw": "Sun, 31 Mar 2024 12:30:15 +0200",
+        "date": "2024-03-31",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/03/31/amministrative-in-turchia-erdogan-vota-a-istanbul_6b395db1-c963-467c-9c3e-bb6813fe44dc.html",
+        "subtitle": "Il presidente turco cerca di riprendere la città sul Bosforo",
+        "content": "\n                                                \n            Il presidente turco Recep Tayyip\nErdogan ha votato per le elezioni amministrative a Istanbul,\naccompagnato dalla moglie Emine, nel quartiere di Uskudar, sulla\nsponda asiatica della città sul Bosforo. Lo riporta Anadolu.\n                                    \n                                       \n\t\t\t\t   Durante queste amministrative, sostenendo il candidato\ndell'Akp Murat Kurum, Erdogan punta a riconquistate la più\ngrande città turca, che alle elezioni di cinque anni fa è stata\nvinta dal candidato del maggior partito di opposizione, Chp,\nEkrem Imamoglu. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1711890022.7246609,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-31 15:00:22",
+        "filename": "ner_conc_en_2024-03-31T15.00.21E1711897221.751638.json",
+        "en_title": "Administration in Turkey, Erdogan votes in Istanbul",
+        "en_content": "Turkish President Recep Tayyip\nErdogan voted for administrative elections in Istanbul,\naccompanied by his wife Emine, in the Uskudar district, on\nAsian shore of the city on the Bosphorus. Anadolu brings it back.\n\n\nDuring these administrations, supporting the candidate\nof Akp Murat Kurum, Erdogan aims to regain the most\ngreat Turkish city, which in the elections five years ago was\nwon by the candidate of the major opposition party, Chp,\nEkrem Imamoglu.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Administration",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Turkey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Erdogan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Istanbul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 18,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 43,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Turkish",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Recep Tayyip",
+                "start_char": 18,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 31,
+                "end_char": 38,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 77,
+                "end_char": 85,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Emine",
+                "start_char": 111,
+                "end_char": 116,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Uskudar",
+                "start_char": 125,
+                "end_char": 132,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Asian",
+                "start_char": 146,
+                "end_char": 151,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bosphorus",
+                "start_char": 177,
+                "end_char": 186,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 289,
+                "end_char": 296,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 327,
+                "end_char": 334,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "five years ago",
+                "start_char": 364,
+                "end_char": 378,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chp",
+                "start_char": 435,
+                "end_char": 438,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ekrem Imamoglu",
+                "start_char": 440,
+                "end_char": 454,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

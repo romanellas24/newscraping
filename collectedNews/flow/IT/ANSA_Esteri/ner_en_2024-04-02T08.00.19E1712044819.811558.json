@@ -1,0 +1,417 @@
+[
+    {
+        "title": "Usa, 'distrutto un drone marino dei ribelli yemeniti Houthi'",
+        "date_raw": "Tue, 2 Apr 2024 06:05:46 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/04/02/usa-distrutto-un-drone-marino-dei-ribelli-yemeniti-houthi_75b9848e-4549-4366-a379-80b48e81bbb0.html",
+        "subtitle": "Centcom: 'Per legittima difesa'",
+        "content": "\n                                                \n            Le forze Usa hanno distrutto ieri,\nper legittima difesa, un drone marino dei ribelli yemeniti\nfiloiraniani Houthi: lo ha reso noto su X il Comando Centrale\ndegli Stati Uniti.\n                                    \n                                       \n\t\t\t\t   \"Alle 9 del mattino ora di Sanaa (le 8 in Italia, ndr) dell'1\naprile, le forze del Comando Centrale degli Stati Uniti\n(Centcom) hanno distrutto con successo, per autodifesa, una\nimbarcazione di superficie senza equipaggio (Usv) dei terroristi\nHouthi sostenuti dall'Iran\", si legge nel messaggio.\n                                    \n                                       \n\t\t\t\t   \"È stato stabilito che questo Usv rappresentava una minaccia\nper le forze statunitensi e della coalizione e per le navi\nmercantili nella regione - prosegue la nota -. Queste azioni\nsono necessarie per proteggere le nostre forze, garantire\nlalibertà di navigazione e rendere le acque internazionali più\nsicure per le navi mercantili, della coalizione e degli Stati\nUniti\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1712037620.7600832,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-02 08:00:20",
+        "filename": "ner_conc_en_2024-04-02T08.00.19E1712044819.811558.json",
+        "en_title": "USA, 'disrupted a marine drone of Yemeni rebels Houthi'",
+        "en_content": "US forces destroyed yesterday,\nfor legitimate defense, a marine drone of Yemeni rebels\nHouthi: has made known on X the Central Command\nof the United States.\n\n\n\"At 9 am Sanaa time (the 8 in Italy, ndr) of 1\nApril, the forces of the United States Central Command\n(Centcom) have successfully destroyed, for self-defense, a\nUnmanned surface vessel (Usv) of terrorists\nHouthi supported by Iran,\" reads in the message.\n\n\n\"It was established that this Usv posed a threat\nfor U.S. and coalition forces and ships\nmerchants in the region - continues the note -. These actions\nare necessary to protect our forces, ensure\nfreedom of navigation and make international waters more\nsafe for merchant ships, coalition and States\nUnited.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "USA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drone",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Houthi",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "USA",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yemeni",
+                "start_char": 34,
+                "end_char": 40,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 48,
+                "end_char": 54,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "US",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 20,
+                "end_char": 29,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Yemeni",
+                "start_char": 73,
+                "end_char": 79,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 87,
+                "end_char": 93,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "X the Central Command",
+                "start_char": 113,
+                "end_char": 134,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United States",
+                "start_char": 138,
+                "end_char": 155,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "9 am",
+                "start_char": 163,
+                "end_char": 167,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "8",
+                "start_char": 184,
+                "end_char": 185,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 189,
+                "end_char": 194,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ndr",
+                "start_char": 196,
+                "end_char": 199,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1\nApril",
+                "start_char": 204,
+                "end_char": 211,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the United States Central Command",
+                "start_char": 227,
+                "end_char": 260,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Centcom",
+                "start_char": 262,
+                "end_char": 269,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Houthi",
+                "start_char": 364,
+                "end_char": 370,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iran",
+                "start_char": 384,
+                "end_char": 388,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 468,
+                "end_char": 472,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "States",
+                "start_char": 706,
+                "end_char": 712,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "'Mosca chiede riunione Consiglio Sicurezza Onu su raid in Siria'",
+        "date_raw": "Tue, 2 Apr 2024 05:08:55 +0200",
+        "date": "2024-04-02",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/04/02/mosca-chiede-riunione-consiglio-sicurezza-onu-su-raid-in-siria_db9e2425-e0e2-49e9-8bf8-19cbab64e50e.html",
+        "subtitle": "'Oggi alle 15:00 ora di New York'",
+        "content": "\n                                                \n            Il Consiglio di Sicurezza dell'Onu\nterrà oggi una riunione aperta, richiesta da Mosca, sull'attacco\nisraeliano al consolato iraniano a Damasco: lo ha annunciato il\nprimo vice rappresentante permanente russo presso l'Onu, Dmitry\nPolyansky, come riporta la Tass. \"Gli iraniani si sono rivolti\nal Consiglio di Sicurezza dell'Onu per condannare questa azione.\n                                    \n                                       \n\t\t\t\tA seguito della loro lettera, abbiamo richiesto un briefing\naperto del Consiglio di Sicurezza delle Nazioni Unite. La\npresidenza maltese l'ha fissato per le 15:00 ora di New York (le\n21:00 in Italia, ndr) del 2 aprile\", ha affermato Polyansky sui\nsocial media. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1712037620.7882066,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-04-02 08:00:20",
+        "filename": "ner_conc_en_2024-04-02T08.00.19E1712044819.811558.json",
+        "en_title": "'Moscow calls meeting UN Security Council on raids in Syria'",
+        "en_content": "The UN Security Council\nwill hold today an open meeting, requested by Moscow, on the attack\nIsraeli to the Iranian consulate in Damascus: it has announced the\nfirst Russian Deputy Permanent Representative at the UN, Dmitry\nPolyansky, as the Tass reports. \"The Iranians turned\nto the UN Security Council to condemn this action.\n\n\nFollowing their letter, we requested a briefing\nUnited Nations Security Council. The\nMaltese presidency set it for 15:00 New York time (the\n21:00 in Italy, ndr) of 2 April\", said Polyansky on\nsocial media.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Moscow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UN",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Security",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "raids",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Syria",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 1,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "UN Security Council",
+                "start_char": 22,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Syria",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The UN Security Council",
+                "start_char": 0,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 34,
+                "end_char": 39,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 70,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 92,
+                "end_char": 99,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 107,
+                "end_char": 114,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Damascus",
+                "start_char": 128,
+                "end_char": 136,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 159,
+                "end_char": 164,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 165,
+                "end_char": 172,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "UN",
+                "start_char": 212,
+                "end_char": 214,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dmitry",
+                "start_char": 216,
+                "end_char": 222,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Polyansky",
+                "start_char": 223,
+                "end_char": 232,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tass",
+                "start_char": 241,
+                "end_char": 245,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iranians",
+                "start_char": 260,
+                "end_char": 268,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the UN Security Council",
+                "start_char": 279,
+                "end_char": 302,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "United Nations Security Council",
+                "start_char": 377,
+                "end_char": 408,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Maltese",
+                "start_char": 414,
+                "end_char": 421,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "New York",
+                "start_char": 450,
+                "end_char": 458,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "21:00",
+                "start_char": 469,
+                "end_char": 474,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Italy",
+                "start_char": 478,
+                "end_char": 483,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ndr",
+                "start_char": 485,
+                "end_char": 488,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2 April",
+                "start_char": 493,
+                "end_char": 500,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Polyansky",
+                "start_char": 508,
+                "end_char": 517,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

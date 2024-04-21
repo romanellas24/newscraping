@@ -1,0 +1,980 @@
+[
+    {
+        "title": "Saltano le primarie ma entrambi i candidati restano in corsa",
+        "date_raw": "Fri, 5 Apr 2024 12:50:47 +0200",
+        "date": "2024-04-05",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/05/saltano-le-primarie-ma-entrambi-i-candidati-restano-in-corsa_bd044d8a-af8c-4316-851b-5a30b0092f11.html",
+        "subtitle": "Confermato per oggi comizio di Schlein in piazza",
+        "content": "\n                                                \n            \"Io resto in campo. Vado avanti,\ninsieme alle tantissime persone che ho incontrato in queste\nsettimane e che mi sostengono lealmente. Vado avanti non per me,\nma per la città che amo. Per difendere quello che è stato fatto\ndalle amministrazioni di centrosinistra e per continuare a\ncrescere, migliorando. Lo faccio per quella comunità coesa e\nforte di cittadini e cittadine che in questi anni si sono\nsentiti sempre più orgogliosi di essere baresi\". Lo annuncia su\nFacebook Vito Leccese, uno dei due candidati del centrosinistra\nalle Comunali di Bari, dopo che il suo sfidante, Michele\nLaforgia, ha deciso di non partecipare alle primarie previste\nper domenica confermando la sua candidatura. Entrambi quindi\nrestano in corsa ed oggi è atteso il comizio a Bari della\nsegretaria del Pd Elly Schlein, che dopo l'iniziativa di ieri\nsera di Giuseppe Conte e Nichi Vendola a favore di Laforgia,\nsarà in citta con il leader del Verdi Bonelli a sostegno di\nLeccese.\n                                    \n                                       \n\t\t\t\t   \"Domenica - spiega Leccese - non si voterà per scegliere il\ncandidato sindaco del centrosinistra.  Lo ha deciso ieri\nGiuseppe Conte appena arrivato da Roma, e l'ha confermato poi il\nmio sfidante dal palco. Ne prendo atto. E per prima cosa mi\ndispiace aver coinvolto in questi giorni decine di volontari per\norganizzare quella che doveva essere una bellissima giornata di\nesercizio democratico del voto. Io nelle primarie ho sempre\ncreduto. Nel voto libero ho sempre creduto. E non ho bisogno né\ndi difendermi, né di giustificarmi di niente. La mia storia\npolitica parla per me e le mie posizioni sul tema sono state\nsempre chiare. Non faccio finta che la pratica del voto di\nscambio non esista, ma credo che l'unico modo per combatterla\nsia aumentare gli spazi di partecipazione democratica. Non\nsopprimerli. Annullare le primarie vuol dire arrendersi\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Politica",
+        "epoch": 1712325803.612487,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-05 16:03:23",
+        "filename": "ner_conc_en_2024-04-05T16.00.22E1712332822.912643.json",
+        "en_title": "Skip primary but both candidates remain in the race",
+        "en_content": "\"I'm on the field. I'm going on.\ntogether with the many people I met in these\nweeks and that support me loyally. I'm going on, not for me.\nbut for the city I love. To defend what has been done\nfrom the central-left administrations and to continue\ngrowing, improving. I do it for that cohesian community and\nstrong of citizens and citizens who in these years have\nfelt more and more proud to be bare.\" Announced\nFacebook Vito Leccese, one of the two candidates of the centerleft\nat the Comunali di Bari, after his challenger, Michele\nLaforgia, decided not to participate in the planned primary\nfor Sunday confirming his candidacy. Both therefore\nremain in the race and today is expected the rally in Bari of\nSecretary of the Pd Elly Schlein, who after yesterday's initiative\nevening of Giuseppe Conte and Nichi Vendola in favor of Laforgia,\nwill be in the city with the leader of Verdi Bonelli in support of\nLeccese.\n\n\n\"Domenica - Leccese explains - will not vote to choose the\ncandidate mayor of the center. He decided yesterday\nGiuseppe Conte just arrived from Rome, and then confirmed it\nMy challenger from the stage. I'll take note of that. And first of all,\nSorry to have involved dozens of volunteers these days for\norganize the one that had to be a beautiful day of\ndemocratic exercise of vote. I always have\nbelieved. I always believed in the free vote. And I need neither\nto defend me, not to justify anything. My story\npolitics speaks for me and my positions on the topic were\nalways clear. I don't pretend that the practice of voting\nexchange does not exist, but I think the only way to fight it\nboth increase democratic participation spaces. Not yet.\nsuppress them. Cancelling the primary means surrendering.\"\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "candidates",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "race",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "these\nweeks",
+                "start_char": 72,
+                "end_char": 83,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "cohesian",
+                "start_char": 284,
+                "end_char": 292,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "these years",
+                "start_char": 346,
+                "end_char": 357,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Facebook Vito Leccese",
+                "start_char": 411,
+                "end_char": 432,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "one",
+                "start_char": 434,
+                "end_char": 437,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 445,
+                "end_char": 448,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Comunali",
+                "start_char": 485,
+                "end_char": 493,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bari",
+                "start_char": 497,
+                "end_char": 501,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michele\nLaforgia",
+                "start_char": 525,
+                "end_char": 541,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 597,
+                "end_char": 603,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 668,
+                "end_char": 673,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bari",
+                "start_char": 699,
+                "end_char": 703,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Pd Elly Schlein",
+                "start_char": 720,
+                "end_char": 739,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 751,
+                "end_char": 760,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 785,
+                "end_char": 799,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nichi Vendola",
+                "start_char": 804,
+                "end_char": 817,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 830,
+                "end_char": 838,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Verdi Bonelli",
+                "start_char": 879,
+                "end_char": 892,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Leccese",
+                "start_char": 907,
+                "end_char": 914,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Domenica - Leccese",
+                "start_char": 919,
+                "end_char": 937,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 1019,
+                "end_char": 1028,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 1029,
+                "end_char": 1043,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rome",
+                "start_char": 1062,
+                "end_char": 1066,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 1148,
+                "end_char": 1153,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "dozens",
+                "start_char": 1185,
+                "end_char": 1191,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "these days",
+                "start_char": 1206,
+                "end_char": 1216,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Covid: archiviato l'ultimo procedimento su Speranza. L'ex ministro contestato dai 'no vax'",
+        "date_raw": "Thu, 4 Apr 2024 18:41:02 +0200",
+        "date": "2024-04-04",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/04/covid-archiviato-lultimo-procedimento-su-speranza_87fcba4a-d61b-4ac0-ab3d-6eecc05eb589.html",
+        "subtitle": "Riconosciuta dal tribunale dei ministri la correttezza della condotta",
+        "content": "Il tribunale dei ministri di Roma ha archiviato l'ultimo procedimento a carico dell'ex Ministro della Salute Roberto Speranza apertosi a seguito di alcune denunce relative alla campagna di vaccinazione. Nell'ordinanza, in sintonia con quanto già affermato nella richiesta di archiviazione della Procura della Repubblica, viene riconosciuta la correttezza della condotta di Speranza volta esclusivamente alla difesa dell'interesse pubblico e del diritto alla salute dei cittadini. Lo scrive in una nota stampa l'avvocato Danilo Leva, legale dell'ex ministro della Salute Roberto Speranza.  \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 21,
+        "placed": "Politica",
+        "epoch": 1712325803.6942637,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-05 16:03:23",
+        "filename": "ner_conc_en_2024-04-05T16.00.22E1712332822.912643.json",
+        "en_title": "Covid: The last trial on Hope was filed. The former minister challenged by the 'no vax'",
+        "en_content": "The court of ministers of Rome has filed the last proceedings under the former Minister of Health Roberto Speranza opened following some complaints regarding the vaccination campaign. In the order, in keeping with what has already been stated in the request for archiving of the Prosecutor of the Republic, the correctness of the conduct of Hope is recognized exclusively for the defence of public interest and the right to health of citizens. In a press note, lawyer Danilo Leva, lawyer of former Minister of Health Roberto Speranza.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "trial",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Hope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "minister",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vax",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "'",
+                "meaning": "punct",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Covid",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hope",
+                "start_char": 25,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Rome",
+                "start_char": 26,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Roberto Speranza",
+                "start_char": 98,
+                "end_char": 114,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Prosecutor of the Republic",
+                "start_char": 275,
+                "end_char": 305,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Danilo Leva",
+                "start_char": 468,
+                "end_char": 479,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Roberto Speranza",
+                "start_char": 517,
+                "end_char": 533,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Mattarella: \"Il piano Mattei vuole una collaborazione paritaria\"",
+        "date_raw": "Fri, 5 Apr 2024 14:27:14 +0200",
+        "date": "2024-04-05",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/05/mattarella-piano-mattei-vuole-collaborazione-paritaria_6b81e158-ae99-4c53-b250-d67e296099e4.html",
+        "subtitle": "Il presidente del Ghana ha chiesto un riequilibrio del peso dell'Africa in ambito Onu",
+        "content": "   \"La scelta del nome di Mattei per il piano che il governo italiano ha lanciato non è casuale perché Mattei è stato davvero un amico dell'Africa occidentale, del continente intero contro ogni forma di sfruttamento coloniale, per una collaborazione sul piano paritario a tutela delle risorse locali e questo è l'obiettivo. Il piano è quindi per una  secondo le indicazioni e le esigenze definite dai paesi del continente\". Lo ha detto il presidente  parlando da Accra, seconda tappa della sua visita in Africa, in un colloquio con il presidente del Ghana Nana Addo Dankwa Akufo-Addo.\"Il Ghana rappresenta per l'Italia un partner fondamentale nell'ambito del partenariato tra Africa e Europa, un partenariato che intendiamo fondato sul reciproco rispetto, sul rapporto paritario di collaborazione che giova a entrambe le parti perché il futuro di Africa ed Europa è necessariamente comune. Il vertice che si è svolto lo scorso gennaio a Roma - ha aggiunto il presidente Mattarella in dichiarazioni alla stampa - ha confermato l'intenzione d'Italia di promuovere un'azione congiunta, concorde secondo le indicazioni dei Paesi africani, per la concreta collaborazione tra l'Africa e l'Europa. Il piano Mattei, che il governo italiano ha lanciato evocando un protagonista dell'amicizia tra Africa ed Europa, evoca appunto la volontà di collaborare in modo paritario secondo l'esigenza dei Paesi africani cercando di coinvolgere questo l'intera Europa\". Il presidente della repubblica ha poi continuato il suo discorso affrontando altri temi. \"Bisogna affrontare insieme il fenomeno migratorio - ha detto - che va convertito da un fenomeno disordinato, gestito da trafficanti di esseri umani, a un fenomeno con ingressi legali e concordemente definiti. E' un obiettivo importante\". \"Ghana e Italia sono legati da un'amicizia molto forte, da valori comuni come il multilateralismo, il dialogo e la pace. Serve un dialogo internazionale e collaborativo tra tutti\" e tra di noi c'è \"la convinzione che la strada intrapresa in Europa, in Africa, e Medio Oriente, cioè la guerra, sia la strada sbagliata\". Bisogna \"lavorare per un rafforzamento delle Nazioni Unite. Le sfide che abbiamo di fronte, come umanità, richiedono grande collaborazione internazionale. Sono impossibili nella contrapposizione\", ha detto Mattarella in merito. Poco prima il presidente del Ghana aveva chiesto con forza un riequilibrio del peso dell'Africa in ambito Onu: \"La riforma delle Nazioni Unite deve diventare una priorità, è necessaria da tempo. Concordano anche Italia e Unione europea, bisogna correggere le ingiustizie che riguardano i Paesi africani\".   \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1712325803.7027917,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-05 16:03:23",
+        "filename": "ner_conc_en_2024-04-05T16.00.22E1712332822.912643.json",
+        "en_title": "Mattarella: \"The Mattei plan wants an equal partnership\"",
+        "en_content": "\"The choice of the name of Mattei for the plan that the Italian government has launched is not random because Mattei was really a friend of West Africa, of the whole continent against every form of colonial exploitation, for a collaboration on the parity level to protect local resources and this is the goal. The plan is therefore for one according to the indications and requirements defined by the countries of the continent\". The President said this by speaking from Accra, the second stage of his visit to Africa, in an interview with Ghana's President Nana Addo Dankwa Akufo-Addo.\" Ghana represents for Italy a fundamental partner in the partnership between Africa and Europe, a partnership that we intend based on mutual respect, on the equal relationship of collaboration that benefits both parties because the future of Africa and Europe is necessarily common. The summit that took place last January in Rome - said President Mattarella in declarations to the press - confirmed the intention of Italy to promote a joint action, agreed according to the indications of the African countries, for the concrete collaboration between Africa and Europe. The Mattei plan, which the Italian government has launched by evoking a protagonist of the friendship between Africa and Europe, evokes the desire to collaborate in an equal way according to the need of African countries trying to involve this whole Europe\". The president of the republic then continued his speech addressing other themes. \"We must face together the migration phenomenon - he said - that it must be converted from a disorderly phenomenon, managed by traffickers of human beings, to a phenomenon with legal and concordally defined entrances. It's an important goal.\" \"Ghana and Italy are linked by a strong friendship, by common values such as multilateralism, dialogue and peace. It serves an international and collaborative dialogue among all\" and between us is \"the conviction that the path taken in Europe, in Africa, and the Middle East, that is, war, and the wrong way\". We must \"work for a strengthening of the United Nations. The challenges we face, like humanity, require great international collaboration. They are impossible in contrast,\" Mattarella said. Shortly before the president of Ghana had strongly demanded a rebalance of the weight of Africa in the UN: \"The reform of the United Nations must become a priority, it has long been necessary. They also agree with Italy and the European Union, we must correct the injustices that concern African countries.\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mattei",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "partnership",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The Mattei",
+                "start_char": 13,
+                "end_char": 23,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Mattei",
+                "start_char": 27,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 56,
+                "end_char": 63,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mattei",
+                "start_char": 110,
+                "end_char": 116,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "West Africa",
+                "start_char": 140,
+                "end_char": 151,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Accra",
+                "start_char": 471,
+                "end_char": 476,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 482,
+                "end_char": 488,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Africa",
+                "start_char": 511,
+                "end_char": 517,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 540,
+                "end_char": 545,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nana Addo Dankwa Akufo-Addo",
+                "start_char": 558,
+                "end_char": 585,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 588,
+                "end_char": 593,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 609,
+                "end_char": 614,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Africa",
+                "start_char": 664,
+                "end_char": 670,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 675,
+                "end_char": 681,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Africa",
+                "start_char": 829,
+                "end_char": 835,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 840,
+                "end_char": 846,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "last January",
+                "start_char": 897,
+                "end_char": 909,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 913,
+                "end_char": 917,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 935,
+                "end_char": 945,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1004,
+                "end_char": 1009,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "African",
+                "start_char": 1080,
+                "end_char": 1087,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Africa",
+                "start_char": 1138,
+                "end_char": 1144,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1149,
+                "end_char": 1155,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Mattei",
+                "start_char": 1161,
+                "end_char": 1167,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1184,
+                "end_char": 1191,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Africa",
+                "start_char": 1267,
+                "end_char": 1273,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1278,
+                "end_char": 1284,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "African",
+                "start_char": 1360,
+                "end_char": 1367,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1407,
+                "end_char": 1413,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 1741,
+                "end_char": 1746,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1751,
+                "end_char": 1756,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1976,
+                "end_char": 1982,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Africa",
+                "start_char": 1987,
+                "end_char": 1993,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 1999,
+                "end_char": 2014,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the United Nations",
+                "start_char": 2087,
+                "end_char": 2105,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 2223,
+                "end_char": 2233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ghana",
+                "start_char": 2272,
+                "end_char": 2277,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Africa",
+                "start_char": 2329,
+                "end_char": 2335,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "UN",
+                "start_char": 2343,
+                "end_char": 2345,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United Nations",
+                "start_char": 2362,
+                "end_char": 2380,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 2454,
+                "end_char": 2459,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the European Union",
+                "start_char": 2464,
+                "end_char": 2482,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "African",
+                "start_char": 2528,
+                "end_char": 2535,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Conte: \"Nessuno dica che il M5S è sleale, avevo avvisato Schlein\"",
+        "date_raw": "Fri, 5 Apr 2024 15:48:39 +0200",
+        "date": "2024-04-05",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/05/conte-nessuno-dica-che-m5s-e-sleale-avevo-avvisato-schlein_668d92f2-6695-4a80-8b74-6405088a3bff.html",
+        "subtitle": "\"Se non ritirano le accuse sarà difficile collaborare con il Pd\"",
+        "content": "\"Mi dispiace di questa reazione\" del Pd alla decisione di rinunciare alle primarie del centrosinistra a Bari \"ma noi non accettiamo mancanza di rispetto e nessuno può permettersi di dire che il M5s è sleale o alludere a questo\". Lo ha detto a Bari, a margine di un incontro con gli elettori, il presidente del M5s, .Il leader del M5S ha spiegato di aver telefonato mercoledì a Elly Schlein sottolineando che \"se la situazione si fosse compromessa e che se ci fossero state nuove inchieste non saremmo stati disponibili a far finta di nulla proseguendo con le primarie\". \"Se non ritirano le accuse di slealtà diventerà sempre più difficile lavorare con il Pd. Il partito di Schlein non può pretendere che noi possiamo sottoscrivere tutto quello che viene dal passato. Noi siamo per la legalità, se il Pd è disposto a fare un nuovo percorso senza buttare a mare tutto il passato va bene, altrimenti ne prendiamo atto\", ha aggiunto Conte.\"Noi a Bari eravamo all'opposizione, abbiamo accettato di fare un percorso comune ma su determinati presupposti. Se c'è qualcuno che fa finta di nulla o vuole sminuire non ci stiamo. La situazione è oggettivamente grave\". Quindi noi diciamo Laforgia, è un candidato non da noi indicato, autorevole serio, segno di rinnovamento rispetto alla giunta uscente e ha tutte le caratteristiche per rimanere in gara, anzi rafforza la sua candidatura di fronte alla indicazione del Pd che, con tutto il rispetto per la persona, si è limitato a designare Leccese che è il capo di gabinetto della giunta uscente\". \"Secondo me bisogna, rispettando anche il lavoro fatto dalla giunta uscente - ha detto - dare assolutamente un segno di un nuovo inizio e di un forte rinnovamento con dei presidi di legalità che noi pretenderemo lavorando con chiunque qui a Bari\". \"Se non ci vuole il Pd ce ne faremo una ragione ma noi vogliamo mantenere lo spirito unitario\" della coalizione di centrosinistra a Bari, \"invito quindi il Pd a non reagire in modo scomposto\". \"Altra cosa che è uscita dal Nazareno - ha aggiunto Conte - è che non ci siamo sentiti ieri. Io prima di comunicare alla stampa le nostre determinazioni ho fatto una lunga conversazione con la segretaria Schlein. Quindi vi prego che non escano più fesserie del genere\". \"Siamo al lavoro, i nostri dirigenti devono trovare il miglior candidato o la migliore candidata possibile per governare la città di Bari. Stanno emergendo problemi politici gravi a Bari, serve certamente un rinnovamento in quella città\". Lo ha detto il leader di FI  rispondendo, a margine di un convegno sulla sanità, a chi gli chiedeva se il caos a Bari farà velocizzare la scelta del candidato del centrodestra.\"A Bari stanno succedendo delle cose che lasciano molto perplessi - ha aggiunto Tajani -, noi siamo garantisti ma quello che sta emergendo dal punto di vista politico appare molto, molto grave. Poi da un punto di vista giudiziario toccherà alla magistratura e alle forze dell'ordine\" verificare, \"non a noi. Ma a livello politico Bari è una città che vive momenti di grande difficoltà: c'è un ritorno della malavita, sparatorie, un clima preoccupante. È giusto che si intervenga\".\"Piantedosi ha fatto benissimo - ha continuato - perché quando ci sono problemi in una società che è di proprietà totale del Comune bisogna vedere cosa è accaduto, perché queste società per legge devono rispettare le stesse regole che rispettano le pa. Lì c'è qualcosa che non ha funzionato, nulla c'entra la polemica nei confronti del sindaco, riguarda la gestione di questa società. Non è un attacco a nessuno ma non si può pensare che delle amministrazioni siano controllate e delle altre no, solo per colore politico\".\"Il tema che abbiamo di fronte a Bari non è ricomporre l'alleanza fra il Pd, il M5S e la sinistra. Il punto fondamentale è evitare che due proposte, due candidature di qualità per quella città producano tra loro una rottura dannosa per Bari. I due candidati si incontrino, si vedano, esercitino un protagonismo\". È l'appello che il segretario nazionale di Sinistra Italiana  lancia dai microfoni de La7 durante l'Aria che Tira.\"Sono loro due i candidati, - prosegue il leader di SI - perché a fare il sindaco di Bari non ci andranno né Conte, né Fratoianni né Bonelli né Schlein. Sono due candidati di una coalizione progressista una persona come Michele Laforgia avvocato stimatissimo e Vito Leccese, altra figura stimata e perbene. Sono loro che ci hanno messo la faccia, e allora dico a loro due: esercitate un protagonismo e non regaliamo la città di Bari alla destra, trovate voi due una soluzione\".\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1712325803.715764,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-05 16:03:23",
+        "filename": "ner_conc_en_2024-04-05T16.00.22E1712332822.912643.json",
+        "en_title": "Count: \"No one says the M5S is unfair, I warned Schlein\"",
+        "en_content": "\"I am sorry for this reaction\" of the PD to the decision to give up the primaries of the centerleft in Bari \"but we do not accept lack of respect and no one can afford to say that the M5s is unfair or allude to this\". He told Bari, in the margin of a meeting with the voters, the president of the M5s, .The leader of the M5S explained that he had called Wednesday to Elly Schlein emphasizing that \"if the situation had been compromised and that if there were new investigations we would not have been available to pretend nothing by continuing with the primaries\". \"If they do not withdraw the accusations of unfairness it will become increasingly difficult to work with the Pd. The party of Schlein cannot claim that we can subscribe to everything that comes from the past. We are for legality, if the Pd is willing to make a new path without throwing at sea all the past is fine, otherwise we take note\", he added. \"We in Bari were in opposition, we agreed to make a common path but on certain assumptions. If there's anyone who's pretending to be nothing or wanting to deceive, we're not. The situation is objectively serious.\" So we say Laforgia, is a candidate not indicated by us, authoritative serious, sign of renewal regarding the outgoing junta and has all the characteristics to remain in the race, indeed it strengthens its candidacy in front of the indication of the Pd that, with all respect for the person, it is limited to designating Leccese that is the head of cabinet of the outgoing\". \"According to me it is necessary, respecting also the work done by the outgoing junta - he said - to give absolutely a sign of a new beginning and a strong renewal with the presidi of legality that we will demand working with anyone here in Bari\". \"If it does not take the Pd we will make a reason but we want to maintain the unified spirit\" of the center-left coalition in Bari, \"I therefore invite the Pd not to react in a misunderstood way\". \"Other thing that came out of Nazareno - added Conte - is that we did not feel yesterday. I had a long conversation with the secretary Schlein before communicating to the press. So please don't get any more festives like that.\" \"We are at work, our leaders must find the best candidate or the best candidate possible to rule the city of Bari. Serious political problems are emerging in Bari, it certainly needs a renewal in that city.\" The FI leader said this by answering, at the margin of a conference on health, to those who asked him whether chaos in Bari will speed up the choice of the candidate of the centre-right. \"In Bari there are some things that leave very perplexed - Tajani added -, we are guaranteed but what is emerging from the political point of view appears very, very serious. Then from a judicial point of view it will be up to the judiciary and the forces of order,\" check, \"not to us. But on a political level Bari is a city that lives moments of great difficulty: there is a return of the sick, shooting, a worrying climate. It is right to intervene.\" \"Piantedosi has done well - it has continued - because when there are problems in a society that is total property of the Municipality you must see what happened, because these societies by law must respect the same rules that respect the pa. There's something that didn't work, nothing has to do with the mayor's argument about the management of this company. It is not an attack on anyone but one cannot think that administrations are controlled and others are not, only by political color\". \"The theme we have in front of Bari is not to recompose the alliance between the Pd, the M5S and the left. The main point is to avoid that two proposals, two quality applications for that city produce among themselves a harmful break for Bari. The two candidates meet, see, exercise a protagonism.\" It is the appeal that the national secretary of Sinistra Italiana launches from the microphones of La7 during the Air that Tira. \"They are the candidates, - the leader of SI continues - because to make the mayor of Bari will not go there neither Count, nor Fratoianni neither Bonelli nor Schlein. They are two candidates of a progressive coalition a person like Michele Laforgia esteemed lawyer and Vito Leccese, another esteemed figure and perbene. They put their faces on it, and then I say to them two: exercise a protagonism and don't give the city of Bari to the right, find you two a solution.\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Count",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "one",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "M5S",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Schlein",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 48,
+                "end_char": 55,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 103,
+                "end_char": 107,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "M5s",
+                "start_char": 184,
+                "end_char": 187,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bari",
+                "start_char": 226,
+                "end_char": 230,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "M5s",
+                "start_char": 297,
+                "end_char": 300,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 354,
+                "end_char": 363,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Elly Schlein",
+                "start_char": 367,
+                "end_char": 379,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 692,
+                "end_char": 699,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 924,
+                "end_char": 928,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 1141,
+                "end_char": 1149,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Leccese",
+                "start_char": 1451,
+                "end_char": 1458,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bari",
+                "start_char": 1746,
+                "end_char": 1750,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 1879,
+                "end_char": 1883,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Conte",
+                "start_char": 1997,
+                "end_char": 2002,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 2029,
+                "end_char": 2038,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 2085,
+                "end_char": 2092,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2287,
+                "end_char": 2291,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2336,
+                "end_char": 2340,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2505,
+                "end_char": 2509,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2577,
+                "end_char": 2581,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2884,
+                "end_char": 2888,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 3552,
+                "end_char": 3556,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 3660,
+                "end_char": 3663,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 3675,
+                "end_char": 3678,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bari",
+                "start_char": 3759,
+                "end_char": 3763,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 3769,
+                "end_char": 3772,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sinistra Italiana",
+                "start_char": 3868,
+                "end_char": 3885,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tira",
+                "start_char": 3943,
+                "end_char": 3947,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "SI",
+                "start_char": 3991,
+                "end_char": 3993,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bari",
+                "start_char": 4035,
+                "end_char": 4039,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fratoianni",
+                "start_char": 4077,
+                "end_char": 4087,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bonelli",
+                "start_char": 4096,
+                "end_char": 4103,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 4108,
+                "end_char": 4115,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 4126,
+                "end_char": 4129,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Michele Laforgia",
+                "start_char": 4182,
+                "end_char": 4198,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vito Leccese",
+                "start_char": 4219,
+                "end_char": 4231,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 4321,
+                "end_char": 4324,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bari",
+                "start_char": 4376,
+                "end_char": 4380,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 4404,
+                "end_char": 4407,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

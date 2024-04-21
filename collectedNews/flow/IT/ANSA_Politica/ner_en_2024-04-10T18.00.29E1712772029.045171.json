@@ -1,0 +1,3271 @@
+[
+    {
+        "title": "I 40 anni della Lega di Bossi, festa domenica a Varese con Salvini",
+        "date_raw": "Wed, 10 Apr 2024 17:39:05 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/i-40-anni-della-lega-di-bossi-festa-domenica-a-varese-con-salvini_552dccce-a70b-40b0-9504-cfb73ebb7381.html",
+        "subtitle": "Invitato il Senatùr. Poi il 20 a Bergamo un evento sull'Autonomia",
+        "content": "   Ci sarà anche Matteo Salvini, a quanto si apprende, alla \"festa di popolo\" organizzata domenica a Varese per celebrare i quarant'anni dall'atto con cui Umberto Bossi fondò la Lega Autonomista Lombarda. Anche il Senatùr è invitato all'appuntamento, organizzato dalla segreteria regionale Lega Lombarda in collaborazione con la storica sezione di Varese: si parte dalle 11.30 in piazza del Podestà, è prevista anche una risottata, e l'invito è rivolto a cittadini, militanti, nonché a parlamentari e ministri leghisti, come spiega Fabrizio Cecchetti, deputato e coordinatore della Lega Lombarda. Sono attesi, fra gli altri, anche il presidente della Camera Lorenzo Fontana e il capogruppo leghista al Senato Massimiliano Romeo.    \"Sarà una festa di popolo. E rientra in una settimana di iniziative - spiega Cecchetti -. Venerdì faremo un flash mob a mezzogiorno a Milano, sotto il Pirellone, nel giorno del compleanno della Lega. Poi domenica la festa a Varese. Quindi sabato 20 aprile a Bergamo ci sarà un convegno sull'Autonomia, a cui parteciperanno il ministro Calderoli, il ministro Fontana e in collegamento Salvini, in vista dell'inizio dell'approdo del disegno di legge in Aula alla Camera, dopo il primo via libera al Senato\". \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 1,
+        "placed": "Politica",
+        "epoch": 1712764830.2711577,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "The 40 years of the League of Bossi, feast Sunday in Varese with Salvini",
+        "en_content": "There will also be Matteo Salvini, to what is learned, to the \"people's festival\" organized Sunday in Varese to celebrate forty years from the act with which Umberto Bossi founded the Autonomist League Lombarda. Also the Senatùr is invited to the appointment, organized by the regional secretariat Lega Lombarda in collaboration with the historical section of Varese: Starting from 11.30 in Piazza del Podestà, there is also a risottata, and the invitation is addressed to citizens, militants, as well as to parliamentarians and ministers of the Leghisti, as explains Fabrizio Cecchetti, MP and coordinator of the League Lombarda. Among others, the President of the Chamber Lorenzo Fontana and the leader of the Leghista Group in the Massimiliano Romeo Senate are expected. \"It will be a feast of people. And it is part of a week of initiatives - explains Cecchetti -. On Friday we will make a flash mob at noon in Milan, under the Pirellone, on the birthday of the League. Then Sunday the party in Varese. So Saturday, April 20 in Bergamo there will be a conference on the Autonomy, to which will participate minister Calderoli, minister Fontana and in connection Salvini, in view of the beginning of the landing of the bill in the Chamber Hall, after the first free way to the Senate\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "years",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "League",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Bossi",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunday",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Varese",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The 40 years",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the League of Bossi",
+                "start_char": 16,
+                "end_char": 35,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sunday",
+                "start_char": 43,
+                "end_char": 49,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Varese",
+                "start_char": 53,
+                "end_char": 59,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Salvini",
+                "start_char": 65,
+                "end_char": 72,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Sunday",
+                "start_char": 92,
+                "end_char": 98,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Varese",
+                "start_char": 102,
+                "end_char": 108,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "forty years",
+                "start_char": 122,
+                "end_char": 133,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Umberto Bossi",
+                "start_char": 158,
+                "end_char": 171,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Autonomist League Lombarda",
+                "start_char": 180,
+                "end_char": 210,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senatùr",
+                "start_char": 221,
+                "end_char": 228,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lega Lombarda",
+                "start_char": 298,
+                "end_char": 311,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Varese",
+                "start_char": 360,
+                "end_char": 366,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "11.30",
+                "start_char": 382,
+                "end_char": 387,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Piazza",
+                "start_char": 391,
+                "end_char": 397,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Leghisti",
+                "start_char": 546,
+                "end_char": 554,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fabrizio Cecchetti",
+                "start_char": 568,
+                "end_char": 586,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the League Lombarda",
+                "start_char": 610,
+                "end_char": 629,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Chamber Lorenzo Fontana",
+                "start_char": 662,
+                "end_char": 689,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Leghista Group",
+                "start_char": 708,
+                "end_char": 726,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 753,
+                "end_char": 759,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a week",
+                "start_char": 823,
+                "end_char": 829,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cecchetti",
+                "start_char": 856,
+                "end_char": 865,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friday",
+                "start_char": 872,
+                "end_char": 878,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "noon",
+                "start_char": 907,
+                "end_char": 911,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Milan",
+                "start_char": 915,
+                "end_char": 920,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 979,
+                "end_char": 985,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Varese",
+                "start_char": 999,
+                "end_char": 1005,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "Saturday, April 20",
+                "start_char": 1010,
+                "end_char": 1028,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bergamo",
+                "start_char": 1032,
+                "end_char": 1039,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Calderoli",
+                "start_char": 1119,
+                "end_char": 1128,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fontana",
+                "start_char": 1139,
+                "end_char": 1146,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Chamber Hall",
+                "start_char": 1229,
+                "end_char": 1245,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 1257,
+                "end_char": 1262,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 1279,
+                "end_char": 1285,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Via libera al regolamento sulla par condicio per le europee in Commissione di Vigilanza",
+        "date_raw": "Wed, 10 Apr 2024 11:50:30 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/09/via-libera-al-regolamento-sulla-par-condicio-per-le-europee-in-commissione-di-vigilanza_6711189d-13cb-4701-bc2c-3408b3a75dd5.html",
+        "subtitle": "Insorgono Pd e M5s 'grave strappo'",
+        "content": "Nessun accordo in Commissione di Vigilanza sul regolamento sulla par condicio per le europee dell'8 e 9 giugno. La maggioranza ha deciso di andare avanti sugli emendamenti contestati dall'opposizione sull'informazione governativa, provocando il voto contrario e le proteste di tutti i partiti di minoranza. Lo strappo è arrivato, in particolare, su una delle proposte di modifica a firma di Francesco Filini (Fdi), Giorgio Maria Bergesio (Lega) e Maurizio Lupi (Noi Moderati). Quella che introduce, nei programmi di approfondimento giornalistico, \"la necessità di garantire una puntuale informazione sulle attività istituzionali e governative\". Una formulazione che secondo l'opposizione allarga le maglie a favore del governo, restringendo gli spazi per l'opposizione. Ha avuto, invece, il via libera della minoranza, dopo una riformulazione, l'emendamento che esclude dal conteggio sulla par condicio gli interventi televisivi dei rappresentanti governativi che intervengono \"su materie inerenti all'esclusivo esercizio delle funzioni istituzionali svolte\". L'emendamento è stato riscritto, specificando che \"la loro presenza deve essere limitata esclusivamente alla esigenza di assicurare la completezza e l'imparzialità dell'informazione\". La maggioranza ha anche approvato, con il no dell'opposizione, un emendamento secondo cui le dirette dei comizi elettorali devono essere preceduti da una sigla per distinguerli dalle edizioni dei tg.Resta, invece, il criterio, introdotto da Agcom nella delibera sulle tv private, che pesa in maniera differente il tempo degli interventi in base alle fasce orarie di messa in onda. Bocciati, infine, gli emendamenti proposti dall'esponente di Italia Viva, Maria Elena Boschi, per regolamentare le presenze dei giornalisti nei programmi d'informazione. \"Un grave strappo: non c'è stata nessuna volontà da parte della maggioranza di trovare una mediazione possibile - hanno detto i parlamentari del Pd in Vigilanza -. C'è stata invece la volontà di far esondare il governo durante la campagna elettorale eliminando il motivo stesso per cui esiste la par condicio. Cioè si vuole comprimere la voce dell'opposizione\". \"La maggioranza se n'è infischiata dei nostri appelli - hanno sottolineato gli esponenti M5S in commissione - e ha votato l'emendamento Filini, che stravolge la delibera azzoppando i presidi della par condicio. Quando vogliono approvare qualcosa che gli interessa procedono come schiacciasassi rifiutando ogni tipo di mediazione\". \"La sinistra fa disinformazione - ha affermato Maurizio Lupi di Noi Moderati -. Ai singoli ministri mai era stato contestato il diritto di informare sulla loro attività, anche nel corso della campagna elettorale\".\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 15,
+        "placed": "Politica",
+        "epoch": 1712764830.3307781,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Free movement of persons in the European Parliament",
+        "en_content": "No agreement in the Supervisory Committee on the Code on the European Parliament of 8 and 9 June. The majority decided to move forward on the amendments tabled by the opposition on government information, causing the contrary vote and protests of all minority parties. The tear arrived, in particular, on one of the proposed modifications by Francesco Filini (Fdi), Giorgio Maria Bergesio (Lega) and Maurizio Lupi (Wei Moderati). The one that introduces, in the programs of journalistic study, \"the need to ensure a punctual information on institutional and government activities\". A formulation that according to the opposition broadens the links in favor of the government, narrowing the spaces for the opposition. On the other hand, it had the free way of the minority, after a reformulation, the amendment which excludes from counting on the par with the television interventions of the government representatives who intervene \"on matters relating to the exclusive exercise of the institutional functions carried out\". The amendment was rewritten, specifying that \"their presence must be limited exclusively to the need to ensure completeness and impartiality of information\". The majority has also approved, with the no of the opposition, an amendment according to which the direct voters must be preceded by an acronym to distinguish them from the editions of the tg.Resta, on the other hand, the criterion, introduced by Agcom in the deliberation on private TV, which weighs differently the time of the interventions according to the hourly broadcasts. Finally, the amendments proposed by the exponent of Italia Viva, Maria Elena Boschi, to regulate the presence of journalists in information programmes. \"A serious tear: there was no will on the part of the majority to find a possible mediation - said MPs of the PD in Vigilance -. On the other hand, there was a desire to bring the government to an end during the election campaign, eliminating the very reason for the parochial. That is, we want to compress the voice of the opposition.\" \"The majority of our appeals have been disturbed - they have underlined the M5S members in committee - and voted on the Filini amendment, which overturns the resolution by removing the presidi of the par condicio. When they want to approve something they're interested in, they're going on like a crusher by refusing every kind of mediation.\" \"The left does disinformation - said Maurizio Lupi of Noi Moderati -. The individual ministers had never been challenged to inform about their activities, even during the election campaign.\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "movement",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "persons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "European",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the European Parliament",
+                "start_char": 28,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Supervisory Committee",
+                "start_char": 16,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 57,
+                "end_char": 80,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "8 and 9 June",
+                "start_char": 84,
+                "end_char": 96,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "one",
+                "start_char": 305,
+                "end_char": 308,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Francesco Filini",
+                "start_char": 342,
+                "end_char": 358,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giorgio Maria Bergesio",
+                "start_char": 366,
+                "end_char": 388,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Maurizio Lupi",
+                "start_char": 400,
+                "end_char": 413,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Wei Moderati",
+                "start_char": 415,
+                "end_char": 427,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Resta",
+                "start_char": 1374,
+                "end_char": 1379,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Agcom",
+                "start_char": 1429,
+                "end_char": 1434,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "hourly",
+                "start_char": 1542,
+                "end_char": 1548,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Italia Viva",
+                "start_char": 1613,
+                "end_char": 1624,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Maria Elena Boschi",
+                "start_char": 1626,
+                "end_char": 1644,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Filini",
+                "start_char": 2170,
+                "end_char": 2176,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Maurizio Lupi",
+                "start_char": 2430,
+                "end_char": 2443,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Ok alla par condicio, insorge l'opposizione",
+        "date_raw": "Tue, 9 Apr 2024 23:57:12 +0200",
+        "date": "2024-04-09",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/09/ok-alla-par-condicio-insorge-lopposizione_620ffd6b-c433-4b9f-98fb-ca818f28b5a8.html",
+        "subtitle": "Modifiche sull'informazione governativa. Pd-M5s, 'grave strappo'",
+        "content": "\n                                                \n            Nessun accordo in Commissione di\nVigilanza sul regolamento sulla par condicio per le europee\ndell'8 e 9 giugno. La maggioranza ha deciso di andare avanti\nsugli emendamenti contestati dall'opposizione sull'informazione\ngovernativa, provocando il voto contrario e le proteste di tutti\ni partiti di minoranza.\n                                    \n                                       \n\t\t\t\t   Lo strappo è arrivato, in particolare, su una delle proposte\ndi modifica a firma di Francesco Filini (Fdi), Giorgio Maria\nBergesio (Lega) e Maurizio Lupi (Noi Moderati). Quella che\nintroduce, nei programmi di approfondimento giornalistico, \"la\nnecessità di garantire una puntuale informazione sulle attività\nistituzionali e governative\". Una formulazione che secondo\nl'opposizione allarga le maglie a favore del governo,\nrestringendo gli spazi per l'opposizione.    \n   Ha avuto, invece, il via libera della minoranza, dopo una\nriformulazione, l'emendamento che esclude dal conteggio sulla\npar condicio gli interventi televisivi dei rappresentanti\ngovernativi che intervengono \"su materie inerenti all'esclusivo\nesercizio delle funzioni istituzionali svolte\". L'emendamento è\nstato riscritto, specificando che \"la loro presenza deve essere\nlimitata esclusivamente alla esigenza di assicurare la\ncompletezza e l'imparzialità dell'informazione\".     \n   La maggioranza ha anche approvato, con il no\ndell'opposizione, un emendamento secondo cui le dirette dei\ncomizi elettorali devono essere preceduti da una sigla per\ndistinguerli dalle edizioni dei tg.\n                                    \n                                       \n\t\t\t\t   Resta, invece, il criterio, introdotto da Agcom nella\ndelibera sulle tv private, che pesa in maniera differente il\ntempo degli interventi in base alle fasce orarie di messa in\nonda. Bocciati, infine, gli emendamenti proposti dall'esponente\ndi Italia Viva, Maria Elena Boschi, per regolamentare le\npresenze dei giornalisti nei programmi d'informazione. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 14,
+        "placed": "Politica",
+        "epoch": 1712764830.3384192,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Okay to the par-condicio, the opposition arises",
+        "en_content": "No agreement in the Commission\nSupervision of the European Par­liament Regulation\nof 8 and 9 June. The majority decided to move forward\non the amendments tabled by the opposition on information\ngovernment, provoking the contrary vote and the protests of all\nminority parties.\n\n\nThe tear has arrived, in particular, on one of the proposals\nby Francesco Filini (Fdi), Giorgio Maria\nBergesio (Lega) and Maurizio Lupi (We Moderate). The one\nintroduces, in the programs of journalistic study, \"the\nneed to ensure timely information on activities\ninstitutional and governmental.\" A formulation that according to\nthe opposition widens the links in favor of the government,\nnarrowing the spaces for the opposition.\nHe had, however, the free way of the minority, after one\n(Parliament adopted the legislative resolution)\nthe television interventions of the representatives\nGovernments that intervene \"on subjects inherent in the exclusive\nexercise of institutional functions.\" The amendment is\nrewritten state, specifying that \"their presence must be\nlimited exclusively to the need to ensure\ncompleteness and impartiality of information\".\nThe majority also approved, with no\nI would like to ask the Commission to take the necessary steps to ensure that the Commission is able to take the necessary measures.\nvoters must be preceded by an acronym for\ndistinguish them from tg editions.\n\n\nHowever, the criterion, introduced by Agcom in\ndeliberations on private TV, which weighs differently the\ntime of interventions according to the hourly intervals\nwave. Finally, reject the amendments proposed by the exponent\nby Italia Viva, Maria Elena Boschi, to regulate\nattendance of journalists in information programmes.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "par",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "condicio",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "opposition",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Commission\nSupervision of the European Par­liament Regulation",
+                "start_char": 16,
+                "end_char": 81,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "8 and 9 June",
+                "start_char": 85,
+                "end_char": 97,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "one",
+                "start_char": 318,
+                "end_char": 321,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Francesco Filini",
+                "start_char": 342,
+                "end_char": 358,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giorgio Maria\nBergesio",
+                "start_char": 366,
+                "end_char": 388,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Maurizio Lupi",
+                "start_char": 400,
+                "end_char": 413,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 433,
+                "end_char": 436,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one",
+                "start_char": 760,
+                "end_char": 763,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 765,
+                "end_char": 775,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Governments",
+                "start_char": 864,
+                "end_char": 875,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Commission",
+                "start_char": 1191,
+                "end_char": 1201,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Commission",
+                "start_char": 1249,
+                "end_char": 1259,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Agcom",
+                "start_char": 1417,
+                "end_char": 1422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "hourly",
+                "start_char": 1523,
+                "end_char": 1529,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Italia Viva",
+                "start_char": 1605,
+                "end_char": 1616,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Maria Elena Boschi",
+                "start_char": 1618,
+                "end_char": 1636,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Camera: oggi question time con Urso, Sangiuliano e Ciriani",
+        "date_raw": "Wed, 10 Apr 2024 15:40:44 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/camera-oggi-question-time-con-urso-sangiuliano-e-ciriani_f93e8cd4-c673-4ed1-b3ec-d389acb4a366.html",
+        "subtitle": "Il ministro delle Imprese risponde sui prezzi dei carburanti",
+        "content": "Si svolge oggi, mercoledì 10 aprile, alle 15, il question time trasmesso dalla Rai in diretta televisiva dall'Aula di Montecitorio, a cura di Rai Parlamento.     Il ministro delle Imprese e del Made in Italy, Adolfo Urso, risponde a una interrogazione sulle iniziative per la riforma del settore della distribuzione dei carburanti, al fine di contenere l'aumento dei prezzi anche attraverso il taglio delle accise (Gadda - IV-C-RE).      Il ministro della Cultura, Gennaro Sangiuliano, risponde a interrogazioni sulle iniziative per la messa in sicurezza sismica dei luoghi di culto appartenenti alle diocesi romagnole (Tassinari - FI-PPE); sulle iniziative volte a dare stabilità ai meccanismi di incentivazione fiscale a sostegno del comparto cinematografico e audiovisivo (Grippo - AZ-PER-RE); sulle iniziative per promuovere la figura di Giovanni Gentile in occasione dell'80/mo anniversario della sua morte (Foti - FDI).     Il ministro per i Rapporti con il Parlamento, Luca Ciriani, risponde a interrogazioni - rivolte al Ministro del Lavoro - sull'utilizzo appropriato da parte delle imprese della cosiddetta cassa straordinaria Covid e in ordine al recupero delle somme indebitamente percepite (Scotto - PD-IDP); sulle iniziative per assicurare la comunicazione dell'esito delle candidature relative alla seconda edizione del Fondo nuove competenze e per l'avvio della terza edizione del medesimo fondo (Lupi - NM(N-C-U-I)-M); sull'emanazione del bando relativo alla terza edizione del Fondo nuove competenze (Nisini - Lega); sulle iniziative in relazione allo stato di agitazione proclamato dai sindacati dei lavoratori dell'Enel (Pavanelli - M5S); sulle iniziative volte all'innalzamento del livello delle retribuzioni, al fine di recuperare il divario con gli altri Paesi europei (Mari - AVS).\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 13,
+        "placed": "Politica",
+        "epoch": 1712764830.4426084,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Room: today question time with Urso, Sangiuliano and Ciriani",
+        "en_content": "Today, Wednesday, April 10, at 3 p.m., the question time broadcast by Rai on live television from the Aula di Montecitorio, edited by Rai Parliament. The Minister of Enterprises and Made in Italy, Adolfo Urso, answers a question on the initiatives for the reform of the fuel distribution sector, in order to contain the increase in prices also through the cut of excise duties (Gadda - IV-C-RE). The Minister of Culture, Gennaro Sangiuliano, answers questions on initiatives for the seismic safety of places of worship belonging to the Romagna dioceses (Tassinari - FI-PPE); on initiatives aimed at giving stability to the mechanisms of fiscal incentive in support of the cinema and audiovisual sector (Grippo - AZ-PER-RE); on initiatives to promote the figure of Giovanni Gentile on the occasion of his death. The Minister for Relations with Parliament, Luca Ciriani, answers questions - addressed to the Minister of Labour - on the appropriate use by the companies of the so-called extraordinary Covid cash and in order to recover the sums unduly perceived (Scotto - PD-IDP); on the initiatives to ensure the outcome of the candidatures relating to the second edition of the Fund new skills and for the start of the third edition of the same fund (Lupi - NMsini\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Room",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "today",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "question",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "time",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Urso",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sangiuliano",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ciriani",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "today",
+                "start_char": 6,
+                "end_char": 11,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Urso",
+                "start_char": 31,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sangiuliano",
+                "start_char": 37,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ciriani",
+                "start_char": 53,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Today, Wednesday, April 10",
+                "start_char": 0,
+                "end_char": 26,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3 p.m.",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Rai",
+                "start_char": 70,
+                "end_char": 73,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aula",
+                "start_char": 102,
+                "end_char": 106,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Montecitorio",
+                "start_char": 110,
+                "end_char": 122,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rai Parliament",
+                "start_char": 134,
+                "end_char": 148,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 190,
+                "end_char": 195,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Adolfo Urso",
+                "start_char": 197,
+                "end_char": 208,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gennaro Sangiuliano",
+                "start_char": 421,
+                "end_char": 440,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Romagna",
+                "start_char": 536,
+                "end_char": 543,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the mechanisms of fiscal",
+                "start_char": 619,
+                "end_char": 643,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Grippo - AZ-PER-RE",
+                "start_char": 703,
+                "end_char": 721,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giovanni Gentile",
+                "start_char": 764,
+                "end_char": 780,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 843,
+                "end_char": 853,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Luca Ciriani",
+                "start_char": 855,
+                "end_char": 867,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Covid",
+                "start_char": 998,
+                "end_char": 1003,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Scotto",
+                "start_char": 1060,
+                "end_char": 1066,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "second",
+                "start_char": 1155,
+                "end_char": 1161,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the start of the",
+                "start_char": 1201,
+                "end_char": 1217,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "third",
+                "start_char": 1218,
+                "end_char": 1223,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Lupi - NMsini\n\n",
+                "start_char": 1250,
+                "end_char": 1265,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il Patto sui migranti spacca il Pe, il Pd voterà contro",
+        "date_raw": "Tue, 9 Apr 2024 20:26:15 +0200",
+        "date": "2024-04-09",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/09/il-patto-sui-migranti-spacca-il-pe-il-pd-votera-contro_add9d0ac-da73-4ff2-bf92-dc053e9d04c6.html",
+        "subtitle": "Ppe: 'Siate responsabili'. Fdi pressata da destra prende tempo",
+        "content": "Il terrore all'ultima curva, il voto dell'Aula non più scontato come una manciata di giorni fa, il . Il Patto sulla migrazione e l'asilo approda alla mini-Plenaria dell'Eurocamera con un improvviso alone di incertezza e fiaccato dalla campagna elettorale ormai alle porte. Fronde interne e spaccature nei gruppi della 'maggioranza Ursula' - Ppe, Socialisti e Renew - rendono meno blindata un'approvazione sulla quale, nonostante il governo abbia votato a favore nel febbraio scorso, neanche Fratelli d'Italia si sente di scommettere. Anche perché, tra i partiti italiani sembrano prevalere quelli contrari, con il Pd che è uscito allo scoperto: \"Per noi questo compromesso è troppo poco, voteremo no\".  La votazione sarà lunga anche perché il Patto sui migranti si compone di 8 file legislativi, dei quali cinque ne rappresentano il cuore: il regolamento sulla gestione della migrazione e l'asilo, il testo sulla gestione delle crisi migratorie, il regolamento Eurodac (sulla banca dati Ue delle impronte digitali), il regolamento sulla procedura di asilo. Ciascuno di questi testi appaga una parte dell'emiciclo e scontenta l'altra. In linea di principio si dovrebbero pronunciare a favore i tre gruppi della maggioranza pro-von der Leyen. Ma, a poche ore dal voto, sono già fioccati i distingui.  E , con il medesimo bersaglio: Emmanuel Macron. \"Oggi sono meno ottimista di ieri\", ha confessato una fonte dei Popolari. Inevitabilmente, il voto su un dossier così elettorale come quello della migrazione risente dell'avvicinarsi delle Europee. , nella sua ultima sortita a Strasburgo, aveva messo le basi di una linea più dura in Europa su due temi, in particolare: i migranti e il Patto di stabilità, che andrà al voto nella seconda metà di aprile. Non a caso il leader del Ppe, Manfred Weber, fiutando l'aria, ha anticipato tutti con un netto avvertimento diretto ai Dem: \"Non sottraetevi alle vostre responsabilità, il voto di domani deciderà se siete un partito europeista o meno\". La risposta, tuttavia, è andata nella direzione opposta: \"Non accettiamo lezioni da Weber, che si è asservito all'estrema destra\", ha replicato il capodelegazione Brando Benifei. Eppure, nella squadra dei Dem qualcuno probabilmente voterà in dissenso rispetto alla linea del Nazareno ma in conformità con l'ordine di scuderia di S&d, e quindi a favore dell'intero pacchetto. Ilha già annunciato la sua contrarietà. I Verdi Ue, inclusi gli ex pentastellati, non hanno mai votato sì fino ad ora. La Lega si è chiusa in un prudente silenzio ma non ha mai nascosto il suo malumore e potrebbe votare contro su buona parte dei testi. E Giorgia Meloni, pressata a destra da Id e dalla maggioranza del suo gruppo, Ecr, dovrà scegliere se blindare un Patto voluto innanzitutto da Ursula von der Leyen o marcare la differenza con la compagine europeista. Stando agli ultimi rumors, è difficile che Fdi dica sì all'intero insieme di norme. \"Valuteremo nel merito ogni singolo provvedimento\", viene riferito. L'impressione è che sui migranti buona parte dei partiti giochi al 'cherry picking', ignorando le parti del Patto poco vendibili al proprio elettorato. Ma il gioco potrebbe sfuggire di mano, imprimendo indirettamente un nuovo, durissimo colpo alla candidatura di von der Leyen. \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 16,
+        "placed": "Politica",
+        "epoch": 1712764830.5049553,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "The Migrant Pact splits the Pe, the PD will vote against",
+        "en_content": "Terror at the last bend, the vote of the House no longer served as a handful of days ago, the . The pact on migration and asylum approaches the mini-Plenary of the Eurocamera with a sudden halo of uncertainty and flawed by the electoral campaign now at the door. Internal frauds and splits in the groups of the 'Mountain Ursula' - Ppe, Socialists and Renew - make less armored an approval on which, despite the government voted in favour last February, not even Brothers of Italy feels to bet. Also because, among the Italian parties seem to prevail the contrary ones, with the Pd that went out to the open: \"For us this compromise is too little, we will vote no.\" The vote will be long because the Migrants Pact consists of 8 legislative files, of which five represent the heart: the Regulation on the management of migration and asylum, the text on the management of migration crises, the Eurodac Regulation (on the EU database of fingerprints), the Regulation on the asylum procedure. Each of these texts fills one part of the emicycle and displeases the other. In principle, the three groups of the pro-von der Leyen majority should be pronounced. But, just a few hours from the vote, the distinctions are already made. And with the same target: Emmanuel Macron. \"Today I'm less optimistic than yesterday,\" he confessed to a popular source. Inevitably, the vote on such an electoral dossier as that of migration is affected by the approach of Europeans. , in its last fate in Strasbourg, it laid the foundations for a harder line in Europe on two issues, in particular: migrants and the Stability Pact, which will vote in the second half of April. Not by chance the leader of the Ppe, Manfred Weber, smelling the air, anticipated all with a clear direct warning to the Dem: \"Do not withdraw from your responsibilities, tomorrow's vote will decide whether you are a Europeanist party or not.\" The answer, however, went in the opposite direction: \"We do not accept lessons from Weber, who has enslaved himself to the extreme right,\" said Head of Delegation Brando Benifei. Yet, in the Dem team, someone will probably vote in disagreement with the Nazareno line but in accordance with the S&d stable order, and therefore in favor of the entire package. It has already announced its opposition. The EU Greens, including former pentastellates, have never voted so far. The League closed itself in a cautious silence but never hid its mood and could vote against most of the texts. And Giorgia Meloni, pressed right by Id and by the majority of his group, Ecr, will have to choose whether to arm a Covenant wanted first by Ursula von der Leyen or to mark the difference with the Europeanist compagine. According to the latest noises, it is difficult for Fdi to say yes to the whole set of rules. \"We will evaluate every single measure in merit,\" he says. The impression is that on migrants most of the parties play 'cherry picking', ignoring the parts of the Covenant not sold to their electorate. But the game could escape from hand, indirectly pressing a new, hard hit to the candidacy of von der Leyen.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Migrant",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pact",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Pe",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PD",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Pe",
+                "start_char": 28,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "PD",
+                "start_char": 36,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "House",
+                "start_char": 41,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "days ago",
+                "start_char": 80,
+                "end_char": 88,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Plenary of the Eurocamera",
+                "start_char": 149,
+                "end_char": 174,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Socialists",
+                "start_char": 336,
+                "end_char": 346,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Renew",
+                "start_char": 351,
+                "end_char": 356,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "last February",
+                "start_char": 438,
+                "end_char": 451,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Brothers of Italy",
+                "start_char": 462,
+                "end_char": 479,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 518,
+                "end_char": 525,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Migrants Pact",
+                "start_char": 695,
+                "end_char": 712,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "8",
+                "start_char": 725,
+                "end_char": 726,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "five",
+                "start_char": 755,
+                "end_char": 759,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Eurodac Regulation",
+                "start_char": 887,
+                "end_char": 909,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 918,
+                "end_char": 920,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "one",
+                "start_char": 1014,
+                "end_char": 1017,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three",
+                "start_char": 1083,
+                "end_char": 1088,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Leyen",
+                "start_char": 1115,
+                "end_char": 1120,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "just a few hours",
+                "start_char": 1157,
+                "end_char": 1173,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Emmanuel Macron",
+                "start_char": 1250,
+                "end_char": 1265,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 1299,
+                "end_char": 1308,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 1447,
+                "end_char": 1456,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Strasbourg",
+                "start_char": 1480,
+                "end_char": 1490,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1537,
+                "end_char": 1543,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "two",
+                "start_char": 1547,
+                "end_char": 1550,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Stability Pact",
+                "start_char": 1587,
+                "end_char": 1605,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the second half of April",
+                "start_char": 1626,
+                "end_char": 1650,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ppe",
+                "start_char": 1684,
+                "end_char": 1687,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Manfred Weber",
+                "start_char": 1689,
+                "end_char": 1702,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dem",
+                "start_char": 1773,
+                "end_char": 1776,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 1823,
+                "end_char": 1831,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Europeanist",
+                "start_char": 1869,
+                "end_char": 1880,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dem",
+                "start_char": 2087,
+                "end_char": 2090,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Nazareno",
+                "start_char": 2149,
+                "end_char": 2157,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "S&d",
+                "start_char": 2190,
+                "end_char": 2193,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "EU",
+                "start_char": 2299,
+                "end_char": 2301,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 2484,
+                "end_char": 2498,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ecr",
+                "start_char": 2554,
+                "end_char": 2557,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Covenant",
+                "start_char": 2596,
+                "end_char": 2604,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 2612,
+                "end_char": 2617,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Ursula von der",
+                "start_char": 2621,
+                "end_char": 2635,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Leyen",
+                "start_char": 2636,
+                "end_char": 2641,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europeanist",
+                "start_char": 2677,
+                "end_char": 2688,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fdi",
+                "start_char": 2752,
+                "end_char": 2755,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Covenant",
+                "start_char": 2957,
+                "end_char": 2965,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "von der",
+                "start_char": 3089,
+                "end_char": 3096,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Leyen",
+                "start_char": 3097,
+                "end_char": 3102,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Comunali di Bari, Laforgia rimette la candidatura ai partiti",
+        "date_raw": "Tue, 9 Apr 2024 22:43:55 +0200",
+        "date": "2024-04-09",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/09/laforgia-rimetto-ai-partiti-disponibilita-candidatura_01cab3bc-8b1f-4a77-bf34-a7c6eebee76b.html",
+        "subtitle": "'Non intendo ritirarmi a vita privata, ma resto a disposizione'. Centrodestra scioglie il nodo, Romito verso l'ufficializzazione",
+        "content": "Ancora acque agitate nel centrosinistra barese: stasera, durante una conferenza stampa convocata nel giro di poche ore, Michele Laforgia, sostenuto da una parte del centrosinistra (M5s, Sinistra italiana, Italia viva, +Europa e socialisti) ha deciso di rimettere la sua candidatura a sindaco di Bari ai partiti che lo sostengono, chiedendo che siano loro a decidere se ci sono ancora le condizioni per andare avanti. \"Credo - ha annunciato l'avvocato - che sia arrivato il momento, liberando definitivamente il campo da ogni sospetto di personalismo, di rimettere la mia disponibilità alla candidatura a sindaco alle stesse forze politiche che me l'hanno chiesta e l'hanno sostenuta, almeno fino ad oggi, e cioè la Convenzione per Bari 2024 e il Movimento 5 stelle\". \"Nelle ultime ore da più parti è stato chiesto ai due candidati, e cioè a me e Vito Leccese, di incontrarci, di fare un passo indietro e, magari, di individuare un terzo uomo o una terza donna che eviti la spaccatura del centrosinistra alle ormai imminenti elezioni dell'8 e 9 giugno. Mi sembra una sesquipedale sciocchezza, ennesimo sintomo del tramonto della politica\". \"Non siamo noi, e comunque di certo non sono io, bollato come divisivo sin dal primo momento - ha detto ancora Laforgia - a poter ricomporre, d'incanto, il campo largo, o giusto o comunque unito, magari specificando anche di chi dovremmo fare a meno. È compito delle forze politiche, le stesse forze politiche che ci hanno candidato e che in questi giorni e in queste ore ci chiedono di compiere passi di danza, non si capisce verso dove, nè come\". L'annuncio a sorpresa è arrivato a pochi giorni, dopo molte polemiche, dall'annullamento delle primarie che si sarebbero dovute tenere domenica scorsa con l'altro candidato del centrosinistra (Pd, Verdi e altri), Vito Leccese. Giovedì scorso, a poche ore dagli arresti per un presunto voto di scambio, Laforgia e Giuseppe Conte hanno annunciato la rinuncia ai gazebo per il venire meno delle \"condizioni minime di sicurezza\". Una scelta che, di fatto, ha spaccato il campo progressista, creando una frattura tra Dem e pentastellati, tra Conte e Schlein. \"Resto al servizio del centrosinistra e in attesa di sapere se e a quali condizioni mi sarà chiesto un impegno in prima persona - ha detto Laforgia - Dopo di che deciderò cosa fare di intesa con tutti e tutte coloro che mi sono stati/e accanto in questi mesi\". Tutto questo avviene mentre sull'altro fronte il centrodestra, dopo un tira e molla durato quattro mesi, sembra pronto ad ufficializzare domani il proprio candidato sindaco: salvo altri colpi di scena sarà Fabio Romito, consigliere regionale della Lega, 36 anni compiuti proprio oggi. Che qualcosa si stesse smuovendo si era intuito già sabato scorso, quando il leader del Carroccio, Matteo Salvini, da Torino aveva parlato di un centrodestra pronto a vincere a Bari con un \"giovane leghista\" e domenica, da Bari aveva delineato un profilo che faceva pensare proprio a Romito. La svolta è arrivata ieri sera, durante un tavolo cittadino che ha dato il via libera definitivo. Il consigliere regionale della Lega avrebbe quindi superato al fotofinish i colleghi di coalizione Filippo Melchiorre, senatore di FdI vicinissimo alla premier Giorgia Meloni, e il viceministro Francesco Paolo Sisto (FI).   Per il candidato sindaco di Bari \"questa operazione di casting è già stata fatta e a ridosso delle elezioni non è serio rifarla. Ci siamo già passati, le forze si assumano le loro responsabilità. Noi abbiamo indicato Laforgia, le altre ci facciano sapere cosa vogliono fare. Vogliamo vincere? C'è un candidato autorevole, Laforgia\". Lo ha detto il presidente del M5s, Giuseppe Conte, a Cartabianca su Rete 4.\"Apprezziamo le parole e il grande impegno di Michele Laforgia, candidato sindaco alle amministrative di Bari. La sua disponibilità a rimanere in campo dimostra la serietà e la coerenza di chi ha a cuore il futuro della città. Confermiamo convintamente il nostro sostegno alla sua candidatura\". Lo annuncia Leonardo Donno, coordinatore regionale del M5s in Puglia. \"Da parte nostra - aggiunge - c'è stato un percorso di lealtà, coerenza e trasparenza, nel pieno rispetto dei nostri principi e valori. Abbiamo ribadito più volte la necessità di un rinnovamento per Bari, soprattutto alla luce delle recenti e gravissime vicende giudiziarie. La sfida che ci apprestiamo ad affrontare richiede coraggio e la necessità di un atto di forte responsabilità verso i cittadini baresi. È necessario mettere da parte i personalismi e gli interessi di partito; il Movimento 5 stelle ha rinunciato sin dall'inizio a indicare un proprio nome come candidato sindaco della coalizione e ha scelto Laforgia come il candidato più autorevole e più convincente rispetto alla sfida che si prospetta a Bari. La nostra è stata una scelta motivata dalla volontà di perseguire il bene di Bari e la migliore prospettiva per i cittadini baresi. Abbiamo accettato anche le primarie pur di favorire l'unità. È stato ampiamente spiegato anche da Laforgia che non sussistevano più le condizioni perché si potessero svolgere a seguito della seconda inchiesta che ha allargato l'area grigia della \"mala politica\". Ancora oggi, peraltro, il Partito democratico non ha fornito elementi ostativi alla candidatura di Laforgia, ritenuto autorevole e stimato da tutti. Chiediamo quindi di fare una scelta per il bene della comunità barese e per evitare di consegnare la città alla peggiore destra. Auspichiamo quindi che ci possa essere una convergenza sul nome civico di Laforgia\".\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 17,
+        "placed": "Politica",
+        "epoch": 1712764830.640234,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Comunali di Bari, Laforgia reissues the candidacy to the parties",
+        "en_content": "Still stirred water in the centerleft of Bari: tonight, during a press conference convened within a few hours, Michele Laforgia, supported by a part of the centreleft (M5s, Italian Left, Italy alive, + Europe and socialists) decided to put his candidacy to mayor of Bari to the parties that support him, asking them to decide if there are still conditions to move forward. \"I believe - the lawyer has announced - that the moment has arrived, finally liberating the field from every suspicion of personalism, to put my readiness to the candidacy to mayor to the same political forces that have asked me and have supported it, at least until today, namely the Convention for Bari 2024 and the Movement 5 stars\". \"In the last several hours, the two candidates were asked, namely me and Vito Leccese, to meet us, to take a step back and, perhaps, to identify a third man or a third woman who avoids the split of the centre-left at the forthcoming elections of 8 and 9 June. It seems to me a sesquiped nonsense, yet another symptom of the sunset of politics.\" \"It is not us, and it is certainly not me, branded as a divisive from the first moment - Laforgia has said - to be able to recompose, of charm, the wide field, or just or anyway united, perhaps specifying also of who we should do without. It is the task of the political forces, the same political forces that have applied to us and that in these days and in these hours ask us to take dance steps, we do not understand where, nor how.\" The surprise announcement arrived a few days, after many controversies, from the annulment of the primaries that had to be held last Sunday with the other candidate of the centerleft (Pd, Verdi and others), Vito Leccese. Last Thursday, just a few hours after the arrests for an alleged vote of exchange, Laforgia and Giuseppe Conte announced the renunciation of the gazebos to come less than the \"minimum safety conditions\". A choice that, in fact, split the progressive field, creating a fracture between Dem and pentastellati, between Count and Schlein. \"I remain at the service of the centre-left and waiting to know if and under what conditions I will be asked for a commitment in the first person - Laforgia said - After which I will decide what to do of understanding with all and all those who have been near me in these months\". All this happens while on the other front the centerright, after a four-month throw and spring, seems ready to official tomorrow its mayor candidate: except for other scene shots will be Fabio Romito, regional councilman of the League, 36 years ago just today. That something was going on last Saturday, when Carroccio's leader Matteo Salvini, from Turin had talked about a training center ready to win in Bari with a \"legist girl\" and Sunday, from Bari had outlined a profile that made Romaito think. The turning point came last night, during a city table that gave the definitive way. The regional councilwoman of the League would then pass to the photofinish the colleagues of coalition Philip Melchiorre, Senator of FdI close to Prime Minister Giorgia Meloni, and Deputy Minister Francesco Paolo Sisto (FI). For the mayoral candidate of Bari \"this casting operation has already been done and close to the elections it is not serious to remake it. We have already passed, the forces assume their responsibilities. We indicated Laforgia, the others let us know what they want to do. Want to win? There is an authoritative candidate, Laforgia.\" This was said by the president of the M5s, Giuseppe Conte, in Cartabianca on Rete 4.\"We appreciate the words and the great commitment of Michele Laforgia, candidate mayor of Bari. Its readiness to stay in the field shows the seriousness and coherence of those who care about the future of the city. We firmly confirm our support for his candidacy.\" Leonardo Donno, regional coordinator of the M5s in Puglia. \"For our part - he adds - there was a path of loyalty, consistency and transparency, in full respect of our principles and values. We have repeatedly stressed the need for a renewal for Bari, especially in the light of recent and serious judicial events. The challenge we face requires courage and the need for a strong act of responsibility towards the citizens of Baresi. It is necessary to set aside personalisms and party interests; the 5 star movement has renounced from the beginning to indicate its name as mayoral candidate of the coalition and chose Laforgia as the most authoritative and most convincing candidate regarding the challenge that is expected in Bari. Our choice was motivated by the desire to pursue the good of Bari and the best perspective for the citizens of Bari. We also accepted the primary to promote unity. It was extensively explained also by Laforgia that there were no longer conditions for them to be carried out following the second investigation that widened the gray area of the \"political mala\". Even today, however, the Democratic Party did not provide any evidence to the candidacy of Laforgia, considered authoritative and esteemed by all. We therefore ask you to make a choice for the good of the Bari community and to avoid delivering the city to the worst right. We hope that there will be convergence on the civic name of Laforgia.\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Comunali",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bari",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Laforgia",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "candidacy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bari",
+                "start_char": 12,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 18,
+                "end_char": 26,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 41,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "tonight",
+                "start_char": 47,
+                "end_char": 54,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "a few hours",
+                "start_char": 98,
+                "end_char": 109,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Michele Laforgia",
+                "start_char": 111,
+                "end_char": 127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "M5s",
+                "start_char": 168,
+                "end_char": 171,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 173,
+                "end_char": 180,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 187,
+                "end_char": 192,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "+ Europe",
+                "start_char": 200,
+                "end_char": 208,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "socialists",
+                "start_char": 213,
+                "end_char": 223,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bari",
+                "start_char": 266,
+                "end_char": 270,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 640,
+                "end_char": 645,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Convention for Bari 2024",
+                "start_char": 654,
+                "end_char": 682,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the last several hours",
+                "start_char": 714,
+                "end_char": 736,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "two",
+                "start_char": 742,
+                "end_char": 745,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Vito Leccese",
+                "start_char": 783,
+                "end_char": 795,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "third",
+                "start_char": 857,
+                "end_char": 862,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "third",
+                "start_char": 872,
+                "end_char": 877,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "8 and 9 June",
+                "start_char": 956,
+                "end_char": 968,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 1129,
+                "end_char": 1134,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "these days",
+                "start_char": 1396,
+                "end_char": 1406,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "these hours",
+                "start_char": 1414,
+                "end_char": 1425,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "a few days",
+                "start_char": 1526,
+                "end_char": 1536,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "last Sunday",
+                "start_char": 1620,
+                "end_char": 1631,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Verdi",
+                "start_char": 1680,
+                "end_char": 1685,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vito Leccese",
+                "start_char": 1699,
+                "end_char": 1711,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Last Thursday",
+                "start_char": 1713,
+                "end_char": 1726,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "just a few hours",
+                "start_char": 1728,
+                "end_char": 1744,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 1796,
+                "end_char": 1804,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 1809,
+                "end_char": 1823,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dem",
+                "start_char": 1998,
+                "end_char": 2001,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "pentastellati",
+                "start_char": 2006,
+                "end_char": 2019,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 2039,
+                "end_char": 2046,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 2181,
+                "end_char": 2186,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "these months",
+                "start_char": 2314,
+                "end_char": 2326,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "four-month",
+                "start_char": 2396,
+                "end_char": 2406,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 2449,
+                "end_char": 2457,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Fabio Romito",
+                "start_char": 2516,
+                "end_char": 2528,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "36 years ago",
+                "start_char": 2565,
+                "end_char": 2577,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 2583,
+                "end_char": 2588,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "last Saturday",
+                "start_char": 2618,
+                "end_char": 2631,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Carroccio",
+                "start_char": 2638,
+                "end_char": 2647,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Matteo Salvini",
+                "start_char": 2657,
+                "end_char": 2671,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turin",
+                "start_char": 2678,
+                "end_char": 2683,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2735,
+                "end_char": 2739,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 2765,
+                "end_char": 2771,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2778,
+                "end_char": 2782,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Romaito",
+                "start_char": 2816,
+                "end_char": 2823,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "last night",
+                "start_char": 2854,
+                "end_char": 2864,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Philip Melchiorre",
+                "start_char": 3019,
+                "end_char": 3036,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 3077,
+                "end_char": 3091,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francesco Paolo Sisto",
+                "start_char": 3113,
+                "end_char": 3134,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 3170,
+                "end_char": 3174,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 3359,
+                "end_char": 3367,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 3464,
+                "end_char": 3472,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "M5s",
+                "start_char": 3513,
+                "end_char": 3516,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 3518,
+                "end_char": 3532,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cartabianca",
+                "start_char": 3537,
+                "end_char": 3548,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Michele Laforgia",
+                "start_char": 3612,
+                "end_char": 3628,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 3649,
+                "end_char": 3653,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Leonardo Donno",
+                "start_char": 3824,
+                "end_char": 3838,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "M5s",
+                "start_char": 3868,
+                "end_char": 3871,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Puglia",
+                "start_char": 3875,
+                "end_char": 3881,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bari",
+                "start_char": 4069,
+                "end_char": 4073,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Baresi",
+                "start_char": 4249,
+                "end_char": 4255,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "5",
+                "start_char": 4324,
+                "end_char": 4325,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 4442,
+                "end_char": 4450,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 4551,
+                "end_char": 4555,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 4618,
+                "end_char": 4622,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 4668,
+                "end_char": 4672,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 4758,
+                "end_char": 4766,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 4845,
+                "end_char": 4851,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "today",
+                "start_char": 4923,
+                "end_char": 4928,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Democratic Party",
+                "start_char": 4939,
+                "end_char": 4959,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 5009,
+                "end_char": 5017,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bari",
+                "start_char": 5123,
+                "end_char": 5127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Laforgia",
+                "start_char": 5251,
+                "end_char": 5259,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Mattarella alla Polizia, garante delle libertà costituzionali",
+        "date_raw": "Wed, 10 Apr 2024 10:09:17 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/mattarella-alla-polizia-garante-delle-liberta-costituzionali_013463f6-7a8b-43cb-a2d2-aac03b87ee87.html",
+        "subtitle": "Meloni: 'siete custodi di legalità e sicurezza'",
+        "content": "\n                                                \n            \"La Polizia di Stato,\nnell'accompagnare la vita democratica del Paese, contribuisce a\nporre le indispensabili premesse per il pieno esercizio delle\nlibertà costituzionali, in un contesto in cui legalità, coesione\nsociale, tutela dei diritti e della dignità delle persone contro\nogni sopruso, intimidazione o prevaricazione, costituiscono\nl'orizzonte del suo impegno\". Così il presidente della\nRepubblica Sergio Mattarella in un messaggio inviato al Capo\ndella Polizia, Direttore generale della Pubblica Sicurezza,\nPrefetto Vittorio Pisani, in occasione della celebrazione del\n172/mo anniversario dalla fondazione.\n                                    \n                                       \n\t\t\t\t  La premier Giorgia Meloni definisce gli agenti \"custodi di\nlegalità e sicurezza del territorio, sempre pronti a mettere a\nrepentaglio la vita per salvare quella altrui\". In un tweet\nesprime dunque \"riconoscenza. Grazie - scrive - per esserci\nsempre\".\n                                    \n                                       \n\t\t\t\t   Il capo dello Stato ricorda come \"il delicato impegno posto\nnel garantire l'esercizio del diritto di riunione e di\nmanifestazione del pensiero, unitamente all'incolumità delle\npersone e alla tutela dei beni, in una corretta gestione\ndell'ordine pubblico\" siano le ragioni per cui \"la Repubblica ha\nconferito,nel 2023, la Medaglia d'oro al Valor Civile alle donne\ne agli\nuomini dei Reparti Mobili, per la dedizione profusa\nnell'assolvimento dell'incarico\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 12,
+        "placed": "Politica",
+        "epoch": 1712764830.6562018,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Mattarella to the police, guarantor of constitutional freedoms",
+        "en_content": "\"The State Police,\nto accompany the democratic life of the country, contributes to\nto place the indispensable premises for the full exercise of\nconstitutional freedom, in a context where legality, cohesion\nsocial protection, protection of the rights and dignity of persons against\nany abuse, intimidation or prevarication constitute\nthe horizon of his commitment.\" So the president of the\nRepublic Sergio Mattarella in a message sent to the Chief\nof the Police, Director General of Public Security,\nPrefect Vittorio Pisani, on the occasion of the celebration of\n172/day anniversary from the foundation.\n\n\nPremier Giorgia Meloni defines agents \"custodes of\nlegality and security of the territory, always ready to put to\n\"I end my life to save that of others.\" In a tweet\ntherefore expresses \"renewal. Thank you - writes - to be\nalways.\"\n\n\nThe head of the state recalls how \"the delicate commitment placed\nin ensuring the exercise of the right of meeting and meeting\nmanifestation of thought, together with the safety of\npeople and the protection of goods, in proper management\nare the reasons why \"the Republic has\nawarded, in 2023, the Gold Medal to the Civil Valor to women\nand\nmen of the Furniture Departments, for the profus dedication\nin the assignment.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "police",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "guarantor",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "freedoms",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The State Police",
+                "start_char": 1,
+                "end_char": 17,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Sergio Mattarella",
+                "start_char": 398,
+                "end_char": 415,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Prefect Vittorio Pisani",
+                "start_char": 499,
+                "end_char": 522,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "172/day",
+                "start_char": 562,
+                "end_char": 569,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 613,
+                "end_char": 627,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2023",
+                "start_char": 1126,
+                "end_char": 1130,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Gold Medal",
+                "start_char": 1132,
+                "end_char": 1146,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "the Furniture Departments",
+                "start_char": 1186,
+                "end_char": 1211,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Ruotolo (Pd), sulla par condicio atto di forza senza precedenti",
+        "date_raw": "Wed, 10 Apr 2024 10:16:20 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/ruotolo-pd-sulla-par-condicio-atto-di-forza-senza-precedenti_e0fdb991-5ca1-4b4c-ad8f-a31bdd05ec9e.html",
+        "subtitle": "'L'articolo 21 della Costituzione è a rischio'",
+        "content": "\n                                                \n            \"Non era mai successo che una\nmaggioranza di governo per dare più spazio in Tv ai suoi\nministri e sottosegretari si votasse da sola, dopo averlo\nstravolto, il regolamento della par condicio messo a punto\ndall'Autorità per le garanzie nelle comunicazioni\". Commenta\ncosì Sandro Ruotolo, responsabile Informazione del Partito\nDemocratico, il voto di ieri sera in commissione parlamentare di\nvigilanza.\n                                    \n                                       \n\t\t\t\t  \"Quello che è successo ieri sera non ha precedenti. Per la\nprima volta da quando è stato varato il regolamento nel 1993, la\npar condicio non garantisce più il corretto svolgimento della\ncampagna elettorale nella Tv pubblica perché consente a ministri\ne sottosegretari di aggiungersi ai rappresentanti della\nmaggioranza negli ultimi giorni della campagna elettorale, in\nquesto caso  per le elezioni Europee dell'8 e 9 giugno, con la\nscusa delle loro attività istituzionali.Un atto di forza grave e\npericoloso. I rappresentanti della maggioranza in commissione\nsono andati oltre la decenza. Le opposizioni hanno votato\ncompatte contro gli emendamenti presentati in commissione.\n                                    \n                                       \n\t\t\t\tPrendiamo atto, come Partito Democratico, che la presidente\nMeloni considera la Rai cosa sua. Da oggi avremo due regolamenti\nper la par condicio. Uno redatto dall'Agcom per le emittenti\nprivate e l'altro scritto nelle stanze di palazzo Chigi per\nl'emittente pubblica. Dunque, la questione del controllo\npolitico sull'informazione nel nostro Paese è sempre più\ndrammatica. L'articolo 21 della Costituzione è a rischio. Non si\ncambiano le regole mentre è in corso la campagna elettorale\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Politica",
+        "epoch": 1712764830.7006543,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Rootolo (Pd), on the par condicio act of unprecedented force",
+        "en_content": "\"It never happened\nmajority of government to give more room in TV to its\nministers and undersecretaries voted alone, after having\nthe regulation of the par-\nby the Authority for the guarantees in communications\". Commentary\nso Sandro Ruotolo, Party Information Manager\nDemocratic, the vote last night in parliamentary committee\nWatch.\n\n\n\"What happened last night has no record. For the\nFirst time since the regulation was launched in 1993,\npar condicio no longer guarantees the proper performance of\nelection campaign in public TV because it allows ministers\nand undersecretaries to join the representatives of\nmajority in the last days of the election campaign,\nthis case for the European elections of 8 and 9 June, with the\napology of their institutional activities. An act of serious force and\ndangerous. Representatives of the majority in committee\nThey went beyond decency. Oppositions voted\nMr President, I should like to thank the rapporteur for his work.\n\n\nWe note, as the Democratic Party, that the President\nMeloni considers Rai his own thing. Since today we will have two regulations\nfor the par condicio. A drafted by Agcom for issuers\nprivate and the other written in the rooms of Palazzo Chigi for\nthe public broadcaster. So, the question of control\npolitical information in our country is increasingly\ndramatic. Article 21 of the Constitution is at risk. You don't\nchange the rules while the campaign is underway.\"\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Rootolo",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pd",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "par",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "condicio",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "act",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "force",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Rootolo",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Authority",
+                "start_char": 164,
+                "end_char": 173,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sandro Ruotolo",
+                "start_char": 227,
+                "end_char": 241,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Democratic",
+                "start_char": 269,
+                "end_char": 279,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "last night",
+                "start_char": 290,
+                "end_char": 300,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "last night",
+                "start_char": 352,
+                "end_char": 362,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "First",
+                "start_char": 386,
+                "end_char": 391,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "1993",
+                "start_char": 434,
+                "end_char": 438,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the last days",
+                "start_char": 623,
+                "end_char": 636,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 681,
+                "end_char": 689,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "8 and 9 June",
+                "start_char": 703,
+                "end_char": 715,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Democratic Party",
+                "start_char": 977,
+                "end_char": 997,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rai",
+                "start_char": 1035,
+                "end_char": 1038,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 1060,
+                "end_char": 1065,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 1079,
+                "end_char": 1082,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Agcom",
+                "start_char": 1130,
+                "end_char": 1135,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palazzo Chigi",
+                "start_char": 1194,
+                "end_char": 1207,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Article 21 of the Constitution",
+                "start_char": 1327,
+                "end_char": 1357,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "In cdm informativa Piantedosi su dicitura 'genitore 1 e 2'",
+        "date_raw": "Tue, 9 Apr 2024 19:18:54 +0200",
+        "date": "2024-04-09",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/09/in-cdm-informativa-piantedosi-su-dicitura-genitore-1-e-2_bb9d2a0c-148a-423e-b74a-8942123aad16.html",
+        "subtitle": "Verso il ricorso dopo la sentenza della Corte d'Appello di Roma",
+        "content": "\n                                                \n            Informativa del ministro\ndell'Interno, Matteo Piantedosi, secondo quanto si apprende,\nsulla dicitura 'genitore 1 e genitore 2' sulle carte d'identità\ndei minori, dopo che a febbraio la Corte d'appello di Roma è\nintervenuta sulla questione oggetto di un decreto ministeriale\ndel 2019 (ministro dell'Interno Matteo Salvini). La decisione\nera legata al ricorso di una coppia di mamme che aveva impugnato\nil decreto anche davanti al Tar. Già in primo grado il tribunale\naveva accolto la richiesta delle mamme. L'informativa, viene\nspiegato, potrebbe preludere a un ricorso contro la decisione\nattraverso l'avvocatura dello Stato. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 19,
+        "placed": "Politica",
+        "epoch": 1712764830.708329,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "In cdm information Plans on words 'genitor 1 and 2'",
+        "en_content": "Minister's information\nof the Interior, Matteo Piantedosi, according to what is learned,\non the word 'parent 1 and parent 2' on identity cards\nof minors, after in February the Court of Appeal of Rome is\nintervened on the subject matter of a ministerial decree\nof 2019 (Minister of the Interior Matteo Salvini). The decision\nwas tied to the use of a couple of mothers who had challenged\nthe decree also before the Tar. Already in the first instance the court\nhad accepted the mothers' request. The information, comes\nexplained, could prelude to an appeal against the decision\nthrough the approach of the state.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "information",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Plans",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "words",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "genitor",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "1",
+                "start_char": 43,
+                "end_char": 44,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Interior",
+                "start_char": 30,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Matteo Piantedosi",
+                "start_char": 40,
+                "end_char": 57,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1",
+                "start_char": 109,
+                "end_char": 110,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2",
+                "start_char": 122,
+                "end_char": 123,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "February",
+                "start_char": 163,
+                "end_char": 171,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Court of Appeal of",
+                "start_char": 172,
+                "end_char": 194,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 195,
+                "end_char": 199,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2019",
+                "start_char": 263,
+                "end_char": 267,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Interior Matteo Salvini",
+                "start_char": 281,
+                "end_char": 308,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 433,
+                "end_char": 438,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": " Premierato: verso nuova versione dell'articolo 4 in Aula",
+        "date_raw": "Wed, 10 Apr 2024 10:50:50 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/-premierato-verso-nuova-versione-dellarticolo-4-in-aula_4ad4fbb4-db3a-41d2-9f58-8bf837eed10b.html",
+        "subtitle": "Riguarda la gestione della crisi di governo",
+        "content": " La Commissione Affari costituzionale del Senato sta per votare l'emendamento del governo che riscrive l'articolo 4 del ddl sul premierato elettivo, che riguarda la gestione delle crisi di governo. Tuttavia questo testo è destinato ad essere cambiato in Aula, secondo quanto ha annunciato il relatore Alberto Balboni.Infatti Marcello Pera aveva proposto una riformulazione del testo più chiara, ma per evitare di considerarlo un emendamento che avrebbe fatto aprire i termini per i sub emendamenti, si è preferito rinviarne la presentazione all'Aula. Per il presidente dei senatori del Pd Francesco Boccia \"siamo di fronte alla deriva orbaniana del nostro Paese. Una deriva imposta dal governo Meloni che ha reso schiavo il Parlamento della volontà della maggioranza. Dopo più di 20 anni viene cambiato, votato solo a maggioranza, il regolamento della par condicio, che per la prima volta si discosta in modo eclatante dalle indicazioni dell'Agcom, favorendo la distorsione informativa a favore del governo stesso. Un governo che usa discrezionalmente il suo potere per colpire e indebolire gli altri livelli istituzionali.Che impone con la forza riforme su autonomia e premierato che indeboliranno l'unità del Paese e il ruolo del Capo dello Stato sfasciando le nostre istituzioni. Che, con arroganza, non trasmette i numeri programmatici del DEF al Parlamento, rinvia tutto a settembre come se le Camere fossero sciolte fregandosene della procedura d'infrazione a cui ci sottoporrà l'Europa e lasciando nell'incertezza imprese e cittadini. Nel frattempo cerca di fare cassa con concordati fiscali e condoni edilizi. Il Parlamento ormai è diventato 'on demand' rispetto alle esigenze del governo\".\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 10,
+        "placed": "Politica",
+        "epoch": 1712764830.71998,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Premierato: to new version of article 4 in the classroom",
+        "en_content": "The Senate's Constitutional Affairs Commission is about to vote on the Government's amendment rewriting Article 4 of the ddl on the elective premier, which concerns the management of government crises. However, this text is intended to be changed in the Chamber, according to the rapporteur Alberto Balboni. In fact, Marcello Pera had proposed a reformulation of the clearest text, but in order to avoid considering it an amendment that would have opened the terms for the sub amendments, it was preferable to postpone its presentation to the House. For the president of the senators of Fr. Francesco Boccia \"we are facing the Orbanian drift of our country. A drift imposed by the Meloni government which enslaved Parliament of the will of the majority. After more than 20 years the regulation of the par condicio is changed, which for the first time is disconnected in an eclatating way from the indications of the Agcom, favouring the disclosure distortion in favor of the government itself. A government that discretionally uses its power to strike and weaken other institutional levels. That forcefully imposes reforms on autonomy and premiership that will weaken the unity of the country and the role of the Head of State by breaking out our institutions. That, with arrogance, does not transmit the programmatic numbers of the DEF to the Parliament, postpones everything in September as if the Chambers were dissolved by taking care of the infringement procedure to which Europe will submit to us and leaving in uncertainty enterprises and citizens. Meanwhile, he tries to make money with tax arrangements and building condones. Parliament has now become 'on demand' with respect to the needs of the government.'\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Premierato",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "version",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "article",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "classroom",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Premierato",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "article 4",
+                "start_char": 30,
+                "end_char": 39,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Senate",
+                "start_char": 4,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Constitutional Affairs Commission",
+                "start_char": 13,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Government",
+                "start_char": 71,
+                "end_char": 81,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Article 4",
+                "start_char": 104,
+                "end_char": 113,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Chamber",
+                "start_char": 254,
+                "end_char": 261,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alberto Balboni",
+                "start_char": 291,
+                "end_char": 306,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marcello Pera",
+                "start_char": 317,
+                "end_char": 330,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "House",
+                "start_char": 543,
+                "end_char": 548,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Orbanian",
+                "start_char": 627,
+                "end_char": 635,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 681,
+                "end_char": 687,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 714,
+                "end_char": 724,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than 20 years",
+                "start_char": 760,
+                "end_char": 778,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 840,
+                "end_char": 845,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Agcom",
+                "start_char": 916,
+                "end_char": 921,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "State",
+                "start_char": 1221,
+                "end_char": 1226,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "DEF",
+                "start_char": 1333,
+                "end_char": 1336,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 1344,
+                "end_char": 1354,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "September",
+                "start_char": 1380,
+                "end_char": 1389,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chambers",
+                "start_char": 1400,
+                "end_char": 1408,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 1478,
+                "end_char": 1484,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 1635,
+                "end_char": 1645,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Pizzarotti, lascio Più Europa, sbagliata l'alleanza con Iv",
+        "date_raw": "Wed, 10 Apr 2024 11:10:52 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/pizzarotti-lascio-piu-europa-sbagliata-lalleanza-con-iv_5e079d98-716d-45aa-ac81-252e58faf473.html",
+        "subtitle": "Cuffaro e la moglie di Mastella distanti da me: 'poco europei'",
+        "content": "\n                                                \n            \"Lascio Più Europa!\". Così Federico\nPizzarotti, presidente del partito su Facebook.\n                                    \n                                       \n\t\t\t\t   \"Sento che le decisioni recenti non solo si discostano\ndall'essenza dei nostri principi fondanti, ma rischiano anche di\nsnaturare completamente il progetto per cui tutti abbiamo\nlavorato. Questa alleanza, per me anomala, con Italia Viva sta\ncontaminando l'iniziativa di Più Europa con un modo di intendere\nla politica - quello di Cuffaro e della Nuova DC con i suoi\ncandidati, della moglie di Mastella o della rete di Cesaro in\nCampania - poco \"europei\" e molto distanti dal nostro modo di\nfare politica e dalla nostra missione originale\", scrive ancora.\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Politica",
+        "epoch": 1712764830.7253492,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Pizzarotti, I leave More Europe, wrong alliance with Iv",
+        "en_content": "\"I leave Europe more!\" Thus Federico\nPizzarotti, party president on Facebook.\n\n\n\"I feel that recent decisions not only differ\nfrom the essence of our founding principles, but they also risk\ncompletely distort the project that we all have\nworked. This alliance, for me anomalous, with Italy Viva is\ncontaminating the More Europe initiative with a way of understanding\npolitics - that of Cuffaro and the New DC with its\ncandidates, the wife of Mastella or the network of Cesaro in\nCampania - little \"European\" and very distant from our way\ndoing politics and our original mission,\" he writes.\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Pizzarotti",
+                "meaning": "advmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "alliance",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Europe",
+                "start_char": 25,
+                "end_char": 31,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europe",
+                "start_char": 9,
+                "end_char": 15,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Federico\nPizzarotti",
+                "start_char": 28,
+                "end_char": 47,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy Viva",
+                "start_char": 284,
+                "end_char": 294,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 321,
+                "end_char": 327,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Cuffaro",
+                "start_char": 386,
+                "end_char": 393,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the New DC",
+                "start_char": 398,
+                "end_char": 408,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mastella",
+                "start_char": 442,
+                "end_char": 450,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cesaro",
+                "start_char": 469,
+                "end_char": 475,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Campania",
+                "start_char": 479,
+                "end_char": 487,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 498,
+                "end_char": 506,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Meloni, seguo con apprensione esplosione di Suviana",
+        "date_raw": "Tue, 9 Apr 2024 18:51:22 +0200",
+        "date": "2024-04-09",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/09/meloni-seguo-con-apprensione-esplosione-di-suviana_ae27ed43-b9cc-4a73-86fa-033cf25a68ac.html",
+        "subtitle": "'Io e il governo vicini ai familiari delle vittime e ai feriti'",
+        "content": "\n                                                \n            \"Seguo con apprensione la terribile\nnotizia riguardante l'esplosione verificatasi in una centrale\nidroelettrica nel bacino artificiale di Suviana, sull'Appennino\nBolognese. Tutta la mia vicinanza e quella del Governo ai\nfamiliari delle vittime e ai feriti rimasti coinvolti. Un\nringraziamento ai Vigili del Fuoco prontamente intervenuti, ai\nsoccorritori e a quanti stanno lavorando in queste ore nella\nricerca dei dispersi\". Lo scrive sui social la presidente del\nConsiglio Giorgia Meloni. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 20,
+        "placed": "Politica",
+        "epoch": 1712764830.7509048,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Meloni, follower with blast apprehension of Suviana",
+        "en_content": "\"I follow with apprehension the terrible\nnews about the explosion occurring in a power station\nhydroelectric in the artificial basin of Suviana, on the Apennines\nBolognese. All my closeness and that of the government to\nfamily of the victims and the wounded involved. A\nthanks to the Firefighters promptly intervened,\nrescuers and those who are working these hours in\nsearch for missing persons.\" He writes on social media the president of\nCouncil Giorgia Meloni.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Meloni",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "follower",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "blast",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apprehension",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Suviana",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Suviana",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Suviana",
+                "start_char": 136,
+                "end_char": 143,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Apennines",
+                "start_char": 152,
+                "end_char": 161,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bolognese",
+                "start_char": 162,
+                "end_char": 171,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Firefighters",
+                "start_char": 284,
+                "end_char": 296,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "these hours",
+                "start_char": 353,
+                "end_char": 364,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 448,
+                "end_char": 462,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il governo convoca i balneari, tavolo tecnico alle 17",
+        "date_raw": "Wed, 10 Apr 2024 11:49:12 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/il-governo-convoca-i-balneari-tavolo-tecnico-alle-17_435f85b7-a3a5-4f44-97f8-d71f88f6a1f2.html",
+        "subtitle": "L'incontro alla vigilia della manifestazione della categoria",
+        "content": "\n                                                \n            Il governo ha convocato le\nassociazioni dei balneari per oggi pomeriggio, alla vigilia\ndella manifestazione organizzata domani a Roma dalle sigle\nSib-Confcommercio e Fiba-Confesercenti per sollecitare\nl'esecutivo ad approvare una legge \"che metta fine al caos in\ncorso sulle concessioni\". La \"riunione plenaria\" del tavolo\ntecnico consultivo in materia di concessioni demaniali\nmarittime, lacuali e fluviali, convocata lunedì dalla Presidenza\ndel Consiglio, si riunirà alle 17 alla Sala Polifunzionale in\nLargo Chigi: parteciperanno tecnici dei ministeri interessati e\nsono state invitate oltre venti associazioni di categoria.\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Politica",
+        "epoch": 1712764830.7560778,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "The government summons the bathers, technical table at 17",
+        "en_content": "The government called the\nbathing associations for this afternoon, on the eve\nthe event organized tomorrow in Rome by the English\nSib-Confcommercio and Fiba-Confesercenti to stress\nthe executive to approve a law \"that puts an end to chaos in\ncourse on concessions.\" The plenary meeting of the table\ntechnical advisory on State concessions\nmaritime, lake and river, convened Monday by the Presidency\nof the Council, will meet at 5 p.m. at the Multifunctional Room in\nLargo Chigi: will participate technicians of the ministries concerned and\nmore than twenty category associations were invited.\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bathers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "table",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "17",
+                "start_char": 55,
+                "end_char": 57,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "this afternoon",
+                "start_char": 51,
+                "end_char": 65,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 98,
+                "end_char": 106,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 110,
+                "end_char": 114,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "English",
+                "start_char": 122,
+                "end_char": 129,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "Sib-Confcommercio",
+                "start_char": 130,
+                "end_char": 147,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "State",
+                "start_char": 321,
+                "end_char": 326,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Monday",
+                "start_char": 374,
+                "end_char": 380,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Council",
+                "start_char": 406,
+                "end_char": 413,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "5 p.m.",
+                "start_char": 428,
+                "end_char": 434,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Multifunctional Room in\nLargo",
+                "start_char": 438,
+                "end_char": 471,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "more than twenty",
+                "start_char": 540,
+                "end_char": 556,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Premierato e crisi di governo, la norma cambierà ancora",
+        "date_raw": "Wed, 10 Apr 2024 11:15:30 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/premierato-e-crisi-di-governo-la-norma-cambiera-ancora_68ac0f7d-659d-4a3a-b7c5-f2cc01703380.html",
+        "subtitle": "Ok alle prime modifiche ma già annunciato un nuovo emendamento",
+        "content": "\n                                                \n            La Commissione Affari costituzionali\ndel Senato ha approvato l'emendamento del governo che riscrive\nl'articolo 4 del disegno di legge sul premierato. Il testo\nriguarda la gestione della crisi di governo. \n   Questa versione, tuttavia è destinata ad essere cambiata\nancora in Aula, come ha annunciato il relatore Alberto Balboni.\n                                    \n                                       \n\t\t\t\tInfatti Marcello Pera aveva proposto una riformulazione del\ntesto più chiara, ma per evitare di presentare un nuovo\nemendamento che avrebbe fatto aprire i termini per i sub\nemendamenti, si è preferito rinviarne la presentazione all'Aula.\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Politica",
+        "epoch": 1712764830.777243,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Premierate and government crisis, the norm will still change",
+        "en_content": "The Constitutional Affairs Commission\nof the Senate approved the amendment of the government rewriting\nArticle 4 of the bill on the premier. The text\nit concerns the management of the government crisis.\nThis version, however, is intended to be changed\nIn the House, as rapporteur Alberto Balboni announced.\n\n\nIn fact Marcello Pera had proposed a reformulation of\nclearer text, but to avoid presenting a new\nI would like to thank the rapporteur for his work.\nMr President, I should like to thank the rapporteur for his excellent report.\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "conj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "crisis",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "norm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The Constitutional Affairs Commission",
+                "start_char": 0,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 45,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Article 4",
+                "start_char": 103,
+                "end_char": 112,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "House",
+                "start_char": 259,
+                "end_char": 264,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alberto Balboni",
+                "start_char": 280,
+                "end_char": 295,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marcello Pera",
+                "start_char": 317,
+                "end_char": 330,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il Cdm delibera il ricorso in Cassazione sulla dicitura \"genitore 1 e 2\" ",
+        "date_raw": "Wed, 10 Apr 2024 09:12:05 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/09/piantedosi-in-cdm-sulla-dicitura-genitore-1-e-2-deliberato-il-ricorso-in-cassazione_a97371a3-731f-4562-8303-26c842e69c33.html",
+        "subtitle": "Dopo una informativa del ministro dell'Interno Piantedosi",
+        "content": "Informativa del ministro dell'Interno,  secondo quanto si apprende, sulla dicitura 'genitore 1 e genitore 2' sulle carte d'identità dei minori, dopo che a febbraio la Corte d'appello di Roma è intervenuta sulla questione oggetto di un decreto ministeriale del 2019 (ministro dell'Interno Matteo Salvini). La decisione era legata al ricorso di una coppia di mamme che aveva impugnato il decreto anche davanti al Tar. Già in primo grado il tribunale aveva accolto la richiesta delle mamme. L'informativa, viene spiegato, potrebbe preludere a un ricorso contro la decisione attraverso l'avvocatura dello Stato.Il Consiglio dei ministri \"ha deliberato di conferire mandato all'Avvocatura dello Stato ai fini del avverso la sentenza della Corte d'Appello di Roma del 24 gennaio 2024, relativa alle modalità di emissione e alle caratteristiche della carta d'identità elettronica (CIE), disciplinate dal decreto interministeriale 23 dicembre 2015 e successive modifiche, il quale prevede, per i genitori dei minori, la definizione di \"padre\" e \"madre\" \". E' quanto si legge nel comunicato finale del Cdm.I giudici della Corte di Appello di Roma lo scorso febbraio in una sentenza di otto pagine ordinarono al Viminale di \"indicare sulla carta d'identità elettronica del minore\" il termine \"genitore\" o una \"dizione corrispondente alle risultanze dello stato civile, in corrispondenza dei nomi\". \"Una decisione sbagliata\" venne bollata dal vicepremier Salvini, secondo cui \"ognuno deve sempre essere libero di fare quello che vuole con la propria vita sentimentale, ma certificare l'idea che le parole 'mamma' e 'papà' vengano cancellate per legge è assurdo e riprovevole. Questo non è' progresso\". Di tutt'altro avviso fu la reazione dell'associazione Famiglie Arcobaleno per la quale la sentenza sostanzialmente \"smentisce\" il disposto ministeriale che stabiliva la sostituzione nei documenti di identità della dicitura \"genitori\" con quella di \"padre a madre\". La decisione dei giudici di secondo grado è legata ad un procedimento promosso da una coppia di mamme che aveva impugnato il decreto anche davanti al Tar chiedendo l'emissione di un documento d'identità \"che rispecchi la reale composizione della loro famiglia\". Già in primo grado il tribunale aveva accolto la richiesta delle mamme, dichiarando di fatto illegittimo il decreto in quanto il documento emesso \"integra gli estremi materiali del reato di falso ideologico commesso dal pubblico ufficiale in atto pubblico\". Nel provvedimento si affermava inoltre che \"proprio l'esistenza di istituti come l'adozione in casi particolari, che può dar luogo alla presenza di due genitori dello stesso sesso (l'uno naturale, l'altro adottivo) dimostra che le diciture previste dai modelli ministeriali (padre/madre) non sono rappresentative di tutte le legittime conformazioni dei nuclei familiari e della conseguente filiazione imposte dai modelli ministeriali\".   \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 18,
+        "placed": "Politica",
+        "epoch": 1712764830.8220174,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:30",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "The Board of Directors shall act in Cassation on the wording \"January 1 and 2\"",
+        "en_content": "Informative of the Minister of the Interior, according to what is learned, on the words 'January 1 and parent 2' on the identity cards of minors, after in February the Court of Appeal of Rome intervened on the question subject of a ministerial decree of 2019 (Minister of the Interior Matteo Salvini). The decision was linked to the use of a couple of mothers who had challenged the decree even before the Tar. The court had already accepted the mothers' request. The information, is explained, could prelude to an appeal against the decision through the approach of the State. The Council of Ministers \"decided to give mandate to the State's Advocate for the purposes of the warning the decision of the Court of Appeal of Rome of 24 January 2024, concerning the methods of issue and the characteristics of the electronic identity card (CIE), governed by the interministerial decree of 23 December 2015 and subsequent modifications, which provides, for the parents of minors, the definition of \"father\" and \"mother\". This is what we read in the final communiqué of the Cdm.The Judges of the Court of Appeal of Rome last February in a sentence of eight pages ordered the Viminale to \"indicate on the e-identity card of the minor\" the term \"parent\" or a \"diction corresponding to the results of the civil state, in correspondence of the names\". \"A wrong decision\" was stamped by Vice-Premier Salvini, according to which \"ever one must always be free to do what he wants with his own sentimental life, but to certify the idea that the words 'Mom' and 'Peace' are erased by law is absurd and reproveable. This is not progress.\" It was the reaction of the association Families Arcobaleno for which the sentence essentially \"refuses\" the ministerial provision that established the replacement in the identification documents of the word \"parents\" with that of \"father to mother\". The decision of the judges of the second degree is linked to a procedure promoted by a couple of mothers who had challenged the decree also in front of the Tar asking for the issue of an identity document \"that reflects the real composition of their family\". Already in the first instance the court had accepted the request of mothers, declaring in fact illegitimate the decree as the document issued \"integrates the extreme materials of the false ideological crime committed by the official public in public action\". In the measure it was also stated that \"the existence of institutions such as adoption in particular cases, which can give rise to the presence of two parents of the same sex (the natural one, the other adoptive) shows that the words provided by the ministerial models (father/mother) are not representative of all the legitimate conformations of the family groups and of the consequent filiation imposed by the ministerial models\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Board",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Directors",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Cassation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "wording",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "January",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The Board of Directors",
+                "start_char": 0,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cassation",
+                "start_char": 36,
+                "end_char": 45,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "January 1 and 2\"",
+                "start_char": 62,
+                "end_char": 78,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Interior",
+                "start_char": 35,
+                "end_char": 43,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "January 1",
+                "start_char": 89,
+                "end_char": 98,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2",
+                "start_char": 110,
+                "end_char": 111,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "February",
+                "start_char": 155,
+                "end_char": 163,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Court of Appeal of Rome",
+                "start_char": 164,
+                "end_char": 191,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2019",
+                "start_char": 254,
+                "end_char": 258,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Interior Matteo Salvini",
+                "start_char": 272,
+                "end_char": 299,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "State",
+                "start_char": 571,
+                "end_char": 576,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Council of Ministers",
+                "start_char": 578,
+                "end_char": 602,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "State",
+                "start_char": 635,
+                "end_char": 640,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Advocate",
+                "start_char": 643,
+                "end_char": 651,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Court of Appeal of Rome",
+                "start_char": 700,
+                "end_char": 727,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "24 January 2024",
+                "start_char": 731,
+                "end_char": 746,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "CIE",
+                "start_char": 837,
+                "end_char": 840,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "23 December 2015",
+                "start_char": 886,
+                "end_char": 902,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Court of Appeal of",
+                "start_char": 1087,
+                "end_char": 1109,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 1110,
+                "end_char": 1114,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last February",
+                "start_char": 1115,
+                "end_char": 1128,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "eight",
+                "start_char": 1146,
+                "end_char": 1151,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Viminale",
+                "start_char": 1170,
+                "end_char": 1178,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Salvini",
+                "start_char": 1390,
+                "end_char": 1397,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Families Arcobaleno",
+                "start_char": 1663,
+                "end_char": 1682,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "second",
+                "start_char": 1908,
+                "end_char": 1914,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 2148,
+                "end_char": 2153,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "two",
+                "start_char": 2539,
+                "end_char": 2542,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Comunali: centrosinistra stringe su Cagliari, domani il vertice",
+        "date_raw": "Wed, 10 Apr 2024 13:15:57 +0200",
+        "date": "2024-04-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/10/comunali-centrosinistra-stringe-su-cagliari-domani-il-vertice_7de24d15-92f2-4339-97b2-32173f2a7f12.html",
+        "subtitle": "Campo largo verso la scelta della candidatura di Massimo Zedda",
+        "content": "\n                                                \n            Si attendeva l'insediamento della\ngiunta Todde e l'elezione del nuovo presidente del Consiglio\nregionale della Sardegna, ora le interlocuzioni sulle\ncandidature per le elezioni comunali nel centrosinistra possono\nriprendere. In particolare per quanto riguarda Cagliari, dove i\ntempi stringono e il centrodestra ha già scelto di far correre\nuna donna, Alessandra Zedda in quota Lega, ex Fi ed ex\nvicepresidente della giunta Solinas, il cui volto appare già sui\nmanifesti affissi in città.\n                                    \n                                       \n\t\t\t\t   L'appuntamento con il tavolo di coalizione è per domani alle\n18 in via Emilia a Cagliari. Ora che è stato ufficialmente\nsciolto l'ultimo dubbio con l'elezione del segretario dem Piero\nComandini, tentato inizialmente dalla corsa per il capoluogo,\nalla carica di presidente dell'Assemblea sarda, la strada per la\nconvergenza sull'unico nome al tavolo, quello del progressista\nMassimo Zedda, già sindaco di Cagliari, dovrebbe essere spianata\ne la riunione di domani potrebbe essere decisiva. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1712764837.517653,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "local_time": "2024-04-10 18:00:37",
+        "filename": "ner_conc_en_2024-04-10T18.00.29E1712772029.045171.json",
+        "en_title": "Comunali: centrosinistra string on Cagliari, tomorrow the summit",
+        "en_content": "The settlement was expected\nTodde and the election of the new President of the Council\nregional of Sardinia, now the interlocutions on\nnominations for municipal elections in the centre-left can\nresume. In particular with regard to Cagliari, where\ntimes tighten and the center has already chosen to run\na woman, Alessandra Zedda in league, ex Fi and ex\nVice-President of the Solinas committee, whose face already appears on\nposters in the city.\n\n\nThe meeting with the coalition table is for tomorrow at\n18 in via Emilia in Cagliari. Now that it was officially\nthe last doubt with the election of the secretary dem Piero\nComandini, initially attempted by the race for the capital,\nPresident of the Sardinian Assembly, the road to\nconvergence on the only name at the table, that of the progressive\nMassimo Zedda, already mayor of Cagliari, should be paved\nand tomorrow's meeting might be decisive.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Comunali",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "string",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cagliari",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tomorrow",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "centrosinistra string",
+                "start_char": 10,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cagliari",
+                "start_char": 35,
+                "end_char": 43,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 45,
+                "end_char": 53,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Todde",
+                "start_char": 28,
+                "end_char": 33,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 79,
+                "end_char": 86,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 99,
+                "end_char": 107,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cagliari",
+                "start_char": 231,
+                "end_char": 239,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alessandra Zedda",
+                "start_char": 311,
+                "end_char": 327,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Solinas",
+                "start_char": 374,
+                "end_char": 381,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 490,
+                "end_char": 498,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "18",
+                "start_char": 502,
+                "end_char": 504,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Emilia",
+                "start_char": 512,
+                "end_char": 518,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cagliari",
+                "start_char": 522,
+                "end_char": 530,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "dem Piero",
+                "start_char": 609,
+                "end_char": 618,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Comandini",
+                "start_char": 619,
+                "end_char": 628,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Sardinian Assembly",
+                "start_char": 692,
+                "end_char": 714,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Massimo Zedda",
+                "start_char": 795,
+                "end_char": 808,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cagliari",
+                "start_char": 827,
+                "end_char": 835,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 857,
+                "end_char": 865,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

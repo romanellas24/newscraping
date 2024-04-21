@@ -1,0 +1,2354 @@
+[
+    {
+        "title": "Trovati otto migranti morti su una spiaggia in Messico",
+        "date_raw": "Sat, 30 Mar 2024 16:24:51 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/30/trovati-otto-migranti-morti-su-una-spiaggia-in-messico_d1d714ff-e8f1-4732-b945-1dec17676285.html",
+        "subtitle": "La loro imbarcazione affondata al largo dello stato di Oaxaca",
+        "content": "\n                                                \n            La polizia dello stato\nmessicano meridionale di Oaxaca ha trovato otto morti sulle rive\ndi Playa Vicente a San Francisco del Mar. Si tratta\nprobabilmente di migranti.\n                                    \n                                       \n\t\t\t\t   La procura ha avviato le indagini per chiarire le\ncircostanze. Secondo le prime informazioni, l'imbarcazione delle\notto vittime è affondata al largo della costa.\n                                    \n                                       \n\t\t\t\t   Situato sulla costa pacifica, lo stato di Oaxaca è una delle\nrotte dei migranti che entrano in Messico attraverso il confine\nmeridionale e si dirigono a nord per raggiungere gli Stati\nUniti. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1711832436.2392766,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Found eight dead migrants on a beach in Mexico",
+        "en_content": "The state police\nMexican Southern Oaxaca found eight dead on the shores\nby Playa Vicente in San Francisco del Mar. This is\nprobably migrants.\n\n\nThe Prosecutor has initiated investigations to clarify\ncircumstances. According to the first information, the boat of\nEight victims sank off the coast.\n\n\nLocated on the Pacific Coast, the state of Oaxaca is one of\nmigrant routes entering Mexico through the border\nSouth and head north to reach the States\nUnited.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "beach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "eight",
+                "start_char": 6,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Mexican",
+                "start_char": 17,
+                "end_char": 24,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "eight",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Playa Vicente",
+                "start_char": 75,
+                "end_char": 88,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "San Francisco",
+                "start_char": 92,
+                "end_char": 105,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 231,
+                "end_char": 236,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Eight",
+                "start_char": 262,
+                "end_char": 267,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Pacific Coast",
+                "start_char": 309,
+                "end_char": 326,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Oaxaca",
+                "start_char": 341,
+                "end_char": 347,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "one",
+                "start_char": 351,
+                "end_char": 354,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 382,
+                "end_char": 388,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "South",
+                "start_char": 408,
+                "end_char": 413,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Ex agente dei servizi austriaci arrestato,'vendeva dati all'Fsb'",
+        "date_raw": "Sat, 30 Mar 2024 17:25:26 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/03/30/ex-agente-dei-servizi-austriaci-arrestatovendeva-dati-allfsb_1ae65f53-766a-45c5-88e5-8493a098d3c2.html",
+        "subtitle": "Era collegato a un truffatore tedesco legato ai servizi russi",
+        "content": " Un ex ufficiale dell'intelligence austriaca è stato arrestato perché sospettato di aver venduto ai servizi segreti russi dell'Fsb dati degli smartphone di tre alti funzionari austriaci. Lo riferisce il quotidiano Der Standard.     Egisto Ott, che lavorava per l'Ufficio federale austriaco per la protezione della Costituzione e l'antiterrorismo, avrebbe consegnato i dati recuperati dagli smartphone all'Fsb nell'estate del 2022.     Ott, secondo la ricostruzione, sarebbe entrato in possesso dei cellulari di un capo di gabinetto del ministero degli Interni, del direttore della polizia federale e del direttore dell'ufficio di immigrazione. I tre dispositivi erano stati consegnati ai tecnici per riparare un danno.     I pubblici ministeri di Vienna ritengono che l'ex agente arrestato abbia utilizzato la sua posizione all'interno dei servizi per ottenere l'accesso alle informazioni riservate contenute nei telefoni e poi venderle a un collega dei servizi austriaci, che a sua volta lavorava per un cittadino tedesco legato agli 007 russi.     Il cittadino tedesco è Jan Marsalek, ex dirigente della compagnia di servizi tecnologici e finanziari Wirecard che era scomparso nel giugno 2020 insieme a diversi miliardi di dollari.     Un mese dopo, The Insider e Bellingcat erano riusciti a dimostrare che il truffatore era fuggito in Russia o in Bielorussia e aveva legami di lunga data con l'Fsb.     Quest'anno sempre The Insider, insieme con Der Spiegel, ha rivelato i dettagli su come Marsalek sia stato reclutato dai russi. Dopo aver collaborato attivamente con il gruppo di mercenari Wagner, aveva iniziato a trasmettere a Mosca i dati ricevuti dagli ufficiali dell'intelligence europea nel suo libro paga.     L'ex agente austriaco Ott è indagato da circa sette anni ed è accusato di diversi crimini. In sostanza la procura sospetta che abbia abusato della sua posizione di garante della tutela costituzionale per accedere e vendere dati sensibili. \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 12,
+        "placed": "Esteri",
+        "epoch": 1711832436.2508795,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Former Austrian service officer arrested, he sold data to the FBI",
+        "en_content": "A former Austrian intelligence officer was arrested because he suspected of selling to the Russian intelligence services of the Fsb smartphone data from three high Austrian officials. The Der Standard newspaper reports it. Egisto Ott, who worked for the Austrian Federal Office for the Protection of the Constitution and Anti-Terrorism, would deliver the data recovered from smartphones to Fsb in the summer of 2022. Ott, according to the reconstruction, would have been in possession of the cell phones of a chief cabinet of the Interior Ministry, the Director of the Federal Police and the Director of the immigration office. The three devices had been delivered to technicians to repair damage. The prosecutors of Vienna believe that the former arrested officer used his position within the services to gain access to confidential information contained in the phones and then sell them to a colleague of Austrian services, who in turn worked for a German citizen tied to the Russian 007. The German citizen is Jan Marsalek, former manager of the company of technological and financial services Wirecard who had disappeared in June 2020 along with several billion dollars. A month later, The Insider and Bellingcat were able to prove that the scammer had fled to Russia or Belarus and had long-standing ties with the Fsb. This year the Insider, along with Der Spiegel, revealed details about how Marsalek was recruited by the Russians. After collaborating actively with the mercenary group Wagner, he began to transmit to Moscow the data received by the European intelligence officers in his payroll. The former Austrian agent Ott has been investigating for about seven years and is accused of several crimes. In essence, the prosecutor suspects that he has abused his position as a guarantor of constitutional protection to access and sell sensitive data.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "service",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "FBI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Austrian",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "FBI",
+                "start_char": 62,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Austrian",
+                "start_char": 9,
+                "end_char": 17,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 91,
+                "end_char": 98,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three",
+                "start_char": 153,
+                "end_char": 158,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Austrian",
+                "start_char": 164,
+                "end_char": 172,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Der Standard",
+                "start_char": 188,
+                "end_char": 200,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Egisto Ott",
+                "start_char": 223,
+                "end_char": 233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Austrian Federal Office for the Protection of the Constitution and Anti-Terrorism",
+                "start_char": 250,
+                "end_char": 335,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the summer of 2022",
+                "start_char": 397,
+                "end_char": 415,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Interior Ministry",
+                "start_char": 526,
+                "end_char": 547,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Federal Police",
+                "start_char": 565,
+                "end_char": 583,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 632,
+                "end_char": 637,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Vienna",
+                "start_char": 717,
+                "end_char": 723,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Austrian",
+                "start_char": 907,
+                "end_char": 915,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 951,
+                "end_char": 957,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 978,
+                "end_char": 985,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 995,
+                "end_char": 1001,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Jan Marsalek",
+                "start_char": 1013,
+                "end_char": 1025,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Wirecard",
+                "start_char": 1097,
+                "end_char": 1105,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "June 2020",
+                "start_char": 1129,
+                "end_char": 1138,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "several billion dollars",
+                "start_char": 1150,
+                "end_char": 1173,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "A month later",
+                "start_char": 1175,
+                "end_char": 1188,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The Insider and Bellingcat",
+                "start_char": 1190,
+                "end_char": 1216,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 1265,
+                "end_char": 1271,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Belarus",
+                "start_char": 1275,
+                "end_char": 1282,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "This year",
+                "start_char": 1324,
+                "end_char": 1333,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Der Spiegel",
+                "start_char": 1358,
+                "end_char": 1369,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marsalek",
+                "start_char": 1398,
+                "end_char": 1406,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russians",
+                "start_char": 1428,
+                "end_char": 1436,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Wagner",
+                "start_char": 1492,
+                "end_char": 1498,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 1524,
+                "end_char": 1530,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 1556,
+                "end_char": 1564,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Austrian",
+                "start_char": 1614,
+                "end_char": 1622,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ott",
+                "start_char": 1629,
+                "end_char": 1632,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "about seven years",
+                "start_char": 1660,
+                "end_char": 1677,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Trump shock, su Truth posta l'immagine di Biden con le mani e i piedi legati ",
+        "date_raw": "Sat, 30 Mar 2024 19:07:56 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2024/03/30/trump-shock-su-truth-posta-limmagine-di-biden-con-le-mani-e-i-piedi-legati_f121f702-9cac-4084-9960-af0b2d57757d.html",
+        "subtitle": "La campagna del leader dem: \"Incita alla violenza, come fece il 6 gennaio\"",
+        "content": "Diventa sempre più avvelenata la campagna elettorale americana. A far salire la tensione è stata l'ennesima provocazione di Donald Trump, che ha postato sul suo social Truth un video di 20 secondi con l'immagine di un Joe Biden fatto prigioniero, disteso su un fianco e legato con una corda mani e piedi. L'immagine appare dipinta sul portellone posteriore di un pick-up con bandiere americane e adesivi pro Trump che sfreccia su un'autostrada. Lungo 'Long Island, New York', scrive il tycoon, nel giorno in cui ha partecipato ai funerali di un agente ucciso durante un controllo, mentre il suo rivale democratico metteva a segno una raccolta fondi record da 25 milioni di dollari insieme a Barack Obama e Bill Clinton nell'iconica Radio City Hall di New York.Immagini simili circolano da mesi sui siti di destra, sui social - compresi Instagram, Reddit e X - e persino in eventi dei conservatori. E sono in vendita online come adesivi da attaccare sulle auto. Ma il fatto che il candidato repubblicano per la Casa Bianca le cavalchi ha sollevato una bufera.\"Questa immagine postata da Donald Trump è il tipo di schifezza che pubblichi quando inviti a un bagno di sangue o quando dici ai Proud Boys di 'stare dietro e di restare a guardare', ha commentato Michael Tyler, direttore della comunicazione per la campagna di Biden, riferendosi alle parole usate dall'ex presidente e al gruppo di estrema destra coinvolto nell'attacco al Congresso del 6 gennaio 2021. \"Trump incita regolarmente alla violenza politica ed è ora che la gente lo prenda sul serio, basta chiedere ai poliziotti del Campidoglio che sono stati attaccati mentre proteggevano la nostra democrazia il 6 gennaio\", ha aggiunto. Gli ha risposto il portavoce della campagna del tycoon, Steven Cheung: \"Quell'immagine era sul retro di un pick-up che viaggiava lungo l'autostrada. I democratici e pazzi lunatici non solo hanno invocato una spregevole violenza contro il presidente Trump e la sua famiglia, ma stanno effettivamente utilizzando come arma il sistema giudiziario contro di lui\". Lo staff dell'ex presidente ha citato anche recenti dichiarazioni di Biden per difendere la retorica incendiaria di The Donald, ricordando che il commander in chief lo ha accostato ad Hitler.Ma Biden non è mai sceso sul terreno dell'offesa o della violenza, al massimo usa l'ironia o il sarcasmo. Trump invece ha una lunga storia nel condividere e promuovere immagini violente dei suoi nemici. In ottobre ha postato un video manipolato in cui lanciava una pallina da golf che colpiva Biden gettandolo a terra (simile a quello del 2017 con Hillary Clinton come bersaglio). I clip in cui mostra che il suo avversario balbetta e inciampa non si contano più. Lo scorso aprile invece pubblicò un'immagine di sé con in mano una mazza accanto al procuratore di Manhattan Alvin Bragg, mentre nel 2017 si calò nei panni di un lottatore di wrestling che picchiava un uomo il cui volto era coperto dal logo dell'odiata Cnn. Anche la sua retorica verbale è violenta: recentemente ha accusato gli immigrati di non essere persone e ha ammonito che ci sarà \"un bagno di sangue\" se non sarà eletto. Una minaccia sempre più temuta, dopo che ha promesso ai suoi fan di essere la loro \"vendetta\". \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1711832436.3119655,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Trump shock, on Truth post the image of Biden with the hands and feet tied",
+        "en_content": "The American election campaign is becoming increasingly poisoned. To raise the tension was the umpteenth provocation of Donald Trump, who posted on his social truth a 20-second video with the image of a Joe Biden taken prisoner, lying on one side and tied with a rope hands and feet. The image appears painted on the rear hatch of a pick-up with American flags and pro Trump stickers that rubs on a highway. Long 'Long Island, New York', writes tycoon, on the day he participated in the funeral of an agent killed during a control, while his democratic rival marked a $25 million record fundraiser along with Barack Obama and Bill Clinton in the iconic New York Radio City Hall. Similar images have been circulating for months on the right sites, on social media - including Instagram, Reddit and X - and even in conservative events. And they are on sale online as stickers to stick to cars. But the fact that the Republican candidate for the White House has raised a storm. \"This image posted by Donald Trump is the kind of crap that you post when you invite a bloodbath or when you tell Proud Boys to 'be behind and watch', commented Michael Tyler, director of communication for the Biden campaign, referring to the words used by the former president and the far right group involved in the attack on Congress on January 6, 2021. \"Trump regularly incites political violence and it's time people take it seriously, just ask the Capitol cops who were attacked while protecting our democracy on January 6,\" he added. The tycoon campaign spokesman Steven Cheung replied: \"That picture was on the back of a pick-up traveling along the highway. The lunatic democrats and lunatics not only called for a despicable violence against President Trump and his family, but are actually using the judicial system against him as a weapon.\" The staff of the former president also cited recent statements by Biden to defend the fire rhetoric of The Donald, recalling that the commander in chief approached him to Hitler. But Biden has never fallen on the ground of offence or violence, at most he uses irony or sarcasm. Trump has a long history of sharing and promoting violent images of his enemies. In October he posted a manipulated video where he threw a golf ball that hit Biden on the ground (similar to that of 2017 with Hillary Clinton as a target). The clips in which it shows that its opponent stands and stumbles no longer count. Last April, however, he published an image of himself with a bat in his hand next to Manhattan's attorney Alvin Bragg, while in 2017 he was cast as a wrestling wrestler who beat a man whose face was covered by the logo of the hated Cnn. His verbal rhetoric is also violent: recently accused immigrants of not being people and warned that there will be \"a bloodbath\" if it will not be elected. An increasingly fearful threat, after he promised his fans to be their \"sold\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shock",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Truth",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "image",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Biden",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "feet",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Biden",
+                "start_char": 40,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "American",
+                "start_char": 4,
+                "end_char": 12,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 120,
+                "end_char": 132,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "20-second",
+                "start_char": 167,
+                "end_char": 176,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Joe Biden",
+                "start_char": 203,
+                "end_char": 212,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 238,
+                "end_char": 241,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "American",
+                "start_char": 346,
+                "end_char": 354,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Trump",
+                "start_char": 369,
+                "end_char": 374,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "New York'",
+                "start_char": 427,
+                "end_char": 436,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the day",
+                "start_char": 456,
+                "end_char": 463,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "$25 million",
+                "start_char": 568,
+                "end_char": 579,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Barack Obama",
+                "start_char": 609,
+                "end_char": 621,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Bill Clinton",
+                "start_char": 626,
+                "end_char": 638,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "New York Radio City Hall",
+                "start_char": 653,
+                "end_char": 677,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "months",
+                "start_char": 720,
+                "end_char": 726,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Instagram",
+                "start_char": 775,
+                "end_char": 784,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Reddit",
+                "start_char": 786,
+                "end_char": 792,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Republican",
+                "start_char": 914,
+                "end_char": 924,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the White House",
+                "start_char": 939,
+                "end_char": 954,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 997,
+                "end_char": 1009,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Proud",
+                "start_char": 1089,
+                "end_char": 1094,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michael Tyler",
+                "start_char": 1136,
+                "end_char": 1149,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Biden",
+                "start_char": 1185,
+                "end_char": 1190,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Congress",
+                "start_char": 1303,
+                "end_char": 1311,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "January 6, 2021",
+                "start_char": 1315,
+                "end_char": 1330,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Capitol",
+                "start_char": 1429,
+                "end_char": 1436,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "January 6",
+                "start_char": 1494,
+                "end_char": 1503,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Steven Cheung",
+                "start_char": 1546,
+                "end_char": 1559,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "democrats",
+                "start_char": 1653,
+                "end_char": 1662,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1736,
+                "end_char": 1741,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Biden",
+                "start_char": 1893,
+                "end_char": 1898,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Donald",
+                "start_char": 1934,
+                "end_char": 1940,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hitler",
+                "start_char": 1998,
+                "end_char": 2004,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Biden",
+                "start_char": 2010,
+                "end_char": 2015,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 2105,
+                "end_char": 2110,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "October",
+                "start_char": 2189,
+                "end_char": 2196,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Biden",
+                "start_char": 2263,
+                "end_char": 2268,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2017",
+                "start_char": 2303,
+                "end_char": 2307,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hillary Clinton",
+                "start_char": 2313,
+                "end_char": 2328,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Last April",
+                "start_char": 2426,
+                "end_char": 2436,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Manhattan",
+                "start_char": 2511,
+                "end_char": 2520,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alvin Bragg",
+                "start_char": 2532,
+                "end_char": 2543,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2017",
+                "start_char": 2554,
+                "end_char": 2558,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 2658,
+                "end_char": 2661,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Trovati otto migranti morti su una spiaggia in Messico",
+        "date_raw": "Sat, 30 Mar 2024 17:07:15 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/03/30/trovati-otto-migranti-morti-su-una-spiaggia-in-messico_f515ced5-1e6d-4741-a015-e4b71b205546.html",
+        "subtitle": "La loro imbarcazione affondata al largo dello stato di Oaxaca",
+        "content": "- La polizia dello stato messicano meridionale di Oaxaca ha trovato otto morti sulle rive di Playa Vicente a San Francisco del Mar. Si tratta probabilmente di migranti.     La procura ha avviato le indagini per chiarire le circostanze. Secondo le prime informazioni, l'imbarcazione delle otto vittime è affondata al largo della costa.     Situato sulla costa pacifica, lo stato di Oaxaca è una delle rotte dei migranti che entrano in Messico attraverso il confine meridionale e si dirigono a nord per raggiungere gli Stati Uniti.    \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Esteri",
+        "epoch": 1711832436.321405,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Found eight dead migrants on a beach in Mexico",
+        "en_content": "- The southern Mexican state police found eight dead on the shores of Playa Vicente in San Francisco del Mar. It's probably migrants. The Prosecutor has initiated investigations to clarify the circumstances. According to the first information, the vessel of the eight victims has sunk off the coast. Located on the Pacific Coast, the state of Oaxaca is one of the routes of migrants entering Mexico through the southern border and heading north to reach the United States.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "beach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "eight",
+                "start_char": 6,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Mexican",
+                "start_char": 15,
+                "end_char": 22,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "eight",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Playa Vicente",
+                "start_char": 70,
+                "end_char": 83,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "San Francisco",
+                "start_char": 87,
+                "end_char": 100,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 225,
+                "end_char": 230,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "eight",
+                "start_char": 262,
+                "end_char": 267,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Pacific Coast",
+                "start_char": 311,
+                "end_char": 328,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Oaxaca",
+                "start_char": 343,
+                "end_char": 349,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 392,
+                "end_char": 398,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United States",
+                "start_char": 454,
+                "end_char": 471,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Paura in Olanda, si barrica con 4 ostaggi in un caffè ",
+        "date_raw": "Sat, 30 Mar 2024 19:17:26 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/03/30/paura-in-olanda-si-barrica-con-4-ostaggi-in-un-caffe_bc03a2b1-a2a9-419e-a819-d3d3fa4b0f5e.html",
+        "subtitle": "Minaccia di far saltare il bar, poi li libera. Non è terrorismo ",
+        "content": "Grande paura in Olanda per quello che poteva avere tutti gli ingredienti di un attentato terroristico. La piccola cittadina di Ede, 110mila abitanti nel cuore dei Paesi Bassi, si è svegliata col cuore in gola quando un imponente schieramento di forze di polizia ha circondato il Petticoat Caffè, molto frequentato dai giovani. Un uomo, non identificato, aveva fatto irruzione sequestrando quattro persone dello staff, minacciando di far saltare per aria il locale. Così è scattato l'allarme.La polizia, che ha ricevuto la prima denuncia verso le 5 del mattino, è intervenuta prontamente e ha subito dichiarato l'allerta regionale, facendo intervenire il reparto degli artificieri e i negoziatori. A quel punto si è aperta la trattativa. Per sicurezza, però, sono state fatte evacuare 150 abitazioni nelle vicinanze del caffè, che la sera prima aveva ospitato una serata musicale. I testimoni avevano parlato di un uomo in \"stato confusionale\". I media poi avevano diffuso l'ipotesi che il sequestratore avesse aperto i rubinetti del gas -- circostanza che non è stata in seguito confermata. In mattinata, poi, il primo passo in avanti positivo: tre dei quattro ostaggi sono stati liberati. Un video che li ritraeva avanzare con le braccia alzate era immediatamente rimbalzato sui social, provocando l'intervento del sindaco René Verhulst. \"Vediamo molti video della situazione sul posto che vengono messi online: vi invito a non condividerli poiché gli ostaggi ora sono liberi hanno diritto alla pace e alla privacy e la polizia vuole poter svolgere il proprio lavoro in modo adeguato\". Poco dopo, verso mezzogiorno, la crisi si è risolta fortunatamente senza vittime. L'ultimo ostaggio è stato infatti liberato e l'uomo è stato arrestato dalle forze dell'ordine.Marthyne Kunst, procuratore capo dei Paesi Bassi orientali, ha dichiarato nel corso di una conferenza stampa che il presunto sequestratore era noto alla magistratura ed era già stato condannato per minacce l'anno passato. Ma non ha voluto fornire ulteriori informazioni. In generale al momento non si sa ancora nulla sul movente. \"Non riteniamo che l'incidente abbia una matrice terroristica\", ha dichiarato Anne Jan Oosterheert della polizia dei Paesi Bassi orientali. L'uomo, secondo Kunst, non ha opposto resistenza all'arresto. Aveva con sé uno zaino, che è stato esaminato alla ricerca di possibili esplosivi. Che però non sono stati trovati. E non è nemmeno chiaro se il sequestratore conoscesse una o più vittime. Le indagini, dunque, proseguono per far luce sulla vicenda.Sui social media il primo ministro uscente Mark Rutte ha espresso \"grande rispetto e apprezzamento\" per la polizia, i servizi di emergenza e la task force speciale, che \"sono riusciti a portare a termine con successo la presa di ostaggi a Ede\". Anche il sindaco si è detto sollevato. \"Quello che è successo oggi avrà un impatto enorme sulle vittime: vorrei augurare a loro e alle loro famiglie tanta forza e sostegno nel prossimo periodo per affrontare tutto questo. Dove possiamo, li sosterremo\".    \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1711832436.3371496,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Fear in Holland, barricades with 4 hostages in a coffee",
+        "en_content": "Great fear in the Netherlands for what could have all the ingredients of a terrorist attack. The small town of Ede, 110 thousand inhabitants in the heart of the Netherlands, woke up with its heart in the throat when an imposing array of police forces surrounded the Petticoat Caffè, very popular with young people. A man, unidentified, had raided four staff people, threatening to blow up the premises. That's the alarm. The police, who received the first complaint at 5 a.m., intervened promptly and immediately declared the regional alert, bringing in the department of the bombers and negotiators. The negotiation opened then. For safety, however, 150 houses were evacuated in the vicinity of coffee, which in the evening before had hosted a musical evening. Witnesses had spoken of a man in \"confusion state\". The media then spread the hypothesis that the senator had opened the gas taps -- condition that was not later confirmed. In the morning, then, the first positive step forward: Three of the four hostages were released. A video that portrayed them advancing with their raised arms was immediately bounced on social media, causing mayor René Verhulst's intervention. \"We see many videos of the situation on the spot that are put online: I invite you not to share them because the hostages are free now have the right to peace and privacy and the police want to be able to do their job properly.\" Shortly thereafter, towards noon, the crisis was resolved fortunately without victims. The last hostage was released and the man was arrested by law enforcement. Marthyne Kunst, head of the eastern Netherlands attorney, declared during a press conference that the alleged sequestrian was known to the judiciary and had already been convicted of threats in the past year. But he did not want to provide further information. In general at the moment nothing is known about motive. \"We do not think the incident has a terrorist matrix,\" said Anne Jan Oosterheert of the police in the eastern Netherlands. The man, according to Kunst, did not resist arrest. He had a backpack with him, which was examined in search of possible explosives. But they were not found. And it's not even clear if the kidnapper knew one or more victims. The investigations, therefore, continue to shed light on the incident. On social media the outgoing Prime Minister Mark Rutte expressed \"great respect and appreciation\" for the police, emergency services and the special task force, which \"successfully managed to complete the hostages taking to Ede\". The mayor also said he was relieved. \"What happened today will have a huge impact on the victims: I would like to wish them and their families so much strength and support in the next period to face all this. Where we can, we will support them.\"\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Holland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hostages",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "coffee",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Holland",
+                "start_char": 8,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 33,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Netherlands",
+                "start_char": 18,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ede",
+                "start_char": 111,
+                "end_char": 114,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "110 thousand",
+                "start_char": 116,
+                "end_char": 128,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 161,
+                "end_char": 172,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Petticoat Caffè",
+                "start_char": 262,
+                "end_char": 281,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "four",
+                "start_char": 347,
+                "end_char": 351,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "premises",
+                "start_char": 393,
+                "end_char": 401,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "first",
+                "start_char": 450,
+                "end_char": 455,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "5 a.m.",
+                "start_char": 469,
+                "end_char": 475,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "150",
+                "start_char": 651,
+                "end_char": 654,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the evening",
+                "start_char": 713,
+                "end_char": 724,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the morning",
+                "start_char": 938,
+                "end_char": 949,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "first",
+                "start_char": 961,
+                "end_char": 966,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Three",
+                "start_char": 990,
+                "end_char": 995,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "four",
+                "start_char": 1003,
+                "end_char": 1007,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "René Verhulst's",
+                "start_char": 1148,
+                "end_char": 1163,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "noon",
+                "start_char": 1435,
+                "end_char": 1439,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Marthyne Kunst",
+                "start_char": 1569,
+                "end_char": 1583,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 1605,
+                "end_char": 1616,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the past year",
+                "start_char": 1763,
+                "end_char": 1776,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Anne Jan Oosterheert",
+                "start_char": 1946,
+                "end_char": 1966,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 1996,
+                "end_char": 2007,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kunst",
+                "start_char": 2031,
+                "end_char": 2036,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 2213,
+                "end_char": 2216,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mark Rutte",
+                "start_char": 2349,
+                "end_char": 2359,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 2587,
+                "end_char": 2592,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the next period",
+                "start_char": 2710,
+                "end_char": 2725,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Tensione a Tel Aviv, in piazza i familiari degli ostaggi",
+        "date_raw": "Sat, 30 Mar 2024 20:23:21 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/03/30/tensione-a-tel-aviv-in-piazza-i-familiari-degli-ostaggi_8aeaf067-a5e2-4000-8b02-6ed57ec40f6d.html",
+        "subtitle": "Migliaia chiedono che tornino loro cari. Scontri con la polizia",
+        "content": "\n                                                \n            Migliaia di israeliani stanno\nmarciando a Tel Aviv chiedendo il rilascio degli ostaggi dopo\nl'appello rivolto alla popolazione a scendere in piazza dal\nForum sugli ostaggi e delle famiglie scomparse. Il sito di\nnotizie Ynet riferisce che i manifestanti hanno bloccato il\ntraffico in strada e hanno invitano le persone sedute nei bar a\nunirsi a loro. Secondo The Times of Israel la polizia ha sparato\ndegli idranti ad acqua sull'autostrada e ha utilizzato i cavalli\nper disperdere i dimostranti.\n                                    \n                                       \n\t\t\t\t   Haaretz riporta che Aviva Siegal, un'israeliana liberata\ndalla prigionia di Hamas il cui marito, Keith, è ancora\nprigioniero, ha invitato il primo ministro Benyamin Netanyahu a\n\"fare tutto\" il possibile \"per riportare a casa\" gli ostaggi.\n                                    \n                                       \n\t\t\t\t\"Non parlare di vittoria - ha affermato Siegal rivolgendosi al\nprimo ministro -, non è possibile riportare indietro la\ndelegazione del Qatar senza avere un accordo. Non osare andare a\ndormire senza pensare agli ostaggi\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1711832436.4170806,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Tension in Tel Aviv, the family of the hostages",
+        "en_content": "Thousands of Israelis are\nmarching to Tel Aviv demanding the release of hostages after\nthe call to the people to get off in the square\nForum on hostages and missing families. The website\nYnet reports that protesters have blocked\ntraffic in the street and invite people sitting in bars to\njoin them. According to The Times of Israel police fired\nof water water water water supply on the highway and used horses\nto disperse the demonstrators.\n\n\nHaaretz reports that Aviva Siegal, an Israeli liberated\nfrom the prison of Hamas whose husband, Keith, is still\nprisoner, he invited Prime Minister Benyamin Netanyahu to\n\"do everything\" as possible \"to bring home\" hostages.\n\n\n\"Don't talk about victory - Siegal said\nPrime Minister -, it is not possible to bring back the\nDelegation of Qatar without having an agreement. Don't you dare go\nsleep without thinking about the hostages.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Tension",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tel",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Aviv",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "family",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "hostages",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Tel Aviv",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Thousands",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israelis",
+                "start_char": 13,
+                "end_char": 21,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tel Aviv",
+                "start_char": 38,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ynet",
+                "start_char": 187,
+                "end_char": 191,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Times of Israel",
+                "start_char": 312,
+                "end_char": 331,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Aviva Siegal",
+                "start_char": 464,
+                "end_char": 476,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 481,
+                "end_char": 488,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 518,
+                "end_char": 523,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Keith",
+                "start_char": 539,
+                "end_char": 544,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Benyamin Netanyahu",
+                "start_char": 591,
+                "end_char": 609,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Delegation of Qatar",
+                "start_char": 764,
+                "end_char": 783,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Kiev, da inizio guerra uccisi 537 bambini, feriti altri 1.273",
+        "date_raw": "Sat, 30 Mar 2024 19:12:18 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/03/30/kiev-da-inizio-guerra-uccisi-537-bambini-feriti-altri-1.273_d3701da5-2be6-4f99-b5ce-e029fd9589ea.html",
+        "subtitle": "Ukrinform: 'I dati diffusi dalla procura generale ucraina'",
+        "content": "\n                                                \n            L'aggressione armata della Russia\ncontro l'Ucraina ha già provocato la morte di 537 bambini e il\nferimento di 1.273. Lo ha annunciato la procura generale ucraina\nin un post su Telegram, riferisce Ukrinform. \"Più di 1.810\nbambini sono stati colpiti in Ucraina a causa dell'aggressione\narmata su vasta scala da parte della Russia. Secondo i rapporti\nufficiali dei procuratori minorili, 537 bambini sono stati\nuccisi e più di 1.273 hanno riportato ferite di diversi gradi di\ngravità\", si legge nel post. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1711832436.471631,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Kiev, from the beginning of the war killed 537 children, wounded another 1.273",
+        "en_content": "The armed aggression of Russia\nagainst Ukraine has already caused the death of 537 children and\nwound of 1.273. It has announced the Ukrainian general prosecutor\nin a post on Telegram, reports Ukrinform. \"More than 1.810\nchildren were affected in Ukraine due to aggression\nArmed on a large scale by Russia. According to reports\nofficers of minor prosecutors, 537 children were\nkilled and more than 1.273 have reported wounds of different degrees\ngravity,\" we read in the post.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Kiev",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "beginning",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "children",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the beginning of the",
+                "start_char": 11,
+                "end_char": 31,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "537",
+                "start_char": 43,
+                "end_char": 46,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.273",
+                "start_char": 73,
+                "end_char": 78,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Russia",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 39,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "537",
+                "start_char": 79,
+                "end_char": 82,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.273",
+                "start_char": 105,
+                "end_char": 110,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 133,
+                "end_char": 142,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Telegram",
+                "start_char": 175,
+                "end_char": 183,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukrinform",
+                "start_char": 193,
+                "end_char": 202,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "More than 1.810",
+                "start_char": 205,
+                "end_char": 220,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 247,
+                "end_char": 254,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 299,
+                "end_char": 305,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "537",
+                "start_char": 359,
+                "end_char": 362,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "more than 1.273",
+                "start_char": 388,
+                "end_char": 403,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Boluarte sarà sentita dalle autorità peruviane il 5 aprile",
+        "date_raw": "Sat, 30 Mar 2024 16:30:44 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/30/boluarte-sara-sentita-dalle-autorita-peruviane-il-5-aprile_0cec5c5e-18f7-481a-8386-301f443a3e74.html",
+        "subtitle": "Perquisizioni per circa dieci ore per lo scandalo dei Rolex",
+        "content": "\n                                                \n            Gli avvocati della presidente\nperuviana, Dina Boluarte, hanno fatto sapere che il capo di\nStato sarà sentito dalle autorità il 5 aprile. La leader è al\ncentro dello scandalo dei Rolex, un'indagine che ipotizza un\narricchimento illecito, per una collezione di orologi preziosi\nche la presidente non avrebbe dichiarato.\n                                    \n                                       \n\t\t\t\t   I procuratori anticorruzione e gli agenti della divisione\ninvestigativa sui crimini ad alta complessità della polizia\nnazionale hanno perquisito la residenza privata di Boluarte e il\nPalazzo del Governo per un totale di una decina di ore. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1711832436.5128934,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Boluarte will be heard by the Peruvian authorities on 5 April",
+        "en_content": "The President's lawyers\nPeruvian, Dina Boluarte, have made known that the head of\nState will be heard by the authorities on 5 April. The leader is at\ncenter of the Rolex scandal, an investigation that hypotheses a\nillicit enrichment, for a collection of precious watches\nthat the president would not declare.\n\n\nAnti-corruption prosecutors and division agents\nInvestigating high-complexity police crimes\nNational have searched the private residence of Boluarte and the\nGovernment building for a total of about ten hours.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Boluarte",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "authorities",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "April",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Peruvian",
+                "start_char": 30,
+                "end_char": 38,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "5 April",
+                "start_char": 54,
+                "end_char": 61,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Peruvian",
+                "start_char": 24,
+                "end_char": 32,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Dina Boluarte",
+                "start_char": 34,
+                "end_char": 47,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "State",
+                "start_char": 82,
+                "end_char": 87,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "5 April",
+                "start_char": 124,
+                "end_char": 131,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rolex",
+                "start_char": 164,
+                "end_char": 169,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "National",
+                "start_char": 403,
+                "end_char": 411,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Boluarte",
+                "start_char": 451,
+                "end_char": 459,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "about ten hours",
+                "start_char": 503,
+                "end_char": 518,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il tribunale nega la restituzione del passaporto a Bolsonaro",
+        "date_raw": "Sat, 30 Mar 2024 17:09:06 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/2024/03/29/il-tribunale-nega-la-restituzione-del-passaporto-a-bolsonaro_179bee10-08b4-462b-b739-2ffbb158f649.html",
+        "subtitle": "L'ex presidente brasiliano voleva andare in Israele da Netanyahu",
+        "content": "Il giudice Alexandre de Moraes, del Tribunale supremo federale brasiliano, ha respinto la richiesta di restituzione del passaporto presentata dalla difesa dell'ex presidente di destra, Jair Bolsonaro, per andare in Israele, tra il 12 ed il 18 maggio. Nelle passate settimane il leader sovranista aveva detto di aver ricevuto un invito del premier Benyamin Netanyahu.     Il documento di Bolsonaro era stato sequestrato dalla polizia federale all'inizio di febbraio, nel quadro di un'operazione sulle presunte trame golpiste ai danni dell'attuale capo dello Stato, Luiz Inacio Lula da Silva.     \"Le indagini sono in corso, ed è assolutamente prematuro rimuovere la restrizione imposta all'indagato\", ha spiegato il giudice.    \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 33,
+        "placed": "Esteri",
+        "epoch": 1711832436.674172,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "The court denies the return of the passport to Bolsonaro",
+        "en_content": "Judge Alexandre de Moraes, of the Brazilian Supreme Federal Court, rejected the request for the return of the passport presented by the defense of the former right-wing president, Jair Bolsonaro, to go to Israel between 12 and 18 May. In the past weeks, the sovereign leader had said he had received an invitation from Premier Benyamin Netanyahu. Bolsonaro's document was seized by the federal police at the beginning of February, as part of an operation on the alleged coups against the current head of the state, Luiz Inacio Lula da Silva. \"The investigations are underway, and it is absolutely premature to remove the restriction imposed on the investigation,\" the judge explained.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "passport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Bolsonaro",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bolsonaro",
+                "start_char": 47,
+                "end_char": 56,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Alexandre de Moraes",
+                "start_char": 6,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Brazilian Supreme Federal Court",
+                "start_char": 30,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jair Bolsonaro",
+                "start_char": 180,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 205,
+                "end_char": 211,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "between 12 and 18",
+                "start_char": 212,
+                "end_char": 229,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the past weeks",
+                "start_char": 238,
+                "end_char": 252,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Benyamin Netanyahu",
+                "start_char": 327,
+                "end_char": 345,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 347,
+                "end_char": 356,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the beginning of February",
+                "start_char": 404,
+                "end_char": 429,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Luiz Inacio Lula da Silva",
+                "start_char": 515,
+                "end_char": 540,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il tribunale nega la restituzione del passaporto a Bolsonaro",
+        "date_raw": "Fri, 29 Mar 2024 23:47:32 +0100",
+        "date": "2024-03-29",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/29/il-tribunale-nega-la-restituzione-del-passaporto-a-bolsonaro_3fb2a5a9-1b19-44db-b18c-415d2de706d2.html",
+        "subtitle": "L'ex presidente brasiliano voleva andare in Israele da Netanyahu",
+        "content": "\n                                                \n            Il giudice Alexandre de Moraes,\ndel Tribunale supremo federale brasiliano, ha respinto la\nrichiesta di restituzione del passaporto presentata dalla difesa\ndell'ex presidente di destra, Jair Bolsonaro, per andare in\nIsraele, tra il 12 ed il 18 maggio. Nelle passate settimane il\nleader sovranista aveva detto di aver ricevuto un invito del\npremier Benyamin Netanyahu.\n                                    \n                                       \n\t\t\t\t   Il documento di Bolsonaro era stato sequestrato dalla polizia\nfederale all'inizio di febbraio, nel quadro di un'operazione\nsulle presunte trame golpiste ai danni dell'attuale capo dello\nStato, Luiz Inacio Lula da Silva.\n                                    \n                                       \n\t\t\t\t   \"Le indagini sono in corso, ed è assolutamente prematuro\nrimuovere la restrizione imposta all'indagato\", ha spiegato il\ngiudice. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 32,
+        "placed": "Esteri",
+        "epoch": 1711832436.7106435,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "The court denies the return of the passport to Bolsonaro",
+        "en_content": "Judge Alexandre de Moraes,\nof the Brazilian Federal Supreme Court, rejected the\nrequest for return of the passport submitted by the defence\nof the former right-wing president, Jair Bolsonaro, to go to\nIsrael, between 12 and 18 May. In the past weeks\nsovereign leader said he had received an invitation from\nPremier Benyamin Netanyahu.\n\n\nThe Bolsonaro document had been seized by the police\nFederal in early February, as part of an operation\non the alleged goals to damage the current head of the\nState, Luiz Inacio Lula da Silva.\n\n\n\"The investigation is underway, and it is absolutely premature\nremove the restriction imposed on the investigated\", explained the\nJudge.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "passport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Bolsonaro",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bolsonaro",
+                "start_char": 47,
+                "end_char": 56,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Alexandre de Moraes",
+                "start_char": 6,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Brazilian Federal Supreme Court",
+                "start_char": 30,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jair Bolsonaro",
+                "start_char": 176,
+                "end_char": 190,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 201,
+                "end_char": 207,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "between 12 and 18",
+                "start_char": 209,
+                "end_char": 226,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the past weeks",
+                "start_char": 235,
+                "end_char": 249,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Benyamin Netanyahu",
+                "start_char": 315,
+                "end_char": 333,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 341,
+                "end_char": 350,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "early February",
+                "start_char": 401,
+                "end_char": 415,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "State",
+                "start_char": 496,
+                "end_char": 501,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lula da Silva",
+                "start_char": 515,
+                "end_char": 528,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Linciaggio in Messico per l'omicidio di una bambina di otto anni",
+        "date_raw": "Sat, 30 Mar 2024 16:50:50 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/30/linciaggio-in-messico-per-lomicidio-di-una-bambina-di-otto-anni_9dec3734-94ef-4101-949f-0c8f79bc70b6.html",
+        "subtitle": "Una donna picchiata a morte, due uomini finiti in ospedale",
+        "content": "\n                                                \n            Il Venerdì santo nel\nMessico meridionale è stato funestato dal linciaggio di una\ndonna picchiata a morte e di due uomini finiti in ospedale\nperché sospettati di essere responsabili dell'omicidio di una\nbambina di otto anni, un caso che ha suscitato forte\nindignazione nel Paese.\n                                    \n                                       \n\t\t\t\t   Le violente proteste sono iniziate dopo il ritrovamento del\ncorpo della piccola Camila Gomez, lungo una strada vicino alla\ncittà di Taxco. I familiari di Camila si sono uniti ai residenti\ndi Taxco per protestare contro la polizia e chiedere giustizia.\n                                    \n                                       \n\t\t\t\tI filmati diffusi sui social media mostrano le forze dell'ordine\nmentre assistono al brutale pestaggio in pieno giorno.\n                                    \n                                       \n\t\t\t\t   Camila era scomparsa mercoledì dopo essere entrata nella casa\ndi un vicino per fare un bagno in piscina. La madre di Camila si\nera rivolta alla polizia poche ore dopo aver ricevuto messaggi\ntelefonici che chiedevano un riscatto per liberarla. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1711832436.734554,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Lynching in Mexico for the murder of an eight-year-old",
+        "en_content": "Good Friday in\nSouthern Mexico has been pulsated by lynching a\nwoman beaten to death and two men ended up in hospital\nbecause you suspect you're responsible for murdering a\neight-year-old girl, a case that aroused strong\nindignation in the country.\n\n\nThe violent protests began after the discovery of the\nbody of the small Camila Gomez, along a road near the\ncity of Taxco. The family of Camila joined the residents\nTaxco to protest the police and ask for justice.\n\n\nSocial media movies show law enforcement\nWhile they assist the brutal beating in the middle of the day.\n\n\nCamila had disappeared on Wednesday after entering the house\nof a neighbor to bathe in the pool. The mother of Camila\nwas addressed to the police a few hours after receiving messages\nphone calls asking for a ransom to release her.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Mexico",
+                "start_char": 12,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "eight-year-old",
+                "start_char": 40,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Friday",
+                "start_char": 5,
+                "end_char": 11,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Southern Mexico",
+                "start_char": 15,
+                "end_char": 30,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "two",
+                "start_char": 89,
+                "end_char": 92,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "eight-year-old",
+                "start_char": 173,
+                "end_char": 187,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Camila Gomez",
+                "start_char": 323,
+                "end_char": 335,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Taxco",
+                "start_char": 367,
+                "end_char": 372,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Camila",
+                "start_char": 388,
+                "end_char": 394,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Taxco",
+                "start_char": 416,
+                "end_char": 421,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the middle of the day",
+                "start_char": 548,
+                "end_char": 569,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Camila",
+                "start_char": 573,
+                "end_char": 579,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 599,
+                "end_char": 608,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Camila",
+                "start_char": 684,
+                "end_char": 690,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a few hours",
+                "start_char": 719,
+                "end_char": 730,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "La Nasa rileva 11mila incendi in Venezuela a marzo, dato record",
+        "date_raw": "Sat, 30 Mar 2024 17:38:14 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/03/30/la-nasa-rileva-11mila-incendi-in-venezuela-a-marzo-dato-record_ac9ccf9d-f169-45f7-be18-792aa254f0bc.html",
+        "subtitle": "Tra gennaio e febbraio ne sono stati registrati oltre 9mila",
+        "content": "\n                                                \n            La Nasa ha rilevato più di 11mila\nincendi nel marzo 2024 in Venezuela, il numero più alto\nregistrato dal 2003. L'agenzia statunitense ha riferito che la\nsiccità e le alte temperature hanno causato \"un numero\ninsolitamente alto di incendi\" nel Paese, nei primi tre mesi del\n2024.\n                                    \n                                       \n\t\t\t\tSecondo i dati del sensore Modis, il numero totale di incendi\ntra gennaio e febbraio di quest'anno ha superato la soglia dei\n9mila, un record dall'inizio delle rilevazioni nei primi anni\ndel 2000. Il team della NASA ha inoltre rilevato più di 11mila\nincendi nel marzo 2024, il dato più alto dal 2003.\n                                    \n                                       \n\t\t\t\t   L'agenzia spaziale sul profilo Nasa earth ha condiviso\nl'immagine scattata da Modis il 26 marzo, che mostra una densa\ncoltre di fumo a sud del fiume Orinoco. Inoltre, la nuvola\ngrigia avvolge gran parte della regione nel raggio di chilometri\ndal bacino di Guri. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1711832436.7605963,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "The Nasa detects 11 thousand fires in Venezuela in March, given record",
+        "en_content": "The Nasa has detected more than 11 thousand\nfires in March 2024 in Venezuela, the highest number\nrecorded since 2003. The US agency reported that the\ndrought and high temperatures caused \"a number\nunusually high of fire\" in the country, in the first three months of\n2024.\n\n\nAccording to data from the Modis sensor, the total number of fires\nbetween January and February this year exceeded the threshold of\n9 thousand, a record from the beginning of the surveys in the early years\n2000. The NASA team also detected more than 11,000\nfires in March 2024, the highest figure since 2003.\n\n\nThe space agency on the Nasa earth profile shared\nthe image taken by Modis on March 26, showing a dense\nsmoke blankets south of the river Orinoco. In addition, the cloud\ngrey wraps much of the region within miles\nfrom the Guri Basin.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Nasa",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fires",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Venezuela",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "March",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "record",
+                "meaning": "pobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Nasa",
+                "start_char": 4,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "11 thousand",
+                "start_char": 17,
+                "end_char": 28,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Venezuela",
+                "start_char": 38,
+                "end_char": 47,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "March",
+                "start_char": 51,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Nasa",
+                "start_char": 4,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than 11 thousand",
+                "start_char": 22,
+                "end_char": 43,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "March 2024",
+                "start_char": 53,
+                "end_char": 63,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Venezuela",
+                "start_char": 67,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2003",
+                "start_char": 112,
+                "end_char": 116,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US",
+                "start_char": 122,
+                "end_char": 124,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the first three months of\n2024",
+                "start_char": 240,
+                "end_char": 270,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Modis",
+                "start_char": 301,
+                "end_char": 306,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "between January and February this year",
+                "start_char": 341,
+                "end_char": 379,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "9 thousand",
+                "start_char": 406,
+                "end_char": 416,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the early years\n2000",
+                "start_char": 464,
+                "end_char": 484,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "NASA",
+                "start_char": 490,
+                "end_char": 494,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than 11,000",
+                "start_char": 514,
+                "end_char": 530,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "March 2024",
+                "start_char": 540,
+                "end_char": 550,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2003",
+                "start_char": 577,
+                "end_char": 581,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Nasa",
+                "start_char": 609,
+                "end_char": 613,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Modis",
+                "start_char": 654,
+                "end_char": 659,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "March 26",
+                "start_char": 663,
+                "end_char": 671,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Orinoco",
+                "start_char": 723,
+                "end_char": 730,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Guri Basin",
+                "start_char": 803,
+                "end_char": 817,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Media Egitto, 'domani al Cairo ripresa negoziati su tregua'",
+        "date_raw": "Sat, 30 Mar 2024 18:14:21 +0100",
+        "date": "2024-03-30",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/03/30/media-egitto-domani-al-cairo-ripresa-negoziati-su-tregua_d257a474-ab7e-48f5-929e-7e16f5e67f44.html",
+        "subtitle": "Trattative indirette tra Israele e Hamas",
+        "content": "\n                                                \n            I negoziati indiretti tra Hamas e\nIsraele per una tregua a Gaza e il rilascio degli ostaggi\nriprenderanno domani al Cairo. Lo ha riferito la tv egiziana Al\nQahera News TV, che cita fonti della sicurezza, ripresa da media\ninternazionali e in Israele da Haaretz. Il premier Benyamin\nNetanyahu nei giorni scorsi aveva annunciato l'invio di\ndelegazioni nella capitale egiziana e a Doha in Qatar. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1711832436.7911685,
+        "language": "it",
+        "source": "ANSA_Esteri",
+        "local_time": "2024-03-30 22:00:36",
+        "filename": "ner_conc_en_2024-03-30T22.00.35E1711836035.411166.json",
+        "en_title": "Media Egypt, 'Tomorrow in Cairo resume negotiations on truce'",
+        "en_content": "Indirect negotiations between Hamas and\nIsrael for a truce in Gaza and the release of hostages\nThey'll be back in Cairo tomorrow. Egyptian TV Al reported it\nQahera News TV, citing security sources, media recovery\ninternational and in Israel from Haaretz. Premier Benyamin\nNetanyahu in recent days had announced the sending of\ndelegations in the Egyptian capital and Doha in Qatar.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Media",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Egypt",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tomorrow",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Cairo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "negotiations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "truce",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Egypt",
+                "start_char": 6,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tomorrow",
+                "start_char": 14,
+                "end_char": 22,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cairo",
+                "start_char": 26,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 30,
+                "end_char": 35,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 62,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cairo",
+                "start_char": 114,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 120,
+                "end_char": 128,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Egyptian",
+                "start_char": 130,
+                "end_char": 138,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Qahera News TV",
+                "start_char": 157,
+                "end_char": 171,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 234,
+                "end_char": 240,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Haaretz",
+                "start_char": 246,
+                "end_char": 253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Benyamin",
+                "start_char": 263,
+                "end_char": 271,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 272,
+                "end_char": 281,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "recent days",
+                "start_char": 285,
+                "end_char": 296,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Egyptian",
+                "start_char": 345,
+                "end_char": 353,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Doha",
+                "start_char": 366,
+                "end_char": 370,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Qatar",
+                "start_char": 374,
+                "end_char": 379,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

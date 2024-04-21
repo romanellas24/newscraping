@@ -1,0 +1,3660 @@
+[
+    {
+        "title": "Sbarchi senza sosta nella notte, in 333 a Lampedusa",
+        "date_raw": "Fri, 05 Apr 2024 09:05:28 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-05/sbarchi-senza-sosta-notte-333-lampedusa-25920051/",
+        "subtitle": "",
+        "content": "AGI - Sbarchi senza sosta durante la notte a Lampedusa. Sono 333 i migranti arrivati a bordo di sette barchini, sei dei quali sono stati soccorsi nelle acque antistanti l'isola mentre l'ultimo è arrivato direttamente sulla spiaggia della Guitgia. \n&nbsp; \nIeri, in tutto, ci sono stati 16 approdi con un totale di 670 migranti. Sul barcone di dodici metri arrivato alla Guitgia c'erano 58 bengalesi, egiziani e pakistani partiti, secondo quanto hanno riferito, da Zuara, in Libia. Sui sei natanti soccorsi in mare, partiti da Sfax, El Amra, Soussa e Mahdia, in Tunisia, e bloccati dalle motovedette di guardia costiera e guardia di finanza, c'erano invece gruppi da 33 a 57 di nazionalita' gambiana, nigeriana, senegalese, guineana, malese e ivoriana, fra cui donne e minori. \n&nbsp; \nSono stati tutti portati all'hotspot di contrada Imbriacola, dove ci sono 1.263 ospiti fra cui 157 minori non accompagnati. Per oggi la prefettura di Agrigento ha disposto tre trasferimenti: 261 lasceranno l'isola in mattinata con il traghetto di linea per Porto Empedocle, 180 con un volo Oim per Bergamo nel pomeriggio e un altro trasferimento - con numeri ancora da definire - avverrà con la motonave della sera, la Veronese.&nbsp;",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8466258,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "Unstoppable landing in the night, in 333 in Lampedusa",
+        "en_content": "AGI - Unstoppable overnight in Lampedusa. There are 333 migrants arrived on board seven barks, six of which were rescued in the waters overlooking the island while the last arrived directly on the beach of Guitgia.\n&nbsp;\nYesterday, in all, there were 16 landings with a total of 670 migrants. On the 12-metre bark arrived at Guitgia there were 58 Bengali, Egyptians and Pakistani parties, according to what they reported, from Zuara, to Libya. On the six born rescued in the sea, departed from Sfax, El Amra, Soussa and Mahdia, in Tunisia, and blocked by the coast guard and finance guard, there were groups from 33 to 57 of the nationalities of Gambiana, Nigeria, Senegalese, Malaysian, and Ivorian, including women and children.\n&nbsp;\nThey were all brought to the Imbriacola contrada hotspot, where there are 1,263 guests including 157 unaccompanied minors. For today the prefecture of Agrigento has arranged three transfers: 261 will leave the island in the morning with the ferry line to Porto Empedocle, 180 with an Oim flight to Bergamo in the afternoon and another transfer - with numbers still to be defined - will happen with the ship of the evening, the Veronese.&nbsp;",
+        "concepts": [
+            {
+                "word": "landing",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "night",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lampedusa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "333",
+                "start_char": 37,
+                "end_char": 40,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Lampedusa",
+                "start_char": 44,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "overnight",
+                "start_char": 18,
+                "end_char": 27,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Lampedusa",
+                "start_char": 31,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "333",
+                "start_char": 52,
+                "end_char": 55,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "seven",
+                "start_char": 82,
+                "end_char": 87,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "six",
+                "start_char": 95,
+                "end_char": 98,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Guitgia",
+                "start_char": 206,
+                "end_char": 213,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yesterday",
+                "start_char": 222,
+                "end_char": 231,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16",
+                "start_char": 252,
+                "end_char": 254,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "670",
+                "start_char": 280,
+                "end_char": 283,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "12-metre",
+                "start_char": 301,
+                "end_char": 309,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Guitgia",
+                "start_char": 326,
+                "end_char": 333,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "58",
+                "start_char": 345,
+                "end_char": 347,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bengali",
+                "start_char": 348,
+                "end_char": 355,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Egyptians",
+                "start_char": 357,
+                "end_char": 366,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pakistani",
+                "start_char": 371,
+                "end_char": 380,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zuara",
+                "start_char": 428,
+                "end_char": 433,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Libya",
+                "start_char": 438,
+                "end_char": 443,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "six",
+                "start_char": 452,
+                "end_char": 455,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sfax",
+                "start_char": 495,
+                "end_char": 499,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "El Amra",
+                "start_char": 501,
+                "end_char": 508,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Soussa",
+                "start_char": 510,
+                "end_char": 516,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mahdia",
+                "start_char": 521,
+                "end_char": 527,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tunisia",
+                "start_char": 532,
+                "end_char": 539,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the coast guard",
+                "start_char": 556,
+                "end_char": 571,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "33",
+                "start_char": 614,
+                "end_char": 616,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gambiana",
+                "start_char": 647,
+                "end_char": 655,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nigeria",
+                "start_char": 657,
+                "end_char": 664,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Senegalese",
+                "start_char": 666,
+                "end_char": 676,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Malaysian",
+                "start_char": 678,
+                "end_char": 687,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ivorian",
+                "start_char": 693,
+                "end_char": 700,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Imbriacola",
+                "start_char": 768,
+                "end_char": 778,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1,263",
+                "start_char": 813,
+                "end_char": 818,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "157",
+                "start_char": 836,
+                "end_char": 839,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "today",
+                "start_char": 866,
+                "end_char": 871,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Agrigento",
+                "start_char": 890,
+                "end_char": 899,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 913,
+                "end_char": 918,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "261",
+                "start_char": 930,
+                "end_char": 933,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Porto Empedocle",
+                "start_char": 994,
+                "end_char": 1009,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "180",
+                "start_char": 1011,
+                "end_char": 1014,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Oim",
+                "start_char": 1023,
+                "end_char": 1026,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bergamo",
+                "start_char": 1037,
+                "end_char": 1044,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Litiga con la moglie e cerca di strangolarla nella vasca",
+        "date_raw": "Fri, 05 Apr 2024 08:44:27 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-05/oristano-litiga-con-la-moglie-e-cerca-di-arrestarla-25919727/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Ha cercato di strangolare la moglie nella vasca da bagno col cavetto di un caricabatterie. Dovrà rispondere di tentato omicidio un uomo arrestato dopo l'ennesimo caso di violenza in provincia di Oristano, avvenuto stavolta nell'abitazione di famiglia. \n<br> L'altra notte l'uomo, un operaio agricolo residente in un paese dell'Alto Oristanese, ha avuto l'ennesimo litigio con la moglie, casalinga. L'ha picchiata, le ha fatto riempire la vasca da bagno e con un cavetto di un carica batterie ha cercato di strangolarla. La donna è riuscita a scappare via e si è rivolta ai carabinieri. Soccorsa, è stata trasportata al pronto soccorso dell'ospedale San Martino di Oristano, dove poi è arrivato il marito con la figlioletta. L'uomo ha cercato di entrare negli ambulatori, ma è stato fermato dalla vigilanza. Sul posto sono intervenuti gli agenti della polizia che lo hanno trasferito in questura e arrestato. Per lui la pesante accusa di tentato omicidio. \n&nbsp; \nLa donna, alla quale i medici hanno assegnato una prognosi di trenta giorni, ha riportato lesioni varie e sul collo aveva evidenti i segni dell'aggressione. Adesso si trova in una struttura protetta insieme alla sua bambina. Gli agenti della Squadra mobile, diretti dal vicequestore aggiunto Samuele Cabizzosu, hanno predisposto un primo dettagliato rapporto.<br> Dall'inizio dell'anno in provincia di Oristano la questura ha registrato 34 casi di ammonimento, 12 misure cautelari e 4 arresti per vicenda legate al cosiddetto Codice rosso.&nbsp;",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8466609,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "Fight with his wife and try to strangle her in the tub",
+        "en_content": "AGI -&nbsp;He tried to strangle his wife in the bathtub with a charger's cave. A man arrested after another case of violence in the province of Oristano, which took place this time in the family home.\n<br On the other night the man, an agricultural worker living in a country of Upper Oristanese, had yet another quarrel with his wife, a housewife. He beat her, he let her fill in the bathtub and with a cord of a battery charge tried to strangle her. The woman managed to escape and turned to the Carabinieri. Succorsa, she was transported to the E.R. of the Hospital San Martino di Oristano, where then the husband arrived with the daughter. The man tried to get into the ambulancemen, but he was stopped by the vigilance. The police officers who transferred him to the police station and arrested. For him the heavy charge of attempted murder.\n&nbsp;\nThe woman, to whom doctors assigned a thirty-day prognosis, reported various injuries and on the neck had evident signs of aggression. Now she's in a protected facility with her little girl. Agents of the Mobile Team, headed by Deputy Deputy Deputy Deputy Samuele Cabizzosu, have prepared a first detailed report.<br> Since the beginning of the year in the province of Oristano, the trial has recorded 34 cases of admonishment, 12 precautions and 4 arrests for each other related to the so-called red code.&nbsp;",
+        "concepts": [
+            {
+                "word": "wife",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tub",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Oristano",
+                "start_char": 144,
+                "end_char": 152,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the other night",
+                "start_char": 208,
+                "end_char": 223,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Upper",
+                "start_char": 279,
+                "end_char": 284,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Carabinieri",
+                "start_char": 498,
+                "end_char": 509,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Succorsa",
+                "start_char": 511,
+                "end_char": 519,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Hospital San Martino",
+                "start_char": 556,
+                "end_char": 580,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Oristano",
+                "start_char": 584,
+                "end_char": 592,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "thirty-day",
+                "start_char": 892,
+                "end_char": 902,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Mobile Team",
+                "start_char": 1055,
+                "end_char": 1070,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Samuele Cabizzosu",
+                "start_char": 1110,
+                "end_char": 1127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the beginning of the year",
+                "start_char": 1178,
+                "end_char": 1203,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Oristano",
+                "start_char": 1223,
+                "end_char": 1231,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "34",
+                "start_char": 1256,
+                "end_char": 1258,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "12",
+                "start_char": 1282,
+                "end_char": 1284,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 1301,
+                "end_char": 1302,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Tempo sereno e temperature in aumento per tutto il weekend",
+        "date_raw": "Fri, 05 Apr 2024 06:56:22 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-05/tempo-sereno-temperature-aumento-tutto-il-weekend-25918702/",
+        "subtitle": "",
+        "content": "AGI - Prosegue la parentesi stabile in Italia e lo farà almeno fino al weekend: la giornata odierna sarà caratterizzata dal transito di nuvolosità medio-alta sulle regioni del centro-nord dettata dall'avvezione di aria calda. Le temperature sono previste in aumento oggi con valori fino a 21-23 C sui settori pianeggianti del centro-sud. \nFine settimana ancora mite e soleggiato con picco di caldo previsto tra domenica e lunedì: in questo frangente non sono da escludersi punte di temperature massime di 25/27 C sulla Pianura Padana e fino a 30 C all'estremo sud, tra Sardegna e Sicilia. Gli ultimi aggiornamenti del Centro Meteo Italiano evidenziano il transito di una rapida perturbazione di matrice atlantica a partire dalla giornata di martedì, che interesserà buona parte del settentrione italiano e parte del centro. Plausibile il ritorno della neve sulle Alpi a quote medie. \n&nbsp; \n<h2>Previsioni meteo per oggi</h2> \n&nbsp; \n<h3>Al Nord</h3> \nAl mattino tempo stabile su tutte le regioni ma con molte velature in transito ed addensamenti bassi sulla Liguria e al Nord-Est. Al pomeriggio non sono attese variazioni di rilievo. In serata e in nottata si rinnovano condizioni di tempo stabile con cieli sereni o poco nuvolosi per il transito di velature ed ancora addensamenti bassi su Liguria e tra Veneto e Friuli. \n&nbsp; \n<h3>Al Centro</h3> \nAl mattino attese nubi basse sulle regioni tirreniche, sereno o poco nuvoloso altrove. Al pomeriggio nessuna variazione di rilievo con cieli soleggiati e qualche velatura in transito. In serata si rinnovano condizioni di tempo stabile con cieli sereni o poco nuvolosi ed addensamenti bassi lungo le coste tirreniche. \n&nbsp; \n<h3>Al Sud e sulle Isole</h3> \nGiornata stabile su tutte le regioni con cieli per lo piu' soleggiati sia al mattino che al pomeriggio o con al piu' il transito di qualche velatura. In serata e in nottata non sono attese variazioni di rilievo con tempo asciutto prevalenza di cieli sereni o poco nuvolosi. Temperature minime stabili o in generale aumento da Nord a Sud. \n&nbsp; \n<h2>Previsioni meteo per domani</h2> \n&nbsp; \n<h3>Al Nord</h3> \nTempo stabile durante la giornata con cieli per lo piu' soleggiati sia al mattino che al pomeriggio, salvo qualche velatura ed addensamenti bassi su Liguria e al Nord-Est. In serata e in nottata non sono attese variazioni con cieli sereni o poco nuvolosi ed ancora addensamenti bassi su Liguria e Triveneto. \n&nbsp; \n<h3>Al Centro</h3> \nAl mattino tempo stabile con cieli sereni o poco nuvolosi, nubi basse e foschie su coste tirreniche e settori limitrofi. Al pomeriggio cieli per lo piu' soleggiati o con qualche velatura in transito. In serata si rinnovano condizioni di tempo stabile con cieli sereni o poco nuvolosi ed nubi basse sui settori tirrenici. \n&nbsp; \n<h3>Al Sud e sulle Isole</h3> \nGiornata stabile su tutte le regioni con cieli per lo piu' soleggiati sia al mattino che al pomeriggio o con al piu' il transito di qualche velatura. In serata e in nottata non sono attese variazioni di rilievo con tempo asciutto prevalenza di cieli sereni o poco nuvolosi. Attese nubi basse lungo i settori tirrenici. Temperature minime e massime stabili o in generale aumento da Nord a Sud.&nbsp;",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8466842,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "Serene weather and rising temperatures throughout the weekend",
+        "en_content": "AGI - Continues the stable bracket in Italy and will do it at least until the weekend: the day today will be characterized by the transit of medium-high cloud on the regions of the center-north dictated by the warning of hot air. Temperatures are expected to rise today with values up to 21-23 C on the flat areas of the center-south.\nThe weekend is still mild and sunny with a warm peak scheduled between Sunday and Monday: in this sparkling wine there is no need to exclude peaks of 25/27 C on the Po Valley and up to 30 C south, between Sardinia and Sicily. The latest updates of the Italian Meteo Centre highlight the transit of a rapid disturbance of an Atlantic matrix starting from Tuesday, which will affect most of the Italian north and part of the center. The return of snow on the Alps to average altitudes is plausible.\n&nbsp;\n<h2> Weather forecast for today\n&nbsp;\n<h3> North\nIn the morning stable time on all regions but with many sailings in transit and low compensation on Liguria and Northeast. In the afternoon no significant changes are expected. In the evening and in the night are renewed stable conditions of time with serene or little cloudy skies for the transit of sailing and still low compensation on Liguria and between Veneto and Friuli.\n&nbsp;\n<h3> to the Centre\nIn the morning he waited for low clouds on the Tyrrhenian regions, serene or little cloudy elsewhere. In the afternoon no variation of relief with sunny skies and some sailing in transit. In the evening, stable weather conditions are renewed with calm or unmarried skies and low compensations along the Tyrrhenian coasts.\n&nbsp;\n<h3> To the South and the Islands\nStable day on all regions with mostly sunny skies both in the morning and in the afternoon or with most of the transit of some sailing. In the evening and in the night are not expected variations of relief with dry time prevalence of serene or little cloudy skies. Minimum temperatures stable or generally rising from North to South.\n&nbsp;\n<h2> Weather forecast for tomorrow\n&nbsp;\n<h3> North\nStable time during the day with mostly sunny skies both in the morning and in the afternoon, except for some low sailing and compensation on Liguria and Northeast. In the evening and in the night are not expected variations with serene or little cloudy skies and still low compensations on Liguria and Triveneto.\n&nbsp;\n<h3> to the Centre\nIn the morning stable time with serene or little cloudy skies, low clouds and phosphors on Tyrrhenian coasts and neighboring sectors. In the afternoon skies mostly sunny or with some sailing in transit. In the evening, stable weather conditions are renewed with calm or unmarried skies and low clouds on the Tyrrhenian sectors.\n&nbsp;\n<h3> To the South and the Islands\nStable day on all regions with mostly sunny skies both in the morning and in the afternoon or with most of the transit of some sailing. In the evening and in the night are not expected variations of relief with dry time prevalence of serene or little cloudy skies. He waited for low clouds along the Tyrrhenian sectors. Minimum and maximum temperatures stable or in general rise from North to South.&nbsp;",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "temperatures",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weekend",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the weekend",
+                "start_char": 50,
+                "end_char": 61,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italy",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the weekend",
+                "start_char": 74,
+                "end_char": 85,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the day",
+                "start_char": 87,
+                "end_char": 94,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 264,
+                "end_char": 269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "21",
+                "start_char": 288,
+                "end_char": 290,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "The weekend",
+                "start_char": 335,
+                "end_char": 346,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "between Sunday and Monday",
+                "start_char": 398,
+                "end_char": 423,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "25/27",
+                "start_char": 485,
+                "end_char": 490,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Po Valley",
+                "start_char": 496,
+                "end_char": 509,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "up to 30",
+                "start_char": 514,
+                "end_char": 522,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 540,
+                "end_char": 548,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sicily",
+                "start_char": 553,
+                "end_char": 559,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Italian Meteo Centre",
+                "start_char": 583,
+                "end_char": 607,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 659,
+                "end_char": 667,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 689,
+                "end_char": 696,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 728,
+                "end_char": 735,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Alps",
+                "start_char": 792,
+                "end_char": 796,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "today",
+                "start_char": 865,
+                "end_char": 870,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the morning",
+                "start_char": 892,
+                "end_char": 903,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 989,
+                "end_char": 996,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Northeast",
+                "start_char": 1001,
+                "end_char": 1010,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1019,
+                "end_char": 1028,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening",
+                "start_char": 1069,
+                "end_char": 1080,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 1228,
+                "end_char": 1235,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Veneto",
+                "start_char": 1248,
+                "end_char": 1254,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friuli",
+                "start_char": 1259,
+                "end_char": 1265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Centre\n",
+                "start_char": 1282,
+                "end_char": 1293,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the morning",
+                "start_char": 1296,
+                "end_char": 1307,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tyrrhenian",
+                "start_char": 1340,
+                "end_char": 1350,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1402,
+                "end_char": 1411,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening",
+                "start_char": 1484,
+                "end_char": 1495,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tyrrhenian",
+                "start_char": 1596,
+                "end_char": 1606,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "South",
+                "start_char": 1634,
+                "end_char": 1639,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1737,
+                "end_char": 1746,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening",
+                "start_char": 1795,
+                "end_char": 1806,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "North to South",
+                "start_char": 1974,
+                "end_char": 1988,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 2023,
+                "end_char": 2031,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "North\nStable",
+                "start_char": 2044,
+                "end_char": 2056,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the day",
+                "start_char": 2069,
+                "end_char": 2076,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 2191,
+                "end_char": 2198,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Northeast",
+                "start_char": 2203,
+                "end_char": 2212,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the evening",
+                "start_char": 2217,
+                "end_char": 2228,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 2340,
+                "end_char": 2347,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Triveneto",
+                "start_char": 2352,
+                "end_char": 2361,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Centre\nIn",
+                "start_char": 2378,
+                "end_char": 2391,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "morning",
+                "start_char": 2396,
+                "end_char": 2403,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tyrrhenian",
+                "start_char": 2480,
+                "end_char": 2490,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 2530,
+                "end_char": 2539,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening",
+                "start_char": 2595,
+                "end_char": 2606,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tyrrhenian",
+                "start_char": 2697,
+                "end_char": 2707,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "South",
+                "start_char": 2736,
+                "end_char": 2741,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 2839,
+                "end_char": 2848,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening",
+                "start_char": 2897,
+                "end_char": 2908,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tyrrhenian",
+                "start_char": 3058,
+                "end_char": 3068,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "North",
+                "start_char": 3142,
+                "end_char": 3147,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Donna morta dopo una caduta dal balcone, fermato il compagno",
+        "date_raw": "Fri, 05 Apr 2024 05:51:39 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-05/ostia-donna-caduta-balcone-femminicidio-compagno-romeno-25918191/",
+        "subtitle": "",
+        "content": "AGI - Una 46enne italo-brasiliana è stato trovata morta in strada in via Fasan, ad Ostia. Il corpo era nei pressi di una palazzina abbandonata. Sul posto la polizia, che ha subito sospettato un femminicidio, per il quale è stato fermato un 41enne romeno. Secondo gli investigatori i due avevano una relazione.",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8467078,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "Dead woman after a fall from the balcony, stopped the companion",
+        "en_content": "AGI - A 46-year-old Italian-Brazilian was found dead on the street in Via Fasan, in Ostia. The body was near an abandoned building. On the spot the police, who suffered a feminist suspect, for which a 41-year-old Romanian was stopped. According to investigators, the two had an affair.",
+        "concepts": [
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "balcony",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "companion",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "46-year-old",
+                "start_char": 8,
+                "end_char": 19,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 20,
+                "end_char": 27,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Via Fasan",
+                "start_char": 70,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ostia",
+                "start_char": 84,
+                "end_char": 89,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "41-year-old",
+                "start_char": 201,
+                "end_char": 212,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Romanian",
+                "start_char": 213,
+                "end_char": 221,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "two",
+                "start_char": 267,
+                "end_char": 270,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Nel mondo aumentano i cattolici (ma non le vocazioni)",
+        "date_raw": "Fri, 05 Apr 2024 02:06:00 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-05/aumento-cristiani-mondo-calo-vocazioni-25911683/",
+        "subtitle": "",
+        "content": "AGI - Aumenta il numero dei cattolici nel mondo (1 miliardo e 390 milioni), mentre diminuisce il numero delle vocazioni, tranne in Africa, Asia e Oceania. È quanto emerge dall'Annuarium Statisticum Ecclesiae 2022 e dall'Annuario Pontificio 2024, in questi giorni in distribuzione nelle librerie, editi dalla Tipografia Vaticana e la cui redazione è stata curata dall'Ufficio Centrale di Statistica della Chiesa. Dalla lettura dei dati riportati nell'Annuario Pontificio si possono ricavare le informazioni relative alla vita della Chiesa Cattolica nel mondo, a partire dal 1* dicembre 2022 al 31 dicembre 2023. Durante tale periodo sono state erette 9 nuove sedi vescovili e una Amministrazione apostolica; sono state elevate 2 sedi vescovili a sedi metropolitane e un Vicariato apostolico a sede vescovile. I dati statistici dell'Annuarium Statisticum Ecclesiae permettono di elaborare un quadro di sintesi dei principali andamenti che interessano l'evolversi della Chiesa cattolica nel mondo. \n&nbsp; \nIn particolare, il numero di cattolici battezzati a livello planetario è venuto accrescendosi, passando da 1.376 milioni nel 2021 a 1.390 milioni nel 2022, con un incremento relativo dell'1 per cento. Il tasso di variazione risulta diverso da continente a continente: mentre, infatti, in Africa si registra un aumento del 3%, essendo il numero dei cattolici passato, nello stesso periodo, da 265 a 273 milioni, all'estremo opposto in Europa si manifesta una situazione di stabilità (nel 2021 e nel 2022 i cattolici ammontano a 286 milioni). Situazioni intermedie sono quelle registrate in America e in Asia, dove la crescita dei cattolici è importante (+0,9% e +0,6%, rispettivamente), ma del tutto in linea con lo sviluppo demografico di questi due continenti. Stazionarietà, su valori assoluti ovviamente inferiori, anche per quanto riguarda l'Oceania. \n<h2>Vescovi e sacerdoti</h2> \nPer quanto riguarda il numero dei vescovi, nel corso del biennio 2021-2022, è aumentato dello 0,25%, passando da 5.340 a 5.353 unità. Tale movimento di crescita si riscontra in Africa e in Asia, con variazioni relative pari, rispettivamente, a 2,1 e 1,4 per cento. Situazione di stabilità si verifica in America (con 2.000 unità) e in Oceania (con 130), mentre si registra una lieve flessione (-0,6%) in Europa (da 1.676 a 1.666 unita'). Il 2022 segna un ulteriore calo del numero dei sacerdoti rispetto all'anno precedente, in continuità così con il trend decrescente che ha caratterizzato gli anni a partire dal 2012. Il numero globale dei sacerdoti nel mondo nel 2022, rispetto a quello del 2021, ha subito una diminuzione di 142 unita', passando da 407.872 a 407.730 unità. Se Africa e Asia mostrano una dinamica sostenuta (rispettivamente +3,2% e 1,6%) e America si mantiene pressoché stazionaria, Europa, con il maggior peso sul totale, e Oceania registrano, invece, tassi di variazione negativi e pari, rispettivamente all'1,7 e all'1,5 per cento. \n<h2>I diaconi e religiose</h2> \nLa consistenza dei diaconi permanenti continua invece a mostrare una significativa dinamica evolutiva: il numero dei diaconi aumenta, nel 2022, del 2% rispetto alla data di un anno prima, passando da 49.176 a 50.150 unità. Il numero migliora in tutti i continenti a ritmi significativi. In Africa, Asia e in Oceania, dove non raggiungono ancora il 3% del totale, essi aumentano dell'1,1%, attestandosi a 1.380 unità nel 2022. Il dato migliora anche in aree dove la loro presenza è quantitativamente rilevante. In America e in Europa, dove risiede il 97,3% della popolazione complessiva, i diaconi sono aumentati, nel biennio considerato, rispettivamente del 2,1 e dell'1,7 per cento. \n&nbsp; \nIl gruppo dei religiosi professi non sacerdoti costituisce una compagine a livello planetario in contrazione: se ne annoveravano 49.774 unità nel 2021 e sono diventati 49.414 nel 2022. La flessione è da ascriversi, in ordine di importanza, al gruppo europeo, a quello africano e a quello oceanico, mentre per converso in Asia questi operatori si sono incrementati e cosi' anche in America in misura minore. Le religiose professe costituiscono una popolazione di una certa consistenza: nel 2022 superavano quasi del 47% il numero dei sacerdoti di tutto il pianeta e sono attualmente in netta diminuzione. A livello globale, esse passano da 608.958 unità, nel 2021, a 599.228 nel 2022, con una flessione relativa dell'1,6%. Si rilevano differenze di comportamenti analizzando gli andamenti temporali per le singole aree territoriali. L'Africa è il continente con l'aumento maggiore delle religiose, che sono passate da 81.832 unita' nel 2021 a 83.190 nel 2022, con un incremento relativo di 1,7%. Segue l'area del Sud Est Asiatico, dove le religiose professe sono passate da 171.756 nel 2021 a 171.930 nel 2022, con un incremento di appena lo 0,1%. Il Sud e l'area centrale dell'America mostrano un calo: si passa da 98.081 religiose nel 2021, a 95.590 nel 2022, con un decremento globale di 2,5%. Infine si annoverano tre aree continentali accomunate da una contrazione marcata: si tratta dell'Oceania (-3,6%), dell'Europa (-3,5%) e dell'America del Nord (-3%). \n<h2>Le vocazioni</h2> \nProsegue il calo che già dal 2012 caratterizza l'andamento delle vocazioni sacerdotali: nel 2022 i seminaristi maggiori sono pari a 108.481 unità, con una variazione di -1,3% rispetto alla situazione di un anno prima. Una sommaria analisi svolta a livello di subcontinente evidenzia che i comportamenti locali sono differenziati fra loro. In Africa, ad esempio, il numero dei seminaristi maggiori, nel biennio sotto esame, è aumentato del 2,1%. In tutte le partizioni dell'America si è assistito a una diminuzione delle vocazioni che si concretizza in una variazione di -3,2%. In Asia si registra una diminuzione che porta il numero dei seminaristi maggiori nel 2022 a un livello inferiore di 1,2% rispetto a quello del 2021. La crisi delle vocazioni che ha interessato l'Europa sin dal 2008 non sembra arrestarsi: nel biennio 2021-2022, il numero dei seminaristi è diminuito del 6%. In Oceania le vocazioni sacerdotali nel 2022 superano dell'1,3% quelle del 2021. Dei 108.481 seminaristi di tutto il mondo, nel 2022, il continente che manifesta il maggior numero di seminaristi è l'Africa con 34.541 unita'. A esso seguono l'Asia con 31.767, l'America con 27.738, l'Europa con 14.461 e infine l'Oceania con 974 seminaristi maggiori.&nbsp;",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1712311221.846727,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "In the world Catholics increase (but not vocations)",
+        "en_content": "AGI - Increases the number of Catholics in the world (1 billion and 390 million), while decreasing the number of vocations, except in Africa, Asia and Oceania. This is what emerges from the Annunciation Statisticum Ecclesiae 2022 and the Pontifical Yearbook 2024, in these days in distribution in the bookstores, edited by the Vatican typography and whose editing was curated by the Central Statistical Office of the Church. From reading the data contained in the Pontifical Yearbook, you can obtain information on the life of the Catholic Church in the world, from 1 December 2022 to 31 December 2023. During this period 9 new episcopal offices and an apostolic administration were erected; 2 episcopal offices were elevated to metropolitan offices and an Apostolic Vicariate at the episcopal seat. The statistical data of the Annarium Statisticum Ecclesiae allow to elaborate a picture of the main trends affecting the evolution of the Catholic Church in the world.\n&nbsp;\nIn particular, the number of Catholics baptized on a planetary level has increased, from 1.376 million in 2021 to 1.390 million in 2022, with a relative increase of 1 percent. The rate of change is different from continent to continent: While, in fact, in Africa there is an increase of 3%, being the number of Catholics passed, in the same period, from 265 to 273 million, to the extreme opposite in Europe there is a situation of stability (in 2021 and in 2022 Catholics amounted to 286 million). Intermediate situations are those recorded in America and Asia, where the growth of Catholics is important (+0.9% and +0.6% respectively), but totally in line with the demographic development of these two continents. Stationary, on absolute values of course lower, also regarding Oceania.\n<h2>Vescovi and priests\nAs for the number of bishops, during the two-year period 2021-2022, it increased by 0.25%, from 5,340 to 5,353 units. This growth movement is found in Africa and Asia, with relative variations equal to 2.1 and 1.4 percent respectively. Stability situation occurs in America (with 2,000 units) and in Oceania (with 130), while a slight decline (-0.6%) in Europe (from 1.676 to 1.666 units'). The 2022 marks a further decline in the number of priests compared to the previous year, in continuity so with the decreasing trend that characterized the years starting from 2012. The global number of priests in the world in 2022, compared to that of 2021, suffered a decrease of 142 units, from 407.872 to 407.730 units. If Africa and Asia show a sustained dynamic (respectively +3.2% and 1.6%) and America maintains almost stationary, Europe, with the greatest weight on the total, and Oceania, instead, record negative and parity change rates, respectively 1.7 and 1.5 percent.\nDiacones and religious deacons\nThe consistency of permanent deacons continues to show a significant evolutionary dynamic: the number of deacons increased by 2% in 2022 compared to the date of a year earlier, from 49,176 to 50,150 units. The number improves on all continents at significant pace. In Africa, Asia and Oceania, where they still do not reach 3% of the total, they increase by 1.1%, attesting to 1.380 units in 2022. The data also improves in areas where their presence is quantitatively relevant. In America and Europe, where 97.3% of the total population resides, the deacons have increased, in the two years considered, respectively of 2.1 and 1.7 percent.\n&nbsp;\nThe group of religious professed non-pretentious priests constitutes a planetary compass in contraction: there were 49,774 units in 2021 and they became 49,414 in 2022. The decline is to be attributed, in order of importance, to the European group, to the African one and to the oceanic one, while in converse in Asia these operators have increased and thus in America to a lesser extent. The professed religious constitute a population of a certain consistency: in 2022 they exceeded almost 47% of the number of priests from all over the planet and are currently in sharp decline. Globally, they pass from 608.958 units, in 2021, to 599.228 in 2022, with a relative decline of 1.6%. Differences in behaviour are noted by analyzing temporal trends for individual territorial areas. Africa is the continent with the greater increase of the religious, who have passed from 81,832 united ' in 2021 to 83.190 in 2022, with a relative increase of 1.7%. It follows the area of South East Asia, where professed religious have passed from 171,756 in 2021 to 171,930 in 2022, with an increase of just 0.1%. The South and the central area of America show a decline: it passes from 98,081 religious in 2021, to 95.590 in 2022, with a global decrease of 2.5%. Finally, there are three continental areas shared by a marked contraction: it is Oceania (-3.6%), Europe (-3.5%) and North America (-3%).\n<h2> Vocations\nIt follows the decline that since 2012 characterizes the trend of priestly vocations: in 2022 the major seminarians amounted to 108,481 units, with a variation of -1,3% regarding the situation of a year before. A summary analysis carried out at the subcontinent level shows that local behaviour is differentiated between them. In Africa, for example, the number of major seminarians, in the two years under review, increased by 2.1%. In all the partitions of America there has been a decrease in vocations that is realized in a variation of -3,2%. In Asia there is a decrease that brings the number of seminarians greater in 2022 to a lower level of 1.2% than that of 2021. The crisis of vocations that has affected Europe since 2008 does not seem to stop: in the two-year period 2021-2022, the number of seminarians has decreased by 6%. In Oceania, priestly vocations in 2022 exceed 1.3% of those in 2021. Of the 108,481 seminarians from all over the world, in 2022, the continent showing the largest number of seminarians is Africa with 34.541 units. It follows Asia with 31,767, America with 27,738, Europe with 14.461 and finally Oceania with 974 major seminarians. &nbsp;",
+        "concepts": [
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Catholics",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "increase",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vocations",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Catholics",
+                "start_char": 13,
+                "end_char": 22,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Catholics",
+                "start_char": 30,
+                "end_char": 39,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "1 billion and 390 million",
+                "start_char": 54,
+                "end_char": 79,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Africa",
+                "start_char": 134,
+                "end_char": 140,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Asia",
+                "start_char": 142,
+                "end_char": 146,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Oceania",
+                "start_char": 151,
+                "end_char": 158,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Annunciation Statisticum Ecclesiae",
+                "start_char": 186,
+                "end_char": 224,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2022",
+                "start_char": 225,
+                "end_char": 229,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Pontifical Yearbook",
+                "start_char": 234,
+                "end_char": 257,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2024",
+                "start_char": 258,
+                "end_char": 262,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "these days",
+                "start_char": 267,
+                "end_char": 277,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 327,
+                "end_char": 334,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the Central Statistical Office",
+                "start_char": 379,
+                "end_char": 409,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Church",
+                "start_char": 417,
+                "end_char": 423,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Pontifical Yearbook",
+                "start_char": 460,
+                "end_char": 483,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Catholic Church",
+                "start_char": 527,
+                "end_char": 546,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1 December 2022",
+                "start_char": 566,
+                "end_char": 581,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "31 December 2023",
+                "start_char": 585,
+                "end_char": 601,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "9",
+                "start_char": 622,
+                "end_char": 623,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2",
+                "start_char": 692,
+                "end_char": 693,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "an Apostolic Vicariate",
+                "start_char": 754,
+                "end_char": 776,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Annarium Statisticum Ecclesiae",
+                "start_char": 824,
+                "end_char": 858,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Catholic Church",
+                "start_char": 934,
+                "end_char": 953,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Catholics",
+                "start_char": 1004,
+                "end_char": 1013,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "1.376 million",
+                "start_char": 1064,
+                "end_char": 1077,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2021",
+                "start_char": 1081,
+                "end_char": 1085,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.390 million",
+                "start_char": 1089,
+                "end_char": 1102,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 1106,
+                "end_char": 1110,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1 percent",
+                "start_char": 1140,
+                "end_char": 1149,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Africa",
+                "start_char": 1231,
+                "end_char": 1237,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "3%",
+                "start_char": 1262,
+                "end_char": 1264,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Catholics",
+                "start_char": 1286,
+                "end_char": 1295,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "265",
+                "start_char": 1329,
+                "end_char": 1332,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "273 million",
+                "start_char": 1336,
+                "end_char": 1347,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1376,
+                "end_char": 1382,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "2021",
+                "start_char": 1421,
+                "end_char": 1425,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2022",
+                "start_char": 1433,
+                "end_char": 1437,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Catholics",
+                "start_char": 1438,
+                "end_char": 1447,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "286 million",
+                "start_char": 1460,
+                "end_char": 1471,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "America",
+                "start_char": 1520,
+                "end_char": 1527,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Asia",
+                "start_char": 1532,
+                "end_char": 1536,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Catholics",
+                "start_char": 1558,
+                "end_char": 1567,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "+0.9%",
+                "start_char": 1582,
+                "end_char": 1587,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "two",
+                "start_char": 1675,
+                "end_char": 1678,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Oceania",
+                "start_char": 1754,
+                "end_char": 1761,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "two-year",
+                "start_char": 1828,
+                "end_char": 1836,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2021-2022",
+                "start_char": 1844,
+                "end_char": 1853,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "0.25%",
+                "start_char": 1871,
+                "end_char": 1876,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "5,340",
+                "start_char": 1883,
+                "end_char": 1888,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "5,353",
+                "start_char": 1892,
+                "end_char": 1897,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Africa",
+                "start_char": 1938,
+                "end_char": 1944,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Asia",
+                "start_char": 1949,
+                "end_char": 1953,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "2.1",
+                "start_char": 1989,
+                "end_char": 1992,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.4 percent",
+                "start_char": 1997,
+                "end_char": 2008,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "America",
+                "start_char": 2053,
+                "end_char": 2060,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2,000",
+                "start_char": 2067,
+                "end_char": 2072,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Oceania",
+                "start_char": 2087,
+                "end_char": 2094,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "130",
+                "start_char": 2101,
+                "end_char": 2104,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Europe",
+                "start_char": 2141,
+                "end_char": 2147,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "1.676",
+                "start_char": 2154,
+                "end_char": 2159,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.666",
+                "start_char": 2163,
+                "end_char": 2168,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 2182,
+                "end_char": 2186,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the previous year",
+                "start_char": 2248,
+                "end_char": 2265,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2012",
+                "start_char": 2353,
+                "end_char": 2357,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2022",
+                "start_char": 2404,
+                "end_char": 2408,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2021",
+                "start_char": 2430,
+                "end_char": 2434,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "142",
+                "start_char": 2459,
+                "end_char": 2462,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "407.872",
+                "start_char": 2475,
+                "end_char": 2482,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "407.730",
+                "start_char": 2486,
+                "end_char": 2493,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Africa",
+                "start_char": 2504,
+                "end_char": 2510,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Asia",
+                "start_char": 2515,
+                "end_char": 2519,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "1.6%",
+                "start_char": 2569,
+                "end_char": 2573,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "America",
+                "start_char": 2579,
+                "end_char": 2586,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 2616,
+                "end_char": 2622,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Oceania",
+                "start_char": 2667,
+                "end_char": 2674,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "1.7",
+                "start_char": 2739,
+                "end_char": 2742,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.5 percent",
+                "start_char": 2747,
+                "end_char": 2758,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Diacones",
+                "start_char": 2760,
+                "end_char": 2768,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2%",
+                "start_char": 2917,
+                "end_char": 2919,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2022",
+                "start_char": 2923,
+                "end_char": 2927,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the date of a year earlier",
+                "start_char": 2940,
+                "end_char": 2966,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "49,176",
+                "start_char": 2973,
+                "end_char": 2979,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "50,150",
+                "start_char": 2983,
+                "end_char": 2989,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Africa",
+                "start_char": 3059,
+                "end_char": 3065,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Asia",
+                "start_char": 3067,
+                "end_char": 3071,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Oceania",
+                "start_char": 3076,
+                "end_char": 3083,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "3%",
+                "start_char": 3115,
+                "end_char": 3117,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "1.1%",
+                "start_char": 3149,
+                "end_char": 3153,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "1.380",
+                "start_char": 3168,
+                "end_char": 3173,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 3183,
+                "end_char": 3187,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "America",
+                "start_char": 3273,
+                "end_char": 3280,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 3285,
+                "end_char": 3291,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "97.3%",
+                "start_char": 3299,
+                "end_char": 3304,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the two years",
+                "start_char": 3369,
+                "end_char": 3382,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.1",
+                "start_char": 3411,
+                "end_char": 3414,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.7 percent",
+                "start_char": 3419,
+                "end_char": 3430,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "49,774",
+                "start_char": 3555,
+                "end_char": 3561,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2021",
+                "start_char": 3571,
+                "end_char": 3575,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "49,414",
+                "start_char": 3592,
+                "end_char": 3598,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 3602,
+                "end_char": 3606,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 3672,
+                "end_char": 3680,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "African",
+                "start_char": 3695,
+                "end_char": 3702,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Asia",
+                "start_char": 3752,
+                "end_char": 3756,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "America",
+                "start_char": 3800,
+                "end_char": 3807,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2022",
+                "start_char": 3905,
+                "end_char": 3909,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "almost 47%",
+                "start_char": 3924,
+                "end_char": 3934,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "608.958",
+                "start_char": 4046,
+                "end_char": 4053,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2021",
+                "start_char": 4064,
+                "end_char": 4068,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "599.228",
+                "start_char": 4073,
+                "end_char": 4080,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 4084,
+                "end_char": 4088,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.6%",
+                "start_char": 4117,
+                "end_char": 4121,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Africa",
+                "start_char": 4221,
+                "end_char": 4227,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "81,832",
+                "start_char": 4310,
+                "end_char": 4316,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2021",
+                "start_char": 4329,
+                "end_char": 4333,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "83.190",
+                "start_char": 4337,
+                "end_char": 4343,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 4347,
+                "end_char": 4351,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.7%",
+                "start_char": 4381,
+                "end_char": 4385,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "South East Asia",
+                "start_char": 4410,
+                "end_char": 4425,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "171,756",
+                "start_char": 4470,
+                "end_char": 4477,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2021",
+                "start_char": 4481,
+                "end_char": 4485,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "171,930",
+                "start_char": 4489,
+                "end_char": 4496,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 4500,
+                "end_char": 4504,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "just 0.1%",
+                "start_char": 4526,
+                "end_char": 4535,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "South",
+                "start_char": 4541,
+                "end_char": 4546,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "America",
+                "start_char": 4571,
+                "end_char": 4578,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "98,081",
+                "start_char": 4610,
+                "end_char": 4616,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2021",
+                "start_char": 4630,
+                "end_char": 4634,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "95.590",
+                "start_char": 4639,
+                "end_char": 4645,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 4649,
+                "end_char": 4653,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.5%",
+                "start_char": 4681,
+                "end_char": 4685,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "three",
+                "start_char": 4706,
+                "end_char": 4711,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Oceania",
+                "start_char": 4768,
+                "end_char": 4775,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 4785,
+                "end_char": 4791,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "North America",
+                "start_char": 4804,
+                "end_char": 4817,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "2012",
+                "start_char": 4874,
+                "end_char": 4878,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2022",
+                "start_char": 4929,
+                "end_char": 4933,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "seminarians",
+                "start_char": 4944,
+                "end_char": 4955,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "108,481",
+                "start_char": 4968,
+                "end_char": 4975,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "a year before",
+                "start_char": 5036,
+                "end_char": 5049,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Africa",
+                "start_char": 5170,
+                "end_char": 5176,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "seminarians",
+                "start_char": 5211,
+                "end_char": 5222,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the two years",
+                "start_char": 5227,
+                "end_char": 5240,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.1%",
+                "start_char": 5268,
+                "end_char": 5272,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "America",
+                "start_char": 5299,
+                "end_char": 5306,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "-3,2%",
+                "start_char": 5381,
+                "end_char": 5386,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Asia",
+                "start_char": 5391,
+                "end_char": 5395,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "seminarians",
+                "start_char": 5442,
+                "end_char": 5453,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2022",
+                "start_char": 5465,
+                "end_char": 5469,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.2%",
+                "start_char": 5490,
+                "end_char": 5494,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2021",
+                "start_char": 5508,
+                "end_char": 5512,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Europe",
+                "start_char": 5556,
+                "end_char": 5562,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "2008",
+                "start_char": 5569,
+                "end_char": 5573,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two-year",
+                "start_char": 5604,
+                "end_char": 5612,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2021-2022",
+                "start_char": 5620,
+                "end_char": 5629,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "seminarians",
+                "start_char": 5645,
+                "end_char": 5656,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "6%",
+                "start_char": 5674,
+                "end_char": 5676,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Oceania",
+                "start_char": 5681,
+                "end_char": 5688,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2022",
+                "start_char": 5712,
+                "end_char": 5716,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1.3%",
+                "start_char": 5724,
+                "end_char": 5728,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2021",
+                "start_char": 5741,
+                "end_char": 5745,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "108,481",
+                "start_char": 5754,
+                "end_char": 5761,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "seminarians",
+                "start_char": 5762,
+                "end_char": 5773,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2022",
+                "start_char": 5802,
+                "end_char": 5806,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "seminarians",
+                "start_char": 5852,
+                "end_char": 5863,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Africa",
+                "start_char": 5867,
+                "end_char": 5873,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "34.541",
+                "start_char": 5879,
+                "end_char": 5885,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Asia",
+                "start_char": 5904,
+                "end_char": 5908,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "31,767",
+                "start_char": 5914,
+                "end_char": 5920,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "America",
+                "start_char": 5922,
+                "end_char": 5929,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "27,738",
+                "start_char": 5935,
+                "end_char": 5941,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Europe",
+                "start_char": 5943,
+                "end_char": 5949,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "14.461",
+                "start_char": 5955,
+                "end_char": 5961,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Oceania",
+                "start_char": 5974,
+                "end_char": 5981,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "974",
+                "start_char": 5987,
+                "end_char": 5990,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "seminarians",
+                "start_char": 5997,
+                "end_char": 6008,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Torna 'Bicinrosa', in sella contro cancro al seno",
+        "date_raw": "Fri, 05 Apr 2024 00:56:00 GMT",
+        "date": "2024-04-05",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-05/tumori-torna-bicinrosa-in-sella-contro-cancro-al-seno-25915408/",
+        "subtitle": "",
+        "content": "AGI - Torna Bicinrosa.&nbsp;Domenica 7 aprile 2024 si terrà la VII edizione della pedalata amatoriale >per le vie di Roma promossa dalla Breast Unit della Fondazione Policlinico Universitario Campus Bio-Medico>. Anche quest'anno l'obiettivo è sensibilizzare le donne e la popolazione sull'importanza della prevenzione del tumore al seno attraverso una sana alimentazione e la mobilita' sostenibile e sostenere la ricerca contro il carcinoma mammario. \nLa principessa Maria Carolina di Borbone delle Due Sicilie>, duchessa di Calabria e di Palermo sarà la madrina dell'evento>, che quest'anno ha un focus specifico sulla prevenzione dei tumori eredo-familiari>, cioè quei casi legati a una predisposizione genetica, oggi individuabile attraverso test sul DNA volti a riconoscere specifiche mutazioni. Questa edizione dell'iniziativa si tiene in primavera nell'approssimarsi della Giornata mondiale della salute proclamata dall'Organizzazione Mondiale della Sanità (11 aprile). Commenta Vittorio Altomare, direttore della Breast unit >della Fondazione Policlinico Universitario Campus Bio-Medico: \"La prevenzione del tumore del seno passa anche attraverso lo stile di vita, oltre che dagli irrinunciabili screening: il rischio di ammalarsi è infatti aumentato> da fattori di rischio come l'elevato consumo di alcool, l'obesità e la sindrome metabolica, associati a sedentarietà e diete ipercaloriche ricche di grassi e carboidrati semplici. Il consiglio è quindi praticare regolare attività fisica, aggiungendo alla classica camminata quotidiana anche un impegno ulteriore in palestra, in bicicletta, in piscina, nella corsa, nel ballo o in qualsiasi attività sportiva di proprio gradimento\". \nSottolinea la&nbsp;principessa Maria Carolina di Borbone: \"In una società sempre più consapevole della salute e del benessere, è cruciale porre l'attenzione sulla prevenzione del tumore al seno, una patologia che colpisce milioni di donne in tutto il mondo. Se consideriamo l'ultimo report nel 2023 sono stati registrati circa 55.900 casi di neoplasia, con un incremento dello 0,5% rispetto al 2020.> In questa ottica, anche le giovani come me rivestono un ruolo fondamentale nel promuovere una cultura di prevenzione attiva. Quindi diventa indispensabile investire in strumenti di analisi genetica capaci di anticipare la predisposizione alla malattia, e intervenire già in giovane età. È grazie agli sforzi incessanti dei ricercatori e degli operatori sanitari che possiamo fare progressi significativi nella lotta alla malattia. Sostenere la ricerca significa investire nel nostro futuro e nella salute delle generazioni future\". \nDopo la partenza, prevista per le ore 11:30 dallo stadio \"Nando Martellini\" in via Antonina, la Bicinrosa si dirigerà verso il centro di Roma, i Fori imperiali e il Colosseo>, per poi invertire la direzione e tornare allo stadio. È possibile iscriversi sulla pagina<a href=\"https://donaora.unicampus.it/bicinrosa\"> https://donaora.unicampus.it/bicinrosa</a> scegliendo tra tre formule di partecipazione: 10 euro iscrizione 15 euro iscrizione + maglietta 25 euro iscrizione + maglietta + noleggio della bicicletta Chi non avesse la possibilità di partecipare alla manifestazione, può comunque dare il proprio sostegno alla prevenzione e alla ricerca contro il tumore del seno con una donazione>: <a href=\"https://donaora.unicampus.it/tumoreseno/~mia-donazione\">https://donaora.unicampus.it/tumoreseno/~mia-donazione.</a> \nNegli ultimi anni sono state scoperte mutazioni genetiche che predispongono a maggior rischio di sviluppare un tumore della mammella (come per esempio BRCA1-BRCA2- PTEN, ATM, CHECK2). Tra il 7-10% delle donne con mutazioni genetiche sviluppano un tumore al seno. Una paziente con queste caratteristiche deve seguire un percorso di controlli costanti e continui >e, in alcuni casi, effettuare trattamenti chirurgici come la mastectomia o l'isterectomia per la riduzione del rischio di sviluppare la patologia. Presso la Breast Unit della Fondazione Policlinico Campus Bio-Medico di Roma, riconosciuta dal 2016 dalla Regione Lazio come uno dei centri di riferimento per la diagnosi e il trattamento del carcinoma mammario, è attivo un ambulatorio per la valutazione del rischio eredo-familiare genetico in cui la paziente può essere seguita contestualmente da diversi tipi di specialisti (chirurghi, oncologi, genetisti, psicologi) secondo i più alti standard europei, garantendole un percorso clinico e terapeutico integrato e personalizzato. \nSi stima che le donne che si rivolgono a una Breast Unit hanno una percentuale di sopravvivenza più alta del 18% >rispetto a chi si rivolge a strutture non specializzate. Il tumore del seno Nel 2023 i nuovi casi di tumore al seno in Italia sono stati circa 55.900, con un incremento dello 0,5% rispetto al 2020. Le patologie neoplastiche a più alta prevalenza tra la popolazione femminile sono il tumore alla mammella (30%), del colon-retto (12,7%), del polmone (7,5%) e dell'endometrio (5,5%). La ricerca contribuisce a migliorare le cure, aumentando il tasso di sopravvivenza delle donne colpite da tumore al seno: 10.223 morti evitate, -6,0% (2007-2019).",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8467472,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "Back 'Bicinrosa', riding against breast cancer",
+        "en_content": "AGI - Torna Bicinrosa.&nbsp; Sunday 7 April 2024 will be held the 7th edition of the amateur pedal boat > for the streets of Rome promoted by the Breast Unit of the Fondazione Policlinico Universitario Campus Bio-Medico>. Also this year the goal is to raise awareness of women and the population on the importance of breast cancer prevention through healthy nutrition and sustainable mobility and support research against breast cancer.\nPrincess Maria Carolina of Bourbon Two Sicilies >, Duchess of Calabria and Palermo will be the godmother of the event >, which this year has a specific focus on the prevention of herd-family tumors >, that is those cases linked to a genetic predisposition, today identifiable through DNA tests to recognize specific mutations. This edition of the initiative takes place in the spring in the approach of the World Health Day proclaimed by the World Health Organization (11 April). Vittorio Altomare, director of the Breast unit > of the Fondazione Policlinico Universitario Campus Bio-Medico: \"Prevention of breast cancer also passes through lifestyle, as well as by unrelenting screening: the risk of disease has in fact increased> from risk factors such as high alcohol consumption, obesity and metabolic syndrome, associated with sedentary and hypercaloric diets rich in fats and simple carbohydrates. The advice is therefore to practice regular physical activity, adding to the classic daily walk also an additional commitment to the gym, bicycle, pool, race, dance or any sporting activity of your own pleasure.\"\nUnderlines the &nbsp; Principal Maria Carolina of Bourbon: \"In a society increasingly aware of health and well-being, it is crucial to focus on breast cancer prevention, a pathology that affects millions of women worldwide. If we consider the last report in 2023 approximately 55,900 cases of neoplasia were recorded, an increase of 0.5% compared to 2020.> In this context, young people like me also play a key role in promoting an active prevention culture. So it becomes indispensable to invest in genetic analysis tools capable of anticipating the predisposition to the disease, and to intervene already in young age. It is thanks to the incessant efforts of researchers and health professionals that we can make significant progress in the fight against disease. Supporting research means investing in our future and health of future generations.\"\nAfter the departure, scheduled for 11:30 am from the stadium \"Nando Martellini\" in Via Antonina, the Bicinrosa will head towards the center of Rome, the Imperial Forums and the Colosseum >, then reverse the direction and return to the stadium. You can register on page<a href=\"https://donaora.unicampus.it/bicinrosa\"> https://donaora.unicampus.it/bicinrosa</a> choosing from three participation formulas: 10 euro registration 15 euro registration + shirt 25 euro registration + shirt + bike rental Those who do not have the opportunity to participate in the event may, however, give their support to prevention and research against breast cancer with a donation > <a href=\"https://donaora.unicampus.it/temoseno/~mia-donazione\">https://donaora.unicampus.it/timoseno/~mia-donazione. < < > > < > < > < > > < > < < > < > < < > < > < < > < > > < > > < > > < > > < > < > > > > < > > > > > < > > > > > > > > > > > > > < > > > > > > > > > > > < > > > > > > > > > > > > < > > > > > > > < > > > > > > < > > > > > > > > > > > < > > > > > > > > > >\nIn recent years genetic mutations have been discovered that they are more likely to develop breast cancer (such as BRCA1-BRCA2- PTEN, ATM, CHECK2). Between 7-10% of women with genetic mutations develop breast cancer. A patient with these characteristics must follow a path of constant and continuous controls >e, in some cases, perform surgical treatments such as mastectomy or hysterectomy for the reduction of the risk of developing pathology. At the Breast Unit of the Fondazione Policlinico Campus Bio-Medico in Rome, recognized since 2016 by the Lazio Region as one of the reference centers for the diagnosis and treatment of mammary carcinoma, an outpatient is active for the assessment of herd-family genetic risk in which the patient can be followed at the same time by different types of specialists (chirurghi, oncologi, genetists, psychologists) according to the highest European standards, guaranteeing\nIt is estimated that women who turn to a Breast Unit have a higher survival rate of 18% compared to those who turn to non-specialized structures. Breast cancer In 2023, the new cases of breast cancer in Italy were around 55,900, an increase of 0.5% compared to 2020. The most prevalent neoplastic pathologies among the female population are breast cancer (30%), colon-rect (12.7%), lung (7.5%) and endometrium (5.5%). Research helps improve care, increasing the survival rate of women affected by breast cancer: 10.223 dead avoided, -6,0% (2007-2019).",
+        "concepts": [
+            {
+                "word": "Bicinrosa",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "breast",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cancer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Back 'Bicinrosa'",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Sunday 7 April 2024",
+                "start_char": 29,
+                "end_char": 48,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "7th",
+                "start_char": 66,
+                "end_char": 69,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 125,
+                "end_char": 129,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Breast Unit of the Fondazione Policlinico Universitario Campus Bio-Medico",
+                "start_char": 142,
+                "end_char": 219,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "this year",
+                "start_char": 227,
+                "end_char": 236,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Maria Carolina",
+                "start_char": 446,
+                "end_char": 460,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Duchess of Calabria and Palermo",
+                "start_char": 488,
+                "end_char": 519,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "this year",
+                "start_char": 564,
+                "end_char": 573,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 694,
+                "end_char": 699,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the spring",
+                "start_char": 810,
+                "end_char": 820,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the World Health Day",
+                "start_char": 840,
+                "end_char": 860,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "the World Health Organization",
+                "start_char": 875,
+                "end_char": 904,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "11 April",
+                "start_char": 906,
+                "end_char": 914,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vittorio Altomare",
+                "start_char": 917,
+                "end_char": 934,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Breast",
+                "start_char": 952,
+                "end_char": 958,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Fondazione Policlinico Universitario Campus Bio-Medico",
+                "start_char": 969,
+                "end_char": 1027,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "daily",
+                "start_char": 1426,
+                "end_char": 1431,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Principal Maria Carolina",
+                "start_char": 1576,
+                "end_char": 1600,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "millions",
+                "start_char": 1749,
+                "end_char": 1757,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2023",
+                "start_char": 1812,
+                "end_char": 1816,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "55,900",
+                "start_char": 1831,
+                "end_char": 1837,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "neoplasia",
+                "start_char": 1847,
+                "end_char": 1856,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "0.5%",
+                "start_char": 1887,
+                "end_char": 1891,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2020",
+                "start_char": 1904,
+                "end_char": 1908,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "11:30 am",
+                "start_char": 2441,
+                "end_char": 2449,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Nando Martellini\"",
+                "start_char": 2468,
+                "end_char": 2485,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Via Antonina",
+                "start_char": 2489,
+                "end_char": 2501,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bicinrosa",
+                "start_char": 2507,
+                "end_char": 2516,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Rome",
+                "start_char": 2549,
+                "end_char": 2553,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Imperial Forums",
+                "start_char": 2555,
+                "end_char": 2574,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Colosseum",
+                "start_char": 2583,
+                "end_char": 2592,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 2781,
+                "end_char": 2786,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10 euro",
+                "start_char": 2811,
+                "end_char": 2818,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "15",
+                "start_char": 2832,
+                "end_char": 2834,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "25 euro",
+                "start_char": 2861,
+                "end_char": 2868,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "recent years",
+                "start_char": 3446,
+                "end_char": 3458,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "BRCA1-BRCA2- PTEN",
+                "start_char": 3558,
+                "end_char": 3575,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "ATM",
+                "start_char": 3577,
+                "end_char": 3580,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7-10%",
+                "start_char": 3599,
+                "end_char": 3604,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the Breast Unit",
+                "start_char": 3892,
+                "end_char": 3907,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the Fondazione Policlinico Campus Bio-Medico",
+                "start_char": 3911,
+                "end_char": 3955,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 3959,
+                "end_char": 3963,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2016",
+                "start_char": 3982,
+                "end_char": 3986,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Lazio Region",
+                "start_char": 3990,
+                "end_char": 4006,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "European",
+                "start_char": 4325,
+                "end_char": 4333,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Breast Unit",
+                "start_char": 4399,
+                "end_char": 4410,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "18%",
+                "start_char": 4442,
+                "end_char": 4445,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2023",
+                "start_char": 4521,
+                "end_char": 4525,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 4561,
+                "end_char": 4566,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "around 55,900",
+                "start_char": 4572,
+                "end_char": 4585,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "0.5%",
+                "start_char": 4602,
+                "end_char": 4606,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2020",
+                "start_char": 4619,
+                "end_char": 4623,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "30%",
+                "start_char": 4714,
+                "end_char": 4717,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "12.7%",
+                "start_char": 4732,
+                "end_char": 4737,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "7.5%",
+                "start_char": 4746,
+                "end_char": 4750,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "5.5%",
+                "start_char": 4769,
+                "end_char": 4773,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "10.223",
+                "start_char": 4870,
+                "end_char": 4876,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "-6,0%",
+                "start_char": 4891,
+                "end_char": 4896,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2007-2019",
+                "start_char": 4898,
+                "end_char": 4907,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Al via le prove Invalsi per 560 mila studenti delle medie",
+        "date_raw": "Thu, 04 Apr 2024 17:02:12 GMT",
+        "date": "2024-04-04",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-04/test-invalsi-studenti-scuole-medie-25915058/",
+        "subtitle": "",
+        "content": "AGI - A partire da oggi e fino al 30 aprile si svolgeranno le prove Invalsi 2024> rivolte agli studenti delle classi terze della scuola secondaria di primo grado che fra qualche mese affronteranno gli esami finali del primo ciclo d'istruzione. Le prove si svolgeranno in più giornate, secondo il calendario stabilito dalle scuole, e costituiscono requisito di ammissione all'esame finale come previsto dalla normativa vigente (D. Lgs. n. 62/2017). \n&nbsp; \nGli studenti coinvolti dalle rilevazioni sono circa 561.265 di 5.799 scuole e sosterranno le prove di Italiano, Matematica e Inglese (reading e listening) al computer. Nella giornata odierna sono state effettuate 51.000 prove e tutto si è svolto regolarmente. Come già avvenuto per le rilevazioni degli studenti dell'ultimo anno della scuola secondaria di secondo grado, la collaborazione costante tra le istituzioni scolastiche, il Ministero dell'Istruzione e del Merito e l'Invalsi ha consentito di giungere anche all'appuntamento di quest'anno nelle condizioni organizzative più adeguate e alle studentesse e agli studenti di affrontare al meglio e serenamente questa tappa propedeutica all'esame di fine ciclo.",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8467638,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "Invalence for 560 thousand middle school students",
+        "en_content": "AGI - From today and until 30 April there will be the Invalve 2024> tests for third-class students of the first-degree secondary school who will be facing the final examinations of the first course of education in a few months. The tests will take place in several days, according to the calendar established by the schools, and constitute a requirement for admission to the final examination as provided by the current legislation (Legislative Decree no. 62/2017).\n&nbsp;\nThe students involved in the survey are about 561.265 of 5,799 schools and will support the tests of Italian, Mathematics and English (reading and listening) to the computer. On today's day, 51,000 tests were carried out and everything was done regularly. As already happened for the survey of the students of the last year of secondary school of second degree, the constant collaboration between the educational institutions, the Ministry of Education and Merit and the Invalsi has allowed to reach this year's appointment in the most appropriate organizational conditions and the students to face the best and serenely this stage propedeutic to the end of the cycle.",
+        "concepts": [
+            {
+                "word": "Invalence",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "students",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "560 thousand",
+                "start_char": 14,
+                "end_char": 26,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "today",
+                "start_char": 11,
+                "end_char": 16,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "30 April",
+                "start_char": 27,
+                "end_char": 35,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2024",
+                "start_char": 62,
+                "end_char": 66,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "third",
+                "start_char": 78,
+                "end_char": 83,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 106,
+                "end_char": 111,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 185,
+                "end_char": 190,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "a few months",
+                "start_char": 214,
+                "end_char": 226,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "several days",
+                "start_char": 257,
+                "end_char": 269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "about 561.265",
+                "start_char": 513,
+                "end_char": 526,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "5,799",
+                "start_char": 530,
+                "end_char": 535,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 574,
+                "end_char": 581,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mathematics",
+                "start_char": 583,
+                "end_char": 594,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "English",
+                "start_char": 599,
+                "end_char": 606,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "today's day",
+                "start_char": 651,
+                "end_char": 662,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "51,000",
+                "start_char": 664,
+                "end_char": 670,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the last year",
+                "start_char": 783,
+                "end_char": 796,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "second",
+                "start_char": 820,
+                "end_char": 826,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Ministry of Education",
+                "start_char": 900,
+                "end_char": 925,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Merit",
+                "start_char": 930,
+                "end_char": 935,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Invalsi",
+                "start_char": 944,
+                "end_char": 951,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "year",
+                "start_char": 978,
+                "end_char": 982,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "È morta Ivana Ramella, la conduttrice della prima tv privata",
+        "date_raw": "Thu, 04 Apr 2024 16:35:17 GMT",
+        "date": "2024-04-04",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-04/tv-morta-ivana-ramella-conduttrice-della-prima-privata-25914688/",
+        "subtitle": "",
+        "content": "AGI - È morta oggi a Biella all'età di 81 anni Ivana Ramella>, prima conduttrice della televisione privata in Italia. Insieme al marito Peppo Sacchi, già regista Rai, nel 1971 aveva dato vita a \"Telebiella\", pionieristica esperienza televisiva, che insieme a Telediffusione Italiana Telenapoli iniziò a incrinare il monopolio Rai. Biellese di nascita, era stata conduttrice di un programma per bambini della Televisione svizzera di lingua italiana, quando la TSI era largamente seguita, soprattutto in Italia settentrionale. \n&nbsp; \n<div></div> \n&nbsp; \nIl suo primo annuncio dopo la fine della fase sperimentale dagli schermi dell'emittente piemontese, che trasmetteva via cavo, andato in onda il 20 aprile 1972, recitava: \"Da questo numero il nostro videoinformatore inizia la sua pubblicazione periodica con cadenza settimanale, verrà presentato al pubblico il sabato, il lunedì e il martedì, con edizioni speciali sportive la domenica\". Telebiella e la sua battaglia per la libertà di diffusione televisiva coinvolsero anche personaggi noti a livello nazionale, da Enzo Tortora> (che ne fu vicepresidente) a Bruno Lauzi>. Sugli schermi di Telebiella debutto' alla fine degli anni '70 un giovanissimo Ezio Greggio. L'avventura di Telebiella si è conclusa nel 1992 con il fallimento della società editrice. I funerali di Ivana Ramella saranno celebrati sabato alle 10 in Cattedrale a Biella.&nbsp;&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8467798,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "Ivana Ramella died, the host of the first private TV",
+        "en_content": "AGI - She died today in Biella at the age of 81 Ivana Ramella>, the first conductor of private television in Italy. Together with her husband Peppo Sacchi, former director Rai, in 1971 she created \"Telebiella\", a pioneering television experience, which together with Telediffusion Italiana Telenapoli began to encrypt the Rai monopoly. Biellese of birth, she had been the host of a program for children of the Swiss Television of Italian language, when the TSI was widely followed, especially in northern Italy.\n&nbsp;\n<div </div\n&nbsp;\nHis first announcement after the end of the experimental phase from the screens of the Piedmontese broadcaster, which broadcast via cable, aired on April 20, 1972, read: \"From this issue our videoinformator begins its periodic publication with weekly cadence, will be presented to the public on Saturday, Monday and Tuesday, with special sporting editions on Sunday\". Telebiella and his battle for freedom of television also involved nationally-known characters, from Enzo Tortora> (who was vice president) to Bruno Lauzi>. On the screens of Telebiella debuted in the late 1970s a very young Ezio Greggio. Telebiella's adventure ended in 1992 with the failure of the publishing company. The funeral of Ivana Ramella will be celebrated on Saturday at 10 am in the Cathedral in Biella.&nbsp;&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Ivana",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ramella",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "host",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "TV",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ivana Ramella",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "today",
+                "start_char": 15,
+                "end_char": 20,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Biella",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the age of",
+                "start_char": 34,
+                "end_char": 44,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "81",
+                "start_char": 45,
+                "end_char": 47,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ivana",
+                "start_char": 48,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 68,
+                "end_char": 73,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 109,
+                "end_char": 114,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Peppo Sacchi",
+                "start_char": 142,
+                "end_char": 154,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rai",
+                "start_char": 172,
+                "end_char": 175,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1971",
+                "start_char": 180,
+                "end_char": 184,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Telediffusion Italiana Telenapoli",
+                "start_char": 267,
+                "end_char": 300,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Biellese",
+                "start_char": 336,
+                "end_char": 344,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Swiss Television of",
+                "start_char": 406,
+                "end_char": 429,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 430,
+                "end_char": 437,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 505,
+                "end_char": 510,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 541,
+                "end_char": 546,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Piedmontese",
+                "start_char": 624,
+                "end_char": 635,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "April 20, 1972",
+                "start_char": 685,
+                "end_char": 699,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "weekly",
+                "start_char": 781,
+                "end_char": 787,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Saturday, Monday and",
+                "start_char": 832,
+                "end_char": 852,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 853,
+                "end_char": 860,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 896,
+                "end_char": 902,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Telebiella",
+                "start_char": 905,
+                "end_char": 915,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Enzo Tortora",
+                "start_char": 1005,
+                "end_char": 1017,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bruno Lauzi",
+                "start_char": 1047,
+                "end_char": 1058,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Telebiella",
+                "start_char": 1079,
+                "end_char": 1089,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the late 1970s",
+                "start_char": 1101,
+                "end_char": 1115,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ezio Greggio",
+                "start_char": 1129,
+                "end_char": 1141,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Telebiella",
+                "start_char": 1143,
+                "end_char": 1153,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1992",
+                "start_char": 1175,
+                "end_char": 1179,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ivana Ramella",
+                "start_char": 1239,
+                "end_char": 1252,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 1275,
+                "end_char": 1283,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "10 am",
+                "start_char": 1287,
+                "end_char": 1292,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "A giudizio, moglie, suocera e cognati di Soumahoro",
+        "date_raw": "Thu, 04 Apr 2024 16:30:43 GMT",
+        "date": "2024-04-04",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-04/soumahoro-a-giudizio-moglie-e-suocera-25912310/",
+        "subtitle": "",
+        "content": "AGI - Il gup di Latina ha rinviato a giudizio Marie Therese Mukamatsindo e Liliane Murekatete, rispettivamente suocera e moglie del parlamentare Aboubakar Soumahoro nell'ambito dell'inchiesta sulle cooperative coinvolte nella gestione di richiedenti asilo e di minori non accompagnati. A processo, insieme alle due donne, anche due cognati del deputato. Le accuse contestate a vario titolo e a seconda delle posizioni sono di frode in pubbliche forniture, bancarotta fraudolenta patrimoniale (per distrazione) e autoriciclaggio. Il processo si aprirà a il prossimo 11 giugno a Latina. \n&nbsp; \n&nbsp;\"All'udienza di oggi avevo chiesto al gup di disporre una integrazione delle indagini per verificare se le firme indicate nei verbali dei consigli d'amministrazione siano riferibili alla signora Murekatete, cosa che la mia assistita contesta, come contesta di aver svolto attività nella qualità di componente del Consiglio d'amministrazione. Ho anche evidenziato l'inesistenza giuridica delle 'delibere' di nomina della mia assistita, il che esclude lo status di consigliere d'amministrazione. Questioni che ormai dovranno essere esaminate in dibattimento unitamente a quelle di merito, confidando che in quella sede vi sarà più agio di dimostrare l'innocenza della mia assistita\". Cosi' all'AGI l'avvocato Lorenzo Borre', difensore di Liliane Murekatete, moglie del deputato Aboubakar Soumahoro, rinviata a giudizio nell'inchiesta della procura di Latina sulle cooperative coinvolte nella gestione di richiedenti asilo e di minori non accompagnati.&nbsp;",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1712311221.8467956,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "In judgment, wife, mother-in-law and sister-in-law of Soumahoro",
+        "en_content": "AGI - The gup of Latina has revoked Marie Therese Mukamatsindo and Liliane Murekatete, respectively the mother-in-law and wife of the MP Aboubakar Soumahoro as part of the investigation on cooperatives involved in the management of asylum seekers and unaccompanied minors. At trial, along with the two women, even two cognates of the MP. The accusations disputed in various ways and according to the positions are fraud in public supply, fraudulent bankruptcy (by distraction) and self-reclamation. The process will open next June 11 in Latina.\n&nbsp;\nAt the hearing today I asked the gup to have an integration of the investigations to verify whether the signatures indicated in the minutes of the boards of directors are related to Mrs. Murekatete, which my assistant disputes, as contest of having carried out activities as a member of the Board of Directors. I have also highlighted the legal existence of the 'delibere' of appointment of my assistant, which excludes the status of an advisor. Questions which will now be examined in debate together with those of merit, confiding that there will be more comfort in showing the innocence of my assistant.\" So the AGI lawyer Lorenzo Borre', defender of Liliane Murekatete, wife of MP Aboubakar Soumahoro, referred to the investigation of the prosecutor of Latina on the cooperatives involved in the management of asylum seekers and unaccompanied minors. &nbsp;",
+        "concepts": [
+            {
+                "word": "judgment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "wife",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mother",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sister",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Soumahoro",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Soumahoro",
+                "start_char": 54,
+                "end_char": 63,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Latina",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marie Therese Mukamatsindo",
+                "start_char": 36,
+                "end_char": 62,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Liliane Murekatete",
+                "start_char": 67,
+                "end_char": 85,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aboubakar Soumahoro",
+                "start_char": 137,
+                "end_char": 156,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "cooperatives",
+                "start_char": 189,
+                "end_char": 201,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 298,
+                "end_char": 301,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 314,
+                "end_char": 317,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "next June 11",
+                "start_char": 521,
+                "end_char": 533,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Latina",
+                "start_char": 537,
+                "end_char": 543,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 567,
+                "end_char": 572,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the minutes",
+                "start_char": 680,
+                "end_char": 691,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Murekatete",
+                "start_char": 739,
+                "end_char": 749,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Board of Directors",
+                "start_char": 839,
+                "end_char": 861,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AGI",
+                "start_char": 1167,
+                "end_char": 1170,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lorenzo Borre'",
+                "start_char": 1178,
+                "end_char": 1192,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Liliane Murekatete",
+                "start_char": 1206,
+                "end_char": 1224,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aboubakar Soumahoro",
+                "start_char": 1237,
+                "end_char": 1256,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Latina",
+                "start_char": 1309,
+                "end_char": 1315,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "cooperatives",
+                "start_char": 1323,
+                "end_char": 1335,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "15 anni dopo il terremoto a L'Aquila è lutto cittadino",
+        "date_raw": "Thu, 04 Apr 2024 13:45:01 GMT",
+        "date": "2024-04-04",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-04/aquila-lutto-cittadino-dopo-terremoto-25911515/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Con l'ordinanza firmata dal primo cittadino dell'Aquila, Pierluigi Biondi, è stato proclamato il lutto cittadino per l'intera giornata del 6 aprile 2023, che prevede l'esposizione a mezz'asta e listate a lutto delle bandiere> esposte sugli edifici pubblici. Presenti sul territorio comunale e il divieto delle attività ludiche e ricreative e ogni altro comportamento che contrasti con il carattere luttuoso della ricorrenza o con il decoro urbano. Il sindaco, inoltre, ha invitato tutti i cittadini e le organizzazioni sociali, culturali e produttive, le altre Pubbliche Amministrazioni a prendere parte alle iniziative promosse in commemorazione del sisma, nonché a esprimere in forme decise autonomamente la partecipazione al ricordo delle vittime>, anche illuminando, nella notte fra il 5 e il 6 aprile, i balconi o le finestre degli edifici. Infine, gli esercizi commerciali, le imprese, le attività artigianali e le altre organizzazioni pubbliche e private, con esclusione dei servizi indispensabili e obbligatori, sono stati invitati a sospendere l'attività lavorativa la mattina del 6 aprile fino alle ore 11:00.&nbsp; \n&nbsp; \nA 15 anni del terremoto del 6 aprile del 2009, dunque, L'Aquila si appresta a commemorare le 309 vittime.> La fiaccolata della memoria si snoderà lungo via XX Settembre a partire dalle 21.30 con costa alla Casa dello Studente (uno dei luoghi simbolo dell'immane tragedia in cui persero la vita 8 studenti universitari e altri rimasero gravemente feriti) e arrivo al Parco della Memoria dove verrà acceso il braciere verrà data lettura delle 309 vittime del terremoto. A mezzanotte la santa messa in Piazza Duomo che precederà alle 3.32 i 309 rintocchi della campana della chiesa di Santa Maria del Suffragio.> Nel calendario delle manifestazioni anche iniziative di scuole, enti culturali, associazioni e comitati.&nbsp;",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1712311221.84681,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-05 12:00:21",
+        "filename": "ner_conc_en_2024-04-05T12.00.21E1712318421.393415.json",
+        "en_title": "15 years after the earthquake in L'Aquila is mourning citizen",
+        "en_content": "AGI -&nbsp;With the ordinance signed by the first citizen of L'Aquila, Pierluigi Biondi, the city mourned for the entire day of 6 April 2023, which provides for the half-ax exhibition and mourning list of flags > on public buildings. Present on the municipal territory and the prohibition of recreational and recreational activities and any other behaviour that contrasts with the luxuriant character of the event or with the urban decoration. The mayor, moreover, invited all citizens and social, cultural and productive organizations, the other Public Administrations to take part in the initiatives promoted in commemoration of the earthquake, as well as to express autonomously the participation in the memory of the victims, also illuminating, in the night between 5 and 6 April, the balconies or the windows of the buildings. Finally, commercial exercises, enterprises, crafts and other public and private organizations, with the exception of the indispensable and mandatory services, were invited to suspend work on the morning of 6 April until 11:00.&nbsp;\n&nbsp;\nAt 15 years of the earthquake of 6 April 2009, L'Aquila is preparing to commemorate the 309 victims.> The torch of the memory will go along Via XX Settembre from 21.30 with coast to the House of the Student (one of the places symbol of the immense tragedy in which 8 university students lost their lives and others were seriously injured) and arrive at the Park of Memory where the brazier will be lit will be read of the 309 victims of the earthquake. At midnight the holy Mass in the Square Duomo that will precede at 3.32 the 309 touches of the bell of the church of Santa Maria del Suffragio.> In the event calendar also initiatives of schools, cultural institutions, associations and committees.&nbsp;",
+        "concepts": [
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "SCONJ"
+            },
+            {
+                "word": "earthquake",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "L'Aquila",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "citizen",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "15 years",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "L'Aquila",
+                "start_char": 33,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 44,
+                "end_char": 49,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "L'Aquila",
+                "start_char": 61,
+                "end_char": 69,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pierluigi Biondi",
+                "start_char": 71,
+                "end_char": 87,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the entire day of",
+                "start_char": 110,
+                "end_char": 127,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "6 April 2023",
+                "start_char": 128,
+                "end_char": 140,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "between 5 and 6 April",
+                "start_char": 762,
+                "end_char": 783,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the morning of",
+                "start_char": 1023,
+                "end_char": 1037,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "6 April",
+                "start_char": 1038,
+                "end_char": 1045,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "11:00.&nbsp",
+                "start_char": 1052,
+                "end_char": 1063,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15 years",
+                "start_char": 1075,
+                "end_char": 1083,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "6 April 2009",
+                "start_char": 1105,
+                "end_char": 1117,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "L'Aquila",
+                "start_char": 1119,
+                "end_char": 1127,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "309",
+                "start_char": 1160,
+                "end_char": 1163,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Via XX Settembre",
+                "start_char": 1212,
+                "end_char": 1228,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "21.30",
+                "start_char": 1234,
+                "end_char": 1239,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the House of the Student",
+                "start_char": 1254,
+                "end_char": 1278,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "8",
+                "start_char": 1337,
+                "end_char": 1338,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Park of Memory",
+                "start_char": 1425,
+                "end_char": 1443,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "309",
+                "start_char": 1494,
+                "end_char": 1497,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "midnight",
+                "start_char": 1528,
+                "end_char": 1536,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Square Duomo",
+                "start_char": 1554,
+                "end_char": 1570,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "3.32",
+                "start_char": 1592,
+                "end_char": 1596,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "309",
+                "start_char": 1601,
+                "end_char": 1604,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Santa Maria",
+                "start_char": 1642,
+                "end_char": 1653,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del Suffragio",
+                "start_char": 1654,
+                "end_char": 1667,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

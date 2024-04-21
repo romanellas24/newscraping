@@ -1,0 +1,2959 @@
+[
+    {
+        "title": "È morta Daniela, la moglie di Raiz degli Almanegretta. Il commovente ricordo",
+        "date_raw": "Sun, 31 Mar 2024 14:46:15 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-31/morta-daniela-moglie-raiz-almanegretta-commovente-ricordo-25873719/",
+        "subtitle": "",
+        "content": "AGI - \"Quanno 'o veco, nun 'o credo, nun me pare overo ca 'a cchiu' bella d''e Quartieri fa ammore cu' mme\". Stasera su Rai2 h 21.00 finale di stagione per #marefuori4. La mia dedica personale va a Daniela Shualy, madre della mia rosa Lea e amore di una vita\". Così sui social Gennaro Della Volpe, in arte Raiz, cantautore napoletano, leader del gruppo Almamegretta e boss Salvatore Ricci nella serie tv 'Mare Fuori'. \n&nbsp; \n<div></div> \n&nbsp; \nL'annuncio della scomparsa della donna e' stato dato solo oggi. \"Sconvolti e smarriti siamo vicini a Raiz per la scomparsa della sua dolce moglie Daniela. Ci mancherai\", il saluto del gruppo sui profili social.&nbsp; \n&nbsp;",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2356842,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Daniela died, Raiz's wife of the Almanegretta. The moving memory",
+        "en_content": "AGI - \"Quanno 'o veco, nu 'o crede, nun me pare overo ca 'a cchiu' bella d''' and Quartieri fa ammore cu' mme\". Tonight on Rai2 h 21.00 season finale to #marefuori4. My personal dedication goes to Daniela Shualy, mother of my pink Lea and love of a life.\" So on the social Gennaro Della Volpe, in art Raiz, Neapolitan singer, leader of the group Almamegretta and boss Salvatore Ricci in the TV series 'Mare Fuori'.\n&nbsp;\n<div </div\n&nbsp;\nThe announcement of the woman's disappearance was only given today. \"Involved and lost we are close to Raiz for the disappearance of his sweet wife Daniela. We will miss you\", the group's greeting on social profiles.&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Daniela",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Raiz",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wife",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Almanegretta",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "memory",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Daniela",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Raiz",
+                "start_char": 14,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Almanegretta",
+                "start_char": 33,
+                "end_char": 45,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Quanno",
+                "start_char": 7,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "veco",
+                "start_char": 17,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Quartieri",
+                "start_char": 82,
+                "end_char": 91,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "Tonight",
+                "start_char": 112,
+                "end_char": 119,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Rai2",
+                "start_char": 123,
+                "end_char": 127,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "21.00 season",
+                "start_char": 130,
+                "end_char": 142,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Daniela Shualy",
+                "start_char": 197,
+                "end_char": 211,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lea",
+                "start_char": 231,
+                "end_char": 234,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gennaro Della Volpe",
+                "start_char": 273,
+                "end_char": 292,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Raiz",
+                "start_char": 301,
+                "end_char": 305,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Neapolitan",
+                "start_char": 307,
+                "end_char": 317,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Almamegretta",
+                "start_char": 346,
+                "end_char": 358,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Salvatore Ricci",
+                "start_char": 368,
+                "end_char": 383,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 501,
+                "end_char": 506,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Raiz",
+                "start_char": 543,
+                "end_char": 547,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Daniela",
+                "start_char": 588,
+                "end_char": 595,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "profiles.&nbsp",
+                "start_char": 647,
+                "end_char": 661,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Bergoglio rivela: \"Cercarono di usarmi per sabotare l'elezione di Ratzinger\"",
+        "date_raw": "Sun, 31 Mar 2024 11:04:39 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-31/papa-elezione-ratzinger-rivelazioni-libro-bergoglio-25872114/",
+        "subtitle": "",
+        "content": "AGI - Nel Conclave del 2005 \"cercarono di usarmi\" per non far eleggere Papa, il cardinale Joseph Ratzinger.> È quanto rivela Papa Francesco nel libro-intervista \"El sucesor\" >(Il successore), nel quale parla dei suoi ricordi con Benedetto XVI. Il volume, scritto con il giornalista spagnolo Javier Martinez-Brocal>, uscirà mercoledì 3 aprile, oggi il quotidiano spagnolo Abc ne anticipa un capitolo. \"In quel conclave - la notizia è nota - mi usarono\", racconta Francesco che spiega che se i cardinali giurano di non parlare di ciò che accade in un Conclave, i Papi possono farlo. \n\"È successo - racconta quindi - che ho ottenuto quaranta voti su centoquindici nella Cappella Sistina. Sono bastati per fermare la candidatura del cardinale Joseph Ratzinger, perché, se avessero continuato a votarmi, non sarebbe riuscito a raggiungere i due terzi necessari per essere eletto Papa\">. Alla domanda se non avessero potuto scegliere lo stesso Bergoglio, Francesco chiarisce: \"Non era questa l'idea di chi sta dietro ai voti. La manovra consisteva nel mettere il mio nome, bloccare l'elezione di Ratzinger e poi negoziare un terzo candidato diverso. Mi dissero poi che non volevano un Papa 'straniero'\". \n<div></div> \n&nbsp; \n\"È stata una manovra completa. L'idea era quella di bloccare l'elezione del cardinale Joseph Ratzinger. Mi stavano usando, ma dietro di loro già pensavano di proporre un altro cardinale. Non riuscivano ancora a mettersi d'accordo su chi, ma erano già sul punto di pronunciare un nome\". Bergoglio quindi spiega nel dettaglio: \"Il Conclave è iniziato lunedì 18 aprile 2005. Nel pomeriggio si è svolta la prima votazione. Questa operazione è avvenuta nella seconda o terza votazione, martedì 19 mattina. Quando me ne sono reso conto nel pomeriggio, ho detto a un cardinale latinoamericano, il colombiano Dario Castrillon: 'Non scherzare con la mia candidatura>, perché adesso dico che non accetterò, eh? Lasciami qui'. E lì Benedetto fu eletto\". E Francesco sottolinea anche: Ratzinger \"era il mio candidato\". \"Era l'unico che a quel tempo poteva essere Papa\", osserva. \n\"Dopo la rivoluzione di Giovanni Paolo II, che era stato un Pontefice dinamico, molto attivo, intraprendente, viaggiante... c'era bisogno di un Papa che mantenesse un sano equilibrio, un Papa di transizione\". Bergoglio rimarca la sua contentezza per l'elezione di Benedetto XVI, già espressa durante la sua prima conferenza stampa sul volo di ritorno da Rio de Janeiro: \"È vero. Se avessero scelto uno come me, che combina tanti guai, non avrei potuto fare nulla. A quel tempo non sarebbe stato possibile. Sono partito felice. Benedetto XVI è stato un uomo che ha accompagnato il nuovo stile.> E non è stato facile per lui, eh? Incontro' molta resistenza in Vaticano\". Ma con quell'elezione lo Spirito Santo, ribadisce Bergoglio ha detto alla Chiesa: \"Qui comando io. Non c'è spazio per manovre\".&nbsp; \n&nbsp;",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2357352,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Bergoglio reveals: \"They tried to use me to sabotage the election of Ratzinger\"",
+        "en_content": "AGI - In the 2005 Conclave \"they tried to use me\" not to elect Pope, Cardinal Joseph Ratzinger.> This is what Pope Francis reveals in the book-interview \"El sucesor\" > (The successor), in which he speaks of his memories with Benedict XVI. The volume, written with Spanish journalist Javier Martinez-Brocal>, will be released on Wednesday, April 3, today the Spanish daily Abc anticipates a chapter. \"In that conclave - the news is known - they used me,\" Francis explains that if the cardinals swear not to mention what happens in a Conclave, the Popes can do it.\n\"It happened - he says - that I got forty votes on one hundred and fifteen in the Sistine Chapel. They were enough to stop Cardinal Joseph Ratzinger's candidacy, because, if they had continued to vote, he would not be able to reach the two-thirds necessary to be elected Pope.\" To the question if they could not choose the same Bergoglio, Francis clarifies: \"This wasn't the idea of who's behind the votes. The maneuver consisted of putting my name, blocking the election of Ratzinger and then negotiating a different third candidate. They then told me they didn't want a 'foreign' Pope.\n<div </div\n&nbsp;\n\"It was a complete maneuver. The idea was to block the election of Cardinal Joseph Ratzinger. They were using me, but behind them they already thought of proposing another cardinal. They still couldn't agree on who, but they were already on the verge of saying a name.\" Bergoglio explains in detail: \"The Conclave began on Monday 18 April 2005. The first vote took place in the afternoon. This operation took place in the second or third vote, Tuesday 19 morning. When I realized in the afternoon, I told a Latin American Cardinal, Colombian Dario Castrillon: 'Don't joke with my candidacy', 'cause now I say I won't accept, huh? Leave me here. And there Benedict was elected.\" And Francis also emphasizes: Ratzinger \"was my candidate.\" \"It was the only one who could be Pope at that time,\" he says.\n\"After the revolution of John Paul II, who had been a dynamic Pontiff, very active, resourceful, traveling... a Pope needed to maintain a healthy balance, a transition Pope.\" Bergoglio points out his satisfaction for the election of Benedict XVI, already expressed during his first press conference on the return flight from Rio de Janeiro: \"That's true. If they'd picked someone like me, that's a lot of trouble, I couldn't have done anything. At that time it wouldn't have been possible. I left happy. Benedict XVI was a man who accompanied the new style.> And it wasn't easy for him, huh? He met a lot of resistance in the Vatican.\" But with that election the Holy Spirit reiterates Bergoglio said to the Church: \"Here I command. There is no room for manoeuvres.\" &nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Bergoglio",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ratzinger",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Pope",
+                "start_char": 63,
+                "end_char": 67,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Joseph Ratzinger",
+                "start_char": 78,
+                "end_char": 94,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francis",
+                "start_char": 115,
+                "end_char": 122,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "El",
+                "start_char": 154,
+                "end_char": 156,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Benedict XVI",
+                "start_char": 225,
+                "end_char": 237,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Spanish",
+                "start_char": 264,
+                "end_char": 271,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Javier Martinez",
+                "start_char": 283,
+                "end_char": 298,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Wednesday, April 3, today",
+                "start_char": 328,
+                "end_char": 353,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Spanish",
+                "start_char": 358,
+                "end_char": 365,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Abc",
+                "start_char": 372,
+                "end_char": 375,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francis",
+                "start_char": 454,
+                "end_char": 461,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "forty",
+                "start_char": 599,
+                "end_char": 604,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one hundred and fifteen",
+                "start_char": 614,
+                "end_char": 637,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Joseph Ratzinger's",
+                "start_char": 695,
+                "end_char": 713,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two-thirds",
+                "start_char": 799,
+                "end_char": 809,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Pope",
+                "start_char": 834,
+                "end_char": 838,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francis",
+                "start_char": 902,
+                "end_char": 909,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "third",
+                "start_char": 1081,
+                "end_char": 1086,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Joseph Ratzinger",
+                "start_char": 1245,
+                "end_char": 1261,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The Conclave",
+                "start_char": 1470,
+                "end_char": 1482,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Monday 18 April 2005",
+                "start_char": 1492,
+                "end_char": 1512,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 1518,
+                "end_char": 1523,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 1543,
+                "end_char": 1556,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "second",
+                "start_char": 1591,
+                "end_char": 1597,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "third",
+                "start_char": 1601,
+                "end_char": 1606,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 1613,
+                "end_char": 1620,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "19 morning",
+                "start_char": 1621,
+                "end_char": 1631,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Latin American",
+                "start_char": 1676,
+                "end_char": 1690,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Colombian",
+                "start_char": 1701,
+                "end_char": 1710,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Benedict",
+                "start_char": 1824,
+                "end_char": 1832,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francis",
+                "start_char": 1851,
+                "end_char": 1858,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "John Paul II",
+                "start_char": 1994,
+                "end_char": 2006,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Benedict XVI",
+                "start_char": 2202,
+                "end_char": 2214,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rio de Janeiro",
+                "start_char": 2294,
+                "end_char": 2308,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Benedict XVI",
+                "start_char": 2473,
+                "end_char": 2485,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 2595,
+                "end_char": 2602,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Bergoglio",
+                "start_char": 2655,
+                "end_char": 2664,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Church",
+                "start_char": 2677,
+                "end_char": 2683,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il pensiero del Papa alle vittime dei conflitti. \"Sia pace in Ucraina e Terra Santa\"",
+        "date_raw": "Sun, 31 Mar 2024 10:42:52 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-31/pensiero-papa-vittime-conflitti-sia-pace-ucraina-terra-santa-25871989/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Circa 60 mila i fedeli in piazza San Pietro che attendono il messaggio pasquale di Papa Francesco e la successiva benedizione Urbi et Orbi dalla Loggia Centrale della Basilica. Lo rende noto la sala stampa vaticana.&nbsp; \n&nbsp; \n\"Oggi volgiamo anzitutto lo sguardo verso la Città Santa di Gerusalemme, testimone del mistero della passione, morte e risurrezione di Gesù e a tutte le comunità cristiane della Terra Santa. Il mio pensiero va soprattutto alle vittime dei tanti conflitti che sono in corso nel mondo, a cominciare da quelli in Israele e Palestina, e in Ucraina\". \n&nbsp; \nCosi' Papa Francesco nel messaggio pasquale prima della benedizione Urbi et Orbi. \"Cristo Risorto apra una via di pace per le martoriate popolazioni di quelle regioni. Mentre invito al rispetto dei principi del diritto internazionale, auspico uno scambio generale di tutti i prigionieri tra Russia e Ucraina: tutti per tutti!\", ha sottolineato il Pontefice. \n&nbsp; \n<h2>L'appello per Gaza</h2> \n\"Faccio nuovamente appello a che sia garantita la possibilità di accesso agli aiuti umanitari a Gaza, esortando nuovamente a un pronto rilascio degli ostaggi rapiti il 7 ottobre >scorso e a un immediato cessate il fuoco nella Striscia\". Cosi' Papa Francesco nel messaggio pasquale prima della benedizione Urbi et Orbi. \n&nbsp; \n<h2>\"La guerra è sempre assurdità e sconfitta\"&nbsp;</h2> \n\"Non permettiamo che le ostilità in atto continuino ad avere gravi ripercussioni sulla popolazione civile, ormai stremata, e soprattutto sui bambini. Quanta sofferenza vediamo nei loro occhi. hanno dimenticato di sorridere\", \"con il loro sguardo ci chiedono: perché? Perché&nbsp;tanta morte? Perché&nbsp;tanta distruzione?\". Cosi' Papa Francesco nel messaggio pasquale prima della benedizione Urbi et Orbi. \n&nbsp; \n\"La guerra è sempre un'assurdità e una sconfitta! Non lasciamo che venti di guerra sempre più forti spirino sull'Europa e sul Mediterraneo\", ha sottolineato il Pontefice. \"Non si ceda alla logica delle armi e del riarmo. La pace non si costruisce mai con le armi, ma tendendo le mani e aprendo i cuori\", ha aggiunto. \n&nbsp; \n<h2>La situazione nei Balcani, in Armenia e Arzerbaijan</h2> \n\"Un pensiero particolare rivolgo alla Regione dei Balcani Occidentali, dove si stanno compiendo passi significativi verso l'integrazione nel progetto europeo: le differenze etniche, culturali e confessionali non siano causa di divisione, ma diventino fonte di ricchezza per tutta l'Europa e per il mondo intero\". Cosi' Papa Francesco nel messaggio pasquale prima della benedizione Urbi et Orbi. \n&nbsp; \n\"Parimenti incoraggio i colloqui tra l'Armenia e l'Azerbaigian, perché, con il sostegno della Comunità internazionale, possano proseguire il dialogo, soccorrere gli sfollati, rispettare i luoghi di culto delle diverse confessioni religiose e arrivare al più presto a un accordo di pace definitivo\", ha sottolineato il Pontefice. \n&nbsp; \n<h2>Il pensiero a chi vive violenze, conflitti e insicurezze&nbsp;</h2> \n\"Cristo risorto apra una via di speranza alle persone che in altre parti del mondo patiscono violenze, conflitti, insicurezza alimentare, come pure gli effetti dei cambiamenti climatici. Doni conforto alle vittime di ogni forma di terrorismo\". Cosi' Papa Francesco nel messaggio pasquale prima della benedizione Urbi et Orbi. \"Preghiamo per quanti hanno perso la vita e imploriamo il pentimento e la conversione degli autori di tali crimini\", ha sottolineato il Pontefice. \n&nbsp; \n&nbsp;",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2357647,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "The Pope's thought to the victims of conflicts. \"Peace in Ukraine and the Holy Land\"",
+        "en_content": "AGI -&nbsp;Circa 60 thousand the faithful in St. Peter's Square who await the Easter message of Pope Francis and the subsequent blessing Urbi et Orbi from the Central Loggia of the Basilica. It makes known the Vatican press room.&nbsp;\n&nbsp;\n\"Today we turn first of all our gaze towards the Holy City of Jerusalem, witness to the mystery of Jesus' passion, death and resurrection and to all Christian communities in the Holy Land. My thoughts go above all to the victims of the many conflicts that are ongoing in the world, beginning with those in Israel and Palestine, and in Ukraine.\"\n&nbsp;\nSo Pope Francis in the Easter message before the blessing Urbi et Orbi. \"Christ Risen open a way of peace for the marathon populations of those regions. As I invite respect for the principles of international law, I hope a general exchange of all prisoners between Russia and Ukraine: all for all!\", the Pontiff stressed.\n&nbsp;\n<h2> Appeal for Gaza\n\"I appeal again to ensure that access to humanitarian aid in Gaza is guaranteed, urging once again to release the hostages abducted on 7 October and to an immediate ceasefire in the Strip.\" So Pope Francis in the Easter message before the blessing Urbi et Orbi.\n&nbsp;\n<h2> \"War is always absurd and defeat\" &nbsp;</h2>\n\"We do not allow the hostilities in place to continue to have serious repercussions on the civilian population, now exhausted, and especially on children. How much suffering we see in their eyes. they have forgotten to smile,\" \"with their gaze they ask us: Why? Why? Why &nbsp; full destruction?\" So Pope Francis in the Easter message before the blessing Urbi et Orbi.\n&nbsp;\n\"War is always an absurdity and defeat! We do not leave that ever stronger winds of war on Europe and on the Mediterranean\", the Pontiff emphasized. \"Do not hide from the logic of weapons and rearmament. Peace never builds itself with weapons, but tending hands and opening hearts,\" he added.\n&nbsp;\n<h2 The situation in the Balkans, Armenia and Arzerbaijan</h2>\n\"A special thought I address to the Western Balkan Region, where significant steps are being taken towards integration in the European project: ethnic, cultural and confessional differences are not a cause of division, but they become a source of wealth throughout Europe and the whole world.\" So Pope Francis in the Easter message before the blessing Urbi et Orbi.\n&nbsp;\n\"Parimenti encourage the talks between Armenia and Azerbaijan, so that, with the support of the international community, they can continue dialogue, rescue the displaced, respect the places of worship of the different religious confessions and arrive as soon as possible to a definitive peace agreement,\" the Pontiff stressed.\n&nbsp;\n<h2 Thought to those who live violence, conflicts and insecurities&nbsp;</h2>\n\"The Risen Christ opens a way of hope to people who in other parts of the world suffer violence, conflicts, food insecurity, as well as the effects of climate change. Give comfort to the victims of all forms of terrorism.\" So Pope Francis in the Easter message before the blessing Urbi et Orbi. \"Let us pray for those who have lost their lives and implore the repentance and conversion of the authors of such crimes,\" the Pontiff said.\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "thought",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "conflicts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Peace",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Holy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Land",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Holy Land",
+                "start_char": 70,
+                "end_char": 83,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI -&nbsp;Circa",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "60 thousand",
+                "start_char": 17,
+                "end_char": 28,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "St. Peter's",
+                "start_char": 45,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Easter",
+                "start_char": 78,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 101,
+                "end_char": 108,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Urbi et Orbi",
+                "start_char": 137,
+                "end_char": 149,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Central Loggia",
+                "start_char": 155,
+                "end_char": 173,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Basilica",
+                "start_char": 181,
+                "end_char": 189,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 210,
+                "end_char": 217,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Today",
+                "start_char": 244,
+                "end_char": 249,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 258,
+                "end_char": 263,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Holy City",
+                "start_char": 288,
+                "end_char": 301,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jerusalem",
+                "start_char": 305,
+                "end_char": 314,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jesus",
+                "start_char": 342,
+                "end_char": 347,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Christian",
+                "start_char": 392,
+                "end_char": 401,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Holy Land",
+                "start_char": 417,
+                "end_char": 430,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Israel",
+                "start_char": 549,
+                "end_char": 555,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestine",
+                "start_char": 560,
+                "end_char": 569,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 578,
+                "end_char": 585,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 598,
+                "end_char": 610,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter",
+                "start_char": 618,
+                "end_char": 624,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Urbi et Orbi",
+                "start_char": 653,
+                "end_char": 665,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Risen",
+                "start_char": 675,
+                "end_char": 680,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 860,
+                "end_char": 866,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 871,
+                "end_char": 878,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 940,
+                "end_char": 944,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 1006,
+                "end_char": 1010,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "7 October",
+                "start_char": 1080,
+                "end_char": 1089,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Strip",
+                "start_char": 1127,
+                "end_char": 1132,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 1138,
+                "end_char": 1150,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter",
+                "start_char": 1158,
+                "end_char": 1164,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Urbi et Orbi",
+                "start_char": 1193,
+                "end_char": 1205,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 1570,
+                "end_char": 1577,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter",
+                "start_char": 1585,
+                "end_char": 1591,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Urbi et Orbi",
+                "start_char": 1620,
+                "end_char": 1632,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "War",
+                "start_char": 1642,
+                "end_char": 1645,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 1732,
+                "end_char": 1738,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Mediterranean",
+                "start_char": 1750,
+                "end_char": 1763,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Balkans",
+                "start_char": 1966,
+                "end_char": 1973,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Armenia",
+                "start_char": 1975,
+                "end_char": 1982,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arzerbaijan</h2",
+                "start_char": 1987,
+                "end_char": 2002,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Western Balkan Region",
+                "start_char": 2036,
+                "end_char": 2061,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "European",
+                "start_char": 2130,
+                "end_char": 2138,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europe",
+                "start_char": 2269,
+                "end_char": 2275,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 2301,
+                "end_char": 2313,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter",
+                "start_char": 2321,
+                "end_char": 2327,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Urbi et Orbi",
+                "start_char": 2356,
+                "end_char": 2368,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Armenia",
+                "start_char": 2416,
+                "end_char": 2423,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Azerbaijan",
+                "start_char": 2428,
+                "end_char": 2438,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Risen Christ",
+                "start_char": 2790,
+                "end_char": 2806,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 3015,
+                "end_char": 3027,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter",
+                "start_char": 3035,
+                "end_char": 3041,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Urbi et Orbi",
+                "start_char": 3070,
+                "end_char": 3082,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Monossido di carbonio in chiesa, 19 fedeli ricoverati nel Torinese",
+        "date_raw": "Sun, 31 Mar 2024 10:12:07 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-31/monossido-di-carbonio-in-chiesa-malore-fedeli-nel-torinese-25871692/",
+        "subtitle": "",
+        "content": "AGI - Malori in chiesa per intossicazione da monossido di carbonio a Pont Canavese, in provincia di Torino. È accaduto ieri sera verso le 22.30 nella parrocchia di San Costanzo>, dove una cinquantina di fedeli stava partecipando alla funzione religios>a. Il personale medico dell'Azienda sanitaria Zero, giunto sul posto a seguito della segnalazione del 118, ha valutato i circa 50 fedeli presenti. \nDi questi 19 adulti e sei minori sono stati ricoverati negli ospedali della zona. Nessuno sarebbe in gravi condizioni. Sono in corso gli accertamenti per verificare la causa dell'accaduto, che potrebbe essere riconducibile al mal funzionamento della caldaia.&nbsp;",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2357888,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Carbon monoxide in church, 19 faithful admitted in Turin",
+        "en_content": "AGI - Malori in church for intoxication by carbon monoxide in Pont Canavese, in the province of Turin. It happened last night around 22.30 in the parish of San Costanzo>, where about fifty faithful were participating in the religios>a function. The medical staff of the Zero Health Company, who arrived on the spot following the warning of the 118, rated the approximately 50 faithful present.\nOf these 19 adults and six minors were admitted to the local hospitals. No one would be in serious condition. The investigations are under way to verify the cause of the incident, which could be traced back to the malfunction of the boiler.&nbsp;",
+        "concepts": [
+            {
+                "word": "Carbon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "monoxide",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "church",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Turin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "19",
+                "start_char": 27,
+                "end_char": 29,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turin",
+                "start_char": 51,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Malori",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pont Canavese",
+                "start_char": 62,
+                "end_char": 75,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turin",
+                "start_char": 96,
+                "end_char": 101,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last night",
+                "start_char": 115,
+                "end_char": 125,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "22.30",
+                "start_char": 133,
+                "end_char": 138,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "San Costanzo",
+                "start_char": 156,
+                "end_char": 168,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about fifty",
+                "start_char": 177,
+                "end_char": 188,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Zero Health Company",
+                "start_char": 266,
+                "end_char": 289,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "118",
+                "start_char": 344,
+                "end_char": 347,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "19",
+                "start_char": 403,
+                "end_char": 405,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "six",
+                "start_char": 417,
+                "end_char": 420,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "boiler.&nbsp",
+                "start_char": 627,
+                "end_char": 639,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Auto in un canale, muore un uomo. Salva una donna",
+        "date_raw": "Sun, 31 Mar 2024 09:03:05 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-31/veneia-auto-canale-chioggia-un-morto-una-donna-salvata-25871105/",
+        "subtitle": "",
+        "content": "AGI - Un uomo è morto e una donna è stata salvata a bordo di un'auto caduta in un canale. È accaduto nella notte in località Ca' Pasqua a Chioggia >in provincia di Venezia>. La donna è stata salvata da un vigile del fuoco che abita di fronte il luogo dell'incidente. Il capo reparto, mentre era in casa, ha sentito il rumore dell'auto finita nel corso d'acqua>. Ha dato l'allarme e si è tuffato nel canale, riuscendo a tirare fuori per una porta posteriore la donna e metterla in salvo. \nNel frattempo l'auto si è inabissata del tutto. I vigili del fuoco arrivati da Chioggia e da Venezia con i sommozzatori e l'autogrù, hanno agganciato e recuperato l'auto. Purtroppo il medico ha dovuto constatare la morte dell'uomo. La donna sotto shock è stato presa in cura dal personale sanitario del Suem e trasferita in ospedale. La polizia locale ha eseguito i rilievi del sinistro.&nbsp;",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1711897220.235814,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Cars in a channel, a man dies. Save a woman",
+        "en_content": "AGI - A man died and a woman was saved aboard a car crashed into a canal. It happened in the night in Ca' Pasqua in Chioggia > in the province of Venice>. The woman was rescued by a firefighter in front of the crash site. The ward leader, while he was in the house, heard the noise of the finished car during the water >. He gave the alarm and jumped into the canal, pulling out a back door the woman and putting her in safety.\nIn the meantime, the car was completely uninhabited. The firefighters arrived from Chioggia and Venice with the divers and the autogrù, hooked and recovered the car. Unfortunately, the doctor had to see the death of man. The woman in shock was taken care of by Suem's health care staff and transferred to the hospital. The local police performed the reliefs of the left.&nbsp;",
+        "concepts": [
+            {
+                "word": "Cars",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "channel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ca' Pasqua",
+                "start_char": 102,
+                "end_char": 112,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Chioggia",
+                "start_char": 116,
+                "end_char": 124,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Venice",
+                "start_char": 146,
+                "end_char": 152,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chioggia",
+                "start_char": 511,
+                "end_char": 519,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Venice",
+                "start_char": 524,
+                "end_char": 530,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Suem",
+                "start_char": 689,
+                "end_char": 693,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Pasqua col maltempo. Allarme al Nord, rischio valanghe nel Verbano",
+        "date_raw": "Sun, 31 Mar 2024 05:27:47 GMT",
+        "date": "2024-03-31",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-31/pasqua-maltempo-rischio-valanghe-nubifragio-milano-25870227/",
+        "subtitle": "",
+        "content": "AGI - Notte di Pasqua fortemente segnata dal maltempo in tutto il Verbano Cusio Ossola>, stretto tra un'ondata di piogge intense con vento, tuoni e fulmin>i e l'emergenza valanghe dopo le abbondanti nevicate dei giorni scorsi. Tre valanghe si sono staccate dai versanti che costeggiano la statale del Sempione. Per precauzione rimanendo altissimo il rischio di altri distacchi di neve >Anas ha disposto la chiusura della strada tra Iselle (ultima località italiana e posto di frontiera) e il confine svizzero. A quote più basse in tutta la provincia si sono verificate anche frane e smottamenti a causa delle piogge: problemi sulla statale 34 del Lago Maggiore tra Cannobio e Cannero. Chiusa la strada della Valle Anzasca per uno smottamento a Calasca Castiglione; uno smottamento ha causato la chiusura di una strada a Varzo, mentre sul fondovalle non si contano gli allagamenti: chiuso anche un sottopasso nei pressi dello scalo internazionale di Domo 2. \nUn'allerta maltempo nelle regioni settentrionali dell'Italia,> specie a Nord-Ovest, è stata diramata dalla Protezione civile. Arancione su alcune zone della Lombardia e gialla per aree di altre sei regioni: la stessa Lombardia, Liguria, Piemonte, Valle d'Aosta, Trentino Alto Adige e Veneto. L'allerta arancione per rischio idrogeologico riguarda Laghi e Prealpi Varesine, Lario e Prealpi occidentali e Orobie bergamasche. Già nella notte un nubifragio ha colpito il Milanese >con alberi pericolanti e cartelloni pubblicitari caduti nel capoluogo dove i vigili del fuoco sono dovuti intervenire in decine di situazioni pericolose. Non risultano feriti o incidenti stradali di rilievo. Nel Varesotto, tra Busto Arsizio, Samarate e Lonate Pozzolo una breve tromba d'aria ha abbattuto decine di alberi senza fortunatamente conseguenza per le persone. \nSecondo le previsioni, le giornate di Pasqua e Pasquetta saranno caratterizzate da una marcata instabilità> con il primo caldo africano al Sud, soprattutto in Sicilia e in parte anche al Centro, e piogge e temporali portati dalle correnti atlantiche al Nord dove ci sarà un'intensificazione delle precipitazioni la sera di Pasqua con nevicate a quote superiori ai 1400/1500 metri nell'area occidentale e centrale e oltre i 1600 metri nell'area orientale. La giornata di Pasquetta al mattino sono previsti altri rovesci al Nord e sulla Toscana, in estensione al resto del Centro tra l'ora di il pranzo e il pomeriggio. Al Sud, invece, sarà un'altra giornata quasi estiva.&nbsp;",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2358372,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Easter in bad weather. North alert, avalanche risk in the Verbano",
+        "en_content": "AGI - Easter night strongly marked by bad weather throughout the Verbano Cusio Ossola>, narrow between a wave of intense rains with wind, thunder and lightning and avalanche emergency after the abundant snowfall of recent days. Three avalanches have detached themselves from the slopes that line the state of Sempione. For precaution remaining very high the risk of other snow gaps >Anas has arranged the closure of the road between Iselle (last Italian and border place) and the Swiss border. At lower altitudes throughout the province there were also landslides and displacement due to rains: problems on the highway 34 of Lake Maggiore between Cannobio and Cannero. Closed the road of the Anzasca Valley for a break in Calasca Castiglione; a break caused the closure of a road in Varzo, while on the valley floor there are no flooding: closed also an underpass near the international port of Domo 2.\nA bad weather alert in the northern regions of Italy, > especially in the North West, was issued by the Civil Protection. Orange on some areas of Lombardy and yellow for areas of six other regions: the same Lombardy, Liguria, Piedmont, Aosta Valley, Trentino Alto Adige and Veneto. The orange alert for hydrogeological risk concerns Lakes and Prealps Varesine, Lario and Western Prealps and Orobie bergamasche. Already in the night a cloud hit Milanese > with pericolating trees and advertising posters fallen in the capital where the firefighters were forced to intervene in dozens of dangerous situations. There are no injuries or major road accidents. In the Varesotto, between Busto Arsizio, Samarate and Lonate Pozzolo a short air trumpet has broken dozens of trees without luck consequence for people.\nAccording to the forecasts, Easter and Easter days will be characterized by a marked instability> with the first African heat in the South, especially in Sicily and in part also in the Centre, and rains and storms brought from the Atlantic currents to the North where there will be an intensification of precipitation on Easter evening with snowfall at altitudes greater than 1400/1500 meters in the western and central area and beyond 1600 meters in the eastern area. The day of Pasquetta in the morning there are other rounds in the North and Tuscany, in extension to the rest of the Centre between lunch and afternoon. In the South, instead, it will be another almost summer day.&nbsp;",
+        "concepts": [
+            {
+                "word": "Easter",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "weather",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "alert",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "avalanche",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "risk",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Verbano",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Verbano",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI -",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "night",
+                "start_char": 13,
+                "end_char": 18,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Verbano Cusio Ossola",
+                "start_char": 61,
+                "end_char": 85,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent days",
+                "start_char": 215,
+                "end_char": 226,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Three",
+                "start_char": 228,
+                "end_char": 233,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Anas",
+                "start_char": 383,
+                "end_char": 387,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iselle",
+                "start_char": 433,
+                "end_char": 439,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 446,
+                "end_char": 453,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Swiss",
+                "start_char": 480,
+                "end_char": 485,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lake Maggiore",
+                "start_char": 625,
+                "end_char": 638,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Cannobio",
+                "start_char": 647,
+                "end_char": 655,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cannero",
+                "start_char": 660,
+                "end_char": 667,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Anzasca Valley",
+                "start_char": 688,
+                "end_char": 706,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Calasca Castiglione",
+                "start_char": 722,
+                "end_char": 741,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Varzo",
+                "start_char": 783,
+                "end_char": 788,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italy",
+                "start_char": 950,
+                "end_char": 955,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the North West",
+                "start_char": 973,
+                "end_char": 987,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Civil Protection",
+                "start_char": 1003,
+                "end_char": 1023,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lombardy",
+                "start_char": 1049,
+                "end_char": 1057,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "six",
+                "start_char": 1082,
+                "end_char": 1085,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 1120,
+                "end_char": 1127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Piedmont",
+                "start_char": 1129,
+                "end_char": 1137,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Aosta Valley",
+                "start_char": 1139,
+                "end_char": 1151,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trentino",
+                "start_char": 1153,
+                "end_char": 1161,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alto Adige",
+                "start_char": 1162,
+                "end_char": 1172,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Veneto",
+                "start_char": 1177,
+                "end_char": 1183,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lakes",
+                "start_char": 1236,
+                "end_char": 1241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Prealps Varesine",
+                "start_char": 1246,
+                "end_char": 1262,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lario",
+                "start_char": 1264,
+                "end_char": 1269,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Western Prealps",
+                "start_char": 1274,
+                "end_char": 1289,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Orobie",
+                "start_char": 1294,
+                "end_char": 1300,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Milanese",
+                "start_char": 1347,
+                "end_char": 1355,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "dozens",
+                "start_char": 1479,
+                "end_char": 1485,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Busto Arsizio",
+                "start_char": 1584,
+                "end_char": 1597,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "dozens",
+                "start_char": 1658,
+                "end_char": 1664,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Easter",
+                "start_char": 1739,
+                "end_char": 1745,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 1818,
+                "end_char": 1823,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "African",
+                "start_char": 1824,
+                "end_char": 1831,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "South",
+                "start_char": 1844,
+                "end_char": 1849,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sicily",
+                "start_char": 1865,
+                "end_char": 1871,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Centre",
+                "start_char": 1896,
+                "end_char": 1902,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 1942,
+                "end_char": 1950,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "North",
+                "start_char": 1967,
+                "end_char": 1972,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Easter",
+                "start_char": 2032,
+                "end_char": 2038,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "evening",
+                "start_char": 2039,
+                "end_char": 2046,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "1400/1500 meters",
+                "start_char": 2087,
+                "end_char": 2103,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "1600 meters",
+                "start_char": 2147,
+                "end_char": 2158,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Pasquetta",
+                "start_char": 2191,
+                "end_char": 2200,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 2256,
+                "end_char": 2263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Centre",
+                "start_char": 2297,
+                "end_char": 2303,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "afternoon",
+                "start_char": 2322,
+                "end_char": 2331,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "South",
+                "start_char": 2340,
+                "end_char": 2345,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "another almost summer",
+                "start_char": 2367,
+                "end_char": 2388,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Il Papa alla Veglia di Pasqua, \"non lasciamoci imprigionare dai macigni della morte\"",
+        "date_raw": "Sat, 30 Mar 2024 21:06:12 GMT",
+        "date": "2024-03-30",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-30/veglia-pasquale-papa-francesco-contro-i-macigni-della-morte-25868984/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Gli \"aneliti di pace\" spezzati dall'odio e dalle guerre, \"i muri di gomma dell'egoismo e dell'indifferenza\" che impediscono la costruzione di citta' piu' giuste, le sofferenze che lasciano \"vuoti incolmabili\", le paure che ci impediscono di compiere il bene. Sono alcuni \"macigni della morte\", le pietre tombali presenti nel nostro cuore che ci rubano la forza di andare avanti.&nbsp;Papa&nbsp;Francesco, nell'omelia della Veglia pasquale della Notte Santa, cui hanno assistito&nbsp;nella Basilica di San Pietro 6.000 fedeli,&nbsp; riprendendo il brano del Vangelo, le donne che vanno al Sepolcro e l'annuncio del Cristo Risorto, riflette su due momenti \"che ci portano - ha sottolineato - alla gioia inaudita della Pasqua: prima le donne si chiedono angosciate chi fara' rotolare via la pietra; poi, alzando lo sguardo, vedono che essa e' gia' stata fatta rotolare\". \"Anzitutto - ha spiegato il Pontefice - c'e' la domanda che assilla il loro cuore spezzato dal dolore: chi ci fara' rotolare via la pietra dal sepolcro? Quella pietra rappresentava la fine della storia di Gesu', sepolta nella notte della morte. Lui, la vita venuta nel mondo, e' stato ucciso; Lui, che ha manifestato l'amore misericordioso del Padre, non ha ricevuto pieta'; Lui, che ha sollevato i peccatori dal peso della condanna, e' stato condannato alla croce. Il Principe della pace, che aveva liberato un'adultera dalla furia violenta delle pietre, giace sepolto dietro una grossa pietra. Quel masso, ostacolo insormontabile, era il simbolo di cio' che le donne portavano nel cuore, il capolinea della loro speranza: contro di esso tutto si era infranto, con il mistero oscuro di un tragico dolore che aveva impedito ai loro sogni di realizzarsi\".&nbsp; \n&nbsp; \n\"Fratelli e sorelle, questo puo' accadere anche a noi - ha quindi aggiunto Francesco -. A volte sentiamo che una pietra tombale e' stata pesantemente poggiata all'ingresso del nostro cuore, soffocando la vita, spegnendo la fiducia, imprigionandoci nel sepolcro delle paure e delle amarezze, bloccando la via verso la gioia e la speranza. Sono 'macigni della morte' e li incontriamo, lungo il cammino, in tutte quelle esperienze e situazioni che ci rubano l'entusiasmo e la forza di andare avanti: nelle sofferenze che ci toccano e nelle morti delle persone care, che lasciano in noi vuoti incolmabili; li incontriamo nei fallimenti e nelle paure che ci impediscono di compiere quanto di buono abbiamo a cuore; li troviamo in tutte le chiusure che frenano i nostri slanci di generosita' e non ci permettono di aprirci all'amore; li troviamo nei muri di gomma dell'egoismo - sono veri muri di gomma - e dell'indifferenza, che respingono l'impegno a costruire citta' e societa' piu' giuste e a misura d'uomo; li troviamo in tutti gli aneliti di pace spezzati dalla crudelta' dell'odio e dalla ferocia della guerra\". \"Quando sperimentiamo queste delusioni, abbiamo la sensazione che tanti sogni siano destinati a essere infranti e anche noi ci chiediamo angosciati: chi ci rotolera' la pietra dal sepolcro?\". Eppure, ha proseguito il&nbsp;Papa, \"quelle stesse donne che avevano il buio nel cuore ci testimoniano qualcosa di straordinario: alzando lo sguardo, osservarono che la pietra era gia' stata fatta rotolare, benche' fosse molto grande\". \"Ecco la Pasqua di Cristo, ecco la forza di Dio: la vittoria della vita sulla morte, il trionfo della luce sulle tenebre, la rinascita della speranza dentro le macerie del fallimento. E' il Signore, Dio dell'impossibile che, per sempre, ha rotolato via la pietra e ha cominciato ad aprire i nostri sepolcri, perche' la speranza non abbia fine. Verso di Lui, allora, anche noi dobbiamo alzare lo sguardo\".&nbsp;",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2358694,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "The Pope at the Easter Vigil, \"let us not be imprisoned by the evils of death\"",
+        "en_content": "AGI -&nbsp;The \"peaceful analytes\" broken by hatred and wars, \"the rubber walls of selfishness and indifference\" that prevent the construction of the most just city, the sufferings that leave \"uncolmable empties\", the fears that prevent us from doing good. These are some \"signs of death\", the tombstones present in our heart that steal the force of moving forward.&nbsp;Papa&nbsp;Francesco, in the homily of the Easter Vigil of the Holy Night, which they have assisted in the Basilica of St. Peter 6,000 faithful,&nbsp; taking the passage of the Gospel, the women who go to the Sepulchre and the Easter announcement First women wonder who will roll the stone away; Then, looking up, they see that it has already been rolled.\" \"First of all - the Pontiff has explained - there is the question that assillates their heart broken by the pain: who will roll away the stone from the tomb? That stone was the end of Jesus' story buried in the night of death. He, the life coming into the world, was killed; He, who manifested the merciful love of the Father, did not receive mercy; He, who raised sinners from the weight of the condemnation, was condemned to the cross. The Prince of Peace, who had liberated an adulterer from the violent fury of the stones, lies buried behind a large stone. That rock, insurmountable obstacle, was the symbol of what women brought into their hearts, the corner of their hope: against it everything had broken, with the dark mystery of a tragic pain that had prevented their dreams to come true.\" &nbsp;\n&nbsp;\n\"Brothers and sisters, this can also happen to us - Francis added -. Sometimes we feel that a tombstone was heavily rested at the entrance of our heart, suffocating life, extinguishing trust, imprisoning us in the tomb of fears and bitterness, blocking the way to joy and hope. They are 'evils of death' and we meet them, along the way, in all those experiences and situations that steal the enthusiasm and the strength to move forward: in the sufferings that touch us and in the dead of the loved ones, who leave in us unknowing empties; we meet them in the failures and fears that prevent us from fulfilling what good we have at heart; We find them in all the closures that restrain our gnashings of generosity and do not allow us to open ourselves to love; we find them in the rubber walls of selfishness - they are real rubber walls - and indifference, which reject the commitment to build cities and societies more just and to measure of man; We find them in all the desires of peace broken by the cruelty of hatred and the ferocity of war.\" \"When we experience these disappointments, we have the feeling that so many dreams are destined to be broken and we also ask ourselves distressed: who will break the stone from the tomb?\" Yet, he continued the &nbsp;Papa, \"the same women who had the darkness in the heart testify to us something extraordinary: When they looked up, they observed that the stone was already rolled, but it was very big.\" \"Behold the Passover of Christ, behold the strength of God: the victory of life on death, the triumph of light on darkness, the rebirth of hope within the rubble of failure. It is the Lord, God of the impossible that, forever, has rolled away the stone and began to open our tombs, so that hope does not end. Towards him, then, we must also look up.\" &nbsp;",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Easter",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Vigil",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "evils",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "the Easter Vigil",
+                "start_char": 12,
+                "end_char": 28,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Easter Vigil of the Holy Night",
+                "start_char": 409,
+                "end_char": 443,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Basilica",
+                "start_char": 477,
+                "end_char": 485,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "6,000",
+                "start_char": 499,
+                "end_char": 504,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gospel",
+                "start_char": 547,
+                "end_char": 553,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sepulchre",
+                "start_char": 579,
+                "end_char": 588,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Easter",
+                "start_char": 597,
+                "end_char": 603,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "First",
+                "start_char": 617,
+                "end_char": 622,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "First",
+                "start_char": 728,
+                "end_char": 733,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 911,
+                "end_char": 916,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the night",
+                "start_char": 934,
+                "end_char": 943,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "us",
+                "start_char": 2057,
+                "end_char": 2059,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Behold the Passover of Christ",
+                "start_char": 2991,
+                "end_char": 3020,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Mattarella chiama il padre di Ilaria Salis. \"Vi sono vicino\"",
+        "date_raw": "Sat, 30 Mar 2024 20:23:17 GMT",
+        "date": "2024-03-30",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-30/caso-salis-mattarella-chiama-padre-ilaria-grande-vicinanza-25864104/",
+        "subtitle": "",
+        "content": "AGI - \"Grande vicinanza e interessamento\" al caso della figlia Ilaria sono stati espressi stamattina dal Presidente della Repubblica Sergio Mattarella >in una telefonata a Roberto Salis>. Lo apprende l'AGI da fonti legali. Sergio Mattarella ha telefonato stamattina al padre di Ilaria Salis> per esprimergli la sua vicinanza: nel corso del colloquio il presidente della Repubblica ha detto che sperava fossero giorni diversi e che comprendeva bene il suo stato d'animo. Mattarella ha anche assicurato che farà quanto è nelle sue possibilità, che non sono ampie sul piano operativo e passano ovviamente attraverso il governo. Salis ha ringraziato molto per la chiamata e la velocità del riscontro e ha spiegato che, con la sua lettera, voleva segnalare la disparità di trattamento tra due cittadini italiani. Il Capo dello Stato gli ha risposto che si tratta della differenza tra il nostro sistema, ispirato ai valori europei, e il loro sistema; e che questa disparità colpisce la nostra pubblica opinione. Salis ha ringraziato e Mattarella gli ha assicurato che più avanti si potranno risentire.&nbsp; \n&nbsp; \nLa telefonata del Capo dello Stato arriva dopo che ieri Roberto Salis gli aveva inviato una mail chiedendo un suo intervento e di \"smuovere il governo che non ha fatto nulla\". Ilaria Salis è reclusa nel carcere di Budapest da 13 mesi con l'accusa di avere aggredito due militanti di estrema destra>. I giudici magiari hanno respinto più volte la richiesta di scarcerarla e concederle i domiciliari, l'ultima due giorni fa. \n&nbsp; \nLa difesa ha già presentato un ricorso contro questa decisione, in vista della prossima udienza prevista il 24 maggio, e annunciato che si rivolgerà anche alla Corte Europea dei Diritti dell'Uomo chiedendo la condanna dell'Ungheria per le condizioni \"inumane e degradanti\" riservate all'insegnante. Nella lettera al Presidente Mattarella, Salis faceva riferimento anche al diverso trattamento riservato a Gabriele Marchesi>, il giovane imputato in Ungheria per gli stessi reati di Ilaria. La Corte d'Appello di Milano ha respinto per lui la richiesta di consegna da parte dell'Ungheria sottolineando il rischio di una detenzione che non rispetti i diritti inviolabili della persona. \n<h2>Il padre della donna non esclude i domiciliari</h2> \nRoberto Salis non esclude che alla figlia possano essere concessi i domiciliari in Ungheria >anche prima della prossima udienza, fissata per il 24 maggio. \"Abbiamo fatto ricorso e ora la decisione sui domiciliari passa ai giudici di secondo grado, magari ci potrebbe essere qualche opportunità anche prima del 24 maggio\", ha dichiarato a RaiNews24. \"Credo che debba essere intrapresa un'azione con un piglio diverso da parte dell'esecutivo\", ha aggiunto Salis, \"la separazione dei poteri in Ungheria è una barzelletta: se il governo italiano premerà in modo adeguato può esserci un ripensamento\". \n&nbsp; \nIl padre della donna in carcere a Budapest&nbsp;ha definito \"un passo verso la giusta direzione\" la scelta della Corte d'Appello di Milano di respingere la richiesta di estradizione per Marchesi. Commentando la telefonata ricevuta dal presidente della Repubblica, Salis si è detto \"molto felice\": \"Non mi aspettavo una risposta così rapida. >Noto che su casi così gravi alcune istituzioni hanno il giusto senso di urgenza, mi ha colpito un rappresentante delle istituzioni capace di essere empatico con i cittadini, l'ho molto apprezzato\". La chiamata è arrivata all'indomani della lettera inviata al Quirinale dallo stesso Salis dopo che giovedì un tribunale di Budapest aveva detto no ai domiciliari. \n<h2>\"Un caso politico creato da Orban\"</h2> \n\"Questo è un caso politico, perché l'ha creato Orban come tale, non c'è assolutamente nessuna motivazione per istruire un processo così duro nei confronti di mia figlia, è diventato così duro semplicemente perché mia figlia serve da esempio politicamente a Orban per le sue questioni, le questioni interne al suo Paese\", ha aggiunto Roberto Salis, intervenendo in collegamento video a \"Chesarà...\" su Rai 3, dove si è anche discusso sull'opportunità o meno di creare un caso mediatico a tutela della donna in carcere a Budapest da oltre 13 mesi con l'accusa di aver aggredito tre militanti di estrema destra. \n&nbsp; \n\"Io questi pizzini che mi vengono dati da alcuni 'se vuoi bene a tua figlia devi stare zitto' li rimando tutti direttamente - ha concluso il padre di Ilaria - è un atteggiamento inaccettabile a mio avviso\".&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2358904,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Mattarella calls Ilaria Salis' father. \"I'm close to you\"",
+        "en_content": "AGI - \"Great proximity and interest\" to the case of his daughter Ilaria were expressed this morning by the President of the Republic Sergio Mattarella >in a phone call to Roberto Salis>. He learns AGI from legal sources. Sergio Mattarella called the father of Ilaria Salis> this morning to express his closeness: in the course of the interview the President of the Republic said that he hoped they were different days and that he well understood his state of mind. Mattarella also assured that it will do what it is in its possibilities, that they are not wide on the operating plane and pass obviously through the government. Salis thanked a lot for the call and speed of the reply and explained that, with his letter, he wanted to signal the disparity of treatment between two Italian citizens. The Head of State told him that this is the difference between our system, inspired by European values, and their system; and that this disparity affects our public opinion. Salis thanked him and Mattarella assured him that later you will be able to resent. &nbsp;\n&nbsp;\nThe call of the Head of State arrives after yesterday Roberto Salis sent him an email asking for his intervention and \"to move the government that did nothing\". Ilaria Salis has been recruited in the prison of Budapest for 13 months with the accusation of having assaulted two militants of extreme right >. The magic judges have repeatedly rejected the request to discard her and grant her the domiciles, the last two days ago.\n&nbsp;\nThe defence has already filed an appeal against this decision, in view of the forthcoming hearing scheduled on 24 May, and announced that it will also address the European Court of Human Rights asking for the condemnation of Hungary for the \"inhuman and degrading\" conditions reserved to the teacher. In the letter to President Mattarella, Salis also referred to the different treatment reserved to Gabriele Marchesi>, the young defendant in Hungary for the same crimes of Ilaria. The Court of Appeal of Milan rejected for him the request for delivery by Hungary underlining the risk of a detention that does not respect the inviolable rights of the person.\n<h2> Women's father does not exclude domiciles\nRoberto Salis does not exclude that the daughter can be granted domiciles in Hungary > even before the next hearing, scheduled for May 24. \"We appealed and now the decision on domiciles passes to second-degree judges, perhaps there might be some opportunity even before May 24th,\" said RaiNews24. \"I believe that action should be taken with a different piglio from the executive,\" added Salis, \"the separation of powers in Hungary is a joke: if the Italian government will press properly there may be a rethink.\"\n&nbsp;\nThe father of the woman in prison in Budapest&nbsp; he defined \"a step towards the right direction\" the choice of the Court of Appeal of Milan to reject the request for extradition for Marchesi. Commenting on the call received by the President of the Republic, Salis said \"very happy\": \"I didn't expect such a quick answer. >Note that on such serious cases some institutions have the right sense of urgency, I was struck by a representative of the institutions capable of being empathic with the citizens, I highly appreciated it\". The call came to the next day of the letter sent to Quirinale by Salis himself after Thursday a court in Budapest had said no to the domiciles.\n<h2> A political case created by Orban\n\"This is a political case, because Orban created it as such, there is absolutely no motivation to instruct such a harsh process towards my daughter, it became so hard simply because my daughter serves as an example politically to Orban for her issues, the internal issues to her country,\" added Roberto Salis, intervening in video linking to \"Chesarà...\" on Rai 3, where she also discussed the extreme opportunity to protect a militant woman.\n&nbsp;\n\"I have these little pinches that are given to me by some 'if you love your daughter you have to shut up' I send them all directly - concluded Ilaria's father - it is an unacceptable attitude to me.\" &nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ilaria",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salis",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "father",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ilaria Salis'",
+                "start_char": 17,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ilaria",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this morning",
+                "start_char": 87,
+                "end_char": 99,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Republic Sergio Mattarella",
+                "start_char": 120,
+                "end_char": 150,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Roberto Salis",
+                "start_char": 171,
+                "end_char": 184,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sergio Mattarella",
+                "start_char": 221,
+                "end_char": 238,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 260,
+                "end_char": 272,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this morning",
+                "start_char": 274,
+                "end_char": 286,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "days",
+                "start_char": 413,
+                "end_char": 417,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 775,
+                "end_char": 778,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 779,
+                "end_char": 786,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "State",
+                "start_char": 809,
+                "end_char": 814,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 884,
+                "end_char": 892,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 993,
+                "end_char": 1003,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "State",
+                "start_char": 1093,
+                "end_char": 1098,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 1113,
+                "end_char": 1122,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Roberto Salis",
+                "start_char": 1123,
+                "end_char": 1136,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 1230,
+                "end_char": 1242,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 1279,
+                "end_char": 1287,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "13 months",
+                "start_char": 1292,
+                "end_char": 1301,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 1342,
+                "end_char": 1345,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the last two days ago",
+                "start_char": 1474,
+                "end_char": 1495,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "24 May",
+                "start_char": 1615,
+                "end_char": 1621,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the European Court of Human Rights",
+                "start_char": 1663,
+                "end_char": 1697,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hungary",
+                "start_char": 1729,
+                "end_char": 1736,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 1832,
+                "end_char": 1842,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Salis",
+                "start_char": 1844,
+                "end_char": 1849,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gabriele Marchesi",
+                "start_char": 1903,
+                "end_char": 1920,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 1946,
+                "end_char": 1953,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 1977,
+                "end_char": 1983,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Court of Appeal of Milan",
+                "start_char": 1985,
+                "end_char": 2013,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hungary",
+                "start_char": 2059,
+                "end_char": 2066,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Roberto Salis",
+                "start_char": 2209,
+                "end_char": 2222,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 2286,
+                "end_char": 2293,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "May 24",
+                "start_char": 2340,
+                "end_char": 2346,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "second",
+                "start_char": 2405,
+                "end_char": 2411,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "May 24th",
+                "start_char": 2479,
+                "end_char": 2487,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Salis",
+                "start_char": 2596,
+                "end_char": 2601,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 2632,
+                "end_char": 2639,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 2658,
+                "end_char": 2665,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Court of Appeal of Milan",
+                "start_char": 2843,
+                "end_char": 2871,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Marchesi",
+                "start_char": 2914,
+                "end_char": 2922,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Republic",
+                "start_char": 2976,
+                "end_char": 2988,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Salis",
+                "start_char": 2990,
+                "end_char": 2995,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the next day",
+                "start_char": 3278,
+                "end_char": 3290,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Quirinale",
+                "start_char": 3313,
+                "end_char": 3322,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Salis",
+                "start_char": 3326,
+                "end_char": 3331,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 3346,
+                "end_char": 3354,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 3366,
+                "end_char": 3374,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Orban",
+                "start_char": 3438,
+                "end_char": 3443,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Orban",
+                "start_char": 3479,
+                "end_char": 3484,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Orban",
+                "start_char": 3674,
+                "end_char": 3679,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Roberto Salis",
+                "start_char": 3739,
+                "end_char": 3752,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chesarà",
+                "start_char": 3787,
+                "end_char": 3794,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rai 3",
+                "start_char": 3802,
+                "end_char": 3807,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 4037,
+                "end_char": 4043,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Sedicenne si impicca in casa, l'ombra di una challenge",
+        "date_raw": "Sat, 30 Mar 2024 17:53:05 GMT",
+        "date": "2024-03-30",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-30/sedicenne-impiccato-in-casa-a-teramo-ipotesi-challenge-25865259/",
+        "subtitle": "",
+        "content": "AGI - È tutta da chiarire la tragedia che si è consumata ieri sera, attorno alle 23.30, in un'abitazione della frazione di Campo a mare>&nbsp; nel Teramano, dove vive una famiglia originaria dei paesi dell'Est Europa. Il corpo agonizzante di un 16enne è stato trovato dal fratello di 12 anni, in camera da letto. Quando sul posto sono giunti i soccorritori del 118, purtroppo non c'era più nulla da fare per il ragazzo. Sono bastati pochi sufficienti per capire che il 16enne si era tolto la vita strangolandosi> con una cintura per abiti. Non è però chiaro se si tratti di un gesto volontario o piuttosto di un tragico gioco. \n&nbsp; \nNon è infatti escluso che il 16enne possa aver partecipato a una 'challenge' in una videochat> o giochi online in cui gli iscritti sarebbero indotti a provocarsi lesioni, fino a gesti estremi. Su disposizione dell'autorità giudiziaria i carabinieri hanno sequestrato il personal computer e il cellulare del ragazzo, mentre la salma è stata trasferita all'obitorio dell'ospedale di Teramo e messa a disposizione del pm per l'autopsia. Da una prima sul cadavere, l'anatomopatologo non ha rilevato lividi o tracce di percosse che possano far pensare a una morte violenta. \n&nbsp; \nI familiari non si spiegano le ragioni del gesto: il 16enne, che non ha lasciato scritto nulla sulla propria volontà suicidaria, è stato descritto dai suoi insegnanti come uno studente dagli ottimi risultati scolastici e dai comportamenti rispettosi e tranquilli.> Le indagini sono affidate ai carabinieri, la Procura di Teramo ha comunque aperto un fascicolo contro ignoti proprio per permettere lo svolgimento delle indagini a 360 gradi.",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2359092,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Sedicenne hangs in the house, the shadow of a challenge",
+        "en_content": "AGI - It is all to clarify the tragedy that was consumed last night, around 23.30, in a house of the hamlet of Campo a mare>&nbsp; in Teramano, where lives a family native to the countries of Eastern Europe. The agonizing body of a 16-year-old was found by the 12-year-old brother in the bedroom. When the rescuers of 118 arrived on the spot, unfortunately there was nothing left to do for the boy. It is enough to understand that the 16-year-old had removed his life by strangling > with a belt for clothes. But it is not clear whether it is a voluntary gesture or rather a tragic game.\n&nbsp;\nIt is not in fact excluded that the 16-year-old may have participated in a 'challenge' in a videochat> or online games in which members would be induced to provoke injuries, up to extreme gestures. At the disposal of the judicial authority the carabinieri seized the personal computer and the cell phone of the boy, while the psalm was transferred to the morgue of the hospital of Teramo and made available to the pm for the autopsy. From a first on the corpse, the anatomicalologist did not detect bruises or traces of shells that could cause a violent death.\n&nbsp;\nFamily members do not explain the reasons for the gesture: the 16-year-old, who has not written anything about his suicidal will, has been described by his teachers as a student with excellent school results and respectful and calm behaviors.> The investigations are entrusted to the carabinieri, the Prosecutor of Teramo has however opened a file against unknown to allow the carrying out of investigations to 360 degrees.",
+        "concepts": [
+            {
+                "word": "Sedicenne",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "house",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "shadow",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "challenge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "last night",
+                "start_char": 57,
+                "end_char": 67,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "23.30",
+                "start_char": 76,
+                "end_char": 81,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Campo",
+                "start_char": 111,
+                "end_char": 116,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Teramano",
+                "start_char": 134,
+                "end_char": 142,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Eastern Europe",
+                "start_char": 192,
+                "end_char": 206,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "16-year-old",
+                "start_char": 232,
+                "end_char": 243,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "12-year-old",
+                "start_char": 261,
+                "end_char": 272,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "118",
+                "start_char": 318,
+                "end_char": 321,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "16-year-old",
+                "start_char": 435,
+                "end_char": 446,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16-year-old",
+                "start_char": 631,
+                "end_char": 642,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Teramo",
+                "start_char": 976,
+                "end_char": 982,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 1036,
+                "end_char": 1041,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Family",
+                "start_char": 1163,
+                "end_char": 1169,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "16-year-old",
+                "start_char": 1226,
+                "end_char": 1237,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Teramo",
+                "start_char": 1478,
+                "end_char": 1484,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "360 degrees",
+                "start_char": 1574,
+                "end_char": 1585,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Pasqua con l'ombrello nelle regioni settentrionali",
+        "date_raw": "Sat, 30 Mar 2024 17:28:55 GMT",
+        "date": "2024-03-30",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-30/maltempo-previsioni-pasqua-allerta-gialla-arancione-25867006/",
+        "subtitle": "",
+        "content": "AGI - Pasqua con l'ombrello nelle regioni settentrionali dell'Italia, specie a Nord-Ovest: la Protezione civile ha diramato un'allerta arancione per il maltempo >su alcune zone della Lombardia e gialla per aree di altre sei regioni, la stessa Lombardia, Liguria, Piemonte, Valle d'Aosta, Trentino Alto Adige e Veneto. L'allerta arancione per rischio idrogeologico> riguarda Laghi e Prealpi Varesine, Lario e Prealpi occidentali e Orobie bergamasche. \n&nbsp; \nLe giornate di Pasqua e Pasquetta saranno caratterizzate da una <a href=\"https://www.agi.it/cronaca/news/2024-03-30/meteo-italia-maltempo-nord-bello-centrosud-25864460/\">marcata instabilità </a>con il primo caldo africano al Sud>, soprattutto in Sicilia e in parte anche al Centro, e piogge e temporali portati dalle correnti atlantiche al Nord dove ci sarà un'intensificazione delle precipitazioni la sera di Pasqua con nevicate a quote superiori ai 1400/1500 metri nell'area occidentale e centrale e oltre i 1600 metri nell'area orientale. La giornata di Pasquetta al mattino sono previsti altri rovesci al Nord e sulla Toscana, in estensione al resto del Centro tra l'ora di il pranzo e il pomeriggio. Al Sud, invece, sarà un'altra giornata quasi estiva. \n&nbsp; \nQuesto il dettaglio dell'allerta maltempo della Protezione civile per la giornata di Pasqua: \n<h3>Moderata criticità per rischio idrogeologico / allerta arancione:</h3> \n<ul> \n <li>Lombardia: Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche</li> \n</ul> \n<h3>Ordinaria criticità per rischio idraulico / allerta gialla:</h3> \n<ul> \n <li>Lombardia: Nodo Idraulico di Milano</li> \n <li>Piemonte: Toce, Valle Tanaro, Valli Varaita, Maira e Stura, Val Sesia, Cervo e Chiusella, Pianura settentrionale</li> \n <li>Trentino Alto Adige: Provincia Autonoma di Trento</li> \n</ul> \n<h3>Ordinaria criticità per rischio idrogeologico / allerta gialla:</h3> \n<ul> \n <li>Liguria: Bacini Liguri Marittimi di Ponente</li> \n <li>Lombardia: Valchiavenna, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Alta Valtellina, Nodo Idraulico di Milano</li> \n <li>Piemonte: Pianura Torinese e Colline, Pianura Cuneese, Toce, Valle Tanaro, Valli Varaita, Maira e Stura, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Pianura settentrionale</li> \n <li>Trentino Alto Adige: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano</li> \n <li>Valle d'Aosta: Valle d'Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthe'lemy e Valtournenche, Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne, Bassa Valle d'Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d'Ayas, Valle di Champorcher e Valle di Gressoney, Valle di Cogne, Valsavarenche e Valle di Rhemes</li> \n <li>Veneto: Alto Piave, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano.&nbsp;</li> \n</ul>",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1711897220.2359266,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-03-31 17:00:20",
+        "filename": "ner_conc_en_2024-03-31T17.00.19E1711904419.750729.json",
+        "en_title": "Easter with umbrella in the northern regions",
+        "en_content": "AGI - Easter with umbrella in the northern regions of Italy, especially in the North West: the Civil Protection has issued an orange alert for bad weather > on some areas of Lombardy and yellow for areas of other six regions, the same Lombardy, Liguria, Piedmont, Aosta Valley, Trentino Alto Adige and Veneto. The orange alert for hydrogeological risk > concerns Lakes and Prealps Varesine, Lario and Western Prealps and Orobie bergamasche.\n&nbsp;\nThe Easter and Easter days will be characterized by a <a href=\"https://www.agi.it/cronaca/news/2024-03-30/meteo-italia-maltempo-nord-bello-centrosud-25864460/\"> marked instability </a> with the first African heat to the South>, especially in Sicily and partly also in the Centre, and rains and The day of Pasquetta in the morning there are other rounds in the North and Tuscany, in extension to the rest of the Centre between lunch and afternoon. In the South, instead, it will be another almost summer day.\n&nbsp;\nThis is the detail of the bad weather alert of civil protection for the Easter day:\n<h3>Moderata criticalità for hydrogeological risk / orange alert:</h3>\n<\n<li>Lombardy: Lakes and Prealps Varesine, Lario and Western Prealps, Orobie bergamasche</li>\n</ul\n<h3> Hydraulic risk/yellow alert:</h3>\n<\n<li>Lombardy: Hydraulic node of Milan</li>\n<li>Piemonte: Toce, Valle Tanaro, Valli Varaita, Maira e Stura, Val Sesia, Cervo e Chiusella, Pianura nord</li>\n<li>Trentino South Tyrol: Autonomous Province of Trento\n</ul\n<h3> Hydeological risk/yellow alert:</h3>\n<\nLiguria: Bacini Liguri Marittimi di Ponente</li>\n<li>Lombardy: Valchiavenna, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Alta Valtellina, Nodo Hydraulico di Milano</li>\n<li>Piemonte: Pianura Torinese e Colline, Pianura Cuneese, Toce, Valle Tanaro, Valli Varaita, Maira e Stura, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Pianura nord</li>\n<li>Trentino South Tyrol: Autonomous Province of Trento, Autonomous Province of Bolzano</li>\n<li> Aosta Valley: Valle d'Aosta, Valle del Gran San Bernardo from Aosta to Valpelline,Valle di Saint-Barthe'lemy e Valtournenche, North and North-West Dorsale, Valgrisenche e Valdigne, Bassa Valle d'Aosta, from Gola di Montjovet to Pont-Saint-Martin, Valle del torrente Chalamy, Valle d'Ayas, Valle di Champorcher\n<li>Veneto: Alto Piave, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano. &nbsp;</li>\n</ul",
+        "concepts": [
+            {
+                "word": "Easter",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "umbrella",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "regions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italy",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the North West",
+                "start_char": 75,
+                "end_char": 89,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Civil Protection",
+                "start_char": 91,
+                "end_char": 111,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lombardy",
+                "start_char": 174,
+                "end_char": 182,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "six",
+                "start_char": 213,
+                "end_char": 216,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 245,
+                "end_char": 252,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Piedmont",
+                "start_char": 254,
+                "end_char": 262,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Aosta Valley",
+                "start_char": 264,
+                "end_char": 276,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trentino",
+                "start_char": 278,
+                "end_char": 286,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alto Adige",
+                "start_char": 287,
+                "end_char": 297,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Veneto",
+                "start_char": 302,
+                "end_char": 308,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lakes",
+                "start_char": 363,
+                "end_char": 368,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Prealps Varesine",
+                "start_char": 373,
+                "end_char": 389,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lario",
+                "start_char": 391,
+                "end_char": 396,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Western Prealps",
+                "start_char": 401,
+                "end_char": 416,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Orobie",
+                "start_char": 421,
+                "end_char": 427,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The Easter and Easter",
+                "start_char": 448,
+                "end_char": 469,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "news/2024-03-30",
+                "start_char": 538,
+                "end_char": 553,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 642,
+                "end_char": 647,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "African",
+                "start_char": 648,
+                "end_char": 655,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "South",
+                "start_char": 668,
+                "end_char": 673,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sicily",
+                "start_char": 690,
+                "end_char": 696,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Centre",
+                "start_char": 720,
+                "end_char": 726,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The day",
+                "start_char": 742,
+                "end_char": 749,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pasquetta",
+                "start_char": 753,
+                "end_char": 762,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 818,
+                "end_char": 825,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Centre",
+                "start_char": 859,
+                "end_char": 865,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "afternoon",
+                "start_char": 884,
+                "end_char": 893,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "South",
+                "start_char": 902,
+                "end_char": 907,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "another almost summer day",
+                "start_char": 929,
+                "end_char": 954,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Easter day",
+                "start_char": 1031,
+                "end_char": 1045,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Prealps Varesine",
+                "start_char": 1144,
+                "end_char": 1160,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lario",
+                "start_char": 1162,
+                "end_char": 1167,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Western Prealps",
+                "start_char": 1172,
+                "end_char": 1187,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Orobie",
+                "start_char": 1189,
+                "end_char": 1195,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valle Tanaro",
+                "start_char": 1322,
+                "end_char": 1334,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valli Varaita",
+                "start_char": 1336,
+                "end_char": 1349,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Maira e Stura",
+                "start_char": 1351,
+                "end_char": 1364,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Val Sesia",
+                "start_char": 1366,
+                "end_char": 1375,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cervo e Chiusella",
+                "start_char": 1377,
+                "end_char": 1394,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pianura",
+                "start_char": 1396,
+                "end_char": 1403,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trentino South Tyrol",
+                "start_char": 1418,
+                "end_char": 1438,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Autonomous Province of Trento",
+                "start_char": 1440,
+                "end_char": 1469,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 1519,
+                "end_char": 1526,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bacini Liguri Marittimi",
+                "start_char": 1528,
+                "end_char": 1551,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valchiavenna",
+                "start_char": 1582,
+                "end_char": 1594,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Media",
+                "start_char": 1596,
+                "end_char": 1601,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Valtellina",
+                "start_char": 1608,
+                "end_char": 1618,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Valcamonica",
+                "start_char": 1620,
+                "end_char": 1631,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alta Valtellina",
+                "start_char": 1660,
+                "end_char": 1675,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nodo Hydraulico di Milano</li",
+                "start_char": 1677,
+                "end_char": 1706,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pianura Torinese",
+                "start_char": 1722,
+                "end_char": 1738,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Colline",
+                "start_char": 1741,
+                "end_char": 1748,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pianura Cuneese",
+                "start_char": 1750,
+                "end_char": 1765,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Toce, Valle Tanaro",
+                "start_char": 1767,
+                "end_char": 1785,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Valli Varaita",
+                "start_char": 1787,
+                "end_char": 1800,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Maira e Stura",
+                "start_char": 1802,
+                "end_char": 1815,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Val Sesia",
+                "start_char": 1817,
+                "end_char": 1826,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cervo e Chiusella",
+                "start_char": 1828,
+                "end_char": 1845,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valli Orco",
+                "start_char": 1847,
+                "end_char": 1857,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lanzo e Sangone",
+                "start_char": 1859,
+                "end_char": 1874,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pianura",
+                "start_char": 1876,
+                "end_char": 1883,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trentino South Tyrol",
+                "start_char": 1898,
+                "end_char": 1918,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Autonomous Province of Trento",
+                "start_char": 1920,
+                "end_char": 1949,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Autonomous Province",
+                "start_char": 1951,
+                "end_char": 1970,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Aosta Valley",
+                "start_char": 1992,
+                "end_char": 2004,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Valle d'Aosta",
+                "start_char": 2006,
+                "end_char": 2019,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Valle del Gran",
+                "start_char": 2021,
+                "end_char": 2035,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aosta",
+                "start_char": 2054,
+                "end_char": 2059,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Valpelline",
+                "start_char": 2063,
+                "end_char": 2073,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Valtournenche",
+                "start_char": 2103,
+                "end_char": 2116,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "North",
+                "start_char": 2118,
+                "end_char": 2123,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "North-West Dorsale",
+                "start_char": 2128,
+                "end_char": 2146,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bassa Valle d'Aosta",
+                "start_char": 2173,
+                "end_char": 2192,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gola di Montjovet",
+                "start_char": 2199,
+                "end_char": 2216,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Valle",
+                "start_char": 2239,
+                "end_char": 2244,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chalamy",
+                "start_char": 2258,
+                "end_char": 2265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Valle",
+                "start_char": 2267,
+                "end_char": 2272,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Valle di Champorcher",
+                "start_char": 2281,
+                "end_char": 2301,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Veneto",
+                "start_char": 2306,
+                "end_char": 2312,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alto Piave",
+                "start_char": 2314,
+                "end_char": 2324,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alto Brenta-Bacchiglione-Alpone",
+                "start_char": 2326,
+                "end_char": 2357,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

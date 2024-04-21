@@ -1,0 +1,2206 @@
+[
+    {
+        "title": "Inaugurato il canale WhatsApp Basilica di San Francesco Assisi",
+        "date_raw": "Mon, 25 Mar 2024 18:47:02 +0100",
+        "date": "2024-03-25",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/25/inaugurato-il-canale-whatsapp-basilica-di-san-francesco-assisi_9c1479db-4b91-4f4f-908e-28317c8cd1bc.html",
+        "subtitle": "Si arricchisce offerta della comunicazione dei frati francescani",
+        "content": "\n                                                \n            La comunità dei frati del\nSacro convento di Assisi ha inaugurato il canale WhatsApp\n\"Basilica di San Francesco in Assisi\". Si arricchisce quindi\nl'offerta della comunicazione dei frati francescani sui nuovi\nmedia e tanti giovani hanno già aderito a questa modalità di\nrelazione e comunicazione.\n                                    \n                                       \n\t\t\t\t   \"Vogliamo essere ancora più vicini alle persone - ha spiegato\nfra Giulio Cesareo, direttore dell'ufficio comunicazione del\nSacro convento -, secondo uno stile rispettoso basato sulla\nlibera adesione, come ci testimonia e ci invita a fare san\nFrancesco\".\n                                    \n                                       \n\t\t\t\t   In particolare, la campagna di promozione del canale è\nassociata a un itinerario spirituale di accompagnamento alla\nPasqua attraverso dei video quotidiani che propongono una breve\nriflessione biblica e francescana a partire dai Vangeli delle\nliturgie della Settimana santa fino a Pasqua. Il percorso è\nguidato da fra Riccardo Giacon e fra Giulio Cesareo. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 18,
+        "placed": "Politica",
+        "epoch": 1711476057.2818503,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Inaugurated the WhatsApp channel Basilica of San Francesco Assisi",
+        "en_content": "The community of friars\nSacred convent of Assisi inaugurated the WhatsApp channel\n\"Basilica di San Francesco in Assisi\". It is enriched then\nthe offer of the communication of the Franciscan friars on the new\nmedia and many young people have already adhered to this mode of\nrelationship and communication.\n\n\n\"We want to be even closer to people - he explained\nFra Giulio Cesareo, Director of the Communication Office\nSacred convent -, according to a respectful style based on\nfree adhesion, as he testifies and invites us to do san\nFrancis.\"\n\n\nIn particular, the channel promotion campaign is\nassociated with a spiritual itinerary accompanying the\nEaster through daily videos that propose a short\nBiblical and Franciscan reflection from the Gospels\nLiturgies of Holy Week until Easter. The route is\nled by Fra Riccardo Giacon and Fra Giulio Cesareo.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "WhatsApp",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "channel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Basilica",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "San",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Francesco",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Assisi",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "WhatsApp",
+                "start_char": 16,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Basilica",
+                "start_char": 33,
+                "end_char": 41,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "San Francesco Assisi",
+                "start_char": 45,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Sacred",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Assisi",
+                "start_char": 42,
+                "end_char": 48,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "WhatsApp",
+                "start_char": 65,
+                "end_char": 73,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Basilica di San Francesco",
+                "start_char": 83,
+                "end_char": 108,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Assisi",
+                "start_char": 112,
+                "end_char": 118,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Franciscan",
+                "start_char": 179,
+                "end_char": 189,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Fra Giulio Cesareo",
+                "start_char": 359,
+                "end_char": 377,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Communication Office\nSacred",
+                "start_char": 391,
+                "end_char": 422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "san\nFrancis",
+                "start_char": 527,
+                "end_char": 538,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter",
+                "start_char": 647,
+                "end_char": 653,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Biblical",
+                "start_char": 696,
+                "end_char": 704,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Franciscan",
+                "start_char": 709,
+                "end_char": 719,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gospels",
+                "start_char": 740,
+                "end_char": 747,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Easter",
+                "start_char": 777,
+                "end_char": 783,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fra Riccardo Giacon",
+                "start_char": 805,
+                "end_char": 824,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Calenda, candidarmi in Ue? Orientato per il no ma valuteremo",
+        "date_raw": "Tue, 26 Mar 2024 12:11:47 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/calenda-candidarmi-in-ue-orientato-per-il-no-ma-valuteremo_33c38ebf-6e32-41c6-b84c-7d855e6b59c1.html",
+        "subtitle": "'Nessuna alleanza con Renzi, Mastella e Cuffaro'",
+        "content": "\n                                                \n            \"Il mio orientamento è di non farlo\",\nma \"valuterò con i miei\" anche in base alla scelta che faranno\ngli altri leader di partito. Lo ha detto il leader di Azione\nCarlo Calenda, ospite di Rainews 24, a chi gli ha chiesto  se\npersonalmente si candiderà alle europee. Calenda ha ribadito\ncome sia \"disponibile\" ad un progetto con Più Europa ma \"non\" ad\nuna \"operazione con Renzi, Mastella, Cuffaro\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 12,
+        "placed": "Politica",
+        "epoch": 1711476057.590746,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Calenda, run for me in the EU? Orientated for the no but we will assess",
+        "en_content": "\"My orientation is not to do it,\"\nbut I will \"valute with my\" also according to the choice they will\nthe other party leaders. The leader of Action said that\nCarlo Calenda, guest of Rainews 24, who asked if\npersonally will run for the Europeans. Calenda reiterated\nhow it is \"available\" to a project with More Europe but \"not\" to\nan operation with Renzi, Mastella, Cuffaro.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Calenda",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Calenda",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 27,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Action",
+                "start_char": 140,
+                "end_char": 146,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Carlo Calenda",
+                "start_char": 157,
+                "end_char": 170,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rainews 24",
+                "start_char": 181,
+                "end_char": 191,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europeans",
+                "start_char": 234,
+                "end_char": 243,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Calenda",
+                "start_char": 245,
+                "end_char": 252,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 309,
+                "end_char": 315,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Renzi",
+                "start_char": 347,
+                "end_char": 352,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cuffaro",
+                "start_char": 364,
+                "end_char": 371,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Todde si insedia in Regione, passaggio di consegne con Solinas",
+        "date_raw": "Mon, 25 Mar 2024 18:38:26 +0100",
+        "date": "2024-03-25",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/25/todde-si-insedia-in-regione-passaggio-di-consegne-con-solinas_54b5768f-7797-42d2-87f1-1e4a2a287c74.html",
+        "subtitle": "Al centro discussione su vari dossier, 'voglio essere operativa'",
+        "content": "\n                                                \n            Tutti i principali dossier, tra\ncui le emergenze, come sanità e trasporti con la scadenza del\nbando sulla continuità territoriale. Il passaggio di consegne\ntra il presidente uscente della Regione Christian Solinas e la\nprima donna governatrice della Sardegna è durato quasi tre ore,\nnella sede istituzionale della Regione a Villa Devolto, a\nCagliari.\n                                    \n                                       \n\t\t\t\t   Una sede che resterà soltanto di rappresentanza, annuncia\nTodde, la presidente vuole avere la sua base ufficiale nella\nsede operativa della Regione in viale Trento: \"Perché penso che\nsia importante essere operativi, avere contezza di ciò che\naccade negli uffici, nelle direzioni, avere la possibilità di\nparlare con con gli assessorati quando c'è bisogno. Voglio\nessere un presidente operativo, quindi mi sembra la sede\nmigliore per me - sottolinea - penso che si addica a ciò che\nsono\". E nel palazzo di viale Trento la presidente si è voluta\nrecare subito dopo \"per completare il passaggio anche lì\".\n                                    \n                                       \n\t\t\t\t   \"Abbiamo parlato di tanti temi che sono importantissimi, a\ncui bisognerà dare continuità amministrativa - ha spiegato Todde\n-. Ci sono anche degli atti in scadenza e bisognerà ovviamente\nlavorare subito\". Per Todde sono diverse le cose su cui si può\ndare continuità, \"per esempio sul tema commissariale - risponde\n- ci siamo confrontati, io sono estremamente contenta della\nscelta del commissario per le bonifiche della Maddalena e per\nesempio questa è una cosa che porterò avanti con continuità\".\n                                    \n                                       \n\t\t\t\t   Con Solinas un incontro sereno, lo precisa lui stesso\nrispondendo alle sollecitazioni dei giornalisti sulle scaramucce\nelettorali: \"Una cosa è la campagna elettorale, qui oggi c'era\nun incontro tra due istituzioni, una uscente e una che sta\nentrando ad assumere appieno il proprio ruolo e quindi il\nregistro del confronto è stato un registro assolutamente\nistituzionale e di rispetto\".\n                                    \n                                       \n\t\t\t\t   Per il segretario del Psd'Az si conclude \"un ciclo che ho\nvissuto con spirito di servizio, cercando di adempiere al mio\nruolo con disciplina e onore\", Abbiamo parlato veramente di\ntutto, a partire dai trasporti, poi di sanità, di industria, di\npersonale, l'intero insieme delle gestioni anche commissariali\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 19,
+        "placed": "Politica",
+        "epoch": 1711476057.6042523,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Todde settles in the Region, passage of deliveries with Solinas",
+        "en_content": "All major dossiers, between\nwhere emergencies, such as health and transport with the expiry of\ncall on territorial continuity. The passage of deliveries\nbetween the outgoing president of the Christian Solinas Region and the\nfirst female ruler of Sardinia lasted almost three hours,\nin the institutional headquarters of the Region at Villa Devolto,\nCagliari.\n\n\nA seat that will remain only representative, announces\nTodde, the president wants to have his official base in\nheadquarters of the Region in viale Trento: \"Because I think\nit is important to be operational, to be aware of what\nhappens in the offices, in the directions, having the possibility of\ntalk to the city councillors when you need it. I want\nbeing an operational president, so it seems to me the seat\nbetter for me - he emphasizes - I think he is dedicated to what\nI am.\" And in the palazzo of Viale Trento the president wanted\ngo immediately after \"to complete the passage also there\".\n\n\n\"We talked about so many themes that are very important,\nwhich will have to give administrative continuity - Todde explained\n- Yeah. There are also acts of expiry and of course we will have to\nwork now.\" For Todde are different things you can\ngive continuity, \"for example on the topic of the Commissioner - reply\nI'm very happy with that.\nchoice of the commissioner for the reclamation of La Maddalena and for\nexample this is something I will carry on with continuity.\"\n\n\nWith Solinas a serene meeting, he points out himself\nresponding to the demands of journalists on scaramucce\nvoters: \"One thing is the election campaign, here today was\na meeting between two institutions, one outgoing and one\nby entering fully into its role and therefore the\nComparison log was a register absolutely\ninstitutional and respect.\"\n\n\nFor the secretary of the Psd'Az concludes \"a cycle I have\nlived with a spirit of service, trying to fulfill my\nrole with discipline and honor,\" We really talked about\nall, from transport, then health, industry,\npersonal, the whole set of management also commissioners\".\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Todde",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Region",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "passage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deliveries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Solinas",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Todde",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Region",
+                "start_char": 21,
+                "end_char": 27,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Solinas",
+                "start_char": 56,
+                "end_char": 63,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Christian Solinas Region",
+                "start_char": 187,
+                "end_char": 215,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 224,
+                "end_char": 229,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 246,
+                "end_char": 254,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "almost three hours",
+                "start_char": 262,
+                "end_char": 280,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Villa Devolto",
+                "start_char": 333,
+                "end_char": 346,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Cagliari",
+                "start_char": 348,
+                "end_char": 356,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Todde",
+                "start_char": 415,
+                "end_char": 420,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Region",
+                "start_char": 491,
+                "end_char": 497,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Trento",
+                "start_char": 507,
+                "end_char": 513,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Viale Trento",
+                "start_char": 862,
+                "end_char": 874,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Todde",
+                "start_char": 1165,
+                "end_char": 1170,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "La Maddalena",
+                "start_char": 1347,
+                "end_char": 1359,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "One",
+                "start_char": 1547,
+                "end_char": 1550,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "today",
+                "start_char": 1588,
+                "end_char": 1593,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "between two",
+                "start_char": 1608,
+                "end_char": 1619,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one",
+                "start_char": 1651,
+                "end_char": 1654,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Comparison",
+                "start_char": 1705,
+                "end_char": 1715,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Psd'Az",
+                "start_char": 1801,
+                "end_char": 1807,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Via Crucis Colosseo, meditazioni per la prima volta del Papa",
+        "date_raw": "Tue, 26 Mar 2024 12:48:58 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/via-crucis-colosseo-meditazioni-per-la-prima-volta-del-papa_37a5bd10-41ba-4678-b98e-1aa311e63a1c.html",
+        "subtitle": "Tema: 'In preghiera con Gesù sulla via della Croce'",
+        "content": "\n                                                \n            E' stato Papa Francesco\nin persona a preparare le meditazioni per la Via Crucis che si\nterrà venerdì 29 marzo al Colosseo. E' la prima volta che la\npreparazione non vede il coinvolgimento di persone o gruppi,\ncome accaduto negli anni precedenti. Lo scorso anno le\nmeditazioni erano state preparate in Vaticano, mettendo insieme\nperò le testimonianze e i discorsi del Papa raccolti durante i\nviaggi apostolici. Negli anni passati c'erano state invece\npersone e gruppi che avevano scritto i testi incentrati su vari\ntemi, dai migranti alla famiglia, dal lavoro alla vita nelle\ncarceri.\n                                    \n                                       \n\t\t\t\t   \"Quest'anno sarà una Via Crucis molto meditativa\", spiega la\nsala stampa vaticana riferendo che il tema scelto è: \"In\npreghiera con Gesù sulla via della Croce\". I testi, che verranno\nresi noti venerdì, \"sono molto incentrati su Gesù e su quello\nche vive in quel momento, e da lì ci si allarga al mondo della\nsofferenza\", spiega ancora la sala stampa.\n                                    \n                                       \n\t\t\t\t   Una Via Crucis dunque di orazione nell'anno che Papa\nFrancesco ha voluto dedicare proprio alla preghiera in\npreparazione del Giubileo 2025. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Politica",
+        "epoch": 1711476057.7361047,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Via Crucis Colosseum, meditations for the first time of the Pope",
+        "en_content": "It was Pope Francis\nin person to prepare meditations for the Via Crucis\nwill hold Friday 29 March at the Colosseum. It's the first time\npreparation does not see the involvement of people or groups,\nas happened in previous years. Last year\nmeditations had been prepared in the Vatican, putting together\nbut the Pope's testimonies and speeches collected during\napostolic journeys. In the past years there had been\npeople and groups who had written the texts focused on various\nthemes, from migrants to family, from work to life in\nprisons.\n\n\n\"This year will be a very meditative Way of the Cross,\" explains the\nVatican press room referring that the theme chosen is: \"\nprayer with Jesus on the way of the Cross\". The texts, which will come\nmade known Friday, \"they are very focused on Jesus and on that\nthat lives at that moment, and from there it expands to the world of\nsuffering,\" explains the press room.\n\n\nA Via Crucis therefore of prayer in the year that Pope\nFrancis wanted to dedicate himself to prayer in\npreparation of the Jubilee 2025.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Via",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Crucis",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Colosseum",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "meditations",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "time",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Pope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Via Crucis Colosseum",
+                "start_char": 0,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Francis",
+                "start_char": 12,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Via Crucis",
+                "start_char": 57,
+                "end_char": 71,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Friday 29 March",
+                "start_char": 82,
+                "end_char": 97,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 125,
+                "end_char": 130,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "previous years",
+                "start_char": 213,
+                "end_char": 227,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Last year",
+                "start_char": 229,
+                "end_char": 238,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 276,
+                "end_char": 283,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the past years",
+                "start_char": 382,
+                "end_char": 396,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "This year",
+                "start_char": 541,
+                "end_char": 550,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 609,
+                "end_char": 616,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Jesus",
+                "start_char": 678,
+                "end_char": 683,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friday",
+                "start_char": 748,
+                "end_char": 754,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jesus",
+                "start_char": 782,
+                "end_char": 787,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the year",
+                "start_char": 944,
+                "end_char": 952,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Francis",
+                "start_char": 963,
+                "end_char": 970,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Jubilee 2025",
+                "start_char": 1026,
+                "end_char": 1042,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Governo assente, salta l'incardinamento dei ddl sul fine vita",
+        "date_raw": "Tue, 26 Mar 2024 17:28:59 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/governo-assente-salta-lincardinamento-dei-ddl-sul-fine-vita_1be76d2b-5150-41da-be9f-6e5be7a17dc1.html",
+        "subtitle": "Pd: inaccettabile la sconvocazione delle commissioni. Avs: grave affossare una legge necessaria&nbsp;",
+        "content": "Salta l'incardinamento in Senato dei disegni di legge sul fine vita, per l'assenza del governo, la cui presenza è necessaria in tutta l'attività parlamentare.I senatori delle Commissioni giustizia e Affari sociali, dove oggi i ddl sarebbero dovuti essere solo illustrati, hanno ricevuto una comunicazione con la sconvocazione della seduta, per l'assenza del governo.\"Siamo contrariati - ha commentato Alfredo Bazoli, capogruppo Pd in Giustizia e firmatario di una delle ddl - è evidente che c'è un problema politico, dato che per incardinare un provvedimento basta un qualsiasi sottosegretario\".   \"Sorprendente e inspiegabile che, a pochi minuti dall'inizio della seduta, siano state sconvocate le commissioni riunite per l'esame della legge sul fine vita. La motivazione, una improvvisa indisponibilità del governo, non è accettabile, perché si trattava di incardinare il provvedimento, di fare le relazioni introduttive e stabilire un calendario dei lavori, per il che bastava un sottosegretario privo di delega specifica. Ci auguriamo si tratti di un rinvio a brevissimo, perché non sarebbe accettabile un atteggiamento ostruzionistico da parte della maggioranza su un tema così importante sul quale il parlamento è in grave ritardo\". Così Alfredo Bazoli e Sandra Zampa, rispettivamente capogruppo Pd in commissione Giustizia e capogruppo Pd in commissione Affari sociali.In Italia manca una legge sul fine vita. Un vuoto legislativo che è diventato una voragine dopo la sentenza della Corte Costituzionale del 2019. Vuoto che ha costretto alcune Regioni a provare a legiferare autonomamente anche in assenza di una legge nazionale. Su questo tema è intervenuto anche il Presidente della Corte Costituzionale Barbera sollecitando il Parlamento ad approvare al più presto una legge. Per colmare questo vuoto oggi si sarebbero dovute incardinare al Senato le proposte sul fine vita, tra cui quella di AVS. Ma l'assenza del governo in commissione ha impedito la calendarizzazione dei disegni di legge presentati. Una cosa grave che rischia di affossare un dibattito su una legge più che mai necessaria\". Lo afferma il capogruppo dell'Alleanza Verdi e Sinistra Peppe De Cristofaro, presidente del gruppo Misto di Palazzo Madama.\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 10,
+        "placed": "Politica",
+        "epoch": 1711476057.7685843,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Government absent, skips the ddl cashing on the end of life",
+        "en_content": "He skips the senate bills on the end of life, due to the absence of the government, whose presence is necessary throughout parliamentary activity. The senators of the Justice and Social Affairs Commissions, where today the ddl would only be illustrated, received a communication with the devocation of the session, for the absence of the government. \"We are opposed - commented Alfredo Bazoli, parent Pd in Justice and signatory of one of the ddl - it is evident that there is a political problem, since to incardinate a measure enough any undersecretary\". \"Surprising and inexplicable that, a few minutes from the beginning of the session, the committees gathered for the examination of the law on the end of life. The motivation, a sudden unavailability of the government, is not acceptable, because it was a matter of incardinating the measure, of making introductory relations and establishing a calendar of works, for which a sub-secretary without a specific proxy was sufficient. We hope that this will be a very short reference, because it would not be acceptable to an obstructive attitude on the part of the majority on such an important subject in which Parliament is in grave delay.\" So Alfredo Bazoli and Sandra Zampa, respectively parent Pd in commission Justice and parent Pd in commission Social Affairs. In Italy there is a law on the end of life. A legislative vacuum that became a whirlwind after the decision of the Constitutional Court of 2019. Empty that forced some regions to try to legislate independently even in the absence of a national law. The President of the Barbera Constitutional Court also spoke on this issue, urging Parliament to approve a law as soon as possible. To fill this void today, proposals on the end of life, including AVS, were to be incardinated to the Senate. But the absence of the government in commission prevented the calendarization of the bills presented. A serious thing that riskes a debate on a law more than ever necessary.\" The group leader of the Green Alliance and Left Peppe De Cristofaro, president of the mixed group of Palazzo Madama.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "absent",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ddl",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "senate",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Justice and Social Affairs Commissions",
+                "start_char": 163,
+                "end_char": 205,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 213,
+                "end_char": 218,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Alfredo Bazoli",
+                "start_char": 378,
+                "end_char": 392,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Justice",
+                "start_char": 407,
+                "end_char": 414,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "one",
+                "start_char": 432,
+                "end_char": 435,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "a few minutes",
+                "start_char": 592,
+                "end_char": 605,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 1164,
+                "end_char": 1174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alfredo Bazoli",
+                "start_char": 1198,
+                "end_char": 1212,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sandra Zampa",
+                "start_char": 1217,
+                "end_char": 1229,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Justice",
+                "start_char": 1268,
+                "end_char": 1275,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Social Affairs",
+                "start_char": 1304,
+                "end_char": 1318,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 1323,
+                "end_char": 1328,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Constitutional Court",
+                "start_char": 1431,
+                "end_char": 1455,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2019",
+                "start_char": 1459,
+                "end_char": 1463,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Barbera Constitutional Court",
+                "start_char": 1586,
+                "end_char": 1618,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 1652,
+                "end_char": 1662,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 1719,
+                "end_char": 1724,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "AVS",
+                "start_char": 1766,
+                "end_char": 1769,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 1802,
+                "end_char": 1808,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Green Alliance",
+                "start_char": 2005,
+                "end_char": 2023,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Left Peppe De Cristofaro",
+                "start_char": 2028,
+                "end_char": 2052,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palazzo Madama",
+                "start_char": 2086,
+                "end_char": 2100,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Fine vita: manca il governo, salta l'incardinamento dei disegni di legge ",
+        "date_raw": "Tue, 26 Mar 2024 14:39:51 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/fine-vita-manca-il-governo-salta-lincardinamento-dei-disegni-di-legge_1e366772-2fea-4e96-a759-99be9c965845.html",
+        "subtitle": "",
+        "content": " Salta l'incardinamento in Senato dei disegni di legge sul fine vita, per l'assenza del governo, la cui presenza è necessaria in tutta l'attività parlamentare.I senatori delle Commissioni giustizia e Affari sociali, dove oggi i ddl sarebbero dovuti essere solo illustrati, hanno ricevuto una comunicazione con la sconvocazione della seduta, per l'assenza del governo.\"Siamo contrariati - ha commentato Alfredo Bazoli, capogruppo Pd in Giustizia e firmatario di una delle ddl - è evidente che c'è un problema politico, dato che per incardinare un provvedimento basta un qualsiasi sottosegretario\". \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Politica",
+        "epoch": 1711476057.839146,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "End of life: lacks government, skips the cashing of bills",
+        "en_content": "He skips the senate bills on the end of life, due to the absence of the government, whose presence is necessary throughout parliamentary activity. The senators of the Justice and Social Affairs Commissions, where today the ddl would only be illustrated, received a communication with the devocation of the session, for the absence of the government. \"We are opposed - commented Alfredo Bazoli, parent Pd in Justice and signatory of one of the ddl - it is evident that there is a political problem, since to incardinate a measure enough any undersecretary\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "End",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "government",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cashing",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bills",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "senate",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Justice and Social Affairs Commissions",
+                "start_char": 163,
+                "end_char": 205,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 213,
+                "end_char": 218,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Alfredo Bazoli",
+                "start_char": 378,
+                "end_char": 392,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Justice",
+                "start_char": 407,
+                "end_char": 414,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "one",
+                "start_char": 432,
+                "end_char": 435,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Salvini, un problema se nel centrodestra si preferisce Macron",
+        "date_raw": "Tue, 26 Mar 2024 12:09:50 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/salvini-un-problema-se-nel-centrodestra-si-preferisce-macron_dd7e84e3-6d3d-49fa-beb4-9259b13ea10d.html",
+        "subtitle": "'Io so con chi stare, so cosa scegliere'",
+        "content": "\n                                                \n            \"La Lega su questo non ha mai\ncambiato idea. Speriamoche ci sia a Bruxelles il governo di\ncentrodesta che c'è in Italia e nessuno possa mettere veti.\n                                    \n                                       \n\t\t\t\tNessuno può dire non voglio la Le Pen e preferisco Macron perché\nquesto non sarebbe utile né all'Italia né all'Europa\". Lo\nafferma il vicepresidente del consiglio e ministro dei Trasporti\nMatteo Salvini, leader della Lega, a margine dell'inaugurazione\ndel nuovo svincolo autostradale di Bergamo.\n                                    \n                                       \n\t\t\t\t   \"Sono sempre fiducioso - spiega Salvini - perché se c'è\nun'alleanza che funziona in Italia non vedo perché non dovrebbe\nfunzionare in Europa. Se qualcuno di centrodestra preferisce i\nsocialisti e Macron che parla di guerra e Le Pen che parla di\npace e lavoro è un problema\".   \n    \"Io - conclude - so con chi stare, so cosa scegliere e\nsicuramente la guida di sinistra delle auto solo elettriche,\ndelle bistecche sintetiche e della tassa sulla casa non è la mia\nEuropa. Spero che il centrodestra sia compatto su questo\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 13,
+        "placed": "Politica",
+        "epoch": 1711476057.995143,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Salvini, a problem if you prefer Macron in the centre",
+        "en_content": "\"The League on this never has\nchanged your mind. We hope that the government will be in Brussels\nthat there is in Italy and no one can veto.\n\n\nNo one can say I don't want Le Pen and I prefer Macron because\nthis would not be useful to Italy or to Europe.\" I do.\nsays the vice-president of the council and minister of the Transports\nMatteo Salvini, leader of the League, at the edge of the inauguration\nof the new highway exit of Bergamo.\n\n\n\"I am always confident - says Salvini - because if there is\nan alliance that works in Italy I do not see why should not\nworking in Europe. If someone in the middleman prefers\nSocialists and Macron talking about war and Le Pen talking about\npeace and work is a problem.\"\n\"I - he concludes - I know who to be, I know what to choose and\ndefinitely the left guide of electric cars,\nof synthetic steaks and tax on the house is not mine\nEurope. I hope the centerpiece is compact on this.\"\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Salvini",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "problem",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Macron",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "centre",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Salvini",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Macron",
+                "start_char": 33,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Brussels",
+                "start_char": 88,
+                "end_char": 96,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 114,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Le Pen",
+                "start_char": 171,
+                "end_char": 177,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Macron",
+                "start_char": 191,
+                "end_char": 197,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 234,
+                "end_char": 239,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 246,
+                "end_char": 252,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Transports\nMatteo Salvini",
+                "start_char": 316,
+                "end_char": 345,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bergamo",
+                "start_char": 428,
+                "end_char": 435,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 525,
+                "end_char": 530,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 570,
+                "end_char": 576,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Socialists",
+                "start_char": 614,
+                "end_char": 624,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Macron",
+                "start_char": 629,
+                "end_char": 635,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Le Pen",
+                "start_char": 658,
+                "end_char": 664,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 870,
+                "end_char": 876,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Tajani: 'Salvini? Noi siamo Ppe, non andiamo con Le Pen o Afd'",
+        "date_raw": "Mon, 25 Mar 2024 20:13:58 +0100",
+        "date": "2024-03-25",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/25/tajani-salvini-noi-siamo-ppe-non-andiamo-con-le-pen-o-afd_e2f9ec94-96ef-4005-a79c-7b624a5035af.html",
+        "subtitle": "'L'accordo di governo non ci obbliga alla stessa famiglia Ue'",
+        "content": "\"Non faccio polemiche perché non serve, gli elettori di centrodestra non vogliono polemiche, l'appartenenza a famiglie europee diversa è nei fatti, noi siamo il Ppe e non c'è un accordo di governo che ci obbliga a far parte stessa famiglia europea. Non è il momento di fare polemica, quando ci saranno i risultati elettorali si vedrà cosa accadrà. Sono convinto che il Ppe vincerà le elezioni e il trattato dice che i capi di Stato e governo affidano l'incarico di presidente della Commissione da sottoporre al voto del Parlamento in base al risultato elettorale\". Lo ha detto il vicepremier e ministro degli Esteri Antonio Tajani alla presentazione del libro 'Nazione Europa' di Claudio Tito a Roma, insieme all'autore e al commissario europeo Paolo Gentiloni.     \"Sono i numeri che decidono, non è questione di Le Pen o non Le Pen. Noi siamo il Ppe e non andiamo con Le Pen e con Afd, noi siamo europeisti e siamo per la Nato, seguiamo il nostro percorso e non facciamo polemica con nessuno\".     \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 16,
+        "placed": "Politica",
+        "epoch": 1711476058.0148401,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Tajani: 'Salvini? We're Ppe, we're not going with Le Pen or Afd'",
+        "en_content": "\"I do not argue because it is not necessary, the voters of the centre-right do not want controversy, membership of different European families is in fact, we are the Ppe and there is no government agreement that obliges us to be part of the same European family. It is not the time to make controversy, when there will be electoral results you will see what will happen. I am convinced that the Ppe will win the elections and the treaty says that the Heads of State and Government are in charge of the role of President of the Commission to submit to Parliament's vote on the basis of the electoral result.\" This was said by the vice-premier and foreign minister Antonio Tajani at the presentation of the book 'Nazione Europa' by Claudio Tito in Rome, along with the European author and commissioner Paolo Gentiloni. \"It's the numbers they decide, it's not about Le Pen or not Le Pen. We are the Ppe and we are not going with Le Pen and with Afd, we are Europeanists and we are for NATO, we follow our path and we do not argue with anyone\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Tajani",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ppe",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "Le",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pen",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Afd",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Ppe",
+                "start_char": 24,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Le Pen or Afd'",
+                "start_char": 50,
+                "end_char": 64,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "European",
+                "start_char": 125,
+                "end_char": 133,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ppe",
+                "start_char": 166,
+                "end_char": 169,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 246,
+                "end_char": 254,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ppe",
+                "start_char": 395,
+                "end_char": 398,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Heads of State and Government",
+                "start_char": 447,
+                "end_char": 480,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Commission",
+                "start_char": 527,
+                "end_char": 537,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 551,
+                "end_char": 561,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antonio Tajani",
+                "start_char": 663,
+                "end_char": 677,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Claudio Tito",
+                "start_char": 730,
+                "end_char": 742,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rome",
+                "start_char": 746,
+                "end_char": 750,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 767,
+                "end_char": 775,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Paolo Gentiloni",
+                "start_char": 800,
+                "end_char": 815,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Le Pen",
+                "start_char": 863,
+                "end_char": 869,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Le Pen",
+                "start_char": 877,
+                "end_char": 883,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Ppe",
+                "start_char": 896,
+                "end_char": 899,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Le Pen",
+                "start_char": 926,
+                "end_char": 932,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Europeanists",
+                "start_char": 954,
+                "end_char": 966,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "NATO",
+                "start_char": 982,
+                "end_char": 986,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Crosetto, il terrorismo c'è e lo combattiamo quotidianamente",
+        "date_raw": "Mon, 25 Mar 2024 22:34:32 +0100",
+        "date": "2024-03-25",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/25/crosetto-il-terrorismo-ce-e-lo-combattiamo-quotidianamente_bdc8bbcc-3b19-449c-b45c-3a0bf91ff289.html",
+        "subtitle": "Il ministro, \"è un fenomeno che non è mai finito\"",
+        "content": "\n                                                \n            \"Il terrorismo non è mai finito. I\nnostri militari sono impegnati in Iraq, in Kuwait, combattono\nl'Isis, sono in Africa. Il terrorismo è un fenomeno che\nquotidianamente le nostre forze armate e le nostre forze di\npolizia combattono, cercano di prevenire e in qualche modo di\nsconfiggere. Tutti i giorni ci sono attentati terroristici,\nmagari non in Italia, non solo in Europa. È un fenomeno che\nesiste, sempre presente, che viene combattuto quotidianamente\".\n                                    \n                                       \n\t\t\t\tLo ha detto il ministro della Difesa, Guido Crosetto, a Quarta\nRepubblica. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 15,
+        "placed": "Politica",
+        "epoch": 1711476058.0330994,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Crosetto, terrorism is there and we fight it daily",
+        "en_content": "\"Terrorism is never over. I\nOur military are engaged in Iraq, Kuwait, fighting\nIsis, I'm in Africa. Terrorism is a phenomenon\ndaily our armed forces and our forces\nPolice fight, try to prevent and somehow\ndefeat. Every day there are terrorist attacks,\nMaybe not in Italy, not only in Europe. It is a phenomenon\nexists, always present, that is fought daily.\"\n\n\nThe Defence Minister, Guido Crosetto, said in Quarta\nRepublic.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Crosetto",
+                "meaning": "advmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "terrorism",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Iraq",
+                "start_char": 56,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kuwait",
+                "start_char": 62,
+                "end_char": 68,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Africa",
+                "start_char": 92,
+                "end_char": 98,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "daily",
+                "start_char": 126,
+                "end_char": 131,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Every day",
+                "start_char": 213,
+                "end_char": 222,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 265,
+                "end_char": 270,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 284,
+                "end_char": 290,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "daily",
+                "start_char": 350,
+                "end_char": 355,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Guido Crosetto",
+                "start_char": 382,
+                "end_char": 396,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Quarta\nRepublic",
+                "start_char": 406,
+                "end_char": 421,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Mozione di sfiducia a Salvini, verso il rinvio del voto",
+        "date_raw": "Tue, 26 Mar 2024 16:02:09 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/mozione-di-sfiducia-a-salvini-verso-il-rinvio-del-voto_81f9b776-bd01-4639-bd05-666a9256721d.html",
+        "subtitle": "L'esame alla Camera potrebbe slittare a dopo Pasqua",
+        "content": "\n                                                \n            Dovrebbe slittare a dopo Pasqua la\nmozione di sfiducia presentata dalle opposizioni contro il\nvicepremier e ministro dei Trasporti Matteo Salvini. E' l'ultimo\npunto all'ordine del giorno dell' Aula e, secondo quanto si\napprende, potrebbe slittare, visto che ora è in corso la\ncommemorazione per le Fosse Ardeatine con 9 iscritti a parlare.\n                                    \n                                       \n\t\t\t\tPoi ci saranno le dichiarazioni di voto e il voto del decreto\nMilano-Cortina e l'esame finale della riforma del Codice della\nStrada. Domani è stata convocata la Capigruppo per il calendario\nma è quasi certo che giovedì non ci sarà seduta. Il\ncentrodestra, inoltre, potrebbe anche chiedere un rinvio più\nlungo, anche a maggio e in quel caso si dovranno fare i conti\ncon i decreti in scadenza. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Politica",
+        "epoch": 1711476058.038753,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Motion of distrust in Salvini, towards postponement of the vote",
+        "en_content": "Should slip to after Easter\nmotion of distrust presented by the opposition against\nDeputypremier and Minister of Transport Matteo Salvini. It's the last\nthe agenda of the House and, according to the\nlearn, it could slip, since it is now underway\ncommemoration for the Fosse Ardeatine with 9 members to speak.\n\n\nThen there will be statements of vote and the vote of the decree\nMilano-Cortina and the final examination of the reform of the Code of\nStreet. Tomorrow the group leader for the calendar\nbut it is almost certain that Thursday will not be sitting. The\nIn addition, it may also ask for more referral\nlong, even in May and in that case you will have to count\nwith the decrees expiry.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Motion",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "distrust",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "postponement",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vote",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Salvini",
+                "start_char": 22,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter",
+                "start_char": 21,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Deputypremier",
+                "start_char": 83,
+                "end_char": 96,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "House",
+                "start_char": 171,
+                "end_char": 176,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Fosse Ardeatine",
+                "start_char": 264,
+                "end_char": 283,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "9",
+                "start_char": 289,
+                "end_char": 290,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tomorrow",
+                "start_char": 454,
+                "end_char": 462,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 527,
+                "end_char": 535,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "May",
+                "start_char": 622,
+                "end_char": 625,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Albertini: grazie a Tajani e Moratti ma non mi candido",
+        "date_raw": "Tue, 26 Mar 2024 11:02:47 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/albertini-grazie-a-tajani-e-moratti-ma-non-mi-candido_64071492-6d5b-4760-9a31-8efe9b606e78.html",
+        "subtitle": "Ma potete contare su mio sostegno per campagna elettorale di FI",
+        "content": "\n                                                \n            Gabriele Albertini ha comunicato al\nsegretario di FI Antonio Tajani e a Letizia Moratti la decisione\ndi \"rinunciare alla candidatura che - ha scritto - così\ngenerosamente mi avete offerto\". \"Sono sinceramente, grato ed\nonorato del merito e della stima che mi avete riconosciuto - ha\nscritto Albertini - della garbata insistenza con cui, in più\noccasioni, avete ribadito l'offerta. Conoscete le motivazioni\ndella mia decisione, forse prosaiche ma, per acquisita\nesperienza, certamente realistiche. Comunque potrete contare sul\nmio pieno sostegno nella prossima campagna elettorale a Forza\nItalia, i suoi candidati ed il Ppe\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 14,
+        "placed": "Politica",
+        "epoch": 1711476058.0446408,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Albertini: thanks to Tajani and Moratti but I do not run",
+        "en_content": "Gabriele Albertini has communicated to\nsecretary of FI Antonio Tajani and to Letizia Moratti the decision\nto \"renounce to the candidacy that - wrote - so\ngenerously you offered me.\" \"I am sincerely, grateful and\nhonored with the merit and esteem you have recognized me - he has\nwritten Albertini - of the gracious insistence with which, more\noccasions, you have reiterated the offer. Know the motivations\nof my decision, perhaps prosaic but, by acquired\nexperience, certainly realistic. However you can count on\nmy full support in the next election campaign in Forza\nItaly, its candidates and the Ppe\".\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Albertini",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "thanks",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tajani",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Moratti",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Albertini",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 21,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Gabriele Albertini",
+                "start_char": 0,
+                "end_char": 18,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Antonio Tajani",
+                "start_char": 55,
+                "end_char": 69,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Letizia Moratti",
+                "start_char": 77,
+                "end_char": 92,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Albertini",
+                "start_char": 286,
+                "end_char": 295,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Forza\nItaly",
+                "start_char": 561,
+                "end_char": 572,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ppe",
+                "start_char": 597,
+                "end_char": 600,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Grillo, è ora di una nuova mobilitazione antinucleare",
+        "date_raw": "Tue, 26 Mar 2024 16:17:11 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/grillo-e-ora-di-una-nuova-mobilitazione-antinucleare_7d8f4351-a934-4771-9635-7fd918758509.html",
+        "subtitle": "'Tra propaganda e confusione matura il tempo'",
+        "content": "\n                                                \n            \"Tra propaganda e confusione matura\nil tempo per una nuova mobilitazione antinucleare. Il #nucleare\nnon è cambiato, Signori. E' sempre la stessa scoria!\". Lo scrive\nsu X il fondatore del M5s Beppe Grillo. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 6,
+        "placed": "Politica",
+        "epoch": 1711476058.1398647,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Grillo, it's time for a new antinuclear mobilization",
+        "en_content": "\"Amid propaganda and mature confusion\ntime for a new antinuclear mobilization. The #nuclear\nIt hasn't changed, gentlemen. It's always the same slag!\" He writes\non X the founder of the M5s Beppe Grillo.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Grillo",
+                "meaning": "advcl",
+                "pos": "AUX"
+            },
+            {
+                "word": "time",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "mobilization",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Grillo",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "#",
+                "start_char": 83,
+                "end_char": 84,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Di Bella, 'demistificare mito dei boss mafiosi tra i giovani'",
+        "date_raw": "Tue, 26 Mar 2024 14:42:52 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/di-bella-demistificare-mito-dei-boss-mafiosi-tra-i-giovani_ec091b97-2b06-4de1-bc8e-070b745199b0.html",
+        "subtitle": "Audizione presidente Tribunale minorenni di Catania in Antimafia",
+        "content": "\n                                                \n            \"Dobbiamo demistificare il modello\no il mito del boss mafioso tra i giovani: a Catania nel rione\nSan Cristoforo ci sono ragazzi il cui mito è il capomafia\nBenedetto Santapaola, che è detenuto da oltre 30 anni, a cui\nhanno ucciso la moglie, che è malato e che morirà in carcere,\nnon può essere un esempio\". Lo ha detto il presidente del\nTribunale per i minorenni di Catania, Roberto Di Bella, nella\nsua audizione in commissione Antimafia, assieme alla\nprocuratrice per minorenni del capoluogo etneo, Carla Santocono.\n                                    \n                                       \n\t\t\t\t    Per il presidente Di Bella, promotore del protocollo 'Liberi\ndi scegliere', \"se le organizzazioni criminali continuano a\nessere attivi nonostante la presenza forte dello Stato significa\nche c'è una questione culturale\" e per questo bisogna \"puntare\nsulla prevenzione, sulla scuola a tempo pieno affinché sia un\nhub culturale\". Di Bella ha citato anche come esempio da\nreplicare a tutti i livelli l'Osservatorio sui minorenni\nistituto dalla Prefettura di Catania. Il presidente ha ricordato\nl'alto tasso di abbandono scolastico che porta, in molti casi,\n\"i minorenni a essere impiegati dalla criminalità, a 6-7 anni,\nanche come pusher nelle piazze di spaccio o essere utilizzati\ncome 'scudo' dai propri genitori per trasportare la sostanza\nstupefacente, ancora addosso a loro\"\n   Il presidente Di Bella auspica che il suo protocollo possa\ndiventare una legge con finanziamenti stabili: \"per tenere al\nsicuro una madre e il figlio che aderiscono all'iniziativa ci\nvogliono almeno cento euro al giorno\" e per le donne \"c'è\nbisogno di avere un assegno di inclusione almeno fino a quando\nnon saranno accompagnate alla loro piena autonomia\".\n                                    \n                                       \n\t\t\t\t   Per loro \"c'è un limbo perché - spiega il magistrato - non\ntutte sono o possono diventare collaboratrici di giustizia o\ndichiaranti\" e al momento \"i fondi arrivano soltanto dalla\nConferenza episcopale italiana, uno Stato straniero\" e per il\nresto c'è la \"rete di assistenza di Libera per cercare una casa\ne un lavoro\". Da quando il protocollo 'Liberi di scegliere' è\nattivo vi hanno aderito oltre 150 minorenni, 30 donne e sette di\nloro adesso collaborano. \"Nei mesi scorsi - ha confermato Di\nBella - abbiamo avuto anche la collaborazione di un importante\nboss di Catania che ha deciso di farlo per proteggere i propri\nnipoti\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 8,
+        "placed": "Politica",
+        "epoch": 1711476058.328234,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "By Bella, 'determinate myth of mafia bosses among young people'",
+        "en_content": "\"We must demistify the model\nor the myth of the mafia boss among the young: in Catania\nSan Cristoforo there are boys whose myth is the headmafia\nBenedetto Santapaola, who has been detained for over 30 years, to which\nthey killed the wife, who is sick and who will die in prison,\ncan't be an example.\" The President of the\nCourt for minors of Catania, Roberto Di Bella, in\nhis audition in the Antimafia commission, together with\nProsecutor for minors of the ethnic capital, Carla Santocono.\n\n\nFor President Di Bella, promoter of the protocol 'Books\nto choose, \"if criminal organizations continue\nbeing active despite the strong presence of the state means\nthat there is a cultural question\" and for this it is necessary to \"point\non prevention, on full-time school so that it is a\ncultural hub.\" Di Bella also cited as an example from\nreplicate the Observatory on Minors at all levels\ninstitute from the Prefecture of Catania. The President recalled\nthe high rate of school abandonment that leads, in many cases,\n\"the minors to be employed by crime, at 6-7 years old,\nalso as pusher in plazas or be used\nhow 'short' from their parents to transport the substance\nAmazing, still on their own\"\nPresident Di Bella hopes that his protocol may\nbecome a law with stable funding: \"to keep to\na mother and the son who join the initiative\nwant at least one hundred euros per day\" and for women \"there is\nneed to have an inclusion check at least until\nwill not be accompanied by their full autonomy.\"\n\n\nFor them \"there is a limbo because - the magistrate explains - not\nall are or can become collaborators of justice or\nand at the moment \"funds come only from\nItalian Episcopal Conference, a foreign State\" and for\nrest there is the \"Free's service network to search for a house\nand a job.\" Since the 'Books to choose' protocol is\nactive have joined over 150 minors, 30 women and seven of\nthey now cooperate. \"In recent months - it has confirmed\nBella - we also had the collaboration of an important\nboss of Catania who decided to do so to protect their own\nGrandchildren.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Bella",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "myth",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mafia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bosses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bella",
+                "start_char": 3,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "mafia",
+                "start_char": 31,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "mafia",
+                "start_char": 48,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Catania",
+                "start_char": 79,
+                "end_char": 86,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "San Cristoforo",
+                "start_char": 87,
+                "end_char": 101,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Benedetto Santapaola",
+                "start_char": 145,
+                "end_char": 165,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "over 30 years",
+                "start_char": 193,
+                "end_char": 206,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the\nCourt",
+                "start_char": 318,
+                "end_char": 327,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Catania",
+                "start_char": 342,
+                "end_char": 349,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Antimafia",
+                "start_char": 392,
+                "end_char": 401,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Carla Santocono",
+                "start_char": 473,
+                "end_char": 488,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Di Bella",
+                "start_char": 506,
+                "end_char": 514,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Di Bella",
+                "start_char": 795,
+                "end_char": 803,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Prefecture of Catania",
+                "start_char": 899,
+                "end_char": 924,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "6-7 years old",
+                "start_char": 1052,
+                "end_char": 1065,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Di Bella",
+                "start_char": 1200,
+                "end_char": 1208,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "at least one hundred euros",
+                "start_char": 1333,
+                "end_char": 1359,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1648,
+                "end_char": 1655,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "State",
+                "start_char": 1688,
+                "end_char": 1693,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "over 150",
+                "start_char": 1838,
+                "end_char": 1846,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "30",
+                "start_char": 1855,
+                "end_char": 1857,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "seven",
+                "start_char": 1868,
+                "end_char": 1873,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "recent months",
+                "start_char": 1901,
+                "end_char": 1914,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bella",
+                "start_char": 1934,
+                "end_char": 1939,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Catania",
+                "start_char": 1996,
+                "end_char": 2003,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Grandchildren",
+                "start_char": 2046,
+                "end_char": 2059,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Conte, Decaro? L'aneddoto di Emiliano non è edificante",
+        "date_raw": "Mon, 25 Mar 2024 19:52:35 +0100",
+        "date": "2024-03-25",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/25/conte-decaro-laneddoto-di-emiliano-non-e-edificante_1b42d271-882a-4a5d-8f6e-e07fa47c6004.html",
+        "subtitle": "\"Spetta al sindaco rendere conto del suo buon operato\"",
+        "content": "\n                                                \n            \"Non ho trovato l'aneddoto raccontato\nda Emiliano né divertente né edificante. Noi siamo per la\nlegalità e la trasparenza. Decaro fa bene a rendersi disponibile\nalla commissione di accesso e, ove richiesto, a offrire tutti i\nchiarimenti. L'azione amministrativa deve essere trasparente. Si\nè già dichiarato disponibile e farlo, bene così, qualsiasi\ndelucidazione deve essere fornita\". Lo ha detto il presidente \ndel M5s, Giuseppe Conte, intercettato dall'ANSA a Montecitorio.\n                                    \n                                       \n\t\t\t\tLa commissione? \"Si è già insediata, adesso spetta a Decaro\nfornire tutta la collaborazione che è stata richiesta per\nrendere conto del suo buon operato\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 17,
+        "placed": "Politica",
+        "epoch": 1711476058.9830654,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Count, Decaro? The anecdote of Emiliano is not edifying",
+        "en_content": "\"I did not find the anecdote told\nfrom Emiliano neither funny nor edifying. We are for\nlegality and transparency. Decaro does well to make yourself available\nto the access committee and, where required, to offer all\nclarification. Administrative action must be transparent. Yes\nis already declared available and do it, well so, any\nshould be provided.\" The President said so.\nof the M5s, Giuseppe Conte, intercepted by the ANSA to Montecitorio.\n\n\nThe commission? \"It has already settled, now it is up to Decaro\nprovide all the collaboration that has been required to\nto realize his good work.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Count",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Decaro",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "anecdote",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Emiliano",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Decaro",
+                "start_char": 7,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Emiliano",
+                "start_char": 31,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Emiliano",
+                "start_char": 39,
+                "end_char": 47,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Decaro",
+                "start_char": 114,
+                "end_char": 120,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "M5s",
+                "start_char": 383,
+                "end_char": 386,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 388,
+                "end_char": 402,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ANSA",
+                "start_char": 423,
+                "end_char": 427,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Montecitorio",
+                "start_char": 431,
+                "end_char": 443,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Decaro",
+                "start_char": 504,
+                "end_char": 510,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Ddl sul fine vita, salta l'inizio dell'esame in Senato",
+        "date_raw": "Tue, 26 Mar 2024 16:16:20 +0100",
+        "date": "2024-03-26",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/03/26/ddl-sul-fine-vita-salta-linizio-dellesame-in-senato_0af65247-15ae-401d-b921-9bf4b0031518.html",
+        "subtitle": "Assente il governo. Pd, '",
+        "content": "\n                                                \n            Salta l'incardinamento in Senato dei\ndisegni di legge sul fine vita, per l'assenza del governo, la\ncui presenza è necessaria in tutta l'attività parlamentare.    I\nsenatori delle Commissioni giustizia e Affari sociali, dove oggi\ni ddl sarebbero dovuti essere solo illustrati, hanno ricevuto\nuna comunicazione con la sconvocazione della seduta, per\nl'assenza del governo.\n                                    \n                                       \n\t\t\t\t  \"Ci auguriamo si tratti di un rinvio a brevissimo, perché non\nsarebbe accettabile un atteggiamento ostruzionistico da parte\ndella maggioranza su un tema così importante sul quale il\nparlamento è in grave ritardo\", dicono Alfredo Bazoli e Sandra\nZampa, rispettivamente capogruppo Pd in commissione Giustizia e\ncapogruppo Pd in commissione Affari sociali.\n                                    \n                                       \n\t\t\t\t    L'assenza del governo è \"grave, rischia di affossare un\ndibattito su una legge più che mai necessaria\", afferma il\ncapogruppo dell'Alleanza Verdi e Sinistra Peppe De Cristofaro,\npresidente del gruppo Misto di Palazzo Madama. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1711476059.230135,
+        "language": "it",
+        "source": "ANSA_Politica",
+        "timeslot_day": "2024-03-26",
+        "timeslot_number": 5,
+        "elapsed_hours_timeslot_end": 2,
+        "filename": "ner_conc_en_2024-03-26T19.00.55E1711479655.740702.json",
+        "en_title": "Ddl on the end of life, skips the start of the Senate exam",
+        "en_content": "Skip the cash in the Senate of the\nlaw drawings on the end of life, for the absence of government, the\nwhich is necessary throughout parliamentary activity. I\nSenators of the Commissions Justice and Social Affairs, where today\nthe ddl would have to be only illustrated, they received\na communication with the convocation of the session, for\nthe absence of the government.\n\n\n\"We hope this is a very short reference, because not\nwould be acceptable an obstructive attitude aside\nof the majority on such an important theme on which\nParliament is very late,\" says Alfredo Bazoli and Sandra\nZampa, Pd group leader in Justice and\nGroup leader Pd in Social Affairs committee.\n\n\nThe absence of the government is \"grave, risks to knock down a\ndebate on a law more than ever necessary,\" says\nGroup leader of the Green Alliance and Left Peppe De Cristofaro,\nPresident of the Mixed Group of Palazzo Madama.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "concepts": [
+            {
+                "word": "Ddl",
+                "meaning": "advcl",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "start",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Senate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exam",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Senate",
+                "start_char": 47,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Senate",
+                "start_char": 21,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Commissions Justice and Social Affairs",
+                "start_char": 171,
+                "end_char": 213,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 221,
+                "end_char": 226,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 529,
+                "end_char": 539,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alfredo Bazoli",
+                "start_char": 560,
+                "end_char": 574,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sandra\nZampa",
+                "start_char": 579,
+                "end_char": 591,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Justice",
+                "start_char": 612,
+                "end_char": 619,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Group",
+                "start_char": 624,
+                "end_char": 629,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Social Affairs",
+                "start_char": 643,
+                "end_char": 657,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Group",
+                "start_char": 782,
+                "end_char": 787,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Green Alliance",
+                "start_char": 798,
+                "end_char": 816,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Left Peppe De Cristofaro",
+                "start_char": 821,
+                "end_char": 845,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Mixed Group of Palazzo Madama",
+                "start_char": 860,
+                "end_char": 893,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    }
+]

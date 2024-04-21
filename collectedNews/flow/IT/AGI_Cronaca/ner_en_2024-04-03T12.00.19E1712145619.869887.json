@@ -1,0 +1,2654 @@
+[
+    {
+        "title": "Nuovo sciopero dei giornalisti dell'AGI e presidio al Pantheon",
+        "date_raw": "Tue, 02 Apr 2024 22:02:29 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/nuovo-sciopero-agi-presidio-pantheon-25894830/",
+        "subtitle": "",
+        "content": "AGI - I giornalisti dell'agenzia AGI oggi, dalle ore 11 alle 13, manifesteranno a piazza della Rotonda, di fronte al Pantheon a Roma, per ribadire la loro contrarietà alla cessione della seconda agenzia di stampa italiana dal suo attuale editore - Eni, societa' partecipata dal Mef - al polo editoriale riconducibile al Gruppo Angelucci, imprenditore del settore sanitario e parlamentare della Lega. In piazza saranno presenti al presidio anche rappresentanti di Fnsi e di Stampa Romana. Da settimane l'assemblea di redazione dell'AGI domanda all'editore di fare chiarezza sulla manifestazione di interesse pervenuta per il possibile acquisto dell'agenzia e chiede alle istituzioni come sia possibile che una società partecipata dello Stato possa cedere un suo ramo d'azienda - che percepisce fondi pubblici per le sue convenzioni - con una trattativa privata in assenza di un bando di gara a tutela della trasparenza dell'eventuale operazione. I redattori dell'AGI si battono inoltre a difesa dell'autonomia e dell'imparzialità dell'informazione primaria. Nei giorni scorsi anche le istituzioni Ue hanno affrontato la vicenda, ricordando la recente entrata in vigore del Freedom Media Act. Per tutte queste ragioni, in concomitanza con la manifestazione, il Cdr proclama una nuova giornata di sciopero, dalla mezzanotte del 3 aprile e per tutta la giornata, come previsto dal mandato affidato dall'assemblea di redazione.",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1712138420.302723,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "New AGI journalist strike and Pantheon presidio",
+        "en_content": "AGI - The journalists of the agency AGI today, from 11 to 13, will manifest in piazza della Rotonda, in front of the Pantheon in Rome, in order to reiterate their opposition to the sale of the second Italian press agency from its current publisher - Eni, company' participated from the Mef - to the editorial pole that can be traced back to the Group Angelucci, entrepreneur of the health and parliamentary sector of the League. Representatives of Fnsi and Roman Press will also be present in the square. For weeks the AGI editorial board has asked the publisher to clarify the event of interest received for the possible purchase of the agency and asks the institutions how it is possible that a participatory company of the State can yield a branch of its own - which perceives public funds for its conventions - with a private negotiation in the absence of a call for tender to protect the transparency of the eventual operation. The AGI editors also strive to defend the autonomy and impartiality of primary information. In recent days, EU institutions have also dealt with the affair, recalling the recent entry into force of the Freedom Media Act. For all these reasons, in conjunction with the event, the Board proclaims a new day of strike, from midnight on April 3 and throughout the day, as provided by the mandate entrusted by the editorial assembly.",
+        "concepts": [
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "AGI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Pantheon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "presidio",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Pantheon",
+                "start_char": 30,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "today",
+                "start_char": 40,
+                "end_char": 45,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "11",
+                "start_char": 52,
+                "end_char": 54,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "13",
+                "start_char": 58,
+                "end_char": 60,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rotonda",
+                "start_char": 92,
+                "end_char": 99,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pantheon",
+                "start_char": 117,
+                "end_char": 125,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 129,
+                "end_char": 133,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 193,
+                "end_char": 199,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 200,
+                "end_char": 207,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mef",
+                "start_char": 286,
+                "end_char": 289,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Group Angelucci",
+                "start_char": 341,
+                "end_char": 360,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fnsi and Roman Press",
+                "start_char": 448,
+                "end_char": 468,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "weeks",
+                "start_char": 509,
+                "end_char": 514,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "AGI",
+                "start_char": 519,
+                "end_char": 522,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "State",
+                "start_char": 726,
+                "end_char": 731,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AGI",
+                "start_char": 937,
+                "end_char": 940,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent days",
+                "start_char": 1028,
+                "end_char": 1039,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 1041,
+                "end_char": 1043,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Freedom Media Act",
+                "start_char": 1131,
+                "end_char": 1152,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Board",
+                "start_char": 1212,
+                "end_char": 1217,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "midnight",
+                "start_char": 1254,
+                "end_char": 1262,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "April 3",
+                "start_char": 1266,
+                "end_char": 1273,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the day",
+                "start_char": 1289,
+                "end_char": 1296,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Palpeggiamenti durante le visite, arrestato un medico di 70 anni nella Bergamasca",
+        "date_raw": "Tue, 02 Apr 2024 17:55:26 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/arrestato-medico-accusato-di-violenza-sessuale-palpeggiava-pazienti-25897853/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Un medico di base di 70 anni è finito agli arresti domiciliari, su ordine del gip di Bergamo, con l'accusa di violenza sessuale perchè avrebbe abusato di almeno sei giovani ex pazienti durante alcune&nbsp;visite&nbsp;ambulatoriali. Le indagini dei carabinieri della compagnia di Zogno e della procura orobica sono scattate dopo le denunce delle donne nelle quali avrebbero raccontato che il medico nel corso dell'ultimo anno, in diverse occasioni, senza alcuna esigenza diagnostica, compiva atti di libido e palpeggiamenti nel loro parti intime.&nbsp;E' stata la denuncia a fine gennaio di una paziente a far scattare le indagini. A quel punto i militari dell'Arma hanno convocato in caserma un'altra cinquantina di donne seguite dal medico di base 70enne. Cinque di queste, che non si conoscevano tra di loro, come la prima denunciante, tutte tra i 25 e i 35 anni, hanno raccontato degli approcci sessuali e le domande probatorie ricevute dal professionista e soprattutto dei palpeggiamenti. Solo una di loro ha formalizzato le accuse in una querela. Il quadro negato dal medico, incensurato, che si è difeso spiegando che qualsiasi contatto è avvenuto nell'ambito di normali procedure mediche. Nei prossimi giorni, assistito da un avvocato, il medico sarà sottoposto all'interrogatorio di garanzia.&nbsp;",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1712138420.3027675,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "Palpeggiamenti during visits, arrested a doctor of 70 years in Bergamasca",
+        "en_content": "AGI -&nbsp; A 70-year-old basic doctor ended up under house arrest, on order of the Bergamo gip, with the charge of sexual violence because he would abuse at least six young ex-patients during some&nbsp;visite&nbsp;ambulatorial. The investigations of the Carabinieri of the company of Zogno and the Orobic Prosecution were taken after the complaints of the women in which they would tell that the doctor during the last year, on several occasions, without any diagnostic need, performed acts of libido and palpation in their intimate parts.&nbsp; It was a complaint at the end of January of a patient to trigger the investigation. At that point, the Army's military summoned another fifty women in the barracks followed by the 70-year-old doctor. Five of these, who did not know each other, such as the first complainant, all between 25 and 35 years, told about the sexual approaches and probative questions received by the professional and above all of the eyelids. Only one of them formalized the charges in a plaintiff. The picture denied by the doctor, incensured, who defended himself by explaining that any contact took place under normal medical procedures. In the coming days, assisted by a lawyer, the doctor will be subjected to the warranty interrogation.&nbsp;",
+        "concepts": [
+            {
+                "word": "Palpeggiamenti",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "visits",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "doctor",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Bergamasca",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "70 years",
+                "start_char": 51,
+                "end_char": 59,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bergamasca",
+                "start_char": 63,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "70-year-old",
+                "start_char": 14,
+                "end_char": 25,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bergamo",
+                "start_char": 84,
+                "end_char": 91,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "at least six",
+                "start_char": 155,
+                "end_char": 167,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Carabinieri",
+                "start_char": 255,
+                "end_char": 266,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zogno",
+                "start_char": 285,
+                "end_char": 290,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Orobic Prosecution",
+                "start_char": 295,
+                "end_char": 317,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the last year",
+                "start_char": 411,
+                "end_char": 424,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the end of January",
+                "start_char": 569,
+                "end_char": 587,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Army",
+                "start_char": 650,
+                "end_char": 654,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "fifty",
+                "start_char": 683,
+                "end_char": 688,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "70-year-old",
+                "start_char": 727,
+                "end_char": 738,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Five",
+                "start_char": 747,
+                "end_char": 751,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 803,
+                "end_char": 808,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "25 and 35 years",
+                "start_char": 834,
+                "end_char": 849,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Only one",
+                "start_char": 967,
+                "end_char": 975,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the coming days",
+                "start_char": 1168,
+                "end_char": 1183,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Vendono auto con contachilometri ribassati, 7 arresti per truffa a Codogno",
+        "date_raw": "Tue, 02 Apr 2024 15:46:14 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/codogno-arresti-per-truffa-auto-con-contachilometri-ribassati-25893512/",
+        "subtitle": "",
+        "content": "AGI - Vendevano online auto a cui cancellavano migliaia di chilometri dai contatori. I carabinieri della compagnia di Codogno (Lodi), coordinati dalla procura di Brescia, hanno eseguito una misura cautelare per sette componenti di un gruppo accusati di associazione per delinquere finalizzata alla truffa. Sono 23 i raggiri contestati che sarebbero stati commessi da gennaio 2021 al maggio 2022. Sul web pubblicavano annunci a prezzi vantaggiosi di auto con un basso chilometraggio. Dagli accertamenti è, però emerso, che in moltissimi casi le riduzioni arrivavano a oltre 200 mila chilometri, ovvero fino al triplo delle misurazioni originali. Le misure cautelari e le contestuali perquisizioni sono state effettuate a Padenghe sul Garda e Montichiari, in provincia di Brescia, dai militari dell'Arma lodigiani in collaborazione con i colleghi delle compagnie di Salo' e Desenzano del Garda. \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp;",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1712138420.3027952,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "They sell auto with lowered odometers, 7 arrests for scam to Codogno",
+        "en_content": "AGI - They sold online cars to which they erased thousands of kilometers from meters. The carabinieri of the company of Codogno (Lodi), coordinated by the prosecutor of Brescia, have performed a precautionary measure for seven members of a group accused of association for criminals aimed at the scam. There are 23 disputed rays that would be committed from January 2021 to May 2022. On the web they published ads at advantageous prices of cars with a low mileage. However, from the investigations it emerged that in many cases the reductions reached more than 200 thousand kilometers, or up to three of the original measurements. The precautionary measures and the contextual search were carried out in Padenghe sul Garda and Montichiari, in the province of Brescia, by the soldiers of the Lodigiani Arma in collaboration with the colleagues of the companies of Salo' and Desenzano del Garda.\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "auto",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "odometers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "arrests",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scam",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Codogno",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "7",
+                "start_char": 39,
+                "end_char": 40,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Codogno",
+                "start_char": 61,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "thousands of kilometers",
+                "start_char": 49,
+                "end_char": 72,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Codogno",
+                "start_char": 120,
+                "end_char": 127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Brescia",
+                "start_char": 169,
+                "end_char": 176,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "seven",
+                "start_char": 221,
+                "end_char": 226,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "23",
+                "start_char": 312,
+                "end_char": 314,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "January 2021 to May 2022",
+                "start_char": 358,
+                "end_char": 382,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than 200 thousand kilometers",
+                "start_char": 551,
+                "end_char": 584,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "up to three",
+                "start_char": 589,
+                "end_char": 600,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Padenghe",
+                "start_char": 704,
+                "end_char": 712,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Garda",
+                "start_char": 717,
+                "end_char": 722,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Montichiari",
+                "start_char": 727,
+                "end_char": 738,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Brescia",
+                "start_char": 759,
+                "end_char": 766,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Lodigiani Arma",
+                "start_char": 787,
+                "end_char": 805,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Salo'",
+                "start_char": 863,
+                "end_char": 868,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Desenzano del Garda",
+                "start_char": 873,
+                "end_char": 892,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "A Turbigo il Ramadan finisce in Tribunale. I giudici \"una risposta entro il 5 aprile\"",
+        "date_raw": "Tue, 02 Apr 2024 13:53:50 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/comune-turbigo-tar-intima-risposta-comunita-musulmana-25893810/",
+        "subtitle": "",
+        "content": "AGI - Il Comune di Turbigo della Città Metropolitana di Milano, guidato da una coalizione di centrodestra, deve rispondere alla locale comunità musulmana \"entro le ore 14 del giorno 5 aprile 2024 alla richiesta di concessione di un luogo al chiuso o all'aperto per celebrare la festa di fine Ramadan e, nel caso di risposta negativa, avrà cura di indicare eventuali spazi che sarebbero stati idonei all'utilizzo e le ragioni della loro indisponibilità\". È quanto si legge in una decisione del Tar della Lombardia visionata dall'AGI che arriva, spiega l'avvocato Luca Bauccio, legale dell'associazione religiosa 'Moschea Essa'&nbsp;insieme al collega Aldo Russo, \"dopo che in tre mesi il Comune non ha risposto a ben tre richieste della comunità musulmana per ottenere uno spazio per festeggiare la fine del Ramadan, l'Aid El Fitr\".&nbsp; \n&nbsp; \nIl ricorso era stato presentato proprio 'contro' il silenzio tenuto dal Comune sull'istanza datata 26 febbraio 2024 dell'associazione \"affinché il Comune provveda a mettere a disposizione in data 9 e 10 aprile 2024, nella fascia oraria compresa tra le 7 e le 11, uno spazio coperto o scoperto, nel quale poter festeggiare la festività musulmana\". Nel decreto il presidente della V sezione del Tar, Daniele Dongiovanni, scrive che \"alla richiesta avanzata dall'associazione nell'ambito del ricorso in materia di silenzio possa darsi adeguata tutela, onerando il Comune di concludere celermente l'istruttoria relativa all'istanza e fornire una risposta scritta entro il termine delle ore 14 del 5 aprile 2024\". Lo stesso statuto comunale, viene ricordato dal giudice, prevede che a ogni istanza il Comune dovrebbe provvedere \"entro 30 giorni dalla data di protocollo, termine ormai scaduto\". Il Comune di Turbigo è guidato dal sindaco di Fratelli d'Italia Fabrizio Allevi.&nbsp; \n&nbsp; \n&nbsp;\"Ancora una volta assistiamo alla negazione di un diritto fondamentale riconosciuto dalla Costituzione a tutte le minoranze religiose: il diritto alla preghiera e all'identità religiosa - commenta all'AGI Bauccio -. Il Tar ha correttamente ricordato che l'amministrazione ha il dovere di garantire gli spazi di incontro e preghiera e un eventuale diniego deve essere sempre motivato. Andremo avanti finché non sarà garantito alla comunità musulmana di Turbigo il pieno godimento dei diritti fondamentali della persona. Una società libera e democratica non ignora le minoranze e ha cura e attenzione verso le loro legittime richieste\".&nbsp; \n&nbsp; \n&nbsp;Nel ricorso presentato al Tar contro il Comune di Turbigo, i legali dell'associazione culturale musulmana 'Essa' scrivono che, qualora non dovesse essere riconosciuto uno spazio per festeggiare la fine del Ramadan, \"saremo costretti a dover agire in ogni sede competente per il completo ristoro dei danni\". \n&nbsp; \n\"L'associazione - è scritto nell'istanza - è priva di un proprio luogo di culto. In attesa di poterne disporre, specie in occasione delle principali ricorrenze e festività, ha la necessità di un luogo adeguato e dignitoso che permetta il sereno esercizio di quella fondamentale libertà che è la libertà religiosa, così come di quella di culto garantita dall'articolo 19 della Costituzione quale diritto inviolabile, da intendersi non come indifferenza dello Stato di fronte all'esperienza religiosa, bensì come tutela del pluralismo, a sostegno della massima espansione della libertà di tutti\". \n&nbsp; \nL'associazione ha inviato tre richieste via Pec al Comune per avere indicazione di un luogo dove festeggiare la fine del Ramadan datate 26 febbraio e 22 e 25 marzo, \"solleciti tutti caduti nel vuoto\". \n&nbsp; \n\"Il Comune - affermano i legali Bauccio e Russo - è venuto meno al proprio dovere legato alle libertà e garanzie costituzionali non avendo sin qui messo a disposizione uno spazio adeguato e dignitoso per consentire alla comunità musulmana di festeggiare la fine del Ramadan\".",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1712138420.3028178,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "In Turbigo Ramadan ends in Tribunal. Judges \"an answer by 5 April\"",
+        "en_content": "AGI - The City of Turbigo of the Metropolitan City of Milan, led by a coalition of centre-rights, must respond to the local Muslim community \"within the hours 14 of the day 5 April 2024 to the request of granting a place indoors or outdoors to celebrate the feast of end Ramadan and, in the event of a negative response, will take care to indicate any spaces that would be suitable for use and the reasons of their unavailableness\". This is what we read in a decision of the Tar of Lombardy visioned by the AGI coming, explains lawyer Luca Bauccio, legal of the religious association 'Moschea Essa'&nbsp; together with his colleague Aldo Russo, \"after that in three months the Municipality did not respond to three requests of the Muslim community to obtain a space to celebrate the end of Ramadan, the Aid El Fitr\".\n&nbsp;\nThe appeal had been presented precisely 'against' the silence held by the Municipality on the application dated 26 February 2024 of the association \"so that the Municipality provides to make available on 9 and 10 April 2024, in the hourly period between 7 and 11, a covered or uncovered space, in which to celebrate the Muslim feast\". In the decree the president of the fifth section of the Tar, Daniele Dongiovanni, writes that \"to the request advanced from the association in the within of the recourse in matter of silence can be adequate protection, honoring the Commune to conquer celermente the investigation regarding the instance and provide a written answer within the term of the hours 14 of 5 April 2024\". The same municipal statute, is remembered by the judge, previews that to every instance the Municipality should provide \"within 30 days from the date of protocol, term now expired\". The Municipality of Turbigo is led by the mayor of Fratelli d'Italia Fabrizio Allevi.&nbsp;\n&nbsp;\n&nbsp;\"We once again witness the denial of a fundamental right recognized by the Constitution to all religious minorities: the right to prayer and religious identity - comments to AGI Bauccio -. The Tar has correctly remembered that the administration has the duty to guarantee the spaces of encounter and prayer and a possible denial must always be motivated. We will continue until the Muslim community of Turbigo is guaranteed the full enjoyment of the fundamental rights of the person. A free and democratic society does not ignore minorities and care and attention to their legitimate demands.\" &nbsp;\n&nbsp;\n&nbsp; In the appeal submitted to the Tar against the Municipality of Turbigo, the lawyers of the Muslim cultural association 'Essa' write that, if a space should not be recognized to celebrate the end of Ramadan, \"we will be forced to act in every competent place for the complete refreshment of damages\".\n&nbsp;\n\"The association - it is written in the instance - is deprived of its own place of worship. Waiting to be able to dispose, especially on the occasion of the main celebrations and festivities, it has the need for an adequate and dignified place that allows the serene exercise of that fundamental freedom that is religious freedom, as well as that of worship guaranteed by article 19 of the Constitution as an inviolable right, to be understood not as indifference of the State in the face of religious experience, but as protection of pluralism, in support of the maximum expansion of freedom of all\".\n&nbsp;\nThe association has sent three requests via Pec to the Municipality to have indication of a place where to celebrate the end of Ramadan dated 26 February and 22 and 25 March, \"only all fallen into the void\".\n&nbsp;\n\"The Commune - the Bauccio and Russo lawyers say - has failed to its duty linked to constitutional freedoms and guarantees not having provided adequate and dignified space to allow the Muslim community to celebrate the end of Ramadan.\"",
+        "concepts": [
+            {
+                "word": "Turbigo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ramadan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tribunal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Judges",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "answer",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "April",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Turbigo Ramadan",
+                "start_char": 3,
+                "end_char": 18,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tribunal",
+                "start_char": 27,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5 April",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Metropolitan City",
+                "start_char": 29,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Milan",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Muslim",
+                "start_char": 124,
+                "end_char": 130,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the hours",
+                "start_char": 149,
+                "end_char": 158,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "April 2024",
+                "start_char": 175,
+                "end_char": 185,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Tar of Lombardy",
+                "start_char": 471,
+                "end_char": 490,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "AGI",
+                "start_char": 507,
+                "end_char": 510,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Luca Bauccio",
+                "start_char": 535,
+                "end_char": 547,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Moschea Essa'&nbsp",
+                "start_char": 585,
+                "end_char": 603,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Aldo Russo",
+                "start_char": 633,
+                "end_char": 643,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three months",
+                "start_char": 660,
+                "end_char": 672,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Municipality",
+                "start_char": 677,
+                "end_char": 689,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 709,
+                "end_char": 714,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Muslim",
+                "start_char": 731,
+                "end_char": 737,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 779,
+                "end_char": 797,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Aid El Fitr",
+                "start_char": 799,
+                "end_char": 814,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Municipality",
+                "start_char": 898,
+                "end_char": 910,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "26 February 2024",
+                "start_char": 936,
+                "end_char": 952,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Municipality",
+                "start_char": 985,
+                "end_char": 997,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "9 and 10 April 2024",
+                "start_char": 1028,
+                "end_char": 1047,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Muslim",
+                "start_char": 1144,
+                "end_char": 1150,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "fifth",
+                "start_char": 1194,
+                "end_char": 1199,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Daniele Dongiovanni",
+                "start_char": 1220,
+                "end_char": 1239,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Commune",
+                "start_char": 1391,
+                "end_char": 1398,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "5 April 2024",
+                "start_char": 1526,
+                "end_char": 1538,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Municipality",
+                "start_char": 1633,
+                "end_char": 1645,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "30 days",
+                "start_char": 1669,
+                "end_char": 1676,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Fratelli d'Italia Fabrizio",
+                "start_char": 1774,
+                "end_char": 1800,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Constitution",
+                "start_char": 1903,
+                "end_char": 1915,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Tar",
+                "start_char": 2021,
+                "end_char": 2024,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Muslim",
+                "start_char": 2210,
+                "end_char": 2216,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Turbigo",
+                "start_char": 2230,
+                "end_char": 2237,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Municipality of Turbigo",
+                "start_char": 2486,
+                "end_char": 2513,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Muslim",
+                "start_char": 2534,
+                "end_char": 2540,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 2630,
+                "end_char": 2648,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "article 19 of the Constitution",
+                "start_char": 3122,
+                "end_char": 3152,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "State",
+                "start_char": 3221,
+                "end_char": 3226,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 3384,
+                "end_char": 3389,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "26 February",
+                "start_char": 3501,
+                "end_char": 3512,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "22 and 25 March",
+                "start_char": 3517,
+                "end_char": 3532,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The Commune - the Bauccio and Russo",
+                "start_char": 3575,
+                "end_char": 3610,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Muslim",
+                "start_char": 3759,
+                "end_char": 3765,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 3789,
+                "end_char": 3807,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Papa Bergoglio detta le linee per il suo funerale: \"Niente catafalco, solo la bara\"",
+        "date_raw": "Tue, 02 Apr 2024 12:32:17 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/papa-bergoglio-parla-del-suo-funerale-25892936/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Papa Francesco alla sua morte sarà esposto nella bara e non su un catafalco, \"con dignità ma come ogni cristiano\". Lo racconta lo stesso Bergoglio nel libro-intervista \"El Sucesor\" (\"Il successore\") con Javier Martinez-Brocal (edizioni Planeta). Francesco vuole così semplificare il rito funebre: ci sarà una veglia e non due e nessuna cerimonia per la chiusura della bara. Il Pontefice ha raccontato di aver già disposto una revisione delle esequie papali (\"il rituale attuale\" è \"tropposovraccarico\") spiegando che la veglia funebre per Benedetto XVI è stata l'ultima con il corpo del Papa fuori dalla bara e il catafalco con i cuscini. \"Sarà l'ultima veglia funebre celebrata così, con il corpo del Papa esposto fuori dalla bara, su un catafalco. Ho parlato con il cerimoniere e abbiamo eliminato questo e tante altre cose\".",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1712138420.3028393,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "Pope Bergoglio said the lines for his funeral: \"Niente catafalco, solo la bara\"",
+        "en_content": "AGI -&nbsp; Pope Francis at his death will be exposed in the coffin and not on a catafalco, \"with dignity but like every Christian\". Bergoglio himself tells him in the book-interview \"El Sucesor\" (\"The Successor\") with Javier Martinez-Brocal ( Planeta editions). Francis wants to simplify the funeral rite: There will be a wake and not two and no ceremony for the closure of the coffin. The Pontiff told that he had already arranged a revision of the papal exequies (\"the present ritual\" is \"tropposovraccarico\") explaining that the funeral vigil for Benedict XVI was the last with the Pope's body outside the coffin and the catafalco with the pillows. \"It will be the last funeral vigil celebrated so, with the body of the Pope exposed outside the coffin, on a catafalco. I talked to the ceremonial and we eliminated this and so much more.\"",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bergoglio",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lines",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "funeral",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Niente",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "catafalco",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "solo",
+                "meaning": "compound",
+                "pos": "PRON"
+            },
+            {
+                "word": "bara",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Pope Bergoglio",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Francis",
+                "start_char": 17,
+                "end_char": 24,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Christian",
+                "start_char": 121,
+                "end_char": 130,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "El Sucesor",
+                "start_char": 184,
+                "end_char": 194,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Successor",
+                "start_char": 198,
+                "end_char": 211,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Javier Martinez-Brocal",
+                "start_char": 219,
+                "end_char": 241,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francis",
+                "start_char": 263,
+                "end_char": 270,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 336,
+                "end_char": 339,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Benedict XVI",
+                "start_char": 551,
+                "end_char": 563,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Ritrovate a Napoli le due bambine romagnole scomparse",
+        "date_raw": "Tue, 02 Apr 2024 11:56:06 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-03-29/ritrovate-a-napoli-bambine-romagnole-scomparse-25860242/",
+        "subtitle": "",
+        "content": "AGI - Alle 20.30 l'incubo dei loro genitori è finito. I carabinieri della stazione di San Pietro a Patierno del Nucleo Investigativo di Napoli, in stretto coordinamento con personale del Nucleo Investigativo di Ravenna, hanno rintracciato la 12enne Michelle Carlucci e l'amica 13enne Sofia Rivera Alvares, entrambe della provincia di Ravenna, che erano scomparse la mattina del 27 marzo scorso. \n&nbsp; \nAnziché entrare a scuola, le bambine di erano allontanate senza dare notizie ai propri genitori. Le due sono state individuate in un edificio di Corso Arnaldo Lucci dove si trova anche un B&amp;B del tutto estraneo alla vicenda. Le minori, in ottimo stato di salute, verranno affidate ai genitori, che sono diretti nella stazione carabinieri del quartiere del capoluogo campano di San Pietro a Parierno.",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1712138420.302861,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "Find the two missing Romagna girls in Naples",
+        "en_content": "AGI - At 20.30 the nightmare of their parents is over. The Carabinieri of San Pietro station in Patierno del Nucleo Investigativo di Napoli, in close coordination with staff of the Investment Nucleo of Ravenna, traced the 12-year-old Michelle Carlucci and 13-year-old friend Sofia Rivera Alvares, both of the province of Ravenna, who had disappeared on the morning of 27 March.\n&nbsp;\nInstead of entering school, the girls were gone without giving news to their parents. The two were located in a building in Corso Arnaldo Lucci where there is also a B&amp;B completely foreign to the story. The children, in a good state of health, will be entrusted to the parents, who are directed to the Carabinieri station of the district of the Campania capital of San Pietro in Parierno.",
+        "concepts": [
+            {
+                "word": "Romagna",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "girls",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Naples",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "two",
+                "start_char": 9,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Romagna",
+                "start_char": 21,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Naples",
+                "start_char": 38,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "20.30",
+                "start_char": 9,
+                "end_char": 14,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Carabinieri",
+                "start_char": 59,
+                "end_char": 70,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "San Pietro",
+                "start_char": 74,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Patierno del Nucleo Investigativo di Napoli",
+                "start_char": 96,
+                "end_char": 139,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Ravenna",
+                "start_char": 202,
+                "end_char": 209,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "12-year-old",
+                "start_char": 222,
+                "end_char": 233,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Michelle Carlucci",
+                "start_char": 234,
+                "end_char": 251,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "13-year-old",
+                "start_char": 256,
+                "end_char": 267,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sofia Rivera Alvares",
+                "start_char": 275,
+                "end_char": 295,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ravenna",
+                "start_char": 321,
+                "end_char": 328,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the morning of 27 March",
+                "start_char": 353,
+                "end_char": 376,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "two",
+                "start_char": 475,
+                "end_char": 478,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Corso Arnaldo Lucci",
+                "start_char": 509,
+                "end_char": 528,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Carabinieri",
+                "start_char": 691,
+                "end_char": 702,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Campania",
+                "start_char": 734,
+                "end_char": 742,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "San Pietro",
+                "start_char": 754,
+                "end_char": 764,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Parierno",
+                "start_char": 768,
+                "end_char": 776,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "L'Università per gli stranieri di Siena si ferma per il Ramadan. \"A Gaza un massacro\"",
+        "date_raw": "Tue, 02 Apr 2024 11:23:09 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/universita-stranieri-siena-si-ferma-per-ramadan-25891895/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;\"Mentre irresponsabili pulsioni belliche travolgono l'Europa e il mondo, noi crediamo che chi vuole la pace debba preparare la pace\": è&nbsp;il messaggio che manda l'Università per Stranieri di Siena, che ha confermato la sospensione delle proprie lezioni il prossimo mercoledì 10 aprile, in occasione della fine del Ramadan.> \n&nbsp; \n\"Siamo una comunità multiculturale, plurilingue, inclusiva per statuto e missione, amica della diversità e impegnata a costruire il riconoscimento dell'altro come presupposto di una convivenza pacifica tra popoli e culture\", è la spiegazione della scelta che danno dall'ateneo. \n&nbsp; \n\"In questo momento terribile, un momento in cui tutto l'Occidente si fa complice del massacro senza fine di Gaza, è importante - proseguono - dare un segno preciso di amicizia e condivisione con le persone che - fra noi, a Siena, in Italia e nel mondo - si riconoscono nella cultura islamica\". Confermata anche la volontà di sospendere la didattica per la festa ebraica del Kippur> \"per sottolineare - si spiega - la nostra vicinanza al popolo ebraico nell'anniversario dell'eccidio del 7 ottobre\".&nbsp;",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1712138420.3028927,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "The University for Foreigners of Siena stops for Ramadan. \"A massacre in Gaza\"",
+        "en_content": "AGI -&nbsp;\"While irresponsible military impulses affect Europe and the world, we believe that those who want peace must prepare peace\": is&nbsp; the message that sends the University for Foreigners of Siena, which confirmed the suspension of their lessons on Wednesday, April 10, at the end of Ramadan. >\n&nbsp;\n\"We are a multicultural, multilingual community, including by statute and mission, a friend of diversity and committed to building the recognition of the other as a precondition for a peaceful coexistence between peoples and cultures,\" is the explanation of the choice they give from the athenean.\n&nbsp;\n\"At this terrible time, a moment in which all the West becomes an accomplice to the endless massacre of Gaza, it is important - they continue - to give a precise sign of friendship and sharing with people who - among us, in Siena, in Italy and in the world - recognize themselves in Islamic culture\". Also confirmed the will to suspend the teaching for the Jewish feast of Kippur> \"to emphasize - it is explained - our closeness to the Jewish people in the anniversary of the massacre of October 7\". &nbsp;",
+        "concepts": [
+            {
+                "word": "University",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Foreigners",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Siena",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ramadan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "massacre",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Gaza",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "The University for Foreigners",
+                "start_char": 0,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Siena",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 73,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europe",
+                "start_char": 57,
+                "end_char": 63,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the University for Foreigners of Siena",
+                "start_char": 169,
+                "end_char": 207,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wednesday, April 10",
+                "start_char": 260,
+                "end_char": 279,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 284,
+                "end_char": 302,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "West",
+                "start_char": 668,
+                "end_char": 672,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 722,
+                "end_char": 726,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Siena",
+                "start_char": 842,
+                "end_char": 847,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 852,
+                "end_char": 857,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Islamic",
+                "start_char": 901,
+                "end_char": 908,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Jewish",
+                "start_char": 975,
+                "end_char": 981,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kippur",
+                "start_char": 991,
+                "end_char": 997,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jewish",
+                "start_char": 1054,
+                "end_char": 1060,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "October 7",
+                "start_char": 1106,
+                "end_char": 1115,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Agguato a Bari, ucciso il nipote del boss Capriati",
+        "date_raw": "Tue, 02 Apr 2024 11:08:58 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/bari-agguato-ucciso-nipote-boss-capriati-25888552/",
+        "subtitle": "",
+        "content": "AGI - Sarà un lungo puzzle quello che dovranno ricomporre gli agenti della squadra mobile di Bari, coordinati dalla pm della procura di Bari Grazia Errede, per dare un volto a chi ha premuto per almeno quattro volte il grilletto all'indirizzo del pregiudicato 41enne Raffaele Capriati,> meglio conosciuto come Lello. L'uomo, con ferite multiple tra testa e torace, è morto subito dopo essere stato trasportato al Policlinico di Bari. \nL'agguato è avvenuto in una strada buia del quartiere Torre a Mare del capoluogo, in via Bari>: da quanto ricostruito fino a questo momento uno o più uomini, arrivati a bordo di un'auto o in sella a uno scooter di grossa cilindrata, si sarebbero accostati al veicolo di Capriati e avrebbero esploso almeno quattro proiettili, per poi fuggire via, probabilmente imboccando la tangenziale. \n<div></div> \n&nbsp; \nIl luogo dell'omicidio, infatti, dista appena 200 metri dall'incrocio per lo svincolo verso la SS16.> All'arrivo degli agenti della polizia di Stato dell'auto di Lello Capriati non c'era più nemmeno l'ombra, tanto che risalendo a targa e modello, gli inquirenti stanno cercando di comprendere che fine abbia fatto e se, come si vocifera, Capriati non fosse da solo in auto. Di certo la scena del delitto è stata contaminata dai mezzi di soccorso> e dal gran numero di persone che si sono avvicinate in zona: per questo saranno fondamentali le risultanze della polizia scientifica, oltre che le immagini di videosorveglianza che gli agenti della Mobile stanno recuperando su un percorso più ampio, vista l'assenza di occhi elettronici nella strada dell'agguato. Per comprendere la direzione dei colpi esplosi, se la distanza sia stata più o meno ravvicinata e quale colpo abbia determinato la morte, sarà necessario attendere l'esito dell'autopsia sul corpo di Capriati che sarà svolta nelle prossime ore all'Istituto di Medicina Legale del Policlinico di Bari.> \nPer tutta la notte i poliziotti, diretti dal dirigente della Mobile, Filippo Portoghese, hanno effettuato controlli e perquisizioni a tappeto in tutto il centro storico di Bari vecchia, oltre ad ascoltare i parenti della vittima. \nInnanzitutto bisognerà comprendere il perché Capriati, che era sorvegliato speciale e residente a poche decine di metri dal commissariato San Nicola di Bari vecchia, fosse a Torre a Mare, e il movente del delitto. Lello, figlio di Sabino e nipote di Antonio Capriati,> boss dell'omonimo gruppo criminale Barese, era uscito dal carcere il 21 agosto 2022 dopo di 17 anni di reclusione: ha scontato una pena per i reati di concorso in omicidio volontario e detenzione di arma da fuoco con l'aggravante di aver favorito un'associazione mafiosa. Nel 2001 Lello Capriati, all'epoca dei fatti appena 18enne, fu coinvolto nella faida tra i gruppi Capriati e Strisciuglio> che culminò con la morte dell'innocente 16enne Michele Fazio: il giovane fu colpito alla nuca e ucciso per errore, mentre tornava a casa, tra i vicoli di Bari vecchia la sera del 12 luglio 2001, in largo Amendoni. \nQuella sera il commando, composto dallo stesso Capriati, Leonardo Ungredda (morto in un agguato sul lungomare di Bari nel 2003), Francesco Annoscia (in libertà dal 2014) e Michele Portoghese (all'epoca minorenne), voleva vendicare la morte del 24enne Francesco Capriati, avvenuta il 29 giugno 2001. Il loro obiettivo era il 31enne Marino Catacchio (poi ucciso nel 2008), che consideravano l'autore del delitto del 24enne: non trovandolo in casa, puntarono sul 26enne Vito De Felice. \nPer il delitto Fazio, Lello Capriati fu arrestato quattro anni dopo il delitto ed è stato scarcerato 18 mesi fa>, festeggiato dai parenti - come spesso accade a Bari - con un video pubblicato su TikTok all'aeroporto Karol Wojtyla di Bari-Palese e tra i fuochi d'artificio nella città vecchia, in piazza San Pietro, da sempre feudo dei Capriati. La presenza di Lello nuovamente tra quei vicoli potrebbe aver smosso qualcosa, come nuovi equilibri sui traffici illeciti. Specie dopo l'operazione \"Codice interno\" di febbraio scorso, che ha portato a ben 137 misure cautelari a carico soprattutto del gruppo Parisi-Palermiti. Con quest'ultimo clan i Capriati hanno trascorso un periodo di lunga \"fratellanza\": rapporto che potrebbe essersi incrinato per qualche fibrillazione interna. \n&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1712138420.302914,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "Assault in Bari, killed the nephew of the boss Capriati",
+        "en_content": "AGI - It will be a long puzzle that will have to recompose the agents of the mobile team of Bari, coordinated by the prosecutor's pm Grazia Errede, to give a face to those who pressed for at least four times the trigger at the address of the offender 41enne Raffaele Capriati, > better known as Lello. The man, with multiple injuries between his head and chest, died immediately after being transported to the Bari Polyclinic.\nThe ambush took place in a dark street of the Torre a Mare district of the capital, in via Bari>: from how much rebuilt until this moment one or more men, arrived on board a car or riding a scooter of big displaced, would have approached the vehicle of Capriati and would have exploded at least four bullets, then escape away, probably taking the ring road.\n<div </div\n&nbsp;\nThe place of the murder, in fact, is just 200 meters from the crossroads to the SS16.> On the arrival of the state police officers of the car of Lello Capriati there was no longer even the shadow, so much so that going up to plate and model, the pollutants are trying to understand what happened and if, as it turns out, Capriati was not alone in the car. Of course the scene of the crime was contaminated by means of rescue > and by the large number of people who approached the area: for this will be fundamental the findings of the scientific police, as well as the images of video surveillance that the agents of Mobile are recovering on a wider path, given the absence of electronic eyes in the road of the attack. To understand the direction of the blows exploded, if the distance has been more or less close and what blow has determined the death, it will be necessary to wait for the outcome of the autopsy on the body of Capriati that will be carried out in the next hours to the Institute of Legal Medicine of the Polyclinic of Bari. >\nThroughout the night, the police officers, headed by the Mobile executive, Filippo Portuguese, carried out carpet inspections and searches throughout the old town of Bari, as well as listening to the relatives of the victim.\nFirst of all, it will be necessary to understand why Capriati, who was guarded special and resident a few dozen meters from the old commissioner San Nicola di Bari, was in Torre a Mare, and the motive of the crime. Lello, son of Sabino and nephew of Antonio Capriati, > boss of the homonymous criminal group Barese, had left prison on 21 August 2022 after 17 years of imprisonment: He served a penalty for contest crimes in voluntary murder and firearm detention with the aggravating of favouring a mafia association. In 2001 Lello Capriati, at the time of the events just 18 years old, was involved in the feud between the groups Capriati and Strisciuglio> which culminated with the death of the innocent 16-year-old Michele Fazio: the young man was shot at the nape and killed by mistake, while returning home, between the streets of Bari old on the evening of 12 July 2001, off Amendoni.\nThat evening the commando, composed by the same Capriati, Leonardo Ungredda (who died in an ambush on the Bari waterfront in 2003), Francesco Annoscia (free from 2014) and Michele Portuguese (at the time of his youth), wanted to avenge the death of the 24-year-old Francesco Capriati, on June 29, 2001. Their goal was the 31-year-old Marino Catacchio (later killed in 2008), who considered the author of the 24-year-old crime: not finding him in the house, they bet on the 26-year-old Vito De Felice.\nFor the crime Fazio, Lello Capriati was arrested four years after the crime and was discarded 18 months ago, celebrated by relatives - as often happens in Bari - with a video published on TikTok at the airport Karol Wojtyla of Bari-Palese and among the fireworks in the old town, in St. Peter's Square, always fief of the Capriati. The presence of Lello again among those alleys may have moved something, as new balances on illicit traffic. Species after the operation \"Internal Code\" last February, which led to well 137 precautionary measures, mainly dependent on the Parisi-Palermiti group. With the latter clan the Capriati have spent a long period of \"fraternity\": report that could have cracked for some internal fibrillation.\n&nbsp;\n&nbsp;",
+        "concepts": [
+            {
+                "word": "Assault",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bari",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nephew",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boss",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Capriati",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "Bari",
+                "start_char": 11,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 47,
+                "end_char": 55,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bari",
+                "start_char": 92,
+                "end_char": 96,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Grazia Errede",
+                "start_char": 133,
+                "end_char": 146,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "at least four",
+                "start_char": 188,
+                "end_char": 201,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Raffaele Capriati",
+                "start_char": 258,
+                "end_char": 275,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lello",
+                "start_char": 295,
+                "end_char": 300,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Bari Polyclinic",
+                "start_char": 406,
+                "end_char": 425,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Torre a Mare district",
+                "start_char": 469,
+                "end_char": 494,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bari",
+                "start_char": 518,
+                "end_char": 522,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 680,
+                "end_char": 688,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "at least four",
+                "start_char": 713,
+                "end_char": 726,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "just 200 meters",
+                "start_char": 840,
+                "end_char": 855,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Lello Capriati",
+                "start_char": 948,
+                "end_char": 962,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 1124,
+                "end_char": 1132,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mobile",
+                "start_char": 1420,
+                "end_char": 1426,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 1733,
+                "end_char": 1741,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the next hours",
+                "start_char": 1770,
+                "end_char": 1784,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Institute of Legal Medicine of the Polyclinic of Bari",
+                "start_char": 1788,
+                "end_char": 1845,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the night",
+                "start_char": 1860,
+                "end_char": 1869,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Mobile",
+                "start_char": 1906,
+                "end_char": 1912,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Filippo Portuguese",
+                "start_char": 1924,
+                "end_char": 1942,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2015,
+                "end_char": 2019,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "First",
+                "start_char": 2074,
+                "end_char": 2079,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Capriati",
+                "start_char": 2127,
+                "end_char": 2135,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few dozen meters",
+                "start_char": 2174,
+                "end_char": 2192,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "San Nicola",
+                "start_char": 2219,
+                "end_char": 2229,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2233,
+                "end_char": 2237,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Torre a Mare",
+                "start_char": 2246,
+                "end_char": 2258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sabino",
+                "start_char": 2303,
+                "end_char": 2309,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "Antonio Capriati",
+                "start_char": 2324,
+                "end_char": 2340,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Barese",
+                "start_char": 2382,
+                "end_char": 2388,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "21 August 2022",
+                "start_char": 2409,
+                "end_char": 2423,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "17 years",
+                "start_char": 2430,
+                "end_char": 2438,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2001",
+                "start_char": 2595,
+                "end_char": 2599,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Lello Capriati",
+                "start_char": 2600,
+                "end_char": 2614,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "just 18 years old",
+                "start_char": 2642,
+                "end_char": 2659,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 2705,
+                "end_char": 2713,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Strisciuglio",
+                "start_char": 2718,
+                "end_char": 2730,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "16-year-old",
+                "start_char": 2780,
+                "end_char": 2791,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Michele Fazio",
+                "start_char": 2792,
+                "end_char": 2805,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 2910,
+                "end_char": 2914,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the evening of",
+                "start_char": 2922,
+                "end_char": 2936,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "12 July 2001",
+                "start_char": 2937,
+                "end_char": 2949,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "That evening",
+                "start_char": 2965,
+                "end_char": 2977,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 3013,
+                "end_char": 3021,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Leonardo Ungredda",
+                "start_char": 3023,
+                "end_char": 3040,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 3071,
+                "end_char": 3075,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2003",
+                "start_char": 3090,
+                "end_char": 3094,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Francesco Annoscia",
+                "start_char": 3097,
+                "end_char": 3115,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2014",
+                "start_char": 3127,
+                "end_char": 3131,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Michele Portuguese",
+                "start_char": 3137,
+                "end_char": 3155,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "24-year-old",
+                "start_char": 3218,
+                "end_char": 3229,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Francesco Capriati",
+                "start_char": 3230,
+                "end_char": 3248,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "June 29, 2001",
+                "start_char": 3253,
+                "end_char": 3266,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "31-year-old",
+                "start_char": 3287,
+                "end_char": 3298,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Marino Catacchio",
+                "start_char": 3299,
+                "end_char": 3315,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2008",
+                "start_char": 3333,
+                "end_char": 3337,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "24-year-old",
+                "start_char": 3373,
+                "end_char": 3384,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "26-year-old",
+                "start_char": 3438,
+                "end_char": 3449,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vito De Felice",
+                "start_char": 3450,
+                "end_char": 3464,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lello Capriati",
+                "start_char": 3487,
+                "end_char": 3501,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "four years",
+                "start_char": 3515,
+                "end_char": 3525,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "18 months ago",
+                "start_char": 3560,
+                "end_char": 3573,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bari",
+                "start_char": 3621,
+                "end_char": 3625,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "TikTok",
+                "start_char": 3654,
+                "end_char": 3660,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Karol Wojtyla",
+                "start_char": 3676,
+                "end_char": 3689,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Bari-Palese",
+                "start_char": 3693,
+                "end_char": 3704,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "St. Peter's Square",
+                "start_char": 3749,
+                "end_char": 3767,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 3788,
+                "end_char": 3796,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lello",
+                "start_char": 3814,
+                "end_char": 3819,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Internal Code",
+                "start_char": 3936,
+                "end_char": 3949,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "last February",
+                "start_char": 3951,
+                "end_char": 3964,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "137",
+                "start_char": 3984,
+                "end_char": 3987,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Parisi",
+                "start_char": 4036,
+                "end_char": 4042,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Capriati",
+                "start_char": 4085,
+                "end_char": 4093,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "La maglia ricorda le SS. La Germania vieta la vendita della n. 44",
+        "date_raw": "Tue, 02 Apr 2024 08:20:06 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/calcio-vietata-vendita-maglia-germania-44-somiglia-ss-25889416/",
+        "subtitle": "",
+        "content": "AGI - L'Adidas, nota azienda di abbigliamento e calzature sportive della Germania, ha vietato ai tifosi di personalizzare la maglia della nazionale tedesca con il numero 44 a causa della sua somiglianza con il simbolo utilizzato dalle 'Schutzstaffel', meglio conosciute con la sigla 'SS', >ovvero organizzazione paramilitare del Partito nazionalsocialista tedesco fondato da Adolf Hitler. \nL'acquisto online della maglia è stato nel frattempo vietato. La divisa da trasferta tedesca ha suscitato polemiche anche per il suo colore rosa. I tifosi dicono che riflette la diversità della Germania, mentre i critici sostengono che non sia tradizionale e che sia una raccolta di soldi organizzata dalla Federcalcio tedesca >(Dfb). \"Noi come azienda ci impegniamo a opporci alla xenofobia, all'antisemitismo, alla violenza e all'odio in ogni forma, bloccheremo la personalizzazione delle maglie\", ha affermato il portavoce dell'Adidas, Oliver Brueggen che ha negato che la somiglianza del kit con i simboli nazisti> fosse intenzionale. \nDisegnata nel 1929, la runa delle 'SS' è diventata sinonimo di alcuni dei peggiori crimini perpetrati dai nazisti. I membri delle 'SS' erano responsabili della sorveglianza dei campi di concentramento, dell'interrogatorio dei sospetti traditori e della gestione dei campi di sterminio, tra essi Auschwitz>, dove furono uccise più di un milione di persone. Dal 14 giugno al 14 luglio la Germania ospiterà la diciassettesima edizione dei Campionati europei di calcio. Le città coinvolte saranno dieci.&nbsp;",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1712138420.3029363,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "The mesh reminds the SS. Germany prohibits the sale of No 44",
+        "en_content": "AGI - The Adidas, a well-known German clothing and sports footwear company, has banned fans from customizing the German national jersey with the number 44 because of its similarity to the symbol used by the 'Schutzstaffel', better known with the abbreviation 'SS', > that is, paramilitary organization of the German National Socialist Party founded by Adolf Hitler.\nThe online purchase of the shirt has been banned. The German travel uniform aroused controversy for its pink color. Fans say that it reflects Germany's diversity, while critics argue that it is not traditional and that it is a collection of money organized by the German Football Federation >(Dfb). \"We as a company commit ourselves to oppose xenophobia, anti-Semitism, violence and hatred in every form, we will block the customization of the shirts,\" said Adidas spokesman, Oliver Brueggen, who denied that the similarity of the kit with Nazi symbols would be intentional.\nDesigned in 1929, the \"SS\" rune became synonymous with some of the worst crimes perpetrated by the Nazis. The members of the SS were responsible for monitoring concentration camps, interrogating traitorous suspects and managing extermination camps, including Auschwitz, where more than a million people were killed. From 14 June to 14 July Germany will host the seventeenth edition of the European Football Championships. The cities involved will be ten.&nbsp;",
+        "concepts": [
+            {
+                "word": "mesh",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SS",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sale",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "SS",
+                "start_char": 21,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Germany",
+                "start_char": 25,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Adidas",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "German",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 113,
+                "end_char": 119,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "44",
+                "start_char": 152,
+                "end_char": 154,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the German National Socialist Party",
+                "start_char": 305,
+                "end_char": 340,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Adolf Hitler",
+                "start_char": 352,
+                "end_char": 364,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "German",
+                "start_char": 420,
+                "end_char": 426,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Germany",
+                "start_char": 508,
+                "end_char": 515,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the German Football Federation",
+                "start_char": 626,
+                "end_char": 656,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Adidas",
+                "start_char": 824,
+                "end_char": 830,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Oliver Brueggen",
+                "start_char": 842,
+                "end_char": 857,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nazi",
+                "start_char": 906,
+                "end_char": 910,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "1929",
+                "start_char": 953,
+                "end_char": 957,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Nazis",
+                "start_char": 1040,
+                "end_char": 1045,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "SS",
+                "start_char": 1066,
+                "end_char": 1068,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Auschwitz",
+                "start_char": 1200,
+                "end_char": 1209,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than a million",
+                "start_char": 1217,
+                "end_char": 1236,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "14 June",
+                "start_char": 1262,
+                "end_char": 1269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "July",
+                "start_char": 1276,
+                "end_char": 1280,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Germany",
+                "start_char": 1281,
+                "end_char": 1288,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "seventeenth",
+                "start_char": 1303,
+                "end_char": 1314,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the European Football Championships",
+                "start_char": 1326,
+                "end_char": 1361,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "en_subtitle": ""
+    },
+    {
+        "title": "Ancora un po' di piogge al Nord prima del sole e clima mite",
+        "date_raw": "Tue, 02 Apr 2024 07:37:14 GMT",
+        "date": "2024-04-02",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-02/meteo-passaggio-instabile-nord-arrivo-sole-clima-mite-25888830/",
+        "subtitle": "",
+        "content": "AGI - Archiviata la fase di maltempo delle festività pasquali il tempo risulta in graduale miglioramento ma non mancheranno ancora disturbi. Nella giornata di domani ecco che il transito di un piccolo cavetto d'onda porterà un aumento dell'instabilità sulle regioni del Nord Italia con piogge e acquazzoni sparsi, più asciutto invece al Centro-Sud ma con un po' di nuvolosità in transito. Nella seconda parte della settimana tempo più stabile per tutti grazie alla rimonta dell'alta pressione. Sono gli ultimi aggiornamenti del Centro Meteo Italiano che, per il primo weekend di aprile, confermano un'esplosione della primavera grazie a un robusto promontorio anticiclonico sul Mediterranneo. Tempo più stabile con sole prevalente e clima molto mite con temperature anche di 8-10 gradi al di sopra delle medie del periodo. \n<h2>Previsioni meteo per oggi</h2> \nAl Nord&nbsp;>Tempo nel complesso stabile al mattino sulle regioni settentrionali salvo locali fenomeni su Liguria e Alpi orientali. Al pomeriggio ancora qualche precipitazione possibile sul Triveneto con neve oltre i 1600-1700 metri sulle Alpi, sole prevalente altrove. Nuvolosità in aumento dalla serata. \nAl Centro> Giornata all'insegna del tempo asciutto sulle regioni del Centro con cieli sereni o poco nuvolosi sia al mattino che al pomeriggio. Da segnalare qualche isolata pioggia solo sull'alta Toscana. In serata e nottata tempo asciutto con nubi sparse e schiarite ovunque. \nAl Sud e sulle Isole> Condizioni di tempo asciutto nel corso della giornata sulle regioni meridionali quando avremo cieli sereni o poco nuvolosi sia al mattino che al pomeriggio. In serata e nottata nessuna variazione con ampi spazi di sereno. Temperature minime in generale diminuzione, massime in calo al Centro-Sud e in rialzo al Nord. \n<h2>Previsioni meteo per domani</h2> \nAl Nord> Al mattino tempo instabile su tutte le regioni con cieli nuvolosi e piogge sparse, neve su Alpi e Appennini oltre i 1300-1400 metri. Al pomeriggio inizia a migliorare al Nord-Ovest, per lo più invariato altrove con quota neve in rialzo sui 1400-1600 metri. In serata e in nottata tempo in miglioramento con graduali schiarite, residui fenomeni al Nord-Est. \nAl Centro> Al mattino cieli per lo più nuvolosi su tutte le regioni ma con tempo asciutto. Piogge in arrivo nelle ore pomeridiane tra Toscana e Umbria. In serata e nottata tempo asciutto su tutte le regioni, con ampie schiarite e addensamenti bassi sul versante tirrenico. \nAl Sud e sulle Isole> Al mattino tempo stabile su tutte le regioni con cieli irregolarmente nuvolosi tra Campania, Molise e Puglia settentrionale, sereno o poco nuvoloso altrove. Al pomeriggio ancora tempo asciutto con nuvolosità e schiarite, soleggiato sulle Isole Maggiori. In serata e nottata si rinnovano condizioni di tempo stabile con cieli sereni o poco nuvolosi ovunque. Temperature minime in rialzo al Centro-Nord e sulla Sardegna e in calo al Sud e sulla Sicilia, massime in calo al Nord e stabili o in lieve rialzo sul resto d'Italia.&nbsp;",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1712138420.3029556,
+        "language": "it",
+        "source": "AGI_Cronaca",
+        "local_time": "2024-04-03 12:00:20",
+        "filename": "ner_conc_en_2024-04-03T12.00.19E1712145619.869887.json",
+        "en_title": "A little rain in the North before the sun and mild climate",
+        "en_content": "AGI - Archived the bad weather of Easter holidays the time is gradually improving but there will still be no disturbances. In the day of tomorrow, the transit of a small wave cave will bring an increase of instability on the regions of Northern Italy with rains and scattered showers, dryer instead to the Centro-Sud but with a little cloudy in transit. In the second part of the week the most stable time for everyone thanks to the reassembly of high pressure. These are the latest updates of the Italian Meteo Centre which, for the first weekend of April, confirm an explosion of spring thanks to a robust anti-cyclonic promontory on the Mediterranean. More stable weather with prevailing sun and very mild climate with temperatures even 8-10 degrees above the averages of the period.\n<h2> Weather forecast for today\nAl Nord&nbsp;>Tempo overall stable in the morning on the northern regions except local phenomena on Liguria and Eastern Alps. In the afternoon still some possible precipitation on the Triveneto with snow over 1600-1700 meters on the Alps, sun prevalent elsewhere. Nuvolity rising from the evening.\nAt the Centre> Day of dry weather on the regions of the Centre with calm or unmarried skies both in the morning and in the afternoon. To report some isolated rain only on high Tuscany. In the evening and night dry time with scattered clouds and lightened everywhere.\nIn the South and the Islands > Conditions of dry time during the day on the southern regions when we have clear or unmarried skies both in the morning and in the afternoon. In the evening and night no variation with wide spaces of serene. Minimum temperatures in general decrease, maximum in decrease to the Centre-South and in rise to the North.\n<h2> Weather forecast for tomorrow\nTo the North In the morning time unstable on all regions with cloudy skies and scattered rains, snow on the Alps and Apennines over 1300-1400 meters. In the afternoon it begins to improve in the North-West, mostly unchanged elsewhere with snow altitude rising on 1400-1600 meters. In the evening and in the night in improvement with gradual clearing, residual phenomena in the Northeast.\nTo the Centre In the morning skies mostly cloudy on all regions but with dry weather. Incoming rains in the afternoon between Tuscany and Umbria. In the evening and night dry weather on all regions, with wide clearing and low compensation on the Tyrrhenian side.\nSouth and Islands In the morning stable time on all regions with irregularly cloudy skies between Campania, Molise and northern Puglia, serene or little cloudy elsewhere. In the afternoon still dry weather with cloudiness and lightening, sunny on the Major Islands. In the evening and night, stable weather conditions are renewed with calm or unmarried skies everywhere. Minimum rise temperatures at the Centre-Nord and on Sardinia and falling in the South and Sicily, maximum falling in the North and stable or slightly up the rest of Italy.&nbsp;",
+        "concepts": [
+            {
+                "word": "rain",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "North",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ],
+        "title_NER": [
+            {
+                "word": "North",
+                "start_char": 21,
+                "end_char": 26,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Easter",
+                "start_char": 34,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the day of tomorrow",
+                "start_char": 126,
+                "end_char": 145,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Northern Italy",
+                "start_char": 236,
+                "end_char": 250,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "second",
+                "start_char": 361,
+                "end_char": 367,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the week",
+                "start_char": 376,
+                "end_char": 384,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Italian Meteo Centre",
+                "start_char": 494,
+                "end_char": 518,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the first weekend of April",
+                "start_char": 530,
+                "end_char": 556,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Mediterranean",
+                "start_char": 640,
+                "end_char": 653,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "8-10 degrees",
+                "start_char": 740,
+                "end_char": 752,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "today",
+                "start_char": 813,
+                "end_char": 818,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Al Nord&nbsp;>Tempo",
+                "start_char": 819,
+                "end_char": 838,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the morning",
+                "start_char": 857,
+                "end_char": 868,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 919,
+                "end_char": 926,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Eastern Alps",
+                "start_char": 931,
+                "end_char": 943,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 948,
+                "end_char": 961,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Triveneto",
+                "start_char": 1003,
+                "end_char": 1012,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1600-1700",
+                "start_char": 1028,
+                "end_char": 1037,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Alps",
+                "start_char": 1052,
+                "end_char": 1056,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Centre",
+                "start_char": 1120,
+                "end_char": 1130,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 1293,
+                "end_char": 1300,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 1305,
+                "end_char": 1326,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "South",
+                "start_char": 1391,
+                "end_char": 1396,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the day",
+                "start_char": 1445,
+                "end_char": 1452,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the evening",
+                "start_char": 1560,
+                "end_char": 1571,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "night",
+                "start_char": 1576,
+                "end_char": 1581,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Centre-South",
+                "start_char": 1688,
+                "end_char": 1704,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "North",
+                "start_char": 1724,
+                "end_char": 1729,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 1757,
+                "end_char": 1765,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "morning",
+                "start_char": 1786,
+                "end_char": 1793,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Alps",
+                "start_char": 1874,
+                "end_char": 1878,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "1300-1400",
+                "start_char": 1898,
+                "end_char": 1907,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 1919,
+                "end_char": 1932,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the North-West",
+                "start_char": 1957,
+                "end_char": 1971,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "1400-1600",
+                "start_char": 2029,
+                "end_char": 2038,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the evening",
+                "start_char": 2050,
+                "end_char": 2061,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Northeast",
+                "start_char": 2143,
+                "end_char": 2152,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Centre In",
+                "start_char": 2157,
+                "end_char": 2170,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "morning",
+                "start_char": 2175,
+                "end_char": 2182,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 2262,
+                "end_char": 2271,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 2280,
+                "end_char": 2287,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Umbria",
+                "start_char": 2292,
+                "end_char": 2298,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 2303,
+                "end_char": 2324,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tyrrhenian",
+                "start_char": 2400,
+                "end_char": 2410,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "South",
+                "start_char": 2417,
+                "end_char": 2422,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "morning",
+                "start_char": 2442,
+                "end_char": 2449,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Campania, Molise",
+                "start_char": 2515,
+                "end_char": 2531,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Puglia",
+                "start_char": 2545,
+                "end_char": 2551,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 2591,
+                "end_char": 2604,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Major Islands",
+                "start_char": 2664,
+                "end_char": 2681,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 2686,
+                "end_char": 2707,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Centre-Nord",
+                "start_char": 2817,
+                "end_char": 2832,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 2840,
+                "end_char": 2848,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "South",
+                "start_char": 2868,
+                "end_char": 2873,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sicily",
+                "start_char": 2878,
+                "end_char": 2884,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "North",
+                "start_char": 2909,
+                "end_char": 2914,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italy.&nbsp",
+                "start_char": 2953,
+                "end_char": 2964,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "en_subtitle": ""
+    }
+]
