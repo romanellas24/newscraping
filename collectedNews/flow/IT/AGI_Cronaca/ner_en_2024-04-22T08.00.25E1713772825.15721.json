@@ -1,0 +1,3789 @@
+[
+    {
+        "title": "Giornata Terra: Coldiretti, il consumo del suolo brucia 1 miliardo di cibo all'anno",
+        "date_raw": "Sun, 21 Apr 2024 23:30:00 GMT",
+        "date": "2024-04-21",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-21/earth-day-coldiretti-consumo-suolo-brucia-cibo-26115774/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Il consumo di suolo fertile brucia in Italia 1 miliardo di euro di cibo all'anno, con cementificazione e fotovoltaico selvaggio che erodono migliaia di ettari di terreni agricoli aggravando la dipendenza alimentare dell'Italia dall'estero. È quanto emerge una stima Coldiretti su dati Crea-Ispra diffusa per la Giornata della Terra che si celebra il 22 aprile.<br> Guerre e pandemia non hanno fermato il consumo di suolo che, secondo l'ultimo rapporto Ispra, anzi, ha accelerato arrivando a \"cancellare\" 76,8 km quadrati ettari di terreni, alla velocità di 2,4 metri quadrati al secondo. Un dato in aumento del 10% rispetto all'analisi precedente e che ci dicono che, complessivamente, le superfici occupate ammontano a poco meno di 2,2 milioni di ettari (il 7,14% del totale nazionale). \n&nbsp; \nAi danni causati dalla cementificazione, si stanno aggiungendo quelli del fotovoltaico selvaggio - denuncia Coldiretti - con la copertura di intere aree agricole produttive con distese di ettari di pannelli a terra. Impianti spesso realizzati da fondi di investimento speculativi e resi possibili da un far west normativo che deriva dall'assenza di regole di governo del territorio. \n&nbsp; \nIl caso della Tuscia>. La provincia di Viterbo rappresenta un caso simbolo, dove gli agricoltori della Coldiretti stanno lottando contro la realizzazione di nuovi impianti fotovoltaici >a terra e di pale eoliche in una situazione in cui quasi la metà della superficie agricola utilizzata in provincia è stata già occupata dai pannelli.<br> Al contrario la Coldiretti sostiene un modello di transizione energetica che vede le imprese agricole protagoniste attraverso, ad esempio, le comunità energetiche, gli impianti solari sui tetti e l'agrivoltaico> sostenibile e sospeso da terra che consentono di integrare il reddito degli agricoltori con la produzione energetica rinnovabile, con una ricaduta positiva sulle colture e sul territorio. \n&nbsp; \n\"L'erosione di terreni fertili mette oggi a rischio la sovranità alimentare del Paese ed è necessario invertire la rotta, mettendo finalmente dei paletti al fotovoltaico selvaggio - ha dichiarato il presidente della Coldiretti Ettore Prandini - Un altro passo essenziale è accelerare sull'approvazione della legge sul consumo di suolo che potrebbe dotare l'Italia di uno strumento all'avanguardia per la protezione del suo territorio\".",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7236385,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Earth Day: Coldiretti, soil consumption burns 1 billion food per year",
+        "en_content": "AGI -&nbsp;The consumption of fertile soil burns in Italy 1 billion euros of food per year, with cementification and wild photovoltaics that erode thousands of hectares of agricultural land aggravating the food dependence of Italy from abroad. It is what emerges a Coldiretti estimate on data Crea-Ispra widespread for Earth Day that is celebrated on April 22.<br> Wars and pandemic did not stop the consumption of soil that, according to the last Ispra report, on the contrary, accelerated reaching \"cancellare\" 76.8 square km of land, at the speed of 2.4 square meters per second. An increase of 10% compared to the previous analysis and that tell us that, altogether, the occupied surfaces amounted to a little less than 2.2 million hectares ( 7.14% of the national total).\n&nbsp;\nTo the damage caused by cementification, are added those of the wild photovoltaic - denounces Coldiretti - with the cover of entire productive agricultural areas with stretches of hectares of panels on the ground. Plants often made from speculative investment funds and made possible by a normative far west that derives from the absence of rules of government of the territory.\n&nbsp;\nThe case of Tuscia>. The province of Viterbo is a symbolic case, where the farmers of Coldiretti are fighting against the construction of new photovoltaic plants > on land and wind turbines in a situation where almost half of the agricultural area used in the province has already been occupied by the panels.<br> On the contrary, Coldiretti supports a model of energy transition that sees the agricultural enterprises protagonists through, for example, energy communities, solar plants on roofs and sustainable agrivoltaic > suspended from land that allow to integrate the income of farmers with renewable energy production, with a positive fall on crops and on the territory.\n&nbsp;\n\"The erosion of fertile soils today puts at risk the food sovereignty of the country and it is necessary to reverse the course, finally putting stakes to the wild photovoltaic - said the president of Coldiretti Ettore Prandini - Another essential step is to accelerate on the approval of the law on land consumption that could equip Italy of a cutting edge tool for the protection of its territory\".",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Earth Day",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 11,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1 billion",
+                "start_char": 46,
+                "end_char": 55,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 52,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1 billion",
+                "start_char": 58,
+                "end_char": 67,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "thousands",
+                "start_char": 147,
+                "end_char": 156,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 225,
+                "end_char": 230,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 265,
+                "end_char": 275,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Earth Day",
+                "start_char": 319,
+                "end_char": 328,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "April 22.<br",
+                "start_char": 351,
+                "end_char": 363,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ispra",
+                "start_char": 448,
+                "end_char": 453,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "76.8 square km",
+                "start_char": 513,
+                "end_char": 527,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "2.4 square meters",
+                "start_char": 553,
+                "end_char": 570,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "10%",
+                "start_char": 598,
+                "end_char": 601,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "a little less than 2.2 million",
+                "start_char": 705,
+                "end_char": 735,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "7.14%",
+                "start_char": 747,
+                "end_char": 752,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 878,
+                "end_char": 888,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuscia",
+                "start_char": 1182,
+                "end_char": 1188,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Viterbo",
+                "start_char": 1207,
+                "end_char": 1214,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 1256,
+                "end_char": 1266,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "almost half",
+                "start_char": 1381,
+                "end_char": 1392,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Coldiretti",
+                "start_char": 1501,
+                "end_char": 1511,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 1885,
+                "end_char": 1890,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Coldiretti Ettore Prandini - Another",
+                "start_char": 2055,
+                "end_char": 2091,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 2188,
+                "end_char": 2193,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Incidente con pullmino a Enna: 7 feriti, 2 gravissimi",
+        "date_raw": "Sun, 21 Apr 2024 19:21:23 GMT",
+        "date": "2024-04-21",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-21/enna-incidente-pullmino-feriti-gravissimi-26117790/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;È di sette feriti, di cui due trasportati in elisoccorso negli ospedali di Catania e Caltanissetta, il bilancio di un incidente avvenuto nel primo pomeriggio sull'autostrada \nA19 Palermo Catania,> nella tratta tra gli svincoli di Mulinello e Agira (EN). Al momento l'autostrada è chiusa al transito sulla corsia in direzione Catania. Da una prima ricostruzione l'incidente che ha coinvolto un pulmino, sarebbe autonomo, ma le cause sono in corso di accertamento. Sul posto stanno operando i vigili del fuoco di Leonforte (En) ed Enna sono intervenute, oltre ai due elicotteri, anche 4 ambulanze. Le condizioni dei due \nferiti trasferiti in elisoccorso>, sarebbero gravissime. Si attende la ricostruzione della dinamica. Il conducente avrebbe perso il controllo per cause ancora non note e il mezzo ha violentemente sbattuto contro le barriere di protezione.",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7236907,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Engraving with a pull in Enna: 7 wounded, 2 very serious",
+        "en_content": "AGI -&nbsp;It is seven wounded, of which two transported in elixoccorso in the hospitals of Catania and Caltanissetta, the balance of an incident occurred in the early afternoon on the highway\nA19 Palermo Catania, > in the tract between the junctions of Mulinello and Agira (EN). At the moment the highway is closed to the transit on the lane towards Catania. From a first reconstruction the incident that involved a bus would be autonomous, but the causes are under investigation. On the spot the firefighters of Leonforte (En) and Enna intervened, in addition to the two helicopters, also 4 ambulances. The conditions of the two\nwounded transferred to elixoccorso>, would be very serious. The reconstruction of dynamics is expected. The driver would have lost control for still unnoticed causes and the vehicle violently slammed against the protective barriers.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Enna",
+                "start_char": 25,
+                "end_char": 29,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "7",
+                "start_char": 31,
+                "end_char": 32,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2",
+                "start_char": 42,
+                "end_char": 43,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "seven",
+                "start_char": 17,
+                "end_char": 22,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 41,
+                "end_char": 44,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Catania",
+                "start_char": 92,
+                "end_char": 99,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Caltanissetta",
+                "start_char": 104,
+                "end_char": 117,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "early afternoon",
+                "start_char": 162,
+                "end_char": 177,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "A19 Palermo Catania",
+                "start_char": 193,
+                "end_char": 212,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mulinello",
+                "start_char": 254,
+                "end_char": 263,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Agira",
+                "start_char": 268,
+                "end_char": 273,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Catania",
+                "start_char": 351,
+                "end_char": 358,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 367,
+                "end_char": 372,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Leonforte (En",
+                "start_char": 514,
+                "end_char": 527,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Enna",
+                "start_char": 533,
+                "end_char": 537,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 569,
+                "end_char": 572,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 591,
+                "end_char": 592,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 627,
+                "end_char": 630,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "E' morto Vincenzo Agostino, suo figlio poliziotto fu ucciso dalla mafia",
+        "date_raw": "Sun, 21 Apr 2024 18:53:21 GMT",
+        "date": "2024-04-21",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-21/morto-vincenzo-agostino-figlio-fu-ucciso-da-mafia-26111583/",
+        "subtitle": "",
+        "content": "AGI - È morto Vincenzo&nbsp;Agostino, il papà dell'agente della Polizia di Stato Nino, ucciso da Cosa Nostra assieme alla moglie Ida Castelluccio, l'8 agosto 1989. Vincenzo&nbsp;Agostino, nato il 22 marzo 1937, era il papà coraggio, che non si era mai rassegnato alla morte del figlio e della nuora - incinta di qualche mese - e aveva da subito denunciato i tentativi di depistaggio legati al duplice omicidio. Aveva una lunga barba bianca che - aveva detto - \"non avrebbe più tagliato\" fino a quando non sarebbe emersa la verità sui mandanti del duplice omicidio, sui silenzi e soprattutto sui depistaggi alle indagini. Vincenzo ha continuato a combattere per il figlio anche dopo la morte di sua moglie, Augusta Schiera, avvenuta a febbraio 2019.&nbsp; \n&nbsp; \nDella morte di Nino e di Ida - per cui furono molteplici le piste investigative, di cui alcune totalmente depistanti - sono state accusate tre persone, tra le quali il boss di Resuttana Nino Madonia, il killer preferito da Toto' Riina, che ha optato per il rito abbreviato e nel 2021 è stato condannato all'ergastolo, confermato anche in appello il 5 ottobre scorso. Anche quel giorno Vincenzo - accompagnato dalle figlie, dai nipoti e dalla sua inseparabile scorta ma senza piu' la moglie Augusta - si presento' al palazzo di giustizia di Palermo. \n&nbsp; \n<div></div> Dopo la sentenza, Vincenzo Agostino - con la sua barba bianca e il passo lento ma deciso agevolato da un bastone - fu netto, come sempre: \"Sono soddisfatto perché hanno condannato il macellaio di mio figlio e di mia nuora. Soddisfatto anche per mia moglie, desideravo tanto che ci fosse anche lei accanto a me. Ora toglierò la scritta sulla sua lapide 'morta in attesa di verità e giustizia'. Si sta avvicinando il giorno in cui potrei tagliare la barba, perché&nbsp;si avvia a conclusione anche il procedimento ordinario, in caso di condanna posso dire che quel giorno posso mantenere la promessa che ho fatto sulla tomba di mio figlio\". \"Oggi - aveva scritto su Facebook il mese prima rivolgendosi alla moglie - avremmo festeggiato 64 anni di matrimonio. Ogni secondo senza di te è un'agonia, mi manchi infinitamente. Continuerò ad amarti, sempre tuo, Vincenzo\". \n&nbsp; \n<div></div> \n&nbsp; \nGli altri due imputati - sotto processo con il rito ordinario - sono il boss dell'Arenella Gaetano Scotto, accusato del duplice omicidio aggravato, e Francesco Paolo Rizzuto, uno amico di Nino&nbsp;Agostino, accusato di favoreggiamento. Anche in questo procedimento Vincenzo - costituitosi parte civile, assistito dall'avvocato Fabio Repici e con lui anche le figlie, i nipoti e i familiari di Ida Castelluccio, tra gli altri - ha sempre voluto essere presente, a ogni udienza, nonostante gli acciacchi dovuti all'età. Assisterà da altrove alla sentenza, essendo il processo alle battute finali: hanno già discusso le parti civili, il 3 maggio e il 21 sono in programma gli interventi dei difensori degli imputati e poi la Corte d'assise, presieduta da Sergio Gulotta, dovrebbe ritirarsi in camera di consiglio per la sentenza.&nbsp; \n&nbsp; \n<h2>Nino Agostino, il poliziotto che dava la caccia ai latitanti></h2> \n<br> Nino&nbsp;Agostino&nbsp;era un agente in servizio al commissariato San Lorenzo di Palermo che avrebbe fatto parte, inoltre, di un gruppo che collaborava con i Servizi segreti per la cattura dei latitanti mafiosi. Questa sarebbe stata la causa della sua morte decisa da Cosa nostra. I molteplici depistaggi alle indagini, sono venuti alla luce anche grazie alla perseveranza di Vincenzo&nbsp;Agostino&nbsp;e di sua moglie Augusta Schiera. Un momento, importante, in questa lunga e faticosa battaglia di verità, fu il 26 febbraio 2016, quando nell'aula bunker del carcere Ucciardone ci fu un drammatico riconoscimento all'americana. Vincenzo riconobbe in \"faccia da mostro\" Giovanni Aiello, ex poliziotto e ritenuto killer che orbitava tra servizi e criminalità: \"Io ho fatto il mio dovere. Ora - disse al termine di quella giornata - tocca alla magistratura. Ho riconosciuto faccia da mostro anche se era ben truccato. Erano in tre per il confronto ma l'ho riconosciuto subito. Come ho detto in tutti questi anni quella faccia è indimenticabile\". Vincenzo&nbsp;Agostino, infatti, aveva raccontato ai magistrati che qualche giorno prima del delitto in due erano venuti a cercare suo figlio nella casa di Carini, si qualificarono come colleghi e uno aveva un volto butterato, da mostro. \"Indimenticabile\", appunto.&nbsp; \n&nbsp; \n<h2>Don Ciotti, quella barba lunga come la sofferenza</h2> \n\"Una barba lunga come lunga è stata la sofferenza di Vincenzo: 35 anni di lutto per un figlio ammazzato dalla mafia. Era il suo tratto distintivo, che ce lo faceva riconoscere in mezzo alla folla nelle manifestazioni e negli incontri pubblici. Quella barba la vogliamo oggi ricordare come il segno della costanza di Vincenzo, della sua determinazione nel cercare verità e giustizia per suo figlio, sua nuora e il loro bambino mai nato. La scelta di non tagliarsi la barba, finché&nbsp;non avesse ottenuto risposte chiare dallo Stato, negli anni lo ha reso una figura simbolica agli occhi di tante altre persone nella stessa situazione\". Lo dichiara in una nota don Luigi Ciotti, presidente Libera. \n\"Ecco - scrive - tutti speriamo che quella lunga, insopportabile attesa non sia stata vana. Fra poche settimane si chiuderà l'ultimo dei processi ancora in corso sul delitto Agostino, dopo che alcune condanne sono già state emesse. Il nostro saluto a Vincenzo è reso meno amaro dalla consapevolezza che il risultato inseguito per tutti questi anni è finalmente a portata di mano. E dalla gratitudine che proviamo perché, attraverso il suo esempio, tante altre persone e famiglie hanno trovato la forza di trasformare la memoria sofferente in un impegno di speranza\", aggiunge.&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7237244,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Vincenzo Agostino died, his son policeman was killed by the mob",
+        "en_content": "AGI - Vincenzo&nbsp died; Augustine, the father of the police officer Nino, killed by Cosa Nostra together with his wife Ida Castelluccio, on August 8, 1989. Vincenzo&nbsp; Augustine, born on March 22, 1937, was the courageous father, who had never resigned to the death of his son and daughter-in-law - pregnant a few months - and had immediately denounced the attempts of deceiving linked to the double murder. He had a long white beard that - he said - \"would not cut off\" until the truth about the mandates of the double murder, silences and above all the depistaggies to the investigations emerged. Vincenzo continued to fight for his son even after his wife's death, Augusta Schiera, in February 2019.&nbsp;\n&nbsp;\nOf the death of Nino and Ida - for which there were many investigative tracks, of which some totally deceiving - were accused three people, including the boss of Resuttana Nino Madonia, the preferred killer by Toto' Riina, who opted for the short rite and in 2021 was sentenced to life imprisonment, also confirmed on appeal on 5 October. Also that day Vincenzo - accompanied by daughters, grandchildren and his inseparable escort but without any more his wife Augusta - showed up at the justice palace of Palermo.\n&nbsp;\n<div </div After the sentence, Vincenzo Agostino - with his white beard and the slow but decided step facilitated by a stick - was clearly, as always: \"I am satisfied because they have condemned the butcher of my son and daughter. Satisfied also for my wife, I wanted her to be there with me. Now I will remove the writing on his stone 'dead waiting for truth and justice'. It is approaching the day when I could cut the beard, because &nbsp; the ordinary procedure is also being completed, in case of conviction I can say that that day I can maintain the promise I made on my son's grave.\" \"Today - he had written on Facebook the month before addressing his wife - we would have celebrated 64 years of marriage. Every second without you is an agony, I miss you infinitely. I will continue to love you, always yours, Vincenzo.\"\n&nbsp;\n<div </div\n&nbsp;\nThe other two defendants - under trial with the ordinary rite - are the boss of the Arenella Gaetano Scotto, accused of the double aggravated murder, and Francesco Paolo Rizzuto, a friend of Nino&nbsp; Augustine, accused of favoring. Also in this procedure Vincenzo - constituted civil part, assisted by lawyer Fabio Repici and with him also daughters, grandchildren and family of Ida Castelluccio, among others - has always wanted to be present, at every hearing, despite the attacks due to age. He will assist from elsewhere in the sentence, being the trial at the final jokes: have already discussed the civil parts, on 3 May and 21 are scheduled the interventions of the defenders of the defendants and then the Court ofassis, chaired by Sergio Gulotta, should retire in the council chamber for the sentence.&nbsp;\n&nbsp;\n<h2>Nino Augustine, the policeman who hunted the complainants\n<br> Nino&nbsp;Agostino&nbsp; was an agent in service at the San Lorenzo Commissioner in Palermo who would also be part of a group that collaborated with the Secret Service for the capture of mafia latients. This would have been the cause of his death determined by What ours. The many depistages to the investigations, also came to light thanks to the perseverance of Vincenzo&nbsp; Augusta Schiera. A moment, important, in this long and tiring battle of truth, was on February 26, 2016, when in the bunker room of the prison Ucciardone there was a dramatic American recognition. Vincenzo recognised in \"monkey face\" Giovanni Aiello, a former police officer and considered a killer orbiting services and crime: \"I did my duty. Now - he said at the end of that day - it touches the judiciary. I recognized a monster face even though he was well made. They were in three for the confrontation, but I immediately recognized him. As I have said in all these years that face is unforgettable.\" Vincenzo&nbsp; Augustine, in fact, had told the magistrates that a few days before the crime in two had come to look for his son in the house of Carini, they qualified as colleagues and one had a face thrown, as a monster. \"Unforgettable\", in fact.&nbsp;\n&nbsp;\n<h2>Don Ciotti, that long beard as suffering\n\"A long beard as long was the suffering of Vincenzo: 35 years of mourning for a son killed by the mob. It was his distinctive trait, which made us recognize him in the crowd in public events and meetings. That beard we want today to remember as the sign of the constancy of Vincenzo, of his determination to seek truth and justice for his son, his daughter and their child never born. The choice not to cut the beard, until he had obtained clear answers from the state, over the years made it a symbolic figure in the eyes of many other people in the same situation\". He declares it in a note Don Luigi Ciotti, President Libera.\n\"Behold - he writes - we all hope that the long, unbearable wait has not been vain. In a few weeks will close the last of the processes still in progress on the murder Agostino, after some convictions have already been issued. Our greeting to Vincenzo is made less bitter by the awareness that the result pursued for all these years is finally at hand. And from the gratitude we feel because, through his example, many other people and families have found the strength to transform suffering memory into a commitment of hope,\" he adds.&nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Vincenzo Agostino",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Augustine",
+                "start_char": 26,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nino",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cosa Nostra",
+                "start_char": 86,
+                "end_char": 97,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ida Castelluccio",
+                "start_char": 121,
+                "end_char": 137,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "August 8, 1989",
+                "start_char": 142,
+                "end_char": 156,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Augustine",
+                "start_char": 173,
+                "end_char": 182,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "March 22, 1937",
+                "start_char": 192,
+                "end_char": 206,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a few months - and",
+                "start_char": 313,
+                "end_char": 331,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Augusta Schiera",
+                "start_char": 673,
+                "end_char": 688,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "February 2019.&nbsp",
+                "start_char": 693,
+                "end_char": 712,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Nino",
+                "start_char": 737,
+                "end_char": 741,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 847,
+                "end_char": 852,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Resuttana Nino Madonia",
+                "start_char": 883,
+                "end_char": 905,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Toto",
+                "start_char": 931,
+                "end_char": 935,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Riina",
+                "start_char": 937,
+                "end_char": 942,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2021",
+                "start_char": 980,
+                "end_char": 984,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "5 October",
+                "start_char": 1049,
+                "end_char": 1058,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Augusta",
+                "start_char": 1182,
+                "end_char": 1189,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palermo",
+                "start_char": 1227,
+                "end_char": 1234,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vincenzo Agostino",
+                "start_char": 1274,
+                "end_char": 1291,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the day",
+                "start_char": 1635,
+                "end_char": 1642,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Today",
+                "start_char": 1835,
+                "end_char": 1840,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Facebook the month",
+                "start_char": 1861,
+                "end_char": 1879,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "64 years",
+                "start_char": 1934,
+                "end_char": 1942,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vincenzo",
+                "start_char": 2060,
+                "end_char": 2068,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 2106,
+                "end_char": 2109,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Arenella Gaetano Scotto",
+                "start_char": 2176,
+                "end_char": 2203,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Paolo Rizzuto",
+                "start_char": 2260,
+                "end_char": 2273,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Augustine",
+                "start_char": 2298,
+                "end_char": 2307,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vincenzo",
+                "start_char": 2353,
+                "end_char": 2361,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fabio Repici",
+                "start_char": 2407,
+                "end_char": 2419,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ida Castelluccio",
+                "start_char": 2477,
+                "end_char": 2493,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "3 May and 21",
+                "start_char": 2719,
+                "end_char": 2731,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Court",
+                "start_char": 2812,
+                "end_char": 2817,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sergio Gulotta",
+                "start_char": 2838,
+                "end_char": 2852,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nino Augustine",
+                "start_char": 2926,
+                "end_char": 2940,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "San Lorenzo",
+                "start_char": 3045,
+                "end_char": 3056,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palermo",
+                "start_char": 3073,
+                "end_char": 3080,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Secret Service",
+                "start_char": 3138,
+                "end_char": 3156,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "mafia",
+                "start_char": 3176,
+                "end_char": 3181,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Augusta Schiera",
+                "start_char": 3368,
+                "end_char": 3383,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "February 26, 2016",
+                "start_char": 3454,
+                "end_char": 3471,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ucciardone",
+                "start_char": 3511,
+                "end_char": 3521,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "American",
+                "start_char": 3543,
+                "end_char": 3551,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Giovanni Aiello",
+                "start_char": 3602,
+                "end_char": 3617,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the end of that day",
+                "start_char": 3729,
+                "end_char": 3748,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "three",
+                "start_char": 3848,
+                "end_char": 3853,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Augustine",
+                "start_char": 3989,
+                "end_char": 3998,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few days",
+                "start_char": 4039,
+                "end_char": 4049,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 4070,
+                "end_char": 4073,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Carini",
+                "start_char": 4119,
+                "end_char": 4125,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Don Ciotti",
+                "start_char": 4240,
+                "end_char": 4250,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vincenzo",
+                "start_char": 4324,
+                "end_char": 4332,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "35 years",
+                "start_char": 4334,
+                "end_char": 4342,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 4505,
+                "end_char": 4510,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vincenzo",
+                "start_char": 4555,
+                "end_char": 4563,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the years",
+                "start_char": 4756,
+                "end_char": 4765,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Don Luigi Ciotti",
+                "start_char": 4874,
+                "end_char": 4890,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Libera",
+                "start_char": 4902,
+                "end_char": 4908,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Behold",
+                "start_char": 4911,
+                "end_char": 4917,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few weeks",
+                "start_char": 4997,
+                "end_char": 5008,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Agostino",
+                "start_char": 5078,
+                "end_char": 5086,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Vincenzo",
+                "start_char": 5153,
+                "end_char": 5161,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "all these years",
+                "start_char": 5227,
+                "end_char": 5242,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Lastra pericolante, pompieri sul campanile di Trinità dei Monti",
+        "date_raw": "Sun, 21 Apr 2024 18:44:56 GMT",
+        "date": "2024-04-21",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-21/pompieri-a-trinita-monti-roma-per-lastra-pericolante-26117581/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp;I vigili del fuoco sono intervenuti alla chiesa della Santissima Trinità dei Monti, in piazza della Trinità dei Monti, al centro di Roma, per una lastra pericolante sul retro del tetto del campanile a circa 40 metri di altezza. Secondo quanto riferito dai pompieri, il personale specializzato una volta raggiunta la sommità, visto il posizionamento estremo della lastra di piombo di notevole grandezza e peso, ha diffidato l'utilizzo e l'accesso del terrazzo interno da parte delle persone. Il responsabile dovrà provvedere, con il coinvolgimento di personale qualificato, ai lavori di messa in sicurezza o rimozione della lastra di copertura.&nbsp;",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1713765625.723754,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Pericular plate, firemen on the bell tower of Trinità dei Monti",
+        "en_content": "AGI -&nbsp;&nbsp;The firefighters intervened at the church of the Holy Trinity of the Mountains, in the square of the Trinity of the Mountains, in the center of Rome, for a pericular slab on the back of the roof of the bell tower about 40 meters high. According to firemen, the specialist staff once reached the top, given the extreme positioning of the lead plate of considerable size and weight, has distrusted the use and access of the interior terrace by people. The manager will have to provide, with the involvement of qualified personnel, the safety work or removal of the cover plate.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Trinità",
+                "start_char": 46,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Holy Trinity",
+                "start_char": 62,
+                "end_char": 78,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Trinity of the Mountains",
+                "start_char": 114,
+                "end_char": 142,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 161,
+                "end_char": 165,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about 40 meters",
+                "start_char": 230,
+                "end_char": 245,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    },
+    {
+        "title": "Codacons presenta ricorso al Tar contro gli apparecchi di filtraggio dell'acqua",
+        "date_raw": "Sun, 21 Apr 2024 16:27:41 GMT",
+        "date": "2024-04-21",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-21/codacons-ricorso-tar-apparecchi-filtraggio-acqua-26115643/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Il Codacons ha presentato un ricorso al Tar del Lazio in materia di acqua potabile, portando dinanzi ai giudici la questione degli apparecchi >sempre più diffusi in Italia per il filtraggio e trattamento delle acque, e chiedendo al tribunale amministrativo di annullare gli atti del Ministero della salute. \n<br> Negli ultimi anni si è registrata nelle case italiane e negli esercizi pubblici come i ristoranti una crescente diffusione di dispositivi destinati al trattamento di acque finalizzate al consumo umano - spiega il Codacons - Trattamenti che non hanno lo scopo di rendere potabile un'acqua che non lo sia già morfologicamente, ma di consentire modifiche nelle caratteristiche organolettiche, ossia di \"raffinare\" le acque per utilizzi domestici. Il Ministero della Salute col decreto 7 febbraio 2012, n. 25 recante \"Disposizioni tecniche concernenti apparecchiature finalizzate al trattamento dell'acqua destinata al consumo umano\" si prefigge di \"garantire che i trattamenti non pregiudichino la qualità delle acque>, già idonee sotto il profilo sanitario, che le apparecchiature di trattamento garantiscano gli effetti dichiarati e che l'informazione completa sugli effetti dei trattamenti sia adeguatamente fornita al consumatore\", ma non prevede specifici controlli da parte delle Autorità sanitarie competenti proprio sulle acque trattate e/o filtrate utilizzate in commercio.&nbsp; \nLa normativa vigente riduce a un mero onere del produttore/distributore la conformità del dispositivo destinato al trattamento delle acque a uso umano, andando a sostituire di fatto il controllo da parte delle Autorità sanitarie competenti>, quali enti imparziali e con maggiori garanzie sulla qualità del prodotto destinato ai consumatori. \n<br> L'utilizzo di apparecchiature per il trattamento delle acque può avere anche ripercussione sul fronte sanitario: a seconda delle tecniche usate, può ridurre o anche eliminare minerali >come ad esempio il calcio e/o il magnesio (nella tecnica a osmosi inversa), nonché&nbsp;comportare al contrario un aumento del sodio (soprattutto nella tecnica di filtrazione a scambio ionico) fortemente sconsigliata, a fini preventivi, per tutta la popolazione (e in particolare per chi soffre di patologie quali diabete, ipertensione ecc.) - spiega ancora il Codacons nel ricorso. Non solo. La commercializzazione di acqua trattata deve essere supportata da una completa informazione (soprattutto in merito alla composizione dell'acqua, ai trattamenti applicati e ai suoi effetti) al fine di evitare che l'utilizzatore non sia fuorviato e/o confuso nella propria scelta e non arrivi a considerare che la stessa c.d. \"acqua trattata\"> possa essere similare o anche migliore o più salutare dell'acqua minerale, come sembrano suggerire alcuni claims utilizzati per pubblicizzare tali prodotti, privi di indicazioni anche scientifiche sulle qualità e sulle caratteristiche dell'acqua. Aspetti questi ultimi su cui dovrà fare luce l'Antitrust alla luce della possibile ingannevolezza dei messaggi rivolti al pubblico. \n&nbsp; \nPer tali motivi il Codacons, alla luce del nuovo scenario determinatosi in Italia a seguito della diffusione degli apparecchi per il trattamento delle acque destinate al consumo umano, ha chiesto al Tar di annullare il decreto 25/2012 del Ministero della salute, che non prevede specifici controlli da parte delle Autorità sanitarie competenti proprio sulle Acque trattate e/o filtrate utilizzate in commercio.&nbsp;",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7237818,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Codacons appeals to Tar against water filtering equipment",
+        "en_content": "AGI -&nbsp;The Codacons filed an appeal to the Tar of Lazio on drinking water, bringing before the judges the question of the most widespread equipment in Italy for water filtration and treatment, and asking the administrative tribunal to cancel the acts of the Ministry of Health.\n<br In recent years it has been recorded in Italian houses and public exercises such as restaurants a growing spread of devices intended for the treatment of water aimed at human consumption - explains the Codacons - Treatments that do not aim to make drinking a water that is not already morphologically, but to allow changes in the organoleptic characteristics, that is to \"cool\" the waters for domestic uses. The Ministry of Health, by decree of 7 February 2012, n. 25 containing \"Technical provisions concerning equipment for the treatment of water intended for human consumption\" aims to \"ensure that treatments do not prejudge the quality of water >, already suitable for health purposes, that the treatment equipment ensures the stated effects and that the complete information on the effects of treatment is adequately supplied to the consumer\", but does not provide specific controls by the health authorities.\nThe legislation in force reduces to a mere burden of the manufacturer/distributor the conformity of the device intended for the treatment of water for human use, thus replacing the control by the competent health authorities', such as impartial bodies and with greater guarantees on the quality of the product intended for consumers.\n<br The use of water treatment equipment can also have repercussions on the health front: depending on the techniques used, it can reduce or even eliminate minerals > such as calcium and/or magnesium (in reverse osmosis technique), as well as &nbsp; on the contrary, involve an increase in sodium (especially in the ion exchange filtering technique) strongly advised, for preventive purposes, for the whole population (and in particular for those suffering from diseases such as diabetes, hypertension etc.) - the Coda still explains. Not only. The commercialization of treated water must be supported by a complete information (especially regarding the composition of water, the treatments applied and its effects) in order to prevent the user from being misled and/or confused in his choice and fail to consider that the same c.d. \"treated water\"> may be similar or even better or healthier than mineral water, as they seem to suggest some claims used to advertise such products, without scientific indications on the quality and characteristics of water. The latter will have to highlight the Antitrust in the light of the possible misleadingness of the messages addressed to the public.\n&nbsp;\nFor these reasons Codacons, in the light of the new scenario determined in Italy following the diffusion of apparatuses for the treatment of water intended for human consumption, asked Tar to cancel the decree 25/2012 of the Ministry of Health, which does not provide specific controls by the competent health authorities on the treated and/or filtered waters used in commerce.&nbsp;",
+        "en_subtitle": "",
+        "content_NER": [
+            {
+                "word": "AGI -&nbsp;The Codacons",
+                "start_char": 0,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lazio",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 155,
+                "end_char": 160,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Ministry of Health",
+                "start_char": 258,
+                "end_char": 280,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "recent years",
+                "start_char": 289,
+                "end_char": 301,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 326,
+                "end_char": 333,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Codacons - Treatments",
+                "start_char": 484,
+                "end_char": 509,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "The Ministry of Health",
+                "start_char": 694,
+                "end_char": 716,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7 February 2012",
+                "start_char": 731,
+                "end_char": 746,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "25",
+                "start_char": 751,
+                "end_char": 753,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Coda",
+                "start_char": 2050,
+                "end_char": 2054,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antitrust",
+                "start_char": 2632,
+                "end_char": 2641,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italy",
+                "start_char": 2809,
+                "end_char": 2814,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "25/2012",
+                "start_char": 2944,
+                "end_char": 2951,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Ministry of Health",
+                "start_char": 2955,
+                "end_char": 2977,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Esino Lario, assessore ucciso con un falcetto da giardinaggio",
+        "date_raw": "Sun, 21 Apr 2024 14:44:16 GMT",
+        "date": "2024-04-21",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-21/ucciso-a-coltellate-assessore-esinio-lario-26112508/",
+        "subtitle": "",
+        "content": "AGI - Pierluigi Beghetto, 54enne consigliere comunale e assessore, e' stato ucciso oggi nel corso di una lite condominiale a Esino Lario, centro montano in provincia di&nbsp;Lecco. Sul caso indagano i carabinieri del Nucleo Investigativo di&nbsp;Lecco, coordinati dal magistrato di turno della procura.&nbsp;Beghetto, che viveva a Usmate con Velate con la sua famiglia, era assessore dal 2020 ed era molto conosciuto anche per la sua attività di apicoltore. Un vicino di casa della vittima è stato arrestato: si tratta di un 60enne che&nbsp;avrebbe aggredito Beghetto con un falcetto da giardinaggio.&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7238097,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Esino Lario, councilman killed with a gardening mow",
+        "en_content": "AGI - Pierluigi Beghetto, 54 year old town councilman and city councillor, was killed today during a condominium quarrel in Esino Lario, mountain center in the province of&nbsp;Lecco. The case investigates the carabinieri of the Nucleo Investigativo di&nbsp;Lecco, coordinated by the prosecutor's turn magistrate.&nbsp;Beghetto, who lived in Usmate with Velate with his family, was a councilman since 2020 and was also known for his beekeeper's activity. A victim's neighbor was arrested: It is a 60-year-old who&nbsp; he would have attacked Beghetto with a gardening mower. &nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Esino Lario",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "54 year old",
+                "start_char": 26,
+                "end_char": 37,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 86,
+                "end_char": 91,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Esino Lario",
+                "start_char": 124,
+                "end_char": 135,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Nucleo Investigativo di&nbsp;Lecco",
+                "start_char": 225,
+                "end_char": 263,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "magistrate.&nbsp;Beghetto",
+                "start_char": 302,
+                "end_char": 327,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Usmate",
+                "start_char": 342,
+                "end_char": 348,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Velate",
+                "start_char": 354,
+                "end_char": 360,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2020",
+                "start_char": 401,
+                "end_char": 405,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "60-year-old",
+                "start_char": 497,
+                "end_char": 508,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Beghetto",
+                "start_char": 542,
+                "end_char": 550,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "L'ultima settimana di aprile è quasi invernale",
+        "date_raw": "Sun, 21 Apr 2024 08:26:51 GMT",
+        "date": "2024-04-21",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-21/meteo-previsioni-tempo-freddo-maltempo-26109089/",
+        "subtitle": "",
+        "content": "ùAGI - Tempo ancora incerto sull'Italia a causa dell'ingresso di correnti artiche. Secondo le previsioni del <a href=\"https://www.centrometeoitaliano.it/\">Centro Meteo Italiano</a>, è atteso un nuovo peggioramento al Nord >con neve a bassa quota nella giornata di lunedì. \"Un nuovo impulso freddo - afferma il Cmi - è atteso nella giornata di oggi con tempo in rapido peggioramento al nord nel corso del pomeriggio. Fenomeni diffusi tra la sera e la notte con neve sulle Alpi ed Appennino Tosco-Emiliano ben sotto i 1000 metri. Momentaneo miglioramento al centro-sud con ampie schiarite durante la giornata, salvo residui fenomeni al mattino tra Abruzzo, Molise, Puglia e alta Calabria ionica ancora interessate dal vortice freddo giunto nella giornata di sabato. Venti tesi settentrionali con temperature diffusamente al di sotto delle medie del periodo\". \n&nbsp; \nLa settimana prosegue nel segno delle basse temperature: \"Un nuovo vortice a carattere freddo - afferma ancora il Cmi - è atteso a inizio settimana sull'Italia, dando vita ad una ciclogenesi sull'alto Tirreno. Giornata di lunedì dal sapore invernale al nord con precipitazioni diffuse che potranno risultare a carattere nevoso> sulle Alpi ed Appennino sin verso i 600-800 metri con sconfinamenti fino a 300-400 metri tra basso Piemonte ed entroterra ligure. Tempo in peggioramento tra Toscana, Umbria, Lazio ed Appennino con acquazzoni e neve a partire dai 1200-1400 metri. Nubi in transito al sud ed Isole\". \n<h2>Le previsioni per oggi</h2> \n<h3>Al Nord</h3> \nAl mattino tempo per lo più asciutto ma con nuvolosità in aumento a partire dai settori alpini. Al pomeriggio instabilità in aumento con piogge e temporali sparsi su tutti i settori, piu' asciutto sulle zone orientali. In serata e nottata si rinnovano condizioni di tempo instabile con piogge e acquazzoni sparsi. Neve in calo fino a 400-800 metri su Alpi e Appennino. Temperature minime e massime in diminuzione. Venti deboli o moderati dai quadranti orientali. Mari mossi o molto mossi. \n<h3>Al Centro</h3> \nAl mattino locali piogge sull'Abruzzo, asciutto altrove con cieli sereni o poco nuvolosi. Al pomeriggio nuvolosità in aumento sulle zone interne ma senza fenomeni di rilievo associati. In serata e nottata si rinnovano condizioni di tempo stabile ma con nuvolosità in transito, locali piogge sulla Toscana settentrionale. Temperature minime e massime stabili o in lieve rialzo. Venti deboli o moderati dai quadranti settentrionali. Mari mossi o molto mossi. \n<h3>Al Sud e sulle Isole</h3> \nAl mattino locali piogge su Molise e Puglia, variabilita' asciutta altrove. Al pomeriggio si rinnovano condizioni di tempo asciutto con cieli sereni o poco nuvolosi ovunque. In serata e nottata si rinnovano condizioni di tempo asciutto con nubi sparse e schiarite. Temperature minime in aumento e massime in calo. Venti deboli o moderati dai quadranti nord-occidentali. Mari mossi o molto mossi. \n<h2>Le previsioni per domani</h2> \n<h3>Al Nord</h3> \nAl mattino cieli nuvolosi su tutte le regioni con piogge sparse soprattutto al Nord-Ovest, neve sulle Alpi oltre i 500-700 metri e in Appennino oltre i 600-800 metri. Al pomeriggio ancora instabilità con piogge e temporali sparsi, quota neve in lieve rialzo. In serata e nottata si rinnovano condizioni di tempo instabile con piogge sparse e neve oltre gli 500-800 metri. Temperature minime e massime in calo. Venti moderati o forti dai quadranti nord-orientali. Mari molto mossi o agitati. \n<h3>Al Centro</h3> \nAl mattino piogge sparse su Toscana e Alto Lazio, sereno o poco nuvoloso altrove. Al pomeriggio instabilità in aumento con acquazzoni sparsi soprattutto tra Toscana, Umbria e Marche e zone interne del Lazio, con neve in Appennino oltre i 1400 metri. In serata e nottata tempo in miglioramento con nuvolosità e schiarite e residui fenomeni sulla Toscana. Temperature minime e massime stabili o in diminuzione. Venti deboli o moderati di direzione variabile. Mari mossi o molto mossi. \n<h3>Al Sud e sulle Isole</h3> \nAl mattino tempo stabile con nuvolosità alternata a schiarite. Al pomeriggio non sono attese variazioni di rilievo con variabilità asciutta su tutte le regioni. In serata e nottata piogge sparse in arrivo su Sicilia e regioni ioniche, ancora asciutto altrove con nuvolosità e schiarite. Temperature minime stabili o in lieve calo e massime in rialzo. Venti deboli o moderati di direzione variabile. Mari poco mossi o mossi.",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7238464,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "The last week of April is almost winter",
+        "en_content": "ùAGI - Time still uncertain on Italy due to the entry of arctic currents. <a href=\"https://www.centrometeoitaliano.it/\"> Centro Meteo Italiano</a>, a new deterioration is expected in the North > with low snow on Monday. \"A new cold impulse - says the Cmi - is expected in today's day with time in rapid worsening to the north during the afternoon. They spread between evening and night with snow on the Alps and Appennino Tosco-Emiliano well under 1000 meters. Momentaneo improvement in the center-south with wide clearing during the day, except for residues phenomena in the morning between Abruzzo, Molise, Puglia and high Calabria ion still affected by the cold vortex arrived on Saturday. Twenty northern theses with temperatures widely below averages of the period.\"\n&nbsp;\nThe week continues in the sign of low temperatures: \"A new cold vortex - says the Cmi again - is expected at the beginning of the week on Italy, giving rise to a cyclogenesis on the top Tyrrhenian. Monday day with winter flavor to the north with widespread rainfall that can be snowy > on the Alps and Appennino up to 600-800 meters with borders up to 300-400 meters between Piedmont and Ligurian hinterland. Time in worsening between Tuscany, Umbria, Lazio and Appennino with aquazzoni and snow from 1200-1400 meters. Clouds in transit to the south and islands.\"\n<h2> Forecasts for today\n<h3> North\nIn the morning time for the most dry but with clouds rising from the Alpine sectors. In the afternoon increasing instability with rains and storms spread over all sectors, dryer on the eastern areas. In the evening and night are renewed unstable weather conditions with rains and showers scattered. Snow falling up to 400-800 meters on the Alps and Appennino. Minimum and maximum temperatures decreasing. Winds weak or moderate by oriental quadrants. Husbands moved or very moved.\n<h3> to the Centre\nIn the morning local rains on Abruzzo, dry elsewhere with serene or little cloudy skies. In the afternoon cloudyness increasing on the internal areas but without associated phenomena of relief. In the evening and night are renewed stable weather conditions but with clouds in transit, local rains on northern Tuscany. Minimum and maximum temperatures stable or in slight rise. Winds weak or moderate by northern quadrants. Husbands moved or very moved.\n<h3> To the South and the Islands\nIn the morning local rains on Molise and Puglia, dry variables elsewhere. In the afternoon we renew dry weather conditions with calm or unmarried skies everywhere. In the evening and night, dry weather conditions are renewed with scattered clouds and lightened. Minimum temperatures rising and maximum decreasing. Winds weak or moderate by north-western quadrants. Husbands moved or very moved.\n<h2> Forecasts for tomorrow\n<h3> North\nIn the morning cloudy skies on all regions with rains spread mainly to the North West, snow on the Alps over 500-700 meters and in Appennine over 600-800 meters. In the afternoon still instability with rains and scattered thunderstorms, snow share in slight rise. In the evening and night are renewed unstable weather conditions with scattered rains and snow over 500-800 meters. Minimum and maximum temperatures decreasing. Winds moderate or strong from north-eastern quadrants. Husbands very moved or agitated.\n<h3> to the Centre\nIn the morning rains spread over Tuscany and Alto Lazio, serene or little cloudy elsewhere. In the afternoon instability in increase with showers spread mainly between Tuscany, Umbria and Marche and internal areas of Lazio, with snow in Appennino over 1400 meters. In the evening and night time improving with cloudiness and lightening and residual phenomena on Tuscany. Minimum and maximum temperatures stable or decreasing. Winds weak or moderate of variable direction. Husbands moved or very moved.\n<h3> To the South and the Islands\nIn the morning stable time with alternating clouds to lightened. In the afternoon no significant changes are expected with dry variability on all regions. In the evening and night there are scattered rains coming on Sicily and Ionian regions, still dry elsewhere with cloudyness and lightening. Minimum temperatures stable or in slight decrease and maximum rise. Winds weak or moderate of variable direction. Husbands little moved or moved.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "The last week of April",
+                "start_char": 0,
+                "end_char": 22,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "almost winter",
+                "start_char": 26,
+                "end_char": 39,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italy",
+                "start_char": 31,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "arctic",
+                "start_char": 57,
+                "end_char": 63,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Centro Meteo Italiano</a",
+                "start_char": 121,
+                "end_char": 145,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "North",
+                "start_char": 187,
+                "end_char": 192,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Monday",
+                "start_char": 212,
+                "end_char": 218,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cmi",
+                "start_char": 251,
+                "end_char": 254,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 272,
+                "end_char": 277,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 333,
+                "end_char": 346,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "between evening and night",
+                "start_char": 360,
+                "end_char": 385,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Alps",
+                "start_char": 403,
+                "end_char": 407,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Appennino Tosco-Emiliano",
+                "start_char": 412,
+                "end_char": 436,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1000 meters",
+                "start_char": 448,
+                "end_char": 459,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "the day",
+                "start_char": 530,
+                "end_char": 537,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the morning",
+                "start_char": 572,
+                "end_char": 583,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Abruzzo",
+                "start_char": 592,
+                "end_char": 599,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Molise",
+                "start_char": 601,
+                "end_char": 607,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Puglia",
+                "start_char": 609,
+                "end_char": 615,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Calabria",
+                "start_char": 625,
+                "end_char": 633,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 683,
+                "end_char": 691,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Twenty",
+                "start_char": 693,
+                "end_char": 699,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "The week",
+                "start_char": 779,
+                "end_char": 787,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cmi",
+                "start_char": 861,
+                "end_char": 864,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the beginning of the week",
+                "start_char": 888,
+                "end_char": 913,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 917,
+                "end_char": 922,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tyrrhenian",
+                "start_char": 965,
+                "end_char": 975,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Monday day",
+                "start_char": 977,
+                "end_char": 987,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "winter",
+                "start_char": 993,
+                "end_char": 999,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Alps",
+                "start_char": 1072,
+                "end_char": 1076,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Appennino",
+                "start_char": 1081,
+                "end_char": 1090,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "600-800 meters",
+                "start_char": 1097,
+                "end_char": 1111,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "up to 300",
+                "start_char": 1125,
+                "end_char": 1134,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Piedmont",
+                "start_char": 1154,
+                "end_char": 1162,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ligurian",
+                "start_char": 1167,
+                "end_char": 1175,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 1214,
+                "end_char": 1221,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Umbria",
+                "start_char": 1223,
+                "end_char": 1229,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lazio",
+                "start_char": 1231,
+                "end_char": 1236,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Appennino",
+                "start_char": 1241,
+                "end_char": 1250,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "1200-1400",
+                "start_char": 1280,
+                "end_char": 1289,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 1362,
+                "end_char": 1367,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the morning",
+                "start_char": 1382,
+                "end_char": 1393,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Alpine",
+                "start_char": 1448,
+                "end_char": 1454,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 1467,
+                "end_char": 1480,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 1582,
+                "end_char": 1603,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "up to 400",
+                "start_char": 1691,
+                "end_char": 1700,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Alps",
+                "start_char": 1719,
+                "end_char": 1723,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Appennino",
+                "start_char": 1728,
+                "end_char": 1737,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Centre\nIn",
+                "start_char": 1868,
+                "end_char": 1881,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the morning",
+                "start_char": 1882,
+                "end_char": 1893,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Abruzzo",
+                "start_char": 1909,
+                "end_char": 1916,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1975,
+                "end_char": 1984,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 2076,
+                "end_char": 2097,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 2188,
+                "end_char": 2195,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "South",
+                "start_char": 2344,
+                "end_char": 2349,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the morning",
+                "start_char": 2369,
+                "end_char": 2380,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Molise",
+                "start_char": 2396,
+                "end_char": 2402,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Puglia",
+                "start_char": 2407,
+                "end_char": 2413,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 2443,
+                "end_char": 2456,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 2533,
+                "end_char": 2554,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 2780,
+                "end_char": 2788,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the morning",
+                "start_char": 2803,
+                "end_char": 2814,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the North West",
+                "start_char": 2871,
+                "end_char": 2885,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Alps",
+                "start_char": 2899,
+                "end_char": 2903,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "500-700",
+                "start_char": 2909,
+                "end_char": 2916,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Appennine",
+                "start_char": 2931,
+                "end_char": 2940,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "600-800 meters",
+                "start_char": 2946,
+                "end_char": 2960,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 2965,
+                "end_char": 2978,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 3067,
+                "end_char": 3088,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "500-800 meters",
+                "start_char": 3164,
+                "end_char": 3178,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Centre\nIn",
+                "start_char": 3321,
+                "end_char": 3334,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "morning",
+                "start_char": 3339,
+                "end_char": 3346,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 3365,
+                "end_char": 3372,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Alto Lazio",
+                "start_char": 3377,
+                "end_char": 3387,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 3431,
+                "end_char": 3440,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 3500,
+                "end_char": 3507,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Umbria",
+                "start_char": 3509,
+                "end_char": 3515,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marche",
+                "start_char": 3520,
+                "end_char": 3526,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lazio",
+                "start_char": 3549,
+                "end_char": 3554,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Appennino",
+                "start_char": 3569,
+                "end_char": 3578,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "1400 meters",
+                "start_char": 3584,
+                "end_char": 3595,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "the evening",
+                "start_char": 3600,
+                "end_char": 3611,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "night",
+                "start_char": 3616,
+                "end_char": 3621,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tuscany",
+                "start_char": 3694,
+                "end_char": 3701,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "South",
+                "start_char": 3846,
+                "end_char": 3851,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the morning",
+                "start_char": 3871,
+                "end_char": 3882,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 3940,
+                "end_char": 3949,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 4026,
+                "end_char": 4047,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Sicily",
+                "start_char": 4084,
+                "end_char": 4090,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ionian",
+                "start_char": 4095,
+                "end_char": 4101,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Notte della solidarietà a Roma, mobilitati 2000 volontari ",
+        "date_raw": "Sat, 20 Apr 2024 20:20:09 GMT",
+        "date": "2024-04-20",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-20/notte-della-solidarieta-roma-volontari-26106361/",
+        "subtitle": "",
+        "content": "AGI&nbsp; - Che faccia ha la solidarietà? A Roma, stanotte, ha il sorriso di Cristina. Lo sguardo di Luca. I capelli ricci di Martina. Sono i volontari che hanno scelto di aderire alla 'Notte della solidarietà', l'iniziativa promossa dall'assessorato alle Politiche sociali di Roma Capitale con l'Istituto Nazionale di Statistica per censire la popolazione senza dimora sul territorio comunale di Roma. A rendere possibile il censimento, i volontari che hanno scelto di aderire registrandosi attraverso il portale dedicato all'evento. Un'iniziativa che ha visto in particolare la partecipazione dei giovani, secondo i numeri annunciati nel corso del punto stampa effettuato in serata in Campidoglio. \n&nbsp; \nPiù di 700 giovani universitari su un totale di 1962 iscritti, dei quali 1657 volontari operativi. Il 62 per cento delle adesioni è arrivato da donne, il 37 per cento da uomini, 795 sono studenti universitari e 328 volontari over 60. Sei le università coinvolte, 36 enti aderenti e 127 organismi coinvolti. Tutti coloro che hanno risposto all'appello di solidarietà sono stati organizzati in squadre, suddivisi in 20 cluster e 338 aree, e, proprio in queste ore e per tutta la sera di sabato 20 aprile, stanno collaborando alla rilevazione con l'obiettivo di individuare e conteggiare le persone senza tetto, che vivono per strada, in sistemazioni di fortuna o nei dormitori e nelle strutture di accoglienza. \n&nbsp; \nAlla realizzazione hanno preso parte 36 associazioni tra cui Croce Rossa, comunità di Sant'Egidio, Angeli su due ruote, Mamma Roma. Obiettivo comune, \"realizzare una città che include e non vuole lasciare nessuno ai margini\" come spiegato da Barbara Funari, assessora alle Politiche sociali di Roma Capitale nel corso del punto stampa organizzato in Campidoglio. \"Roma fa da capofila, altre 14 città seguiranno questo modello\" ha spiegato l'assessora. \n&nbsp; \n\"Questa partecipazione dei giovani è, in particolare, molto importante - ha aggiunto Funari -, ci hanno detto che è la prima volta che avvicinano e incontrano una persona che vive in strada. A volte si pensa che siano esperienze lontane da noi, invece poi si scopre che tante persone come noi possono finire in strada. Questo dimostra che la partecipazione dei giovani è possibile, a differenza di quanto se ne dica spesso\". La Capitale è la prima ad aderire al progetto, lanciato dall'Istat, poi seguiranno 14 città. \"Noi, come Roma, abbiamo accolto la sfida di partire per primi. Le prossime città potranno prendere spunto dal nostro esempio e seguirci come modello. Roma è la capitale della solidarietà, siamo orgogliosi di poterlo dire\".&nbsp; \n&nbsp; \nIl sindaco di Roma, Roberto Gualtieri, ha spiegato che con la notte della solidarietà di Roma \"si realizza una iniziativa di conoscenza importante per due ragioni. In primo luogo, si va oltre la dimensione del centro e si copre tutta l'area dell'anello, quindi la dimensione consolidata della città. Il fenomeno delle persone in difficoltà non riguarda solo i luoghi dei quali si parla più spesso. Molte volte i senza fissa dimora sono considerati problemi e non persone in difficoltà. Non si può intervenire senza conoscere - ha proseguito il sindaco - Roma deve sostenere le persone in difficoltà ma se non le conosce non può farlo. Questo è un tentativo di conoscere le persone e capire come possiamo fare per aiutarle meglio e dare loro un tetto e un percorso di integrazione.&nbsp; Il nostro lavoro è costruire dei percorsi che investano in strategie di integrazione, supporto e sostegno che daranno a queste persone un percorso di autonomia. Non sono numeri - ha concluso Gualtieri - sono persone che vanno conosciute e vanno guardate negli occhi\".&nbsp; \n&nbsp; \n\"L'impatto diretto con i più fragili non è stato facile, ma ancora più difficile è stato ribaltare alcuni ruoli e visioni - è stato il racconto appassionato di Cristina, studentessa dell'università di Tor Vergata, che ha portato la propria testimonianza -&nbsp; abbiamo avuto l'onere e l'onore di entrare in punta di piedi nella vita di queste persone che, contrariamente a quanto si pensi, hanno voglia di sentire e farsi sentire. Non abbiamo solo censito delle statistiche, ma delle intere vite\". \n&nbsp; \n\"La notte della solidarietà ci ha permesso di crescere umanamente - ha concluso Cristiana -. La nostra speranza è che il numero di partecipanti continui a crescere. Questo è l'esercito che ci piace\" ha concluso rivolgendosi ai volontari. \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7238722,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Night of solidarity in Rome, mobilized 2000 volunteers",
+        "en_content": "AGI&nbsp; - What does solidarity do? In Rome, tonight, Cristina's smile. Luca's look. Martina's curly hair. They are the volunteers who have chosen to join the 'Night of Solidarity', the initiative promoted by the Department of Social Policies of Rome Capital with the National Institute of Statistics to cense the population without abode in the municipal territory of Rome. To make possible the census, the volunteers who chose to join by registering through the portal dedicated to the event. An initiative that has seen in particular the participation of young people, according to the numbers announced during the press point carried out in evening in Capitol.\n&nbsp;\nMore than 700 young university students on a total of 1962 enrolled, including 1657 volunteers. 62 percent of the abductions came from women, 37 percent from men, 795 are university students and 328 volunteers over 60. Six universities involved, 36 member bodies and 127 bodies involved. All those who responded to the call for solidarity have been organized in teams, divided into 20 clusters and 338 areas, and, right in these hours and throughout the evening of Saturday, April 20, are collaborating to the survey with the aim to identify and count the people without roof, who live on the street, in lucky accommodation or in dorms and in the reception facilities.\n&nbsp;\n36 associations including the Red Cross, the community of Sant'Egidio, Angels on two wheels, Mother Rome. Common objective, \"to make a city that includes and does not want to leave anyone on the margins\" as explained by Barbara Funari, Councillor for the Social Policies of Rome Capital during the press point organized in Capitol. \"Rome is a leader, 14 other cities will follow this model,\" explained the city council member.\n&nbsp;\n\"This participation of young people is, in particular, very important - Funari added -, they told us that it is the first time they approach and meet a person who lives in the street. Sometimes you think they are experiences far away from us, but then you find that so many people like us can end up in the street. This shows that the participation of young people is possible, unlike what is often said.\" Capital is the first to join the project, launched by Istat, then will follow 14 cities. \"We, like Rome, welcomed the challenge of starting first. The next cities will be able to take inspiration from our example and follow us as a model. Rome is the capital of solidarity, we are proud to be able to say it.\"&nbsp;\n&nbsp;\nThe mayor of Rome, Roberto Gualtieri, explained that with the night of the solidarity of Rome \"an initiative of important knowledge is realized for two reasons. First, you go beyond the size of the center and cover the whole ring area, then the consolidated size of the city. The phenomenon of people in difficulty does not only concern the places of which we talk most often. Many times the homeless are considered problems and not people in difficulty. You can not intervene without knowing - the mayor has continued - Rome must support the people in difficulty but if you do not know it can not do it. This is an attempt to know people and understand how we can do to help them better and give them a roof and integration path.&nbsp; Our work is to build paths that invest in integration strategies, support and support that will give these people a path of autonomy. They are not numbers - Gualtieri has concluded - they are people who are to be known and they are to be looked in the eyes\". &nbsp;\n&nbsp;\n\"The direct impact with the most fragile was not easy, but even more difficult was to overturn some roles and visions - it was the passionate story of Cristina, student of the University of Tor Vergata, who brought her own testimony -&nbsp; we had the burden and honor to enter the tip of feet in the life of these people who, contrary to what you think, have the desire to feel and feel. We didn't just mention statistics, but whole lives.\"\n&nbsp;\n\"The night of solidarity allowed us to grow humanly - Christian concluded -. Our hope is that the number of participants will continue to grow. This is the army we like,\" he concluded, addressing volunteers.\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Rome",
+                "start_char": 23,
+                "end_char": 27,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2000",
+                "start_char": 39,
+                "end_char": 43,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Rome",
+                "start_char": 40,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tonight",
+                "start_char": 46,
+                "end_char": 53,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Cristina",
+                "start_char": 55,
+                "end_char": 63,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Martina",
+                "start_char": 86,
+                "end_char": 93,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Solidarity",
+                "start_char": 170,
+                "end_char": 180,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Department of Social Policies of Rome Capital",
+                "start_char": 210,
+                "end_char": 259,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the National Institute of Statistics",
+                "start_char": 265,
+                "end_char": 301,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 370,
+                "end_char": 374,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "evening",
+                "start_char": 646,
+                "end_char": 653,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Capitol",
+                "start_char": 657,
+                "end_char": 664,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "More than 700",
+                "start_char": 673,
+                "end_char": 686,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1962",
+                "start_char": 727,
+                "end_char": 731,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1657",
+                "start_char": 752,
+                "end_char": 756,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "62 percent",
+                "start_char": 769,
+                "end_char": 779,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "37 percent",
+                "start_char": 815,
+                "end_char": 825,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "795",
+                "start_char": 836,
+                "end_char": 839,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "328",
+                "start_char": 868,
+                "end_char": 871,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Six",
+                "start_char": 892,
+                "end_char": 895,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "36",
+                "start_char": 919,
+                "end_char": 921,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "127",
+                "start_char": 940,
+                "end_char": 943,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "20",
+                "start_char": 1055,
+                "end_char": 1057,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "338",
+                "start_char": 1071,
+                "end_char": 1074,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "these hours",
+                "start_char": 1096,
+                "end_char": 1107,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the evening of",
+                "start_char": 1123,
+                "end_char": 1137,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Saturday, April 20",
+                "start_char": 1138,
+                "end_char": 1156,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "36",
+                "start_char": 1349,
+                "end_char": 1351,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Red Cross",
+                "start_char": 1375,
+                "end_char": 1388,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Angels",
+                "start_char": 1420,
+                "end_char": 1426,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 1430,
+                "end_char": 1433,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mother Rome",
+                "start_char": 1442,
+                "end_char": 1453,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Barbara Funari",
+                "start_char": 1569,
+                "end_char": 1583,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Councillor",
+                "start_char": 1585,
+                "end_char": 1595,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Social Policies of Rome Capital",
+                "start_char": 1600,
+                "end_char": 1635,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Capitol",
+                "start_char": 1672,
+                "end_char": 1679,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 1682,
+                "end_char": 1686,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "14",
+                "start_char": 1700,
+                "end_char": 1702,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 1899,
+                "end_char": 1904,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 2204,
+                "end_char": 2209,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Istat",
+                "start_char": 2243,
+                "end_char": 2248,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "14",
+                "start_char": 2267,
+                "end_char": 2269,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rome",
+                "start_char": 2288,
+                "end_char": 2292,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 2329,
+                "end_char": 2334,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 2428,
+                "end_char": 2432,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 2525,
+                "end_char": 2529,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 2601,
+                "end_char": 2605,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 2660,
+                "end_char": 2663,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "First",
+                "start_char": 2673,
+                "end_char": 2678,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 3033,
+                "end_char": 3037,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cristina",
+                "start_char": 3673,
+                "end_char": 3681,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the University of Tor Vergata",
+                "start_char": 3694,
+                "end_char": 3723,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The night",
+                "start_char": 3972,
+                "end_char": 3981,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Christian",
+                "start_char": 4025,
+                "end_char": 4034,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Mostre, spettacoli e visite guidate, ecco dove e come festeggiare il Natale di Roma ",
+        "date_raw": "Sat, 20 Apr 2024 12:54:45 GMT",
+        "date": "2024-04-20",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-20/natale-di-roma-elenco-iniziative-mostre-tour-e-visite-guidate-26102662/",
+        "subtitle": "",
+        "content": "AGI - Buon compleanno splendida, caotica, difficile e seducente Roma. Il&nbsp; 21 aprile ricorre il 2.777esimo anno dalla fondazione di quella che e' considerata a livello mondiale la citta' piu' bella di tutte. Tantissime, anche questa volta, le iniziative per celebrare questa festa conosciuta come il \"Natale di Roma\". C'e' un ricco programma culturale di incontri, visite guidate, mostre, spettacoli, attivo gia' da sabato 20 e che durera' fino a lunedì 22 aprile. Sono previsti diversi eventi 'speciali' visibili anche sul sito del Comune. Le iniziative per il Natale di Roma numero 2.777 sono promosse da Roma Capitale, Assessorato alla Cultura, Sovrintendenza Capitolina ai Beni Culturali. Organizzazione a cura di Zètema Progetto Cultura. \nAndiamo a vedere che cosa riserva il programma. Sabato 20 aprile dalle 20 alle 22, nella Villa di Massenzio, sul IV miglio della via Appia Antica, si potra' partecipare all'inaugurazione della nuova illuminazione ideata dalla Sovrintendenza Capitolina ai Beni Culturali per valorizzare i resti monumentali presenti nei circa 20 ettari dell'area archeologica e consentire ai visitatori l'accesso dopo il tramonto per eventi speciali. Il nuovo impianto di illuminazione ha interessato l'area del mausoleo dinastico, il sentiero di accesso alla Villa, le torri e i carceres, consentendo ai cittadini di godere del suggestivo spettacolo delle imponenti strutture imperiali anche di notte. E poi, domani dalle 11 alle 19, nello spazio polifunzionale della Sala Santa Rita, in via Montanara, accanto al Teatro di Marcello, sara' possibile visitare la mostra gratuita \"La Dea Roma\" di Pietro Tenerani. \n<br> Le celebrazioni prevedono visite e tour per riscoprire le bellezze della citta' attraverso l'osservazione e il racconto di opere, monumenti, testimonianze artistiche e culturali. Sabato, alla Villa di Massenzio ecco l'evento Ab Urbe condita 2024, un'immersione nel tempo e nella storia, che proseguira' anche il giorno dopo. Grazie alla nuova illuminazione artistica sara' possibile visitare lo spazio museale fino alle 22 (ultimo ingresso ore 21.30). Al Museo della Repubblica Romana e della memoria garibaldina in programma la visita 21 Aprile 1849: Roma si prepara alla battaglia per scoprire i personaggi e le vicende della Repubblica Romana del 1849. La mattina di domani, ecco l'appuntamento alle ore 10.15 e alle 11.45, al Museo di Scultura Antica Giovanni Barracco per Gli avi lontani dell'alfabeto latino, una visita guidata con un approfondimento sui primi sistemi grafici che hanno portato alla creazione dell'alfabeto latino. Al Museo Carlo Bilotti all'Aranciera di Villa Borghese, visita alla mostra Manuel Felisi 1:1 che condurra' i visitatori a scoprire le opere dell'artista: un \"bestiario\" contemporaneo con gli animali riprodotti a grandezza naturale (con accompagnamento in Lingua dei segni italiana). Sempre alle ore 10.30 ai Musei Capitolini - Villa Caffarelli si terra' Fidia, tutti i colori della perfezione, visita guidata alla mostra in corso con approfondimento sul tema della policromia sulle opere antiche. A seguire un'attivita' in cui i visitatori potranno cimentarsi con l'uso del colore. A Casina del Cardinal Bessarione e' previsto il laboratorio per bambini Alla scoperta di una Casina per riscoprire la storia di questo luogo attraverso i cinque sensi. Alle ore 11 al Museo dell'Ara Pacis i bambini potranno partecipare al laboratorio 21 aprile, un compleanno speciale! Per divertirsi all'insegna della storia e della creativita' tra immagini, personaggi e racconti, per realizzare la propria corona e diventare imperatori e imperatrici per un giorno. \n&nbsp; \nDomenica 21 alle ore 15 alla Galleria d'Arte Moderna di via Crispi si terra' la visita Gruppo 70: gli artisti, i temi, le tecniche, alla scoperta dei protagonisti e dei temi che hanno caratterizzato la sperimentazione di questo sodalizio artistico (con accompagnamento in Lingua dei segni italiana). Alle 15.15 e alle 16.15 a piazza Vittorio, visita libera \"La Porta Magica\" e i Trofei di Mario, alla scoperta del monumento caratterizzato da motti enigmatici e segni ermetici. Alle ore 17 al Museo di Roma a Palazzo Braschi sara' condotta la visita Dalla strada al Museo: i monocromi del Casino del Bufalo per presentare il mito di Andromeda e Perseo nei monocromi cinquecenteschi della facciata del Casino del Bufalo realizzati da Polidoro da Caravaggio e Maturino da Firenze (con accompagnamento in Lingua dei segni italiana). Infine, allo stesso orario al Museo di Zoologia e' in programma una visita alla mostra sull'eclettico scienziato rinascimentale Ulisse Aldrovandi.&nbsp;La festa prosegue fino al 22 aprile. La mattina, alle 10, chi vuole puo' andare alla scoperta delle opere di Street Art che caratterizzano il quartiere Quadraro con Itinerari urbani. Un percorso itinerante nello storico quartiere dalla vocazione antifascista, segnato dal rastrellamento del 17 aprile 1944, che e' il principale tema ispiratore delle opere di Street art del progetto M.U.Ro (con accompagnamento in Lingua dei segni italiana). Alle 11 ai Mercati di Traiano - Museo dei Fori Imperiali, parte la visita \"Augusto, nuovo fondatore di Roma\" che racconta la figura dell'imperatore Augusto e il suo tentativo di apparire come nuovo fondatore della citta' (con accompagnamento in Lingua dei segni italiana). Il Comune ricorda che per le visite e gli incontri e' obbligatoria la prenotazione allo 060608 (attivo tutti i giorni ore 9-19). Nei Musei in Comune, si potranno visitare, oltre alle collezioni permanenti, anche le numerose mostre temporanee attualmente in corso, accessibili a tariffazione ordinaria ma gratuite per i possessori della MIC Card. Ai Musei Capitolini (piazza del Campidoglio 1), nella Sala degli Arazzi del Palazzo dei Conservatori, si potra' ammirare l'VRBS Roma, il vetro dorato raffigurante la dea Roma. A Palazzo Clementino e' ospitata invece I Colori dell'Antico. Marmi Santarelli ai Musei Capitolini, un'ampia panoramica sull'uso dei marmi colorati, dalle origini fino al XX secolo. A Villa Caffarelli, e' esposta l'imponente ricostruzione in dimensioni reali del Colosso di Costantino. Alla Centrale Montemartini (via Ostiense 106) si potra' visitare la mostra Architetture inabitabili. Ai Mercati di Traiano - Museo dei Fori Imperiali (via IV Novembre 94), la mostra Imago Augusti. Al Museo di Roma in Trastevere (piazza S. Egidio, 1/b) tre le mostre da visitare: Rino Gaetano, dedicata al grande cantautore che ha segnato un'epoca nella musica italiana, Hilde In italia Arte e vita nelle fotografie di Hilde Lotz-Bauer\", con 100 immagini realizzate dalla fotografa tedesca, pioniera della street photography, e Una movida Ba'rbara. Nelle sale della Galleria d'Arte Moderna (via Francesco Crispi 24), la mostra Reality Optional. Miaz Brothers con i maestri del XX secolo, con le opere dipinte dal duo artistico Miaz Brothers in dialogo con una selezione di capolavori della collezione permanente. \n&nbsp; \nAl Museo Napoleonico (Piazza di Ponte Umberto I, 1) si potra' ammirare Giuseppe Primoli e il fascino dell'Oriente. Al Museo Carlo Bilotti, Aranciera di Villa Borghese (via Fiorello La Guardia 6 - viale dell'Aranciera 4) la mostra Manuel Felisi 1:1. Duplice offerta per i Musei di Villa Torlonia: al Casino dei Principi la mostra antologica Giancarla Frare - Abitare la distanza; a Casina delle Civette l'esposizione \"Nel segno di Cambellotti\". Ci sono poi le iniziative: Fidia, ospitata nelle sale di Villa Caffarelli; Ukiyoe. Il Mondo Fluttuante. Visioni dal Giappone, al Museo di Roma a Palazzo Braschi; \"Giacomo Matteotti. Vita e morte di un padre della Democrazia\", al Museo di Roma a Palazzo Braschi; \"Oltre lo spazio, oltre il tempo\". Il sogno di Ulisse Aldrovandi, al Museo Civico di Zoologia. Immancabile, soprattutto per i turisti la \"Circo Maximo Experience\", visita immersiva del Circo Massimo in realta' aumentata e virtuale. Ma Roma come ben sappiamo, non e' solo cultura e arte. E' musica, sport, calcio con il tifo all'ennesima potenza per due squadre impegnate in un eterno derby a suon di prese in giro: la Roma e Lazio. La prima, gialla e rossa come i colori di Roma di cui si fa vanto, la seconda in bianco e azzurro, che rivendica di essere pero' nata prima. Roma e' traffico, ztl, metro e cantieri che i romani hanno \"adottato\" con pazienza e ironia, consapevoli di essere in una Capitale che vuole rinnovarsi. E' il \"Cupolone\" che al tramonto si colora di arancio, e' il Giubileo in arrivo, il Colosseo che guarda tutti dall'alto della sua maestosita'. Roma e' anche cibo, dolcezze e golosita' da parte di bar e ristoranti. E' tradizione di carbonara, cacio e pepe, carciofo alla giudia, filetti di baccala' e suppli', pinsa, tortino alici e indivia, gelati, crostata visciole e ricotta, ciambelline al vino dei Castelli, maritozzo con la panna... Auguri meravigliosa citta' eterna.&nbsp;",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1713765625.723909,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Exhibitions, shows and guided tours, this is where and how to celebrate Christmas in Rome",
+        "en_content": "AGI - Happy wonderful birthday, chaotic, difficult and seductive Rome. The &nbsp; 21 April marks the 2,777th year since the foundation of what is considered worldwide the most beautiful city of all. Many initiatives to celebrate this feast known as the \"Christmas of Rome\". There is a rich cultural program of meetings, guided tours, exhibitions, shows, active already from Saturday 20 and that will last until Monday 22 April. There are several 'special' events also visible on the site of the Municipality. The initiatives for the Christmas of Rome number 2.777 are promoted by Rome Capital, Assessorato alla Cultura, Superintendenza Capitolina ai Beni Culturali. Organization by Zètema Progetto Cultura.\nLet's go see what the program holds. Saturday, April 20 from 20 to 22, in the Villa of Massenzio, on the fourth mile of the Via Appia Antica, you can participate in the inauguration of the new lighting created by the Capitoline Superintendency to the Cultural Heritage to enhance the monumental remains present in the approximately 20 hectares of the archaeological area and allow visitors access after sunset for special events. The new lighting system has affected the area of the dynastic mausoleum, the access path to the Villa, the towers and the prisons, allowing citizens to enjoy the evocative spectacle of the imposing imperial structures even at night. And then, tomorrow from 11 to 19, in the multifunctional space of the Sala Santa Rita, in via Montanara, next to the Teatro di Marcello, it will be possible to visit the free exhibition \"La Dea Roma\" by Pietro Tenerani.\n<br The celebrations include visits and tours to rediscover the beauty of the city through the observation and story of works, monuments, artistic and cultural testimonies. Saturday, at the Villa di Massenzio is the event Ab Urbe condita 2024, an immersion in time and history, which will continue the next day. Thanks to the new artistic lighting you can visit the museum space until 22 (last entrance at 21.30). Visit 21 to the Museum of the Roman Republic and the Garibaldian memory April 1849: Rome prepares for the battle to discover the characters and events of the Roman Republic of 1849. The morning of tomorrow, here is the appointment at 10.15 and 11.45, at the Museum of Sculpture Antica Giovanni Barracco for the distant avi of the Latin alphabet, a guided tour with a deepening of the first graphic systems that led to the creation of the Latin alphabet. At the Carlo Bilotti Museum at the Aranciera of Villa Borghese, visit the exhibition Manuel Felisi 1:1 which will lead visitors to discover the works of the artist: a contemporary \"bestiary\" with animals reproduced in natural size (with accompaniment in Italian sign language). Also at 10.30 at the Capitoline Museums - Villa Caffarelli will be held in Fidia, all the colors of perfection, guided tour of the exhibition in progress with deepening on the theme of polychromy on ancient works. To follow an activity in which visitors can try using color. In Casina del Cardinal Bessarione the children's workshop is planned Discovering a Casina to rediscover the history of this place through the five senses. At 11 p.m. at the Museo dell'Ara Pacis children will be able to participate in the workshop 21 April, a special birthday! To have fun in the name of history and creativity between images, characters and stories, to realize their own crown and become emperors and imperators for a day.\n&nbsp;\nOn Sunday 21 at 15:00 at the Galleria d'Arte Moderna in via Crispi, the Group 70 tour will take place: artists, themes, techniques, to discover the protagonists and themes that have characterized the experimentation of this artistic sodalicy (with accompaniment in Italian Sign Language). At 15.15 and at 16.15 in Piazza Vittorio, free visit \"La Porta Magica\" and Mario's Trofei, to discover the monument characterized by enigmatic motions and hermetic signs. At 17 am at the Museum of Rome in Palazzo Braschi will be conducting the visit From the road to the Museum: the monochromes of the Casino del Bufalo to present the myth of Andromeda and Perseo in the five hundredth century monochromes of the facade of the Casino del Bufalo realized by Polidoro da Caravaggio and Maturino from Florence (with accompaniment in Italian sign language). Finally, at the same time at the Zoology Museum there is a visit to the exhibition on the eclectic Renaissance scientist Ulisse Aldrovandi.&nbsp; The festival continues until 22 April. In the morning, at 10 o'clock, who wants to discover the works of Street Art that characterize the neighborhood Square with Urban Routes. A traveling route in the historic district with an anti-fascist vocation, marked by the slowing of April 17, 1944, which is the main theme of inspiration for the works of Street art of the M.U.Ro project (with accompaniment in Italian Sign Language). At 11 am at the Mercati di Traiano - Museo dei Fori Imperiali, begins the visit \"Augusto, the new founder of Rome\" which tells the figure of Emperor Augustus and his attempt to appear as the new founder of the city (with accompaniment in the Italian Sign Language). The municipality remembers that for visits and meetings the reservation is mandatory at 060608 (active every day 9-19). In the Museums in the City, you can visit, in addition to the permanent collections, also the numerous temporary exhibitions currently underway, accessible by ordinary but free tariff for the owners of the MIC Card. At the Capitoline Museums (Piazza del Campidoglio 1), in the Sala degli Arazzi of the Palazzo dei Conservatori, you can admire the VRBS Roma, the golden glass depicting the goddess Rome. In Palazzo Clementino, I Colori dell'Antico is hosted. Santarelli marbles at the Capitoline Museums, a wide overview of the use of coloured marbles, from the beginning to the twentieth century. In Villa Caffarelli, the imposing reconstruction in real dimensions of the Colossus of Constantine is exposed. At the Montemartini Central (via Ostiense 106) you can visit the exhibition Uninhabitable architectures. To the Mercati di Traiano - Museo dei Fori Imperiali (via IV Novembre 94), the exhibition Imago Augusti. At the Museum of Rome in Trastevere (piazza S. Egidio, 1/b) three exhibitions to visit: Rino Gaetano, dedicated to the great songwriter who marked an era in Italian music, Hilde In Italy Art and life in the photographs of Hilde Lotz-Bauer\", with 100 images created by the German photographer, pioneer of street photography, and Una movida Ba'rbara. In the rooms of the Gallery of Modern Art (via Francesco Crispi 24), the exhibition Reality Optional. Miaz Brothers with the masters of the 20th century, with works painted by the artistic duo Miaz Brothers in dialogue with a selection of masterpieces from the permanent collection.\n&nbsp;\nAt the Napoleonic Museum (Piazza di Ponte Umberto I, 1) you can admire Giuseppe Primoli and the charm of the East. At the Carlo Bilotti Museum, Aranciera di Villa Borghese (via Fiorello La Guardia 6 - avenue dell'Aranciera 4) the exhibition Manuel Felisi 1:1. Duplice offer for the Museums of Villa Torlonia: at the Casino dei Principi the anthological exhibition Giancarla Frare - Living the distance; in Casina delle Civette the exhibition \"In the sign of Cambellotti\". There are also initiatives: Fidia, housed in the rooms of Villa Caffarelli; Ukiyoe. The Fluctuating World. Visions from Japan, to the Museum of Rome at Palazzo Braschi; \"Giacomo Matteotti. Life and death of a father of Democracy\", at the Museum of Rome at Palazzo Braschi; \"Beyond space, beyond time.\" The dream of Ulisse Aldrovandi, at the Civic Museum of Zoology. Immancabile, especially for tourists the \"Circo Maximo Experience\", immersive visit of the Circus Maximus in reality, increased and virtual. But Rome, as we know, is not just culture and art. It's music, sport, football with the tifo at the same time power for two teams engaged in an eternal derby playing tricks: Roma and Lazio. The first, yellow and red as the colors of Rome, the second in white and blue, which claims to be born before. Rome is traffic, ztl, metro and yards that the Romans have \"adopted\" with patience and irony, aware of being in a Capital that wants to renew itself. It is the \"Cupolone\" that at sunset colored orange, is the coming Jubilee, the Colosseum that looks all from the top of its majesticity. Rome is also food, sweetness and golosity by bars and restaurants. It's tradition of carbonara, cacio and pepper, artichoke to the giudia, fillets of baccala' and suppli', pine, tortino alici and indivia, ice creams, tart visciole and ricotta, donambelline to the wine of the Castles, husband with cream... Wonderful wishes of eternal city.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Christmas",
+                "start_char": 72,
+                "end_char": 81,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 85,
+                "end_char": 89,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Rome",
+                "start_char": 65,
+                "end_char": 69,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "21 April",
+                "start_char": 82,
+                "end_char": 90,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the 2,777th year",
+                "start_char": 97,
+                "end_char": 113,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the \"",
+                "start_char": 249,
+                "end_char": 254,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 267,
+                "end_char": 271,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Saturday 20",
+                "start_char": 374,
+                "end_char": 385,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Monday 22 April",
+                "start_char": 411,
+                "end_char": 426,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Christmas of Rome",
+                "start_char": 529,
+                "end_char": 550,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.777",
+                "start_char": 558,
+                "end_char": 563,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rome Capital",
+                "start_char": 580,
+                "end_char": 592,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Assessorato alla Cultura",
+                "start_char": 594,
+                "end_char": 618,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Superintendenza Capitolina ai Beni Culturali",
+                "start_char": 620,
+                "end_char": 664,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Zètema Progetto Cultura",
+                "start_char": 682,
+                "end_char": 705,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Saturday, April 20",
+                "start_char": 744,
+                "end_char": 762,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "20",
+                "start_char": 768,
+                "end_char": 770,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the fourth mile",
+                "start_char": 808,
+                "end_char": 823,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "the Via Appia Antica",
+                "start_char": 827,
+                "end_char": 847,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Cultural Heritage",
+                "start_char": 954,
+                "end_char": 975,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Villa",
+                "start_char": 1233,
+                "end_char": 1238,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "night",
+                "start_char": 1363,
+                "end_char": 1368,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 1380,
+                "end_char": 1388,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "11",
+                "start_char": 1394,
+                "end_char": 1396,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "19",
+                "start_char": 1400,
+                "end_char": 1402,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Montanara",
+                "start_char": 1464,
+                "end_char": 1473,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "La Dea Roma",
+                "start_char": 1557,
+                "end_char": 1568,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Pietro Tenerani",
+                "start_char": 1573,
+                "end_char": 1588,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 1763,
+                "end_char": 1771,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ab Urbe",
+                "start_char": 1812,
+                "end_char": 1819,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "condita 2024",
+                "start_char": 1820,
+                "end_char": 1832,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the next day",
+                "start_char": 1888,
+                "end_char": 1900,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "22",
+                "start_char": 1975,
+                "end_char": 1977,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "21.30",
+                "start_char": 1996,
+                "end_char": 2001,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "21",
+                "start_char": 2010,
+                "end_char": 2012,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Museum of the Roman Republic",
+                "start_char": 2016,
+                "end_char": 2048,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Garibaldian",
+                "start_char": 2057,
+                "end_char": 2068,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "April 1849",
+                "start_char": 2076,
+                "end_char": 2086,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 2088,
+                "end_char": 2092,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Roman Republic of 1849",
+                "start_char": 2158,
+                "end_char": 2184,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The morning of tomorrow",
+                "start_char": 2186,
+                "end_char": 2209,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "10.15",
+                "start_char": 2238,
+                "end_char": 2243,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "11.45",
+                "start_char": 2248,
+                "end_char": 2253,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Museum of Sculpture",
+                "start_char": 2258,
+                "end_char": 2281,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Antica Giovanni Barracco",
+                "start_char": 2282,
+                "end_char": 2306,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Latin",
+                "start_char": 2334,
+                "end_char": 2339,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "first",
+                "start_char": 2388,
+                "end_char": 2393,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Latin",
+                "start_char": 2442,
+                "end_char": 2447,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Carlo Bilotti Museum",
+                "start_char": 2461,
+                "end_char": 2485,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Villa Borghese",
+                "start_char": 2506,
+                "end_char": 2520,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Manuel Felisi",
+                "start_char": 2543,
+                "end_char": 2556,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1:1",
+                "start_char": 2557,
+                "end_char": 2560,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 2712,
+                "end_char": 2719,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "10.30",
+                "start_char": 2744,
+                "end_char": 2749,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Capitoline Museums - Villa Caffarelli",
+                "start_char": 2753,
+                "end_char": 2794,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Fidia",
+                "start_char": 2811,
+                "end_char": 2816,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Casina",
+                "start_char": 3014,
+                "end_char": 3020,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Casina",
+                "start_char": 3094,
+                "end_char": 3100,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "five",
+                "start_char": 3153,
+                "end_char": 3157,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "11 p.m.",
+                "start_char": 3169,
+                "end_char": 3176,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the workshop 21 April",
+                "start_char": 3245,
+                "end_char": 3266,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a day",
+                "start_char": 3444,
+                "end_char": 3449,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sunday 21",
+                "start_char": 3461,
+                "end_char": 3470,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "15:00",
+                "start_char": 3474,
+                "end_char": 3479,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Galleria",
+                "start_char": 3483,
+                "end_char": 3495,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Moderna",
+                "start_char": 3503,
+                "end_char": 3510,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Crispi",
+                "start_char": 3518,
+                "end_char": 3524,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Group",
+                "start_char": 3530,
+                "end_char": 3535,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian Sign Language",
+                "start_char": 3723,
+                "end_char": 3744,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "15.15",
+                "start_char": 3750,
+                "end_char": 3755,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "16.15",
+                "start_char": 3763,
+                "end_char": 3768,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Piazza Vittorio",
+                "start_char": 3772,
+                "end_char": 3787,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "La Porta Magica",
+                "start_char": 3801,
+                "end_char": 3816,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Mario",
+                "start_char": 3822,
+                "end_char": 3827,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trofei",
+                "start_char": 3830,
+                "end_char": 3836,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "17 am",
+                "start_char": 3921,
+                "end_char": 3926,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Museum of Rome",
+                "start_char": 3930,
+                "end_char": 3948,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palazzo Braschi",
+                "start_char": 3952,
+                "end_char": 3967,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del Bufalo",
+                "start_char": 4056,
+                "end_char": 4066,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Andromeda",
+                "start_char": 4090,
+                "end_char": 4099,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Perseo",
+                "start_char": 4104,
+                "end_char": 4110,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the five hundredth century",
+                "start_char": 4114,
+                "end_char": 4140,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "del Bufalo",
+                "start_char": 4181,
+                "end_char": 4191,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Polidoro da Caravaggio",
+                "start_char": 4204,
+                "end_char": 4226,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Maturino",
+                "start_char": 4231,
+                "end_char": 4239,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Florence",
+                "start_char": 4245,
+                "end_char": 4253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 4277,
+                "end_char": 4284,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Zoology Museum",
+                "start_char": 4330,
+                "end_char": 4348,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Renaissance",
+                "start_char": 4400,
+                "end_char": 4411,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ulisse Aldrovandi.&nbsp",
+                "start_char": 4422,
+                "end_char": 4445,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "22 April",
+                "start_char": 4476,
+                "end_char": 4484,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the morning",
+                "start_char": 4489,
+                "end_char": 4500,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "10 o'clock",
+                "start_char": 4505,
+                "end_char": 4515,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Street Art",
+                "start_char": 4552,
+                "end_char": 4562,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Square",
+                "start_char": 4598,
+                "end_char": 4604,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "April 17, 1944",
+                "start_char": 4723,
+                "end_char": 4737,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "M.U.Ro",
+                "start_char": 4813,
+                "end_char": 4819,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian Sign Language",
+                "start_char": 4851,
+                "end_char": 4872,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "11 am",
+                "start_char": 4878,
+                "end_char": 4883,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Mercati",
+                "start_char": 4891,
+                "end_char": 4898,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Traiano - Museo",
+                "start_char": 4902,
+                "end_char": 4917,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 4984,
+                "end_char": 4988,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Augustus",
+                "start_char": 5024,
+                "end_char": 5032,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Italian Sign Language",
+                "start_char": 5113,
+                "end_char": 5138,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "9-19",
+                "start_char": 5254,
+                "end_char": 5258,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Museums",
+                "start_char": 5268,
+                "end_char": 5275,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the MIC Card",
+                "start_char": 5463,
+                "end_char": 5475,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Capitoline Museums (Piazza del Campidoglio 1",
+                "start_char": 5480,
+                "end_char": 5528,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Sala",
+                "start_char": 5538,
+                "end_char": 5542,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palazzo",
+                "start_char": 5563,
+                "end_char": 5570,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Conservatori",
+                "start_char": 5575,
+                "end_char": 5587,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the VRBS Roma",
+                "start_char": 5604,
+                "end_char": 5617,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 5658,
+                "end_char": 5662,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palazzo Clementino",
+                "start_char": 5667,
+                "end_char": 5685,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Santarelli",
+                "start_char": 5719,
+                "end_char": 5729,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Capitoline Museums",
+                "start_char": 5741,
+                "end_char": 5763,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the twentieth century",
+                "start_char": 5835,
+                "end_char": 5856,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Villa Caffarelli",
+                "start_char": 5861,
+                "end_char": 5877,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Colossus of Constantine",
+                "start_char": 5929,
+                "end_char": 5956,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Montemartini Central",
+                "start_char": 5972,
+                "end_char": 5996,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ostiense 106",
+                "start_char": 6002,
+                "end_char": 6014,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Mercati",
+                "start_char": 6081,
+                "end_char": 6088,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Traiano - Museo",
+                "start_char": 6092,
+                "end_char": 6107,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Imago Augusti",
+                "start_char": 6164,
+                "end_char": 6177,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Museum of Rome",
+                "start_char": 6182,
+                "end_char": 6200,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "piazza S. Egidio",
+                "start_char": 6216,
+                "end_char": 6232,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1",
+                "start_char": 6234,
+                "end_char": 6235,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three",
+                "start_char": 6239,
+                "end_char": 6244,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rino Gaetano",
+                "start_char": 6267,
+                "end_char": 6279,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 6336,
+                "end_char": 6343,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hilde",
+                "start_char": 6351,
+                "end_char": 6356,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy Art",
+                "start_char": 6360,
+                "end_char": 6369,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hilde Lotz-Bauer",
+                "start_char": 6401,
+                "end_char": 6417,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "100",
+                "start_char": 6425,
+                "end_char": 6428,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "German",
+                "start_char": 6451,
+                "end_char": 6457,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Una",
+                "start_char": 6507,
+                "end_char": 6510,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gallery of Modern Art",
+                "start_char": 6544,
+                "end_char": 6569,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Francesco Crispi",
+                "start_char": 6575,
+                "end_char": 6591,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Reality Optional",
+                "start_char": 6612,
+                "end_char": 6628,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Miaz Brothers",
+                "start_char": 6630,
+                "end_char": 6643,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the 20th century",
+                "start_char": 6664,
+                "end_char": 6680,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Miaz Brothers",
+                "start_char": 6721,
+                "end_char": 6734,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Napoleonic Museum (Piazza di Ponte Umberto",
+                "start_char": 6821,
+                "end_char": 6867,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giuseppe Primoli",
+                "start_char": 6889,
+                "end_char": 6905,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "East",
+                "start_char": 6927,
+                "end_char": 6931,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Carlo Bilotti Museum",
+                "start_char": 6936,
+                "end_char": 6960,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Aranciera",
+                "start_char": 6962,
+                "end_char": 6971,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Villa Borghese",
+                "start_char": 6975,
+                "end_char": 6989,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fiorello La Guardia",
+                "start_char": 6995,
+                "end_char": 7014,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "6",
+                "start_char": 7015,
+                "end_char": 7016,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "4",
+                "start_char": 7041,
+                "end_char": 7042,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Manuel Felisi",
+                "start_char": 7059,
+                "end_char": 7072,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1:1",
+                "start_char": 7073,
+                "end_char": 7076,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Villa Torlonia",
+                "start_char": 7111,
+                "end_char": 7125,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giancarla Frare - Living",
+                "start_char": 7182,
+                "end_char": 7206,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Casina",
+                "start_char": 7224,
+                "end_char": 7230,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cambellotti",
+                "start_char": 7276,
+                "end_char": 7287,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Villa Caffarelli",
+                "start_char": 7348,
+                "end_char": 7364,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukiyoe",
+                "start_char": 7366,
+                "end_char": 7372,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Fluctuating World",
+                "start_char": 7374,
+                "end_char": 7395,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Japan",
+                "start_char": 7410,
+                "end_char": 7415,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Museum of Rome at Palazzo Braschi",
+                "start_char": 7420,
+                "end_char": 7457,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giacomo Matteotti.",
+                "start_char": 7460,
+                "end_char": 7478,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "the Museum of Rome",
+                "start_char": 7524,
+                "end_char": 7542,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ulisse Aldrovandi",
+                "start_char": 7605,
+                "end_char": 7622,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Civic Museum of Zoology",
+                "start_char": 7627,
+                "end_char": 7654,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Circo Maximo",
+                "start_char": 7698,
+                "end_char": 7710,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "the Circus Maximus",
+                "start_char": 7743,
+                "end_char": 7761,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 7801,
+                "end_char": 7805,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 7917,
+                "end_char": 7920,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Roma",
+                "start_char": 7971,
+                "end_char": 7975,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lazio",
+                "start_char": 7980,
+                "end_char": 7985,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 7991,
+                "end_char": 7996,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 8030,
+                "end_char": 8034,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 8040,
+                "end_char": 8046,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 8098,
+                "end_char": 8102,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "metro",
+                "start_char": 8120,
+                "end_char": 8125,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Romans",
+                "start_char": 8145,
+                "end_char": 8151,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Capital",
+                "start_char": 8212,
+                "end_char": 8219,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jubilee",
+                "start_char": 8314,
+                "end_char": 8321,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Colosseum",
+                "start_char": 8327,
+                "end_char": 8336,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 8385,
+                "end_char": 8389,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "baccala",
+                "start_char": 8535,
+                "end_char": 8542,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "indivia",
+                "start_char": 8581,
+                "end_char": 8588,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Castles",
+                "start_char": 8661,
+                "end_char": 8668,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "È morto il giudice Italo Ormanni, seguì i casi Orlandi e Marta Russo",
+        "date_raw": "Sat, 20 Apr 2024 12:40:02 GMT",
+        "date": "2024-04-20",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-04-19/morto-il-giudice-italo-ormanni-26091153/",
+        "subtitle": "",
+        "content": "AGI - È morto Italo Ormanni, in magistratura dal 1961 al 2010. Aveva 87 anni. L'annuncio arriva dalla redazione del programma tv Forum dove Ormanni ha preso parte come giudice per due stagioni, dal 2011 al 2013, appena andato in pensione. Napoletano di origine, Ormanni da pm presso la procura partenopea aveva seguito alcune inchieste sulla camorra, culminate con gli arresti dei boss Cutolo, Zazza e Nuvoletta. Ma la sua realizzazione professionale è avvenuta a Roma dove ha seguito le indagini più delicate, dalla scomparsa di Emanuela Orlandi all'omicidio di Simonetta Cesaroni alla morte della studentessa Marta Russo all'Università La Sapienza. \n&nbsp; \nDa procuratore aggiunto presso la procura capitolina - carica che ha ricoperto dal 1994 al 2008 - Ormanni ha anche coordinato le indagini dell'antiterrorismo sugli anarchici e sulle nuove brigate rosse, con l'agguato al professor Massimo D'Antona, e sui delitti degli italiani all'estero, 'in primis' il duplice omicidio di Ilaria Alpi e Miran Hrovatin in Somalia e l'assassinio della giornalista Maria Grazia Cutuli in Afghanistan. Dal 2000 al 2008 è stato anche procuratore antimafia per il Lazio, mentre dal 2008 al 2010 è stato responsabile del Dipartimento presso il Ministero della giustizia, occupandosi tra l'altro dell'estradizione del terrorista Cesare Battisti, latitante in Brasile. \n&nbsp; \n<div></div> \n<br> \"Ci ha lasciati il giudice Italo Ormanni, è stato un onore poterlo annoverare tra i giudici del programma per due stagioni - è il ricordo della redazione di Forum -. Ormanni è entrato nel cast della nostra trasmissione con sincero entusiasmo, confrontandosi con casi molto diversi da quelli affrontati nella sua lunga esperienza professionale. Inizialmente molto serio e rigoroso, ha saputo mettersi in gioco mostrando anche il suo lato spiritoso. La squadra di Forum è profondamente colpita ed esprime la sua vicinanza alla famiglia\".&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1713765625.7239337,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-04-22 08:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-22T08.00.25",
+        "en_title": "Judge Italo Ormanni died, followed the cases Orlandi and Marta Russo",
+        "en_content": "AGI - Italo Ormanni died, in judiciary from 1961 to 2010. She was 87. The announcement comes from the drafting of the tv program Forum where Ormanni took part as a judge for two seasons, from 2011 to 2013, just retired. Neapolitan of origin, Ormanni da pm at the Neapolitan Prosecutor had followed some investigations on the camorra, culminated with the arrests of boss Cutolo, Zazza and Nuvoletta. But his professional achievement took place in Rome where he followed the most delicate investigations, from the disappearance of Emanuela Orlandi to the murder of Simonetta Cesaroni at the death of the student Marta Russo at La Sapienza University.\n&nbsp;\nDeputy prosecutor at the Capitoline Prosecutor - charge he held from 1994 to 2008 - Ormanni also coordinated the investigations of anti-terrorism on anarchists and new red brigades, with the engulfed Professor Massimo D'Antona, and on the crimes of Italians abroad, 'in primis' the double murder of Ilaria Alpi and Miran Afghanistan Cutvatin in Somalia and the journalist assassination. From 2000 to 2008 he was also an anti-mafia prosecutor for Lazio, while from 2008 to 2010 he was responsible for the Department at the Ministry of Justice, dealing among other things with the extradition of the terrorist Cesare Battisti, a latitante in Brazil.\n&nbsp;\n<div </div\n<br> \"He left us Judge Italo Ormanni, it was an honor to be able to count it among the judges of the program for two seasons - is the memory of the editing of Forum -. Ormanni has entered the cast of our transmission with sincere enthusiasm, comparing with cases very different from those faced in his long professional experience. Initially very serious and rigorous, he was able to put himself in play showing also his witty side. The Forum team is deeply impressed and expresses its closeness to the family.\" &nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Italo Ormanni",
+                "start_char": 6,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Orlandi",
+                "start_char": 45,
+                "end_char": 52,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marta Russo",
+                "start_char": 57,
+                "end_char": 68,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "1961",
+                "start_char": 44,
+                "end_char": 48,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2010",
+                "start_char": 52,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "87",
+                "start_char": 66,
+                "end_char": 68,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ormanni",
+                "start_char": 141,
+                "end_char": 148,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two seasons",
+                "start_char": 174,
+                "end_char": 185,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2011 to 2013",
+                "start_char": 192,
+                "end_char": 204,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Neapolitan",
+                "start_char": 220,
+                "end_char": 230,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ormanni da pm",
+                "start_char": 242,
+                "end_char": 255,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Neapolitan Prosecutor",
+                "start_char": 259,
+                "end_char": 284,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Cutolo",
+                "start_char": 370,
+                "end_char": 376,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Zazza",
+                "start_char": 378,
+                "end_char": 383,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nuvoletta",
+                "start_char": 388,
+                "end_char": 397,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 446,
+                "end_char": 450,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Emanuela Orlandi",
+                "start_char": 529,
+                "end_char": 545,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Simonetta Cesaroni",
+                "start_char": 563,
+                "end_char": 581,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marta Russo",
+                "start_char": 610,
+                "end_char": 621,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "La Sapienza University",
+                "start_char": 625,
+                "end_char": 647,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Capitoline Prosecutor -",
+                "start_char": 677,
+                "end_char": 704,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "1994",
+                "start_char": 725,
+                "end_char": 729,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2008 - Ormanni",
+                "start_char": 733,
+                "end_char": 747,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Massimo D'Antona",
+                "start_char": 866,
+                "end_char": 882,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italians",
+                "start_char": 905,
+                "end_char": 913,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ilaria Alpi",
+                "start_char": 955,
+                "end_char": 966,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Miran",
+                "start_char": 971,
+                "end_char": 976,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Afghanistan Cutvatin",
+                "start_char": 977,
+                "end_char": 997,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Somalia",
+                "start_char": 1001,
+                "end_char": 1008,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2000 to 2008",
+                "start_char": 1048,
+                "end_char": 1060,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Lazio",
+                "start_char": 1102,
+                "end_char": 1107,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2008",
+                "start_char": 1120,
+                "end_char": 1124,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Ministry of Justice",
+                "start_char": 1174,
+                "end_char": 1197,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cesare Battisti",
+                "start_char": 1264,
+                "end_char": 1279,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Brazil",
+                "start_char": 1296,
+                "end_char": 1302,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italo Ormanni",
+                "start_char": 1345,
+                "end_char": 1358,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two seasons",
+                "start_char": 1435,
+                "end_char": 1446,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ormanni",
+                "start_char": 1490,
+                "end_char": 1497,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
