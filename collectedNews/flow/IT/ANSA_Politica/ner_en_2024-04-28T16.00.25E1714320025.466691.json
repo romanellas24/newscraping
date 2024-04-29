@@ -1,0 +1,523 @@
+[
+    {
+        "title": "Tajani, miope competizione nel centrodestra alle Europee",
+        "date_raw": "Sun, 28 Apr 2024 12:08:02 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/tajani-miope-competizione-nel-centrodestra-alle-europee_5cd9732a-7ec8-45d0-a2fb-bfac63038225.html",
+        "subtitle": "Nessuno deve superare nessun altro",
+        "content": "\n                                                \n            \"Concorreremo con liste separate per\nle europee\" ma \"non per competere tra di noi\" saremmo \"miopi e\nsciocchi\", \"nessuno deve superare nessun altro\" .Lo ha detto il\nvicepremier e leader di FI Antonio Tajani alla kermesse di FdI.\n                                    \n                                       \n\t\t\t\t\"Vogliamo solo vincere e prendere tutti il maggior numero di\nvoti possibili. L'obiettivo è aumentare i voti del centrodestra\"\n\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 10,
+        "placed": "Politica",
+        "epoch": 1714312826.2637348,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "Tajani, myopic competition in the centre of Europe",
+        "en_content": "\"We will compete with separate lists for\nthe Europeans\" but \"not to compete between us\" we would be \"myopics and\nfools, \"no one must overcome any other.\"\nDeputy Premier and leader of FI Antonio Tajani at the FdI kermesse.\n\n\n\"We just want to win and take all the most\nPossible grades. The objective is to increase the votes of the centreright\"\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "No one else has to pass",
+        "title_NER": [
+            {
+                "word": "Europe",
+                "start_char": 44,
+                "end_char": 50,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europeans",
+                "start_char": 45,
+                "end_char": 54,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Antonio Tajani",
+                "start_char": 186,
+                "end_char": 200,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "FdI",
+                "start_char": 208,
+                "end_char": 211,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    },
+    {
+        "title": "Salvini, prossime elezioni nel 2027, non un minuto prima",
+        "date_raw": "Sun, 28 Apr 2024 12:01:41 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/salvini-prossime-elezioni-nel-2027-non-un-minuto-prima_b53af96b-07c2-4796-8cb2-0155857107a2.html",
+        "subtitle": "Siamo una squadra con obiettivi comuni",
+        "content": "\n                                                \n            \"Siamo una squadra composta da\nsoggetti che hanno obiettivi comuni, lo dico ai giornalisti lì\nin sala, mettetevi l'animo in pace perché le prossime elezioni\nsaranno nel 2027 non un minuto prima\". Così il leader della Lega\nMatteo Salvini in videocollegamento alla conferenza\nprogrammatica di Fdi di Pescara. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 12,
+        "placed": "Politica",
+        "epoch": 1714312826.2927535,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "Salvini, next elections in 2027, not a minute before",
+        "en_content": "\"We are a team of\nsubjects with common goals, I tell journalists there\nin the hall, put your mind in peace because the next elections\nwill be in 2027 not a minute before.\" So the leader of the League\nMatteo Salvini in videolink to the conference\nprogramme of Fdi di Pescara.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "We are a team with common goals",
+        "title_NER": [
+            {
+                "word": "2027",
+                "start_char": 27,
+                "end_char": 31,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a minute",
+                "start_char": 37,
+                "end_char": 45,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "2027",
+                "start_char": 145,
+                "end_char": 149,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a minute",
+                "start_char": 154,
+                "end_char": 162,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the League\nMatteo Salvini",
+                "start_char": 189,
+                "end_char": 214,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fdi di Pescara",
+                "start_char": 259,
+                "end_char": 273,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Europee:Meloni, a Europee scrivete Giorgia, sono una del popolo",
+        "date_raw": "Sun, 28 Apr 2024 13:31:25 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/europeemeloni-a-europee-scrivete-giorgia-sono-una-del-popolo_b9b72e24-4066-4231-836d-5c29a87a0ead.html",
+        "subtitle": "\"Resto fiera di esserlo, il potere non mi cambierà\"",
+        "content": "\n                                                \n            \"Chiedo agli italiani di scrivere il\nmio nome, ma il mio nome di battesimo\" alle europee. \"Sono fiera\nche la maggior parte dei cittadini che si rivolge a me mi chiami\nGiorgia. Io sono stata derisa per anni per le mie radici\npopolari, mi hanno chiamata pesciarola, borgatara...perché loro\nsono colti....Ma io sono fiera di essere una persona del\npopolo\". Lo ha detto la premier e leader di FdI Giorgia Meloni.\n                                    \n                                       \n\t\t\t\t\"Se volete dirmi che ancora credete in me scrivete sulla scheda\nGiorgia, perchè io sono e sarò sempre una di voi. Il potere non\nmi cambierà, il palazzo non mi isolerà. Io ho bisogno di sapere\nancora una volta che ne vale la pena\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1714312826.3919861,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "European:Meloni, in Europe writes Giorgia, are one of the people",
+        "en_content": "\"I ask Italians to write\nMy name, but my name of baptism\" to the Europeans. \"I'm proud\nthat most citizens who turn to me call me\nGiorgia. I have been derided for years for my roots\nfolks, they called me a little fish, brogade. ..because they\nI'm caught... but I'm proud to be a person of\npeople.\" The premier and leader of FdI Giorgia Meloni said so.\n\n\n\"If you want to tell me you still believe in me write on the tab\nGiorgia, because I am and will always be one of you. Power not\nIt'll change, the palace won't be me. I need to know\nonce again it is worth it.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "\"I'm proud to be, power won't change.\"",
+        "title_NER": [
+            {
+                "word": "European",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europe",
+                "start_char": 20,
+                "end_char": 26,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Giorgia",
+                "start_char": 34,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italians",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 65,
+                "end_char": 74,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Giorgia",
+                "start_char": 129,
+                "end_char": 136,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "years",
+                "start_char": 162,
+                "end_char": 167,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 327,
+                "end_char": 341,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giorgia",
+                "start_char": 418,
+                "end_char": 425,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Tajani a kermesse FdI, FI alleato leale, Giorgia lo sa",
+        "date_raw": "Sun, 28 Apr 2024 12:03:21 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/tajani-a-kermesse-fdi-fi-alleato-leale-giorgia-lo-sa_479ca653-07f0-4116-a18d-7f856ab241c5.html",
+        "subtitle": "Quando prendiamo un impegno lo manteniamo fino alla fine",
+        "content": "\n                                                \n            \"Amici, sono venuto a portarvi il\nsaluto di tutta FI, una forza politica che è e sarà sempre leale\ncon i propri alleati perché la lealtà è un valore che\ncontraddistingue questa coalizione. Meglio avere un alleato\nleale che un finto amico che ti tradisce. Giorgia sa che quando\nprendiamo un impegno lo manteniamo fino alla fine\". \"Non a caso\nsiamo partiti che hanno la parola Italia nel simbolo\". Lo ha\ndetto il vicepremier e leader di FI Antonio Tajani. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Politica",
+        "epoch": 1714312826.4029963,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "Tajani at kermesse FdI, FI allied loyal, Giorgia knows",
+        "en_content": "\"Friends, I came to bring you\ngreeting of all FI, a political force that is and will always be fair\nwith their allies because loyalty is a value that\ndistinguishes this coalition. Better to have an ally\na fake friend who betrays you. Giorgia knows when\nwe make a commitment to keep it until the end.\" \"Not by chance\nwe started that they have the word Italy in the symbol\". He did.\nsaid the deputypremier and leader of FI Antonio Tajani.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "When we make a commitment we keep it until the end",
+        "title_NER": [
+            {
+                "word": "FdI",
+                "start_char": 19,
+                "end_char": 22,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Giorgia",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Friends",
+                "start_char": 1,
+                "end_char": 8,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Giorgia",
+                "start_char": 234,
+                "end_char": 241,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 351,
+                "end_char": 356,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Antonio Tajani",
+                "start_char": 421,
+                "end_char": 435,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Meloni, arrivato momento di alzare posta,cambiamo anche l'Ue",
+        "date_raw": "Sun, 28 Apr 2024 13:37:31 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/meloni-arrivato-momento-di-alzare-postacambiamo-anche-lue_57823114-a55c-4e8d-8cdb-998ba1247bb4.html",
+        "subtitle": "Mentre si crogiolano noi smentiremo pronostici",
+        "content": "\n                                                \n            \"Difenderemo anche in Ue le nostre\neccellenze, i nostri confini, la nostra identità.  Anche\nstavolta ci diranno che siamo dei pazzi che è una sfida\nimpossibile da vincere. Ci hanno dato tante volte per sconfitti,\nci hanno detto che eravamo destinati scomparire. Lasciateglielo\ndire. Mentre si crogioleranno in questa loro rassicurante\nsperanza noi continueremo a lavorare come sempre fatto e chissà\nse anche stavolta riusciremo a smentire i pronostici. E'\narrivato il momento di alzare la posta, cambiamo anche\nl'Europa\".  Così Giorgia Meloni dal palco di Fdi a Pescara,\nall'annuncio della sua candidatura alle europee. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Politica",
+        "epoch": 1714312826.4213963,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "Meloni, time to raise mail, we also fall the EU",
+        "en_content": "\"We will also defend our\nexcellence, our borders, our identity. Also\nThis time they will tell us that we are crazy\nimpossible to win. They gave us so many times for defeats,\nThey told us we were destined to disappear. Let him.\nSay. As they crucify in their reassuring\nhope we will continue to work as always done and who knows\neven this time we will be able to deny the predictions. It's\nthe moment to raise the mail, we also change\nEurope.\" So Giorgia Meloni from the stage of Fdi to Pescara,\nthe announcement of its candidacy to Europeans.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "While we are crucible we will forget",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 45,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europe",
+                "start_char": 433,
+                "end_char": 439,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 445,
+                "end_char": 459,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 531,
+                "end_char": 540,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Meloni, vogliamo mandare a opposizione sinistra anche in Ue",
+        "date_raw": "Sun, 28 Apr 2024 13:03:47 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/meloni-vogliamo-mandare-a-opposizione-sinistra-anche-in-ue_4fbf22c2-2418-4206-9c1d-8ba0412adc6f.html",
+        "subtitle": "Difficile ma possibile maggioranza tutta di centrodestra",
+        "content": "\n                                                \n            \"Vogliamo creare una maggioranza\nche metta insieme le forze di centrodestra e mandare\nall'opposizione la sinistra anche in Ue è una impresa difficile\nma possibile e dobbiamo tentare\". Così Giorgia Meloni dal palco\ndi Fdi  a Pescara sottolineando che \"possiamo portare anche in\nEuropa il modello italiano, sarebbe una rivoluzione in cui il\npartito dei conservatori è strategico e fondamentale\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Politica",
+        "epoch": 1714312826.451062,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "Meloni, we want to send left opposition to the EU",
+        "en_content": "\"We want to create a majority\nthat put together the forces of the center and send\nto the opposition the left also in EU is a difficult undertaking\nbut possible and we must try\". So Giorgia Meloni from the stage\nby Fdi to Pescara stressing that \"we can also bring in\nEurope the Italian model, would be a revolution in which the\nConservative party is strategic and fundamental.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Difficult but possible all centre-right majority",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 47,
+                "end_char": 49,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "EU",
+                "start_char": 117,
+                "end_char": 119,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 181,
+                "end_char": 195,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fdi",
+                "start_char": 214,
+                "end_char": 217,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 266,
+                "end_char": 272,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italian",
+                "start_char": 277,
+                "end_char": 284,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the\nConservative",
+                "start_char": 323,
+                "end_char": 339,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Meloni scherza, Salvini ci ha preferito il ponte...",
+        "date_raw": "Sun, 28 Apr 2024 12:23:24 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/meloni-scherza-salvini-ci-ha-preferito-il-ponte..._a09cce25-ef1c-4af8-b631-c34da646fae5.html",
+        "subtitle": "'Lo so che voleva essere qui, per noi genitori non è facile'",
+        "content": "\n                                                \n            \"Grazie a Matteo che ci ha\npreferito il ponte...\". Scherza così la presidente del Consiglio\nGiorgia Meloni aprendo il suo intervento a Pescara con i\nringraziamenti ai leader del centrodestra. \"Lo so, per noi che\nsiamo genitori non è facile lo so che ci teneva a essere qui con\nnoi\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Politica",
+        "epoch": 1714312826.4670405,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "Meloni jokes, Salvini preferred the bridge...",
+        "en_content": "\"Thanks to Matteo who has us\nthe bridge. This is how the President of the Council\nGiorgia Meloni opening his intervention in Pescara with the\nthanks to the leaders of the district. \"I know, for us,\nWe're parents. It's not easy.\nwe.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "'I know he wanted to be here, for us parents is not easy'",
+        "title_NER": [
+            {
+                "word": "Salvini",
+                "start_char": 14,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Matteo",
+                "start_char": 11,
+                "end_char": 17,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Council",
+                "start_char": 74,
+                "end_char": 81,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 82,
+                "end_char": 96,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pescara",
+                "start_char": 125,
+                "end_char": 132,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Meloni,non tolgo un minuto ad attività governo per campagna",
+        "date_raw": "Sun, 28 Apr 2024 13:25:48 +0200",
+        "date": "2024-04-28",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/04/28/meloninon-tolgo-un-minuto-ad-attivita-governo-per-campagna_7ce652fc-688a-404a-ab85-f83bf7f0e9f0.html",
+        "subtitle": "Siccome non sono la segretaria del PD, mio partito mi aiuterà",
+        "content": "\n                                                \n            \"Non toglierò un solo minuto\ndell'attività del governo per fare campagna elettorale sul mio\nnome\". Così Giorgia Meloni dal palco di Fdi a Pescara,\nall'annuncio della sua candidatura alle europee.\n                                    \n                                       \n\t\t\t\t   \"Siccome non sono la segretaria del Partito democratico sono\nsicura che il partito mi darà una mano in questa campagna\nelettorale\", aggiunge Meloni. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1714312826.48222,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-04-28 16:00:26",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-04-28T16.00.26",
+        "en_title": "Meloni,I do not take a minute to government activity by country",
+        "en_content": "\"I won't take one minute\nof the government's activity to campaign on my own\nName.\" So Giorgia Meloni from the stage of Fdi to Pescara,\nthe announcement of its candidacy to Europeans.\n\n\n\"As I'm not the secretary of the Democratic Party,\nsure the party will give me a hand in this campaign\n\" adds Meloni.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Since I am not the secretary of the PD, my party will help me",
+        "title_NER": [
+            {
+                "word": "a minute",
+                "start_char": 21,
+                "end_char": 29,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "one minute",
+                "start_char": 14,
+                "end_char": 24,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 86,
+                "end_char": 100,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europeans",
+                "start_char": 172,
+                "end_char": 181,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Democratic Party",
+                "start_char": 214,
+                "end_char": 234,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 295,
+                "end_char": 301,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
