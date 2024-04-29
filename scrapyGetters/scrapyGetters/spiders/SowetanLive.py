@@ -18,26 +18,45 @@ class SowetanLive(BaseScraper):
     timezone = "Africa/Johannesburg"
 
     start_urls = [
-        "https://www.sowetanlive.co.za/rss/?publication=sowetan-live"
+        "https://www.sowetanlive.co.za/",
+        "https://www.sowetanlive.co.za/news/south-africa/",
+        "https://www.sowetanlive.co.za/news/africa/",
+        "https://www.sowetanlive.co.za/news/world/",
+        "https://www.sowetanlive.co.za/group/State_Capture/",
+        "https://www.sowetanlive.co.za/sport/soccer/",
+        "https://www.sowetanlive.co.za/sport/boxing/",
+        "https://www.sowetanlive.co.za/sport/cricket/",
+        "https://www.sowetanlive.co.za/sport/rugby/",
+        "https://www.sowetanlive.co.za/entertainment/",
+        "https://www.sowetanlive.co.za/pic-of-the-day/",
+        "https://www.sowetanlive.co.za/opinion/columnists/",
+        "https://www.sowetanlive.co.za/opinion/letters/",
+        "https://www.sowetanlive.co.za/opinion/",
+        "https://www.sowetanlive.co.za/s-mag/",
+        "https://www.sowetanlive.co.za/s-mag/culture/",
+        "https://www.sowetanlive.co.za/s-mag/fashion-beauty/",
+        "https://www.sowetanlive.co.za/s-mag/food-drink/",
+        "https://www.sowetanlive.co.za/s-mag/wellness/",
+        "https://www.sowetanlive.co.za/s-mag/living/",
+        "https://www.sowetanlive.co.za/business/",
+        "https://www.sowetanlive.co.za/business/money/"
     ]
     referred_link = ''
     ranked = 0
     edition = []
+    captured_news = []
     timeslot_day = ''
     timeslot_number = 0
 
     def parse(self, response):
         super().parse(response)
-
-        for news in response.css("channel > item"):
-            link = news.css("link:nth-child(2)::text").get()
-            title = news.css("title::text").get()
-            date_raw = news.css("pubDate::text").get()
-            date_raw = str(dateparser.parse(date_raw).date())
-            self.referred_link = response.url
-            yield response.follow(link, self.parseArticle, meta={'parent': response.url,
-                                                                 'title': title,
-                                                                 'date_raw': date_raw})
+        start_url = "https://www.sowetanlive.co.za"
+        article_links = response.xpath("//a[contains(@aria-label, 'article')]/@href").getall()
+        for article_link in article_links:
+            link = f"{start_url}{article_link}"
+            if link not in self.captured_news:
+                self.captured_news.append(link)
+                yield response.follow(link, self.parseArticle, meta={'parent': link})
 
     def close(spider: Spider, reason: str) -> Union[Deferred, None]:
         if reason == 'finished':
@@ -56,8 +75,10 @@ class SowetanLive(BaseScraper):
 
     def parseArticle(self, response):
         parent_url = response.meta['parent']
-        title = response.meta['title']
-        date_raw = response.meta['date_raw']
+        title = response.css("h1.article-title span::text").get()
+        date_raw = response.css("span.article-pub-date::text").get()
+        date_raw = dateparser.parse(date_raw.strip())
+        date_raw = str(date_raw)
         today = date.today()
         news_url = response.request.url
         content_paragraph = response.css('.text > p::text').getall()
