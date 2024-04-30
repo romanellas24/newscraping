@@ -3,7 +3,6 @@ from typing import Union
 
 from datetime import date, datetime, timedelta
 import time
-import dateparser
 from scrapy import Spider
 from twisted.internet.defer import Deferred
 import json
@@ -20,24 +19,25 @@ class ExpressoPt(BaseScraper):
     timeslot_number = 0
 
     start_urls = [
-        "https://feeds.feedburner.com/expresso-geral"
+        "https://expresso.pt/",
+        "https://expresso.pt/ultimas",
+        "https://expresso.pt/50-anos-25-de-abril",
+        "https://expresso.pt/economia",
     ]
+    base_url = "https://expresso.pt"
     referred_link = ''
     ranked = 0
     edition = []
+    captured_titles = []
 
     def parse(self, response):
         super().parse(response)
-
-        for news in response.css("channel > item"):
-            link = news.css("link::text").get()
-            title = news.css("title::text").get()
-            date_raw = news.css("pubDate::text").get()
-            date_raw = str(dateparser.parse(date_raw).date())
-            self.referred_link = response.url
-            yield response.follow(link, self.parseArticle, meta={'parent': response.url,
-                                                                 'title': title,
-                                                                 'date_raw': date_raw})
+        news_links = response.css("h2.title a::attr(href)").getall()
+        for news_link in news_links:
+            if "http" not in news_link and news_link not in self.captured_titles:
+                self.captured_titles.append(news_link)
+                news_link = f"{self.base_url}{news_link}"
+                yield response.follow(news_link, self.parseArticle, meta={'parent': response.url})
 
     def close(spider: Spider, reason: str) -> Union[Deferred, None]:
         if reason == 'finished':
@@ -56,8 +56,8 @@ class ExpressoPt(BaseScraper):
 
     def parseArticle(self, response):
         parent_url = response.meta['parent']
-        title = response.meta['title']
-        date_raw = response.meta['date_raw']
+        title = response.css("h1.title::text").get()
+        date_raw = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
         today = date.today()
         news_url = response.request.url
         content_paragraph = response.css('#article-body-1 p::text').getall()
