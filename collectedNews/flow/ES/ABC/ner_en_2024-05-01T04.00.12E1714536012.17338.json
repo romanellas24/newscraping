@@ -1,0 +1,1449 @@
+[
+    {
+        "title": "Hallan cinco esqueletos sin pies ni manos bajo la residencia del oficial nazi Hermann Göring en la Guarida del lobo",
+        "date_raw": "Tue, 30 Apr 2024 22:20:08 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/hallan-cinco-esqueletos-pies-manos-bajo-residencia-20240430222008-nt.html",
+        "subtitle": "Se trata de tres adultos, un adolescente y un bebé que, presuntamente, pertenecían a una misma familia",
+        "content": "Tres adultos, un adolescente y un bebé a los que les faltaban las manos y los pies. Son los ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1714528811.662571,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "Hallan five skeletons sin pies ni manos bajo la residencia del oficial nazi Hermann Göring en la Guarida del Lobo",
+        "en_content": "Adult trains, a teenager and a baby a los que les Missban las manos y los pies. Son los",
+        "en_subtitle": "If it comes to three adults, a teenager and a baby who, ham, pertenecían a una misma familia",
+        "title_NER": [
+            {
+                "word": "Hallan",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "five",
+                "start_char": 7,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "manos bajo la residencia del",
+                "start_char": 34,
+                "end_char": 62,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Guarida del Lobo",
+                "start_char": 97,
+                "end_char": 113,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "three",
+                "start_char": 15,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Missban",
+                "start_char": 50,
+                "end_char": 57,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "manos",
+                "start_char": 62,
+                "end_char": 67,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "los pies",
+                "start_char": 70,
+                "end_char": 78,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "los",
+                "start_char": 84,
+                "end_char": 87,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Detenido un menor de 15 años y su madre por su presunta implicación en el asesinato de otro joven de 16 en Francia",
+        "date_raw": "Tue, 30 Apr 2024 12:33:48 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/detenido-menor-anos-madre-presunta-implicacion-asesinato-20240430123348-nt.html",
+        "subtitle": "Una pelea con insultos entre los dos adolescentes fue el detonante del fatal suceso, que se produjo este sábado ",
+        "content": "Francia se encuentra sumergida en un d",
+        "ranked": 15,
+        "placed": "Abroad",
+        "epoch": 1714528811.8368423,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "Detenido un minor de 15 años y su madre por su hama implicación en el asesinato de otro joven de 16 en Francia",
+        "en_content": "Francia se encuentra sumergida en un d",
+        "en_subtitle": "Una fura con insultos entre los dos teenagers fue el detonante del fatal suceso, que se produjo this Saturday",
+        "title_NER": [
+            {
+                "word": "Detenido un",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "15",
+                "start_char": 21,
+                "end_char": 23,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "su madre",
+                "start_char": 31,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el asesinato de otro",
+                "start_char": 67,
+                "end_char": 87,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "16",
+                "start_char": 97,
+                "end_char": 99,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Francia",
+                "start_char": 103,
+                "end_char": 110,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "fue el detonante del fatal",
+                "start_char": 46,
+                "end_char": 72,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "this Saturday",
+                "start_char": 96,
+                "end_char": 109,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "un",
+                "start_char": 34,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Alarma en Alemania tras una manifestación que pedía instaurar la 'sharía': «El califato es la solución»",
+        "date_raw": "Tue, 30 Apr 2024 13:19:09 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/1000-personas-hamburgo-exigen-instaurar-sharia-alemania-20240430131908-nt.html",
+        "subtitle": "La manifestación ha sido convocada por el grupo de 'influencers' Muslim Interaktiv, recientemente investigado por su relación con un partido islamista radical prohibido en el país",
+        "content": ". «Alemania = dictadura de valores». Los carteles que se han leído en una concentración en Hamburgo el pasado sábado han alarmado a las autoridades del país, ",
+        "ranked": 14,
+        "placed": "Abroad",
+        "epoch": 1714528811.8526835,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "Alarma en Alemania tras una demonstración que pedía institur la 'sharía': \"El califato es la solución\"",
+        "en_content": ". \"Alemania = dictadura de Valores\". Los cartels que se han leido en una concentración en Hamburgo el pasado Saturday han alarmado a las authorities del país,",
+        "en_subtitle": "La demonstración ha foi convocada por el grupo de 'influencers' Muslim Interaktiv, recientes investigado por su relación con un Partido Islamista radical prohibido en el país",
+        "title_NER": [
+            {
+                "word": "Alarma",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alemania",
+                "start_char": 10,
+                "end_char": 18,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "La demonstración ha foi convocada",
+                "start_char": 0,
+                "end_char": 33,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Muslim",
+                "start_char": 64,
+                "end_char": 70,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Interaktiv",
+                "start_char": 71,
+                "end_char": 81,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Partido Islamista",
+                "start_char": 128,
+                "end_char": 145,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el país",
+                "start_char": 167,
+                "end_char": 174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "han",
+                "start_char": 56,
+                "end_char": 59,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamburgo el pasado",
+                "start_char": 90,
+                "end_char": 108,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 109,
+                "end_char": 117,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "han",
+                "start_char": 118,
+                "end_char": 121,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "las",
+                "start_char": 133,
+                "end_char": 136,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Hamás y Fatah aparcan su rivalidad histórica para lograr un único frente palestino contra a Israel",
+        "date_raw": "Tue, 30 Apr 2024 13:50:07 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/hamas-fatah-aparcan-rivalidad-historica-lograr-unico-20240430135006-nt.html",
+        "subtitle": "Pekín ha acogido un encuentro de reconciliación entre las dos facciones enemigas desde la muerte de Yaser Arafat ",
+        "content": "Hamás y Fatah, el partido del presidente de la Autoridad Nacional Palestina, Mahmud Abás, se reunieron en fechas recientes en Pekín para tratar de poner fin a su rivalidad y presentar un bloque único frente a Israel, en un momento clave de la guerra en Gaza. Un portavoz del ",
+        "ranked": 12,
+        "placed": "Abroad",
+        "epoch": 1714528811.871181,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "Hamás y Fatah aparcan su rivalry historical to achieve a single Palestinian front against Israel",
+        "en_content": "Hamás y Fatah, el Partido del presidente de la Autoridad Nacional Palestine, Mahmud Abás, se reunieron en fes recientes en Pekín para trata de poner fin a su rivalidad y presentar un bloque unique facing Israel, en un tempo clave de la guerra en Gaza. Un portavoz del",
+        "en_subtitle": "Pekín ha acogido un encuentro de reconciliación entre las dos facciones enemigas desde la muerte de Yaser Arafat",
+        "title_NER": [
+            {
+                "word": "Fatah",
+                "start_char": 8,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 64,
+                "end_char": 75,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 90,
+                "end_char": 96,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "de Yaser Arafat",
+                "start_char": 97,
+                "end_char": 112,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Fatah",
+                "start_char": 8,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Partido",
+                "start_char": 18,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del presidente de la",
+                "start_char": 26,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mahmud Abás",
+                "start_char": 77,
+                "end_char": 88,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pekín",
+                "start_char": 123,
+                "end_char": 128,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un",
+                "start_char": 180,
+                "end_char": 182,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 204,
+                "end_char": 210,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "un",
+                "start_char": 215,
+                "end_char": 217,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "de la",
+                "start_char": 230,
+                "end_char": 235,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 246,
+                "end_char": 250,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Un",
+                "start_char": 252,
+                "end_char": 254,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "El Rey Carlos III retoma su agenda pública con una visita a una clínica tras el anuncio de su cáncer",
+        "date_raw": "Tue, 30 Apr 2024 13:24:13 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/rey-carlos-iii-retoma-agenda-publica-visita-20240430132413-nt.html",
+        "subtitle": "Desde el 5 de febrero lleva recibiendo un tratamiento para la enfermedad. Sus actividades se están gestionando detalladamente para minimizar cualquier riesgo para su salud",
+        "content": "El ",
+        "ranked": 13,
+        "placed": "Abroad",
+        "epoch": 1714528811.8845067,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "El Rey Carlos III resumes his public agenda with a visit to a clinic tras el anuncio de su cancer",
+        "en_content": "El Salvador",
+        "en_subtitle": "Since the 5 of fever lleva recibiendo un tratamiento para la enfermedad. Su activities se están gestionando detallamente to minimize cualquier riesgo for su salud",
+        "title_NER": [
+            {
+                "word": "El Rey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Carlos III",
+                "start_char": 7,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el anuncio de su",
+                "start_char": 74,
+                "end_char": 90,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "5",
+                "start_char": 10,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "un",
+                "start_char": 38,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El Salvador",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Un grupo de estudiantes toma un edificio del campus de Columbia en protesta contra la guerra de Israel en Gaza",
+        "date_raw": "Tue, 30 Apr 2024 10:30:30 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/grupo-estudiantes-toma-edificio-campus-columbia-protesta-20240430103029-nt.html",
+        "subtitle": "Estos estudiantes no podrán terminar el semestre ni graduarse y no se les permitirá el acceso a las viviendas universitarias ni a los edificios académicos, según recoge la cadena de televisión CNN",
+        "content": "Los estudiantes manifestantes pro palestinos en la Universidad de ",
+        "ranked": 18,
+        "placed": "Abroad",
+        "epoch": 1714528811.899698,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "Un grupo de estudiantes Toma un edificio del campus de Columbia en protesta contra la guerra de Israel en Gaza",
+        "en_content": "Los estudiantes demonstrantes pro Palestinians en la Universidad de",
+        "en_subtitle": "Estudiantes no podrán termina el semester ni graduarse y no se les será el acceso a las viviendas universitarias ni a los edificios academicos, según recoge la cadena de televisión CNN",
+        "title_NER": [
+            {
+                "word": "Un",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Toma",
+                "start_char": 24,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un",
+                "start_char": 29,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "del campus de Columbia",
+                "start_char": 41,
+                "end_char": 63,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "contra la",
+                "start_char": 76,
+                "end_char": 85,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 96,
+                "end_char": 102,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 106,
+                "end_char": 110,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "las viviendas",
+                "start_char": 84,
+                "end_char": 97,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "los edificios",
+                "start_char": 118,
+                "end_char": 131,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de televisión",
+                "start_char": 167,
+                "end_char": 180,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "CNN",
+                "start_char": 181,
+                "end_char": 184,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Palestinians",
+                "start_char": 34,
+                "end_char": 46,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Universidad",
+                "start_char": 53,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Finlandia suspende los vuelos a Estonia por presuntas interferencias rusas en los sistemas GPS",
+        "date_raw": "Tue, 30 Apr 2024 12:15:24 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/finlandia-suspende-vuelos-tartu-interferencias-rusas-sistemas-20240430121524-nt.html",
+        "subtitle": "El informe anual de seguridad de la aviación precisa más de 7.500 informes sobre interrupciones totales de la actividad de los sistemas GPS, que casi multiplican por cinco los alrededor de 1.500 registrados en 2022",
+        "content": "Dos aviones de la aerolínea finlandesa Finnair se han visto obligados a regresar a ",
+        "ranked": 16,
+        "placed": "Abroad",
+        "epoch": 1714528811.9373302,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "Finlandia suspende los vuelos a Estonia by hams interferencias rusas en los sistema GPS",
+        "en_content": "Of the Finnair Finnish aeroplane aviones if han seen obligated to regresar a",
+        "en_subtitle": "The annual report of seguridad de la aviación needs bad of 7,500 reports on total interruptions de la actividad de los sistema GPS, que casi multiplyn por five los alrededor de 1.500 registrars en 2022",
+        "title_NER": [
+            {
+                "word": "Finlandia",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "los vuelos",
+                "start_char": 19,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Estonia",
+                "start_char": 32,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "los sistema",
+                "start_char": 72,
+                "end_char": 83,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "annual",
+                "start_char": 4,
+                "end_char": 10,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "seguridad de la aviación",
+                "start_char": 21,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7,500",
+                "start_char": 59,
+                "end_char": 64,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "de la",
+                "start_char": 96,
+                "end_char": 101,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "GPS",
+                "start_char": 127,
+                "end_char": 130,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "casi multiplyn",
+                "start_char": 136,
+                "end_char": 150,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "five",
+                "start_char": 155,
+                "end_char": 159,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.500",
+                "start_char": 177,
+                "end_char": 182,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2022",
+                "start_char": 197,
+                "end_char": 201,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Finnair",
+                "start_char": 7,
+                "end_char": 14,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Finnish",
+                "start_char": 15,
+                "end_char": 22,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "han",
+                "start_char": 44,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Un ataque en Londres con una espada deja un adolescente de 14 años muerto y varias personas heridas",
+        "date_raw": "Tue, 30 Apr 2024 10:59:28 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/detenido-hombre-atacar-varios-agentes-espada-londres-20240430105927-nt.html",
+        "subtitle": "El sospechoso, de 36 años, apuñaló a varias personas antes de salir a la calle y atacar a peatones y al menos a dos agentes de las fuerzas de seguridad",
+        "content": "Muere un menor de 14 años y cuatro personas han resultado heridas por un ",
+        "ranked": 17,
+        "placed": "Abroad",
+        "epoch": 1714528811.9575448,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.11",
+        "en_title": "An attack in London con una sword deja un teenager de 14 años muerto y varias personas inheridas",
+        "en_content": "Muere un minor de 14 años y cuatro personas han result inherited by un",
+        "en_subtitle": "El sospechoso, of 36 years, apuñaló a varias personas before salir a la calle y attack the peatones y al minus that of agents of seguridad fuerzas",
+        "title_NER": [
+            {
+                "word": "London",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "un",
+                "start_char": 39,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "14",
+                "start_char": 54,
+                "end_char": 56,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "36 years",
+                "start_char": 18,
+                "end_char": 26,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "un",
+                "start_char": 6,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "14",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "años",
+                "start_char": 21,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "han",
+                "start_char": 44,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "un",
+                "start_char": 68,
+                "end_char": 70,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Agredida sexualmente y golpeada: desvelan cómo murió una joven iraní de 16 años que protestaba contra el régimen",
+        "date_raw": "Tue, 30 Apr 2024 14:02:30 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/agredida-sexualmente-golpeada-muerte-revelada-causa-muerte-20240430140229-nt.html",
+        "subtitle": "Las autoridades afirmaron que la joven Nika Shakarami, de solo 16 años, se había suicidado",
+        "content": "Los",
+        "ranked": 10,
+        "placed": "Abroad",
+        "epoch": 1714528812.0317907,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.12",
+        "en_title": "Sexually assaulted and struck: desvelan cómo murió una joven iraní de 16 años que protestaba contra el régimen",
+        "en_content": "Los Angeles",
+        "en_subtitle": "The authorities affirm that the young Nika Shakarami, of soil 16 years, was killed",
+        "title_NER": [
+            {
+                "word": "16",
+                "start_char": 70,
+                "end_char": 72,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "contra",
+                "start_char": 93,
+                "end_char": 99,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Nika Shakarami",
+                "start_char": 38,
+                "end_char": 52,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "16 years",
+                "start_char": 62,
+                "end_char": 70,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Los Angeles",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "La crisis del nacionalismo escocés se agudiza tras la dimisión de Youssaf",
+        "date_raw": "Tue, 30 Apr 2024 13:52:50 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/crisis-nacionalismo-escoces-agudiza-tras-dimision-youssaf-20240430135249-nt.html",
+        "subtitle": "La primera grieta en la armadura del SNP surgió cuando el ex primer ministro Alex Salmond fue acusado de acoso sexual durante su mandato",
+        "content": "El nacionalismo escocés está en crisis. Y la segunda vez, en año y medio, que el ministro principal renuncia a su cargo, es la guinda que corona el pastel de una gestión que ya hace aguas desde hace tiempo. Tras la renuncia de Nicola Sturgeon ...",
+        "ranked": 11,
+        "placed": "Abroad",
+        "epoch": 1714528812.0565894,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.12",
+        "en_title": "La crisis del nationalismo scocés se agudiza tras la dimisión de Youssaf",
+        "en_content": "The Scottish nationalism is in crisis. Y la second time, en año y medio, que el prime minister resigns su cargo, es la guinda que corona el pastel de una gestión que ya hace aguas desde hace tiempo. Tras la renunciation de Nicola Sturgeon ...",
+        "en_subtitle": "La primera grieta en la armor del SNP emergeó cuando el ex primer Minister Alex Salmond fue accused of sexual harassment during his term",
+        "title_NER": [
+            {
+                "word": "la dimisión de Youssaf",
+                "start_char": 50,
+                "end_char": 72,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "la",
+                "start_char": 21,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "SNP",
+                "start_char": 34,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "cuando el",
+                "start_char": 46,
+                "end_char": 55,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alex Salmond",
+                "start_char": 75,
+                "end_char": 87,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Scottish",
+                "start_char": 4,
+                "end_char": 12,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "second",
+                "start_char": 44,
+                "end_char": 50,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "el prime minister",
+                "start_char": 77,
+                "end_char": 94,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "la guinda",
+                "start_char": 116,
+                "end_char": 125,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "pastel de una gestión",
+                "start_char": 140,
+                "end_char": 161,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tras la renunciation de Nicola Sturgeon",
+                "start_char": 199,
+                "end_char": 238,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Arde el 'castillo de Harry Potter' de Odesa tras ser alcanzado por un ataque ruso",
+        "date_raw": "Tue, 30 Apr 2024 16:06:50 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/arde-castillo-harry-potter-odesa-tras-alcanzado-20240430160650-nt.html",
+        "subtitle": "Ucrania acusa al Kremlin de haber utilizado munición de racimo en una acción que ha dejado al menos cinco muertos",
+        "content": "El emblemático",
+        "ranked": 8,
+        "placed": "Abroad",
+        "epoch": 1714528812.0760503,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.12",
+        "en_title": "Arde el 'castillo de Harry Potter' de Odesa tras ser acanzado por un attack ruso",
+        "en_content": "El emblemático",
+        "en_subtitle": "Ucrania accuses al Kremlin de haber used munición de racimo en una acción que ha dejado al minus five muertos",
+        "title_NER": [
+            {
+                "word": "Arde el '",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de Harry Potter' de Odesa",
+                "start_char": 18,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un",
+                "start_char": 66,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Ucrania",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "al Kremlin de haber",
+                "start_char": 16,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "munición de racimo",
+                "start_char": 41,
+                "end_char": 59,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El emblemático",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Mueren tiroteados tres agentes del equipo especial de los Fugitivos de los Marshals de EE.UU. y un policía en Carolina del Norte",
+        "date_raw": "Tue, 30 Apr 2024 08:58:47 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/mueren-tiroteados-tres-agentes-equipo-especial-fugitivos-20240430085847-nt.html",
+        "subtitle": "Otros cuatro agentes han resultado heridos y el tirador, abatido. Biden ha recordado a estos «héroes» ha pedido endurecer la legislación sobre armas automáticas y cargadores de alta capacidad",
+        "content": "Al menos cuatro policías han muerto y otros cuatro han resultado heridos, en un tiroteo ocurrido este lunes en el barrio de North Tryon Charlotte, en el estado estadounidense de Carolina del Norte, y en el que los agentes han logrado también abatir al tirador.",
+        "ranked": 19,
+        "placed": "Abroad",
+        "epoch": 1714528812.0925984,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.12",
+        "en_title": "Mueren shooting tres agents del equipo especial de los Fugitivos de los Marshals de EE.UUU. y un policía en Carolina del North",
+        "en_content": "Al minus cuatro policías han muerto y otros cuatro han result in inherited, en un Tiroteo ocurrido este lunes en el barrio de North Tryon Charlotte, en el estadounidense de Carolina del Norte, y en el que los agents han logrado también abatir al tirador.",
+        "en_subtitle": "Otros cuatro agents han result heridos y el tirador, abatido. Biden has reminded estos «héroes» ha pedido hardcer la legislación sobre armas automatic y cargodores de alta capacidad",
+        "title_NER": [
+            {
+                "word": "Mueren",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "del equipo",
+                "start_char": 28,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de los Marshals de EE.UUU",
+                "start_char": 65,
+                "end_char": 90,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un",
+                "start_char": 94,
+                "end_char": 96,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Carolina del North",
+                "start_char": 108,
+                "end_char": 126,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "han",
+                "start_char": 20,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el tirador",
+                "start_char": 41,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Biden",
+                "start_char": 62,
+                "end_char": 67,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "la legislación sobre armas",
+                "start_char": 114,
+                "end_char": 140,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "han muerto",
+                "start_char": 25,
+                "end_char": 35,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "han",
+                "start_char": 51,
+                "end_char": 54,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "de Carolina del Norte",
+                "start_char": 170,
+                "end_char": 191,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el que",
+                "start_char": 198,
+                "end_char": 204,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "han logrado",
+                "start_char": 216,
+                "end_char": 227,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "al tirador",
+                "start_char": 243,
+                "end_char": 253,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "El Gobierno británico pierde el rastro de miles de migrantes que pretende enviar a Ruanda",
+        "date_raw": "Tue, 30 Apr 2024 15:26:18 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/gobierno-britanico-pierde-rastro-miles-migrantes-pretende-20240430152618-nt.html",
+        "subtitle": "Más de 5.700 personas han sido identificadas para su expulsión, pero se desconoce el paradero de casi la mitad",
+        "content": "El ministerio británico del Interior afronta una situación compleja en este momento tras perder el rastro de miles de migrantes ",
+        "ranked": 9,
+        "placed": "Abroad",
+        "epoch": 1714528812.1095526,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.12",
+        "en_title": "El Gobierno británico pierde el trace of miles of migrants who intends to send to Rwanda",
+        "en_content": "El ministerio británico del Interior afronta una situación compleja en este tempo tras lose el trace de miles de migrants",
+        "en_subtitle": "Más de 5.700 personas han was identified for su expulsión, pero se desconoce el paradero de casi la mitad",
+        "title_NER": [
+            {
+                "word": "El Gobierno",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rwanda",
+                "start_char": 82,
+                "end_char": 88,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Más de 5.700",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "pero se",
+                "start_char": 59,
+                "end_char": 66,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el paradero de casi la",
+                "start_char": 77,
+                "end_char": 99,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "del Interior",
+                "start_char": 24,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el trace de miles de",
+                "start_char": 92,
+                "end_char": 112,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Salto cualitativo de la violencia que enfrenta el Estado chileno en zonas mapuches",
+        "date_raw": "Tue, 30 Apr 2024 16:48:03 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/salto-cualitativo-violencia-enfrenta-estado-chileno-zonas-20240430141931-nt.html",
+        "subtitle": "El recurso de Boric al Ejército y los carabineros revaloriza la presidencia de Piñera",
+        "content": "El asesinato de tres carabineros el pasado fin de semana en Chile, por disparos de un comando asaltante, supone un salto cualitativo en la violencia ",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1714528812.1238353,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.12",
+        "en_title": "Salto cualitativo de la violencia que confront el Estado chileno en zonas mapuches",
+        "en_content": "El asesinato de tres carabineros el pasado fin de semana en Chile, by shots of an asaltante command, supone un jump cualitativo en la violencia",
+        "en_subtitle": "El feature de Boric al Ejército y los carabineros revaloriza la presidencia de Piñera",
+        "title_NER": [
+            {
+                "word": "Salto",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de la violencia que confront",
+                "start_char": 18,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Estado",
+                "start_char": 50,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "de Boric al Ejército",
+                "start_char": 11,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "los carabineros",
+                "start_char": 34,
+                "end_char": 49,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "presidencia de Piñera",
+                "start_char": 64,
+                "end_char": 85,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El asesinato de tres carabineros el pasado",
+                "start_char": 0,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chile",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "un",
+                "start_char": 108,
+                "end_char": 110,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "El canciller austriaco advierte sobre el «momento Oppenheimer de nuestra generación»",
+        "date_raw": "Tue, 30 Apr 2024 17:48:43 +0200",
+        "date": "2024-04-30",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/canciller-austriaco-advierte-sobre-momento-oppenheimer-generacion-20240430174842-nt.html",
+        "subtitle": "Las armas guiadas por  inteligencia artificial, están ya siendo usadas sobre el terreno sin que la comunidad internacional haya abordado su legislación",
+        "content": " están ya siendo usadas sobre el terreno ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1714528812.172915,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-01 04:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-01T04.00.12",
+        "en_title": "El canciller austriaco advierte sobre el 'momento Oppenheimer de nuestra generación'",
+        "en_content": "están ya siendo used on the terrain",
+        "en_subtitle": "Las weapons guided by artificial intelligence, están ya siendo used on the terrain sin que la comunidad internacional haya addressed su legislación",
+        "title_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "austriaco",
+                "start_char": 13,
+                "end_char": 22,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el '",
+                "start_char": 38,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Oppenheimer de nuestra generación'",
+                "start_char": 50,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "su",
+                "start_char": 133,
+                "end_char": 135,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "están ya siendo",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
