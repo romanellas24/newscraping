@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Blinken, Israele non attacchi Rafah, Hamas accetti intesa",
+        "date_raw": "Wed, 1 May 2024 19:07:23 +0200",
+        "date": "2024-05-01",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/05/01/blinken-israele-non-attacchi-rafah-hamas-accetti-intesa_f3cc45b7-3c94-478b-8b97-e2b0fc2f5200.html",
+        "subtitle": "Altrimenti mostrerebbe che non gli importa nulla dei palestinesi",
+        "content": "\n                                                \n            Il segretario di Stato Usa Antony\nBlinken, in visita in Israele, ha suggerito allo Stato ebraico\n\"altre soluzioni\" piuttosto che attaccare Rafah, l'ultima\ncittadina nel sud della Striscia di Gaza dove ci sono un milione\ne mezzo di sfollati, e allo stesso tempo ha esortato Hamas ad\naccettare l'intesa, perché in caso contrario mostrerebbe che non\ngli importa nulla del destino dei palestinesi. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1714590028.7380905,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-01 21:00:28",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-01T21.00.28",
+        "en_title": "Blinken, Israel does not attack Rafah, Hamas accepted understanding",
+        "en_content": "US Secretary of State Antony\nBlinken, visiting Israel, suggested to the Jewish State\n\"other solutions\" rather than attacking Rafah, the last\ntown in the south of the Gaza Strip where there are a million\nand a means of displaced persons, and at the same time urged Hamas to\naccept the agreement, because otherwise it would show that not\nHe cares about the fate of the Palestinians.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Otherwise it would show that he doesn't care about the Palestinians",
+        "title_NER": [
+            {
+                "word": "Blinken",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 9,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 39,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Palestinians",
+                "start_char": 55,
+                "end_char": 67,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "US",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "State Antony\nBlinken",
+                "start_char": 16,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 47,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jewish",
+                "start_char": 72,
+                "end_char": 78,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 162,
+                "end_char": 176,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a million",
+                "start_char": 193,
+                "end_char": 202,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 264,
+                "end_char": 269,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 367,
+                "end_char": 379,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]
