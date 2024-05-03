@@ -14,7 +14,7 @@ SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 
 
-class RioTimes(BaseScraper):
+class NewsComAu(BaseScraper):
     name = "NewsComAu"
     timezone = "Australia/Canberra"
 
