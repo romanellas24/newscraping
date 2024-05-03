@@ -15,6 +15,7 @@ scrapy crawl ExpressoPt
 scrapy crawl NewsComAu
 scrapy crawl LosAngelesTimes
 scrapy crawl AgiHomePageSpider
+scrapy crawl AnsaHomePage
 cd ../../..
 git pull
 git add .

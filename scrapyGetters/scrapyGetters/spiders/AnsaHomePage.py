@@ -18,14 +18,14 @@ BASE_NAME = f"{NOW_S}E{NOW_EPOCH}.json"
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
-BASE_URL = f"www.agi.it"
+BASE_URL = f"www.ansa.it"
 
 
-class AgiHomePageSpider(BaseScraper):
-    name = 'AgiHomePage'
+class AnsaHomePage(BaseScraper):
+    name = 'AnsaHomePage'
     allowed_domains = [BASE_URL]
     start_urls = [
-        "https://www.agi.it/"
+        "https://www.ansa.it/"
     ]
     timezone = "Europe/Rome"
     timeslot_day = ''
@@ -35,9 +35,11 @@ class AgiHomePageSpider(BaseScraper):
 
     def parse(self, response):
         super().parse(response)
-        article_links = response.css("a.sequenceContainerTag::attr(href)").getall()
+        article_links = response.css("div.article-teaser div.article-content a::attr(href)").getall()
         for article in article_links:
-            if article not in self.captured and "www.agi.it" in article:
+            if article not in self.captured and "https://" not in article:
+                article = article[1:]
+                article = f"{self.start_urls[0]}{article}"
                 self.captured.append(article)
                 yield response.follow(article, self.parseArticle, meta={'parent': response.url})
 
@@ -49,7 +51,7 @@ class AgiHomePageSpider(BaseScraper):
             base_name = f"{now_s}E{now_epoch}.json"
             for new in spider.edition:
                 new['date'] = str(new['date'])
-            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/AGI"
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/ANSA"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
             with open(scraped_data_filepath, "w") as f:
                 json.dump(spider.edition, f, indent=4, ensure_ascii=False)
@@ -58,25 +60,25 @@ class AgiHomePageSpider(BaseScraper):
 
     def parseArticle(self, response):
         parent_url = response.meta['parent']
-        title = response.css("h1::text").get()
+        title = response.css("h1.post-single-title::text").get()
+        title = title.strip()
         today = date.today()
-        date_raw = response.css("time.pubdate::text").get()
+        date_raw = response.css("div.post-single-meta p.details::text").get().strip()
         if isinstance(date_raw, str) == False:
             pass
-        date_parsed = dateparser.parse(date_raw)
-        if date_parsed.date() != today:
-            pass
         news_url = response.request.url
-        content_paragraph = response.css('article p')
+        content_paragraph = response.css('div.news-txt p')
         content = ''
         self.ranked = self.ranked + 1
         timestamp = time.time()
-        subtitle = response.css('div.fieldContainerTag::text').get()
+        subtitle = response.css('div.post-single-summary::text').get()
+        subtitle = subtitle.strip()
 
         for p in content_paragraph:
-            p_content = p.xpath(".//text()[2]").get()
+            p_content = p.xpath("./text()").get()
             if p_content != None:
-                content = content + p_content + "\n"
+                p_content = p_content.strip()
+                content = content + p_content + " "
 
         new = {
             'title': title,
