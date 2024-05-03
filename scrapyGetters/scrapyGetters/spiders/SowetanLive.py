@@ -56,7 +56,7 @@ class SowetanLive(BaseScraper):
             link = f"{start_url}{article_link}"
             if link not in self.captured_news:
                 self.captured_news.append(link)
-                yield response.follow(link, self.parseArticle, meta={'parent': link})
+                yield response.follow(link, self.parseArticle, meta={'parent': response.url})
 
     def close(spider: Spider, reason: str) -> Union[Deferred, None]:
         if reason == 'finished':
