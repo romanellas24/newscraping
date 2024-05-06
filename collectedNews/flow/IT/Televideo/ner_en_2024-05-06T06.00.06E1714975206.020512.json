@@ -1,0 +1,1776 @@
+[
+    {
+        "title": "LUNEDI' SCIOPERO DEL TRASPORTO LOCALE  Astensione indetta da Usb, Cobas e Cub  Salvaguardate le fasce di garanzia",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Domani sciopero trasporti sigle di base Sciopero dei trasporti di 24 ore lunedì indetto da Usb, Cobas e Cub, che causerà possibili disagi per le città, anche se saranno salvaguardate le fasce di garanzia. A Roma bus e metro regolari dall'inizio del servizio fino alle 8.30 e dalle 17 alle 20. A Milano lo sciopero potrebbe avere conseguenze sulle  linee dalle 8.45 alle 15 e dopo le 18 fino al termine del servizio.   Una mobilitazione \"per rivendicare salario, sicurezza e diritti, temi centrali su cui si basa la piattaforma di rinnovo contrattuale di categoria\". ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1714968006.5274987,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "LUNDI' SCIOPERO DEL TRASPORTO LOCALE Astension indicted by Usb, Cobas and Cub Save the warranty bands",
+        "en_content": "Tomorrow strike transport basic acronyms Transport strike of 24 hours Monday organized by Usb, Cobas and Cub, which will cause possible discomfort for the cities, even if the warranty bands will be safeguarded. In Rome regular bus and metro from the start of the service until 8.30 and from 17 to 20. In Milan the strike could have consequences on the lines from 8.45 to 15 and after 18 until the end of the service. A mobilization \"to claim wages, security and rights, central issues on which the category contract renewal platform is based\".",
+        "title_NER": [
+            {
+                "word": "SCIOPERO",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "DEL TRASPORTO LOCALE Astension",
+                "start_char": 16,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Usb,",
+                "start_char": 59,
+                "end_char": 63,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cobas",
+                "start_char": 64,
+                "end_char": 69,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cub Save",
+                "start_char": 74,
+                "end_char": 82,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tomorrow",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "24 hours",
+                "start_char": 61,
+                "end_char": 69,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Monday",
+                "start_char": 70,
+                "end_char": 76,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Usb,",
+                "start_char": 90,
+                "end_char": 94,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cobas",
+                "start_char": 95,
+                "end_char": 100,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cub",
+                "start_char": 105,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 214,
+                "end_char": 218,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "metro",
+                "start_char": 235,
+                "end_char": 240,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "8.30",
+                "start_char": 277,
+                "end_char": 281,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "17",
+                "start_char": 291,
+                "end_char": 293,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "20",
+                "start_char": 297,
+                "end_char": 299,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Milan",
+                "start_char": 304,
+                "end_char": 309,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "8.45",
+                "start_char": 363,
+                "end_char": 367,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15",
+                "start_char": 371,
+                "end_char": 373,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "18",
+                "start_char": 384,
+                "end_char": 386,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Tajani coinvolge le autorità Usa",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=158",
+        "content": " Tajani: sono colpito da tanta violenza Il ministro degli Esteri Tajani ha avuto nel pomeriggio un telefonica con la signora Vlasta Studenicova, madre di Matteo Falcinelli.    \"Ho offerto alla signora e alla famiglia di Falcinelli la mia più calorosa solidarietà. Sono rimasto profondamente colpito ha detto Tajani dalla violenza e dal tipo di trattamento che è stato applicato al nostro connazionale: quel sistema in Italia evoca qualcosa che neppure voglio nominare. Con equilibrio e rispetto per le istituzioni statunitensi, ma con tutta la forza necessaria la Farnesina seguirà il caso\".  ",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1714968006.5615757,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "Tajani involves US authorities",
+        "en_content": "Tajani: I am struck by so much violence Foreign Minister Tajani had a telephone in the afternoon with Mrs. Vlasta Studenicova, mother of Matteo Falcinelli. \"I offered the lady and the family of Falcinelli my warmest solidarity. I was deeply impressed said Tajani by the violence and type of treatment that was applied to our compatriot: that system in Italy evokes something that I don't even want to name. With balance and respect for the US institutions, but with all the necessary strength the Farnesina will follow the case.\"",
+        "title_NER": [
+            {
+                "word": "US",
+                "start_char": 16,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tajani",
+                "start_char": 57,
+                "end_char": 63,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 83,
+                "end_char": 96,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Vlasta Studenicova",
+                "start_char": 107,
+                "end_char": 125,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Matteo Falcinelli",
+                "start_char": 137,
+                "end_char": 154,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Falcinelli",
+                "start_char": 194,
+                "end_char": 204,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 256,
+                "end_char": 262,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 352,
+                "end_char": 357,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 440,
+                "end_char": 442,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Farnesina",
+                "start_char": 497,
+                "end_char": 506,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Famiglie ostaggi: accettate accordo",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Israele, famiglie ostaggi: fare accordo Dopo le manifestazioni di ieri in più città israeliane, tra cui Tel Aviv, le famiglie degli ostaggi in mano ad Hamas nella Striscia di Gaza chiedono al premier Netanyahu che si faccia l'accordo su Gaza.      \"A poche ore da Yom ha-Shoah, vogliamo ricordare che avete promesso ogni anno 'mai più'. E' vostro dovere ignorare qualsiasi pressione politica e la storia non vi perdonerà se mancherete l'opportunità, poiché il ritorno degli ostaggi è una condizione necessaria per la resurrezione nazionale\", affermano. ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1714968006.5659437,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "Host Families: Accepted Agreement",
+        "en_content": "Israel, hostage families: make agreement After yesterday's demonstrations in several Israeli cities, including Tel Aviv, the families of the hostages in the hands of Hamas in the Gaza Strip ask Prime Minister Netanyahu to make the deal on Gaza. \"A few hours from Yom ha-Shoah, we want to remember that you promised every year 'more'. It is your duty to ignore any political pressure and history will not forgive you if you miss the opportunity, since the return of hostages is a necessary condition for national resurrection,\" they say.",
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 47,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 85,
+                "end_char": 92,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tel Aviv",
+                "start_char": 111,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 166,
+                "end_char": 171,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 175,
+                "end_char": 189,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 209,
+                "end_char": 218,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 239,
+                "end_char": 243,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "A few hours",
+                "start_char": 246,
+                "end_char": 257,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Yom ha-Shoah",
+                "start_char": 263,
+                "end_char": 275,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "\"Torturato, ma sono sopravvissuto\"",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Falcinelli:torturato,sono sopravvissuto \"Sopravvivendo alla tortura che ho subìto ho vinto la partita più importante Forse la mia esperienza di calciatore mi ha aiutato psicologicamente altrimenti non so se ce l'avrei fatta\" .  Questo quanto detto dallo studente Matteo Falcinelli, che ha subìto  maltrattamenti dalla polizia di Miami, in Florida.Lo ha riferito la madre Vlasta Studenivova all'Ansa. Lo studente 25enne è stato arrestato lo scorso febbraio con modalità violente testimoniate dalle riprese delle body-cam degli agenti.Ora non è in stato di detenzione",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1714968006.5740762,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "\"Returned, but I survived\"",
+        "en_content": "Falcinelli:torturato,I survived \"By approaching the torture I suffered I won the most important match Maybe my football experience helped me psychologically otherwise I don't know if I would make it.\" This is what the student said Matteo Falcinelli, who suffered mistreatment from the Miami police, Florida. His mother Vlasta Studenivova told Ansa. The 25-year-old student was arrested last February in violent mode testified by the body-cam footage of the agents. Now he's not in detention",
+        "content_NER": [
+            {
+                "word": "Falcinelli",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Matteo Falcinelli",
+                "start_char": 231,
+                "end_char": 248,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Miami",
+                "start_char": 285,
+                "end_char": 290,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Florida",
+                "start_char": 299,
+                "end_char": 306,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vlasta Studenivova",
+                "start_char": 319,
+                "end_char": 337,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ansa",
+                "start_char": 343,
+                "end_char": 347,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25-year-old",
+                "start_char": 353,
+                "end_char": 364,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "last February",
+                "start_char": 386,
+                "end_char": 399,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Raid Hamas: 3 soldati Idf uccisi",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Raid Hamas, uccisi 3 soldati d'Israele Le forze armate israeliane (Idf) hanno reso noto che tre soldati sono stati uccisi nell'attacco lanciato da Hamas contro Kerem Shalom, al confine con  Gaza e poco lontano da Rafah.   Secondo il comunicato dell'esercito  israeliano,oltre ai 3 soldati uccisi, nove sarebbero rimasti feriti da colpi di mortaio. Alcuni proiettili hanno colpito infrastrutture militari e civili, inclusa una casa nel kibbutz di Kerem Shalom, afferma la nota. E il valico di Kerem Shalom, usato per trasferire aiuti a Gaza, è stato chiuso.  ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1714968006.5974073,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "Raid Hamas: 3 soldiers Idf killed",
+        "en_content": "Raid Hamas, killed 3 soldiers of Israel The Israeli armed forces (Idf) announced that three soldiers were killed in the attack launched by Hamas against Kerem Shalom, on the border with Gaza and not far from Rafah. According to the Israeli Army's communiqué, in addition to the 3 soldiers killed, nine would be wounded by mortar shots. Some bullets hit military and civil infrastructure, including a house in Kerem Shalom's kibbutz, says the note. And the Kerem Shalom pass, used to transfer aid to Gaza, was closed.",
+        "title_NER": [
+            {
+                "word": "Raid Hamas",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "3",
+                "start_char": 12,
+                "end_char": 13,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Raid Hamas",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "3",
+                "start_char": 19,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israel",
+                "start_char": 33,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three",
+                "start_char": 86,
+                "end_char": 91,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 139,
+                "end_char": 144,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kerem Shalom",
+                "start_char": 153,
+                "end_char": 165,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 186,
+                "end_char": 190,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Israeli Army's",
+                "start_char": 228,
+                "end_char": 246,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "3",
+                "start_char": 278,
+                "end_char": 279,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "nine",
+                "start_char": 297,
+                "end_char": 301,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kerem Shalom's",
+                "start_char": 409,
+                "end_char": 423,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Kerem Shalom",
+                "start_char": 452,
+                "end_char": 468,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 499,
+                "end_char": 503,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "USA, ARRESTO CHOC PER STUDENTE ITALIANO 25enne legato mani e piedi in cella",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Usa, arresto choc per studente italiano Uno studente italiano di 25 anni,Matteo Falcinelli, è stato arrestato a Miami, in Florida, con modalità violente. Il giovane sarebbe stato sbattuto a  terra, con il volto premuto sull'asfalto, e poi arrestato. Nella stazione di polizia di North Miami Beach, in 4 lo avrebbero incaprettato legando con una cinghia i piedi alle manette dietro la schiena,per circa 13 minuti. Il fatto è avvenuto a febbraio e ripreso dalle bodycam degli agenti. Il ragazzo è stato accusato di aver creato problemi in un locale e di resistenza agli agenti. Il consolato è in contatto con la famiglia",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1714968006.5997314,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "USA, CHOC ARRESTO FOR ENGLISH 25-year-old tied hands and feet in cell",
+        "en_content": "USA, shock arrest for Italian student A 25-year-old Italian student,Matteo Falcinelli, was arrested in Miami, Florida, with violent mode. The young man would have been hit on the ground, with his face pressed on the asphalt, and then arrested. In the North Miami Beach police station, in 4 they would encapture him by binding his feet with a strap to the cuffs behind his back, for about 13 minutes. The fact happened in February and resumed by the bodycam of the agents. The boy was accused of creating problems in a club and resistance to agents. The consulate is in contact with the family",
+        "title_NER": [
+            {
+                "word": "USA",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "25-year-old",
+                "start_char": 30,
+                "end_char": 41,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "USA",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 22,
+                "end_char": 29,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "25-year-old",
+                "start_char": 40,
+                "end_char": 51,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 52,
+                "end_char": 59,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Matteo Falcinelli",
+                "start_char": 68,
+                "end_char": 85,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Miami",
+                "start_char": 103,
+                "end_char": 108,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Florida",
+                "start_char": 110,
+                "end_char": 117,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "North Miami Beach",
+                "start_char": 251,
+                "end_char": 268,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 288,
+                "end_char": 289,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "about 13 minutes",
+                "start_char": 382,
+                "end_char": 398,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "February",
+                "start_char": 421,
+                "end_char": 429,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "ZELENSKY: DIO E' NOSTRO ALLEATO",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=159",
+        "content": " Zelensky: Dio ci è alleato,vita vincerà \"Dio ha sulla spalla un gallone con  la bandiera ucraina\" e \"con un simile alleato\" dell'Ucraina \"la vita vincerà sulla morte\".     Così il presidente Zelensky invita gli ucraini a unirsi in preghiera, anche per i soldati al fronte, in occasione della Pasqua ortodossa.,   \"Preghiamo gli uni per gli altri\",dice Zelensky in un video sui social, girato davanti alla Cattedrale di S.ta Sofia a Kiev,e ricorda gli 802 giorni di guerra",
+        "ranked": 8,
+        "placed": "Abroad",
+        "epoch": 1714968006.6080823,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "_",
+        "en_content": "Zelensky: God is ally to us, life will win \"God has a gallon on his shoulder with the Ukrainian flag\" and \"with a similar ally\" of Ukraine \"life will win over death\". So President Zelensky invites the Ukrainians to join in prayer, even for the soldiers at the forehead, on the occasion of the Orthodox Easter., \"Let us pray for each other\", says Zelensky in a video on social, shot in front of the Cathedral of St. Sophia in Kiev, and remembers the 802 days of war",
+        "content_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "gallon",
+                "start_char": 54,
+                "end_char": 60,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 86,
+                "end_char": 95,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 131,
+                "end_char": 138,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 180,
+                "end_char": 188,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 201,
+                "end_char": 211,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Orthodox Easter",
+                "start_char": 289,
+                "end_char": 308,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 346,
+                "end_char": 354,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Cathedral of St. Sophia",
+                "start_char": 394,
+                "end_char": 421,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 425,
+                "end_char": 429,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the 802 days",
+                "start_char": 445,
+                "end_char": 457,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "PAPA: \"NO ALLA GUERRA, SI' AL DIALOGO\"  Nuovo appello per M.Oriente,Ucraina",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Papa, appello per la pace in M.Oriente Nuovo appello del Papa contro la guerra e per il dialogo in Medio Oriente. Al termine del Regina Coeli in piazza S.Pietro, il Papa ha invitato a pregare \"per la martoriata Ucraina che soffre tanto e per la Palestina e Israele perché ci sia la pace. Affinché il dialogo si rafforzi e porti frutti buoni\", ha detto Papa Francesco.   E ha ripetuto: \"No alla guerra e sì al dialogo\".     ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1714968006.625541,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "_ New appeal for M.Oriente, Ukraine",
+        "en_content": "Pope, call for peace in East New Pope's appeal against war and dialogue in the Middle East. At the end of Regina Coeli in Piazza S.Pietro, the Pope invited us to pray \"for the martyred Ukraine who suffers so much and for Palestine and Israel so that there is peace. In order for dialogue to strengthen and bear good fruit,\" Pope Francis said. And he repeated: \"No war and yes to dialogue.\"",
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 28,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Pope",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "New Pope's",
+                "start_char": 29,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 75,
+                "end_char": 90,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 185,
+                "end_char": 192,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestine",
+                "start_char": 221,
+                "end_char": 230,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 235,
+                "end_char": 241,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Francis",
+                "start_char": 329,
+                "end_char": 336,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "BIDEN BLOCCA INVIO ARMI AD ISRAELE    Lo rivela Axios che cita funzionari",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Media Biden blocca invio armi a Israele L'amministrazione Biden ha bloccato una spedizione di munizioni Usa in Israele, la settimana scorsa. Lo riporta Axios, che cita due alti funzionari israeliani E' la prima volta che accade dal 7 ottobre, dopo l'attacco di Hamas.La decisione avrebbe sollevato preoccupazione nel governo israeliano. Axios ricorda che Biden è contestato in Usa da chi si oppone al sostegno incondizionato a  Israele.A febbraio,la Casa Bianca aveva chiesto garanzie sull'uso delle armi in conformità col diritto internazionale.A marzo,Israele aveva dato assicurazioni in tal senso.     ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1714968006.6875453,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "_ Axios reveals that he cites officials",
+        "en_content": "Media Biden blocks sending weapons to Israel The Biden administration blocked an expedition of US ammunition in Israel last week. Axios reports it, which mentions two senior Israeli officials It's the first time since October 7, after Hamas' attack. The decision would raise concern in the Israeli government. Axios recalls that Biden is challenged in the US by those who oppose unconditional support to Israel. In February, the White House requested guarantees on the use of weapons in accordance with international law. In March, Israel had given assurances.",
+        "content_NER": [
+            {
+                "word": "Biden",
+                "start_char": 6,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 38,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Biden",
+                "start_char": 49,
+                "end_char": 54,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 95,
+                "end_char": 97,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 112,
+                "end_char": 118,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last week",
+                "start_char": 119,
+                "end_char": 128,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 163,
+                "end_char": 166,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 174,
+                "end_char": 181,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "first",
+                "start_char": 201,
+                "end_char": 206,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "October 7",
+                "start_char": 218,
+                "end_char": 227,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 235,
+                "end_char": 240,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 290,
+                "end_char": 297,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Biden",
+                "start_char": 329,
+                "end_char": 334,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 356,
+                "end_char": 358,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 404,
+                "end_char": 410,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "February",
+                "start_char": 415,
+                "end_char": 423,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the White House",
+                "start_char": 425,
+                "end_char": 440,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "March",
+                "start_char": 525,
+                "end_char": 530,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israel",
+                "start_char": 532,
+                "end_char": 538,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "NETANYAHU: \"NON CI ARRENDEREMO A HAMAS\" Israele continuerà a combattere a Gaza  Premier blocca Al Jazeera nel Paese",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Netanyahu: \"Non ci arrenderemo a Hamas\" \"E' Hamas ad impedire un accordo per il rilascio degli ostaggi\", chiedendo \"di ritirare tutte le nostre forze da Gaza. Israele non può accettarlo\". Così il premier Netanyahu.   \"Israele non accetterà le richieste di Hamas,che significano la resa, e continuerà a combattere finché tutti i suoi obiettivi non siano raggiunti\",aggiunge Netanyahu ha bloccato le trasmissioni della tv del Qatar Al Jazeera in Israele. L'emittente definisce \"criminale\" la decisione del governo israeliano e annuncia un ricorso legale.  ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1714968006.6951008,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "NETANYAHU: \"NON We'll be back in HAMAS\" Israel will continue to fight in Gaza Premier blocks Al Jazeera in the country",
+        "en_content": "Netanyahu: \"We will not surrender to Hamas\" \"It is Hamas to prevent an agreement for the release of hostages\", asking \"to withdraw all our forces from Gaza. Israel cannot accept it.\" So premier Netanyahu. \"Israel will not accept the demands of Hamas, meaning surrender, and will continue to fight until all its objectives are achieved,\" adds Netanyahu blocked the broadcasts of Qatar's Al Jazeera TV in Israel. The issuer defines \"criminal\" the decision of the Israeli government and announces a legal appeal.",
+        "title_NER": [
+            {
+                "word": "HAMAS",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 73,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Al Jazeera",
+                "start_char": 93,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Netanyahu",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 37,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 51,
+                "end_char": 56,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 151,
+                "end_char": 155,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 157,
+                "end_char": 163,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 194,
+                "end_char": 203,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 206,
+                "end_char": 212,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 244,
+                "end_char": 249,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 342,
+                "end_char": 351,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Qatar",
+                "start_char": 378,
+                "end_char": 383,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Al Jazeera TV",
+                "start_char": 386,
+                "end_char": 399,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 403,
+                "end_char": 409,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 461,
+                "end_char": 468,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "SCIOPERO:I COMUNICATI USIGRAI E RAI",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1714968006.7162855,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "SCIOPERO: USIGRAI COMMUNITY AND RAI",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "SCIOPERO",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "USIGRAI COMMUNITY",
+                "start_char": 10,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "SCHLEIN: JOBS ACT,FIRMO CON LA CGIL",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1714968006.7190685,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "_",
+        "en_content": ""
+    },
+    {
+        "title": "Calcio, Roma-Juventus finisce 1-1",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "     ",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1714968006.7405882,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "Football, Roma-Juventus ends 1-1",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "Roma-Juventus",
+                "start_char": 10,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1",
+                "start_char": 29,
+                "end_char": 30,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "NETANYAHU: \"NON CI ARRENDEREMO A HAMAS\" Israele continuerà a combattere a Gaza  Premier blocca tv Al Jazeera nel Paese  Biden:stop fornitura armi a Israele",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1714968006.745031,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "NETANYAHU: \"NON We'll be back in HAMAS\" Israel will continue to fight in Gaza Premier blocks TV Al Jazeera in the country Biden:stop supply weapons to Israel",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "HAMAS",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 73,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Al Jazeera",
+                "start_char": 96,
+                "end_char": 106,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Biden",
+                "start_char": 122,
+                "end_char": 127,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 151,
+                "end_char": 157,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "GIRO, TAPPA E MAGLIA ROSA A POGACAR",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=260",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1714968006.748113,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "GRO, TAPPA and MAGLIA ROSA in POGACAR",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "GRO",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "VALTELLINA,CADE DA AEROFUNE E MUORE",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1714968006.7553415,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "VALTELLINA, CADE DA AEROFUNE AND MUORE",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "VALTELLINA",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "GIORGIA MELONI AD ASCOLI PICENO     Premier assiste a parata militari",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Meloni al 71° raduno dei Bersaglieri La presidente del Consiglio, Giorgia Meloni, ad Ascoli Piceno per il 71°  raduno dell'Associazione nazionale dei Bersaglieri.     La premier ha percorso in rassegna un tratto della parata e ha accennato una breve corsa assieme al sindaco, con il \"passo\" dei Bersaglieri, per poi  salire sul palco delle autorità.  Non sono mancati selfie e saluti ai  cittadini che hanno partecipato  all'evento.     ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1714968006.7906215,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "MELONI DI ASCOLI PICENO Premier assists military parade",
+        "en_content": "Meloni at the 71st meeting of the Bersaglieri The President of the Council, Giorgia Meloni, in Ascoli Piceno for the 71st meeting of the National Association of Bersaglieri. The premier has reviewed a section of the parade and has mentioned a short run along with the mayor, with the \"passo\" of the Bersaglieri, and then climb on the stage of the authorities. There are no lack of selfies and greetings to the citizens who participated in the event.",
+        "title_NER": [
+            {
+                "word": "MELONI",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "71st",
+                "start_char": 14,
+                "end_char": 18,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 67,
+                "end_char": 74,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 76,
+                "end_char": 90,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ascoli Piceno",
+                "start_char": 95,
+                "end_char": 108,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "71st",
+                "start_char": 117,
+                "end_char": 121,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the National Association of Bersaglieri",
+                "start_char": 133,
+                "end_char": 172,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bersaglieri",
+                "start_char": 299,
+                "end_char": 310,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    },
+    {
+        "title": "SCHLEIN:FIRMO CON CGIL CONTRO JOBS ACT  A sorpresa l'annuncio del leader Pd",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Schlein:firmo con Cgil contro Jobs act \"Ho già detto che molti del Pd firmeranno così come altri non lo faranno. Mi metto tra coloro che lo faranno. Non potrei far diversamente visto che è un punto qualificante della mozione con cui ho vinto le primarie l'anno scorso\" Lo annuncia a sorpresa Schlein, segretaria del Pd, a margine della festa  dell'Unità di Vecchiazzano a Forlì,  parlando del banchetto che la Cgil ha lì per la raccolta di firme per il referendum contro il Jobs Act. \"Adesso il Pd è impegnato nella campagna delle Europee, sulle amministrative e su un'altra raccolta firme sul salario minimo\" ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1714968006.7948096,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "_ Surprisingly the announcement of the leader Pd",
+        "en_content": "Schlein:Firmo con Cgil contro Jobs act \"I have already said that many of the Pd will sign as well as others will not. I put myself among those who will. I couldn't make any difference since it's a qualifying point of the motion I won the primaries last year\" Schlein, secretary of the Pd, announces it by surprise, on the side of the feast of the Unity of Vecchiazzano in Forlì, talking about the banquet that the Cgil has there for the collection of signatures for the referendum against the Jobs Act. \"The PD is now engaged in the European Campaign, Administrative and other signatures on minimum wage\"",
+        "title_NER": [
+            {
+                "word": "Pd",
+                "start_char": 46,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Schlein",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "last year",
+                "start_char": 248,
+                "end_char": 257,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Schlein",
+                "start_char": 259,
+                "end_char": 266,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Unity of Vecchiazzano",
+                "start_char": 343,
+                "end_char": 368,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Forlì",
+                "start_char": 372,
+                "end_char": 377,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cgil",
+                "start_char": 414,
+                "end_char": 418,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Jobs Act",
+                "start_char": 489,
+                "end_char": 501,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "the European Campaign, Administrative",
+                "start_char": 529,
+                "end_char": 566,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1714968006.8311195,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "MATTARELLA:BERSAGLIERI MODELLO FEDELTA' Messaggio per 71° raduno nazionale",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Bersaglieri,Mattarella: modello fedeltà Per il \"71° raduno nazionale dell'Associazione Nazionale Bersaglieri desidero formulare a tutti i partecipanti il più cordiale saluto,mentre rivolgo un deferente omaggio al labaro dell'Associazione, che riassume il valore,le tradizioni e la memoria dei tanti caduti\". Così il Capo dello Stato, Mattarella. \"I fanti piumati sono sempre stati modello di fedeltà alle istituzioni e si confermano elemento cardine dello strumento militare (...),prezioso contributo alla sicurezza della Repubblica e al mantenimento della pace\".   ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1714968006.8337717,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "_",
+        "en_content": "Bersaglieri,Mattarella: Loyalty model For the \"71° national gathering of the National Association Bersaglieri I wish to formulate to all participants the most cordial greeting, while I pay a deferent tribute to the bar of the Association, which sums up the value, traditions and memory of the many fallen\". So the Head of State, Mattarella. \"The feathers have always been a model of fidelity to the institutions and are confirmed as a key element of the military instrument (...), valuable contribution to the security of the Republic and to the maintenance of peace\".",
+        "content_NER": [
+            {
+                "word": "71",
+                "start_char": 47,
+                "end_char": 49,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the National Association Bersaglieri",
+                "start_char": 73,
+                "end_char": 109,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Association",
+                "start_char": 226,
+                "end_char": 237,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 329,
+                "end_char": 339,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "SCIOPERO 6 MAGGIO,COMUNICATO USIGRAI134  LA REPLICA DELLA RAI AL COMUNICATO",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=135",
+        "content": " Replica Rai al comunicato Usigrai  La decisione del sindacato Usigrai di scioperare su motivazioni che nulla  hanno a che vedere con i diritti dei lavoratori si inquadra in motivazioni ideologiche e politiche.   L'attuale governance della Rai sta lavorando per trasformare il Servizio  Pubblico in una moderna Digital Media Company. Un lavoro complesso che ha  trovato attuazione in un coraggioso  Piano Industriale votato dal Consiglio di Amministrazione della Rai e oggi in via di realizzazione dall'intera azienda           Pag.1-segue >>>>>>",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1714968006.855204,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "SCIOPERO 6 MAY, COMMUNITY USIGRAI134 THE REPLICAL OF RAI TO THE COMMUNITY",
+        "en_content": "Replica Rai to Usigrai press release The union's decision Usigrai to strike on the grounds that nothing has to do with the rights of workers is framed in ideological and political motivations. Rai's current governance is working to transform the Public Service into a modern Digital Media Company. A complex work that has been implemented in a courageous Industrial Plan voted by the Rai Board of Directors and now being implemented by the entire company Pag.1-follows >>>>>>>>>>>",
+        "title_NER": [
+            {
+                "word": "SCIOPERO",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "6 MAY",
+                "start_char": 9,
+                "end_char": 14,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "COMMUNITY",
+                "start_char": 16,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "COMMUNITY",
+                "start_char": 64,
+                "end_char": 73,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Replica Rai",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Usigrai",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rai",
+                "start_char": 193,
+                "end_char": 196,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Public Service",
+                "start_char": 242,
+                "end_char": 260,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Digital Media Company",
+                "start_char": 275,
+                "end_char": 296,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Rai Board of Directors",
+                "start_char": 380,
+                "end_char": 406,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pag.1",
+                "start_char": 455,
+                "end_char": 460,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "GREEN ECONOMY,150 MILA POSTI IN 3 ANNI  In Italia, secondo Eurowind Energy",
+        "date_raw": "May 06, 2024",
+        "date": "2024-05-06",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Green economy, 150mila posti in 3 anni Secondo una analisi di Eurowind Energy società attiva nel settore delle energie rinnovabili, nell'ambito della Green Economy,crescono posti lavoro e investimenti in energie rinnovabili. Si prevede che nei prossimi 3 o 4 anni il mercato del fotovoltaico e dell'eolico potrebbe offrire in Italia oltre 150.000 nuovi posti di lavoro.L'occupazione nelle rinnovabili ha raggiunto nel mondo infatti quasi 13mln di unità: ciò conferma che la sostenibilità è al centro delle strategie di crescita delle imprese e che renderà indispensabile la presenza di nuovi professionisti. ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1714968006.8746586,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-06 06:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-06T06.00.06",
+        "en_title": "GREEN ECONOMY,150 MILES IN 3 YEARS In Italy, according to Eurowind Energy",
+        "en_content": "Green economy, 150 thousand places in 3 years According to an analysis of Eurowind Energy company active in the field of renewable energies, within the framework of the Green Economy, jobs and investments in renewable energies. It is expected that in the next 3 or 4 years the market of photovoltaic and wind could offer in Italy more than 150,000 new jobs. Employment in renewables has reached almost 13mln of units in the world: this confirms that sustainability is at the centre of the growth strategies of enterprises and that will make the presence of new professionals indispensable.",
+        "title_NER": [
+            {
+                "word": "3 YEARS",
+                "start_char": 27,
+                "end_char": 34,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Eurowind Energy",
+                "start_char": 58,
+                "end_char": 73,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "150 thousand",
+                "start_char": 15,
+                "end_char": 27,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "3 years",
+                "start_char": 38,
+                "end_char": 45,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Eurowind Energy",
+                "start_char": 74,
+                "end_char": 89,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Green Economy",
+                "start_char": 165,
+                "end_char": 182,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the next 3 or 4 years",
+                "start_char": 251,
+                "end_char": 272,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 324,
+                "end_char": 329,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than 150,000",
+                "start_char": 330,
+                "end_char": 347,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "almost 13mln",
+                "start_char": 395,
+                "end_char": 407,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]
