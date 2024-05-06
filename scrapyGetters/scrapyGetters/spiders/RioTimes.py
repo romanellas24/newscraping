@@ -25,6 +25,7 @@ class RioTimes(BaseScraper):
     referred_link = ''
     ranked = 0
     edition = []
+    home_page_titles = []
 
     def parse(self, response):
         super().parse(response)
@@ -32,7 +33,11 @@ class RioTimes(BaseScraper):
         for news in response.xpath("//a[@rel='bookmark' and not(contains(@class, 'td-image-wrap '))]"):
             link = news.xpath("./@href").get()
             self.referred_link = response.url
-            yield response.follow(link, self.parseArticle, meta={'parent': response.url})
+            if response.url == "https://www.riotimesonline.com/":
+                yield response.follow(link, self.parseArticle, meta={'parent': response.url, 'home_page': True})
+            else:
+                yield response.follow(link, self.parseArticle, meta={'parent': response.url, 'home_page': False})
+
 
         if response.url == "https://www.riotimesonline.com/":
             # Scrape other pages only if we are on main one
@@ -58,6 +63,11 @@ class RioTimes(BaseScraper):
 
     def parseArticle(self, response):
         parent_url = response.meta['parent']
+        home_page = response.meta['home_page']
+
+        if home_page:
+            parent_url = "https://www.riotimesonline.com/"
+
         title = response.xpath("//h1[@class = 'tdb-title-text']/text()").get()
         today = date.today()
         date_raw = response.xpath("//div[@class = 'tdb-block-inner td-fix-index']/time/@datetime").get()
