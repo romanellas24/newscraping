@@ -1,0 +1,2001 @@
+[
+    {
+        "title": "Friedrich Merz es reelegido como líder de la CDU en Alemania",
+        "date_raw": "Mon, 06 May 2024 18:10:27 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/friedrich-merz-reelegido-lider-cdu-alemania-20240506181027-nt.html",
+        "subtitle": "El partido apoya porque tuvo la capacidad, pese a la derrota electoral, de convertir la formación en un grupo unificado y bien engrasado",
+        "content": "La Unión Cristianodemócrata Alemana (CDU) reeligió este lunes a su presidente, Friedrich Merz, que permanecerá dos años más al frente del partido. Merz obtuvo cerca del 90% de los votos de los 1.001 delegados que asistieron a la conferencia federal del partido en Berlín y revalidó así la victoria de enero de 2022, cuando, debido a la pandemia, fue elegido en una conferencia virtual con el 94,6%. ",
+        "ranked": 13,
+        "placed": "Abroad",
+        "epoch": 1715065210.9315531,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:10",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.10",
+        "en_title": "Friedrich Merz es reelegido como líder de la CDU en Alemania",
+        "en_content": "La Unión Cristianodemócrata Alemana (CDU) reeligió este lunes a su presidente, Friedrich Merz, que permanecerá dos años más al frente del partido. Merz obtuvo cerca del 90% de los votos de los 1.001 delegados que asistieron a la conferencia federal del partido en Berlín y revalidó así la victoria de enero de 2022, cuando, debido a la pandemia, fue elegido en una conferencia virtual con el 94,6%. ",
+        "en_subtitle": "El partido apoya porque tuvo la capacidad, pese a la derrota electoral, de convertir la formación en un grupo unificado y bien engrasado",
+        "title_NER": [
+            {
+                "word": "Friedrich Merz es",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "reelegido",
+                "start_char": 18,
+                "end_char": 27,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "como líder de la CDU",
+                "start_char": 28,
+                "end_char": 48,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Alemania",
+                "start_char": 52,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "apoya porque tuvo la capacidad",
+                "start_char": 11,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "pese",
+                "start_char": 43,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "la derrota",
+                "start_char": 50,
+                "end_char": 60,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "de convertir la formación",
+                "start_char": 72,
+                "end_char": 97,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un grupo unificado y bien engrasado",
+                "start_char": 101,
+                "end_char": 136,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "La Unión",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cristianodemócrata Alemana",
+                "start_char": 9,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "CDU",
+                "start_char": 37,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "reeligió este lunes",
+                "start_char": 42,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "su presidente",
+                "start_char": 64,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Friedrich Merz",
+                "start_char": 79,
+                "end_char": 93,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Merz obtuvo cerca",
+                "start_char": 147,
+                "end_char": 164,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "del 90%",
+                "start_char": 165,
+                "end_char": 172,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "1.001",
+                "start_char": 193,
+                "end_char": 198,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "asistieron",
+                "start_char": 213,
+                "end_char": 223,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "la conferencia",
+                "start_char": 226,
+                "end_char": 240,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "del partido",
+                "start_char": 249,
+                "end_char": 260,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Berlín y revalidó así la victoria de enero de 2022",
+                "start_char": 264,
+                "end_char": 314,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "cuando",
+                "start_char": 316,
+                "end_char": 322,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "debido",
+                "start_char": 324,
+                "end_char": 330,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "fue elegido",
+                "start_char": 346,
+                "end_char": 357,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "una conferencia",
+                "start_char": 361,
+                "end_char": 376,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "94,6%",
+                "start_char": 392,
+                "end_char": 397,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "El veterano nacionalista John Swinney será el próximo líder de Escocia",
+        "date_raw": "Mon, 06 May 2024 14:06:37 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/veterano-nacionalista-john-swinney-proximo-lider-escocia-20240506140637-nt.html",
+        "subtitle": "Swinney es el nuevo líder del Partido Nacional Escocés (SNP) y sucederá a Humza Yousaf tras quedar como único candidato",
+        "content": "El veterano del Partido Nacional Escocés (SNP), ",
+        "ranked": 18,
+        "placed": "Abroad",
+        "epoch": 1715065210.939371,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:10",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.10",
+        "en_title": "El veterano nacionalista John Swinney será el próximo líder de Escocia",
+        "en_content": "El veterano del Partido Nacional Escocés (SNP), ",
+        "en_subtitle": "Swinney es el nuevo líder del Partido Nacional Escocés (SNP) y sucederá a Humza Yousaf tras quedar como único candidato",
+        "title_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "John Swinney",
+                "start_char": 25,
+                "end_char": 37,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "próximo líder de Escocia",
+                "start_char": 46,
+                "end_char": 70,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Swinney",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "es el",
+                "start_char": 8,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "nuevo líder del Partido Nacional Escocés",
+                "start_char": 14,
+                "end_char": 54,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "SNP",
+                "start_char": 56,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Humza Yousaf",
+                "start_char": 74,
+                "end_char": 86,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "como único candidato",
+                "start_char": 99,
+                "end_char": 119,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El veterano del",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Partido Nacional Escocés",
+                "start_char": 16,
+                "end_char": 40,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "SNP",
+                "start_char": 42,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "El juez multa a Trump por violar su orden de silencio por décima vez y le advierte de que podría ir a prisión",
+        "date_raw": "Mon, 06 May 2024 16:50:52 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/juez-multa-trump-violar-orden-silencio-decima-20240506165052-nt.html",
+        "subtitle": "El expresidente dijo que el jurado del caso por soborno «fue elegido muy rápido» y que estaba formado por un «95 por ciento de demócratas»",
+        "content": "El juez Juan Merchan ha multado este lunes con 1.000 dólares (927 euros) al ",
+        "ranked": 15,
+        "placed": "Abroad",
+        "epoch": 1715065210.9512742,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:10",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.10",
+        "en_title": "El juez multa a Trump por violar su orden de silencio por décima vez y le advierte de que podría ir a prisión",
+        "en_content": "El juez Juan Merchan ha multado este lunes con 1.000 dólares (927 euros) al ",
+        "en_subtitle": "El expresidente dijo que el jurado del caso por soborno «fue elegido muy rápido» y que estaba formado por un «95 por ciento de demócratas»",
+        "title_NER": [
+            {
+                "word": "El juez multa",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump",
+                "start_char": 16,
+                "end_char": 21,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "su orden de",
+                "start_char": 33,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "décima vez y le advierte de que podría ir",
+                "start_char": 58,
+                "end_char": 99,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "prisión",
+                "start_char": 102,
+                "end_char": 109,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El expresidente dijo que el",
+                "start_char": 0,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "del caso",
+                "start_char": 35,
+                "end_char": 43,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "soborno «fue elegido muy rápido»",
+                "start_char": 48,
+                "end_char": 80,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un",
+                "start_char": 106,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "95",
+                "start_char": 110,
+                "end_char": 112,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "ciento de demócratas",
+                "start_char": 117,
+                "end_char": 137,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El juez Juan Merchan",
+                "start_char": 0,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "multado este lunes",
+                "start_char": 24,
+                "end_char": 42,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1.000",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "927 euros",
+                "start_char": 62,
+                "end_char": 71,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ]
+    },
+    {
+        "title": "Huelga en la televisión pública italiana contra la injerencia del Gobierno Meloni en la información",
+        "date_raw": "Mon, 06 May 2024 14:57:17 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/huelga-television-publica-italiana-injerencia-gobierno-meloni-20240506145717-nt.html",
+        "subtitle": "El paro fue convocado por la organización sindical de izquierda más poderosa en el servicio público (USIGRAI), que agrupa a casi 1.600 periodistas de la Rai entre un total de 2.000",
+        "content": "La huelga de los servicios informativos de la ",
+        "ranked": 17,
+        "placed": "Abroad",
+        "epoch": 1715065211.0433125,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Huelga en la televisión pública italiana contra la injerencia del Gobierno Meloni en la información",
+        "en_content": "La huelga de los servicios informativos de la ",
+        "en_subtitle": "El paro fue convocado por la organización sindical de izquierda más poderosa en el servicio público (USIGRAI), que agrupa a casi 1.600 periodistas de la Rai entre un total de 2.000",
+        "title_NER": [
+            {
+                "word": "Huelga",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "televisión pública italiana contra",
+                "start_char": 13,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "del Gobierno Meloni",
+                "start_char": 62,
+                "end_char": 81,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El paro fue convocado por la",
+                "start_char": 0,
+                "end_char": 28,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "sindical de izquierda más poderosa",
+                "start_char": 42,
+                "end_char": 76,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el servicio público",
+                "start_char": 80,
+                "end_char": 99,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "USIGRAI",
+                "start_char": 101,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1.600",
+                "start_char": 129,
+                "end_char": 134,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "un",
+                "start_char": 163,
+                "end_char": 165,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2.000",
+                "start_char": 175,
+                "end_char": 180,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "La huelga de los",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "de la",
+                "start_char": 40,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Israel toma el control del lado palestino del paso fronterizo de Rafah e iza su bandera",
+        "date_raw": "Tue, 07 May 2024 07:36:03 +0200",
+        "date": "2024-05-07",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/israel-toma-control-lado-palestino-paso-fronterizo-20240507073602-nt.html",
+        "subtitle": "Después de una noche de asedio e intensos bombardeos que ha provocado una veintena de muertos un día después de anunciar la evacuación de la población civil ",
+        "content": "El Ejército de Israel ha confirmado este martes ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1715065211.0583904,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Israel toma el control del lado palestino del paso fronterizo de Rafah e iza su bandera",
+        "en_content": "El Ejército de Israel ha confirmado este martes ",
+        "en_subtitle": "Después de una noche de asedio e intensos bombardeos que ha provocado una veintena de muertos un día después de anunciar la evacuación de la población civil ",
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del lado",
+                "start_char": 23,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del paso",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de Rafah e iza",
+                "start_char": 62,
+                "end_char": 76,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "su bandera",
+                "start_char": 77,
+                "end_char": 87,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Después de una noche de asedio e intensos bombardeos que",
+                "start_char": 0,
+                "end_char": 56,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "provocado una veintena de muertos un día después de anunciar la evacuación de la",
+                "start_char": 60,
+                "end_char": 140,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El Ejército de",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 15,
+                "end_char": 21,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "confirmado",
+                "start_char": 25,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Xi Jinping llega a Francia: tensiones comerciales, manifestaciones y el fantasma de Putin de fondo",
+        "date_raw": "Mon, 06 May 2024 13:47:11 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/jinping-llega-francia-tensiones-comerciales-manifestaciones-fantasma-20240506134711-nt.html",
+        "subtitle": "A última hora de la mañana del lunes, el mandatario chino se reunió en el Palacio del Elíseo con Macron y Von der Leyen",
+        "content": "La primera parte de ",
+        "ranked": 19,
+        "placed": "Abroad",
+        "epoch": 1715065211.1454973,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Xi Jinping llega a Francia: tensiones comerciales, manifestaciones y el fantasma de Putin de fondo",
+        "en_content": "La primera parte de ",
+        "en_subtitle": "A última hora de la mañana del lunes, el mandatario chino se reunió en el Palacio del Elíseo con Macron y Von der Leyen",
+        "title_NER": [
+            {
+                "word": "Xi Jinping",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "llega",
+                "start_char": 11,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francia",
+                "start_char": 19,
+                "end_char": 26,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "manifestaciones y el fantasma de Putin de fondo",
+                "start_char": 51,
+                "end_char": 98,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "del lunes",
+                "start_char": 27,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el mandatario chino se",
+                "start_char": 38,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "reunió",
+                "start_char": 61,
+                "end_char": 67,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el Palacio del Elíseo con",
+                "start_char": 71,
+                "end_char": 96,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Von der Leyen",
+                "start_char": 106,
+                "end_char": 119,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Al menos once muertos y 20 heridos en un nuevo accidente de autobús en Perú",
+        "date_raw": "Mon, 06 May 2024 19:32:47 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/once-muertos-heridos-nuevo-accidente-autobus-peru-20240506193247-nt.html",
+        "subtitle": "En ese país se han producido varios incidentes similares durante las últimas semanas. En total, casi medio centenar de personas han perdido la vida",
+        "content": "Al menos ",
+        "ranked": 11,
+        "placed": "Abroad",
+        "epoch": 1715065211.3096716,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Al menos once muertos y 20 heridos en un nuevo accidente de autobús en Perú",
+        "en_content": "Al menos ",
+        "en_subtitle": "En ese país se han producido varios incidentes similares durante las últimas semanas. En total, casi medio centenar de personas han perdido la vida",
+        "title_NER": [
+            {
+                "word": "muertos",
+                "start_char": 14,
+                "end_char": 21,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "20",
+                "start_char": 24,
+                "end_char": 26,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "heridos",
+                "start_char": 27,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un nuevo accidente de autobús",
+                "start_char": 38,
+                "end_char": 67,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Perú",
+                "start_char": 71,
+                "end_char": 75,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "han producido",
+                "start_char": 15,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "incidentes",
+                "start_char": 36,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "casi",
+                "start_char": 96,
+                "end_char": 100,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "centenar de",
+                "start_char": 107,
+                "end_char": 118,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "han perdido la vida",
+                "start_char": 128,
+                "end_char": 147,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Ataque ucraniano con drones contra la región rusa de Bélgorod causa al menos 7 muertos y 35 heridos",
+        "date_raw": "Mon, 06 May 2024 15:13:12 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/ataque-ucraniano-drones-region-rusa-belgorod-causa-20240506151311-nt.html",
+        "subtitle": "Según su informe, se trata del grupo de empresas Agro-Belgorie y las víctimas eran todas trabajadores de una granja ganadera",
+        "content": "Un ataque ucraniano con drones con la región rusa de Bélgorod, fronteriza con ",
+        "ranked": 16,
+        "placed": "Abroad",
+        "epoch": 1715065211.3438063,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Ataque ucraniano con drones contra la región rusa de Bélgorod causa al menos 7 muertos y 35 heridos",
+        "en_content": "Un ataque ucraniano con drones con la región rusa de Bélgorod, fronteriza con ",
+        "en_subtitle": "Según su informe, se trata del grupo de empresas Agro-Belgorie y las víctimas eran todas trabajadores de una granja ganadera",
+        "title_NER": [
+            {
+                "word": "ucraniano",
+                "start_char": 7,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "contra",
+                "start_char": 28,
+                "end_char": 34,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "región rusa de Bélgorod",
+                "start_char": 38,
+                "end_char": 61,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "al menos",
+                "start_char": 68,
+                "end_char": 76,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7",
+                "start_char": 77,
+                "end_char": 78,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "muertos",
+                "start_char": 79,
+                "end_char": 86,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "35",
+                "start_char": 89,
+                "end_char": 91,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "heridos",
+                "start_char": 92,
+                "end_char": 99,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Según",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "del grupo de empresas Agro-Belgorie y",
+                "start_char": 27,
+                "end_char": 64,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "víctimas",
+                "start_char": 69,
+                "end_char": 77,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "todas",
+                "start_char": 83,
+                "end_char": 88,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "granja ganadera",
+                "start_char": 109,
+                "end_char": 124,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Un",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "ucraniano",
+                "start_char": 10,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "región rusa de Bélgorod",
+                "start_char": 38,
+                "end_char": 61,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "fronteriza con",
+                "start_char": 63,
+                "end_char": 77,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "La familia del exvicepresidente Glas denuncia al presidente Noboa por torturas",
+        "date_raw": "Mon, 06 May 2024 20:17:14 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/familia-exvicepresidente-glas-denuncia-presidente-noboa-torturas-20240506201714-nt.html",
+        "subtitle": "Ha presentando la reclamación en la agregaduría fiscal de la embajada mexicana en Madrid",
+        "content": "El Gobierno de México se encuentra en condiciones de actuar judicialmente contra el presidente de Ecuador, ",
+        "ranked": 8,
+        "placed": "Abroad",
+        "epoch": 1715065211.4743786,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "La familia del exvicepresidente Glas denuncia al presidente Noboa por torturas",
+        "en_content": "El Gobierno de México se encuentra en condiciones de actuar judicialmente contra el presidente de Ecuador, ",
+        "en_subtitle": "Ha presentando la reclamación en la agregaduría fiscal de la embajada mexicana en Madrid",
+        "title_NER": [
+            {
+                "word": "La",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "exvicepresidente Glas denuncia al",
+                "start_char": 15,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Noboa",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Ha presentando la reclamación en la",
+                "start_char": 0,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "fiscal de la",
+                "start_char": 48,
+                "end_char": 60,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "embajada",
+                "start_char": 61,
+                "end_char": 69,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "mexicana en",
+                "start_char": 70,
+                "end_char": 81,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Madrid",
+                "start_char": 82,
+                "end_char": 88,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El Gobierno de México",
+                "start_char": 0,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "encuentra",
+                "start_char": 25,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "de actuar judicialmente contra",
+                "start_char": 50,
+                "end_char": 80,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el presidente de Ecuador",
+                "start_char": 81,
+                "end_char": 105,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Hamás acepta la oferta de tregua después de que Israel ordenara evacuar Rafah",
+        "date_raw": "Mon, 06 May 2024 18:59:50 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/hamas-acepta-propuesta-alto-fuego-gaza-egipto-20240506185950-nt.html",
+        "subtitle": "Tel Aviv dice que esa propuesta a la que han dado el visto bueno los islamistas no es la misma que ellos habían presentado",
+        "content": "A las pocas horas de que Israel ordenara evacuar el este de Rafah, ",
+        "ranked": 12,
+        "placed": "Abroad",
+        "epoch": 1715065211.4881642,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Hamás acepta la oferta de tregua después de que Israel ordenara evacuar Rafah",
+        "en_content": "A las pocas horas de que Israel ordenara evacuar el este de Rafah, ",
+        "en_subtitle": "Tel Aviv dice que esa propuesta a la que han dado el visto bueno los islamistas no es la misma que ellos habían presentado",
+        "title_NER": [
+            {
+                "word": "Hamás",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 48,
+                "end_char": 54,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 72,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Tel Aviv",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "han dado el visto bueno",
+                "start_char": 41,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "islamistas",
+                "start_char": 69,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "es la misma",
+                "start_char": 83,
+                "end_char": 94,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "ellos habían",
+                "start_char": 99,
+                "end_char": 111,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "las",
+                "start_char": 2,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 25,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el este de Rafah",
+                "start_char": 49,
+                "end_char": 65,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Rusia amenaza con atacar objetivos militares de Reino Unido en Ucrania «y más allá»",
+        "date_raw": "Mon, 06 May 2024 20:05:59 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/rusia-amenaza-atacar-objetivos-militares-reino-unido-20240506200558-nt.html",
+        "subtitle": "Una advertencia que llega tras las palabras de David Cameron, que autorizó a Kiev para usar armas británicas contra territorio rusoMoscú avisa, por su parte, de que se reserva el derecho a responder de manera similar al despliegue de misiles estadounidenses en territorio ucraniano",
+        "content": "Las autoridades de ",
+        "ranked": 9,
+        "placed": "Abroad",
+        "epoch": 1715065211.502474,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Rusia amenaza con atacar objetivos militares de Reino Unido en Ucrania «y más allá»",
+        "en_content": "Las autoridades de ",
+        "en_subtitle": "Una advertencia que llega tras las palabras de David Cameron, que autorizó a Kiev para usar armas británicas contra territorio rusoMoscú avisa, por su parte, de que se reserva el derecho a responder de manera similar al despliegue de misiles estadounidenses en territorio ucraniano",
+        "title_NER": [
+            {
+                "word": "Rusia",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "con atacar",
+                "start_char": 14,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de Reino Unido",
+                "start_char": 45,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ucrania «y más allá»",
+                "start_char": 63,
+                "end_char": 83,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Una advertencia que llega",
+                "start_char": 0,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "las palabras de David Cameron",
+                "start_char": 31,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 77,
+                "end_char": 81,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "británicas",
+                "start_char": 98,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "contra",
+                "start_char": 109,
+                "end_char": 115,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "territorio rusoMoscú avisa",
+                "start_char": 116,
+                "end_char": 142,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "por su parte",
+                "start_char": 144,
+                "end_char": 156,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de que se",
+                "start_char": 158,
+                "end_char": 167,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el derecho",
+                "start_char": 176,
+                "end_char": 186,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "de manera",
+                "start_char": 199,
+                "end_char": 208,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "al despliegue de misiles estadounidenses",
+                "start_char": 217,
+                "end_char": 257,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ucraniano",
+                "start_char": 272,
+                "end_char": 281,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Las",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "El 'déjà vu' de Xi Jinping en Europa: callar las críticas con su mercado",
+        "date_raw": "Mon, 06 May 2024 19:54:44 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/pablo-m-diez-deja-jinping-europa-callar-criticas-mercado-20240506192423-nt.html",
+        "subtitle": "Para aplacar las tensiones políticas y comerciales y que la Unión Europea no siga a pies juntillas a Estados Unidos, el presidente de China vuelve a prometer la quimera del mayor mercado del mundo",
+        "content": "Hace 60 años, en plena ",
+        "ranked": 10,
+        "placed": "Abroad",
+        "epoch": 1715065211.5502229,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "El 'déjà vu' de Xi Jinping en Europa: callar las críticas con su mercado",
+        "en_content": "Hace 60 años, en plena ",
+        "en_subtitle": "Para aplacar las tensiones políticas y comerciales y que la Unión Europea no siga a pies juntillas a Estados Unidos, el presidente de China vuelve a prometer la quimera del mayor mercado del mundo",
+        "title_NER": [
+            {
+                "word": "El",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europa",
+                "start_char": 30,
+                "end_char": 36,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "callar las críticas",
+                "start_char": 38,
+                "end_char": 57,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "su mercado",
+                "start_char": 62,
+                "end_char": 72,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Europea",
+                "start_char": 66,
+                "end_char": 73,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Estados Unidos",
+                "start_char": 101,
+                "end_char": 115,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el presidente de",
+                "start_char": 117,
+                "end_char": 133,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 134,
+                "end_char": 139,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "mercado del mundo",
+                "start_char": 179,
+                "end_char": 196,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "60 años",
+                "start_char": 5,
+                "end_char": 12,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    },
+    {
+        "title": "Scholz garantiza el firme apoyo del Ejército alemán a los países bálticos",
+        "date_raw": "Mon, 06 May 2024 17:48:29 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/scholz-garantiza-firme-apoyo-ejercito-aleman-paises-20240506174829-nt.html",
+        "subtitle": "Alemania adopta el papel de país protector del flanco oriental de la Alianza Atlántica",
+        "content": "El canciller de Alemania, Olaf Scholz, visitó este lunes a las tropas destinadas en Lituania ",
+        "ranked": 14,
+        "placed": "Abroad",
+        "epoch": 1715065211.561626,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Scholz garantiza el firme apoyo del Ejército alemán a los países bálticos",
+        "en_content": "El canciller de Alemania, Olaf Scholz, visitó este lunes a las tropas destinadas en Lituania ",
+        "en_subtitle": "Alemania adopta el papel de país protector del flanco oriental de la Alianza Atlántica",
+        "title_NER": [
+            {
+                "word": "Scholz",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "garantiza el",
+                "start_char": 7,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "apoyo del",
+                "start_char": 26,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ejército",
+                "start_char": 36,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "alemán",
+                "start_char": 45,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "los países",
+                "start_char": 54,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Alemania",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del flanco",
+                "start_char": 43,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de la Alianza Atlántica",
+                "start_char": 63,
+                "end_char": 86,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El canciller de Alemania",
+                "start_char": 0,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Olaf Scholz",
+                "start_char": 26,
+                "end_char": 37,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "visitó este lunes",
+                "start_char": 39,
+                "end_char": 56,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "las",
+                "start_char": 59,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "destinadas",
+                "start_char": 70,
+                "end_char": 80,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    },
+    {
+        "title": "Un soldado estadounidense, arrestado en Rusia, según medios internacionales",
+        "date_raw": "Mon, 06 May 2024 21:36:57 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/soldado-estadounidense-arrestado-rusia-segun-medios-internacionales-20240506213657-nt.html",
+        "subtitle": "El soldado había viajado a Rusia por su cuenta y se le acusa de haber robado a una mujer. Previamente había estado destinado en Corea del Sur",
+        "content": "Las autoridades estadounidenses han denunciado la detención en ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1715065211.6720228,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Un soldado estadounidense, arrestado en Rusia, según medios internacionales",
+        "en_content": "Las autoridades estadounidenses han denunciado la detención en ",
+        "en_subtitle": "El soldado había viajado a Rusia por su cuenta y se le acusa de haber robado a una mujer. Previamente había estado destinado en Corea del Sur",
+        "title_NER": [
+            {
+                "word": "arrestado en Rusia",
+                "start_char": 27,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "según",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El soldado había viajado",
+                "start_char": 0,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rusia",
+                "start_char": 27,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "le acusa de haber",
+                "start_char": 52,
+                "end_char": 69,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Previamente había",
+                "start_char": 90,
+                "end_char": 107,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "destinado",
+                "start_char": 115,
+                "end_char": 124,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Corea del Sur",
+                "start_char": 128,
+                "end_char": 141,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Las",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "han denunciado la detención",
+                "start_char": 32,
+                "end_char": 59,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "La visita de Xi a Francia deja buenas palabras y profundos desacuerdos",
+        "date_raw": "Mon, 06 May 2024 20:59:57 +0200",
+        "date": "2024-05-06",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/visita-francia-deja-buenas-palabras-profundos-desacuerdos-20240506205742-nt.html",
+        "subtitle": "La presidenta de la Comisión Europea, Úrsula von der Leyen, fue contundente: «La UE no dudará en tomar decisiones duras para defender su mercado»",
+        "content": "En la primera jornada de su visita de Estado, los discursos y declaraciones de Xi Jinping, presidente de China; ",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1715065211.7168937,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "La visita de Xi a Francia deja buenas palabras y profundos desacuerdos",
+        "en_content": "En la primera jornada de su visita de Estado, los discursos y declaraciones de Xi Jinping, presidente de China; ",
+        "en_subtitle": "La presidenta de la Comisión Europea, Úrsula von der Leyen, fue contundente: «La UE no dudará en tomar decisiones duras para defender su mercado»",
+        "title_NER": [
+            {
+                "word": "de Xi",
+                "start_char": 10,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francia",
+                "start_char": 18,
+                "end_char": 25,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "profundos desacuerdos",
+                "start_char": 49,
+                "end_char": 70,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "La presidenta de la Comisión Europea",
+                "start_char": 0,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Úrsula von der Leyen",
+                "start_char": 38,
+                "end_char": 58,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "fue contundente",
+                "start_char": 60,
+                "end_char": 75,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "La UE",
+                "start_char": 78,
+                "end_char": 83,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "dudará",
+                "start_char": 87,
+                "end_char": 93,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "tomar",
+                "start_char": 97,
+                "end_char": 102,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "duras",
+                "start_char": 114,
+                "end_char": 119,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "para",
+                "start_char": 120,
+                "end_char": 124,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "su mercado",
+                "start_char": 134,
+                "end_char": 144,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "jornada de su visita de Estado",
+                "start_char": 14,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "los discursos",
+                "start_char": 46,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de Xi Jinping",
+                "start_char": 76,
+                "end_char": 89,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "China",
+                "start_char": 105,
+                "end_char": 110,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "¿Para qué sirve la mala educación en la lucha por el poder?",
+        "date_raw": "Tue, 07 May 2024 04:22:04 +0200",
+        "date": "2024-05-07",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/pedro-rodriguez-sirve-mala-educacion-lucha-poder-20240506174905-nt.html",
+        "subtitle": "En tiempos de extrema polarización política, ya no es posible construir grandes consensos ni apelar a una gran mayoría de votantes",
+        "content": "Con una letra minúscula, el 'New York Times' publicó el 19 de enero del 2021 toda una página doble con una pequeña selección de los miles de insultos proferidos por ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1715065211.8111224,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "¿Para qué sirve la mala educación en la lucha por el poder?",
+        "en_content": "Con una letra minúscula, el 'New York Times' publicó el 19 de enero del 2021 toda una página doble con una pequeña selección de los miles de insultos proferidos por ",
+        "en_subtitle": "En tiempos de extrema polarización política, ya no es posible construir grandes consensos ni apelar a una gran mayoría de votantes",
+        "title_NER": [
+            {
+                "word": "Para qué sirve",
+                "start_char": 1,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "educación",
+                "start_char": 24,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "la lucha",
+                "start_char": 37,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "por el poder",
+                "start_char": 46,
+                "end_char": 58,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "polarización política",
+                "start_char": 22,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "consensos ni apelar",
+                "start_char": 80,
+                "end_char": 99,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "una gran",
+                "start_char": 102,
+                "end_char": 110,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "letra",
+                "start_char": 8,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "minúscula",
+                "start_char": 14,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el 'New York Times'",
+                "start_char": 25,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el 19 de enero",
+                "start_char": 53,
+                "end_char": 67,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2021",
+                "start_char": 72,
+                "end_char": 76,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "toda una página doble",
+                "start_char": 77,
+                "end_char": 98,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "pequeña selección de los miles de insultos proferidos por",
+                "start_char": 107,
+                "end_char": 164,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Israel cree que hay 6.000 terroristas de Hamás escondidos en Rafah",
+        "date_raw": "Tue, 07 May 2024 04:01:44 +0200",
+        "date": "2024-05-07",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/israel-cree-6000-terroristas-hamas-escondidos-rafah-20240506162154-nt.html",
+        "subtitle": "Supondrían una cuarta parte de los efectivos que tenía el grupo radical al comienzo de la guerra",
+        "content": "Israel afirma ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1715065211.9600966,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-07 09:00:11",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-07T09.00.11",
+        "en_title": "Israel cree que hay 6.000 terroristas de Hamás escondidos en Rafah",
+        "en_content": "Israel afirma ",
+        "en_subtitle": "Supondrían una cuarta parte de los efectivos que tenía el grupo radical al comienzo de la guerra",
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "6.000",
+                "start_char": 20,
+                "end_char": 25,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 61,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Supondrían una cuarta parte de los efectivos que tenía el grupo",
+                "start_char": 0,
+                "end_char": 63,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "al comienzo de la guerra",
+                "start_char": 72,
+                "end_char": 96,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]
