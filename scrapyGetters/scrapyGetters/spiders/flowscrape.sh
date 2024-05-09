@@ -16,6 +16,7 @@ scrapy crawl NewsComAu
 scrapy crawl LosAngelesTimes
 scrapy crawl AgiHomePage
 scrapy crawl AnsaHomePage
+scrapy crawl Brasil247
 cd ../../..
 git pull
 git add .
