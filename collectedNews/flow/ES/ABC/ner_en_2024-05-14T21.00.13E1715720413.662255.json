@@ -1,0 +1,2340 @@
+[
+    {
+        "title": "La Justicia argentina investiga una red de extorsiones vinculada a los piqueteros",
+        "date_raw": "Tue, 14 May 2024 20:05:11 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/justicia-argentina-investiga-red-extorsiones-vinculada-piqueteros-20240514200050-nt.html",
+        "subtitle": "La Fiscalía publica conversaciones donde se amenazan con «castigos» a quienes se ausenten de las manifestaciones",
+        "content": "La Justicia argentina tiene en sus manos una causa en la que se investiga a los líderes de tres organizaciones sociales –Polo Obrero, Movimientos Barrios de Pie y Frente de Organizaciones en Lucha–, convocantes de manifestaciones y bloqueos de carreteras. Son los llamados piqueteros. Las denuncias se han realizado por vía telefónica y se centran en los dirigentes de estas organizaciones, que habrían amenazado con retirar alimentos y ayudas a quienes no asistan a determinadas protestas y movilizaciones.",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1715713212.139766,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "La Justicia argentina investiga una red de extorsiones vinculada a los piqueteros",
+        "en_content": "La Justicia argentina tiene en sus manos una causa en la que se investiga a los líderes de tres organizaciones sociales –Polo Obrero, Movimientos Barrios de Pie y Frente de Organizaciones en Lucha–, convocantes de manifestaciones y bloqueos de carreteras. Son los llamados piqueteros. Las denuncias se han realizado por vía telefónica y se centran en los dirigentes de estas organizaciones, que habrían amenazado con retirar alimentos y ayudas a quienes no asistan a determinadas protestas y movilizaciones.",
+        "en_subtitle": "La Fiscalía publica conversaciones donde se amenazan con «castigos» a quienes se ausenten de las manifestaciones",
+        "title_NER": [
+            {
+                "word": "La",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "argentina investiga una red de extorsiones vinculada",
+                "start_char": 12,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "los piqueteros",
+                "start_char": 67,
+                "end_char": 81,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "La Fiscalía",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "conversaciones donde se",
+                "start_char": 20,
+                "end_char": 43,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "ausenten de las manifestaciones",
+                "start_char": 81,
+                "end_char": 112,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "La",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "argentina tiene",
+                "start_char": 12,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "sus manos",
+                "start_char": 31,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "una causa",
+                "start_char": 41,
+                "end_char": 50,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "investiga",
+                "start_char": 64,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Polo Obrero",
+                "start_char": 121,
+                "end_char": 132,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Movimientos Barrios de Pie y Frente de Organizaciones",
+                "start_char": 134,
+                "end_char": 187,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lucha",
+                "start_char": 191,
+                "end_char": 196,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "de manifestaciones",
+                "start_char": 211,
+                "end_char": 229,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "bloqueos de carreteras",
+                "start_char": 232,
+                "end_char": 254,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "los llamados piqueteros",
+                "start_char": 260,
+                "end_char": 283,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Las",
+                "start_char": 285,
+                "end_char": 288,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "han",
+                "start_char": 302,
+                "end_char": 305,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "por",
+                "start_char": 316,
+                "end_char": 319,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "vía",
+                "start_char": 320,
+                "end_char": 323,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "telefónica y se",
+                "start_char": 324,
+                "end_char": 339,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "centran",
+                "start_char": 340,
+                "end_char": 347,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "los dirigentes de",
+                "start_char": 351,
+                "end_char": 368,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "que habrían amenazado con retirar alimentos",
+                "start_char": 391,
+                "end_char": 434,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ayudas",
+                "start_char": 437,
+                "end_char": 443,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "asistan",
+                "start_char": 457,
+                "end_char": 464,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "determinadas protestas",
+                "start_char": 467,
+                "end_char": 489,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Un senador republicano en EE.UU. sugiere a Israel que use armas nucleares contra Gaza",
+        "date_raw": "Tue, 14 May 2024 12:34:42 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/senador-republicano-eeuu-sugiere-israel-use-armas-20240514123442-nt.html",
+        "subtitle": "Hamás ha tachado las declaraciones de Lindsey Graham como propias de una «mentalidad genocida y colonialista»",
+        "content": "El ",
+        "ranked": 19,
+        "placed": "Abroad",
+        "epoch": 1715713212.2408526,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "Un senador republicano en EE.UU. sugiere a Israel que use armas nucleares contra Gaza",
+        "en_content": "El ",
+        "en_subtitle": "Hamás ha tachado las declaraciones de Lindsey Graham como propias de una «mentalidad genocida y colonialista»",
+        "title_NER": [
+            {
+                "word": "EE.UU",
+                "start_char": 26,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 43,
+                "end_char": 49,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 81,
+                "end_char": 85,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Hamás",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "las declaraciones de Lindsey Graham como propias de una «mentalidad genocida y colonialista»",
+                "start_char": 17,
+                "end_char": 109,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "La Policía de Suiza desaloja a manifestantes propalestinos del campus de la Universidad de Ginebra",
+        "date_raw": "Tue, 14 May 2024 14:11:44 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/policia-suiza-desaloja-manifestantes-propalestinos-campus-universidad-20240514141144-nt.html",
+        "subtitle": "Las autoridades estiman que en total han sido desalojados medio centenar de estudiantes que llevaban casi una semana en el campus y se negaban a seguir las directrices del rectorado",
+        "content": "La Policía de Suiza ha desalojado este martes un campamento instalado en el campus de la Universidad de Ginebra, en el oeste del país, durante ",
+        "ranked": 16,
+        "placed": "Abroad",
+        "epoch": 1715713212.4549537,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "La Policía de Suiza desaloja a manifestantes propalestinos del campus de la Universidad de Ginebra",
+        "en_content": "La Policía de Suiza ha desalojado este martes un campamento instalado en el campus de la Universidad de Ginebra, en el oeste del país, durante ",
+        "en_subtitle": "Las autoridades estiman que en total han sido desalojados medio centenar de estudiantes que llevaban casi una semana en el campus y se negaban a seguir las directrices del rectorado",
+        "title_NER": [
+            {
+                "word": "de Suiza",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "manifestantes propalestinos del campus de la Universidad de Ginebra",
+                "start_char": 31,
+                "end_char": 98,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Las",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "estiman",
+                "start_char": 16,
+                "end_char": 23,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "han sido",
+                "start_char": 37,
+                "end_char": 45,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "centenar de estudiantes que llevaban casi",
+                "start_char": 64,
+                "end_char": 105,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "semana",
+                "start_char": 110,
+                "end_char": 116,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el campus y se negaban",
+                "start_char": 120,
+                "end_char": 142,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "La Policía de Suiza ha",
+                "start_char": 0,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un campamento instalado",
+                "start_char": 46,
+                "end_char": 69,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el campus de la Universidad de Ginebra",
+                "start_char": 73,
+                "end_char": 111,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el oeste del país",
+                "start_char": 116,
+                "end_char": 133,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "durante",
+                "start_char": 135,
+                "end_char": 142,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "La reaparición de Hamás en el norte de Gaza pone en duda la estrategia militar israelí centrada en el sur",
+        "date_raw": "Tue, 14 May 2024 15:33:27 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/reaparicion-hamas-norte-gaza-pone-duda-estrategia-20240514153326-nt.html",
+        "subtitle": "Netanyahu mantiene los preparativos para invadir Rafah a medida que aumenta la evacuación voluntaria de civiles",
+        "content": "Mientras las ",
+        "ranked": 12,
+        "placed": "Abroad",
+        "epoch": 1715713212.5409527,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "La reaparición de Hamás en el norte de Gaza pone en duda la estrategia militar israelí centrada en el sur",
+        "en_content": "Mientras las ",
+        "en_subtitle": "Netanyahu mantiene los preparativos para invadir Rafah a medida que aumenta la evacuación voluntaria de civiles",
+        "title_NER": [
+            {
+                "word": "el norte de Gaza",
+                "start_char": 27,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "duda la",
+                "start_char": 52,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "israelí centrada",
+                "start_char": 79,
+                "end_char": 95,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el sur",
+                "start_char": 99,
+                "end_char": 105,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Netanyahu",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "los preparativos",
+                "start_char": 19,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "para invadir",
+                "start_char": 36,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 49,
+                "end_char": 54,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "voluntaria de civiles",
+                "start_char": 90,
+                "end_char": 111,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Disturbios en el territorio francés de Nueva Caledonia antes del debate de una reforma constitucional",
+        "date_raw": "Tue, 14 May 2024 15:28:11 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/disturbios-territorio-frances-nueva-caledonia-debate-reforma-20240514152810-nt.html",
+        "subtitle": "Durante el último medio siglo, los enfrentamientos entre el FNLC y los anti disturbios franceses siempre han tenido dimensiones ensangrentadas en varias ocasiones",
+        "content": "Las tentaciones «independentistas», la negociación de un nuevo «estatuto» y el incremento de la pobreza han precipitado un nuevo estallido de violencia incendiaria en Nueva Caledonia, uno de los doce territorios y colectividades ",
+        "ranked": 14,
+        "placed": "Abroad",
+        "epoch": 1715713212.5594506,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "Disturbios en el territorio francés de Nueva Caledonia antes del debate de una reforma constitucional",
+        "en_content": "Las tentaciones «independentistas», la negociación de un nuevo «estatuto» y el incremento de la pobreza han precipitado un nuevo estallido de violencia incendiaria en Nueva Caledonia, uno de los doce territorios y colectividades ",
+        "en_subtitle": "Durante el último medio siglo, los enfrentamientos entre el FNLC y los anti disturbios franceses siempre han tenido dimensiones ensangrentadas en varias ocasiones",
+        "title_NER": [
+            {
+                "word": "francés de Nueva Caledonia",
+                "start_char": 28,
+                "end_char": 54,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Durante",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "los enfrentamientos",
+                "start_char": 31,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el FNLC",
+                "start_char": 57,
+                "end_char": 64,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "han tenido",
+                "start_char": 105,
+                "end_char": 115,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "dimensiones",
+                "start_char": 116,
+                "end_char": 127,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "ensangrentadas",
+                "start_char": 128,
+                "end_char": 142,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "negociación de un nuevo «estatuto» y el incremento de la pobreza",
+                "start_char": 39,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "han precipitado un nuevo estallido de violencia incendiaria",
+                "start_char": 104,
+                "end_char": 163,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nueva Caledonia",
+                "start_char": 167,
+                "end_char": 182,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Sube la tensión en Georgia por las protestas contra la ley de agentes extranjeros",
+        "date_raw": "Tue, 14 May 2024 13:16:36 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/sube-tension-georgia-protestas-ley-agentes-extranjeros-20240514131636-nt.html",
+        "subtitle": "El proyecto de ley fue aprobado en primera lectura el 17 de abril, momento en el que las protestas tomaron cuerpo, y en segunda lectura el pasado 1 de mayo",
+        "content": "La Policía georgiana acordona desde este mañana en Tiflis el edificio del Parlamento para evitar que se acerquen los miles de manifestantes que ya han salido a la calle. Este martes el parlamento de Georgia ha votado para aprobar la tercera y última lectura de ...",
+        "ranked": 18,
+        "placed": "Abroad",
+        "epoch": 1715713212.5899353,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "Sube la tensión en Georgia por las protestas contra la ley de agentes extranjeros",
+        "en_content": "La Policía georgiana acordona desde este mañana en Tiflis el edificio del Parlamento para evitar que se acerquen los miles de manifestantes que ya han salido a la calle. Este martes el parlamento de Georgia ha votado para aprobar la tercera y última lectura de ...",
+        "en_subtitle": "El proyecto de ley fue aprobado en primera lectura el 17 de abril, momento en el que las protestas tomaron cuerpo, y en segunda lectura el pasado 1 de mayo",
+        "title_NER": [
+            {
+                "word": "Sube la",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "tensión",
+                "start_char": 8,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Georgia",
+                "start_char": 19,
+                "end_char": 26,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "las protestas",
+                "start_char": 31,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "contra",
+                "start_char": 45,
+                "end_char": 51,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "ley de agentes",
+                "start_char": 55,
+                "end_char": 69,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El proyecto de ley fue aprobado",
+                "start_char": 0,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "momento en el que",
+                "start_char": 67,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "tomaron cuerpo",
+                "start_char": 99,
+                "end_char": 113,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "segunda",
+                "start_char": 120,
+                "end_char": 127,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el pasado",
+                "start_char": 136,
+                "end_char": 145,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1",
+                "start_char": 146,
+                "end_char": 147,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "La Policía",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "georgiana",
+                "start_char": 11,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "acordona desde este mañana",
+                "start_char": 21,
+                "end_char": 47,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tiflis el",
+                "start_char": 51,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "del Parlamento",
+                "start_char": 70,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "los miles de manifestantes que",
+                "start_char": 113,
+                "end_char": 143,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "ya han salido",
+                "start_char": 144,
+                "end_char": 157,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Este",
+                "start_char": 170,
+                "end_char": 174,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el parlamento de Georgia",
+                "start_char": 182,
+                "end_char": 206,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "para aprobar",
+                "start_char": 217,
+                "end_char": 229,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "tercera y última lectura de",
+                "start_char": 233,
+                "end_char": 260,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Tres agentes muertos y un criminal a la fuga tras una emboscada contra un furgón en el norte de Francia",
+        "date_raw": "Tue, 14 May 2024 13:19:00 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/tres-agentes-muertos-criminal-fuga-tras-emboscada-20240514131900-nt.html",
+        "subtitle": "El fugado es un hombre que había sido condenado por intento de homicidio y conocido como la Mosca",
+        "content": "Tres agentes de prisiones ",
+        "ranked": 17,
+        "placed": "Abroad",
+        "epoch": 1715713212.599728,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "Tres agentes muertos y un criminal a la fuga tras una emboscada contra un furgón en el norte de Francia",
+        "en_content": "Tres agentes de prisiones ",
+        "en_subtitle": "El fugado es un hombre que había sido condenado por intento de homicidio y conocido como la Mosca",
+        "title_NER": [
+            {
+                "word": "Tres",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "muertos y un",
+                "start_char": 13,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un furgón en el",
+                "start_char": 71,
+                "end_char": 86,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El fugado es un hombre que había",
+                "start_char": 0,
+                "end_char": 32,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "condenado",
+                "start_char": 38,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "intento de homicidio y conocido como la Mosca",
+                "start_char": 52,
+                "end_char": 97,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tres",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "de prisiones",
+                "start_char": 13,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "«Vochansk se está convirtiendo en Bajmut»: los intensos bombardeos rusos arrasan la ciudad fronteriza ucraniana",
+        "date_raw": "Tue, 14 May 2024 15:11:13 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/vochansk-convirtiendo-bajmut-intensos-bombardeos-rusos-arrasan-20240514151113-nt.html",
+        "subtitle": "La ofensiva rusa continúa en el norte de la región de Járkov y obliga a Ucrania a reforzar sus tropas en la zona. El jefe de la inteligencia militar de Kiev asegura que, por el momento, la situación «no es catastrófica»",
+        "content": "Los rusos están bombardeando Vovchansk como nunca antes. «Están lanzando de cinco a siete bombas cada tres minutos», dijo el teniente Denis Yaroslavsky, desplegado en la zona, a los periodistas del New York Times. La ciudad ha quedado sumida en un estado de destrucción casi ...",
+        "ranked": 15,
+        "placed": "Abroad",
+        "epoch": 1715713212.6810555,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "«Vochansk se está convirtiendo en Bajmut»: los intensos bombardeos rusos arrasan la ciudad fronteriza ucraniana",
+        "en_content": "Los rusos están bombardeando Vovchansk como nunca antes. «Están lanzando de cinco a siete bombas cada tres minutos», dijo el teniente Denis Yaroslavsky, desplegado en la zona, a los periodistas del New York Times. La ciudad ha quedado sumida en un estado de destrucción casi ...",
+        "en_subtitle": "La ofensiva rusa continúa en el norte de la región de Járkov y obliga a Ucrania a reforzar sus tropas en la zona. El jefe de la inteligencia militar de Kiev asegura que, por el momento, la situación «no es catastrófica»",
+        "title_NER": [
+            {
+                "word": "Bajmut»:",
+                "start_char": 34,
+                "end_char": 42,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "los intensos bombardeos rusos arrasan la ciudad fronteriza",
+                "start_char": 43,
+                "end_char": 101,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "La ofensiva",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "el norte de la región de Járkov",
+                "start_char": 29,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ucrania",
+                "start_char": 72,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "la zona",
+                "start_char": 105,
+                "end_char": 112,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "El jefe de la inteligencia",
+                "start_char": 114,
+                "end_char": 140,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de Kiev",
+                "start_char": 149,
+                "end_char": 156,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "por el momento",
+                "start_char": 170,
+                "end_char": 184,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "la situación",
+                "start_char": 186,
+                "end_char": 198,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "es catastrófica",
+                "start_char": 203,
+                "end_char": 218,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Los rusos están",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vovchansk como nunca",
+                "start_char": 29,
+                "end_char": 49,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Están",
+                "start_char": 58,
+                "end_char": 63,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "cada",
+                "start_char": 97,
+                "end_char": 101,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "dijo el teniente Denis Yaroslavsky",
+                "start_char": 117,
+                "end_char": 151,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "desplegado",
+                "start_char": 153,
+                "end_char": 163,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "la zona",
+                "start_char": 167,
+                "end_char": 174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "los periodistas",
+                "start_char": 178,
+                "end_char": 193,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "New York Times",
+                "start_char": 198,
+                "end_char": 212,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "La ciudad",
+                "start_char": 214,
+                "end_char": 223,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "sumida",
+                "start_char": 235,
+                "end_char": 241,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un",
+                "start_char": 245,
+                "end_char": 247,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "de destrucción casi",
+                "start_char": 255,
+                "end_char": 274,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Los escándalos en el Ministerio de Defensa ruso continúan con el arresto de otro alto mando",
+        "date_raw": "Tue, 14 May 2024 17:41:34 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/escandalos-ministerio-defensa-ruso-continuan-arresto-alto-20240514174133-nt.html",
+        "subtitle": "En el domicilio de Yuri Kuznetsov han sido encontrados más de un millón de euros y numerosos objetos de valor como relojes, monedas de oro y artículos de lujo, según el Comité de Instrucción",
+        "content": "Después del arresto por presunta corrupción ",
+        "ranked": 10,
+        "placed": "Abroad",
+        "epoch": 1715713212.750623,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "Los escándalos en el Ministerio de Defensa ruso continúan con el arresto de otro alto mando",
+        "en_content": "Después del arresto por presunta corrupción ",
+        "en_subtitle": "En el domicilio de Yuri Kuznetsov han sido encontrados más de un millón de euros y numerosos objetos de valor como relojes, monedas de oro y artículos de lujo, según el Comité de Instrucción",
+        "title_NER": [
+            {
+                "word": "Los escándalos",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el Ministerio de Defensa",
+                "start_char": 18,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "continúan con el arresto de otro alto mando",
+                "start_char": 48,
+                "end_char": 91,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Yuri Kuznetsov",
+                "start_char": 19,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "más de un millón de euros",
+                "start_char": 55,
+                "end_char": 80,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "monedas de oro",
+                "start_char": 124,
+                "end_char": 138,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "artículos de lujo",
+                "start_char": 141,
+                "end_char": 158,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "según el Comité de Instrucción",
+                "start_char": 160,
+                "end_char": 190,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Después del",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "presunta corrupción",
+                "start_char": 24,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Homicidios, secuestros o intentos de asesinato: el historial delictivo de 'La Mosca' el delincuente fugado en una emboscada en Francia",
+        "date_raw": "Tue, 14 May 2024 18:21:23 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/homicidios-secuestros-intentos-asesinato-historial-delictivo-mosca-20240514182123-nt.html",
+        "subtitle": "Entre sus infracciones más recientes, Mohamed Amra es sospechoso de haber ordenado un intento de asesinato contra un francés el pasado verano en Puerto Banús, Málaga",
+        "content": "Francia está conmocionada después de que este martes ",
+        "ranked": 9,
+        "placed": "Abroad",
+        "epoch": 1715713212.8303444,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "Homicidios, secuestros o intentos de asesinato: el historial delictivo de 'La Mosca' el delincuente fugado en una emboscada en Francia",
+        "en_content": "Francia está conmocionada después de que este martes ",
+        "en_subtitle": "Entre sus infracciones más recientes, Mohamed Amra es sospechoso de haber ordenado un intento de asesinato contra un francés el pasado verano en Puerto Banús, Málaga",
+        "title_NER": [
+            {
+                "word": "Homicidios",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "intentos de asesinato",
+                "start_char": 25,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el historial",
+                "start_char": 48,
+                "end_char": 60,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "delictivo de 'La Mosca'",
+                "start_char": 61,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "delincuente fugado",
+                "start_char": 88,
+                "end_char": 106,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francia",
+                "start_char": 127,
+                "end_char": 134,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "sus infracciones más recientes",
+                "start_char": 6,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mohamed Amra es sospechoso de haber",
+                "start_char": 38,
+                "end_char": 73,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "intento de asesinato contra",
+                "start_char": 86,
+                "end_char": 113,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un francés el",
+                "start_char": 114,
+                "end_char": 127,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "pasado verano",
+                "start_char": 128,
+                "end_char": 141,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Puerto Banús",
+                "start_char": 145,
+                "end_char": 157,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Málaga",
+                "start_char": 159,
+                "end_char": 165,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Francia está conmocionada después de que este",
+                "start_char": 0,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "El Consejo Nórdico y el Consejo Báltico exhiben su unidad frente a Putin",
+        "date_raw": "Tue, 14 May 2024 15:30:35 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/consejo-nordico-consejo-baltico-exhiben-unidad-frente-20240514153034-nt.html",
+        "subtitle": "Junto al canciller Olaf Scholz, algunos de los países que se sienten más amenazados por el Kremlin cierran filas para defenderse",
+        "content": "En las fotos aparecen todos sonrientes y muy compenetrados. El mensaje de los jefes de Gobierno de los países nórdicos, reunidos en Estocolmo con el canciller alemán Olaf Scholz, no puede ser más claro: ",
+        "ranked": 13,
+        "placed": "Abroad",
+        "epoch": 1715713212.9237354,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "El Consejo Nórdico y el Consejo Báltico exhiben su unidad frente a Putin",
+        "en_content": "En las fotos aparecen todos sonrientes y muy compenetrados. El mensaje de los jefes de Gobierno de los países nórdicos, reunidos en Estocolmo con el canciller alemán Olaf Scholz, no puede ser más claro: ",
+        "en_subtitle": "Junto al canciller Olaf Scholz, algunos de los países que se sienten más amenazados por el Kremlin cierran filas para defenderse",
+        "title_NER": [
+            {
+                "word": "El Consejo Nórdico y el",
+                "start_char": 0,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Consejo Báltico",
+                "start_char": 24,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "su unidad frente",
+                "start_char": 48,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Putin",
+                "start_char": 67,
+                "end_char": 72,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Junto al",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Olaf Scholz",
+                "start_char": 19,
+                "end_char": 30,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "algunos de los países",
+                "start_char": 32,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "sienten más amenazados por",
+                "start_char": 61,
+                "end_char": 87,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 91,
+                "end_char": 98,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "filas para defenderse",
+                "start_char": 107,
+                "end_char": 128,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "muy compenetrados",
+                "start_char": 41,
+                "end_char": 58,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "El mensaje de los",
+                "start_char": 60,
+                "end_char": 77,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de Gobierno de los países nórdicos",
+                "start_char": 84,
+                "end_char": 118,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Estocolmo",
+                "start_char": 132,
+                "end_char": 141,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "alemán",
+                "start_char": 159,
+                "end_char": 165,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Olaf Scholz",
+                "start_char": 166,
+                "end_char": 177,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "más claro",
+                "start_char": 192,
+                "end_char": 201,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "El jefe del CNE venezolano rechaza ofendido la suspensión de sanciones de la UE",
+        "date_raw": "Tue, 14 May 2024 18:26:52 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/jefe-cne-venezolano-rechaza-ofendido-suspension-sanciones-20240514181209-nt.html",
+        "subtitle": "La medida temporal de Bruselas quiere ser un estímulo a «los pasos alentadores» oficialistas en la ruta electoral de julio",
+        "content": "El presidente chavista del Consejo Nacional Electoral (CNE), ",
+        "ranked": 8,
+        "placed": "Abroad",
+        "epoch": 1715713212.9427855,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:12",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.12",
+        "en_title": "El jefe del CNE venezolano rechaza ofendido la suspensión de sanciones de la UE",
+        "en_content": "El presidente chavista del Consejo Nacional Electoral (CNE), ",
+        "en_subtitle": "La medida temporal de Bruselas quiere ser un estímulo a «los pasos alentadores» oficialistas en la ruta electoral de julio",
+        "title_NER": [
+            {
+                "word": "El jefe del CNE",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "rechaza ofendido la suspensión de sanciones de la UE",
+                "start_char": 27,
+                "end_char": 79,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "de Bruselas quiere ser un",
+                "start_char": 19,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "pasos alentadores» oficialistas en",
+                "start_char": 61,
+                "end_char": 95,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de julio",
+                "start_char": 114,
+                "end_char": 122,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El presidente",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Consejo Nacional Electoral",
+                "start_char": 27,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Jaume Duch, portavoz del Parlamento Europeo: «En un mundo donde llueve cada vez más, la UE es un refugio muy importante»",
+        "date_raw": "Tue, 14 May 2024 19:21:42 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/jaume-duch-portavoz-parlamento-europeo-mundo-llueve-20240514192141-nt.html",
+        "subtitle": "Ante las elecciones europeas que se celebrarán entre los próximos días 6 y 9 de junio, recuerda la importancia de participar y de valorar los logros de bienestar, paz y democracia del proyecto europeo",
+        "content": "Parece evidente que las elecciones al Parlamento Europeo (PE) que se celebrarán entre el 6 y el 9 junio determinarán el futuro de millones de personas, pero transmitir esa idea para movilizar el voto es más importante que nunca, ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1715713213.0614474,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:13",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.13",
+        "en_title": "Jaume Duch, portavoz del Parlamento Europeo: «En un mundo donde llueve cada vez más, la UE es un refugio muy importante»",
+        "en_content": "Parece evidente que las elecciones al Parlamento Europeo (PE) que se celebrarán entre el 6 y el 9 junio determinarán el futuro de millones de personas, pero transmitir esa idea para movilizar el voto es más importante que nunca, ",
+        "en_subtitle": "Ante las elecciones europeas que se celebrarán entre los próximos días 6 y 9 de junio, recuerda la importancia de participar y de valorar los logros de bienestar, paz y democracia del proyecto europeo",
+        "title_NER": [
+            {
+                "word": "Jaume Duch",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "portavoz",
+                "start_char": 12,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Parlamento",
+                "start_char": 25,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europeo",
+                "start_char": 36,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "vez más",
+                "start_char": 76,
+                "end_char": 83,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "UE es un",
+                "start_char": 88,
+                "end_char": 96,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "6 y 9 de junio",
+                "start_char": 71,
+                "end_char": 85,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "recuerda la",
+                "start_char": 87,
+                "end_char": 98,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de participar y de valorar",
+                "start_char": 111,
+                "end_char": 137,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "logros de bienestar",
+                "start_char": 142,
+                "end_char": 161,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "paz",
+                "start_char": 163,
+                "end_char": 166,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "proyecto",
+                "start_char": 184,
+                "end_char": 192,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "europeo",
+                "start_char": 193,
+                "end_char": 200,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Parece evidente que",
+                "start_char": 0,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "al Parlamento",
+                "start_char": 35,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europeo",
+                "start_char": 49,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "entre el 6 y el 9",
+                "start_char": 80,
+                "end_char": 97,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "junio determinarán el futuro de millones de personas",
+                "start_char": 98,
+                "end_char": 150,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "pero transmitir",
+                "start_char": 152,
+                "end_char": 167,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "para movilizar el voto es más",
+                "start_char": 177,
+                "end_char": 206,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "La histórica pizzería napolitana Dal Presidente es incautada por ser utilizada por la Camorra para lavar dinero",
+        "date_raw": "Tue, 14 May 2024 19:54:35 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/historica-pizzeria-napolitana-dal-presidente-incautada-utilizada-20240514195435-nt.html",
+        "subtitle": "Fue inaugurada por el chef que hace treinta años preparó la pizza para el entonces presidente Bill Clinton; de ahí el nombre. Entre los cinco detenidos hay un policía",
+        "content": ", y frecuentan pizzerías, heladerías, restaurantes y discotecas, seguramente ni se imaginan que estuvieron en auténticas 'lavanderías', es decir, locales que sirven a ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1715713213.0824046,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:13",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.13",
+        "en_title": "La histórica pizzería napolitana Dal Presidente es incautada por ser utilizada por la Camorra para lavar dinero",
+        "en_content": ", y frecuentan pizzerías, heladerías, restaurantes y discotecas, seguramente ni se imaginan que estuvieron en auténticas 'lavanderías', es decir, locales que sirven a ",
+        "en_subtitle": "Fue inaugurada por el chef que hace treinta años preparó la pizza para el entonces presidente Bill Clinton; de ahí el nombre. Entre los cinco detenidos hay un policía",
+        "title_NER": [
+            {
+                "word": "La histórica",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "pizzería",
+                "start_char": 13,
+                "end_char": 21,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "napolitana Dal",
+                "start_char": 22,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "es incautada",
+                "start_char": 48,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "por la Camorra para lavar dinero",
+                "start_char": 79,
+                "end_char": 111,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Fue inaugurada",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "el chef que hace treinta años preparó la",
+                "start_char": 19,
+                "end_char": 59,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "para el",
+                "start_char": 66,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bill Clinton",
+                "start_char": 94,
+                "end_char": 106,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "de ahí el",
+                "start_char": 108,
+                "end_char": 117,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Entre los cinco detenidos hay un",
+                "start_char": 126,
+                "end_char": 158,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "pizzerías",
+                "start_char": 15,
+                "end_char": 24,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "heladerías",
+                "start_char": 26,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "y discotecas",
+                "start_char": 51,
+                "end_char": 63,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "seguramente ni",
+                "start_char": 65,
+                "end_char": 79,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "imaginan que estuvieron",
+                "start_char": 83,
+                "end_char": 106,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "auténticas",
+                "start_char": 110,
+                "end_char": 120,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "es decir",
+                "start_char": 136,
+                "end_char": 144,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Egipto no enviará ayuda a Gaza mientras Israel ocupe el paso de Rafah",
+        "date_raw": "Tue, 14 May 2024 18:45:35 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/egipto-enviara-ayuda-gaza-israel-ocupe-paso-20240514184439-nt.html",
+        "subtitle": "El país vecino considera que la operación militar israelí supone un peligro para su seguridad y plantea rebajar las relaciones diplomáticas con el Estado hebreo",
+        "content": "Israel avanza en Rafah y ",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1715713213.1872106,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:13",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.13",
+        "en_title": "Egipto no enviará ayuda a Gaza mientras Israel ocupe el paso de Rafah",
+        "en_content": "Israel avanza en Rafah y ",
+        "en_subtitle": "El país vecino considera que la operación militar israelí supone un peligro para su seguridad y plantea rebajar las relaciones diplomáticas con el Estado hebreo",
+        "title_NER": [
+            {
+                "word": "Egipto",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "enviará",
+                "start_char": 10,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 26,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "el paso de Rafah",
+                "start_char": 53,
+                "end_char": 69,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El país",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "que la",
+                "start_char": 25,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "israelí supone",
+                "start_char": 50,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "un",
+                "start_char": 65,
+                "end_char": 67,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "su seguridad y",
+                "start_char": 81,
+                "end_char": 95,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "plantea",
+                "start_char": 96,
+                "end_char": 103,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "las relaciones diplomáticas con el Estado",
+                "start_char": 112,
+                "end_char": 153,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel avanza",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Inundaciones, la tragedia anunciada que Brasil no quiso ver",
+        "date_raw": "Tue, 14 May 2024 19:56:19 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/inundaciones-tragedia-anunciada-brasil-quiso-ver-20240514183617-nt.html",
+        "subtitle": "Un informe alertó en 2015 de lo que podría suceder en el estado de Rio Grande do Sul, pero ningún gobierno tomó medidas para frenarlo. Casi una década después, la inacción se ha traducido en decenas de muertos y desaparecidos, y en medio millón de desplazados",
+        "content": "Luisa Nascimento, de 57 años, llegó a su casa en las afueras de Caxias do Sul, en el interior de Rio Grande do Sul, temprano en la mañana del pasado lunes. Traía una mochila y dos bolsas de plástico con ropa. Era todo lo que ...",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1715713213.2835164,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:13",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.13",
+        "en_title": "Inundaciones, la tragedia anunciada que Brasil no quiso ver",
+        "en_content": "Luisa Nascimento, de 57 años, llegó a su casa en las afueras de Caxias do Sul, en el interior de Rio Grande do Sul, temprano en la mañana del pasado lunes. Traía una mochila y dos bolsas de plástico con ropa. Era todo lo que ...",
+        "en_subtitle": "Un informe alertó en 2015 de lo que podría suceder en el estado de Rio Grande do Sul, pero ningún gobierno tomó medidas para frenarlo. Casi una década después, la inacción se ha traducido en decenas de muertos y desaparecidos, y en medio millón de desplazados",
+        "title_NER": [
+            {
+                "word": "Inundaciones",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "anunciada",
+                "start_char": 26,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Un",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "alertó",
+                "start_char": 11,
+                "end_char": 17,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2015",
+                "start_char": 21,
+                "end_char": 25,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "suceder en el",
+                "start_char": 43,
+                "end_char": 56,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sul",
+                "start_char": 81,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "pero ningún gobierno tomó medidas para frenarlo",
+                "start_char": 86,
+                "end_char": 133,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Casi",
+                "start_char": 135,
+                "end_char": 139,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "década después",
+                "start_char": 144,
+                "end_char": 158,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "la inacción se",
+                "start_char": 160,
+                "end_char": 174,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "traducido",
+                "start_char": 178,
+                "end_char": 187,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "decenas de muertos y desaparecidos",
+                "start_char": 191,
+                "end_char": 225,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "medio millón de desplazados",
+                "start_char": 232,
+                "end_char": 259,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Luisa Nascimento",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "llegó a su casa",
+                "start_char": 30,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "las afueras de Caxias",
+                "start_char": 49,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sul",
+                "start_char": 74,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sul",
+                "start_char": 111,
+                "end_char": 114,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "temprano",
+                "start_char": 116,
+                "end_char": 124,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "la mañana del pasado lunes",
+                "start_char": 128,
+                "end_char": 154,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Traía",
+                "start_char": 156,
+                "end_char": 161,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "mochila",
+                "start_char": 166,
+                "end_char": 173,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "bolsas de plástico con ropa",
+                "start_char": 180,
+                "end_char": 207,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "El cuento chino del Canal de Nicaragua",
+        "date_raw": "Tue, 14 May 2024 16:18:26 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/cuento-chino-canal-nicaragua-20240514123009-nt.html",
+        "subtitle": "Daniel Ortega ha debido admitir la gran mentira del proyecto: ni se iba a hacer ni es realista imaginarlo",
+        "content": "El régimen de Daniel Ortega ha reconocido oficialmente la gran mentira del proyecto del Canal de ",
+        "ranked": 11,
+        "placed": "Abroad",
+        "epoch": 1715713213.4357007,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:13",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.13",
+        "en_title": "El cuento chino del Canal de Nicaragua",
+        "en_content": "El régimen de Daniel Ortega ha reconocido oficialmente la gran mentira del proyecto del Canal de ",
+        "en_subtitle": "Daniel Ortega ha debido admitir la gran mentira del proyecto: ni se iba a hacer ni es realista imaginarlo",
+        "title_NER": [
+            {
+                "word": "El cuento chino del Canal de Nicaragua",
+                "start_char": 0,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Daniel Ortega",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "debido admitir la gran",
+                "start_char": 17,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "del proyecto",
+                "start_char": 48,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "iba a hacer ni es realista imaginarlo",
+                "start_char": 68,
+                "end_char": 105,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "El régimen de Daniel Ortega",
+                "start_char": 0,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "la gran",
+                "start_char": 55,
+                "end_char": 62,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Un accidente de autobús en Florida causa ocho muertos y ocho heridos graves",
+        "date_raw": "Tue, 14 May 2024 19:03:27 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/accidente-autobus-florida-causa-ocho-muertos-ocho-20240514190326-nt.html",
+        "subtitle": "El autobús se estrelló contra una valla y volcó tras golpear lateralmente a una camioneta y salirse de la calzada",
+        "content": "Unas ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1715713213.45231,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:13",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.13",
+        "en_title": "Un accidente de autobús en Florida causa ocho muertos y ocho heridos graves",
+        "en_content": "Unas ",
+        "en_subtitle": "El autobús se estrelló contra una valla y volcó tras golpear lateralmente a una camioneta y salirse de la calzada",
+        "title_NER": [
+            {
+                "word": "Un accidente de autobús en",
+                "start_char": 0,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Florida",
+                "start_char": 27,
+                "end_char": 34,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El autobús se",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "contra",
+                "start_char": 23,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "una valla",
+                "start_char": 30,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "volcó tras golpear lateralmente",
+                "start_char": 42,
+                "end_char": 73,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Unas",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Portugal quiere sacar del limbo legal a 350.000 inmigrantes",
+        "date_raw": "Tue, 14 May 2024 19:07:22 +0200",
+        "date": "2024-05-14",
+        "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml",
+        "news_url": "https://www.abc.es/internacional/portugal-quiere-sacar-limbo-legal-350000-inmigrantes-20240514190548-nt.html",
+        "subtitle": "El nuevo Gobierno dará prioridad a la inmigración cualificada",
+        "content": "En un intento de esquivar el alto nivel de desempleo en el sector de la construcción en Luanda (",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1715713213.6617954,
+        "language": "ES",
+        "source": "ABC",
+        "local_time": "2024-05-14 21:00:13",
+        "timezone": "Europe/Madrid",
+        "scraping_time": "2024-05-14T21.00.13",
+        "en_title": "Portugal quiere sacar del limbo legal a 350.000 inmigrantes",
+        "en_content": "En un intento de esquivar el alto nivel de desempleo en el sector de la construcción en Luanda (",
+        "en_subtitle": "El nuevo Gobierno dará prioridad a la inmigración cualificada",
+        "title_NER": [
+            {
+                "word": "Portugal",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "350.000",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "El nuevo Gobierno dará",
+                "start_char": 0,
+                "end_char": 22,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "prioridad",
+                "start_char": 23,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "la inmigración cualificada",
+                "start_char": 35,
+                "end_char": 61,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "intento de esquivar el alto nivel de desempleo",
+                "start_char": 6,
+                "end_char": 52,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Luanda",
+                "start_char": 88,
+                "end_char": 94,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]
