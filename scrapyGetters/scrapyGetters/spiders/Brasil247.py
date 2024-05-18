@@ -75,6 +75,8 @@ class Brasil247(BaseScraper):
     def parse(self, response):
         super().parse(response)
         article_links = response.xpath("//a[@data-tb-link='true']/@href").getall()
+        article_links_2 = response.xpath("//a[@data-tb-link='false']/@href").getall()
+        article_links.extend(article_links_2)
         for article in article_links:
             if article not in self.captured and "https://" not in article and article not in self.start_urls:
                 self.captured.append(article)
