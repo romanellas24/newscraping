@@ -25,21 +25,28 @@ class AnsaHomePage(BaseScraper):
     name = 'AnsaHomePage'
     allowed_domains = [BASE_URL]
     start_urls = [
-        "https://www.ansa.it/"
+        "https://www.ansa.it/",
+        "https://www.ansa.it/sito/notizie/economia/economia.shtml",
+        "https://www.ansa.it/sito/notizie/cultura/cultura.shtml",
+        "https://www.ansa.it/sito/notizie/sport/sport.shtml",
     ]
     timezone = "Europe/Rome"
     timeslot_day = ''
     timeslot_number = 0
     edition = []
     captured = []
+    home_page = []
 
     def parse(self, response):
         super().parse(response)
         article_links = response.css("div.article-teaser div.article-content a::attr(href)").getall()
         for article in article_links:
-            if article not in self.captured and "https://" not in article:
-                article = article[1:]
-                article = f"{self.start_urls[0]}{article}"
+            if response.url == self.start_urls[0] and response.url not in self.home_page:
+                self.home_page.append(article)
+            if article not in self.captured:
+                if article[0] == "/":
+                    article = article[1:]
+                    article = f"{self.start_urls[0]}{article}"
                 self.captured.append(article)
                 yield response.follow(article, self.parseArticle, meta={'parent': response.url})
 
@@ -79,6 +86,9 @@ class AnsaHomePage(BaseScraper):
             if p_content != None:
                 p_content = p_content.strip()
                 content = content + p_content + " "
+
+        if news_url in self.home_page:
+            parent_url = self.start_urls[0]
 
         new = {
             'title': title,

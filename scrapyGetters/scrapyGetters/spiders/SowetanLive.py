@@ -47,6 +47,7 @@ class SowetanLive(BaseScraper):
     captured_news = []
     timeslot_day = ''
     timeslot_number = 0
+    home_page = []
 
     def parse(self, response):
         super().parse(response)
@@ -54,6 +55,8 @@ class SowetanLive(BaseScraper):
         article_links = response.xpath("//a[contains(@aria-label, 'article')]/@href").getall()
         for article_link in article_links:
             link = f"{start_url}{article_link}"
+            if response.url == self.start_urls[0] and response.url not in self.home_page:
+                self.home_page.append(link)
             if link not in self.captured_news:
                 self.captured_news.append(link)
                 yield response.follow(link, self.parseArticle, meta={'parent': response.url})
@@ -91,6 +94,9 @@ class SowetanLive(BaseScraper):
         subtitle = response.css('div.image-text > .description::text').get()
         self.ranked = self.ranked + 1
         timestamp = time.time()
+
+        if news_url in self.home_page:
+            parent_url = self.start_urls[0]
 
         new = {
             'title': title,

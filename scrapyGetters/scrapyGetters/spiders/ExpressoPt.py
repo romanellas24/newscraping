@@ -23,21 +23,30 @@ class ExpressoPt(BaseScraper):
         "https://expresso.pt/ultimas",
         "https://expresso.pt/50-anos-25-de-abril",
         "https://expresso.pt/economia",
+        "https://expresso.pt/politica",
+        "https://expresso.pt/cultura",
+        "https://expresso.pt/internacional",
     ]
     base_url = "https://expresso.pt"
     referred_link = ''
     ranked = 0
     edition = []
     captured_titles = []
+    home_page = []
 
     def parse(self, response):
         super().parse(response)
         news_links = response.css("h2.title a::attr(href)").getall()
         for news_link in news_links:
-            if "http" not in news_link and news_link not in self.captured_titles:
-                self.captured_titles.append(news_link)
-                news_link = f"{self.base_url}{news_link}"
-                yield response.follow(news_link, self.parseArticle, meta={'parent': response.url})
+            if "http" not in news_link:
+
+                if response.url == self.start_urls[0] and response.url not in self.home_page:
+                    self.home_page.append(news_link)
+
+                if news_link not in self.captured_titles:
+                    self.captured_titles.append(news_link)
+                    news_link = f"{self.base_url}{news_link}"
+                    yield response.follow(news_link, self.parseArticle, meta={'parent': response.url})
 
     def close(spider: Spider, reason: str) -> Union[Deferred, None]:
         if reason == 'finished':
@@ -66,6 +75,9 @@ class ExpressoPt(BaseScraper):
         subtitle = response.css('p.g-article-lead::text').get()
         self.ranked = self.ranked + 1
         timestamp = time.time()
+
+        if news_url in self.home_page:
+            parent_url = self.start_urls[0]
 
         new = {
             'title': title,

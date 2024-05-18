@@ -3,7 +3,6 @@ from typing import Union
 
 from datetime import date, datetime, timedelta
 import time
-import dateparser
 from scrapy import Spider
 from twisted.internet.defer import Deferred
 import json
@@ -74,12 +73,16 @@ class LosAngelesTimes(BaseScraper):
     ranked = 0
     edition = []
     captured = []
+    home_page = []
 
     def parse(self, response):
         super().parse(response)
 
         articles = response.css("h2.promo-title a.link::attr(href)").getall()
         for article_link in articles:
+            if response.url == self.start_urls[0] and response.url not in self.home_page:
+                self.home_page.append(article_link)
+
             if self.base_url in article_link and article_link not in self.captured:
                 self.captured.append(article_link)
                 yield response.follow(article_link, self.parseArticle, meta={'parent': response.url})
@@ -117,6 +120,9 @@ class LosAngelesTimes(BaseScraper):
             if isinstance(p_content, str) == False or p_content is None:
                 continue
             content = content + "\n" + p_content
+
+        if news_url in self.home_page:
+            parent_url = self.start_urls[0]
 
         new = {
             'title': title,

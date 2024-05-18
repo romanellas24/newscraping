@@ -25,18 +25,26 @@ class AgiHomePageSpider(BaseScraper):
     name = 'AgiHomePage'
     allowed_domains = [BASE_URL]
     start_urls = [
-        "https://www.agi.it/"
+        "https://www.agi.it/",
+        "https://www.agi.it/economia/",
+        "https://www.agi.it/sport/",
+        "https://www.agi.it/cultura/"
     ]
     timezone = "Europe/Rome"
     timeslot_day = ''
     timeslot_number = 0
     edition = []
     captured = []
+    home_page = []
 
     def parse(self, response):
         super().parse(response)
         article_links = response.css("a.sequenceContainerTag::attr(href)").getall()
         for article in article_links:
+
+            if response.url == self.start_urls[0] and response.url not in self.home_page:
+                self.home_page.append(article)
+
             if article not in self.captured and "www.agi.it" in article:
                 self.captured.append(article)
                 yield response.follow(article, self.parseArticle, meta={'parent': response.url})
@@ -77,6 +85,9 @@ class AgiHomePageSpider(BaseScraper):
             p_content = p.xpath(".//text()[2]").get()
             if p_content != None:
                 content = content + p_content + "\n"
+
+        if news_url in self.home_page:
+            parent_url = self.start_urls[0]
 
         new = {
             'title': title,
