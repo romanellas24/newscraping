@@ -19,7 +19,12 @@ class NineNews(BaseScraper):
     timezone = "Australia/Sydney"
 
     start_urls = [
-        "https://www.9news.com.au/"
+        "https://www.9news.com.au/",
+        "https://www.9news.com.au/finance",
+        "https://www.9news.com.au/world",
+        "https://www.9news.com.au/politics",
+        "https://www.9news.com.au/tech",
+
     ]
 
     referred_link = ''
@@ -41,12 +46,18 @@ class NineNews(BaseScraper):
         for article in article_links:
             total_links.append(article)
 
+        article_links = response.css("a.story__headline__link::attr(href)").getall()
+        for article in article_links:
+            total_links.append(article)
+
         for article in total_links:
-            if article not in self.captured and self.base_http in article and article not in self.start_urls:
-                self.captured.append(article)
+            if self.base_http in article and article not in self.start_urls:
                 if self.start_urls[0] == response.url:
                     self.home_page.append(article)
-                yield response.follow(article, self.parseArticle, meta={'parent': response.url})
+
+                if article not in self.captured:
+                    self.captured.append(article)
+                    yield response.follow(article, self.parseArticle, meta={'parent': response.url})
 
     def close(spider: Spider, reason: str) -> Union[Deferred, None]:
         if reason == 'finished':
@@ -81,6 +92,9 @@ class NineNews(BaseScraper):
             p_content = p.xpath('./text()').get()
             if p_content != None:
                 content = content + p_content + "\n"
+
+        if news_url in self.home_page:
+            parent_url = self.start_urls[0]
 
         if news_url in self.home_page:
             parent_url = self.start_urls[0]
