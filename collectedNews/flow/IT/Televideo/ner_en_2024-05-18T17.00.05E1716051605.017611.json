@@ -1,0 +1,1631 @@
+[
+    {
+        "title": "Italia e 13 Paesi: no attacco Rafah 154  KIEV: KHARKIV,PARTE DI ATTACCO MAGGIORE Zelensky:questa è solo prima ondata",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Kiev: Karkhiv,parte di attacco maggiore \"L'assalto lanciato dalla Russia contro la regione di Kharkiv potrebbe essere solo la prima ondata di un'offensiva più ampia\". Lo ha detto il presidente ucraino Zelensky in un'intervista alla Afp, aggiungendo: \"Hanno lanciato l'operazione, che potrebbe consistere in diverse ondate. E questa è la prima ondata. Ma dopo questa prima ondata la situazione è sotto controllo\".Diecimila gli evacuati dalla regione di Kharkiv. Zelensky ha poi detto che l'Ucraina ha il 25% della difesa aerea necessaria e ha bisogno di 120-130 caccia F16 per raggiungere la parità aerea con Mosca. ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1716044405.6280205,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "Italy and 13 countries: no attack Rafah 154 KIEV: KHARKIV,PARTE DI ATTACCO MAGGIORE Zelensky:this is only first wave",
+        "en_content": "Kiev: Karkhiv, part of major attack \"The assault launched by Russia against the Kharkiv region could only be the first wave of a wider offensive\". The Ukrainian president Zelensky said in an interview with the Afp, adding: \"They launched the operation, which could consist of several waves. And this is the first wave. But after this first wave, the situation is under control.\" Ten thousand evacuates from the Kharkiv region. Zelensky then said that Ukraine has 25% of the necessary air defense and needs 120-130 F16 fighter to achieve equal air with Moscow.",
+        "title_NER": [
+            {
+                "word": "Italy",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "13",
+                "start_char": 10,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rafah 154",
+                "start_char": 34,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 84,
+                "end_char": 92,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 106,
+                "end_char": 111,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Karkhiv",
+                "start_char": 6,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 61,
+                "end_char": 67,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 80,
+                "end_char": 87,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "first",
+                "start_char": 113,
+                "end_char": 118,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 151,
+                "end_char": 160,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 171,
+                "end_char": 179,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Afp",
+                "start_char": 210,
+                "end_char": 213,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "first",
+                "start_char": 307,
+                "end_char": 312,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 334,
+                "end_char": 339,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Ten thousand",
+                "start_char": 379,
+                "end_char": 391,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 411,
+                "end_char": 418,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 427,
+                "end_char": 435,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 451,
+                "end_char": 458,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "25%",
+                "start_char": 463,
+                "end_char": 466,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "120-130",
+                "start_char": 506,
+                "end_char": 513,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "F16",
+                "start_char": 514,
+                "end_char": 517,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 552,
+                "end_char": 558,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PUTIN:CON XI PARLATO DI TREGUA OLIMPICA Scettico il leader ucraino Zelensky",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Ilaria Salis forse giovedì lascia cella Ilaria Salis potrebbe lasciare il carcere giovedì prossimo per i domiciliari Lo prevede il legale ungherese dell'italiana detenuta a Budapest da oltre un anno, con l'accusa di aver aggredito dei neonazisti.     L'avvocato spiega che il padre d'Ilaria lo ha informato dell'invio tramite banca della cauzione (40mila euro). Ma le banche ungheresi sono chiuse fino a  martedì per la Pentecoste. Appena il bonifico arriverà sul conto del legale, lo verserà alla Corte.Secondo la legge, solo l'avvocato può trasferire la somma",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1716044405.693245,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "_",
+        "en_content": "Ilaria Salis perhaps Thursday leaves cell Ilaria Salis could leave prison next Thursday for domiciliari The Hungarian lawyer of the Italian held in Budapest for over a year, accused of attacking the Neonists. The lawyer explains that the father of Ilaria informed him of the sending by bank of the bail (40 thousand euros). But the Hungarian banks are closed until Tuesday for Pentecost. As soon as the transfer arrives on the account of the attorney, it will be sent to the Court. According to the law, only the lawyer can transfer the sum",
+        "content_NER": [
+            {
+                "word": "Ilaria Salis",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 21,
+                "end_char": 29,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria Salis",
+                "start_char": 42,
+                "end_char": 54,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "next Thursday",
+                "start_char": 74,
+                "end_char": 87,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 108,
+                "end_char": 117,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 132,
+                "end_char": 139,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Budapest",
+                "start_char": 148,
+                "end_char": 156,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Neonists",
+                "start_char": 199,
+                "end_char": 207,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 248,
+                "end_char": 254,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "40 thousand euros",
+                "start_char": 304,
+                "end_char": 321,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Hungarian",
+                "start_char": 332,
+                "end_char": 341,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 365,
+                "end_char": 372,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pentecost",
+                "start_char": 377,
+                "end_char": 386,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Court",
+                "start_char": 475,
+                "end_char": 480,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "TV ISRAELE:SOSPESI NEGOZIATI SU OSTAGGI Impossibile intesa sulle condizioni",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Tv Israele:sospesi negoziati su ostaggi Le trattative per la liberazione degli ostaggi in mano ad Hamas sono state sospese. Lo ha annunciato l'emittente televisiva israeliana Kan 11. I mediatori di Egitto e Qatar hanno verificato l'impossibilità in questa fase di trovare un accordo con Israele,in particolare sulle condizioni per il rilascio. \"Le fonti hanno indicato che le differenze sono molto ampie,soprattutto sul termine 'fine della guerra' e sulla richiesta di Israele di porre il veto sui nomi dei terroristi di cui Hamas potrebbe chiedere il rilascio\".  ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1716044405.7088711,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "TV ISRAELE: SOSPESI NEGOZIATI ON OSTAGGI Unconsidered conditions",
+        "en_content": "TV Israel: suspicious hostage negotiations The negotiations for the release of the hostages in Hamas' hands were suspended. It was announced by Israeli television broadcaster Kan 11. The mediators of Egypt and Qatar have verified the impossibility at this stage of finding an agreement with Israel, particularly on the conditions for release. \"The sources have indicated that the differences are very wide, especially on the term 'end of war' and on Israel's request to veto the terrorist names of which Hamas might ask for release.\"",
+        "title_NER": [
+            {
+                "word": "ISRAELE",
+                "start_char": 3,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "SOSPESI",
+                "start_char": 12,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "OSTAGGI Unconsidered",
+                "start_char": 33,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 3,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 95,
+                "end_char": 100,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 144,
+                "end_char": 151,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kan 11",
+                "start_char": 175,
+                "end_char": 181,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Egypt",
+                "start_char": 200,
+                "end_char": 205,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Qatar",
+                "start_char": 210,
+                "end_char": 215,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 291,
+                "end_char": 297,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 450,
+                "end_char": 456,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 504,
+                "end_char": 509,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "West Bank, coloni assaltano camion",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Italia e 13 Paesi: no operazione Rafah Israele ha diritto a \"esercitare il suo diritto alla difesa\" ma \"deve rispettare il diritto internazionale\" e un'operazione su larga scala a Rafah \"avrebbe conseguenze catastrofiche sulla popolazione civile\". Così la lettera al ministro degli Esteri Katz da 13 omologhi. L'Italia e gli altri firmatari (Canada, Danimarca,Finlandia, Francia,Germania, Giappone, Nuova Zelanda, Olanda, Regno Unito, Svezia, Australia e Sud Corea) coordinati dal ministro Tajani per la presidenza G7, chiedono anche \"un piano credibile per proteggere\" i civili. ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1716044405.7495635,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "West Bank, settlers assault trucks",
+        "en_content": "Italy and 13 countries: no operation Rafah Israel is entitled to \"exercise its right to defence\" but \"must respect international law\" and a large-scale operation in Rafah \"will have catastrophic consequences on the civilian population\". Thus the letter to foreign minister Katz from 13 homologues. Italy and other signatories (Canada, Denmark,Finland, France, Germany, Japan, New Zealand, the Netherlands, United Kingdom, Sweden, Australia and South Korea) coordinated by Minister Tajani for the G7 Presidency, also call for \"a credible plan to protect\" civilians.",
+        "title_NER": [
+            {
+                "word": "West Bank",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Italy",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "13",
+                "start_char": 10,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 165,
+                "end_char": 170,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Katz",
+                "start_char": 273,
+                "end_char": 277,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "13",
+                "start_char": 283,
+                "end_char": 285,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 298,
+                "end_char": 303,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Canada",
+                "start_char": 327,
+                "end_char": 333,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 335,
+                "end_char": 342,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Finland",
+                "start_char": 343,
+                "end_char": 350,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 352,
+                "end_char": 358,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Germany",
+                "start_char": 360,
+                "end_char": 367,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Japan",
+                "start_char": 369,
+                "end_char": 374,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "New Zealand",
+                "start_char": 376,
+                "end_char": 387,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 393,
+                "end_char": 404,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "United Kingdom",
+                "start_char": 406,
+                "end_char": 420,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sweden",
+                "start_char": 422,
+                "end_char": 428,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Australia",
+                "start_char": 430,
+                "end_char": 439,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "South Korea",
+                "start_char": 444,
+                "end_char": 455,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 481,
+                "end_char": 487,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "DIRITTI LGBTQ+, ROMA NON FIRMA TESTO UE La ministra Roccella:no al \"gender\"",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Diritti Lgbtq+, Roma non firma testo Ue La dichiarazione per la promozione delle politiche europee a favore delle comunità Lgbtq+ presentata dalla presidenza di turno belga ai Paesi membri Ue non è stata firmata da 9 Stati su 27. Non hanno firmato Italia, Ungheria, Romania, Bulgaria, Croazia, Lituania,Lettonia, Repubblica Ceca e Slovacchia. La dichiarazione era stata preparata per la Giornata Mondiale contro Omofobia, Transfobia e Bifobia. L'Italia, il 7 maggio, aveva aderito a un testo. La ministra Roccella: no al 'gender', \"non abbiamo firmato la negazione di identità maschile e femminile\", ha spiegato. ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1716044405.7918127,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "LGBTQ+ RIGHTS The ministra Roccella:no al \"gender\"",
+        "en_content": "Lgbtq+, Rome does not sign EU text The Declaration for the Promotion of European Policies for the Lgbtq+ Communities submitted by the Belgian Presidency to the EU Member States was not signed by 9 states on 27. They have not signed Italy, Hungary, Romania, Bulgaria, Croatia, Lithuania,Lettonia, Czech Republic and Slovakia. The statement was prepared for World Day against Homophobia, Transphobia and Biphobia. Italy, on May 7, had joined a text. The ministra Roccella: no to the 'gender', \"we have not signed the denial of male and female identity\", he explained.",
+        "title_NER": [
+            {
+                "word": "ministra",
+                "start_char": 18,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Rome",
+                "start_char": 8,
+                "end_char": 12,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 27,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Declaration for the Promotion of European Policies for the Lgbtq+ Communities",
+                "start_char": 35,
+                "end_char": 116,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Belgian",
+                "start_char": 134,
+                "end_char": 141,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "EU",
+                "start_char": 160,
+                "end_char": 162,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "9",
+                "start_char": 195,
+                "end_char": 196,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "27",
+                "start_char": 207,
+                "end_char": 209,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 232,
+                "end_char": 237,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hungary",
+                "start_char": 239,
+                "end_char": 246,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Romania",
+                "start_char": 248,
+                "end_char": 255,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bulgaria",
+                "start_char": 257,
+                "end_char": 265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Croatia",
+                "start_char": 267,
+                "end_char": 274,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 276,
+                "end_char": 285,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lettonia",
+                "start_char": 286,
+                "end_char": 294,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Czech Republic",
+                "start_char": 296,
+                "end_char": 310,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Slovakia",
+                "start_char": 315,
+                "end_char": 323,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "World Day",
+                "start_char": 356,
+                "end_char": 365,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Biphobia",
+                "start_char": 402,
+                "end_char": 410,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 412,
+                "end_char": 417,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "May 7",
+                "start_char": 422,
+                "end_char": 427,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "ministra",
+                "start_char": 452,
+                "end_char": 460,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "GAZA, TROVATI I CORPI DI 3 OSTAGGI    Rapiti il 7 ottobre al rave Nova",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Idf:trovati a Gaza tre corpi di ostaggi Le forze di difesa israeliane hanno  trovato i corpi di tre ostaggi israeliani a Gaza.Secondo il portavoce militare israeliano, si tratta di Amit Buskila (28 anni),Itzhak Galarenter (56 anni) e Shani Louk, la 23enne tedescoisraeliana il cui cadavere era stato esibito per le strade di Gaza dai terroristi di Hamas.     Tutti e tre erano al Festival musicale di Nova,attaccato da Hamas il 7 ottobre I loro corpi sono stati portati in Israele per il riconoscimento.  ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1716044405.8293986,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "GAZA, TROVATI I 3 OSTAGGI COURSES Reported on 7 October at rave Nova",
+        "en_content": "Idf: Three bodies of hostages were found in Gaza The Israeli defence forces found the bodies of three Israeli hostages in Gaza. According to the Israeli military spokesman, it is Amit Buskila (28 years),Itzhak Galarenter (56 years) and Shani Louk, the 23-year-old Israeli German whose body had been exhibited in the streets of Gaza by the Hamas terrorists. All three were at the Nova Music Festival, attacked by Hamas on October 7, their bodies were brought to Israel for recognition.",
+        "title_NER": [
+            {
+                "word": "GAZA",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "TROVATI",
+                "start_char": 6,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 16,
+                "end_char": 17,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "7 October",
+                "start_char": 46,
+                "end_char": 55,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Nova",
+                "start_char": 64,
+                "end_char": 68,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Three",
+                "start_char": 5,
+                "end_char": 10,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 44,
+                "end_char": 48,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 53,
+                "end_char": 60,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three",
+                "start_char": 96,
+                "end_char": 101,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 102,
+                "end_char": 109,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 122,
+                "end_char": 126,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 145,
+                "end_char": 152,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Amit Buskila",
+                "start_char": 179,
+                "end_char": 191,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "28",
+                "start_char": 193,
+                "end_char": 195,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "56 years",
+                "start_char": 222,
+                "end_char": 230,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Shani Louk",
+                "start_char": 236,
+                "end_char": 246,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "23-year-old",
+                "start_char": 252,
+                "end_char": 263,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 264,
+                "end_char": 271,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 272,
+                "end_char": 278,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 327,
+                "end_char": 331,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 339,
+                "end_char": 344,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 361,
+                "end_char": 366,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Nova Music Festival",
+                "start_char": 375,
+                "end_char": 398,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 412,
+                "end_char": 417,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "October 7",
+                "start_char": 421,
+                "end_char": 430,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israel",
+                "start_char": 461,
+                "end_char": 467,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "ILARIA SALIS PRESTO VIA DAL CARCERE   Atteso l'arrivo della cauzione",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1716044405.8350928,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "ILARIA SALIS PRESTO VIA FROM CARCERE Expected the arrival of the deposit",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "SALIS PRESTO VIA",
+                "start_char": 7,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "PREMIER: \"SERVE AUTONOMIA INDUSTRIALE\"  Meloni a Business7:più cooperazione",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Meloni a G7:serve autonomia industriale Il Covid,la guerra in Ucraina e il conflitto in Medio Oriente, l'intelligenza artificiale delineano \"un quadro complesso,che ha rimesso al centro due cose:la questione geopolitica e l'autonomia industriale\".Così la premier Meloni all'incontro del Business 7.  \"Fondamentale limitare le dipendenze industriali attuali. Il mercato può essere libero solo se è equo\", aggiunge. \"Occorre più cooperazione fra economie del G7\". La transizione green \"non deve dimenticare il nucleare\". Il Papa al G7 \"darà contributo a regole per IA\".  ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1716044405.8451016,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "PREMIER: \"INDUSTRIAL AUTHORIES\" Meloni a Business7:more cooperation",
+        "en_content": "Meloni to G7:serve industrial autonomy The Covid, the war in Ukraine and the conflict in the Middle East, artificial intelligence outlines \"a complex framework, which put two things back in the center: the geopolitical question and industrial autonomy\". So Premier Meloni at the Business 7 meeting. \"Fondamental limit current industrial dependencies. The market can only be free if it is fair\", he adds. \"We need more cooperation between G7 economies.\" The green transition \"do not forget nuclear.\" The Pope at the G7 \"will contribute to rules for IA\".",
+        "content_NER": [
+            {
+                "word": "G7",
+                "start_char": 10,
+                "end_char": 12,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 61,
+                "end_char": 68,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 89,
+                "end_char": 104,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "two",
+                "start_char": 171,
+                "end_char": 174,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 265,
+                "end_char": 271,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "G7",
+                "start_char": 438,
+                "end_char": 440,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "G7",
+                "start_char": 515,
+                "end_char": 517,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "IA",
+                "start_char": 548,
+                "end_char": 550,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "CONFINDUSTRIA: CRESCITA SOLO IN PARTE  Bene servizi-turismo,male industria",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Confindustria: crescita solo in parte L'economia è in crescita \"ma a velocità diverse\". Buoni i risultati dei servizi e record per il turismo, ma l'industria va male. Così Confindustria nella congiuntura flash, sottolineando come sia \"in crescita solo parte dell'economia\". Nel primo trimestre il Pil è cresciuto (+0,3%),anche se la produzione dell'industria e i consumi di beni si sono  contratti\", afferma il Centro studi. \"Agiscono negativamente i problemi nei trasporti mondiali di merci, l'energia ancora cara, i tassi ai massimi. La fiducia di famiglie e imprese è in calo\".",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1716044405.8658018,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "CONFINDUSTRY: CRESCITA ONLY IN PART Well services-tourism, bad industry",
+        "en_content": "Confindustria: growth only in part The economy is growing \"but at different speeds\". Good results of services and records for tourism, but industry goes wrong. Thus Confindustria in the flash conjuncture, emphasizing that it is \"in growth only part of the economy\". In the first quarter the GDP grew (+0.3%), although the production of industry and the consumption of goods contracted,\" says the Study Centre. \"The problems in world freight transport are negative, still expensive energy, maximum rates. The trust of families and enterprises is falling.\"",
+        "title_NER": [
+            {
+                "word": "CONFINDUSTRY",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the first quarter",
+                "start_char": 269,
+                "end_char": 286,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "+0.3%",
+                "start_char": 301,
+                "end_char": 306,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the Study Centre",
+                "start_char": 392,
+                "end_char": 408,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "INFLAZIONE ITALIA TRA PIU' BASSE IN UE  Ad aprile 0,9% rispetto a 1,2% di marzo Eurostat:3a dopo Lituania,Finlandia",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Inflazione Italia 3a più bassa Eurozona Ad aprile l'inflazione in Italia, in calo a 0,9% da 1,2% di marzo, è stata la terza più bassa in Eurozona. Tasso annuo a 2,4% e nell'Euro27 2,6%. Su base mensile, +0,6% in Ue ed in Eurozona. Tra i 20 Paesi Eurozona, ad aprile il tasso medio dei prezzi al consumo è più basso solo in Lituania e Finlandia.  In tutta l'Ue, evidenzia l'istituto europeo di statistica, l'inflazione è  scesa in 15 Paesi Italia compresa,è rimasta stabile in 4 ed è aumentata in 8.",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1716044405.8764977,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "INFLATION ITALY BETWEEN MORE BASS IN THE EU In April 0.9% compared to 1.2% of March Eurostat:3a after Lithuania,Finland",
+        "en_content": "Inflation Italy 3rd lower Eurozone In April inflation in Italy, down to 0.9% from 1.2% in March, was the third lowest in Eurozone. Annual rate at 2.4% and Euro27 2.6%. On a monthly basis, +0.6% in EU and in Eurozone. Between 20 Eurozone countries, in April the average consumer price rate is lowest only in Lithuania and Finland. Throughout the EU, the European Statistical Institute highlights, inflation fell in 15 countries including Italy, remained stable in 4 and increased in 8.",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 41,
+                "end_char": 43,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "April",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "0.9%",
+                "start_char": 53,
+                "end_char": 57,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "1.2%",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "March",
+                "start_char": 78,
+                "end_char": 83,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Eurostat:3a",
+                "start_char": 84,
+                "end_char": 95,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 102,
+                "end_char": 111,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Finland",
+                "start_char": 112,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "3rd",
+                "start_char": 16,
+                "end_char": 19,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Eurozone",
+                "start_char": 26,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "April",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 57,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "0.9%",
+                "start_char": 72,
+                "end_char": 76,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "1.2%",
+                "start_char": 82,
+                "end_char": 86,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "March",
+                "start_char": 90,
+                "end_char": 95,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "third",
+                "start_char": 105,
+                "end_char": 110,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Eurozone",
+                "start_char": 121,
+                "end_char": 129,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Annual",
+                "start_char": 131,
+                "end_char": 137,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.4%",
+                "start_char": 146,
+                "end_char": 150,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Euro27",
+                "start_char": 155,
+                "end_char": 161,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2.6%",
+                "start_char": 162,
+                "end_char": 166,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "monthly",
+                "start_char": 173,
+                "end_char": 180,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 197,
+                "end_char": 199,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Eurozone",
+                "start_char": 207,
+                "end_char": 215,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "20",
+                "start_char": 225,
+                "end_char": 227,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "April",
+                "start_char": 251,
+                "end_char": 256,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 307,
+                "end_char": 316,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Finland",
+                "start_char": 321,
+                "end_char": 328,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 345,
+                "end_char": 347,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Statistical Institute",
+                "start_char": 349,
+                "end_char": 383,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "15",
+                "start_char": 414,
+                "end_char": 416,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 437,
+                "end_char": 442,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 463,
+                "end_char": 464,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8",
+                "start_char": 482,
+                "end_char": 483,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "PRESTO PASSAPORTI NEGLI UFFICI POSTALI  Richiesta e rinnovo, da luglio",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": " Presto passaporti negli uffici postali A partire dal mese di luglio il servizio di richiesta e rinnovo dei passaporti sarà disponibile in tutti gli uffici postali d'Italia. Lo ha annunciato il direttore di Poste Italiane, Giuseppe Lasco, a conclusione di un incontro col ministro dell'Interno Matteo Piantedosi.      Si tratta di un'iniziativa nell'ambito del progetto Polis di Poste Italiane che prevede fra l'altro il servizio di richiesta di passaporti nei comuni con meno di 15mila abitanti e la consegna dei passaporti a casa.    ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1716044405.9009638,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "_ POSTALI Request and renewal, from July",
+        "en_content": "Soon passports to post offices From July the request and renewal of passports will be available in all post offices of Italy. This was announced by the director of Poste Italiane, Giuseppe Lasco, at the conclusion of a meeting with the Interior Minister Matteo Piantedosi. It is an initiative within the Polis project of Poste Italiane which includes, among other things, the service of request of passports in municipalities with less than 15 thousand inhabitants and the delivery of passports at home.",
+        "title_NER": [
+            {
+                "word": "July",
+                "start_char": 36,
+                "end_char": 40,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "July",
+                "start_char": 36,
+                "end_char": 40,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 119,
+                "end_char": 124,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Poste Italiane",
+                "start_char": 164,
+                "end_char": 178,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giuseppe Lasco",
+                "start_char": 180,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Interior",
+                "start_char": 236,
+                "end_char": 244,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Matteo Piantedosi",
+                "start_char": 254,
+                "end_char": 271,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Polis",
+                "start_char": 304,
+                "end_char": 309,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Poste Italiane",
+                "start_char": 321,
+                "end_char": 335,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "less than 15 thousand",
+                "start_char": 431,
+                "end_char": 452,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1716044405.9050536,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "CHICO FORTI RIENTRA IN ITALIA DAGLI USA In aeroporto l'incontro con Meloni    Sarà trasferito in carcere a Verona",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1716044405.9121346,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "CHICO FORTI REFERRED IN ITALY USA At the airport the meeting with Meloni will be transferred to Verona",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "CHICO FORTI REFERRED IN ITALY USA",
+                "start_char": 0,
+                "end_char": 33,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 66,
+                "end_char": 72,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Verona",
+                "start_char": 96,
+                "end_char": 102,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PAPA FRANCESCO OGGI IN VISITA A VERONA  Pranzo coi detenuti,poi messa in stadio \"Coi deboli per finire le guerre\"",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1716044405.9552133,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "_ _ _ _ _",
+        "en_content": ""
+    },
+    {
+        "title": "DIRITTI LGBTQ+, ROMA NON FIRMA TESTO UE La ministra Roccella:no al \"gender\"",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1716044405.987063,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:05",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.05",
+        "en_title": "LGBTQ+ RIGHTS The ministra Roccella:no al \"gender\"",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "ministra",
+                "start_char": 18,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "TV ISRAELE:SOSPESI NEGOZIATI SU OSTAGGI Impossibile intesa sulle condizioni   Gaza,trovati i corpi di tre ostaggi",
+        "date_raw": "May 18, 2024",
+        "date": "2024-05-18",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1716044406.00333,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-18 17:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-18T17.00.06",
+        "en_title": "TV ISRAELE: SOSPESI NEGOZIATI SU OSTAGGI Impossible understood on the Gaza conditions, found the bodies of three hostages",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "ISRAELE",
+                "start_char": 3,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "SOSPESI",
+                "start_char": 12,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NEGOZIATI",
+                "start_char": 20,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "SU OSTAGGI Impossible",
+                "start_char": 30,
+                "end_char": 51,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 107,
+                "end_char": 112,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]
