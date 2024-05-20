@@ -1,0 +1,955 @@
+[
+    {
+        "title": "Al Jazeera, almeno 64 morti a Gaza nelle ultime 24 ore",
+        "date_raw": "Sun, 19 May 2024 03:34:52 +0200",
+        "date": "2024-05-19",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2024/05/19/al-jazeera-almeno-64-morti-a-gaza-nelle-ultime-24-ore_55015874-72c9-4672-a066-0439f7a86ab3.html",
+        "subtitle": "\"Vittime di attacchi israeliani nella Striscia\"",
+        "content": "\n                                                \n            Sono almeno 64 i palestinesi morti a\nseguito di attacchi israeliani nella Striscia di Gaza nelle\nultime 24 ore. Lo sostiene Al Jazeera in base ai report dei\npropri corrispondenti sul campo.\n                                    \n                                       \n\t\t\t\tIn dettaglio secondo l'emittente qatariota ci sono stati: 28\nmorti e decine di feriti in un attacco in un edificio\nresidenziale vicino all'ospedale Kamal Adwan, nel nord di Gaza;\n12 morti e 25 feriti nel campo profughi di Jabalia, nel nord di\nGaza; otto morti e 10 feriti in un attacco di artiglieria a\nFalujah, a ovest del campo profughi di Jabalia; cinque morti nel\ncampo profughi di Nuseirat, nel centro di Gaza; quattro morti\nnella città di Khan Younis, nel sud di Gaza; tre morti nella\nzona di Al-Farahin nella città di Abasan Al-Kabira, a est di\nKhan Yunis; e quattro morti a Rafah. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1716112829.685999,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-19 12:00:29",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-19T12.00.29",
+        "en_title": "At Jazeera, at least 64 deaths in Gaza in the last 24 hours",
+        "en_content": "At least 64 Palestinians died\nFollowing Israeli attacks in the Gaza Strip in Gaza\nlast 24 hours. Al Jazeera supports it according to reports\nown correspondents on the field.\n\n\nIn detail according to the qatariota broadcaster there were: 28\ndead and dozens of wounded in an attack in a building\nresidential near the Kamal Adwan hospital, in the north of Gaza;\n12 dead and 25 wounded in the Jabalia refugee camp, in the north\nGaza; eight dead and 10 wounded in an artillery attack in\nFalujah, west of the Jabalia refugee camp; five dead in\nrefugee camp of Nuseirat, in the center of Gaza; Four dead dead dead\nin the city of Khan Younis, in southern Gaza; three dead in\narea of Al-Farahin in the city of Abasan Al-Kabira, east of\nKhan Yunis; and four deaths in Rafah.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "\"Vittimes of Israeli attacks in the Strip\"",
+        "title_NER": [
+            {
+                "word": "Jazeera",
+                "start_char": 3,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "at least 64",
+                "start_char": 12,
+                "end_char": 23,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 34,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the last 24 hours",
+                "start_char": 42,
+                "end_char": 59,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Vittimes of Israeli",
+                "start_char": 1,
+                "end_char": 20,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Strip",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "At least 64",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 12,
+                "end_char": 24,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 59,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 77,
+                "end_char": 81,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last 24 hours",
+                "start_char": 82,
+                "end_char": 95,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Al Jazeera",
+                "start_char": 97,
+                "end_char": 107,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "qatariota",
+                "start_char": 203,
+                "end_char": 212,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "28",
+                "start_char": 237,
+                "end_char": 239,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "dozens",
+                "start_char": 249,
+                "end_char": 255,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kamal Adwan",
+                "start_char": 315,
+                "end_char": 326,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 353,
+                "end_char": 357,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "12",
+                "start_char": 359,
+                "end_char": 361,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "25",
+                "start_char": 371,
+                "end_char": 373,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Jabalia",
+                "start_char": 389,
+                "end_char": 396,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 424,
+                "end_char": 428,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "eight",
+                "start_char": 430,
+                "end_char": 435,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 445,
+                "end_char": 447,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Falujah",
+                "start_char": 482,
+                "end_char": 489,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Jabalia",
+                "start_char": 503,
+                "end_char": 510,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "five",
+                "start_char": 525,
+                "end_char": 529,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Nuseirat",
+                "start_char": 554,
+                "end_char": 562,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 581,
+                "end_char": 585,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Four",
+                "start_char": 587,
+                "end_char": 591,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Khan Younis",
+                "start_char": 622,
+                "end_char": 633,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 647,
+                "end_char": 651,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 653,
+                "end_char": 658,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Al-Farahin",
+                "start_char": 675,
+                "end_char": 685,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Abasan Al-Kabira",
+                "start_char": 701,
+                "end_char": 717,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Khan Yunis",
+                "start_char": 727,
+                "end_char": 737,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "four",
+                "start_char": 743,
+                "end_char": 747,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 758,
+                "end_char": 763,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Kiev, bombe su una casa di riposo a Kharkiv, 4 morti ",
+        "date_raw": "Sun, 19 May 2024 11:50:43 +0200",
+        "date": "2024-05-19",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/05/19/kiev-bombe-su-una-casa-di-riposo-a-kharkiv-4-morti_acc1340d-43d9-4af3-a942-b0ba6a6990bf.html",
+        "subtitle": "Kiev, 'distrutto un dragamine di flotta russa del Mar Nero, i russi hanno perso 10.000 uomini in una settimana' ",
+        "content": "I russi hanno bombardato una casa di riposo nella comunità di Malodanyliv nel distretto di Kharkiv. Quattro persone sono morte e diverse sono ferite. Lo afferma il capo della regione Oleg Sinegubov, come riporta Rbc Ukraina. \"Tra i feriti c'è un paramedico d'emergenza, un'ambulanza è stata danneggiata\", ha aggiunto Sinegubov.Le forze di difesa ucraine hanno distrutto la notte scorsa un dragamine della flotta russa del Mar Nero: lo ha reso noto su Telegram la Marina militare ucraina, come riporta Ukrainska Pravda.L'esercito di russo ha perso 10.000 soldati in una settimana di combattimenti in Ucraina, oltre a quattro aerei e un elicottero: lo ha reso noto su Telegram il comandante delle forze di terra ucraine, Oleksandr Pavlyuk, come riporta Rbc-Ucraina. Le perdite, ha spiegato Pavlyuk, si riferiscono alla settimana dal 12 al 19 maggio, periodo in cui sono stati distrutti inoltre 122 carri armati, 255 veicoli da combattimento corazzati, 215 sistemi di artiglieria, 10 missili da crociera e 245 droni di tipo tattico-operativo.Le forze russe mirano a catturare le città di Chasiv Yar e Vovchansk, rispettivamente nelle regioni ucraine di Donetsk (est) e Kharkiv (nord-est): lo scrive l'Istituto per lo studio della guerra. Secondo il rapporto del centro studi statunitense, i russi hanno recentemente intensificato i loro sforzi per catturare Chasiv Yar, un obiettivo importante dal punto di vista operativo, cercando di sfruttare il modo in cui le operazioni offensive nel nord del Kharkiv - nonchè quelle in corso in tutta l'Ucraina orientale - hanno generato una maggiore pressione a livello di teatro sulle forze ucraine. Un assalto del 4 aprile scorso è stato seguito da un'intensificazione delle operazioni offensive vicino alla città e i recenti assalti meccanizzati russi nell'area indicano probabilmente un'intensificazione generale degli sforzi russi per catturare Chasiv Yar, commentano gli analisti dell'Isw. La presa di questa città sarebbe importante dal punto di vista operativo, poiché fornirebbe alle forze russe posizioni favorevoli per lanciare successive operazioni offensive contro Kostyantynivka e Druzhkivka, città che formano la porzione meridionale di una cintura difensiva ucraina che costituisce la spina dorsale della difesa di Kiev nel Donetsk. Inoltre, i russi stanno danno la priorità alla cattura di Vovchansk, che sarà probabilmente uno dei restanti obiettivi tattici della prima fase delle operazioni offensive nel Kharkiv. Secondo il think tank, il comando militare russo probabilmente ha scelto Vovchansk come uno degli obiettivi tattici chiave della prima fase dell'operazione offensiva in questa regione poiché la città è il più grande centro abitato direttamente al confine con la Russia, che fornirebbe alle forze di Mosca una testa di ponte vicino alle sue retrovie per preparare e lanciare la seconda fase dell'offensiva.\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1716112829.759731,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-19 12:00:29",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-19T12.00.29",
+        "en_title": "Kiev, bombs on a nursing home in Kharkiv, 4 dead",
+        "en_content": "The Russians bombed a nursing home in the Malodanyliv community in the Kharkiv district. Four people died and several are wounded. The head of the Oleg Sinegubov region states this, as Rbc Ukraina reports. \"There is an emergency paramedic among the wounded, an ambulance was damaged,\" Sinegubov added. The Ukrainian defense forces destroyed last night a dragon of the Russian Black Sea fleet: it has made known on Telegram the Ukrainian military Navy, as reported by Ukrainska Pravda. The Russian army lost 10,000 soldiers in a week of fighting in Ukraine, plus four aircraft and a helicopter: made known on Telegram the commander of the Ukrainian land forces, Oleksandr Pavlyuk, as reported by Rbc-Ukraine. The losses, Pavlyuk explained, refer to the week from 12 to 19 May, period in which 122 tanks were destroyed, 255 armoured combat vehicles, 215 artillery systems, 10 cruise missiles and 245 tactical-operative drones. Russian forces aim to capture the cities of Chasiv Yar and Vovchansk, respectively in the Ukrainian regions of Donetsk (east) and Kharkiv (north-east): the Institute for War Study writes. According to the report from the U.S. study center, the Russians have recently intensified their efforts to capture Chasiv Yar, an important objective from the operational point of view, trying to exploit the way in which the offensive operations in the north of Kharkiv - as well as the ongoing operations in the whole of eastern Ukraine - have generated greater theatre pressure on Ukrainian forces. An assault on April 4 was followed by an intensification of offensive operations near the city and recent Russian mechanized assaults in the area probably indicate a general intensification of Russian efforts to capture Chasiv Yar, comment on Isw analysts. The taking of this city would be important from the operational point of view, since it would provide Russian forces with favorable positions to launch successive offensive operations against Kostyantynivka and Druzhkivka, cities forming the southern portion of a Ukrainian defensive belt that constitutes the backbone of Kiev defense in Donetsk. Moreover, the Russians are giving priority to the capture of Vovchansk, which will probably be one of the remaining tactical goals of the first phase of offensive operations in Kharkiv. According to the think tank, the Russian military command probably chose Vovchansk as one of the key tactical objectives of the first phase of the offensive operation in this region since the city is the largest inhabited center directly on the border with Russia, which would provide Moscow forces with a bridgehead near its backroads to prepare and launch the second phase of the offensive.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Kiev, 'destroyed a Russian Black Sea fleet dragon, the Russians lost 10,000 men in a week'",
+        "title_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 33,
+                "end_char": 40,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 42,
+                "end_char": 43,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian Black Sea",
+                "start_char": 19,
+                "end_char": 36,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Russians",
+                "start_char": 55,
+                "end_char": 63,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "10,000",
+                "start_char": 69,
+                "end_char": 75,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "week",
+                "start_char": 85,
+                "end_char": 89,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Russians",
+                "start_char": 4,
+                "end_char": 12,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Malodanyliv",
+                "start_char": 42,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Kharkiv district",
+                "start_char": 67,
+                "end_char": 87,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Four",
+                "start_char": 89,
+                "end_char": 93,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Oleg Sinegubov",
+                "start_char": 147,
+                "end_char": 161,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rbc Ukraina",
+                "start_char": 185,
+                "end_char": 196,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sinegubov",
+                "start_char": 285,
+                "end_char": 294,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 306,
+                "end_char": 315,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "last night",
+                "start_char": 341,
+                "end_char": 351,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Russian",
+                "start_char": 368,
+                "end_char": 375,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Black Sea",
+                "start_char": 376,
+                "end_char": 385,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Telegram",
+                "start_char": 414,
+                "end_char": 422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 427,
+                "end_char": 436,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Navy",
+                "start_char": 446,
+                "end_char": 450,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukrainska Pravda",
+                "start_char": 467,
+                "end_char": 483,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 489,
+                "end_char": 496,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "10,000",
+                "start_char": 507,
+                "end_char": 513,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "a week",
+                "start_char": 526,
+                "end_char": 532,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 548,
+                "end_char": 555,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "four",
+                "start_char": 562,
+                "end_char": 566,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Telegram",
+                "start_char": 608,
+                "end_char": 616,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 638,
+                "end_char": 647,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Oleksandr Pavlyuk",
+                "start_char": 661,
+                "end_char": 678,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rbc-Ukraine",
+                "start_char": 695,
+                "end_char": 706,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pavlyuk",
+                "start_char": 720,
+                "end_char": 727,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the week",
+                "start_char": 748,
+                "end_char": 756,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "12 to 19 May",
+                "start_char": 762,
+                "end_char": 774,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "122",
+                "start_char": 792,
+                "end_char": 795,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "255",
+                "start_char": 818,
+                "end_char": 821,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "215",
+                "start_char": 848,
+                "end_char": 851,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 871,
+                "end_char": 873,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "245",
+                "start_char": 894,
+                "end_char": 897,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 925,
+                "end_char": 932,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chasiv Yar",
+                "start_char": 969,
+                "end_char": 979,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Vovchansk",
+                "start_char": 984,
+                "end_char": 993,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1015,
+                "end_char": 1024,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Donetsk",
+                "start_char": 1036,
+                "end_char": 1043,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 1055,
+                "end_char": 1062,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Institute for War Study",
+                "start_char": 1077,
+                "end_char": 1104,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "U.S.",
+                "start_char": 1146,
+                "end_char": 1150,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russians",
+                "start_char": 1169,
+                "end_char": 1177,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chasiv Yar",
+                "start_char": 1229,
+                "end_char": 1239,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 1376,
+                "end_char": 1383,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1444,
+                "end_char": 1451,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1497,
+                "end_char": 1506,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "April 4",
+                "start_char": 1529,
+                "end_char": 1536,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1621,
+                "end_char": 1628,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1708,
+                "end_char": 1715,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Chasiv Yar",
+                "start_char": 1735,
+                "end_char": 1745,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Isw",
+                "start_char": 1758,
+                "end_char": 1761,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 1874,
+                "end_char": 1881,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kostyantynivka",
+                "start_char": 1964,
+                "end_char": 1978,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Druzhkivka",
+                "start_char": 1983,
+                "end_char": 1993,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 2036,
+                "end_char": 2045,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 2094,
+                "end_char": 2098,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Donetsk",
+                "start_char": 2110,
+                "end_char": 2117,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russians",
+                "start_char": 2133,
+                "end_char": 2141,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Vovchansk",
+                "start_char": 2180,
+                "end_char": 2189,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 2257,
+                "end_char": 2262,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 2296,
+                "end_char": 2303,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2338,
+                "end_char": 2345,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Vovchansk",
+                "start_char": 2378,
+                "end_char": 2387,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "one",
+                "start_char": 2391,
+                "end_char": 2394,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 2433,
+                "end_char": 2438,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 2562,
+                "end_char": 2568,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 2590,
+                "end_char": 2596,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 2667,
+                "end_char": 2673,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ]
+    },
+    {
+        "title": "Pilota \"eroe\" ucraino morto in missione di combattimento",
+        "date_raw": "Sun, 19 May 2024 04:10:08 +0200",
+        "date": "2024-05-19",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/05/19/pilota-eroe-ucraino-morto-in-missione-di-combattimento_0eaf02c1-fc3c-4816-9794-05beeaf3ab7a.html",
+        "subtitle": "Insignito del titolo dell'Ordine del Coraggio",
+        "content": "\n                                                \n            Il pilota da caccia ucraino Denys\nVasyliuk, tenente colonnello e primo vice comandante di uno\nsquadrone della 831a Brigata aerea tattica, è morto mentre\nsvolgeva una missione di combattimento. Lo ha annunciato - come\nriferisce Ukrinform - il servizio stampa della brigata con un\npost su Facebook precisando che \"era un vero professionista nel\nsuo campo, un cavaliere a pieno titolo dell'Ordine del Coraggio,\nche ha effettuato dozzine di sortite da quando la Russia ha\nlanciato l'invasione dell'Ucraina\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1716112829.8214233,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-19 12:00:29",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-19T12.00.29",
+        "en_title": "Ukrainian \"hero\" driver dead on combat mission",
+        "en_content": "The Ukrainian hunting pilot Denys\nVasyliuk, Lieutenant Colonel and First Deputy Commander of a\nsquadron of the 831th Tactical Air Brigade, died while\nHe had a combat mission. It has announced - as\nreports Ukrinform - the brigade press service with a\nFacebook post specifying that \"it was a real professional in\nhis field, a knight full of the Order of Courage,\nthat has made dozens of fates since Russia has\nlaunched the invasion of Ukraine.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "The title of the Order of Courage",
+        "title_NER": [
+            {
+                "word": "Ukrainian",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "the Order of Courage",
+                "start_char": 13,
+                "end_char": 33,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ukrainian",
+                "start_char": 4,
+                "end_char": 13,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Denys\nVasyliuk",
+                "start_char": 28,
+                "end_char": 42,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "First",
+                "start_char": 67,
+                "end_char": 72,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the 831th Tactical Air Brigade",
+                "start_char": 107,
+                "end_char": 137,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Facebook",
+                "start_char": 250,
+                "end_char": 258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Order of Courage",
+                "start_char": 339,
+                "end_char": 359,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "dozens",
+                "start_char": 375,
+                "end_char": 381,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russia",
+                "start_char": 397,
+                "end_char": 403,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 433,
+                "end_char": 440,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Reproduction reserved © Copyright",
+                "start_char": 448,
+                "end_char": 481,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    }
+]
