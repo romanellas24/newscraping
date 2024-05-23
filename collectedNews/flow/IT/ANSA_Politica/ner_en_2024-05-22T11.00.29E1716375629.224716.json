@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Fonti Forza Italia, noi da sempre contro il redditometro",
+        "date_raw": "Tue, 21 May 2024 14:56:06 +0200",
+        "date": "2024-05-21",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/05/21/fonti-forza-italia-noi-da-sempre-contro-il-redditometro_90b0bc25-7ab0-4e46-a204-07e9c6aed8d4.html",
+        "subtitle": "Stiamo verificando con il governo cosa è successo",
+        "content": "\n                                                \n            \"Forza Italia è sempre stata contro\nil redditometro\". E' quanto rispondono fonti del partito\ninterpellate sul possibile utilizzo del redditometro. Tra gli\nazzurri trapela perplessità sulla misura e i dirigenti azzurri,\na quanto si apprende, stanno verificando cosa sia successo con\nil governo per capire il motivo di questa misura. Misura che,\nspiegano le stesse fonti, \"confliggerebbe con il provvedimento\ndel concordato preventivo contenuto nella delega fiscale\".\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Politica",
+        "epoch": 1716368430.1395383,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-22 11:00:30",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-22T11.00.30",
+        "en_title": "Sources Forza Italia, we always against the income meter",
+        "en_content": "\"Forza Italia has always been against\nThe income meter.\" That's what party sources say.\nAsked about the possible use of the income meter. Between\nblue trap perplexity on measure and blue leaders,\nto how much you learn, they are checking what happened with\nthe government to understand the reason for this measure. Measure that,\nexplain the same sources, \"will conflict with the measure\nof the agreed estimate contained in the tax delegation\".\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "We're checking with the government what happened",
+        "title_NER": [
+            {
+                "word": "Sources Forza Italia",
+                "start_char": 0,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Forza Italia",
+                "start_char": 1,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Governo pone la fiducia sul dl superbonus alla Camera",
+        "date_raw": "Tue, 21 May 2024 17:53:22 +0200",
+        "date": "2024-05-21",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/05/21/governo-pone-la-fiducia-sul-dl-superbonus-alla-camera_ee0dc7b5-ffea-4efb-b502-61bee27b0676.html",
+        "subtitle": "Il voto si terrà domani",
+        "content": "\n                                                \n            Il governo, con il ministro per i\nRapporti con il Parlamento Luca Ciriani, ha posto la questione\ndi fiducia sul decreto superbonus in Aula alla Camera. Il voto\nsi terrà domani. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1716368430.2357824,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-22 11:00:30",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-22T11.00.30",
+        "en_title": "Government places confidence on dl superbonus at the Chamber",
+        "en_content": "The government, with the minister for\nRelations with the Parliament Luca Ciriani, has placed the question\nof confidence on the decree superbonus in the Room. The vote\nIt will be held tomorrow.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "The vote will be held tomorrow",
+        "title_NER": [
+            {
+                "word": "Chamber",
+                "start_char": 53,
+                "end_char": 60,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "tomorrow",
+                "start_char": 22,
+                "end_char": 30,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Parliament",
+                "start_char": 57,
+                "end_char": 67,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Luca Ciriani",
+                "start_char": 68,
+                "end_char": 80,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 183,
+                "end_char": 191,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    }
+]
