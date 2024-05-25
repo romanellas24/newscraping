@@ -1,0 +1,2401 @@
+[
+    {
+        "title": "È morta la donna di 81 anni raggiunta ieri da un colpo di pistola a Roma",
+        "date_raw": "Fri, 24 May 2024 17:20:30 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/morta-donna-anziana-ferita-da-colpo-pistola-a-roma-26510779/",
+        "subtitle": "",
+        "content": "AGI - Non ce l'ha fatta la donna di 81 anni, originaria di Reggio Calabria, rimasta vittima di un agguato avvenuto ieri pomeriggio a Roma sulla via Prenestina quando il conducente di Fiat 500 rossa ha affiancato un'altra vettura e ha fatto esplodere alcuni colpi di pistola, prima di dileguarsi. A bordo dell'auto c'era proprio l'anziana, ricoverata in gravissime condizioni al Policlinico Umberto I. Indenne la donna di 54 anni che era con lei. Del caso si sta occupando la Squadra Mobile. Sul luogo dell'agguato la polizia scientifica ha recuperato ben 5 bossoli. Le indagini, a quanto si è appreso, si sono concentrate sull'ipotesi di una sparatoria tra sinti. \n&nbsp; \nI poliziotti della Squadra Mobile di Roma, coordinati dalla Direzione Distrettuale Antimafia, stanno procedendo al fermo di indiziato di delitto a carico di un 28enne italiano gravemente indiziato di aver esploso ieri, in via della Riserva Nuova, il proiettile che per errore ha colpito la donna.&nbsp;",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0231369,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "The 81-year-old woman arrived yesterday from a gunshot in Rome",
+        "en_content": "AGI - There was no 81-year-old woman from Reggio Calabria, who remained victim of an ambush yesterday afternoon in Rome on the Via Prenestina when the driver of Fiat 500 red sided with another car and exploded a few gunshots before unsuccessful. On board the car was the old woman, admitted in very serious conditions to the Umberto I Polyclinic. She denies the 54-year-old woman she was with her. This is the case of the Mobile Team. On the site of the attack the scientific police recovered 5 casings. The investigations, as they learned, focused on the hypothesis of a sinti shooting.\n&nbsp;\nThe police officers of the Mobile Team of Rome, coordinated by the Anti-Mafia District Direction, are proceeding to the arrest of suspected crime at the expense of a 28-year-old Italian seriously suspected of having exploded yesterday, in via della Riserva Nuova, the bullet that accidentally hit the woman.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "81-year-old",
+                "start_char": 4,
+                "end_char": 15,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 30,
+                "end_char": 39,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 58,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "81-year-old",
+                "start_char": 19,
+                "end_char": 30,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Reggio Calabria",
+                "start_char": 42,
+                "end_char": 57,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 92,
+                "end_char": 101,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 102,
+                "end_char": 111,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Rome",
+                "start_char": 115,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Via Prenestina",
+                "start_char": 123,
+                "end_char": 141,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Fiat",
+                "start_char": 161,
+                "end_char": 165,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "500",
+                "start_char": 166,
+                "end_char": 169,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the Umberto I Polyclinic",
+                "start_char": 321,
+                "end_char": 345,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "54-year-old",
+                "start_char": 362,
+                "end_char": 373,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Mobile Team",
+                "start_char": 418,
+                "end_char": 433,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "5",
+                "start_char": 493,
+                "end_char": 494,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Mobile Team",
+                "start_char": 618,
+                "end_char": 633,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Anti-Mafia District Direction",
+                "start_char": 658,
+                "end_char": 691,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "28-year-old",
+                "start_char": 761,
+                "end_char": 772,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italian",
+                "start_char": 773,
+                "end_char": 780,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 820,
+                "end_char": 829,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "della Riserva Nuova",
+                "start_char": 838,
+                "end_char": 857,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Durante gli scavi a Piazza Pia è stato trovato uno scheletro",
+        "date_raw": "Fri, 24 May 2024 15:45:57 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/trovato-scheletro-scavi-piazza-pia-roma-26516449/",
+        "subtitle": "",
+        "content": "AGI - Macabra scoperta da parte degli operai che lavorano allo scavo di Piazza Pia, l'opera simbolo del Giubileo a pochi metri da San Pietro: uno scheletro umano è stato trovato pochi metri sotto la sede stradale. Si dovrebbe trattare, spiegano dalla Soprintendenza archeologica statale che è intervenuta sul posto, di uno scheletro risalente al secolo XVII-XVIII di una persona probabilmente del popolo. \n&nbsp; \nSeppure in passato in quell'area esistesse una cappella, sembra improbabile che fosse uno scheletro seppellito lì in quanto trovato privo di qualsiasi addobbo funebre. Informazioni in più sullo scheletro, datazione della morte e sesso, saranno fornite dagli esami autoptici e strumentali. Malgrado il ritrovamento, i lavori sono proseguiti senza interruzioni.&nbsp;",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0231767,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "During the excavations in Piazza Pia was found a skeleton",
+        "en_content": "AGI - Macabre discovered by the workers working at the excavation of Piazza Pia, the work symbol of the Jubilee a few meters from St. Peter: a human skeleton was found a few meters under the road. It should be treated, explaining by the State Archaeological Superintendency that intervened on the spot, of a skeleton dating back to the 17th-XVIII century of a person probably of the people.\n&nbsp;\nEven in the past there was a chapel in that area, it seems unlikely that it was a skeleton buried there as found devoid of any fungi. More information on the skeleton, dating of death and sex, will be provided by autopsy and instrumental examinations. Despite the finding, the work continued without interruption. &nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Piazza Pia",
+                "start_char": 26,
+                "end_char": 36,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Piazza Pia",
+                "start_char": 69,
+                "end_char": 79,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "St. Peter",
+                "start_char": 130,
+                "end_char": 139,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a few meters",
+                "start_char": 168,
+                "end_char": 180,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "17th-XVIII century",
+                "start_char": 336,
+                "end_char": 354,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Alunni stranieri, mobilità e sostegno: come cambia la scuola",
+        "date_raw": "Fri, 24 May 2024 15:33:30 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/scuola-approvato-decreto-sostegno-mobilita-alunni-stranieri-26514722/",
+        "subtitle": "",
+        "content": "AGI - Integrazione degli alunni stranieri e rafforzamento del sostegno ai ragazzi con disabilità. Ma anche risoluzione del contenzioso sui titoli esteri, valutazione dei dirigenti scolastici e una norma transitoria che riguarda la mobilità sempre dei dirigenti. Sono alcuni dei punti chiave del decreto legge sulla scuola approvato in Consiglio dei ministri. Queste le misure spiegate in un comunicato del ministero dell'Istruzione. \n<h2>Integrazione degli studenti stranieri</h2> \nSi tratta della prima azione, assunta nel nostro sistema di istruzione, che prevede interventi mirati a beneficio della reale integrazione degli alunni stranieri>, attraverso attività di potenziamento> concretamente messe a disposizione delle scuole. Le misure sono rivolte, infatti, a quegli alunni stranieri che, soprattutto se neoarrivati in Italia>, non possiedono un adeguato livello di conoscenza della lingua italiana come lingua di comunicazione e (conseguentemente) di studio, e che mantengono gravi deficit di conoscenza della lingua nel percorso successivo. Basti pensare che il tasso di dispersione scolastica per questi studenti stranieri si attesta, infatti, a oltre il 30% a fronte di una dispersione degli studenti italiani pari ad appena il 9,8%. Per queste ragioni, si prevede, da una parte, la possibilità per le scuole - già per il prossimo anno scolastico - di accedere a specifici progetti Pon> volti ad assicurare il potenziamento dell'apprendimento della lingua italiana; dall'altra, di avviare un percorso che porterà, attraverso la rimodulazione degli organici, a introdurre, per le classi con un numero di studenti stranieri neoarrivati in Italia, e con deficit nella lingua, pari o superiore al 20%, un docente con una formazione ad hoc. \n<h2>Sostegno didattico agli alunni con disabilità</h2> \nIl decreto legge contiene un 'pacchetto' di misure rivolte ad assicurare un'assistenza sempre più qualificata dei docenti di sostegno >agli alunni con disabilità, favorendo, al contempo, la continuità didattica a beneficio degli alunni stessi. \n<h2>Nuovi percorsi di specializzazione per i docenti precari di sostegno</h2> \nPer far fronte alla cronica carenza di docenti specializzati sul sostegno, si interviene introducendo, in aggiunta all'offerta formativa delle università, >una nuova offerta formativa di specializzazione sul sostegno, erogata da Indire (ente pubblico di ricerca già deputato alla formazione del personale della scuola), rivolta ai docenti precari, che da anni già svolgono questo ruolo, per quanto privi di specializzazione. L'intervento, di natura transitoria ed eccezionale, si rivolge a una platea di circa 85mila docenti che l'attuale sistema di specializzazione non è riuscito a intercettare. \n<h2>Risoluzione del contenzioso sui titoli esteri</h2> \nNell'ambito di questa misura si interviene anche al fine di favorire la risoluzione del contenzioso collegato al mancato riconoscimento dei titoli di specializzazione sul sostegno conseguiti all'estero>. Si prevede, infatti, che i circa 11mila soggetti con istanza di riconoscimento o contenzioso pendente possano accedere a percorsi di specializzazione 'ad hoc', sempre erogati da Indire. \n<h2>Continuità didattica agli alunni con disabilità</h2> \nAl fine di garantire la continuità dei docenti a tempo determinato su posto di sostegno, si prevede la possibilità, su richiesta della famiglia dell'alunno con disabilità, di ottenere la conferma del docente in servizio nel precedente anno scolastico,> previa valutazione da parte del dirigente scolastico e nell'interesse del discente. La conferma viene disposta prioritariamente nei confronti dei docenti in possesso dello specifico titolo di specializzazione per l'insegnamento agli alunni con disabilità. \n<h2>Valutazione dei dirigenti scolastici</h2> \nViene introdotto un nuovo modello di valutazione per i dirigenti scolastici in grado di misurare la loro attività sulla base di parametri di merito. L'intervento si inserisce nel solco di una stagione di importante valorizzazione, anche economica, del ruolo di dirigente scolastico>, al quale corrisponde un conseguente adeguamento dei relativi sistemi di valutazione, secondo i modelli più virtuosi indicati per tutto il comparto pubblico. Con la disposizione proposta si garantisce un'oggettiva e trasparente valutazione delle performance individuali sulla base di obiettivi definiti e misurabili, consentendo il riconoscimento della retribuzione di risultato in base al raggiungimento degli obiettivi assegnati. Il nuovo modello di valutazione sarà contenuto in un decreto del ministro, da adottarsi con il doveroso coinvolgimento dei sindacati. \n<h2>Ulteriori misure di urgenza in ambito scolastico</h2> \nSi introduce una norma transitoria, valevole solo per il prossimo anno scolastico, per regolare la mobilita' dei dirigenti scolastici, nelle more dell'entrata in vigore del Ccnl appena siglato, prevedendo di innalzare al massimo (100%) la percentuale di posti disponibili a beneficio della mobilità dei dirigenti attualmente nei ruoli.&nbsp;",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0232043,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "Foreign pupils, mobility and support: how school changes",
+        "en_content": "AGI - Integration of foreign students and strengthening support for children with disabilities. But also resolution on foreign litigation, evaluation of school managers and a transitional rule concerning the mobility of managers. They are some of the key points of the law decree on the school approved in the Council of Ministers. These are the measures explained in a statement by the Ministry of Education.\n<h2>Integration of foreign students\nThis is the first action, taken in our education system, which provides for interventions aimed at the benefit of the real integration of foreign pupils >, through activities of strengthening concretely made available to schools. The measures are directed, in fact, to those foreign pupils who, especially if new in Italy >, do not have an adequate level of knowledge of the Italian language as a language of communication and (consequently) of study, and who maintain serious deficiency of knowledge of the language in the next path. Just think that the school dispersion rate for these foreign students is, in fact, at more than 30% in the face of a dispersion of Italian students equal to just 9.8%. For these reasons, it is expected, on the one hand, the possibility for schools - already for the next school year - to access specific Pon> projects aimed at ensuring the strengthening of the learning of the Italian language; on the other, to start a path that will lead, through the remodulation of the staff, to introduce, for the classes with a number of foreign students neo-arrived in Italy, and with deficit in the language, pairs or greater than 20%, a teacher with an ad hoc training.\nEducational support for pupils with disabilities\nThe law decree contains a 'package' of measures aimed at ensuring an ever more qualified assistance of support teachers > to pupils with disabilities, while at the same time promoting teaching continuity for the benefit of pupils themselves.\n<h2>New specialization paths for precarious support teachers\nIn order to cope with the chronic shortage of specialised teachers on support, it intervenes by introducing, in addition to the educational offer of universities, a new educational offer of specialization on support, provided by Indire (public research agency already deputy to the training of the staff of the school), aimed at precarious teachers, who for years already play this role, however devoid of specialization. The intervention, of a transitory and exceptional nature, is aimed at an audience of about 85 thousand teachers that the current system of specialization failed to intercept.\n<h2> Resolving litigation on foreign securities\nIn the context of this measure, it also intervenes in order to facilitate the resolution of the litigation linked to the lack of recognition of specialization titles on the support achieved abroad.' It is expected, in fact, that the approximately 11 thousand subjects with instance of recognition or litigation pending can access to specialization paths 'ad hoc', always provided by Indire.\n<h2> Educational continuity for pupils with disabilities\nIn order to ensure the continuity of teachers at a given time on a supporting position, the possibility is envisaged, at the request of the family of the pupil with disabilities, to obtain confirmation of the teacher in service in the previous school year, > after evaluation by the school manager and in the interest of the learner. Confirmation is given priority to teachers who have the specific qualification of specialization for teaching pupils with disabilities.\n<h2> Evaluation of school managers\nA new evaluation model for school managers is introduced to measure their activity based on merit parameters. The intervention is part of a season of important valorisation, also economic, of the role of school manager, to which corresponds a consequent adaptation of the relative evaluation systems, according to the most virtuous models indicated for the whole public sector. The proposed provision guarantees an objective and transparent assessment of individual performance based on defined and measurable objectives, allowing the recognition of the result pay based on the achievement of the objectives assigned. The new model of evaluation will be contained in a decree of the minister, to be adopted with the necessary involvement of the unions.\n<h2> Further urgent measures in the school sector\nIt introduces a transitional rule, valid only for the next school year, to regulate the mobility of school managers, in the more than the entry into force of the newly signed Ccnl, previewing to increase to the maximum (100%) the percentage of places available for the benefit of the mobility of managers currently in the roles.&nbsp;",
+        "en_subtitle": "",
+        "content_NER": [
+            {
+                "word": "AGI - Integration",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 306,
+                "end_char": 330,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Ministry of Education",
+                "start_char": 383,
+                "end_char": 408,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 458,
+                "end_char": 463,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 762,
+                "end_char": 767,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 821,
+                "end_char": 828,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "more than 30%",
+                "start_char": 1067,
+                "end_char": 1080,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Italian",
+                "start_char": 1112,
+                "end_char": 1119,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "just 9.8%",
+                "start_char": 1138,
+                "end_char": 1147,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the next school year",
+                "start_char": 1243,
+                "end_char": 1263,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pon",
+                "start_char": 1285,
+                "end_char": 1288,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1358,
+                "end_char": 1365,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1540,
+                "end_char": 1545,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "greater than 20%",
+                "start_char": 1590,
+                "end_char": 1606,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "years",
+                "start_char": 2353,
+                "end_char": 2358,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "about 85 thousand",
+                "start_char": 2502,
+                "end_char": 2519,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the previous school year",
+                "start_char": 3319,
+                "end_char": 3343,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the next school year",
+                "start_char": 4446,
+                "end_char": 4466,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ccnl",
+                "start_char": 4571,
+                "end_char": 4575,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "100%",
+                "start_char": 4616,
+                "end_char": 4620,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "Ultimo weekend maggio con piogge e acquazzoni",
+        "date_raw": "Fri, 24 May 2024 11:14:01 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/ultimo-weekend-maggio-instabilita-26512006/",
+        "subtitle": "",
+        "content": "AGI - L'ultimo weekend di maggio regala all'Italia condizioni di instabilità sul Mediterraneo centrale. Secondo le previsioni del Centro Meteo Italiano, la giornata di Sabato vedrà nuvolosità in transito con piogge e acquazzoni sparsi su gran parte della Penisola, fenomeni in movimento da Nord verso Sud. Lieve calo delle temperature con valori in media o localmente poco al di sotto nei prossimi giorni. La parte finale del mese si caratterizza da un elevato rischio instabilità. Alcuni modelli ipotizzano addirittura il transito di un'altra goccia fredda entro metà della prossima settimana che porterebbe certamente precipitazioni sparse anche a carattere di temporale. \n&nbsp; \nEcco le previsioni per oggi:> \n&nbsp; \nAl Nord>: Al mattino locali piovaschi tra Lombardia e Triveneto, variabilità asciutta altrove. Al pomeriggio instabilità in aumento con acquazzoni e temporali sparsi, piu' asciutto tra Romagna, pianure venete e coste del Friuli. In serata tempo in miglioramento ma con residui fenomeni specie al Nord-Ovest. \n&nbsp; \nAl Centro>: Al mattino tempo stabile con cieli sereni o poco nuvolosi. Al pomeriggio non sono attese variazioni di rilievo con temporali e cieli soleggiati, maggiori addensamenti nelle zone interne. In serata si rinnovano condizioni di tempo stabile con prevalenza di cieli sereni o poco nuvolosi. \n&nbsp; \nAl sud e sulle Isole>: Al mattino molte nubi sulla Sardegna ma con tempo asciutto, sole prevalente sulle altre regioni. Al pomeriggio poche variazioni con nuvolosità alternata a schiarite, locali piogge sulla Sardegna. In serata piogge sparse in arrivo sulla Sardegna, asciutto altrove con nuvolosità in aumento. Temperature minime stabili o in lieve calo sulle regioni peninsulari e in rialzo sulle Isole Maggiori, massime in generale aumento su tutta l'Italia. \n&nbsp; \nEd ecco le previsioni di domani:> \n&nbsp; \nAl Nord>: al mattino tempo instabile con cieli a tratti coperti e piogge sparse su tutte le regioni. Al pomeriggio ancora instabilità con acquazzoni e temporali diffusi, piu' intensi sull'Emilia Romagna. In serata tempo in miglioramento ma con residui fenomeni. Ampie schiarite nella notte su tutti i settori. \n&nbsp; \nAl Centro:> al mattino cieli poco o irregolarmente nuvolosi sulle regioni centrali, con piogge sparse sui versanti Tirrenici. Al pomeriggio instabilità in aumento con acquazzoni e temporali da sparsi a diffusi. In serata si rinnovano condizioni di maltempo con residue piogge su Umbria, Marche e Abruzzo. Migliora nella notte, con cieli sereni o poco nuvolosi. \n&nbsp; \nAl Sud e sulle Isole>: al mattino nuvolosità irregolare in transito con locali piogge, piu' asciutto sulle regioni ioniche. Al pomeriggio instabilità in aumento con acquazzoni e temporali sparsi, fenomeni piu' sporadici sulla Sardegna. In serata e in nottata ancora instabilità con piogge sparse sulle regioni peninsulari, ampie schiarite sulle Isole Maggiori. Temperature minime e massime stabili o in rialzo. \n&nbsp; \nPer domenica si prevede:> \n&nbsp; \nAl Nord>: condizioni di tempo stabile sulle regioni del Nord con cieli sereni o poco nuvolosi per gran parte della giornata, da segnalare solo locali acquazzoni pomeridiani sulle Alpi. In serata e nottata si rinnovano condizioni di tempo asciutto con nuvolosità e schiarite. \n&nbsp; \nAl Centro>: tempo asciutto sulle regioni del Centro per gran parte della giornata con cieli sereni o poco nuvolosi. Isolati acquazzoni possibili nel pomeriggio sull'Appennino centrale. In serata e nottata tempo stabile e ampie schiarite ovunque. \n&nbsp; \nAl Sud e Sulle Isole>: tempo stabile al mattino al Sud con cieli sereni o poco nuvolosi. Instabilità in aumento nel pomeriggio con possibilità di piogge e temporali sparsi sui settori interni Peninsulari, piu' asciutto invece sulle Isole Maggiori. Migliora ovunque in serata. Temperature minime in generale diminuzione, massime in aumento al Centro-Nord e in calo al Sud.&nbsp;",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0232275,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "Last weekend May with rains and showers",
+        "en_content": "AGI - The last weekend of May gives Italy conditions of instability on the central Mediterranean. According to the forecasts of the Italian Meteo Centre, the day of Saturday will see clouds in transit with rains and showers scattered on much of the Peninsula, phenomena moving from North to South. A slight drop in temperatures with average or local values slightly below in the next few days. The final part of the month is characterized by a high risk of instability. Some models even hypothesize the transit of another cold drop by the middle of the next week which would certainly lead to rainfall spread even in a temporal character.\n&nbsp;\nHere are the forecasts for today:>\n&nbsp;\nTo the North? In the morning local rainy between Lombardy and Triveneto, dry variability elsewhere. In the afternoon increasing instability with showers and thunderstorms, dryer between Romagna, Veneto plains and coast of Friuli. In the evening time improving but with residual phenomena especially in the North-West.\n&nbsp;\nTo the Centre? In the morning stable time with serene or little cloudy skies. In the afternoon no significant changes are expected with thunderstorms and sunny skies, greater compensation in the interior areas. In the evening we renew stable conditions with prevalence of serene or unmarried skies.\n&nbsp;\nTo the south and to the islands? In the morning many clouds on Sardinia but with dry weather, sun prevailing on the other regions. In the afternoon few variations with alternating cloudyness, local rains on Sardinia. In the evening rains spread in arrival on Sardinia, dry elsewhere with cloudy rising. Minimum temperatures stable or in a slight decrease on the peninsular regions and rising on the Major Islands, maximum in general increase throughout Italy.\n&nbsp;\nAnd here are the forecasts of tomorrow:>\n&nbsp;\nIn the North >: in the morning time unstable with skies covered and rains spread over all regions. In the afternoon still instability with diffused showers and storms, more intense on Emilia Romagna. In the evening time improving but with residual phenomena. Wide clearing in the night on all sectors.\n&nbsp;\nAt the Centre:> in the morning skies little or irregularly cloudy on the central regions, with rains scattered on the Tirrenic slopes. In the afternoon increasing instability with showers and storms to spread. In the evening we renew conditions of bad weather with residual rains on Umbria, Marche and Abruzzo. It improves in the night, with calm or unmarried skies.\n&nbsp;\nIn the south and on the islands >: in the morning irregular clouds in transit with local rains, dry on the Ionian regions. In the afternoon increasing instability with showers and thunderstorms, more sporadic phenomena on Sardinia. In the evening and in the night still instability with rains scattered on the peninsular regions, wide lighters on the Major Islands. Minimum and maximum temperatures stable or in rise.\n&nbsp;\nFor Sunday it is expected:>\n&nbsp;\nNorth >: stable weather conditions on the northern regions with serene or unmarried skies for most of the day, to be reported only local afternoon water in the Alps. In the evening and night, dry weather conditions are renewed with cloudyness and lightening.\n&nbsp;\nAt the Centre>: dry time on the regions of the Centre for most of the day with serene or unmarried skies. Isolated possible showers in the afternoon on the central Apennines. In the evening and night stable time and wide clearing everywhere.\n&nbsp;\nSouth and On the Islands >: stable weather in the morning in the South with serene or unmarried skies. Increased instability in the afternoon with possibility of rain and storms spread over the Peninsular internal sectors, dryer instead on the Major Islands. It improves everywhere in the evening. Minimum temperatures in general decrease, maximum in increase to the Centre-Nord and in decrease to the South.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Last weekend",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "May",
+                "start_char": 13,
+                "end_char": 16,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The last weekend of May",
+                "start_char": 6,
+                "end_char": 29,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mediterranean",
+                "start_char": 83,
+                "end_char": 96,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Italian Meteo Centre",
+                "start_char": 128,
+                "end_char": 152,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the day of Saturday",
+                "start_char": 154,
+                "end_char": 173,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Peninsula",
+                "start_char": 249,
+                "end_char": 258,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "North to South",
+                "start_char": 282,
+                "end_char": 296,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the next few days",
+                "start_char": 375,
+                "end_char": 392,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the month",
+                "start_char": 412,
+                "end_char": 421,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the middle of the next week",
+                "start_char": 535,
+                "end_char": 562,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 673,
+                "end_char": 678,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "North",
+                "start_char": 695,
+                "end_char": 700,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Lombardy",
+                "start_char": 737,
+                "end_char": 745,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Triveneto",
+                "start_char": 750,
+                "end_char": 759,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 795,
+                "end_char": 804,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Romagna",
+                "start_char": 874,
+                "end_char": 881,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Veneto",
+                "start_char": 883,
+                "end_char": 889,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Friuli",
+                "start_char": 910,
+                "end_char": 916,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "evening",
+                "start_char": 925,
+                "end_char": 932,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the North-West",
+                "start_char": 990,
+                "end_char": 1004,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the morning",
+                "start_char": 1031,
+                "end_char": 1042,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1098,
+                "end_char": 1107,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the morning",
+                "start_char": 1355,
+                "end_char": 1366,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 1382,
+                "end_char": 1390,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 1453,
+                "end_char": 1466,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "cloudyness",
+                "start_char": 1499,
+                "end_char": 1509,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 1526,
+                "end_char": 1534,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "evening",
+                "start_char": 1543,
+                "end_char": 1550,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 1578,
+                "end_char": 1586,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Major Islands",
+                "start_char": 1714,
+                "end_char": 1731,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1772,
+                "end_char": 1777,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 1816,
+                "end_char": 1824,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "morning",
+                "start_char": 1857,
+                "end_char": 1864,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1940,
+                "end_char": 1949,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Emilia Romagna",
+                "start_char": 2018,
+                "end_char": 2032,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "evening",
+                "start_char": 2041,
+                "end_char": 2048,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the night",
+                "start_char": 2110,
+                "end_char": 2119,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Centre:>",
+                "start_char": 2146,
+                "end_char": 2158,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Tirrenic",
+                "start_char": 2261,
+                "end_char": 2269,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "afternoon",
+                "start_char": 2285,
+                "end_char": 2294,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Umbria",
+                "start_char": 2426,
+                "end_char": 2432,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marche",
+                "start_char": 2434,
+                "end_char": 2440,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Abruzzo",
+                "start_char": 2445,
+                "end_char": 2452,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the night",
+                "start_char": 2469,
+                "end_char": 2478,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the morning",
+                "start_char": 2555,
+                "end_char": 2566,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Ionian",
+                "start_char": 2624,
+                "end_char": 2630,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 2647,
+                "end_char": 2656,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 2739,
+                "end_char": 2747,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Major Islands",
+                "start_char": 2864,
+                "end_char": 2881,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 2946,
+                "end_char": 2952,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the day",
+                "start_char": 3079,
+                "end_char": 3086,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 3114,
+                "end_char": 3123,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Alps",
+                "start_char": 3137,
+                "end_char": 3141,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the evening and night",
+                "start_char": 3146,
+                "end_char": 3167,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "cloudyness",
+                "start_char": 3209,
+                "end_char": 3219,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Centre>",
+                "start_char": 3246,
+                "end_char": 3257,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the day",
+                "start_char": 3309,
+                "end_char": 3316,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Apennines",
+                "start_char": 3407,
+                "end_char": 3416,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the evening",
+                "start_char": 3421,
+                "end_char": 3432,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "South",
+                "start_char": 3492,
+                "end_char": 3497,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "South",
+                "start_char": 3557,
+                "end_char": 3562,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 3624,
+                "end_char": 3633,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Peninsular",
+                "start_char": 3686,
+                "end_char": 3696,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Major Islands",
+                "start_char": 3732,
+                "end_char": 3749,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Centre-Nord",
+                "start_char": 3855,
+                "end_char": 3870,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "L'influencer Siu è uscita dal coma, \"si è ripresa e parla\"",
+        "date_raw": "Fri, 24 May 2024 10:45:25 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/influencer-siu-coma-versione-marito-26509501/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Soukaina El Basri, la giovane influencer biellese di origine marocchina ricoverata all'ospedale di Novara a seguito di una profonda ferita al petto, è uscita questa mattina dallo stato di coma. Lo conferma l'Ospedale. La giovane si è ripresa e parla. Rimane per cautela ricoverata in rianimazione e la prognosi è ancora riservata, ma l'evoluzione della situazione sembra positiva&nbsp; \n&nbsp; \nSarà la legale biellese Alessandra Guarini ad assistere Siu. Lo conferma all'Agi la stessa avvocata, che ha già formalizzato l'incarico da parte di alcuni fratelli, di una sorella e del papà di \"Siu\". \"Tra oggi e domani - spiega l'avvocato Guarini - formalizzeremo la nomina anche della mamma. Tecnicamente non ho ancora la nomina della signora perché è in coma farmacologico e quindi questo richiede un passaggio ulteriore che farò spero a breve\". \n<h2>Guarini, l'ex avvocato di Fede</h2> \nAlessandra Guarini è un legale molto noto anche su scala nazionale: è stata legale di parte civile in casi come il naufragio della Costa Concordia all'Isola del Giglio, la valanga di Rigopiano o la strage del treno merci a Viareggio. Ha difeso Emilio Fede, ex direttore del Tg4, nel processo Ruby-bis. E di recente è tornata sotto i riflettori come difensore di Dimitri Fricano, l'uomo condannato a 30 anni per aver ucciso a coltellate la fidanzata Erika Preti, per il quale ha ottenuto la scarcerazione e il passaggio ai domiciliari per motivi di salute.&nbsp; \n&nbsp; \n<h2>Le versioni del marito</h2> \nDopo aver raccontato che la ferita al petto della moglie sarebbe stata provocata \"dall'angolo di un mobile sul quale la stessa sarebbe scivolata\", Jonathan Maldonato, già denunciato dalla moglie per maltrattamenti nel maggio 2023, con una querela poi rimessa, ha cercato di avvalorare la tesi del gesto autolesionistico. Lo ha confermato la procura di Biella. \n<div></div> \n\"Nella notte del 16 maggio - spiega la Procura in una nota - veniva eseguito un primo sopralluogo presso la residenza della coppia dal pm di turno con la Squadra mobile e la Polizia scientifica di Biella\". L'immobile è stato posto sotto sequestro e il coniuge della 30enne iscritto nel registro degli indagati. Interrogato, l'uomo avrebbe ribadito che la donna \"si sarebbe provocata in modo autonomo la ferita toracica\" indicando la presumibile arma con la quale El Basri si sarebbe colpita. \n&nbsp;",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0232487,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "The fluencer Siu came out of the coma, \"she recovered and speaks\"",
+        "en_content": "AGI -&nbsp;Soukaina El Basri, the young Belarusian influencer of Moroccan origin admitted to the hospital of Novara following a deep chest wound, came out this morning from the state of coma. The hospital confirms that. The young man has recovered and speaks. It remains for caution admitted in reanimation and the prognosis is still reserved, but the evolution of the situation seems positive &nbsp;\n&nbsp;\nIt will be the biellese lawyer Alessandra Guarini to assist Siu. The Agi confirms the same rash, which has already formalized the assignment by some brothers, a sister and father of \"Siu\". \"Today and tomorrow - lawyer Guarini explains - we will formalize the appointment also of the mother. Technically, I don't have the lady's appointment because she's in a pharmacological coma and so this requires a further step that I will hope shortly.\"\n<h2>Guarini, the former lawyer of Fede</h2>\nAlessandra Guarini is a well-known lawyer on a national scale: was legal of civil part in cases such as the shipwreck of the Costa Concordia on the Island of Giglio, the avalanche of Rigopiano or the massacre of the train goods in Viareggio. He defended Emilio Fede, former director of the Tg4, in the Ruby-bis process. And recently she returned to the spotlight as a defender of Dimitri Fricano, the man sentenced to 30 years for killing her fiancée Erika Preti, for which she obtained scarceness and passage to domiciles for health reasons.&nbsp;\n&nbsp;\n<h2>The versions of the husband\nAfter telling that the wound to the chest of his wife would be provoked \"from the corner of a mobile on which the same would have slipped\", Jonathan Maldonato, already denounced by his wife for mistreatment in May 2023, with a complaint then remitted, tried to poison the thesis of the autolesionistic gesture. Biella's attorney confirmed it.\n<div </div\n\"In the night of May 16 - the Procura explains in a note - a first inspection was performed at the residence of the couple from the pm in turn with the Mobile Team and the Scientific Police of Biella\". The property was placed under seizure and the spouse of the 30-year-old enrolled in the register of the investigations. Asked, the man would have reiterated that the woman \"would be provoked independently the chest wound\" indicating the alleged weapon with which El Basri would have hit.\n&nbsp;",
+        "en_subtitle": "",
+        "content_NER": [
+            {
+                "word": "El Basri",
+                "start_char": 20,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Belarusian",
+                "start_char": 40,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Moroccan",
+                "start_char": 65,
+                "end_char": 73,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Novara",
+                "start_char": 109,
+                "end_char": 115,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "this morning",
+                "start_char": 155,
+                "end_char": 167,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "biellese",
+                "start_char": 423,
+                "end_char": 431,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alessandra Guarini",
+                "start_char": 439,
+                "end_char": 457,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Siu",
+                "start_char": 468,
+                "end_char": 471,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Siu",
+                "start_char": 591,
+                "end_char": 594,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Today",
+                "start_char": 598,
+                "end_char": 603,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 608,
+                "end_char": 616,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Guarini",
+                "start_char": 626,
+                "end_char": 633,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Guarini",
+                "start_char": 855,
+                "end_char": 862,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alessandra Guarini",
+                "start_char": 895,
+                "end_char": 913,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Costa Concordia",
+                "start_char": 1016,
+                "end_char": 1035,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Island of Giglio",
+                "start_char": 1039,
+                "end_char": 1059,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Rigopiano",
+                "start_char": 1078,
+                "end_char": 1087,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Viareggio",
+                "start_char": 1126,
+                "end_char": 1135,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Emilio Fede",
+                "start_char": 1149,
+                "end_char": 1160,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ruby-bis",
+                "start_char": 1197,
+                "end_char": 1205,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dimitri Fricano",
+                "start_char": 1275,
+                "end_char": 1290,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "30 years",
+                "start_char": 1313,
+                "end_char": 1321,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erika Preti",
+                "start_char": 1346,
+                "end_char": 1357,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Jonathan Maldonato",
+                "start_char": 1623,
+                "end_char": 1641,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "May 2023",
+                "start_char": 1693,
+                "end_char": 1701,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "autolesionistic",
+                "start_char": 1769,
+                "end_char": 1784,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Biella",
+                "start_char": 1794,
+                "end_char": 1800,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the night of",
+                "start_char": 1841,
+                "end_char": 1853,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Procura",
+                "start_char": 1867,
+                "end_char": 1874,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 1898,
+                "end_char": 1903,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Mobile Team",
+                "start_char": 1985,
+                "end_char": 2000,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Scientific Police of Biella",
+                "start_char": 2005,
+                "end_char": 2036,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "30-year-old",
+                "start_char": 2099,
+                "end_char": 2110,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "El Basri",
+                "start_char": 2302,
+                "end_char": 2310,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Morto il rettore della Cattolica Anelli, è suicidio. Indaga la procura",
+        "date_raw": "Fri, 24 May 2024 09:23:44 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/universita-cattolica-morto-franco-anelli-26508469/",
+        "subtitle": "",
+        "content": "AGI - Il rettore dell'Università Cattolica Franco Anelli è stato trovato morto> giovedì sera 23 maggio nel cortile interno del palazzo in cui abitava in centro a Milano. Il giurista e avvocato di 60 anni si è suicidato> lanciandosi dal sesto piano del palazzo in cui abitava. L'allarme è scattato intorno alle 22.30 e sul posto sono arrivati i soccorritori del 118 che hanno potuto solo dichiarare il decesso. Anelli era in carica alla guida dell'ateneo con sedi a Milano, Roma, Brescia, Cremona e Piacenza dal 2013 e sarebbe scaduto a fine ottobre. \n&nbsp; \nLa procura di Milano aprira' un fascicolo >sulla sua morte, un passaggio tecnico per svolgere tutti gli accertamenti del caso, tra cui l'autopsia. Il gesto di Anelli, tuttavia, viene considerato un suicidio, senza il coinvolgimento di altre persone. Dal primo sopralluogo dei carabinieri nel doppio appartamento in cui il rettore abitava con la compagna di lunga data non sarebbero stati trovati messaggi d'addio.> Secondo quanto ricostruito, intorno alle 22:30 il professore sarebbe uscito di casa e avrebbe raggiunto il sesto e ultimo piano del palazzo di via Luigi Illica dal quale si sarebbe buttato precipitando nel cortile interno.&nbsp; \n&nbsp; \n<h2>Cordoglio bipartisan della politica></h2> \n\"Con tristezza abbiamo appreso la notizia della scomparsa del prof. Franco Anelli,&nbsp;Rettore&nbsp;dell'Universita' Cattolica di Milano\", dicono gli esponenti M5s in commissione cultura alla Camera e al Senato. \"In questo momento di grande dolore, ci uniamo al cordoglio della famiglia, degli amici e di tutta la comunita' accademica\", prosegue una nota. \"Profondo cordoglio\" viene manifestato anche dal presidente della commissione Affari Costituzionali della Camera, Nazario Pagano, insieme alla \"vicinanza alla comunita' accademica dell'Universita' Cattolica e della Fondazione Policlinico Universitario Gemelli\". \"La sua dedizione all'educazione, alla formazione e al progresso accademico ha lasciato un segno indelebile nella storia dell'Universita' Cattolica e nel panorama universitario italiano. Il professor Anelli e' stato un esempio di integrita', impegno e passione per il sapere, valori che ha trasmesso a generazioni di studenti e colleghi\", riprende. \"La sua perdita lascia un vuoto profondo non solo nella comunita' accademica, ma in tutto il Paese. In questo momento di grande dolore - conclude l'esponente FI - desidero esprimere le mie piu' sincere condoglianze alla famiglia del Professor Anelli e a tutti coloro che hanno avuto l'onore di conoscerlo e lavorare con lui\". \"Il mio piu' profondo cordoglio e vicinanza alla famiglia del prof. Franco Anelli e a tutta la comunita' accademica dell'Universita' Cattolica e della Fondazione Policlinico Universitario Agostino Gemelli IRCCS, che ha perso un uomo di straordinaria cultura e visione educativa\", dice anche la vicepresidente di Azione, Elena Bonetti.&nbsp; \n&nbsp; \n<h2>La nota dell'Università Cattolica e del Gemelli&nbsp;></h2> \n\"Nella tarda serata di ieri, nella sua abitazione milanese, il Magnifico Rettore dell'Università Cattolica professor Franco Anelli è tragicamente scomparso in circostanze in corso di accertamento\", si legge nella nota rilasciata dall'Università. \"Con profonda costernazione la Comunità dell'Università Cattolica> e della Fondazione Policlinico Universitario Agostino Gemelli IRCCS>, alla quale egli ha dedicato la propria opera e l'intera sua vita - aggiunge - si raccoglie nel compianto e nella preghiera, esprimendo il più sentito cordoglio alla sua mamma e ai suoi cari\".&nbsp; \n&nbsp; \n<h2>Il cordoglio della Cei e della Crui></h2> \n\"Partecipo al dolore dell'Università Cattolica e della Fondazione Policlinico Agostino Gemelli Irccs per la tragica scomparsa del Magnifico Rettore, professor Franco Anelli\". E' il messaggio di cordoglio del presidente della Cei, il cardinale Matteo Zuppi>. \"In questo momento di sgomento, a nome dell'Episcopato italiano, esprimo cordoglio alla sua mamma, ai suoi cari e alla comunità tutta dell'Ateneo e del Policlinico, cui ha dedicato la sua esistenza. Assicuro la preghiera della nostra Chiesa, affidando il caro professor Anelli alla misericordia del Padre\". \n&nbsp; \n\"Profondo turbamento\" è stato espresso anche dalla Conferenza dei Rettori e dall'intero sistema universitario che \"si stringono oggi intorno alla comunita' accademica dell'Universita' Cattolica e alla famiglia Anelli nell'esprimere il profondo cordoglio per la scomparsa improvvisa del&nbsp;rettore&nbsp;Franco Anelli\". \"Franco era soprattutto un amico - ha commentato commossa Giovanna Iannantuoni, Presidente della CRUI> -. Un uomo profondamente ironico e con una coerenza rara da incontrare. Ci manchera' moltissimo\".",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1716573622.023269,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "Dead the rector of the Catholic Rings, is suicide. Investigate the Prosecutor",
+        "en_content": "AGI - The rector of the Catholic University Franco Anelli was found dead > Thursday evening 23 May in the inner courtyard of the palace in which he lived in the center of Milan. The 60-year-old lawyer and jurist committed suicide > launching from the sixth floor of the palace in which he lived. The alarm was taken around 22.30 and rescuers from 118 arrived on the spot who could only declare the death. Anelli was in charge of the athenaeus with offices in Milan, Rome, Brescia, Cremona and Piacenza since 2013 and would expire at the end of October.\n&nbsp;\nThe prosecutor of Milan will open a file on his death, a technical passage to carry out all the investigations of the case, including autopsy. The gesture of Rings, however, is considered a suicide, without the involvement of other people. From the first coat of arms of the carabinieri in the double apartment in which the rector lived with the long-time companion there would be no farewell messages.> According to what was reconstructed, around 22:30 the professor would go out of the house and reach the sixth and last floor of the building of Via Luigi Illica from which he would have thrown himself in the inner courtyard.&nbsp;\n&nbsp;\n<h2> Bipartisan policy framework\n\"With sadness we learned the news of the disappearance of prof. Franco Anelli,&nbsp;Rettore&nbsp; of the Catholic University of Milan,\" says M5s exponents in cultural commission to the Chamber and the Senate. \"At this time of great pain, we join in the mourning of the family, friends and all the academic community,\" a note continues. \"Profondo cordoglio\" is also manifested by the president of the Constitutional Affairs Committee of the House, Nazario Pagano, along with the \"vicination with the academic community of the Catholic University and the Political Foundation Universitario Gemelli\". \"His dedication to education, training and academic progress has left an indelible mark in the history of the Catholic University and in the Italian university landscape. Professor Anelli was an example of integrity, commitment and passion for knowledge, values he has transmitted to generations of students and colleagues.\" \"His loss leaves a deep void not only in the academic community, but throughout the country. At this time of great pain - concludes the exponent FI - I wish to express my sincere condolences to the family of Professor Anelli and to all those who have had the honour to know and work with him\". \"My deepest sympathy and closeness to the family of prof. Franco Anelli and to all the academic community of the Catholic University and the University Polyclinic Foundation Agostino Gemelli IRCCS, who lost a man of extraordinary culture and educational vision,\" says also the vice president of Action, Elena Bonetti.&nbsp;\n&nbsp;\n<h2>The note of the Catholic University and Gemelli&nbsp;></h2>\n\"In the late evening of yesterday, in his Milanese home, the Magnificent Rector of the Catholic University Professor Franco Anelli has tragically disappeared under investigation circumstances,\" we read in the note issued by the University. \"With deep consternation the Community of the Catholic University > and of the University Polyclinic Foundation Agostino Gemelli IRCCS>, to which he devoted his work and his entire life - he adds - he gathers in regret and prayer, expressing the most felt condolence to his mother and loved ones\". &nbsp;\n&nbsp;\n<h2> The condolence of the EC and the Crui></h2>\n\"I participate in the pain of the Catholic University and the Fondazione Policlinico Agostino Gemelli Irccs for the tragic disappearance of the Magnificent Rector, Professor Franco Anelli\". It is the condolence message of the president of the Cei, Cardinal Matteo Zuppi>. \"At this moment of dismay, on behalf of the Italian Episcopate, I express my condolence to his mother, to his loved ones and to the whole community of the University and the Polyclinic, which he dedicated his existence. I assure the prayer of our Church, entrusting dear Professor Anelli to the mercy of the Father.\"\n&nbsp;\n\"Profondo turbamento\" has also been expressed by the Conference of Rectors and the entire university system that \"closed today around the academic community of the Catholic University and the Anelli family in expressing the deep condolence for the sudden disappearance of the &nbsp;rettore&nbsp;Franco Anelli\". \"Franco was above all a friend - commented commossa Giovanna Iannantuoni, President of CRUI> -. A deeply ironic man with a rare coherence to meet. We'll miss him very much.\"",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "the Catholic Rings",
+                "start_char": 19,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Catholic University",
+                "start_char": 20,
+                "end_char": 43,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Franco Anelli",
+                "start_char": 44,
+                "end_char": 57,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 75,
+                "end_char": 83,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "evening",
+                "start_char": 84,
+                "end_char": 91,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "23 May",
+                "start_char": 92,
+                "end_char": 98,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Milan",
+                "start_char": 171,
+                "end_char": 176,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "60-year-old",
+                "start_char": 182,
+                "end_char": 193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "sixth",
+                "start_char": 251,
+                "end_char": 256,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "22.30",
+                "start_char": 323,
+                "end_char": 328,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "118",
+                "start_char": 347,
+                "end_char": 350,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Anelli",
+                "start_char": 405,
+                "end_char": 411,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Milan",
+                "start_char": 459,
+                "end_char": 464,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 466,
+                "end_char": 470,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Brescia",
+                "start_char": 472,
+                "end_char": 479,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cremona",
+                "start_char": 481,
+                "end_char": 488,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Piacenza",
+                "start_char": 493,
+                "end_char": 501,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2013",
+                "start_char": 508,
+                "end_char": 512,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the end of October",
+                "start_char": 533,
+                "end_char": 551,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Milan",
+                "start_char": 578,
+                "end_char": 583,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rings",
+                "start_char": 718,
+                "end_char": 723,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 809,
+                "end_char": 814,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "carabinieri",
+                "start_char": 835,
+                "end_char": 846,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "22:30",
+                "start_char": 1008,
+                "end_char": 1013,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "sixth",
+                "start_char": 1068,
+                "end_char": 1073,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Via Luigi Illica",
+                "start_char": 1108,
+                "end_char": 1124,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "courtyard.&nbsp;\n&nbsp",
+                "start_char": 1178,
+                "end_char": 1200,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Franco",
+                "start_char": 1299,
+                "end_char": 1305,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Catholic University of Milan",
+                "start_char": 1336,
+                "end_char": 1368,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chamber",
+                "start_char": 1420,
+                "end_char": 1427,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 1436,
+                "end_char": 1442,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Constitutional Affairs Committee",
+                "start_char": 1631,
+                "end_char": 1667,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "House",
+                "start_char": 1675,
+                "end_char": 1680,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nazario Pagano",
+                "start_char": 1682,
+                "end_char": 1696,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Catholic University",
+                "start_char": 1756,
+                "end_char": 1779,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Political Foundation Universitario Gemelli",
+                "start_char": 1784,
+                "end_char": 1830,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Catholic University",
+                "start_char": 1939,
+                "end_char": 1962,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 1974,
+                "end_char": 1981,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Anelli",
+                "start_char": 2014,
+                "end_char": 2020,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Anelli",
+                "start_char": 2376,
+                "end_char": 2382,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Franco Anelli",
+                "start_char": 2510,
+                "end_char": 2523,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Catholic University",
+                "start_char": 2561,
+                "end_char": 2584,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the University Polyclinic Foundation",
+                "start_char": 2589,
+                "end_char": 2625,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Agostino Gemelli IRCCS",
+                "start_char": 2626,
+                "end_char": 2648,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Action",
+                "start_char": 2747,
+                "end_char": 2753,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Elena Bonetti.&nbsp",
+                "start_char": 2755,
+                "end_char": 2774,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Catholic University",
+                "start_char": 2799,
+                "end_char": 2822,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the late evening",
+                "start_char": 2851,
+                "end_char": 2867,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 2871,
+                "end_char": 2880,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Milanese",
+                "start_char": 2889,
+                "end_char": 2897,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Catholic University",
+                "start_char": 2934,
+                "end_char": 2953,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Franco Anelli",
+                "start_char": 2964,
+                "end_char": 2977,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "University",
+                "start_char": 3075,
+                "end_char": 3085,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Community of the Catholic University",
+                "start_char": 3112,
+                "end_char": 3152,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the University Polyclinic Foundation",
+                "start_char": 3162,
+                "end_char": 3198,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Agostino Gemelli IRCCS",
+                "start_char": 3199,
+                "end_char": 3221,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EC",
+                "start_char": 3426,
+                "end_char": 3428,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Catholic University",
+                "start_char": 3478,
+                "end_char": 3501,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Agostino Gemelli Irccs",
+                "start_char": 3533,
+                "end_char": 3555,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Franco Anelli",
+                "start_char": 3622,
+                "end_char": 3635,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Cei",
+                "start_char": 3691,
+                "end_char": 3694,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Matteo Zuppi",
+                "start_char": 3705,
+                "end_char": 3717,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Italian Episcopate",
+                "start_char": 3760,
+                "end_char": 3782,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "University",
+                "start_char": 3875,
+                "end_char": 3885,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Polyclinic",
+                "start_char": 3894,
+                "end_char": 3904,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Church",
+                "start_char": 3967,
+                "end_char": 3973,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Anelli",
+                "start_char": 4001,
+                "end_char": 4007,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Conference of Rectors",
+                "start_char": 4093,
+                "end_char": 4118,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 4165,
+                "end_char": 4170,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Catholic University",
+                "start_char": 4204,
+                "end_char": 4227,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Anelli",
+                "start_char": 4236,
+                "end_char": 4242,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the &nbsp;rettore&nbsp;Franco Anelli",
+                "start_char": 4316,
+                "end_char": 4352,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Franco",
+                "start_char": 4356,
+                "end_char": 4362,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "commossa Giovanna Iannantuoni",
+                "start_char": 4398,
+                "end_char": 4427,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Giovanni Toti, a breve la richiesta di revoca degli arresti domiciliari",
+        "date_raw": "Fri, 24 May 2024 07:55:22 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/giovanni-toti-revoca-arresti-domiciliari-26509484/",
+        "subtitle": "",
+        "content": "AGI - Non sara' depositata oggi la richiesta di attenuazione della misura cautelare per il presidente della Regione Liguria, Giovanni&nbsp;Toti. Lo ha fatto sapere Stefano Savi, suo legale. Ieri il governatore si e' sottoposto all'interrogatorio fiume di quasi 9 ore da parte dei pm. Una richiesta che aveva avanzato lo stesso&nbsp;Toti, dopo essersi avvalso della facolta' di non rispondere lo scorso 10 maggio nell'interrogatorio di garanzia davanti al gip. \"La richiesta al giudice - spiega Savi entrando in tribunale - la faremo presto, ma non ho ancora deciso quando\".&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n&nbsp;",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0232892,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "Giovanni Toti, shortly the request for revocation of house arrests",
+        "en_content": "AGI - The request for attenuation of the precautionary measure for the President of the Liguria Region, Giovanni&nbsp;Toti will not be deposited today. Stefano Savi, your lawyer. Yesterday, the governor underwent an interrogatory of almost 9 hours by the peers. A request that had forwarded the same&nbsp;Toti, after using the faculty's ability to not respond on May 10 in the warranty interview before the gip. \"The request to the judge - explains Savi entering court - we will do it soon, but I have not yet decided when\".&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Giovanni Toti",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Liguria Region",
+                "start_char": 84,
+                "end_char": 102,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Giovanni&nbsp;Toti",
+                "start_char": 104,
+                "end_char": 122,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 145,
+                "end_char": 150,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Stefano Savi",
+                "start_char": 152,
+                "end_char": 164,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yesterday",
+                "start_char": 179,
+                "end_char": 188,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "almost 9 hours",
+                "start_char": 233,
+                "end_char": 247,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "same&nbsp;Toti",
+                "start_char": 295,
+                "end_char": 309,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "May 10",
+                "start_char": 363,
+                "end_char": 369,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Savi",
+                "start_char": 449,
+                "end_char": 453,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "/div\n&nbsp",
+                "start_char": 544,
+                "end_char": 554,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Scossa di terremoto a largo della Puglia, magnitudo 3,8",
+        "date_raw": "Fri, 24 May 2024 06:36:40 GMT",
+        "date": "2024-05-24",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-24/scossa-terremoto-puglia-magnitudo-26507648/",
+        "subtitle": "",
+        "content": "AGI - L'Istituto Nazionale di Geofisica e Vulcanologia ha registrato un terremoto di magnitudo 3,8 nel Mar Ionio Settentrionale, a largo della Puglia. La scossa è avvenuta alle 05:29. Il terremoto è stato localizzato dalla Sala Sismica INGV-Roma. \n&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0233102,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "Affected by earthquake in Puglia, magnitude 3,8",
+        "en_content": "AGI - The National Institute of Geophysics and Vulcanology has recorded an earthquake of magnitude 3,8 in the Northern Ionian Sea, off Puglia. The shock occurred at 05:29. The earthquake was located by the Sala Sismica INGV-Roma.\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Puglia",
+                "start_char": 26,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3,8",
+                "start_char": 44,
+                "end_char": 47,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The National Institute of Geophysics",
+                "start_char": 6,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Vulcanology",
+                "start_char": 47,
+                "end_char": 58,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "3,8",
+                "start_char": 99,
+                "end_char": 102,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Northern Ionian Sea",
+                "start_char": 106,
+                "end_char": 129,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Puglia",
+                "start_char": 135,
+                "end_char": 141,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "05:29",
+                "start_char": 165,
+                "end_char": 170,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sala Sismica INGV-Roma",
+                "start_char": 206,
+                "end_char": 228,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Accoltella moglie e figli poi si arrende dopo essersi barricato in casa. Gravissimi i due bambini",
+        "date_raw": "Thu, 23 May 2024 20:28:26 GMT",
+        "date": "2024-05-23",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-23/uomo-accoltella-moglie-figli-agrigentino-26502939/",
+        "subtitle": "",
+        "content": "AGI - Sono in condizioni gravissime i due bambini feriti dal padre a Cianciana, nell'Agrigentino, nel corso di una violenta lite dell'uomo, un meccanico trentaquattrenne, con la propria moglie, di origini polacche. I bambini, di 3 e 7 anni, erano stati trasferiti in elisoccorso in ospedale a Palermo. Le ferite all'addome sono molto profonde, e in particolare la bambina ha una emorragia cerebrale. L'uomo, che si era barricato per diverse ore in casa, si è consegnato ai carabinieri. Il fatto è avvenuto in una palazzina popolare. All'origine vi sarebbe stata una lite tra i due coniugi, dove la donna aveva ribadito all'uomo la decisione di volersi separare.&nbsp;La violenza ha poi coinvolto i due bambini.&nbsp;&nbsp; \n&nbsp; \nLa donna è riuscita a fuggire per le scale con in braccio il figlio ed entrambi sono stati subito soccorsi e portati in ospedale. La piccola è stata fatta uscire dal padre poco dopo. L'uomo l'ha consegnata ai soccorritori saliti con una gru e poi si è barricato in casa. Sul posto è atterrato l'elisoccorso per trasferire i piccoli.&nbsp;Il bimbo è ricoverato in Cardiochirurgia pediatrica all'ospedale Civico di Palermo. La piccola nella terapia intensiva dell'ospedale dei bambini. Anche la donna è stata portata in ospedale ma in ambulanza: colpita da un fendente all'addome, è stata operata ad Agrigento e non è in pericolo di vita. \n&nbsp; \nL'uomo ha subito un tentativo di linciaggio da parte di un individuo che ha prima colpito con un pugno l'auto dei carabinieri che lo stavano portando via in seguito all'arresto e poi ha provato ad aprire lo sportello che era bloccato. L'arrestato ha risposto alzando il medio al suo indirizzo. I carabinieri lo hanno bloccato e identificato. Questo l'ultimo atto di un pomeriggio di follia.&nbsp; \n&nbsp;",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0233335,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "He accepts his wife and children and then surrenders after having barricaded in the house. Pregnant the two children",
+        "en_content": "AGI - The two children wounded by their father in Cianciana, in Agrigentino, during a violent quarrel of man, a mechanic thirty-four years, with his wife, of Polish origins. The children, 3 and 7 years old, had been transferred to the hospital in Palermo. The wounds to the abdomen are very deep, and in particular the child has a brain hemorrhage. The man, who had barricaded himself for several hours in the house, surrendered to the carabinieri. The fact happened in a popular building. At the origin there would have been a quarrel between the two spouses, where the woman had reiterated to man the decision to want to separate.&nbsp; The violence involved the two children. &nbsp;&nbsp;\n&nbsp;\nThe woman managed to escape the stairs with her son in her arms and both were immediately rescued and taken to the hospital. The little girl was brought out of her father shortly after. The man handed her over to the rescuers climbed with a crane and then barricaded in the house. It landed on the spot to transfer the small.&nbsp; The child is admitted to pediatric Cardiosurgery at the Civic Hospital in Palermo. The baby in the intensive care of the children's hospital. The woman was also taken to the hospital but in ambulance: struck by a fendente at the abdomen, she was operated in Agrigento and is not in danger of life.\n&nbsp;\nThe man suffered a lynching attempt by an individual who first hit with a punch the car of the carabinieri who were taking him away after the arrest and then tried to open the door that was blocked. The arbitration responded by raising the average to his address. The carabinieri blocked him and identified him. This is the last act of an afternoon of madness.&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "two",
+                "start_char": 104,
+                "end_char": 107,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "two",
+                "start_char": 10,
+                "end_char": 13,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cianciana",
+                "start_char": 50,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Agrigentino",
+                "start_char": 64,
+                "end_char": 75,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "thirty-four years",
+                "start_char": 121,
+                "end_char": 138,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Polish",
+                "start_char": 158,
+                "end_char": 164,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "3 and 7 years old",
+                "start_char": 188,
+                "end_char": 205,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Palermo",
+                "start_char": 247,
+                "end_char": 254,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "several hours",
+                "start_char": 389,
+                "end_char": 402,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "carabinieri",
+                "start_char": 436,
+                "end_char": 447,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 548,
+                "end_char": 551,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 665,
+                "end_char": 668,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cardiosurgery",
+                "start_char": 1066,
+                "end_char": 1079,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the Civic Hospital",
+                "start_char": 1083,
+                "end_char": 1101,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palermo",
+                "start_char": 1105,
+                "end_char": 1112,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Agrigento",
+                "start_char": 1289,
+                "end_char": 1298,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 1393,
+                "end_char": 1398,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "carabinieri",
+                "start_char": 1431,
+                "end_char": 1442,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "carabinieri",
+                "start_char": 1604,
+                "end_char": 1615,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1675,
+                "end_char": 1684,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ]
+    },
+    {
+        "title": "Toti per nove ore dai pm: \"Ogni euro incassato destinato alla politica\"",
+        "date_raw": "Thu, 23 May 2024 19:38:05 GMT",
+        "date": "2024-05-23",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2024-05-23/toti-interrogato-inchiesta-genova-corruzione-26505017/",
+        "subtitle": "",
+        "content": "AGI - È terminato dopo quasi nove ore l'interrogatorio fiume del presidente della Regione Liguria Giovanni Toti>, che si trova ancora nella caserma del Roan della Gdf per la firma del verbale. Il governatore, secondo quanto trapela, ha risposto a tutte le contestazioni mosse dalla Procura, assistito dal suo legale Stefano Savi. Toti ha anche depositato una memoria di 17 pagine a corredo dell'interrogatorio investigativo tenuto davanti ai pm Federico Manotti e Luca Monteverde, insieme all'aggiunto Vittorio Ranieri Miniati. Un documento per spiegare \"le linee politiche e morali che, da quanto ho assunto l'onore di guidare Regione Liguria, hanno sempre informato l'attività perseguita dalla Giunta regionale nella unica prospettiva di servire il bene e l'interesse comune dei cittadini liguri e delle loro istituzioni\". \n&nbsp; \n\"Non è mia intenzione sottrarmi al Vostro esame, ma oggi, così come in futuro, vi è da parte mia la ferma volontà di collaborare, con trasparenza e onestà, alla ricostruzione della Verità nel supremo interesse della Giustizia, per restituire alla mia figura di uomo e di servitore dello Stato la Dignità che ho costantemente cercato di preservare\", scrive il governatore nella memoria. \"Nel mio percorso politico - scrive - ho sempre perseguito l'interesse pubblico il quale è il fine unico e ultimo della mia azione politica; tale fine è seguito, come costantemente rivendicato dal programma politico della maggioranza che mi sostiene, non già mediante la contrapposizione con le rivendicazioni dei privati, quanto piuttosto attraverso la veicolazione di queste verso l'interesse della collettività e del territorio, modalità con la quale si realizza la migliore essenza dell'interesse pubblico\".&nbsp; \n&nbsp; \n\"È da una visione di ampio respiro, che abbracci tutto l'arco della mia presidenza, che si può apprezzare la nostra visione politica e comprendere appieno come tutte le mie azioni (anche quelle contestate) siano state ispirate, certamente dalla giusta attenzione verso le imprese operanti sul territorio, ma nell'unica prospettiva della tutela dell'interesse collettivo e del suo progresso\", ha proseguito Toti, \"La politica di apertura verso il mondo dell'impresa, la necessità di rendere più celeri e semplici gli investimenti, sia pubblici che privati, considerati interesse pubblico del territorio, l'importanza di modernizzare il Porto di Genova, anche in collaborazione e concorso con i grandi operatori della logistica (che in un mercato competitivo debbono essere invogliati a utilizzare lo scalo ligure) l'attenzione con cui l'amministrazione monitora e ove necessario sollecita il disbrigo delle pratiche (ovviamente nel pieno e trasparente rispetto della legge e delle procedure), l'esigenza di aprire alla concorrenza il mercato, anche della grande distribuzione, insomma - scrive il governatore, ai domiciliari dallo scorso 7 maggio per corruzione - accelerare la crescita economica del territorio e il suo benessere anche attraverso specifiche politiche di attenzione ben volute e spesso reclamate dai cittadini e dal mondo delle imprese, sono questi tutti elementi del programma politico di amministrazione ritenuti di interesse pubblico e rivendicati in ogni sede, compresa quella legislativa e di controllo del Consiglio Regionale\".&nbsp; \n<h2>\"Nessun arricchimento o utilità personale\"</h2> \n\"Ogni euro incassato ha avuto una destinazione politica: nessun contributo ha prodotto arricchimento o utilità personale a me, agli altri appartenenti al mio partito o a terzi privati\", scrive ancora Toti, \"e proprio per fugare ogni minimo possibile sospetto e garantire massima trasparenza e possibilità di controllo, particolare attenzione - prosegue - è stata posta nel separare ogni aspetto economico della mia vita privata da qualsiasi attività economica legata alla politica, tanto da separare anche i conti correnti personali ed utilizzare per l'attività politica esclusivamente conti dedicati e \"trasparenti\", con strumenti di accredito e spesa tracciati, tracciabili e sempre rigorosamente documentabili\". \n&nbsp; \nIl governatore parla di \"gestione trasparente della cosa pubblica e della politica. Così come ogni intervento a favore delle iniziative economiche è stato pubblico, spesso attraverso specifiche comunicazioni (si vedano le innumerevoli esternazioni sugli equilibri portuali da raggiungere per interesse pubblico), anche ogni dazione di denaro è avventa nella massima trasparenza. Ciò - sottolinea - è riconosciuto dagli stessi atti di accusa ove si fa riferimento a bonifici effettuali ai Comitati politici, gestiti nei principi legali della massima trasparenza, con obiettivi e organismi statutari e bilanci pubblicati a norma di legge. Ogni dazione di denaro è stata accreditata con metodi tracciabili e rendicontata. Del pari tutte le spese sostenute (sia a sostegno della mia attività politica come leader della Lista Toti presente in Consiglio Regionale e in molte amministrazioni municipali, sia per sostenere Sindaci, Liste e candidati collegati e coerenti alla linea politica della Lista Toti, sia per quanto riguarda le iniziative della Coalizione di Governo) sono stati rendicontati e pubblicizzati in termini di legge e anche oltre. I bilanci e i rendiconti sono stati (e sono ancora) pubblicati sui siti internet delle organizzazioni politiche a mio sostegno\".&nbsp; \n&nbsp; \n\"Non mi sono mai sentito debitore nei confronti di chi aveva contribuito alla mia iniziativa politica: il fatto di essere contributore o comunque politicamente vicino non ha mai rappresentato un titolo per ricevere da parte mia favori o trattamenti preferenziali; del pari non vi è mai stato alcun mio atteggiamento che potesse in qualche modo dare adito a tale pensiero. Vi era - sottolinea - semplicemente una visione ampia e diffusa da parte dei privati circa l'utilità, civica ed economica, di sostenere un'amministrazione che vedeva nell'investimento privato, all'interno delle regole, un mezzo per perseguire un interesse pubblico, oltrechè privato. Visione corrisposta dal massimo impegno amministrativo nel sostenere e se possibile agevolare le attività di investimento e di impresa a prescindere dal colore politico delle imprese stesse\". \n<h2>\"Ho incontrato i fratelli Testa al massimo due volte\"</h2> \n\"Per quanto riguarda il voto di scambio è da evidenziare che vinsi le elezioni con circa 380 mila voti. Il sostegno della comunità Riesina si sostanzia, nelle indagini, con una certa approssimazione, di 400 voti, giusto per proporzione e per capire che l'apporto non è tale da turbare l'equilibrio democratico del voto, per altro particolarmente irrilevanti nel caso del candidato, Ilaria Cavo, a cui viene attribuito il mio appoggio\", scrive ancora il governatore, aggiungendio che \"i fratelli Testa venivano presentati come attivisti politici con incarichi in Regione Lombardia da due Onorevoli. Nel loro curriculum vi erano incarichi politici legati alla Giunta regionale lombarda. Entrambi gli Onorevoli (Sorte e Benigni) ne garantivano le qualità personali. Gli stessi, sui social (e credo formalmente) erano rappresentanti ufficiali della Comunità Riesina nel Mondo: il fatto di essere riesini e loro rappresentanti non può equivalere a essere considerati come persone di malaffare. Analoga attenzione a gruppi organizzati rappresentanti cittadini di comune estrazione (Lucani, calabresi nel mondo) è prestata dalla politica di ogni colore al fine di raccoglierne il consenso\". \n&nbsp; \nToti scrive che incontrò \"i fratelli Testa al massimo due volte. Il loro interesse era rivolto all'attenzione possibile per una comunità, quella Riesina, spesso soggetta a tutte le difficoltà legate ad immigrazione e integrazione in regioni diverse. Certamente ho dato mandato ai miei collaboratori di dare loro attenzione nei termini di legge. Ma mai di offrire utilità in cambio di voti. La mera generica promessa di una condizione personale e sociale migliore non può essere considerata quale merce di scambio ma consueto frutto dell'attività politica, specie in periodo elettorale; atteso che non ho saputo, se non ora, delle promesse fatte ad alcuni (limitatissimi) componenti della comunità, la segnalazione ad imprese private di taluni di loro in qualità di muratori o manovali (per altro mai assunti), tale attività se fosse stata da me conosciuta, e non lo era, senza essere stato io al corrente di eventuali accordi precedenti, sarebbe stata interpretata come sostegno a persone in difficoltà. E anche la richiesta di spostamento di residenza da una casa popolare all'altra (per altro già assegnata) appare come mero sostegno informativo ad una persona dalle evidenti scarse capacità nel destreggiarsi nella pubblica amministrazione. Spostamento per altro non ci risulta mai avvenuto\". \n&nbsp; \nToti conclude che \"alla fine di una lunga ricostruzione, nessuna utilità specifica è andata alla comunità Riesina, nè in posti di lavoro ne' altro. Trattandosi come si evince dalle stesse indagini di persone insistenti per comportamenti ed espressioni, possibile che alcune battute anche tra me e lo staff siano state interpretate fuori dal contesto con cui il tema dei riesini veniva affrontato nelle riunioni.\"&nbsp;",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1716573622.0233552,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2024-05-24 20:00:22",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-24T20.00.22",
+        "en_title": "Toti for nine hours from pm: \"Every euro collected for policy\"",
+        "en_content": "AGI - After almost nine hours the questioning river of the president of the Liguria Region Giovanni Toti>, which is still in the barracks of the Roan of the Gdf for the signature of the minutes. The governor, according to his trap, responded to all the complaints made by the Prosecutor, assisted by his lawyer Stefano Savi. Toti also deposited a 17-page memory of the investigative interrogation held in front of Federico Manotti and Luca Monteverde, along with the adjunct Vittorio Ranieri Miniati. A document to explain \"the political and moral lines that, from what I assumed the honor of leading Liguria Region, have always informed the activity pursued by the Regional Council in the only perspective of serving the good and common interest of Ligurian citizens and their institutions\".\n&nbsp;\n\"It is not my intention to withdraw from your examination, but today, as in the future, there is my firm will to collaborate, with transparency and honesty, to the reconstruction of Truth in the supreme interest of Justice, to return to my figure of man and to serve the State the Dignity I have constantly tried to preserve,\" writes the governor in memory. \"In my political path - he writes - I have always pursued the public interest which is the sole and final end of my political action; This goal is followed, as constantly claimed by the political programme of the majority that supports me, not already through the opposition with the demands of the private, but rather through the conveyance of these towards the interest of the community and the territory, how the best essence of public interest is achieved.\" &nbsp;\n&nbsp;\n\"It is from a wide-ranging vision, that embraces all the course of my presidency, that we can appreciate our political vision and fully understand how all my actions (even those contested) have been inspired, certainly by the right attention to the companies operating on the territory, but in the only perspective of the protection of the collective interest and its progress,\" continued Toti, \"the policy of openness to the world of the enterprise, the need to make more celerious and &nbsp;\n<h2>\"No personal enrichment or utility\"</h2>\n\"Every Euro cashed has had a political destination: no contribution has produced personal enrichment or usefulness to me, to others belonging to my party or to private third parties\", writes Toti, \"and precisely to escape every possible suspicion and guarantee maximum transparency and possibility of control, particular attention - continues - has been placed in separating every economic aspect of my private life from any economic activity linked to politics, so as to separate also personal current accounts and use for the political activity exclusively dedicated and \"transparent\"\n&nbsp;\nThe governor speaks of \"transparent management of public affairs and politics. As well as any intervention in favor of the economic initiatives has been public, often through specific communications (see the countless outsourcing on the harbour balances to be reached for public interest), even every dation of money is rash in the maximum transparency. This - it emphasizes - is recognized by the same acts of accusation where reference is made to real transfers to the Political Committees, managed in the legal principles of maximum transparency, with objectives and statutory bodies and balance sheets published according to law. Each share of money has been credited with traceable methods and reporting. Equally all expenses incurred (both in support of my political activity as leader of the Toti List present in the Regional Council and in many municipal administrations, and in support of mayors, lists and candidates linked and consistent with the Toti List political line, both with regard to the initiatives of the Government Coalition) have been reported and advertised in terms of law and also beyond. Budgets and reports have been (and are still) published on the websites of political organizations in my support\". &nbsp;\n&nbsp;\n\"I never felt compelled to those who contributed to my political initiative: the fact of being a contributor or, however, politically close has never been a title to receive favours or preferential treatments from me; There has never been any attitude of mine that could somehow give rise to such thought. There was - it emphasizes - simply a broad and widespread vision from the private about the utility, civic and economic, to support an administration that saw in private investment, within the rules, a means to pursue a public interest, as well as private. The vision corresponded to the maximum administrative commitment to support and if possible to facilitate investment and business activities regardless of the political colour of the enterprises themselves\".\n<h2>\"I met the Head Brothers twice\"</h2>\n\"With regard to the vote of exchange, it should be noted that I won the elections with about 380 thousand votes. The support of the Riesina community rests, in the investigations, with a certain approximation, of 400 votes, just by proportion and to understand that the contribution is not such as to disturb the democratic balance of the vote, however particularly irrelevant in the case of the candidate, Ilaria Cavo, to which my support is attributed\", writes the governor, adding that \"the Head brothers were presented as political activists with assignments in the Lombardy Region by two Honours. In their curriculum there were political assignments related to the Lombard Regional Council. Both Honourables (Sorte and Benigni) guaranteed their personal qualities. The same, on social (and formally) were official representatives of the Riesine Community in the World: the fact of being riesini and their representatives cannot be equal to being considered as people of mistrust. Analogue attention to groups organized representatives of citizens of common extraction (Lucani, Calabrians in the world) is provided by the policy of each color in order to collect their consent\".\n&nbsp;\nToti writes that he met \"the Head brothers at most twice. Their interest was aimed at the possible attention to a community, that Riesina, often subject to all difficulties related to immigration and integration in different regions. I certainly sent my employees to give them attention in terms of law. But never offer usefulness in exchange for votes. The general promise of a better personal and social condition cannot be considered as a commodity of exchange but customary fruit of political activity, especially during the electoral period; expected that I did not know, if not now, of the promises made to some (limited) members of the community, the signaling to private enterprises of some of them as masons or maneuvers (other than never assumed), such activity if it had been known to me, and was not, without being aware of any previous agreements, would have been interpreted as support to people in difficulty. And also the request for a shift of residence from one popular house to another (for other already assigned) appears as merely informative support to a person with the obvious little skills in deduction in public administration. Moving for other things never happened\".\n&nbsp;\nToti concludes that \"at the end of a long reconstruction, no specific utilities went to the Riesina community, neither in jobs nor other. As it is evident from the same investigations of insistent people for behavior and expressions, it is possible that some jokes between me and the staff were interpreted outside the context with which the theme of riesini was addressed in meetings.\" &nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Toti",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "nine hours",
+                "start_char": 9,
+                "end_char": 19,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "almost nine hours",
+                "start_char": 12,
+                "end_char": 29,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 76,
+                "end_char": 83,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Giovanni Toti",
+                "start_char": 91,
+                "end_char": 104,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Roan",
+                "start_char": 145,
+                "end_char": 149,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gdf",
+                "start_char": 157,
+                "end_char": 160,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the minutes",
+                "start_char": 182,
+                "end_char": 193,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Stefano Savi",
+                "start_char": 311,
+                "end_char": 323,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Toti",
+                "start_char": 325,
+                "end_char": 329,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "17",
+                "start_char": 347,
+                "end_char": 349,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Federico Manotti",
+                "start_char": 414,
+                "end_char": 430,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Luca Monteverde",
+                "start_char": 435,
+                "end_char": 450,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vittorio Ranieri Miniati",
+                "start_char": 475,
+                "end_char": 499,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Liguria Region",
+                "start_char": 601,
+                "end_char": 615,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Regional Council",
+                "start_char": 662,
+                "end_char": 682,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ligurian",
+                "start_char": 750,
+                "end_char": 758,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 863,
+                "end_char": 868,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Truth",
+                "start_char": 982,
+                "end_char": 987,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Justice",
+                "start_char": 1015,
+                "end_char": 1022,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Toti",
+                "start_char": 2023,
+                "end_char": 2027,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "&nbsp",
+                "start_char": 2121,
+                "end_char": 2126,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "h2>\"No",
+                "start_char": 2129,
+                "end_char": 2135,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "utility\"</h2",
+                "start_char": 2159,
+                "end_char": 2171,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Euro",
+                "start_char": 2180,
+                "end_char": 2184,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "third",
+                "start_char": 2341,
+                "end_char": 2346,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Toti",
+                "start_char": 2364,
+                "end_char": 2368,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Political Committees",
+                "start_char": 3234,
+                "end_char": 3258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Toti",
+                "start_char": 3566,
+                "end_char": 3570,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Regional Council",
+                "start_char": 3587,
+                "end_char": 3607,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Toti",
+                "start_char": 3725,
+                "end_char": 3729,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Government Coalition",
+                "start_char": 3790,
+                "end_char": 3814,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Head Brothers",
+                "start_char": 4794,
+                "end_char": 4811,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "about 380 thousand",
+                "start_char": 4911,
+                "end_char": 4929,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Riesina",
+                "start_char": 4956,
+                "end_char": 4963,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "400",
+                "start_char": 5037,
+                "end_char": 5040,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ilaria Cavo",
+                "start_char": 5231,
+                "end_char": 5242,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Lombardy Region",
+                "start_char": 5390,
+                "end_char": 5409,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "two",
+                "start_char": 5413,
+                "end_char": 5416,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Lombard Regional Council",
+                "start_char": 5490,
+                "end_char": 5518,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Riesine Community",
+                "start_char": 5662,
+                "end_char": 5683,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lucani",
+                "start_char": 5898,
+                "end_char": 5904,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Calabrians",
+                "start_char": 5906,
+                "end_char": 5916,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Toti",
+                "start_char": 6014,
+                "end_char": 6018,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Riesina",
+                "start_char": 6144,
+                "end_char": 6151,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "one",
+                "start_char": 6990,
+                "end_char": 6993,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Toti",
+                "start_char": 7216,
+                "end_char": 7220,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Riesina",
+                "start_char": 7308,
+                "end_char": 7315,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    }
+]
