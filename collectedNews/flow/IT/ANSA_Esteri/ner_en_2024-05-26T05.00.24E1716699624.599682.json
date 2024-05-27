@@ -1,0 +1,393 @@
+[
+    {
+        "title": "Salgono a 165 i morti per le alluvioni nel sud del Brasile",
+        "date_raw": "Sat, 25 May 2024 18:44:04 +0200",
+        "date": "2024-05-25",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/05/25/salgono-a-165-i-morti-per-le-alluvioni-nel-sud-del-brasile_2b60d161-24e6-4979-937f-1f2dfefaf5ea.html",
+        "subtitle": "Sono 64 le persone ancora disperse",
+        "content": "\n                                                \n            E' salito a 165 il bilancio\ndelle vittime delle inondazioni nel Rio Grande do Sul, in\nBrasile, secondo i dati aggiornati dalla Protezione civile. I\nferiti sono 806, mentre 64 persone risultano ancora disperse. I\ncomuni colpiti dal disastro sono 469, con oltre 581mila\nsfollati.\n                                    \n                                       \n\t\t\t\t   E nonostante  il livello del fiume Guaíba sia sceso di 17\ncentimetri nelle ultime 12 ore, resta sopra i 4 metri, ben al di\nsopra del livello di piena di 3 metri.\n                                    \n                                       \n\t\t\t\t   D'altra parte l'istituto di Ricerca idraulica dell'Università\nfederale di Rio Grande do Sul indica il permanere degli\nallagamenti, con livelli ancora alti per i prossimi giorni.\n                                    \n                                       \n\t\t\t\t\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 12,
+        "placed": "Esteri",
+        "epoch": 1716692425.6014001,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-26 05:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-26T05.00.25",
+        "en_title": "165 dead for floods in southern Brazil",
+        "en_content": "The budget rose to 165\nof flood victims in the Rio Grande do Sul,\nBrazil, according to the data updated by the Civil Protection. I\nwounded are 806, while 64 people are still missing. I\nmunicipalities affected by the disaster are 469, with over 581 thousand\ndisplaced.\n\n\nAnd despite the level of the Guaíba River it fell by 17\nin the last 12 hours, stays above 4 meters, well above\nabove the full level of 3 meters.\n\n\nOn the other hand, the University's Hydraulic Research Institute\nFederal Republic of Rio Grande do Sul indicates the permanence of\nflooding, with still high levels for the next few days.\n\n\n\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "64 people are still missing",
+        "title_NER": [
+            {
+                "word": "165",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Brazil",
+                "start_char": 32,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "64",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "165",
+                "start_char": 19,
+                "end_char": 22,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Rio Grande",
+                "start_char": 43,
+                "end_char": 57,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Sul",
+                "start_char": 61,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Brazil",
+                "start_char": 66,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Civil Protection",
+                "start_char": 107,
+                "end_char": 127,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "806",
+                "start_char": 143,
+                "end_char": 146,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "64",
+                "start_char": 154,
+                "end_char": 156,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "469",
+                "start_char": 229,
+                "end_char": 232,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "581 thousand",
+                "start_char": 244,
+                "end_char": 256,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Guaíba River",
+                "start_char": 295,
+                "end_char": 311,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "17",
+                "start_char": 323,
+                "end_char": 325,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the last 12 hours",
+                "start_char": 329,
+                "end_char": 346,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "above 4 meters",
+                "start_char": 354,
+                "end_char": 368,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "3 meters",
+                "start_char": 405,
+                "end_char": 413,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "University's Hydraulic Research Institute",
+                "start_char": 440,
+                "end_char": 481,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Federal Republic of Rio Grande",
+                "start_char": 482,
+                "end_char": 512,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sul",
+                "start_char": 516,
+                "end_char": 519,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the next few days",
+                "start_char": 585,
+                "end_char": 602,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Scarseggia il petrolio, Cuba resta di nuovo al buio",
+        "date_raw": "Sat, 25 May 2024 19:28:51 +0200",
+        "date": "2024-05-25",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2024/05/25/scarseggia-il-petrolio-cuba-resta-di-nuovo-al-buio_b823ec85-5bd2-49a8-aa2d-7590924ac349.html",
+        "subtitle": "Black out annunciato nel 28% dell'isola",
+        "content": "\n                                                \n            Il 28% di Cuba oggi sarà colpito\nda un blackout nelle ore di punta del pomeriggio e della sera.\n                                    \n                                       \n\t\t\t\tLo riferisce la società elettrica statale, secondo cui le cause\nsono da ricercare nei guasti alle unità delle centrali\ntermoelettriche, e nella scarsità di petrolio.\n                                    \n                                       \n\t\t\t\t   Le interruzioni di corrente - che vanno avanti ormai da mesi\ne interessano tutte le province del Paese -  durano fino a dieci\nore al giorno.\n                                    \n                                       \n\t\t\t\t   Il sistema elettrico dell'isola si trova in una situazione\nmolto precaria a causa della mancanza di importazioni di\ncombustibile e di centrali termoelettriche obsolete. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Esteri",
+        "epoch": 1716692425.6096532,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-26 05:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-26T05.00.25",
+        "en_title": "Download the oil, Cuba remains in the dark again",
+        "en_content": "28% of Cuba will be affected today\nfrom a blackout in the peak hours of the afternoon and evening.\n\n\nThe state electricity company reports that the causes\nare to be searched in faults to the units of the centrals\nthermoelectric, and in the scarcity of oil.\n\n\nCurrent interruptions - which have been going on for months\nand affect all provinces of the country - last up to ten\nhours a day.\n\n\nThe island's electrical system is in a situation\nvery precarious because of the lack of imports\nfuel and obsolete thermoelectric power plants.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Black out announced in 28% of the island",
+        "title_NER": [
+            {
+                "word": "Cuba",
+                "start_char": 18,
+                "end_char": 22,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "28%",
+                "start_char": 23,
+                "end_char": 26,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "28%",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Cuba",
+                "start_char": 7,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 29,
+                "end_char": 34,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the peak hours of the afternoon",
+                "start_char": 54,
+                "end_char": 85,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "evening",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "months",
+                "start_char": 312,
+                "end_char": 318,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "ten\nhours",
+                "start_char": 372,
+                "end_char": 381,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ]
+    },
+    {
+        "title": "Media, 'rilasciata la rapper Nicki Minaj arrestata ad Amsterdam'",
+        "date_raw": "Sat, 25 May 2024 22:57:51 +0200",
+        "date": "2024-05-25",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2024/05/25/media-rilasciata-la-rapper-nicki-minaj-arrestata-ad-amsterdam_ab79f9bd-e425-47b7-bc68-6924a6ada465.html",
+        "subtitle": "Era stata fermata per possesso di droga. Pagherà una multa",
+        "content": "\n                                                \n            È stata rilasciata la rapper Usa\nNicki Minaj che era stata fermata all'aeroporto di Amsterdam per\npossesso di droghe leggere. Lo riporta Sky News citando il\nmaggiore Robert van Kapel della polizia militare olandese che ha\nconfermato il suo rilascio in serata.\n                                    \n                                       \n\t\t\t\t   La rapper, 41 anni, era stata arrestata poche ore prima di\nesibirsi davanti a migliaia di fan al Co-op Live di Manchester.\n                                    \n                                       \n\t\t\t\tDovrà pagare una multa non rivelata per \"aver esportato\nillegalmente droghe leggere dai Paesi Bassi in un altro Paese\",\nha precisato la polizia olandese. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1716692425.7147074,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-26 05:00:25",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-26T05.00.25",
+        "en_title": "Media, 'leave the rapper Nicki Minaj arrested in Amsterdam'",
+        "en_content": "The U.S. rapper was released\nNicki Minaj who had been stopped at Amsterdam airport to\npossession of light drugs. Sky News reports citing\nMajor Robert van Kapel of the Dutch military police\nconfirmed his release in the evening.\n\n\nThe rapper, 41, had been arrested a few hours before\nperforming in front of thousands of fans at the Co-op Live in Manchester.\n\n\nYou will have to pay an unrevealed fine for \"exported\nillegally read drugs from the Netherlands in another country\",\nhas specified the Dutch police.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "She was stopped for possession of drugs. He'll pay a fine.",
+        "title_NER": [
+            {
+                "word": "Nicki Minaj",
+                "start_char": 25,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Amsterdam",
+                "start_char": 49,
+                "end_char": 58,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "U.S.",
+                "start_char": 4,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nicki Minaj",
+                "start_char": 29,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Amsterdam",
+                "start_char": 65,
+                "end_char": 74,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sky News",
+                "start_char": 113,
+                "end_char": 121,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Robert van Kapel",
+                "start_char": 143,
+                "end_char": 159,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dutch",
+                "start_char": 167,
+                "end_char": 172,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "41",
+                "start_char": 241,
+                "end_char": 243,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a few hours",
+                "start_char": 263,
+                "end_char": 274,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "thousands",
+                "start_char": 305,
+                "end_char": 314,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Co-op Live",
+                "start_char": 326,
+                "end_char": 340,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Manchester",
+                "start_char": 344,
+                "end_char": 354,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Netherlands",
+                "start_char": 442,
+                "end_char": 453,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Dutch",
+                "start_char": 493,
+                "end_char": 498,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]
