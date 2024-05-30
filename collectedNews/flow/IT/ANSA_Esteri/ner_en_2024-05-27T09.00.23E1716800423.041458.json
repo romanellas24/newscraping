@@ -1,0 +1,210 @@
+[
+    {
+        "title": "Taiwan, 21 jet e 11 navi da guerra cinesi intorno all'isola",
+        "date_raw": "Mon, 27 May 2024 03:39:01 +0200",
+        "date": "2024-05-27",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/asia/2024/05/27/taiwan-21-jet-e-11-navi-da-guerra-cinesi-intorno-allisola_f8fdbbfd-8f6c-401c-9f17-1c826e827578.html",
+        "subtitle": "Impennata delle attività con visita di parlamentari Usa a Taipei",
+        "content": "\n                                                \n            Il ministero della Difesa di\nTaiwan ha rilevato nelle 24 ore alle 6 locali (mezzanotte in\nItalia) 21 aerei e 11 navi da guerra cinesi intorno all'isola,\nnonché 4 unità della guardia costiera. Dieci jet, si legge in\nuna nota, sono entrati nella zona di riconoscimento di difesa\naerea (Adiz) da sudovest e sudest. Le forze armate dell'isola\n\"hanno seguito la situazione e risposto di conseguenza\".\n                                    \n                                       \n\t\t\t\tL'impennata delle attività è maturata nel giorno dell'arrivo\nseparato di domenica di una delegazione bipartisan di\nparlamentari Usa e del capo di Nvidia Jensen Huang, pochi giorni\ndopo le maxi esercitazioni militari punitive della Cina. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1716793223.9256763,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-05-27 09:00:23",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-27T09.00.23",
+        "en_title": "Taiwan, 21 jets and 11 Chinese warships around the island",
+        "en_content": "The Ministry of Defense\nTaiwan detected in 24 hours at 6 locals (mezzanotte in\nItaly) 21 aircraft and 11 Chinese warships around the island,\nand 4 units of the Coast Guard. Ten jets, read in\na note, entered the area of defense recognition\nair (Adiz) from southwest and southeast. The armed forces of the island\n\"they followed the situation and responded accordingly.\"\n\n\nThe activity has matured on the day of arrival\nseparate Sunday of a bipartisan delegation\nUS MPs and Nvidia leader Jensen Huang, a few days\nafter the maxi punitive military exercises of China.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Expected activities with visit of US MPs in Taipei",
+        "title_NER": [
+            {
+                "word": "Taiwan",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "21",
+                "start_char": 8,
+                "end_char": 10,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "11",
+                "start_char": 20,
+                "end_char": 22,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 23,
+                "end_char": 30,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "US",
+                "start_char": 34,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Taipei",
+                "start_char": 44,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "The Ministry of Defense",
+                "start_char": 0,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Taiwan",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "24 hours",
+                "start_char": 43,
+                "end_char": 51,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "6",
+                "start_char": 55,
+                "end_char": 56,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "mezzanotte in",
+                "start_char": 65,
+                "end_char": 78,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 79,
+                "end_char": 84,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "21",
+                "start_char": 86,
+                "end_char": 88,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "11",
+                "start_char": 102,
+                "end_char": 104,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 105,
+                "end_char": 112,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "4",
+                "start_char": 145,
+                "end_char": 146,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Coast Guard",
+                "start_char": 156,
+                "end_char": 171,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ten",
+                "start_char": 173,
+                "end_char": 176,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Adiz",
+                "start_char": 244,
+                "end_char": 248,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the day",
+                "start_char": 398,
+                "end_char": 405,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 426,
+                "end_char": 432,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US",
+                "start_char": 460,
+                "end_char": 462,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nvidia",
+                "start_char": 471,
+                "end_char": 477,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jensen Huang",
+                "start_char": 485,
+                "end_char": 497,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few days",
+                "start_char": 499,
+                "end_char": 509,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "China",
+                "start_char": 556,
+                "end_char": 561,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]
