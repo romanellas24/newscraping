@@ -1,0 +1,1813 @@
+[
+    {
+        "title": "CRESCE NUMERO OCCUPATI,518 MILA IN PIU' Tasso occupazione al 62,3%,nuovo record Istat:cala disoccupazione ad aprile",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Istat: a aprile 516.000 occupati in più Cresce il numero di occupati. Ad aprile sono 84.000 in più rispetto a marzo e +516.000 su anno(+2,2%).Così l'Istat.La crescita riguarda donne e uomini,dipendenti a tempo indeterminato (+444.000) e autonomi, e tutte le classi d'età  tranne i 25-34enni.Su marzo tasso d'occupazione al 62,3% (+0,1%).Nuovo record Disoccupazione giù per entrambe i generi e tutte le età: -3% (55.000 unità), tranne che per i 15-24enni.Tasso disoccupazione al 6,9% (-0,2%), il più basso da dicembre 2008, mentre quello giovanile risulta stabile al 20,2%.  ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1717146006.117969,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "CRESCE NUMBER OCCUPATI,518 MILA IN PIU' Rate employment at 62.3%, new record Istat: unemployment report in April",
+        "en_content": "Istat: in April 516,000 more employees The number of employees grows. In April they are 84,000 more than in March and +516,000 per year (+2.2%). So Istat. Growth concerns women and men, dependent indefinitely (+444,000) and autonomous, and all age classes except 25-34 years. On March employment rate at 62.3% (+0.1%). New record Unemployment down for both genders and all ages: -3% (55.000 units), except for 15-24 years. Unemployment rate at 6.9% (-0.2%), lowest since December 2008, while the youth unemployment rate is stable at 20.2%.",
+        "title_NER": [
+            {
+                "word": "PIU",
+                "start_char": 35,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "62.3%",
+                "start_char": 59,
+                "end_char": 64,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Istat",
+                "start_char": 77,
+                "end_char": 82,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "April",
+                "start_char": 107,
+                "end_char": 112,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Istat",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "April 516,000",
+                "start_char": 10,
+                "end_char": 23,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "April",
+                "start_char": 73,
+                "end_char": 78,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "84,000",
+                "start_char": 88,
+                "end_char": 94,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "March",
+                "start_char": 108,
+                "end_char": 113,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "+2.2%",
+                "start_char": 137,
+                "end_char": 142,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Istat",
+                "start_char": 148,
+                "end_char": 153,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25-34 years",
+                "start_char": 263,
+                "end_char": 274,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "March",
+                "start_char": 279,
+                "end_char": 284,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "62.3%",
+                "start_char": 304,
+                "end_char": 309,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "+0.1%",
+                "start_char": 311,
+                "end_char": 316,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "-3%",
+                "start_char": 379,
+                "end_char": 382,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "55.000",
+                "start_char": 384,
+                "end_char": 390,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15-24 years",
+                "start_char": 410,
+                "end_char": 421,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "6.9%",
+                "start_char": 444,
+                "end_char": 448,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "December 2008",
+                "start_char": 471,
+                "end_char": 484,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "20.2%",
+                "start_char": 533,
+                "end_char": 538,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "MELONI: \"UCCISO DA SQUADRISTI FASCISTI\" \"Sua lezione di rispetto non odio\"",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=125",
+        "content": " Preziosi legge il discorso di Matteotti Standing ovation alla Camera alla lettura dell'ultimo discorso pronunciato alla Camera esattamente 100 anni fa da Giacomo Matteotti, che sarà ucciso pochi giorni dopo,il 10 giugno 1924. A chiudere la cerimonia che si è tenuta in omaggio di Matteotti a Montecitorio è stato l'attore Alessandro Preziosi che ha letto e interpretato il discorso del deputato socialista. Alla fine lungo applauso e l'Inno italiano. In precedenza il presidente Mattarella ha visitato nel Transatlantico la mostra \"Matteotti parlamentare\".  ",
+        "ranked": 4,
+        "placed": "Politics",
+        "epoch": 1717146006.1296098,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "MELONI: \"UMPED BY FASCISTING SQUADRISTI\" \"His lesson of respect not hate\"",
+        "en_content": "Precious reads the speech of Matteotti Standing ovation at the House at the reading of the last speech delivered to the House exactly 100 years ago by Giacomo Matteotti, who will be killed a few days later, on June 10, 1924. To close the ceremony that was held in homage to Matteotti in Montecitorio was the actor Alessandro Preziosi who read and interpreted the speech of the socialist congressman. At the end long applause and the Italian hymn. Previously President Mattarella visited in the Transatlantic the exhibition \"Monistry Matteotti\".",
+        "content_NER": [
+            {
+                "word": "Matteotti Standing",
+                "start_char": 29,
+                "end_char": 47,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "House",
+                "start_char": 63,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "House",
+                "start_char": 120,
+                "end_char": 125,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "100 years ago",
+                "start_char": 134,
+                "end_char": 147,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giacomo Matteotti",
+                "start_char": 151,
+                "end_char": 168,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a few days later",
+                "start_char": 189,
+                "end_char": 205,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "June 10, 1924",
+                "start_char": 210,
+                "end_char": 223,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Matteotti",
+                "start_char": 274,
+                "end_char": 283,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Montecitorio",
+                "start_char": 287,
+                "end_char": 299,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Alessandro Preziosi",
+                "start_char": 314,
+                "end_char": 333,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 433,
+                "end_char": 440,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 468,
+                "end_char": 478,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Transatlantic",
+                "start_char": 494,
+                "end_char": 507,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Preziosi lo legge. Applauso e Inno",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": "",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1717146006.1370854,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "Precious law. Applause and hymn",
+        "en_content": ""
+    },
+    {
+        "title": "MELONI:RIFORMA E' AIUTO ALLA GIUSTIZIA  \"Favorirà la terzietà del giudice\"",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Meloni:riforma è aiuto alla giustizia \"La separazione delle carriere favorirà la terzietà del giudice e il sorteggio terrà fuori dal CSM le correnti\".  Così la premier in un'intervista  televisiva torna a difendere la riforma della Giustizia e interviene anche sul reddito di cittadinanza.   \"Con l'assegno di inclusione abbiamo fatto quello che avevamo promesso: distinguere tra chi può lavorare e chi no\" ha detto Giorgia Meloni.   ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1717146006.143762,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "MELONI:RIFORM IS AID TO THE JUSTICE \"It will work the third party of the judge\"",
+        "en_content": "Meloni:reform is help to justice \"The separation of careers will favour the court's tertiage and the draw will keep out of the CSM currents\". So the premier in a television interview returns to defend Justice reform and also intervenes on citizenship income. \"With the inclusion check we did what we promised: to distinguish between who can work and who not\" said Giorgia Meloni.",
+        "title_NER": [
+            {
+                "word": "third",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "CSM",
+                "start_char": 127,
+                "end_char": 130,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Justice",
+                "start_char": 201,
+                "end_char": 208,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 364,
+                "end_char": 378,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "TAJANI: CARTA VIETA USO ARMI IN RUSSIA  \"Nessun soldato italiano a Kiev\"",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Tajani:Carta vieta uso armi in Russia \"L'Italia non invierà alcun militare a combattere contro i russi in territorio ucraino e le armi italiane non potranno essere utilizzate per colpire il territorio russo. Lo impedisce la nostra Costituzione\".     Così il ministro degli Esteri, Tajani, a Praga.Alla riunione informale dei ministri degli Esteri dei Paesi Nato ribadirò la nostra posizione,assicura. \"Non è la Nato che decide come usare le nostre armi\",dice.Poi:\"C'è l'impegno di Kiev a rispettare gli accordi e a comunicare all'Italia come usano le armi\". Stallo per convincere Putin a trattare ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1717146006.1496058,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "TAJANI: CARTA VIETA USO ARMI IN RUSSIA \"No Italian soldier in Kiev\"",
+        "en_content": "Tajani:Carta forbids use of weapons in Russia \"Italy will not send any military to fight against the Russians in Ukrainian territory and Italian weapons will not be able to be used to hit the Russian territory. It prevents our Constitution.\" So the Foreign Minister, Tajani, in Prague. At the informal meeting of the Foreign Ministers of the NATO countries I will reiterate our position, insure. \"It is not NATO that decides how to use our weapons,\" he says. \"There is Kiev's commitment to respect the agreements and to communicate to Italy how they use weapons.\" Stall to convince Putin to negotiate",
+        "title_NER": [
+            {
+                "word": "CARTA",
+                "start_char": 8,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "RUSSIA",
+                "start_char": 32,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 43,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 62,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tajani",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Carta",
+                "start_char": 7,
+                "end_char": 12,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 39,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russians",
+                "start_char": 101,
+                "end_char": 109,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 113,
+                "end_char": 122,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 137,
+                "end_char": 144,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 192,
+                "end_char": 199,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Constitution",
+                "start_char": 227,
+                "end_char": 239,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Tajani",
+                "start_char": 267,
+                "end_char": 273,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Prague",
+                "start_char": 278,
+                "end_char": 284,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO",
+                "start_char": 342,
+                "end_char": 346,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NATO",
+                "start_char": 407,
+                "end_char": 411,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 469,
+                "end_char": 473,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 535,
+                "end_char": 540,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Stall",
+                "start_char": 564,
+                "end_char": 569,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Putin",
+                "start_char": 582,
+                "end_char": 587,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "TRUMP CONDANNATO PER I 34 CAPI D'ACCUSA Udienza a luglio per entità della pena  Potrà correre per la Casa Bianca",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1717146006.211102,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "_ _",
+        "en_content": ""
+    },
+    {
+        "title": "MATTEOTTI,100 ANNI FA DISCORSO A CAMERA Suo scranno mai a nessuno,una targa",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Crosetto:nostre armi non puntino Russia \"Aiutiamo Kiev, ma le nostre armi non possono servire per attaccare\". Lo afferma il ministro della Difesa Crosetto in un'intervista a Il Domani.  i, \"Noi forniamo aiuti, anche militari, a una nazione aggredita, per difendersi e riconquistare la sua sovranità violata. Lo diremo ai nostri alleati in modo  franco, leale, sereno, senza alzare i toni. E' tutto nell'art.11 della Costituzione. Dobbiamo aiutare l'alleato aggredito, ma non essensdo in guerra non possiamo lasciargli usare gli aiuti per colpire nel territorio del nemico\". ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1717146006.2167943,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "MATTEOTTI,100 YEARS AVAILABLE TO ROOM His will ever come to no one, a plate",
+        "en_content": "Crosetto: Our weapons do not point Russia \"We aid Kiev, but our weapons cannot serve to attack\". The Minister of Defense Crosetto said this in an interview with Il Domani. i, \"We provide aid, including military, to an assaulted nation, to defend itself and regain its violated sovereignty. We will tell our allies frankly, loyal, serene, without raising the tones. That's all in Art.11 of the Constitution. We need to help the attacked ally, but I do not disagree in war, we cannot let him use the aid to hit the enemy's territory.\"",
+        "title_NER": [
+            {
+                "word": "YEARS",
+                "start_char": 14,
+                "end_char": 19,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Russia",
+                "start_char": 35,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 50,
+                "end_char": 54,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Il Domani",
+                "start_char": 161,
+                "end_char": 170,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Constitution",
+                "start_char": 393,
+                "end_char": 405,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            }
+        ]
+    },
+    {
+        "title": "CINA GRANDE ASSENTE SUMMIT PACE UCRAINA Tra motivi, mancato invito a Mosca",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=158",
+        "content": " Cina non sarà a conferenza pace Ucraina Il 15 e 16 giugno prossimi Pechino non parteciperà alla conferenza di pace  sull'Ucraina prevista in Svizzera. Lo riferiscono più fonti.Tra le motivazioni, la Russia non invitata al summit. Comunicando la decisione, Pechino l'ha motivata con l'assenza di \"partecipazione paritaria di tutte le parti e di una discussione equa di tutte le proposte disponibili\". Inutile quindi il  pressing diplomatico europeo sulla Cina Intanto, a Singapore primo incontro in 18 mesi,tra Cina e Usa su temi militari",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1717146006.226843,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "_ For reasons, missed invitation to Moscow",
+        "en_content": "China will not be at conference peace Ukraine On 15 and 16 June, Beijing will not participate in the peace conference on Ukraine in Switzerland. More sources report it. Among the reasons, Russia is not invited to the summit. Communicating the decision, Beijing motivated it with the absence of \"the equal participation of all parties and a fair discussion of all available proposals\". Needless therefore European diplomatic pressing on China Meanwhile, in Singapore first meeting in 18 months, between China and USA on military themes",
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 36,
+                "end_char": 42,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "China",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 38,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "15 and 16 June",
+                "start_char": 49,
+                "end_char": 63,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 65,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 121,
+                "end_char": 128,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Switzerland",
+                "start_char": 132,
+                "end_char": 143,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 188,
+                "end_char": 194,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 253,
+                "end_char": 260,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 404,
+                "end_char": 412,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "China",
+                "start_char": 436,
+                "end_char": 441,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Singapore",
+                "start_char": 456,
+                "end_char": 465,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 466,
+                "end_char": 471,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "18 months",
+                "start_char": 483,
+                "end_char": 492,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "China",
+                "start_char": 502,
+                "end_char": 507,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "USA",
+                "start_char": 512,
+                "end_char": 515,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "OMICIDIO SAMAN, MADRE PRESA IN PAKISTAN Condanna ergastolo per uccisione 18enne Era l'unica latitante, da maggio'21",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1717146006.257251,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "OMICIDIO SAMAN, MADRE IN PAKISTAN Condanna ergastolo for 18-year-old killing It was the only latitante, from May 21",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "SAMAN",
+                "start_char": 9,
+                "end_char": 14,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "MADRE",
+                "start_char": 16,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "PAKISTAN",
+                "start_char": 25,
+                "end_char": 33,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Condanna",
+                "start_char": 34,
+                "end_char": 42,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "18-year-old",
+                "start_char": 57,
+                "end_char": 68,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "May 21",
+                "start_char": 109,
+                "end_char": 115,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "NATO:\"USO NOSTRE ARMI SIA RESPONSABILE\" \"Ma escalation è partita da Mosca\"",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Nato:uso\"responsabile\"armi contro Mosca \"E' la Russia che ha dato il via all' escalation, prima invadendo un altro Paese e ora aprendo il nuovo fronte a Kharkiv\": così il segretario Nato Stoltenberg all'informale Esteri a Praga. Parlando dell'uso delle armi fornite a Kiev dai Paesi alleati, ha aggiunto: \"Speriamo tutti\" che un uso contro  obiettivi militari in territorio russo avvenga \"in linea col diritto internazionale e in modo responsabile\". \"Ogni volta che abbiamo dato mezzi all'Ucraina, Putin ci ha minacciato; è stato così per artiglieria,tank missili,F-16\". ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1717146006.2725294,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "_",
+        "en_content": "NATO: use \"responsible\" weapons against Moscow \"It's Russia that started escalation, first invading another country and now opening the new front to Kharkiv\": so the secretary NATO Stoltenberg to the foreign information in Prague. Speaking of the use of weapons supplied in Kiev by allied countries, he added: \"We all hope that a use against military targets in Russian territory will take place \"in line with international law and in a responsible manner\". \"Every time we've given means to Ukraine, Putin has threatened us; it was like that for artillery,tank missiles,F-16\".",
+        "content_NER": [
+            {
+                "word": "NATO",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 40,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 53,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 85,
+                "end_char": 90,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 149,
+                "end_char": 156,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO Stoltenberg",
+                "start_char": 176,
+                "end_char": 192,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Prague",
+                "start_char": 223,
+                "end_char": 229,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 274,
+                "end_char": 278,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 362,
+                "end_char": 369,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 491,
+                "end_char": 498,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Putin",
+                "start_char": 500,
+                "end_char": 505,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "F-16",
+                "start_char": 570,
+                "end_char": 574,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ]
+    },
+    {
+        "title": "YEMEN,RAID USA-GB CONTRO RIBELLI HOUTHI Colpite Sanaa e,sulla costa,Hodeida",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Yemen,raid Usa-Gb su città degli Houthi Attacchi aerei angloamericani su diversi obiettivi nello Yemen, contro i ribelli Houthi. Colpite la capitale Sana e la città portuale di Hodeida. Prese di mira anche le infrastrutture di telecomunicazioni a Taiz. La tv Al-Masirah, legata agli Houthi, riferisce di 14 morti e trenta feriti.   Gli Houthi -si legge in una nota della Difesa britannicacontinuano ad attaccare le navi internazionali in Mar Rosso e Golfo di Aden, da qui l'operazione per \"minare le loro capacità militari\". Il raid di notte,per ridurre rischi per i civili, aggiunge la nota da Londra. ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1717146006.2797933,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "_",
+        "en_content": "Yemen, U.S.-Gbraid on Houthi City Anglo-American Air Attacks on several targets in Yemen, against the Houthi rebels. Hit the Sana capital and the port city of Hodeida. Telecommunications infrastructure in Taiz is also targeted. Al-Masirah, linked to the Houthi, reports 14 dead and thirty wounded. The Houthi - read in a note of the British Defense continue to attack international ships in the Red Sea and Gulf of Aden, hence the operation to \"mine their military capabilities\". The night raid, to reduce risks to civilians, adds the note from London.",
+        "content_NER": [
+            {
+                "word": "Yemen",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.-Gbraid",
+                "start_char": 7,
+                "end_char": 18,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Houthi City Anglo-American Air Attacks",
+                "start_char": 22,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yemen",
+                "start_char": 83,
+                "end_char": 88,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 102,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sana",
+                "start_char": 125,
+                "end_char": 129,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hodeida",
+                "start_char": 159,
+                "end_char": 166,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Taiz",
+                "start_char": 205,
+                "end_char": 209,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Al-Masirah",
+                "start_char": 228,
+                "end_char": 238,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 254,
+                "end_char": 260,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "14",
+                "start_char": 270,
+                "end_char": 272,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "thirty",
+                "start_char": 282,
+                "end_char": 288,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 302,
+                "end_char": 308,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the British Defense",
+                "start_char": 329,
+                "end_char": 348,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Red Sea",
+                "start_char": 391,
+                "end_char": 402,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Gulf",
+                "start_char": 407,
+                "end_char": 411,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "night",
+                "start_char": 484,
+                "end_char": 489,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "London",
+                "start_char": 545,
+                "end_char": 551,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "TRUMP CONDANNATO NEL PROCESSO PORNOSTAR Per i 34 capi di accusa contestati",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Trump condannato nel caso pornostar  Donald Trump è stato ritenuto colpevole per tutti i 34 capi di accusa sul caso Stormy Daniels.     Lo storico verdetto, raggiunto all'unanimità dalla giuria dopo due giorni di Camera di Consiglio,fa di Trump il primo ex presidente condannato in un processo penale e anche il primo candidato presidente a correre come pregiudicato (status che non preclude l'elezione). Udienza l'11 luglio per stabilire la condanna, variabile da un massimo di 4 anni alla messa in probva, fino a una multa. \"Una vergogna, continuerò a lottare\",ha detto Trump.Ricorso gia pronto",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1717146006.3030407,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "_ For the 34 defendants",
+        "en_content": "Trump convicted in the pornstar Donald Trump case was found guilty for all 34 charges on Stormy Daniels case. The historic verdict, unanimously reached by the jury after two days of the Council Chamber, makes Trump the first former president convicted in a criminal trial and also the first candidate president to run as a felony (status that does not preclude election). Audience on 11 July to establish the sentence, varying from a maximum of 4 years to the probva, up to a fine. \"A shame, I will continue to fight,\" Trump said.",
+        "title_NER": [
+            {
+                "word": "34",
+                "start_char": 10,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Trump",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 32,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "34",
+                "start_char": 75,
+                "end_char": 77,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Stormy Daniels",
+                "start_char": 89,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two days",
+                "start_char": 170,
+                "end_char": 178,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Council Chamber",
+                "start_char": 182,
+                "end_char": 201,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump",
+                "start_char": 209,
+                "end_char": 214,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 219,
+                "end_char": 224,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 285,
+                "end_char": 290,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "11 July",
+                "start_char": 384,
+                "end_char": 391,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "4 years",
+                "start_char": 445,
+                "end_char": 452,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Trump",
+                "start_char": 519,
+                "end_char": 524,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "ISRAELE CONFERMA: OPERIAMO CENTRO RAFAH \"Attività mirate, su intelligence\"",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " M.O, Idf conferma operazione a Rafah L'Idf ha confermato per la prima volta di operare nel centro di Rafah,sud della Striscia di Gaza,in un'offensiva  contro Hamas \"precisa\" e \"basata sull' intelligence\",     L'esercito isreliano riferisce che sono stati localizzati lanciarazzi, tunnel e depositi di armi di Hamas e che un combattente è stato ucciso da un drone. Altre armi ed equipaggiamenti sarebbero stati localizzati nella parte orientale di Rafah, nel Corridoio Filadelfia che corre lungo il confine con l'Egitto. ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1717146006.3416576,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "_",
+        "en_content": "M.O, Idf confirms operation to Rafah The Idf confirmed for the first time to operate in the center of Rafah,south of the Gaza Strip, in an offensive against Hamas \"precise\" and \"based on intelligence\", The Isrelian army reports that they were located rocket launchers, tunnels and weapons deposits of Hamas and that a fighter was killed by a drone. Other weapons and equipment would be located in the eastern part of Rafah, in the Philadelphia Corridor running along the border with Egypt.",
+        "content_NER": [
+            {
+                "word": "M.O",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Idf",
+                "start_char": 5,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Idf",
+                "start_char": 41,
+                "end_char": 44,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 63,
+                "end_char": 68,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Rafah",
+                "start_char": 102,
+                "end_char": 107,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 117,
+                "end_char": 131,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 157,
+                "end_char": 162,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 301,
+                "end_char": 306,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rafah",
+                "start_char": 417,
+                "end_char": 422,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Philadelphia Corridor",
+                "start_char": 427,
+                "end_char": 452,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Egypt",
+                "start_char": 483,
+                "end_char": 488,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Usa:ok uso nostre armi contro russi",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Usa: Kiev usi nostre armi contro russi Biden ha dato all'Ucraina il permesso di colpire in territorio russo con armi fornite dagli Usa esclusivamente attorno a Kharkiv e non a lungo raggio. Lo riferisce 'Politico' in esclusiva, citando due fonti informate. \"Il presidente ha di recente ordinato al suo  team di garantire che l'Ucraina sia  in grado di utilizzare le armi statunitensi a Kharkiv a scopo di controffensiva\", ha detto un funzionario americano. L'Ok sarebbe stato dato \"in segreto\" e solo per \"rispondere ai russi, colpendoli o preparandosi a colpirli\". ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1717146006.3471851,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "Use:ok use our weapons against Russians",
+        "en_content": "Use: Kiev uses our weapons against Russians Biden gave Ukraine permission to strike in Russian territory with weapons provided by the US exclusively around Kharkiv and not long-range. It refers exclusively to 'Political', citing two informed sources. \"The president recently ordered his team to ensure that Ukraine is able to use US weapons in Kharkiv for counter-offensive purposes,\" said an American official. The Ok would have been given \"in secret\" and only to \"respond to the Russians, hitting them or preparing to hit them.\"",
+        "title_NER": [
+            {
+                "word": "Russians",
+                "start_char": 31,
+                "end_char": 39,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 5,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russians",
+                "start_char": 35,
+                "end_char": 43,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Biden",
+                "start_char": 44,
+                "end_char": 49,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 55,
+                "end_char": 62,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 87,
+                "end_char": 94,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "US",
+                "start_char": 134,
+                "end_char": 136,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 156,
+                "end_char": 163,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 229,
+                "end_char": 232,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 307,
+                "end_char": 314,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 330,
+                "end_char": 332,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 344,
+                "end_char": 351,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 393,
+                "end_char": 401,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russians",
+                "start_char": 481,
+                "end_char": 489,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "TIM: UE APPROVA CESSIONE NETCO A KKR   Netto recupero del titolo in Borsa",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Tim: Ue approva cessione NetCo a Kkr La Commissione Europea ha approvato  senza alcuna condizione l'acquisizione di NetCo da parte di Kkr concludendo che l'operazione non solleva preoccupazioni sotto il profilo della concorrenza nello spazio economico europeo. NetCo comprende le attività della rete di telefonia fissa primaria e dorsale di Telecom Italia S.p.A. (Tim) e di FiberCop,la joint venture di Tim e Kkr responsabile della rete di telefonia fissa. Tim, dopo ok Ue a cessione rete, ha avuto un netto recupero in Borsa che ha chiuso in rialzo.    ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1717146006.3803885,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "TIM: EU APPROVE NETCO A KKR Net title recovery in stock",
+        "en_content": "Tim: EU approves NetCo transfer to Kkr The European Commission has approved without any condition the acquisition of NetCo by Kkr concluding that the operation does not raise concerns in the context of competition in the European economic area. NetCo includes the activities of Telecom Italia S.p.A. (Tim) and FiberCop,the joint venture of Tim and Kkr responsible for the fixed telephony network. Tim, after ok Ue on net sale, had a net recovery on the Stock Exchange that closed up.",
+        "title_NER": [
+            {
+                "word": "TIM",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 5,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NETCO",
+                "start_char": 16,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "KKR",
+                "start_char": 24,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tim",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 5,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NetCo",
+                "start_char": 17,
+                "end_char": 22,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kkr The European Commission",
+                "start_char": 35,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NetCo",
+                "start_char": 117,
+                "end_char": 122,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kkr",
+                "start_char": 126,
+                "end_char": 129,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 221,
+                "end_char": 229,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "NetCo",
+                "start_char": 245,
+                "end_char": 250,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Telecom Italia S.p.A.",
+                "start_char": 278,
+                "end_char": 299,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tim",
+                "start_char": 301,
+                "end_char": 304,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "FiberCop",
+                "start_char": 310,
+                "end_char": 318,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tim",
+                "start_char": 340,
+                "end_char": 343,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kkr",
+                "start_char": 348,
+                "end_char": 351,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tim",
+                "start_char": 397,
+                "end_char": 400,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Stock Exchange",
+                "start_char": 449,
+                "end_char": 467,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nota sugli indici di Borsa",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": " Nota sugli indici di Borsa Televideo Le informazioni di Televideo sugli indici e i dati delle Borse italiane ed estere sono in fase di ristrutturazione editoriale.      Ciò sta comportando il non aggiornamento nelle relative pagine.   Ci scusiamo con i lettori per il disservizio.     ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1717146006.3893666,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "Note on stock exchange indices",
+        "en_content": "Note on Stock Exchange Indexes Televideo Televideo's information on indices and data from Italian and foreign exchanges is being refurbished. This is implying the non-updating in the relevant pages. We apologize to readers for disservice.",
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 90,
+                "end_char": 97,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Missili russi su Kharkiv, 4 morti",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Ucraina, missili su Kharkiv: 4 morti Quattro persone sono morte e 25 sono rimaste ferite, tra cui due bambini, a seguito di un attacco missilistico delle forze russe sulla città di Kharkiv, nell'Ucraina nord orientale. Secondo il governatore della Regione, Syniehubov, le forze russe hanno sferrato 2 raid successivi per colpire i soccorritori intervenuti dopo il primo. Il bilancio delle vittime potrebbe peggiorare. Intanto Mosca fa sapere che la propria difesa aerea della regione di Krasnodar ha distrutto 29 droni e 5 missili da crociera antinave delle forze ucraine. ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1717146006.3946764,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "Russian Missiles on Kharkiv, 4 dead",
+        "en_content": "Ukraine, missiles on Kharkiv: 4 dead Four people died and 25 were wounded, including two children, following a missile attack by Russian forces on the city of Kharkiv, in northern eastern Ukraine. According to the Governor of the Region, Syniehubov, Russian forces raided 2 successive raids to hit rescuers after the first. The victim's budget could get worse. Meanwhile, Moscow lets know that its air defense of the Krasnodar region destroyed 29 drones and 5 anti-shipping missiles from Ukrainian forces.",
+        "title_NER": [
+            {
+                "word": "Russian Missiles",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 20,
+                "end_char": 27,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 29,
+                "end_char": 30,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 21,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4",
+                "start_char": 30,
+                "end_char": 31,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Four",
+                "start_char": 37,
+                "end_char": 41,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "25",
+                "start_char": 58,
+                "end_char": 60,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 85,
+                "end_char": 88,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 129,
+                "end_char": 136,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kharkiv",
+                "start_char": 159,
+                "end_char": 166,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 188,
+                "end_char": 195,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syniehubov",
+                "start_char": 238,
+                "end_char": 248,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 250,
+                "end_char": 257,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2",
+                "start_char": 272,
+                "end_char": 273,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 317,
+                "end_char": 322,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 372,
+                "end_char": 378,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Krasnodar",
+                "start_char": 417,
+                "end_char": 426,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "29",
+                "start_char": 444,
+                "end_char": 446,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "5",
+                "start_char": 458,
+                "end_char": 459,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 488,
+                "end_char": 497,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Hamas: no negoziato senza stop arm",
+        "date_raw": "May 31, 2024",
+        "date": "2024-05-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Hamas: no negoziati finché si combatte Hamas ha informato i mediatori che non terrà trattative sull'ultima proposta riguardante il cessate il fuoco nella Striscia di Gaza e il rilascio degli ostaggi finché continueranno i combattimenti. \"Se l'occupazione fermerà la guerra contro il nostro popolo a Gaza saremo pronti a un accordo completo\", ha affermato il gruppo palestinese.  Israele usa i negoziati come copertura per continuare il \"massacro\" e in risposta alla nostra \"posizione positiva\" alla proposta dei mediatori \"ha invaso Rafah\". Così Hamas accusa Netanyahu. ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1717146006.6068676,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2024-05-31 11:00:06",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-05-31T11.00.06",
+        "en_title": "Hamas: no negotiation without stop arm",
+        "en_content": "Hamas: no negotiations until the Hamas fights informed the mediators that it will not hold negotiations on the last proposal concerning the ceasefire in the Gaza Strip and the release of the hostages until the fighting continues. \"If the occupation will stop the war against our people in Gaza we will be ready for a full agreement,\" said the Palestinian group. Israel uses negotiations as a cover to continue the \"massage\" and in response to our \"positive position\" to the proposal of the mediators \"invaded Rafah\". So Hamas accuses Netanyahu.",
+        "title_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 153,
+                "end_char": 167,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 289,
+                "end_char": 293,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 343,
+                "end_char": 354,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 362,
+                "end_char": 368,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rafah",
+                "start_char": 509,
+                "end_char": 514,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 520,
+                "end_char": 525,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 534,
+                "end_char": 543,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

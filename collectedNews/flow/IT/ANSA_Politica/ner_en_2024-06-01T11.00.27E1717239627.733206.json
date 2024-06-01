@@ -1,0 +1,849 @@
+[
+    {
+        "title": "I 25 Cavalieri del Lavoro: l'elenco completo degli insigniti",
+        "date_raw": "Fri, 31 May 2024 11:32:59 +0200",
+        "date": "2024-05-31",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/05/31/i-25-cavalieri-del-lavoro-lelenco-completo-degli-insigniti_34c3a2ef-8982-436a-b50a-ffa53b3b4833.html",
+        "subtitle": "Con l’indicazione, per ciascuno, del settore di attività e della Regione di provenienza",
+        "content": "Ecco l’elenco completo del Quirinale dei 25 Cavalieri del Lavoro, con l’indicazione, per ciascuno, del settore di attività e della Regione di provenienza - Industria - Farmaceutica - Toscana; - Industria - Siderurgica - Lombardia; - Commercio - Grande distribuzione - Sicilia;- Industria - Moda e design di lusso - Estero; - Industria - Editoria - Lombardia;- Industria - Elettrodomestici - Emilia-Romagna;- Industria - Moda e abbigliamento - Lombardia; - Industria - Abbigliamento sportivo - Veneto;- Industria Alimentare - Molitoria - Campania;- Industria - Discografia - Lombardia; - Terziario - Assicurazioni - Emilia-Romagna; - Artigianato - Ricami - Marche;- Terziario - Cinematografia - Lazio; - Vitivinicolo - Spumanti - Trentino-Alto Adige;- Terziario - Servizi informatici - Trentino-Alto Adige; - Industria - Ferroviaria - Piemonte;- Terziario - Alberghiero - Sardegna; - Industria - Macchinari agricoli - Piemonte;- Terziario - Credito - Puglia;- Industria - Cosmetica - Piemonte; - Industria e commercio - Prodotti surgelati - Friuli-Venezia Giulia;- Terziario - Logistica - Friuli-Venezia Giulia;- Industria energetica - Petrolio - Emilia-Romagna; - Industria - Cosmetici e profumi - Lombardia;- Industria - Aerospazio - Campania.\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 10,
+        "placed": "Politica",
+        "epoch": 1717232428.7384174,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-06-01 11:00:28",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-06-01T11.00.28",
+        "en_title": "The 25 Knights of Labour: the complete list of the awarded",
+        "en_content": "Here is the complete list of the Quirinale dei 25 Cavalieri del Lavoro, with the indication, for each, of the field of activity and of the Region of origin - Industria - Farmaceutica - Toscana; - Industria - Siderurgica - Lombardia; - Commerce - Great distribution - Sicily;- Industry - Fashion and luxury design - Estero; - Industry - Publishing - Lombardy;- Industry - Appliances - Emilia-Romagna;- Industry - Fashion and clothing - Lombardy; - Industry - Sportswear - Veneto;- Food Industry - Molitoria - Campania;- Industry - Discography - Lombardy; - Terziario - Assicurazioni - Emilia-Romagna; - Artigianato - Ricami - Marche;- Terziario - Cinematografia - Lazio; - Vitivinicolo - Spumanti - Trentino-Alto Adige;- Terziario - IT services - Trentino-Alto Adige; - Industria - Ferroviaria - Piemonte;- Terziario - Alberghiero - Sardegna; - Industry - Agricultural machinery - Piedmont;- Terziario - Credito - Puglia;- Industry - Cosmetic - Piedmont; - Industry and commerce - Frozen products - Friuli-Venezia Giulia;- Terziario - Logistica - Friuli-Venezia Giulia;- Energy industry - Petroleum - Emilia-Romagna; - Industry - Cosmetics and perfumes - Lombardy;- Industry - Aerospace - Campania.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "With the indication, for each, of the field of activity and of the Region of origin",
+        "title_NER": [
+            {
+                "word": "25",
+                "start_char": 4,
+                "end_char": 6,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Knights of Labour",
+                "start_char": 7,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Quirinale",
+                "start_char": 33,
+                "end_char": 42,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "25",
+                "start_char": 47,
+                "end_char": 49,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cavalieri del Lavoro",
+                "start_char": 50,
+                "end_char": 70,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sicily;- Industry - Fashion",
+                "start_char": 267,
+                "end_char": 294,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Industry - Publishing - Lombardy;- Industry - Appliances - Emilia-Romagna;- Industry - Fashion",
+                "start_char": 325,
+                "end_char": 419,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Industry - Sportswear",
+                "start_char": 447,
+                "end_char": 468,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Vitivinicolo - Spumanti - Trentino-Alto Adige;- Terziario - IT",
+                "start_char": 672,
+                "end_char": 734,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trentino",
+                "start_char": 746,
+                "end_char": 754,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Industria - Ferroviaria - Piemonte;-",
+                "start_char": 769,
+                "end_char": 805,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Terziario - Alberghiero - Sardegna",
+                "start_char": 806,
+                "end_char": 840,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friuli",
+                "start_char": 998,
+                "end_char": 1004,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Giulia;- Terziario - Logistica - Friuli-Venezia",
+                "start_char": 1013,
+                "end_char": 1060,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Petroleum - Emilia-Romagna",
+                "start_char": 1088,
+                "end_char": 1114,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Industry - Cosmetics",
+                "start_char": 1118,
+                "end_char": 1138,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Industry - Aerospace - Campania",
+                "start_char": 1165,
+                "end_char": 1196,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Pietro Orlandi, a febbraio Procura Roma ha sentito i Meneguzzi",
+        "date_raw": "Fri, 31 May 2024 15:21:35 +0200",
+        "date": "2024-05-31",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/05/31/pietro-orlandi-a-febbraio-procura-roma-ha-sentito-i-meneguzzi_648b6c42-04b2-49a2-968c-c4c2d00a6b18.html",
+        "subtitle": "'Sono state ascoltate anche le mie tre sorelle'",
+        "content": "\n                                                \n            In questi mesi la procura di Roma,\nche sta nuovamente lavorando al caso della scomparsa di Emanuela\nOrlandi, ha sentito come persone informate sui fatti, tutte e\ntre le sorelle Orlandi e poi successivamente anche i tre figli\ndello zio della giovane cittadina vaticana scomparsa nel 198\nMario Meneguzzi, ossia Pietro, Giorgio e Monica. Lo rende noto\nPietro Orlandi commentando con l'ANSA l'audizione che si è\ntenuta ieri in commissione bicamerale di inchiesta sulle\nscomparse di Mirella Gregori e di Emanuela Orlandi, proprio del\ncugino Pietro Meneguzzi.\n                                    \n                                       \n\t\t\t\t   Secondo Pietro Orlandi, in Procura a Roma sono state fatte\nmolte domande ai testimoni proprio a riguardo di Mario\nMeneguzzi. Tanto che ieri, mentre stava iniziando la sua\naudizione, Giorgio Meneguzzi ha esordito dicendo: \"Ci tengo a\ndirlo perchè è una cosa che mi sta creando un serio imbarazzo,\nche hanno indagato sulla nostra famiglia in questo momento. Ma è\nstrano che io in 41 anni non sono mai stato ascoltato, neanche\nuna volta e invece sono stato convocato il febbraio scorso in\nProcura e ho subito un interrogatorio\". A questo punto però la\nseduta della commissione è stata secretata. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1717232428.9762058,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-06-01 11:00:28",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-06-01T11.00.28",
+        "en_title": "Pietro Orlandi, in February Procura Roma heard the Meneguzzi",
+        "en_content": "In these months the prosecutor of Rome,\nwho is again working on the case of the disappearance of Emanuela\nOrlandi, he heard how people informed about the facts, all and\nthree Orlandi sisters and then three children\nof the uncle of the young Vatican town who disappeared in 198\nMario Meneguzzi, that is Pietro, Giorgio and Monica. It makes known\nPietro Orlandi commenting with the ANSA the audition that has been\nheld yesterday in bicameral committee of inquiry on\ndisappeared by Mirella Gregori and Emanuela Orlandi\nCousin Pietro Meneguzzi.\n\n\nAccording to Pietro Orlandi, in Procura in Rome were made\nmany questions to witnesses just about Mario\nMeneguzzi. So much so yesterday, when he was starting his\naudition, Giorgio Meneguzzi began by saying: \"I care about it\nto say it because it's something that's making me a serious embarrassment.\nwho investigated our family right now. But it is\nstrange that I have never been heard in 41 years, not even\nonce and instead I was summoned last February in\nProsecute and I've been interviewed.\" At this point, however,\nsitting of the committee was secreted.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "'My three sisters have also been heard'",
+        "title_NER": [
+            {
+                "word": "Pietro Orlandi",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "February",
+                "start_char": 19,
+                "end_char": 27,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Meneguzzi",
+                "start_char": 51,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "three",
+                "start_char": 4,
+                "end_char": 9,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "these months",
+                "start_char": 3,
+                "end_char": 15,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 34,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Emanuela",
+                "start_char": 97,
+                "end_char": 105,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Orlandi",
+                "start_char": 106,
+                "end_char": 113,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 169,
+                "end_char": 174,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Orlandi",
+                "start_char": 175,
+                "end_char": 182,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 200,
+                "end_char": 205,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 241,
+                "end_char": 248,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "198",
+                "start_char": 273,
+                "end_char": 276,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Mario Meneguzzi",
+                "start_char": 277,
+                "end_char": 292,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pietro",
+                "start_char": 302,
+                "end_char": 308,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Giorgio",
+                "start_char": 310,
+                "end_char": 317,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Monica",
+                "start_char": 322,
+                "end_char": 328,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pietro Orlandi",
+                "start_char": 345,
+                "end_char": 359,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ANSA",
+                "start_char": 380,
+                "end_char": 384,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 417,
+                "end_char": 426,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Mirella Gregori",
+                "start_char": 479,
+                "end_char": 494,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Emanuela Orlandi",
+                "start_char": 499,
+                "end_char": 515,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pietro Meneguzzi",
+                "start_char": 523,
+                "end_char": 539,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pietro Orlandi",
+                "start_char": 556,
+                "end_char": 570,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Procura",
+                "start_char": 575,
+                "end_char": 582,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 586,
+                "end_char": 590,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mario\nMeneguzzi",
+                "start_char": 640,
+                "end_char": 655,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 668,
+                "end_char": 677,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Giorgio Meneguzzi",
+                "start_char": 714,
+                "end_char": 731,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "41 years",
+                "start_char": 930,
+                "end_char": 938,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "last February",
+                "start_char": 981,
+                "end_char": 994,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Mattarella nomina Marina Berlusconi Cavaliere del lavoro",
+        "date_raw": "Fri, 31 May 2024 10:54:13 +0200",
+        "date": "2024-05-31",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/05/31/mattarella-nomina-marina-berlusconi-cavaliere-del-lavoro_dd6c7ee8-07c2-4aa1-aa13-4b6cda009471.html",
+        "subtitle": "Tra i 25 nomi proposti dal ministro Adolfo Urso",
+        "content": "\n                                                \n            Il presidente della Repubblica Sergio\nMattarella ha nominanto Marina Elvira Berlusconi Cavaliere del\nLavoro. E'quanto si legge nell'elenco dei 25 Cavalieri del\nLavoro, nominati dal Capo dello Stato, su proposta del ministro\ndel Made in Italy Adolfo Urso. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 11,
+        "placed": "Politica",
+        "epoch": 1717232429.1022623,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-06-01 11:00:29",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-06-01T11.00.29",
+        "en_title": "Mattarella appoints Marina Berlusconi Cavaliere del lavoro",
+        "en_content": "The President of the Republic of Sergio\nMattarella appointed Marina Elvira Berlusconi Knight\nWork. That's how we read in the list of 25 Knights of the\nWork, appointed by the Head of State, on a proposal from the Minister\nMade in Italy Adolfo Urso.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "Among the 25 names proposed by Minister Adolfo Urso",
+        "title_NER": [
+            {
+                "word": "Mattarella",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marina Berlusconi Cavaliere del lavoro",
+                "start_char": 20,
+                "end_char": 58,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "25",
+                "start_char": 10,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Adolfo Urso",
+                "start_char": 40,
+                "end_char": 51,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Republic of",
+                "start_char": 17,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sergio\nMattarella",
+                "start_char": 33,
+                "end_char": 50,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marina Elvira Berlusconi Knight",
+                "start_char": 61,
+                "end_char": 92,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "25",
+                "start_char": 133,
+                "end_char": 135,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Knights of the\nWork",
+                "start_char": 136,
+                "end_char": 155,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Head of State",
+                "start_char": 170,
+                "end_char": 187,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Minister\nMade",
+                "start_char": 208,
+                "end_char": 225,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 229,
+                "end_char": 234,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Adolfo Urso",
+                "start_char": 235,
+                "end_char": 246,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Marina Berlusconi: \"Dedico il riconoscimento a mio padre\"",
+        "date_raw": "Fri, 31 May 2024 15:34:59 +0200",
+        "date": "2024-05-31",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/05/31/marina-berlusconi-dedico-il-riconoscimento-a-mio-padre_ed25445d-286f-4196-89bf-d577b8a6b43a.html",
+        "subtitle": "",
+        "content": "\"Desidero esprimere la mia profonda gratitudine al capo dello Stato Sergio Mattarella e al Consiglio dell'Ordine al Merito del Lavoro per avermi onorata con questo prestigioso riconoscimento. Lo dedico a Silvio Berlusconi, mio padre, che è stato e sempre sarà 'Il Cavaliere'\". Così Marina Berlusconi, presidente di Mondadori e di Fininvest, nominata Cavaliere del lavoro. \"Voglio quindi condividere questo riconoscimento con ciascuna delle persone che lavorano in Mondadori, e, più in generale, con le persone di Mediaset e di tutto il gruppo Fininvest\", aggiunge.Parlando del padre, Silvio Berlusconi, Marina sottolinea che \"ha creduto in me, mi ha sostenuto e mi ha dato la possibilità di fare il mestiere che ritengo il più bello del mondo, quello dell'editore. Da oltre vent'anni ho l'onore di presiedere un grande gruppo come Mondadori, vero e proprio patrimonio del nostro Paese, che ha fatto della libertà e del pluralismo la sua ragion d'essere\". A proposito dei dipendenti delle aziende di famiglia, Marina Berlusconi afferma inoltre che \"la mia nomina di oggi è allo stesso tempo un premio al loro impegno, alla loro energia, alla loro passione\".\n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 3,
+        "placed": "Politica",
+        "epoch": 1717232429.3235292,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-06-01 11:00:29",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-06-01T11.00.29",
+        "en_title": "Marina Berlusconi: \"I give my father recognition\"",
+        "en_content": "\"I wish to express my deep gratitude to the head of the State Sergio Mattarella and to the Council of the Order of Merit of Labour for honoring me with this prestigious award. I give it to Silvio Berlusconi, my father, who has been and will always be 'The Knight'. So Marina Berlusconi, president of Mondadori and Fininvest, appointed Cavaliere del lavoro. \"I want to share this recognition with each of the people working in Mondadori, and more generally with the people of Mediaset and the whole Fininvest group,\" he adds. Speaking of the father, Silvio Berlusconi, Marina emphasizes that \"he believed in me, he supported me and gave me the opportunity to do the job that I consider the most beautiful in the world, that of the publisher. For over twenty years, I have the honour to preside over a large group like Mondadori, a real heritage of our country, which has made freedom and pluralism its raison d'être\". Speaking of the employees of the family companies, Marina Berlusconi also states that \"my appointment today is at the same time a reward for their commitment, their energy, their passion\".\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Marina Berlusconi",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "State",
+                "start_char": 56,
+                "end_char": 61,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sergio Mattarella",
+                "start_char": 62,
+                "end_char": 79,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Council of the Order of Merit of Labour",
+                "start_char": 87,
+                "end_char": 130,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Silvio Berlusconi",
+                "start_char": 189,
+                "end_char": 206,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Knight",
+                "start_char": 256,
+                "end_char": 262,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marina Berlusconi",
+                "start_char": 268,
+                "end_char": 285,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mondadori",
+                "start_char": 300,
+                "end_char": 309,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Fininvest",
+                "start_char": 314,
+                "end_char": 323,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cavaliere del lavoro",
+                "start_char": 335,
+                "end_char": 355,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mondadori",
+                "start_char": 426,
+                "end_char": 435,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mediaset",
+                "start_char": 475,
+                "end_char": 483,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Silvio Berlusconi",
+                "start_char": 549,
+                "end_char": 566,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Marina",
+                "start_char": 568,
+                "end_char": 574,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "over twenty years",
+                "start_char": 745,
+                "end_char": 762,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Mondadori",
+                "start_char": 817,
+                "end_char": 826,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Marina Berlusconi",
+                "start_char": 968,
+                "end_char": 985,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 1019,
+                "end_char": 1024,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Chigi, a studio reciprocità con Usa su ospitalità rifugiati",
+        "date_raw": "Fri, 31 May 2024 14:23:19 +0200",
+        "date": "2024-05-31",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2024/05/31/chigi-a-studio-reciprocita-con-usa-su-ospitalita-rifugiati_f38520fc-aee2-48fb-8cf1-7ac166687ca4.html",
+        "subtitle": "In Italia 20 venezuelani, negli States rifugiati in Libia",
+        "content": "\n                                                \n            \"La ricostruzione di CBS, secondo la\nquale l'Italia avrebbe dato l'assenso alla ricollocazione sul\nproprio territorio di rifugiati sudamericani, è del tutto\nfuorviante. Lo affermano fonti di Palazzo Chigi, spiegando che\n\"è attualmente allo studio un'ipotesi di reciprocità, secondo la\nquale gli Usa ospiterebbero rifugiati presenti in Libia con la\nvolontà di recarsi in Europa, mentre alcuni Stati europei del\nMediterraneo ospiterebbero poche decine di profughi sud\namericani. Per quanto riguarda la nostra nazione, si tratterebbe\ndi circa 20 rifugiati venezuelani di origine italiana per\navviare percorsi lavorativi in Italia. Discussione al momento\nsolo allo studio e che risulterebbe, in ogni caso, molto\nvantaggiosa proprio per Italia e Stati europei di primo\napprodo\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1717232429.3358808,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2024-06-01 11:00:29",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2024-06-01T11.00.29",
+        "en_title": "Chigi, a reciprocity study with Usa on refugee hospitality",
+        "en_content": "\"The reconstruction of CBS, according to\nwhich Italy would give assent to the relocation on\nown territory of South American refugees, is entirely\nmisleading. The sources of Palazzo Chigi say that\n\"is currently at the study a hypothesis of reciprocity, according to the\nwhich the US would host refugees present in Libya with\nI would like to say that we have to go to Europe, while some European States have\nMediterranean would host a few dozen southern refugees\nAmericans. As for our nation, it would be\nof about 20 Venezuelan refugees of Italian origin\nstart working routes in Italy. Discussion at the moment\nonly to the study and that it would, however, be very\nadvantageous for Italy and the European States\nI approud.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "In Italy 20 Venezuelans, in the States refugees in Libya",
+        "title_NER": [
+            {
+                "word": "Chigi",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Italy",
+                "start_char": 3,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "20",
+                "start_char": 9,
+                "end_char": 11,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Venezuelans",
+                "start_char": 12,
+                "end_char": 23,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "States",
+                "start_char": 32,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Libya",
+                "start_char": 51,
+                "end_char": 56,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "CBS",
+                "start_char": 23,
+                "end_char": 26,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "South American",
+                "start_char": 109,
+                "end_char": 123,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Palazzo Chigi",
+                "start_char": 173,
+                "end_char": 186,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 279,
+                "end_char": 281,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Libya",
+                "start_char": 313,
+                "end_char": 318,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 366,
+                "end_char": 372,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "some European States",
+                "start_char": 380,
+                "end_char": 400,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mediterranean",
+                "start_char": 406,
+                "end_char": 419,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "a few dozen",
+                "start_char": 431,
+                "end_char": 442,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Americans",
+                "start_char": 461,
+                "end_char": 470,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "about 20",
+                "start_char": 506,
+                "end_char": 514,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Venezuelan",
+                "start_char": 515,
+                "end_char": 525,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italian",
+                "start_char": 538,
+                "end_char": 545,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 577,
+                "end_char": 582,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 680,
+                "end_char": 685,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the European States",
+                "start_char": 690,
+                "end_char": 709,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Reproduction reserved © Copyright",
+                "start_char": 727,
+                "end_char": 760,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    }
+]
