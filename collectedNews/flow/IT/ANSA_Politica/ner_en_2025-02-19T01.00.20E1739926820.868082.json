@@ -1,0 +1,376 @@
+[
+    {
+        "title": "Morta a 49 anni Ilaria Iacoboni, giornalista di Radio Capital",
+        "date_raw": "Tue, 18 Feb 2025 17:46:37 +0100",
+        "date": "2025-02-18",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2025/02/18/morta-a-49-anni-ilaria-iacoboni-giornalista-di-radio-capital_3ef19dd6-b68c-4c28-9b04-992bf1239d44.html",
+        "subtitle": "Aveva lavorato con Vittorio Zucconi e Michela Murgia",
+        "content": "È morta questa mattina a Roma Ilaria Iacoboni, giornalista di Radio Capital.     Nata a Napoli 49 anni fa, da tempo lavorava nella redazione della radio del Gruppo Gedi: prima al notiziario, poi era passata alla fascia pomeridiana. Il Tg Zero con Vittorio Zucconi e l'attuale direttore delle news, Edoardo Buffoni; poi con Michela Murgia.     Da due anni lottava contro il tumore. I colleghi di Radio Capital ne ricordano la professionalità, il sorriso e la simpatia. Ilaria lascia il figlio Tazio, di 12 anni, e il compagno Marco.     I funerali si terranno giovedì 20 febbraio a Roma, alle 10, nella chiesa di Santa Maria in Trastevere. \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Politica",
+        "epoch": 1739926821.4705381,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2025-02-19 02:00:21",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-19T01.00.21",
+        "en_title": "Death to 49 years Ilaria Iacoboni, journalist of Radio Capital",
+        "en_content": "She died this morning in Rome Ilaria Iacoboni, journalist of Radio Capital. Born in Naples 49 years ago, he has long worked in the editorial staff of the Gedi Group: first at the news, then it passed to the afternoon band. Tg Zero with Vittorio Zucconi and the current news director, Edoardo Buffoni; then with Michela Murgia. He's been fighting cancer for two years. Radio Capital's colleagues remember their professionalism, smile and sympathy. Ilaria leaves his son Tazio, 12 years old, and his partner Marco. The funeral will take place on Thursday 20 February in Rome, at 10 am, in the church of Santa Maria in Trastevere.\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "He had worked with Vittorio Zucconi and Michela Murgia",
+        "title_NER": [
+            {
+                "word": "Death to 49 years",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ilaria Iacoboni",
+                "start_char": 18,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Radio Capital",
+                "start_char": 49,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Vittorio Zucconi",
+                "start_char": 19,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michela Murgia",
+                "start_char": 40,
+                "end_char": 54,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "this morning",
+                "start_char": 9,
+                "end_char": 21,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Rome",
+                "start_char": 25,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ilaria Iacoboni",
+                "start_char": 30,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Radio Capital",
+                "start_char": 61,
+                "end_char": 74,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Naples",
+                "start_char": 84,
+                "end_char": 90,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "49 years ago",
+                "start_char": 91,
+                "end_char": 103,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Gedi Group",
+                "start_char": 150,
+                "end_char": 164,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 166,
+                "end_char": 171,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "afternoon",
+                "start_char": 207,
+                "end_char": 216,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Tg Zero",
+                "start_char": 223,
+                "end_char": 230,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vittorio Zucconi",
+                "start_char": 236,
+                "end_char": 252,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Edoardo Buffoni",
+                "start_char": 284,
+                "end_char": 299,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Michela Murgia",
+                "start_char": 311,
+                "end_char": 325,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two years",
+                "start_char": 357,
+                "end_char": 366,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Radio Capital's",
+                "start_char": 368,
+                "end_char": 383,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ilaria",
+                "start_char": 447,
+                "end_char": 453,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tazio",
+                "start_char": 469,
+                "end_char": 474,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "12 years old",
+                "start_char": 476,
+                "end_char": 488,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Marco",
+                "start_char": 506,
+                "end_char": 511,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Thursday 20 February",
+                "start_char": 544,
+                "end_char": 564,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Rome",
+                "start_char": 568,
+                "end_char": 572,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "10 am",
+                "start_char": 577,
+                "end_char": 582,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Santa Maria",
+                "start_char": 601,
+                "end_char": 612,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trastevere",
+                "start_char": 616,
+                "end_char": 626,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "P.Chigi, con Brunner discusso un anticipo sui Paesi sicuri",
+        "date_raw": "Tue, 18 Feb 2025 19:54:41 +0100",
+        "date": "2025-02-18",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2025/02/18/p.chigi-con-brunner-discusso-un-anticipo-sui-paesi-sicuri_91675948-7ed9-4e9e-802a-36ec38f5bdf2.html",
+        "subtitle": "Da Meloni sostegno a nuovo quadro normativo Ue sui rimpatri",
+        "content": "\n                                                \n            La presidente del Consiglio Giorgia\nMeloni ha ricevuto a Palazzo Chigi il Commissario Europeo per\ngli Affari Interni, Magnus Brunner nel quadro della sua prima\nvisita in Italia. Come spiega una nota di Palazzo Chigi, \"al\ncentro del colloquio\" ci sono state \"le prossime iniziative di\npolitica migratoria della Commissione europea a partire dal\nrafforzamento dei partenariati con i Paesi di origine e transito\ndei migranti e dall'attuazione del Patto Migrazione e Asilo,\nincluso il possibile anticipo del nuovo concetto di Paese sicuro\ndi origine\".\n                                    \n                                       \n\t\t\t\t   Meloni \"ha, inoltre, ribadito il suo sostegno per un nuovo e\npiù efficace quadro normativo europeo in tema di rimpatri in\nvista dell'imminente presentazione da parte della Commissione di\nuna specifica proposta legislativa\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1739926821.4895582,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2025-02-19 02:00:21",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-19T01.00.21",
+        "en_title": "Fr. Chigi, with Brunner discussed an advance on safe countries",
+        "en_content": "The President of the Giorgia Council\nMeloni received at Palazzo Chigi the European Commissioner for\nInternal Affairs, Magnus Brunner as part of his first\nvisit to Italy. As explained by a note of Palazzo Chigi, \"at\nthe centre of the interview \"the next initiatives of\nEuropean Commission migration policy\nstrengthening partnerships with countries of origin and transit\nof migrants and the implementation of the migration and asylum pact,\nincluded the possible advance of the new concept of safe country\nof origin.\"\n\n\nMeloni \"has, moreover, reiterated its support for a new and\nmore effective European regulatory framework on repatriation\nHaving regard to the forthcoming presentation by the Commission\na specific legislative proposal.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "From Meloni support to new regulatory framework EU on repatriations",
+        "title_NER": [
+            {
+                "word": "Chigi",
+                "start_char": 4,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Brunner",
+                "start_char": 16,
+                "end_char": 23,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 5,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 48,
+                "end_char": 50,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Giorgia Council",
+                "start_char": 21,
+                "end_char": 36,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 37,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palazzo Chigi",
+                "start_char": 56,
+                "end_char": 69,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 74,
+                "end_char": 82,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Internal Affairs",
+                "start_char": 100,
+                "end_char": 116,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Magnus Brunner",
+                "start_char": 118,
+                "end_char": 132,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 148,
+                "end_char": 153,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 163,
+                "end_char": 168,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palazzo Chigi",
+                "start_char": 196,
+                "end_char": 209,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European Commission",
+                "start_char": 268,
+                "end_char": 287,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 517,
+                "end_char": 523,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 592,
+                "end_char": 600,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Commission",
+                "start_char": 691,
+                "end_char": 701,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    }
+]
