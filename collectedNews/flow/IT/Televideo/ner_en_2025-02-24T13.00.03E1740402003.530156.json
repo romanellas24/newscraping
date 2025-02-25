@@ -1,0 +1,2083 @@
+[
+    {
+        "title": "SALE INFLAZIONE EUROZONA: GENNAIO +2,5% Tassi più bassi in Italia e Irlanda",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": " Sale inflazione Eurozona, gennaio +2,5% Cresce ancora l'inflazione nell'Eurozona: a gennaio l'indice dei prezzi al consumo è al 2,5%, in lieve aumento sul 2,4% di dicembre. L'inflazione annua è al 2,8%. A dicembre era al 2,7%. Sono i dati Eurostat.    I tassi annuali più bassi si registrano in Danimarca (1,4%), in Italia, Irlanda e Finlandia (1,7%).    Inflazione più alta in Ungheria (5,4%), Romania (5,3%), Croazia (5%).  ",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1740402003.8432515,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.03",
+        "en_title": "SALE INFLON: JANUARY +2.5% Lower rates in Italy and Ireland",
+        "en_content": "Inflation rates Eurozone, January +2.5% inflation in the Eurozone is still growing: in January the consumer price index is 2.5%, slightly up 2.4% in December. Annual inflation is 2.8%. December was 2.7%. It's Eurostat data. The lowest annual rates are recorded in Denmark (1.4%), Italy, Ireland and Finland (1.7%). Higher inflation in Hungary (5.4%), Romania (5.3%), Croatia (5%).",
+        "title_NER": [
+            {
+                "word": "JANUARY +2.5%",
+                "start_char": 13,
+                "end_char": 26,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Italy",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ireland",
+                "start_char": 52,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "January",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Eurozone",
+                "start_char": 57,
+                "end_char": 65,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "January",
+                "start_char": 87,
+                "end_char": 94,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.5%",
+                "start_char": 123,
+                "end_char": 127,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2.4%",
+                "start_char": 141,
+                "end_char": 145,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "December",
+                "start_char": 149,
+                "end_char": 157,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Annual",
+                "start_char": 159,
+                "end_char": 165,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.8%",
+                "start_char": 179,
+                "end_char": 183,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "December",
+                "start_char": 185,
+                "end_char": 193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2.7%",
+                "start_char": 198,
+                "end_char": 202,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Eurostat",
+                "start_char": 209,
+                "end_char": 217,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "annual",
+                "start_char": 235,
+                "end_char": 241,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 264,
+                "end_char": 271,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1.4%",
+                "start_char": 273,
+                "end_char": 277,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Italy",
+                "start_char": 280,
+                "end_char": 285,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ireland",
+                "start_char": 287,
+                "end_char": 294,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Finland",
+                "start_char": 299,
+                "end_char": 306,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1.7%",
+                "start_char": 308,
+                "end_char": 312,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Hungary",
+                "start_char": 335,
+                "end_char": 342,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5.4%",
+                "start_char": 344,
+                "end_char": 348,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Romania",
+                "start_char": 351,
+                "end_char": 358,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5.3%",
+                "start_char": 360,
+                "end_char": 364,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Croatia",
+                "start_char": 367,
+                "end_char": 374,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5%",
+                "start_char": 376,
+                "end_char": 378,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "BOOM DI MINORI RESPONSABILI DI OMICIDI  In 10 anni -33% uccisioni in Italia",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=141",
+        "content": " Polizia: meno omicidi,ma non tra minori Nei dati che emergono dal report della Criminalpol della Polizia, gli omicidi sono calati in 10 anni del 33% e del 6% dal 2023 al 2024.     La flessione maggiore riguarda gli omicidi di mafia: da 53 nel 2015 a 15 nel 2024, un calo del 72%. La regione con più omicidi è la Campania, che è anche in controtendenza:+31% tra 2023 e 2024. In crescita però gli omicidi con autori e/o vittime minorenni:dal 2023 al 2024 i primi passano da 4 a 11% e i minori uccisi salgono dal 4 all'8% del totale.",
+        "ranked": 2,
+        "placed": "Italy",
+        "epoch": 1740402003.8721614,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.03",
+        "en_title": "BOOM OF RESPONSIBLE MINATIONS OMICIDE In 10 years -33% killed in Italy",
+        "en_content": "Police: less murder, but not among minors In the data that emerge from the police report, the murders fell in 10 years of 33% and 6% from 2023 to 2024. The greatest decline is the murders of mafia: from 53 in 2015 to 15 in 2024, a decrease of 72%. The region with multiple murders is Campania, which is also in counter-tendence:+31% between 2023 and 2024. But the murders with authors and/or minor victims are growing: from 2023 to 2024 the first passes from 4 to 11% and the minors killed rise from 4 to 8% of the total.",
+        "title_NER": [
+            {
+                "word": "10 years",
+                "start_char": 41,
+                "end_char": 49,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 65,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "10 years",
+                "start_char": 110,
+                "end_char": 118,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "33% and 6%",
+                "start_char": 122,
+                "end_char": 132,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "2023 to 2024",
+                "start_char": 138,
+                "end_char": 150,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "53",
+                "start_char": 203,
+                "end_char": 205,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2015",
+                "start_char": 209,
+                "end_char": 213,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "15",
+                "start_char": 217,
+                "end_char": 219,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2024",
+                "start_char": 223,
+                "end_char": 227,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "72%",
+                "start_char": 243,
+                "end_char": 246,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Campania",
+                "start_char": 284,
+                "end_char": 292,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tendence:+31%",
+                "start_char": 319,
+                "end_char": 332,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "between 2023 and 2024",
+                "start_char": 333,
+                "end_char": 354,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2023 to 2024",
+                "start_char": 424,
+                "end_char": 436,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 441,
+                "end_char": 446,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "4 to 11%",
+                "start_char": 459,
+                "end_char": 467,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "4 to 8%",
+                "start_char": 500,
+                "end_char": 507,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "TAJANI: UE A TAVOLO PER PACE IN UCRAINA \"Nostra presenza non si discute\"",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Tajani: Ue a tavolo per pace in Ucraina \"La partecipazione europea ai negoziati sull'Ucraina mi sembra fuori discussione\". Così il vicepremier e ministro  degli Esteri Tajani. \"L'obiettivo resta quello di una pace giusta che garantisca sicurezza e libertà all'Ucraina\". In Medioriente \"non è facile costruire la tregua.Diverse provocazioni non hanno aiutato verso la seconda fase del cessate il fuoco. Lavoriamo per fare in modo che si possa procedere\", aggiunge. Sull'Afd in Germania ribadisce: \"Posizioni inconciliabili con le mie. Non hanno idee positive sull'Italia\". ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1740402003.8877776,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.03",
+        "en_title": "TAJANI: EU TO PACE IN UCRAINA \"Our presence is not discussed\"",
+        "en_content": "Tajani: EU at the table for peace in Ukraine \"European participation in the negotiations on Ukraine seems to me out of discussion\". So the deputypremier and foreign minister Tajani. \"The aim remains to ensure security and freedom for Ukraine.\" In Medioriente \"it is not easy to build the truce. Several provocations did not help towards the second phase of the ceasefire. We work to ensure that we can proceed,\" he adds. On the Afd in Germany says: \"Unconcilable positions with mine. They have no positive ideas about Italy.\"",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 8,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tajani",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 8,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 37,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 46,
+                "end_char": 54,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 92,
+                "end_char": 99,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 174,
+                "end_char": 180,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 234,
+                "end_char": 241,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Medioriente",
+                "start_char": 247,
+                "end_char": 258,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "second",
+                "start_char": 341,
+                "end_char": 347,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Afd",
+                "start_char": 428,
+                "end_char": 431,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Germany",
+                "start_char": 435,
+                "end_char": 442,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Unconcilable",
+                "start_char": 450,
+                "end_char": 462,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 518,
+                "end_char": 523,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "LEADER UE A KIEV: MOSCA LA RESPONSABILE Tre anni fa scattava l'invasione russa  Zelensky: \"Anni di eroismo assoluto\"   Mosca:alt guerra solo dopo risultati150  VATICANO: \"IL PAPA E' DI UMORE BUONO\"  \"Fa terapie, si nutre, non ha dolori\"  Rosario tutte le sere in San Pietro 160  GERMANIA,VINCE CDU-CSU.VOLA ULTRADESTRA Crolla di oltre 9% Spd di Scholz",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1740402003.896341,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.03",
+        "en_title": "EU LEADER TO KIEV: MOSCA THE RESPONSABLE Three years ago the Russian invasion Zelensky: \"Years of absolute heroism\" Moscow:at war only after results150 VATICAN: \"THE PAPA IS OF HUMAN BUONO\" \"Fa therapies, feeds, does not have pains\" Rosario all the nights in St. Peter 160 GERMANY,VINCE CDU-CSU.VOLA ULTRADESTRA Crolla of more 9% Scholz Spd",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "KIEV",
+                "start_char": 13,
+                "end_char": 17,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "MOSCA",
+                "start_char": 19,
+                "end_char": 24,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Three years ago",
+                "start_char": 41,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russian",
+                "start_char": 61,
+                "end_char": 68,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 78,
+                "end_char": 86,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Years",
+                "start_char": 89,
+                "end_char": 94,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 116,
+                "end_char": 122,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "VATICAN",
+                "start_char": 152,
+                "end_char": 159,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rosario",
+                "start_char": 233,
+                "end_char": 240,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "St.",
+                "start_char": 259,
+                "end_char": 262,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "GERMANY",
+                "start_char": 273,
+                "end_char": 280,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "VINCE CDU-CSU.VOLA ULTRADESTRA Crolla",
+                "start_char": 281,
+                "end_char": 318,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "9%",
+                "start_char": 327,
+                "end_char": 329,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Scholz Spd",
+                "start_char": 330,
+                "end_char": 340,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "Tajani:crescita è obiettivo comune",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Tajani:crescita obiettivo Forum Emirati \"Il Forum di dialogo imprenditoriale Italia-Emirati Arabi Uniti è un'occasione preziosa. L'obiettivo comune è la crescita delle nostre imprese e dei nostri due Paesi\".    Lo dice il ministro degli Esteri, Tajani, aprendo il Forum imprenditoriale Italia-Emirati Arabi Uniti a Roma. \"Il nostro interscambio continua a crescere al ritmo straordinario di oltre il 14% all'anno\", aggiunge.  Il presidente degli Emirati, bin Zayed, è stato ricevuto al Quirinale da Mattarella e a Palazzo Chigi da Meloni.  ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1740402003.9385247,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.03",
+        "en_title": "Tajani: growth is common goal",
+        "en_content": "Tajani:created objective Forum Emirates \"The Forum for Business Dialogue Italy-United Arab Emirates is a precious occasion. The common goal is the growth of our companies and our two countries.\" The Foreign Minister Tajani says this, opening the Italian-United Arab Emirates Business Forum in Rome. \"Our interchange continues to grow at the extraordinary pace of over 14% a year,\" he adds. The president of the Emirates, bin Zayed, was received at the Quirinale by Mattarella and Palazzo Chigi da Meloni.",
+        "content_NER": [
+            {
+                "word": "Tajani",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The Forum for Business Dialogue Italy-United Arab Emirates",
+                "start_char": 41,
+                "end_char": 99,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 179,
+                "end_char": 182,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 216,
+                "end_char": 222,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 246,
+                "end_char": 253,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rome",
+                "start_char": 293,
+                "end_char": 297,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "over 14%",
+                "start_char": 363,
+                "end_char": 371,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Emirates",
+                "start_char": 411,
+                "end_char": 419,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "bin Zayed",
+                "start_char": 421,
+                "end_char": 430,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 465,
+                "end_char": 475,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palazzo Chigi da Meloni",
+                "start_char": 480,
+                "end_char": 503,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "MEDIORIENTE, MATTARELLA: SI' AL DIALOGO Al Quirinale leader Emirati Arabi",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Medioriente, Mattarella: sì a dialogo \"Abbiamo condannato con fermezza il disumano e vile attacco terroristico del 7 ottobre di Hamas,che rinnova atrocità con il crudele spettacolo della consegna di ostaggi sopravvissuti e i corpi di quelli uccisi. Abbiamo esercitato sforzi perché il conflitto avesse fine\" Così Mattarella alla cena in onore del presidente degli UAE, bin Zayed Al Nahyan, al Quirinale. \"L'impegno non può che essere evitare una ripresa dei combattimenti, tenere aperti i colloqui e rimuovere i sedimenti di rancore\", ha aggiunto il capo dello Stato italiano. ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1740402003.9579527,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.03",
+        "en_title": "_ SI' AL DIALOGO Al Quirinale leader Arab Emirates",
+        "en_content": "Medioriente, Mattarella: yes to dialogue \"We firmly condemned the inhuman and vile terrorist attack of 7 October of Hamas, which renews atrocities with the cruel show of the delivery of surviving hostages and the bodies of those killed. We have exerted efforts to end the conflict\" So Mattarella at dinner in honor of the president of the UAE, bin Zayed Al Nahyan, at the Quirinale. \"The commitment can only be avoided a resumption of the fights, keep open the talks and remove the sediments of grudge\", added the head of the Italian state.",
+        "title_NER": [
+            {
+                "word": "AL DIALOGO Al Quirinale",
+                "start_char": 6,
+                "end_char": 29,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Arab",
+                "start_char": 37,
+                "end_char": 41,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Medioriente",
+                "start_char": 0,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 13,
+                "end_char": 23,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "7 October",
+                "start_char": 103,
+                "end_char": 112,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 116,
+                "end_char": 121,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 285,
+                "end_char": 295,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "UAE",
+                "start_char": 339,
+                "end_char": 342,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "bin Zayed Al Nahyan",
+                "start_char": 344,
+                "end_char": 363,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Quirinale",
+                "start_char": 372,
+                "end_char": 381,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 526,
+                "end_char": 533,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "MELONI:FORUM EMIRATI,\"GIORNATA STORICA\" \"Firma 40 intese, investiti 40mld\"",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1740402004.1532452,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "_",
+        "en_content": ""
+    },
+    {
+        "title": "Merz: formare presto nuovo governo",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Voto Germania,Merz (Cdu): abbiamo vinto \"Serata storica. Cdu e Csu hanno vinto le elezioni\". Così il candidato cancelliere Merz, dopo l'affermazione come primo partito in Germania.\"Non sarà facile formare un governo. Dobbiamo farlo presto,il mondo non aspetta noi.La Germania deve tornare a essere affidabile\" Secondo partito l'estrema destra di Afd \"Abbiamo raddoppiato i voti.Mano tesa a una partecipazione al governo\", dice la leader Weidel. \"Amara sconfitta\", dice il leader Spd Scholz, che ribadisce: nessuna collaborazione con l'Afd.Mentre Habeck lascia la guida dei Verdi. ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1740402004.1637821,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "Merz: forming new government soon",
+        "en_content": "Vote Germany,Merz (Cdu): we won \"Historical evening. Cdu and Csu won the election.\" Thus the candidate Chancellor Merz, after the statement as first party in Germany. \"It will not be easy to form a government. We have to do it soon, the world is not waiting for us. Germany must return to be reliable\" Second party the extreme right of Afd \"We doubled the votes. Hands aimed at participation in the government,\" says leader Weidel. \"Amara defeat\", says leader Spd Scholz, who reiterates: no collaboration with the Afd.Mentre Habeck leaves the Greens' guide.",
+        "title_NER": [
+            {
+                "word": "Merz",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Germany",
+                "start_char": 5,
+                "end_char": 12,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Merz",
+                "start_char": 13,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "evening",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Csu",
+                "start_char": 61,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Merz",
+                "start_char": 114,
+                "end_char": 118,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 143,
+                "end_char": 148,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Germany",
+                "start_char": 158,
+                "end_char": 165,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Germany",
+                "start_char": 266,
+                "end_char": 273,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Second",
+                "start_char": 302,
+                "end_char": 308,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Afd",
+                "start_char": 336,
+                "end_char": 339,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Weidel",
+                "start_char": 424,
+                "end_char": 430,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Amara",
+                "start_char": 433,
+                "end_char": 438,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Spd Scholz",
+                "start_char": 460,
+                "end_char": 470,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Afd",
+                "start_char": 514,
+                "end_char": 517,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mentre Habeck",
+                "start_char": 518,
+                "end_char": 531,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greens",
+                "start_char": 543,
+                "end_char": 549,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Marsiglia,molotov a consolato russo",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Marsiglia, molotov su consolato russo C'è stata un'esplosione a Marsiglia,nei pressi del consolato russo. Lo riferiscono i media francesi. Non ci sono  danni né vittime.     Sono intervenuti una trentina di Vigili del fuoco. L'esplosione sarebbe stata provocata da 2 molotov lanciate nel  giardino della sede diplomatica. Nella stessa zona ci sono i consolati di molti altri Paesi.    Secondo il ministero degli Esteri russo l'accaduto presenta \"tutti i tratti  distintivi di un attacco terroristico\".",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1740402004.1719875,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "Marseille,molotov to Russian consulate",
+        "en_content": "Marseille, Molotov on Russian cons There was an explosion in Marseille, near the Russian consulate. The French media report it. There's no damage or casualties. Thirty firefighters took part. The explosion would have been caused by 2 molotovs thrown into the diplomatic seat garden. In the same area there are the consulates of many other countries. According to the Russian Foreign Ministry, the incident presents \"all the distinctive features of a terrorist attack\".",
+        "title_NER": [
+            {
+                "word": "Marseille",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 21,
+                "end_char": 28,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Marseille",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 22,
+                "end_char": 29,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Marseille",
+                "start_char": 61,
+                "end_char": 70,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 81,
+                "end_char": 88,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "French",
+                "start_char": 104,
+                "end_char": 110,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Thirty",
+                "start_char": 161,
+                "end_char": 167,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2",
+                "start_char": 232,
+                "end_char": 233,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Russian Foreign Ministry",
+                "start_char": 363,
+                "end_char": 391,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "DISAGI PER SCIOPERO BUS, TRAM E VOLI   Corse ridotte, ferme alcune linee",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=134",
+        "content": " Sciopero trasporti:disagi,corse ridotte Corse ridotte, alcune metro ferme e disagi per lo sciopero di 24 ore del trasporto pubblico, indetto dai sindacati di base per il mancato adeguamento salariale e le condizioni contrattuali. Orari e modalità sono diversi da città a città, fatte salve fasce di garanzia. A Milano, le linee metro sono aperte, bus e tram in servizio,A Roma,funzionano linee metro A e B,possibili riduzioni di corse.Chiusa la C. A Napoli,riduzioni parziali. Adesione più alta a Torino e Bologna. Nel settore aereo, stop dalle 12 alle 16 per Easyjet,Aeroitalia",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1740402004.199725,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "PROVISIONS FOR BUS, TRAM AND VOLI Reduced strokes, stop some lines",
+        "en_content": "Transport strike:disagi, reduced short distances Reduced fees, some metre firm and inconvenience for the strike of 24 hours of public transport, called by the basic unions for lack of wage adjustment and contractual conditions. Times and modes are different from city to city, subject to warranty bands. In Milan, the metro lines are open, bus and tram in service, in Rome, operate metro lines A and B, possible reductions of racing. Closed the C. In Naples, partial reductions. Higher education in Turin and Bologna. In the air sector, stop from 12 to 16 for Easyjet,Aeroitalia",
+        "content_NER": [
+            {
+                "word": "24 hours",
+                "start_char": 115,
+                "end_char": 123,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Milan",
+                "start_char": 307,
+                "end_char": 312,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "metro",
+                "start_char": 318,
+                "end_char": 323,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 368,
+                "end_char": 372,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Naples",
+                "start_char": 451,
+                "end_char": 457,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turin",
+                "start_char": 499,
+                "end_char": 504,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bologna",
+                "start_char": 509,
+                "end_char": 516,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "12",
+                "start_char": 547,
+                "end_char": 549,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "16",
+                "start_char": 553,
+                "end_char": 555,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Easyjet",
+                "start_char": 560,
+                "end_char": 567,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Aeroitalia",
+                "start_char": 568,
+                "end_char": 578,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "ZELENSKY: \"TRE ANNI DI EROISMO UCRAINO\" Grazie a chi ci difende e sostiene",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Zelensky: \"Tre anni di eroismo ucraino\" \"Tre anni di resistenza. Tre anni di gratitudine. Tre anni di eroismo  assoluto degli ucraini\".   Così il presidente ucraino, Zelensky, in un post su X nel terzo anniversario dell'invasione russa.    \"Sono orgoglioso dell'Ucraina. Ringrazio tutti coloro che la difendono e la sostengono\", aggiunge. \"E possa il ricordo di tutti coloro che hanno dato la vita per il nostro Stato e il nostro popolo essere eterno\".    ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1740402004.2162163,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "ZELENSKY: \"OTHER YEARS OF EROISMO UCRAINO\" Thanks to those who defend and support us",
+        "en_content": "Zelensky: \"Three years of Ukrainian heroism\" \"Three years of resistance. Three years of gratitude. Three years of absolute heroism of the Ukrainians.\" So the Ukrainian president, Zelensky, in a post on X on the third anniversary of the Russian invasion. \"I'm proud of Ukraine. I thank all those who defend it and support it,\" he adds. \"And may the memory of all who have given life for our state and our people be eternal.\"",
+        "title_NER": [
+            {
+                "word": "ZELENSKY",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Three years",
+                "start_char": 11,
+                "end_char": 22,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 26,
+                "end_char": 35,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Three years",
+                "start_char": 46,
+                "end_char": 57,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Three years",
+                "start_char": 73,
+                "end_char": 84,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Three years",
+                "start_char": 99,
+                "end_char": 110,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 138,
+                "end_char": 148,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 158,
+                "end_char": 167,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 179,
+                "end_char": 187,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "third",
+                "start_char": 211,
+                "end_char": 216,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 236,
+                "end_char": 243,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 268,
+                "end_char": 275,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "MELONI:FORUM EMIRATI,\"GIORNATA STORICA\" \"Firma 40 intese, investiti 40mld\"",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Meloni: Emirati investono 40mld da noi Accolta da un applauso al Forum imprenditoriale Italia-Emirati Arabi Uniti, la premier Meloni definisce \"storica\" la giornata di oggi.    \"Abbiamo firmato oltre 40 intese e ciò sottolinea come la cooperazione bilaterale sia a un livello mai raggiunto  prima, un lavoro che non intende esaurirsi qui\".\"Soddisfazione\" per la decisione degli Emirati di investire 40mld di dollari in Italia,\"uno dei più rilevanti, più imponenti investimenti per la storia della nostra nazione e straordinaria manifestazione di amicizia\". ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1740402004.2274954,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "_",
+        "en_content": "Meloni: Emirates invests 40mld from us Accepted by an applause to the Italian-United Arab Emirates Business Forum, Prime Minister Meloni defines \"historical\" today's day. \"We have signed over 40 agreements and this emphasizes that bilateral cooperation is at a level never reached before, a job that does not intend to exhaust itself here.\" \"Soddisfaction\" for the decision of the Emirates to invest 40mld of dollars in Italy, \"one of the most important, most important investments in the history of our nation and extraordinary manifestation of friendship\".",
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Emirates",
+                "start_char": 8,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "40mld",
+                "start_char": 25,
+                "end_char": 30,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 70,
+                "end_char": 77,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 130,
+                "end_char": 136,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 158,
+                "end_char": 163,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "40",
+                "start_char": 192,
+                "end_char": 194,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Soddisfaction",
+                "start_char": 342,
+                "end_char": 355,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Emirates",
+                "start_char": 381,
+                "end_char": 389,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "40mld of dollars",
+                "start_char": 400,
+                "end_char": 416,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Italy",
+                "start_char": 420,
+                "end_char": 425,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "GERMANIA, CDU HA VINTO. VOLA LA DESTRA  Cdu-Csu 28,6%, Afd 20,8%, Spd 16,4%",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Germania, vince Cdu-Csu. Vola la destra L'unione Cdu-Csu guidata da Friedrich Merz ha vinto in Germania con il 28,6% dei voti, (208 seggi) secondo i dati definitivi. Cdu-Csu e Spd hanno sulla carta numeri solidi per governare. La destra dell'Afd è secondo partito con il 20,8%,(152 seggi) +10,4% rispetto al voto del 2021. Crollo di 9,3 punti per l'Spd del cancelliere Scholz, che chiude terzo al 16,4%. Verdi 11,6%, (85 seggi),Linke 8,8% (64 seggi). Fuori dal parlamento la Bsw di Sahra Wagenknecht, che manca la soglia del 5% fermandosi al 4,97%. Stessa sorte per i liberali dell'Fdp, al 4,3%.  ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1740402004.2316952,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "GERMANY, CDU HA VINTO. VOLA LA DESTRA Cdu-Csu 28.6%, Afd 20.8%, Spd 16.4%",
+        "en_content": "Germany wins Cdu-Csu. The Cdu-Csu union led by Friedrich Merz won in Germany with 28.6% of the votes, (208 seats) according to the definitive data. Cdu-Csu and Spd have solid numbers on paper to govern. The right of the Afd is second party with 20.8%,(152 seats) +10.4% compared to the vote of 2021. 9.3 points collapse for the Spd of Chancellor Scholz, which closes third to 16.4%. Greens 11.6% (85 seats),Linke 8.8% (64 seats). Outside the parliament the Bsw of Sahra Wagenknecht, which lacks the threshold of 5% stopping at 4.97%. Same for the Fdp liberals, 4.3%.",
+        "title_NER": [
+            {
+                "word": "GERMANY",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "CDU HA VINTO",
+                "start_char": 9,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "VOLA LA",
+                "start_char": 23,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "28.6%",
+                "start_char": 46,
+                "end_char": 51,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "20.8%",
+                "start_char": 57,
+                "end_char": 62,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "16.4%",
+                "start_char": 68,
+                "end_char": 73,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Germany",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cdu-Csu",
+                "start_char": 13,
+                "end_char": 20,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cdu-Csu",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Friedrich Merz",
+                "start_char": 47,
+                "end_char": 61,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Germany",
+                "start_char": 69,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "28.6%",
+                "start_char": 82,
+                "end_char": 87,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "208",
+                "start_char": 103,
+                "end_char": 106,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cdu-Csu",
+                "start_char": 148,
+                "end_char": 155,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Spd",
+                "start_char": 160,
+                "end_char": 163,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Afd",
+                "start_char": 220,
+                "end_char": 223,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "second",
+                "start_char": 227,
+                "end_char": 233,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "20.8%,(152",
+                "start_char": 245,
+                "end_char": 255,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2021",
+                "start_char": 294,
+                "end_char": 298,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "9.3",
+                "start_char": 300,
+                "end_char": 303,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Scholz",
+                "start_char": 346,
+                "end_char": 352,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "third",
+                "start_char": 367,
+                "end_char": 372,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "16.4%",
+                "start_char": 376,
+                "end_char": 381,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "11.6%",
+                "start_char": 390,
+                "end_char": 395,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "85",
+                "start_char": 397,
+                "end_char": 399,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8.8%",
+                "start_char": 413,
+                "end_char": 417,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "64",
+                "start_char": 419,
+                "end_char": 421,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Bsw of Sahra Wagenknecht",
+                "start_char": 453,
+                "end_char": 481,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "5%",
+                "start_char": 512,
+                "end_char": 514,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "4.97%",
+                "start_char": 527,
+                "end_char": 532,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Fdp",
+                "start_char": 547,
+                "end_char": 550,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "4.3%",
+                "start_char": 561,
+                "end_char": 565,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "MOSCA:STOP GUERRA SOLO DOPO ACCORDO",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Mosca: stop guerra solo dopo accordi \"Siamo pronti a negoziare sia con Kiev sia con l'Europa, con chiunque in buona fede voglia contribuire a raggiungere la pace, ma interromperemo le azioni militari solo quando questi negoziati daranno un risultato fermo e sostenibile che soddisfi la Federazione Russa\". Così da Ankara il ministro degli Esteri russo Lavrov, il quale ha anche aggiunto: per arrivare a un accordo, è necessaria una clausola \"ferrea\" che garantisca che Kiev non entrerà nella Nato. Poi: Mosca continuerà contatti con Usa, \"emersa opportunità di dialogo normale\"",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1740402004.28124,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "_",
+        "en_content": "Moscow: stop war only after agreements \"We are ready to negotiate both with Kiev and with Europe, with anyone in good faith who wants to contribute to peace, but we will stop military actions only when these negotiations will give a firm and sustainable result that meets the Russian Federation\". So from Ankara the Russian Foreign Minister Lavrov, who also added: to arrive at an agreement, a \"ferrea\" clause is required to ensure that Kiev will not enter NATO. Then: Moscow will continue contacts with the US, \"emerged opportunity of normal dialogue\"",
+        "content_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 76,
+                "end_char": 80,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 90,
+                "end_char": 96,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Russian Federation",
+                "start_char": 272,
+                "end_char": 294,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 305,
+                "end_char": 311,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 316,
+                "end_char": 323,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 341,
+                "end_char": 347,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 437,
+                "end_char": 441,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NATO",
+                "start_char": 457,
+                "end_char": 461,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 469,
+                "end_char": 475,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 508,
+                "end_char": 510,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Nel 3° anniversario di invasione russa  Leader nella capitale:qui è Europa",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Leader Ue:\"Oggi a Kiev,questa è Europa\" I leader Ue sono a Kiev, per esprimere sostegno all'Ucraina nel 3°anniversario dell'invasione russa. \"Siamo qui oggi perché l'Ucraina è Europa\",ha affermato la presidente della Commissione von der Leyen arrivata in treno a Kiev con il presidente del Consiglio Costa.  Dal summit di Kiev aggiunge: priorità, rafforzare la resistenza ucraina. Ue ha sostenuto Kiev con 134mld.Più di tutti\" Ribadisce: \"Consegna immediata di armi e munizioni\" a Kiev. Oggi il 16° kit di sanzioni a Mosca. E con \"ambizioso\"  pacchetto energetico mercati elettrici Ue-Kiev-Moldavia integrati entro 2026. ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1740402004.2937741,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "In the 3rd anniversary of Russian invasion Leader in the capital: here is Europe",
+        "en_content": "EU leaders: \"Today in Kiev,this is Europe\" EU leaders are in Kiev, to express support to Ukraine in the 3rd anniversary of the Russian invasion. \"We are here today because Ukraine is Europe\", said the President of the Commission von der Leyen arrived by train in Kiev with the President of the Costa Council. From the summit of Kiev adds: priority, strengthen Ukrainian resistance. Ue supported Kiev with 134mld.More of all\" He says: \"Immediate delivery of weapons and ammunition\" in Kiev. Today the 16th sanction kit in Moscow. And with \"ambitious\" energy package electric markets Ue-Kiev-Moldavia integrated within 2026.",
+        "title_NER": [
+            {
+                "word": "3rd",
+                "start_char": 7,
+                "end_char": 10,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europe",
+                "start_char": 74,
+                "end_char": 80,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "EU",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Today",
+                "start_char": 13,
+                "end_char": 18,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 22,
+                "end_char": 26,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 35,
+                "end_char": 41,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "EU",
+                "start_char": 43,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 61,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 89,
+                "end_char": 96,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3rd",
+                "start_char": 104,
+                "end_char": 107,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 127,
+                "end_char": 134,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 158,
+                "end_char": 163,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 172,
+                "end_char": 179,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 183,
+                "end_char": 189,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Leyen",
+                "start_char": 237,
+                "end_char": 242,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 263,
+                "end_char": 267,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Costa Council",
+                "start_char": 290,
+                "end_char": 307,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 328,
+                "end_char": 332,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 360,
+                "end_char": 369,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ue",
+                "start_char": 382,
+                "end_char": 384,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 395,
+                "end_char": 399,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "134mld",
+                "start_char": 405,
+                "end_char": 411,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 484,
+                "end_char": 488,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Today",
+                "start_char": 490,
+                "end_char": 495,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16th",
+                "start_char": 500,
+                "end_char": 504,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Moscow",
+                "start_char": 521,
+                "end_char": 527,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2026",
+                "start_char": 617,
+                "end_char": 621,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "UCRAINA,UE:\"MOSCA LA SOLA RESPONSABILE\" \"Importante ora sostegno Ue a Kiev\"",
+        "date_raw": "February 24, 2025",
+        "date": "2025-02-24",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Ue:resti sostegno transatlantico a Kiev \"La Russia e la sua leadership sono gli unici responsabili di questa guerra e delle atrocità contro la popolazione ucraina\". Lo ribadisce una nota delle istituzioni Ue, Commissione,Parlamento, Consiglio, nel 3° anniversario dell' aggressione russa all'Ucraina. Bene i passi verso l'istituzione di un Tribunale speciale per i crimini commessi. E' importante mantenere la solidarietà transatlantica con Kiev.\"Pace,sicurezza e giustizia prevarranno\". \"L'Ucraina fa parte della famiglia europea\". Forniti 135 mld di aiuti, di cui 48,8 militari.",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1740402004.3001244,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-24 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-24T13.00.04",
+        "en_title": "UCRAINA, EU: \"MOSCA LA SOLA RESPONSABLE\" \"Important now support EU to Kiev\"",
+        "en_content": "EU: would be transatlantic support in Kiev \"Russia and its leadership are the only ones responsible for this war and atrocities against the Ukrainian population\". It recalls a note from the EU institutions, Commission, Parliament, Council, on the 3rd anniversary of Russian aggression against Ukraine. Well, the steps towards the establishment of a special court for crimes committed. It is important to maintain transatlantic solidarity with Kiev.\"Peace, security and justice will prevail.\" \"Ukraine is part of the European family.\" Provided 135 mld of aid, of which 48.8 military.",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 9,
+                "end_char": 11,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "MOSCA",
+                "start_char": 14,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "RESPONSABLE",
+                "start_char": 28,
+                "end_char": 39,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 64,
+                "end_char": 66,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "EU",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 38,
+                "end_char": 42,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 44,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 140,
+                "end_char": 149,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "EU",
+                "start_char": 190,
+                "end_char": 192,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Commission",
+                "start_char": 207,
+                "end_char": 217,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 219,
+                "end_char": 229,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 231,
+                "end_char": 238,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "3rd",
+                "start_char": 247,
+                "end_char": 250,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 266,
+                "end_char": 273,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 293,
+                "end_char": 300,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 443,
+                "end_char": 447,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 493,
+                "end_char": 500,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 516,
+                "end_char": 524,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "135",
+                "start_char": 543,
+                "end_char": 546,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "48.8",
+                "start_char": 568,
+                "end_char": 572,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]
