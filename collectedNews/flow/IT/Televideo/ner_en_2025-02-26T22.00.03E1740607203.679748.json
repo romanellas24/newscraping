@@ -1,0 +1,2004 @@
+[
+    {
+        "title": "UCRAINA,TAJANI:NOSTRE TRUPPE? CON L'ONU \"Parte in causa,Ue segga al tavolo\"",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": " Tajani: truppe italiane solo con l'Onu \"Non è la soluzione migliore\" mandare soldati Ue in una zona che dev'essere neutrale fra Russia e Ucraina. \"Se si deve creare una zona neutrale, devono esserci soldati italiani sotto mandato Onu, non una missione dell'Occidente, percepita contro Russia\". Così il vicepremier e ministro degli Esteri Tajani. \"L'Ue deve sedersi al tavolo con Usa, Russia e Ucraina,perché ha sanzionato Mosca. Siamo parte in causa.Lo ha riconosciuto anche segretario Usa Rubio\". Poi: Italia deve raggiungere il 2% di spesa per la Difesa ed è \"indispensabile\" quella europea.    ",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1740607203.9181983,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.03",
+        "en_title": "_ With the UN \"Parte in causa,Ue segga al tavola\"",
+        "en_content": "Tajani: Italian troops only with the UN \"It is not the best solution\" to send Ue soldiers to an area that must be neutral between Russia and Ukraine. \"If you have to create a neutral zone, there must be Italian soldiers under UN mandate, not a mission of the West, perceived against Russia.\" So the deputypremier and foreign minister Tajani. \"The EU must sit at the table with Usa, Russia and Ukraine, because it sanctioned Moscow. We're part of this. He also recognized Secretary of the United States Rubio.\" Then: Italy must reach 2% of defence spending and is \"repensable\" the European one.",
+        "title_NER": [
+            {
+                "word": "UN",
+                "start_char": 11,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "al tavola",
+                "start_char": 39,
+                "end_char": 48,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tajani",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 8,
+                "end_char": 15,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "UN",
+                "start_char": 37,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 130,
+                "end_char": 136,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 141,
+                "end_char": 148,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 203,
+                "end_char": 210,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "UN",
+                "start_char": 226,
+                "end_char": 228,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "West",
+                "start_char": 259,
+                "end_char": 263,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Russia",
+                "start_char": 283,
+                "end_char": 289,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 334,
+                "end_char": 340,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 347,
+                "end_char": 349,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Usa",
+                "start_char": 377,
+                "end_char": 380,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 382,
+                "end_char": 388,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 393,
+                "end_char": 400,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 424,
+                "end_char": 430,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United States",
+                "start_char": 484,
+                "end_char": 501,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rubio",
+                "start_char": 502,
+                "end_char": 507,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 516,
+                "end_char": 521,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2%",
+                "start_char": 533,
+                "end_char": 535,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "European",
+                "start_char": 580,
+                "end_char": 588,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "MATTARELLA:CSM CONTRIBUISCA A SERENITA' E concorra indipendenza delle Toghe",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Mattarella: Csm contribuisca a serenità Il Csm proceda con celerità nell'assunzione delle sue decisioni e \"contribuisca alla serenità\" nei rapporti tra Istituzioni. Così il Presidente Mattarella, parlando al Csm dopo il voto sul nuovo Pg della Cassazione,Pietro Gaeta. Al Consiglio anche l'augurio di concorrere \"attraverso il governo autonomo della magistratura, ad assicurare la irrinunziabile indipendenza dell'ordine giudiziario\".     Il nuovo Procuratore generale sarà guida \"salda\", e darà un proficuo contrito ai lavori del Csm, afferma Mattarella ringraziando il Pg uscente, Salvato.",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1740607203.9387212,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.03",
+        "en_title": "_ And the Toghe's independence",
+        "en_content": "Mattarella: Csm contributes to serenity The Csm proceeds with celerity in taking its decisions and \"contribute to serenity\" in the relations between institutions. So President Mattarella, speaking to the Csm after the vote on the new Pg of the Cassation, Peter Gaeta. The Council also hopes to contribute \"through the autonomous government of the judiciary, to ensure the irrelevant independence of the judicial order\". The new Attorney General will be \"salda\" guide, and will give a fruitful contrite to the work of the Csm, says Mattarella thanking the outgoing Pg, Salvato.",
+        "title_NER": [
+            {
+                "word": "Toghe",
+                "start_char": 10,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Mattarella",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Csm",
+                "start_char": 44,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 176,
+                "end_char": 186,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Csm",
+                "start_char": 204,
+                "end_char": 207,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pg of the",
+                "start_char": 234,
+                "end_char": 243,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cassation",
+                "start_char": 244,
+                "end_char": 253,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Peter Gaeta",
+                "start_char": 255,
+                "end_char": 266,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Council",
+                "start_char": 272,
+                "end_char": 279,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Csm",
+                "start_char": 521,
+                "end_char": 524,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 531,
+                "end_char": 541,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pg, Salvato",
+                "start_char": 564,
+                "end_char": 575,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "Salvini:prima dei soldati,sicurezze",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=125",
+        "content": " Salvini: soldati a Kiev? Prima certezze \"Prima di spendere un euro in più o inviare un soldato in più, bisogna essere certi di quello che si fa\". Così il vicepremier e ministro dei Trasporti Salvini sull'invio di militari al confine tra Ucraina e Russia.    \"Abbiamo sempre votato tutti gli aiuti militari all'Ucraina e finchè ci sara la guerra lo faremo\",aggiunge.\"L'Europa non deve temere Trump o i dazi,ma qualche nemico interno\". E \"se dopo 3 anni di guerra e morti s'ipotizza un dialogo tra Russia e Ucraina, il merito non è sicuramente dell'Europa ma di Trump\". ",
+        "ranked": 4,
+        "placed": "Politics",
+        "epoch": 1740607203.9497933,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.03",
+        "en_title": "Salvini: before soldiers, safety",
+        "en_content": "Salvini: soldiers in Kiev? First certainties \"Before spending an extra euro or sending an extra soldier, you have to be sure of what you do.\" Thus the deputypremier and minister of the Salvini Transports on the sending of military to the border between Ukraine and Russia. \"We have always voted all military aid to Ukraine and as long as there is war we will do it,\" he added. \"Europe must not fear Trump or duties, but some internal enemy.\" And \"if after 3 years of war and deaths a dialogue between Russia and Ukraine, the merit is certainly not of Europe but of Trump.\"",
+        "title_NER": [
+            {
+                "word": "Salvini",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Salvini",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 21,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "First",
+                "start_char": 27,
+                "end_char": 32,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Salvini Transports",
+                "start_char": 181,
+                "end_char": 203,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 253,
+                "end_char": 260,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 265,
+                "end_char": 271,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 315,
+                "end_char": 322,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 378,
+                "end_char": 384,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Trump",
+                "start_char": 399,
+                "end_char": 404,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "3 years",
+                "start_char": 456,
+                "end_char": 463,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russia",
+                "start_char": 501,
+                "end_char": 507,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 512,
+                "end_char": 519,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 551,
+                "end_char": 557,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Trump",
+                "start_char": 565,
+                "end_char": 570,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "DDL PARTECIPAZIONE AL LAVORO:OK CAMERA  Provvedimento ispirato dalla Cisl",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Ddl partecipazione al lavoro: ok Camera L'aula della Camera ha approvato il  disegno di legge sulla partecipazione al lavoro. Il provvedimento ha avuto 163 voti favorevoli, 40 contrari e 57 astensioni. Ora sarà trasmesso al  Senato, per l'approvazione definitiva. Contrari il M5s e Avs mentre il Pd si è astenuto.      Il provvedimento nasce da un'inizia  della Cisl sulla partecipazione dei  lavoratori alla governance delle  imprese.      ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1740607203.9568129,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.03",
+        "en_title": "DDL PARTICIPATION AT WORK:OK BEDROOM",
+        "en_content": "Ddl participation in the work: ok Chamber The Chamber Hall approved the bill on participation in the work. The measure had 163 votes in favour, 40 against and 57 abstentions. He will now be sent to the Senate for final approval. Contrary the M5s and Avs while the Pd abstained. The measure arises from an initiative of Cisl on the participation of workers in the governance of enterprises.",
+        "content_NER": [
+            {
+                "word": "163",
+                "start_char": 123,
+                "end_char": 126,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "40",
+                "start_char": 144,
+                "end_char": 146,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "57",
+                "start_char": 159,
+                "end_char": 161,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Senate",
+                "start_char": 202,
+                "end_char": 208,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "M5s",
+                "start_char": 242,
+                "end_char": 245,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Avs",
+                "start_char": 250,
+                "end_char": 253,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Pd",
+                "start_char": 264,
+                "end_char": 266,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Cisl",
+                "start_char": 319,
+                "end_char": 323,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Crosetto:invio soldati non come fax",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=126",
+        "content": " Crosetto:invio contingenti non come fax \"I contingenti non si inviano come si invia un fax e per poter fare un comunicato stampa. Soprattutto quelli di altre Nazioni\". Così il ministro della Difesa Crosetto frenando su ipotesi di Francia e Gb di contingenti in Ucraina. \"Se si parla a nome dell'Europa prosegue bisognerebbe avere la creanza di confrontarsi con le altre Nazioni e ciò non è accaduto per gli aspetti militari della questione. Che mi risulta essere principalmente militare\". \"Una 'difesa europea' può esistere solo come somma delle difese nazionali\".  ",
+        "ranked": 5,
+        "placed": "Politics",
+        "epoch": 1740607203.9734056,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.03",
+        "en_title": "Crosetto: sending soldiers not as a fax",
+        "en_content": "Crosetto: sending quotas not as fax \"The quotas do not send as a fax and in order to make a press release. Especially those of other nations.\" Thus the Minister of Defense Crosetto braking on assumptions of France and Gb of quotas in Ukraine. \"If we speak on behalf of Europe, we should have the courage to confront the other nations and this has not happened in the military aspects of the matter. That I'm mainly military.\" \"A 'European defence' can only exist as a sum of national defences.\"",
+        "content_NER": [
+            {
+                "word": "France",
+                "start_char": 207,
+                "end_char": 213,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gb",
+                "start_char": 218,
+                "end_char": 220,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 234,
+                "end_char": 241,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 269,
+                "end_char": 275,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "A 'European defence'",
+                "start_char": 427,
+                "end_char": 447,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "MELONI:SICUREZZA E COMPETITIVITA' IN UE \"Spendere di più e investimenti\"",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Meloni: sicurezza e competitività in Ue \"Oggi più che mai le grandi questioni che l'Europa non può permettersi di  eludere,sono la sicurezza dei cittadini e la competitività del sistema produttivo\".Così la premier Meloni dopo l'incontro col premier svedese Kristersson. L'Europa, aggiunge, deve \"consolidare il pilastro europeo dell'Alleanza  Atlantica\". La Nato resta \"pietra angolare per la sicurezza\".Occorre \"spendere di più, incrementare investimenti\" Poi sottolinea: pace giusta in Ucraina \"solamente se a Kiev saranno date adeguate garanzie sicurezza\". Su immigrazione:questione Paesi sicuri \"cruciale\"",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1740607203.9844174,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.03",
+        "en_title": "MEASURES AND COMPETITIVENESS IN THE EU \"Sending more and investments\"",
+        "en_content": "Meloni: security and competitiveness in the EU \"Today more than ever the great issues that Europe cannot afford to evade, are the safety of citizens and the competitiveness of the productive system\". So Premier Meloni after the meeting with Swedish Premier Kristersson. Europe, he adds, must \"consolidate the European pillar of the Atlantic Alliance\". NATO remains \"angular foot for security.\" We need to \"spend more, increase investment\" Then he emphasizes: right peace in Ukraine \"only if adequate security guarantees will be given in Kiev\". On immigration:this is safe \"crucial\" countries",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 36,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 44,
+                "end_char": 46,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Today",
+                "start_char": 48,
+                "end_char": 53,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Europe",
+                "start_char": 91,
+                "end_char": 97,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 211,
+                "end_char": 217,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Swedish",
+                "start_char": 241,
+                "end_char": 248,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kristersson",
+                "start_char": 257,
+                "end_char": 268,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 270,
+                "end_char": 276,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "European",
+                "start_char": 309,
+                "end_char": 317,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Atlantic Alliance",
+                "start_char": 328,
+                "end_char": 349,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NATO",
+                "start_char": 352,
+                "end_char": 356,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 474,
+                "end_char": 481,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 537,
+                "end_char": 541,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "COLLE:\"SOLIDARIETA'OSSIGENO PER SOCIALE Mattarella insignisce 31 cittadini",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Colle: solidarietà ossigeno per società \"I vostri comportamenti rompono la solitudine\".Così il Presidente Mattarella consegnando le Onoreficenze al merito a 31 cittadini, che si sono distinti per atti di eroismo e impegno civile.  \"Siamo sommersi da immagini e messaggi, ma la solitudine è un pericolo alto\", sottolinea il Presidente. \"Non so riconoscimenti ad eroi. Le vostre azioni di solidarietà sono ossigeno per la società\". Le Onoreficenze vengono assegnate a quanti favoriscono il dialogo tra i popoli,contro la violenza di genere,per l'imprenditoria etica, ai volontari. ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1740607204.004156,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "COLLE: \"SOLIDARIETA'OSSIGENO PER SOCIAL Mattarella awarded 31 citizens",
+        "en_content": "Colle: solidarity oxygen for society \"Your behavior breaks loneliness.\" So President Mattarella handing over the honours to the merits of 31 citizens, who have distinguished themselves for acts of heroism and civil commitment. \"We are submerged by images and messages, but loneliness is a high danger,\" the President said. \"I don't know any hero awards. Your actions of solidarity are oxygen for society.\" The Honourables are assigned to those who favour dialogue between peoples, against gender violence, ethical entrepreneurship, volunteers.",
+        "title_NER": [
+            {
+                "word": "COLLE",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "31",
+                "start_char": 59,
+                "end_char": 61,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Mattarella",
+                "start_char": 85,
+                "end_char": 95,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "31",
+                "start_char": 138,
+                "end_char": 140,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "solidarity",
+                "start_char": 370,
+                "end_char": 380,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Honourables",
+                "start_char": 410,
+                "end_char": 421,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "UE: PIANO ENERGIA,DA STATI MENO IMPOSTE Punta a risparmio di 45mld nel 2025",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Ue: piano energia,da Stati meno imposte La Commissione Ue ha presentato un piano d'azione con misure a breve termine per ridurre i costi dell'energia, completare l'unione dell'energia e attrarre investimenti. Obiettivo è un risparmio di 45 mld nel 2025, poi fino a 260. La Commissione interverrà su tutte e 3 le componenti delle bollette energetiche: costi di rete, imposte e costi di fornitura. Raccomandazioni agli Stati per ridurre le imposte su elettricità e facilitare i consumatori nel passaggio a offerte più economiche.\"Tornare a gas russo in caso di pace? Mai più\".  ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1740607204.0173566,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "EU: ENERGY FLOOR,DA STATE MENO IMPOSTE Saving tip of 45mld in 2025",
+        "en_content": "EU: energy plan, less-taxed states The EU Commission has presented an action plan with short-term measures to reduce energy costs, complete energy union and attract investment. Objective is a saving of 45 mld in 2025, then up to 260. The Commission will take action on all 3 components of energy bills: network costs, taxes and supply costs. Recommendations to States to reduce electricity taxes and facilitate consumers in switching to cheaper offers. \"Return to Russian gas in case of peace? Never again.\"",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "45mld",
+                "start_char": 53,
+                "end_char": 58,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2025",
+                "start_char": 62,
+                "end_char": 66,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "EU",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The EU Commission",
+                "start_char": 35,
+                "end_char": 52,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "45",
+                "start_char": 202,
+                "end_char": 204,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2025",
+                "start_char": 212,
+                "end_char": 216,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "260",
+                "start_char": 229,
+                "end_char": 232,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Commission",
+                "start_char": 238,
+                "end_char": 248,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "3",
+                "start_char": 273,
+                "end_char": 274,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 464,
+                "end_char": 471,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "PNRR, DL ATTUAZIONE PASSA AL SENATO",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=127",
+        "content": " Ok del Senato a Dl per attuazione Pnrr Il Senato ha approvato il Disegno di legge di conversione del decreto che contiene misure organizzative urgenti per l'attuazione del Pnrr.   I voti favorevoli sono stati 105, 64 i contrari, un astenuto. s   Il testo, per il quale il governo aveva chiesto la fiducia, era già stato approvato a Montecitorio il 18 febbraio. Con il voto di oggi al Senato diventa definitivo.     ",
+        "ranked": 6,
+        "placed": "Politics",
+        "epoch": 1740607204.0193667,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "PNRR, DL ATTUCATION",
+        "en_content": "Ok of the Senate to Dl for implementation Pnrr The Senate approved the bill of conversion of the decree containing urgent organizational measures for the implementation of the Pnrr. The favourable votes were 105, 64 against, an ast. s The text, for which the government had asked for trust, had already been approved in Montecitorio on 18 February. Today's vote in the Senate becomes final.",
+        "title_NER": [
+            {
+                "word": "ATTUCATION",
+                "start_char": 9,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Senate",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dl",
+                "start_char": 20,
+                "end_char": 22,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pnrr",
+                "start_char": 42,
+                "end_char": 46,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Senate",
+                "start_char": 51,
+                "end_char": 57,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "105",
+                "start_char": 208,
+                "end_char": 211,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "64",
+                "start_char": 213,
+                "end_char": 215,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Montecitorio",
+                "start_char": 320,
+                "end_char": 332,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "18 February",
+                "start_char": 336,
+                "end_char": 347,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Today",
+                "start_char": 349,
+                "end_char": 354,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Senate",
+                "start_char": 369,
+                "end_char": 375,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "MOSCA: \"UE INCITA L'EUROPA ALLA GUERRA\" Lavrov attacca la Francia e Gb",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Lavrov:Ue incita Kiev continuare guerra \"Non possiamo considerare e non considereremo una tale opzione\". Così il  ministro degli Esteri russo Lavrov sul possibile schieramento di peacekeeper europei in Ucraina.    \"Nessuno ci ha consultato su tale questione\", ha aggiunto Lavrov parlando in una conferenza stampa in Qatar. E ha attaccato l'Europa: i Paesi Ue stanno incitando l'Ucraina a continuare il  conflitto di fronte \"ai cambiamenti  negli equilibri politici\". Critica in particolare Francia e Gran Bretagna,che aggravano conflitto \"anziché sedarlo\". ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1740607204.06654,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "MOSCA: \"EU INCITA EUROPE TO GUERRA\" Lavrov attacks France and Gb",
+        "en_content": "Lavrov:One incites Kiev to continue war \"We cannot consider and we will not consider such an option\". Thus Russian Foreign Minister Lavrov on the possible deployment of European peacekeepers in Ukraine. \"No one consulted us on this issue,\" added Lavrov speaking at a press conference in Qatar. And he attacked Europe: EU countries are urging Ukraine to continue the conflict against \"changes in political balances\". He criticizes France and Great Britain in particular, which aggravate the conflict \"instead of cutting it\".",
+        "title_NER": [
+            {
+                "word": "MOSCA",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 8,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "GUERRA",
+                "start_char": 28,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "France",
+                "start_char": 51,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gb",
+                "start_char": 62,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Lavrov",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "One",
+                "start_char": 7,
+                "end_char": 10,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 19,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 107,
+                "end_char": 114,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 132,
+                "end_char": 138,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 169,
+                "end_char": 177,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 194,
+                "end_char": 201,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 246,
+                "end_char": 252,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Qatar",
+                "start_char": 287,
+                "end_char": 292,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 310,
+                "end_char": 316,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "EU",
+                "start_char": 318,
+                "end_char": 320,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 342,
+                "end_char": 349,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 430,
+                "end_char": 436,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Great Britain",
+                "start_char": 441,
+                "end_char": 454,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Sui social Trump crea la Gaza futura158  ROMANIA,FERMATO IL FILORUSSO GEORGESCU  Trovati nascosti soldi e armi",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=159",
+        "content": " Romania,fermato il filorusso Georgescu La Procura di Bucarest ha accusato Calin Georgescu, candidato di estrema destra vincitore del primo turno delle elezioni presidenziali poi annullato per presunte interferenze russe, di dichiarazioni false sulle fonti del finanziamento della sua campagna elettorale. \"Il procuratore ha ordinato l'apertura di accuse penali\", si legge in un comunicato.Elon Musk è intervenuto a favore di Georgescu: \"Hanno arrestato una persona che ha ottenuto il maggior numero di voti alle elezioni presidenziali romene.Tutto ciò è sbagliato\" scrive su X",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1740607204.0809615,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "On social Trump creates future Gaza158 ROMANIA,FERED THE FILORUSSO GEORGESCU Find hidden money and weapons",
+        "en_content": "Romania, confirmed the pro-Russian Georgescu The Bucharest Prosecutor accused Calin Georgescu, a candidate of extreme right-wing winner of the first round of the presidential elections then cancelled for alleged Russian interference, of false statements on sources of financing his election campaign. \"The prosecutor ordered the opening of criminal charges,\" he reads in a statement. Elon Musk intervened in favor of Georgescu: \"They arrested a person who got the most votes in the Romanian presidential elections. All this is wrong\" writes on X",
+        "title_NER": [
+            {
+                "word": "Trump",
+                "start_char": 10,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "ROMANIA",
+                "start_char": 39,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "FERED",
+                "start_char": 47,
+                "end_char": 52,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Romania",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "pro-Russian",
+                "start_char": 23,
+                "end_char": 34,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Calin Georgescu",
+                "start_char": 78,
+                "end_char": 93,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 143,
+                "end_char": 148,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 212,
+                "end_char": 219,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Elon Musk",
+                "start_char": 384,
+                "end_char": 393,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Georgescu",
+                "start_char": 417,
+                "end_char": 426,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Romanian",
+                "start_char": 482,
+                "end_char": 490,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Zelensky:solo inizio,forse successo",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Kiev:con Usa trovata intesa terre rare Ucraina e Usa hanno elaborato la versione definitiva dell'accordo sulle  terre rare. Lo conferma il primo ministro ucraino Shmyhal alla tv ucraina. E' denominato \"Accordo sulla definizione delle regole e delle condizioni del Fondo d'investimento per la ricostruzione dell'Ucraina\", spiega. \"Prevede la creazione di un Fondo per la ricostruzione, che Ucraina e Usa gestiranno e riempiranno congiuntamente. E' direttamente collegato alle garanzie di sicurezza per l'Ucraina\". Il testo sarà oggi esaminato dal governo ucraino. ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1740607204.0826092,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "Zelensky: Only beginning, maybe success",
+        "en_content": "Kiev:With Us found understanding rare lands Ukraine and USA have elaborated the definitive version of the agreement on rare lands. This is confirmed by Ukrainian Prime Minister Shmyhal on Ukrainian TV. It is called \"Agreement on the definition of the rules and conditions of the Investment Fund for the reconstruction of Ukraine,\" he explains. \"Prevents the creation of a Reconstruction Fund, which Ukraine and the US will manage and fill jointly. It is directly linked to security guarantees for Ukraine.\" The text will now be examined by the Ukrainian government.",
+        "title_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Us",
+                "start_char": 10,
+                "end_char": 12,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 44,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "USA",
+                "start_char": 56,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 152,
+                "end_char": 161,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Shmyhal",
+                "start_char": 177,
+                "end_char": 184,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 188,
+                "end_char": 197,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Investment Fund",
+                "start_char": 275,
+                "end_char": 294,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 321,
+                "end_char": 328,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a Reconstruction Fund",
+                "start_char": 370,
+                "end_char": 391,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 399,
+                "end_char": 406,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 415,
+                "end_char": 417,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 497,
+                "end_char": 504,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 544,
+                "end_char": 553,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "TRUMP: \"IMPORREMO ALL'UE DAZI AL 25%\"  Contro Canada e Messico dal 2 aprile   Ue:reagiremo fermamente ai dazi Usa",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Ue,'Reagiremo fermamente' a dazi Trump L'Unione Europea \"reagirà fermamente e immediatamente\" ai dazi del 25% che Donald Trump ha annunciato saranno imposti \"prossimamente\" sui beni europei. Inoltre \"L'Ue reagirà contro le barriere ingiustificate al commercio libero ed equo, anche quando i dazi vengono utilizzati per contestare politiche legali e non discriminatorie.L'Ue proteggerà sempre le aziende, i lavoratori e i consumatori europei da dazi ingiustificati\". Lo afferma un portavoce della Commissione europea in risposta a quanto dichiarato dal presidente Trump. ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1740607204.1174526,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "TRUMP: \"Let us start with the EU DAZI AL 25%\" Against Canada and Mexico from 2 April EU: we will react firmly to US duties",
+        "en_content": "EU,'We will react firmly to Trump duties The European Union \"will react firmly and immediately\" to the duties of 25% that Donald Trump announced will be imposed \"proximately\" on European goods. \"The EU will react against unjustified barriers to free and fair trade, even when duties are used to challenge legal and non-discriminatory policies. The EU will always protect European companies, workers and consumers from unjustified duties.\" A spokesman of the European Commission states this in response to President Trump's statement.",
+        "title_NER": [
+            {
+                "word": "TRUMP",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 30,
+                "end_char": 32,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25%",
+                "start_char": 41,
+                "end_char": 44,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Canada",
+                "start_char": 54,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2 April",
+                "start_char": 77,
+                "end_char": 84,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US",
+                "start_char": 113,
+                "end_char": 115,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Trump",
+                "start_char": 28,
+                "end_char": 33,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "The European Union",
+                "start_char": 41,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25%",
+                "start_char": 113,
+                "end_char": 116,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 122,
+                "end_char": 134,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 178,
+                "end_char": 186,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "EU",
+                "start_char": 199,
+                "end_char": 201,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 348,
+                "end_char": 350,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 371,
+                "end_char": 379,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the European Commission",
+                "start_char": 454,
+                "end_char": 477,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump",
+                "start_char": 515,
+                "end_char": 520,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Sui social Trump crea la Gaza futura150  COPPA ITALIA, IN CAMPO JUVE-EMPOLI",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "     ",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1740607204.1267307,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "On social Trump creates future Gaza150 COPPA ITALY, IN CHAPTER JUVE-EMPOLI",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "Trump",
+                "start_char": 10,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza150 COPPA ITALY",
+                "start_char": 31,
+                "end_char": 50,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "CHAPTER",
+                "start_char": 55,
+                "end_char": 62,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "JUVE-EMPOLI",
+                "start_char": 63,
+                "end_char": 74,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "TRUMP CONFERMA: VEDRO'ZELENSKY VENERDI' Per firma accordo sulle terre rare",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Trump:Zelensky verrà venerdi per intesa \"Il presidente Zelensky verrà venerdì e firmeremo l'accordo\" sulle terre rare. Così il presidente Usa Trump,nella prima riunione di gabinetto, confermando che Zelensky sarà a Washington.  \"Gli Stati Uniti hanno bisogno di terre rare e l'Ucraina ne ha, l'accordo ci consentirà di riprenderci i nostri soldi\", ma l'intesa \"è molto buona anche per l'Ucraina\", afferma. Poi sottolinea che offrire garanzie di sicurezza a  Kiev spetta all'Europa e che Putin dovrà fare delle concessioni sull'Ucraina Ma Kiev \"si scordi\"ingresso nella Nato.",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1740607204.144855,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "_ By signing agreement on rare lands",
+        "en_content": "Trump:Zelensky will come Friday by agreement \"President Zelensky will come Friday and we will sign the agreement\" on rare lands. So US President Trump, in the first cabinet meeting, confirming that Zelensky will be in Washington. \"The United States needs rare lands and Ukraine has, the agreement will allow us to recover our money\", but the understanding \"is very good also for Ukraine\", he says. Then he emphasizes that offering security guarantees to Kiev belongs to Europe and that Putin will have to make concessions on Ukraine Ma Kiev \"you forget\" entry into NATO.",
+        "content_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 6,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friday",
+                "start_char": 25,
+                "end_char": 31,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 56,
+                "end_char": 64,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Friday",
+                "start_char": 75,
+                "end_char": 81,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US",
+                "start_char": 132,
+                "end_char": 134,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trump",
+                "start_char": 145,
+                "end_char": 150,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 159,
+                "end_char": 164,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 198,
+                "end_char": 206,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Washington",
+                "start_char": 218,
+                "end_char": 228,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The United States",
+                "start_char": 231,
+                "end_char": 248,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 270,
+                "end_char": 277,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 379,
+                "end_char": 386,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 454,
+                "end_char": 458,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 470,
+                "end_char": 476,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Putin",
+                "start_char": 486,
+                "end_char": 491,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine Ma",
+                "start_char": 525,
+                "end_char": 535,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "NATO",
+                "start_char": 565,
+                "end_char": 569,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "TRUMP: \"IMPORREMO ALL'UE DAZI AL 25%\"  Contro Canada e Messico dal 2 aprile   Ue:reagiremo fermamente ai dazi Usa",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1740607204.1479971,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "TRUMP: \"Let us start with the EU DAZI AL 25%\" Against Canada and Mexico from 2 April EU: we will react firmly to US duties",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "TRUMP",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 30,
+                "end_char": 32,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "25%",
+                "start_char": 41,
+                "end_char": 44,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Canada",
+                "start_char": 54,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mexico",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2 April",
+                "start_char": 77,
+                "end_char": 84,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US",
+                "start_char": 113,
+                "end_char": 115,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "PAPA, RIENTRATA L'INSUFFICIENZA RENALE  Tac, la polmonite evolve normalmente   \"Ancora un lieve miglioramento\"",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1740607204.1881485,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "PAPA, REENTRATE RENALE INSUFFICIENCY Tac, pneumonia normally evolves \"Even a slight improvement\"",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "PAPA",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "HAMAS CONSEGNA 4 CORPI SENZA CERIMONIE  Israele:scambio con 602 palestinesi",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Hamas consegna 4 corpi senza cerimonie Hamas rilascerà i corpi dei 4 ostaggi israeliani stasera,entro la mezzanotte. In cambio Israele scarcererà i 602 detenuti palestinesi che sarebbero dovuti essere scarcerati sabato scorso. Ma  bloccò il loro rilascio per protesta contro gli \"show\" di Hamas durante le liberazioni di ostaggi o della riconsegna dei loro corpi.    Hamas ha riferito che non ci saranno cerimonie pubbliche per la restituzione delle salme per evitare che Israele  blocchi nuovamente la scarcerazione. ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1740607204.2013452,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "HAMAS CONSEGNA 4 CORPES WITHOUT CERIMONIE Israel: exchange with 602 Palestinians",
+        "en_content": "Hamas delivers 4 bodies without Hamas ceremonies will release the bodies of the 4 Israeli hostages tonight, within midnight. In return, Israel will discard the 602 Palestinian prisoners who should have been released last Saturday. But he blocked their release in protest against Hamas' \"shows\" during the release of hostages or the resign of their bodies. Hamas reported that there will be no public ceremonies for the return of the corpses to prevent Israel from blocking scarce again.",
+        "title_NER": [
+            {
+                "word": "HAMAS CONSEGNA 4",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "CORPES",
+                "start_char": 17,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "602",
+                "start_char": 64,
+                "end_char": 67,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 68,
+                "end_char": 80,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "4",
+                "start_char": 15,
+                "end_char": 16,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 32,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "4",
+                "start_char": 80,
+                "end_char": 81,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 82,
+                "end_char": 89,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "tonight",
+                "start_char": 99,
+                "end_char": 106,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "midnight",
+                "start_char": 115,
+                "end_char": 123,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Israel",
+                "start_char": 136,
+                "end_char": 142,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "602",
+                "start_char": 160,
+                "end_char": 163,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 164,
+                "end_char": 175,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "last Saturday",
+                "start_char": 216,
+                "end_char": 229,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 279,
+                "end_char": 284,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 356,
+                "end_char": 361,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 452,
+                "end_char": 458,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Tel Aviv,folla a funerali dei Bibas",
+        "date_raw": "February 26, 2025",
+        "date": "2025-02-26",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Folla a funerali di mamma e bimbi Bibas Decine di migliaia di israeliani si sono radunati in strada durante i funerali della mamma e dei fratellini Bibas di 9 mesi e 4 anni,i bimbi più piccoli rapiti da Hamas il 7 ottobre in Israele Bandiere israeliane,palloncini arancioni e cartelli con la scritta \"perdonateci\" lungo il corteo funebre. Parlando ai funerali dei figli e della moglie, Yarden Bibas ha detto:\"Mi dispiace,non ho potuto proteggervi\". Dura la sorella dell'uomo contro Netanyahu per la sua insistenza sui dettagli dell'uccisione. Chiede perdono il presidente Herzog. ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1740607204.20723,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-02-26 23:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-26T22.00.04",
+        "en_title": "Tel Aviv, daughter at the funeral of the Bibas",
+        "en_content": "Folla at funeral of mother and children Bibas Tens of thousands of Israelis gathered in the street during the funeral of mother and siblings Bibas of 9 months and 4 years, the smaller children kidnapped by Hamas on October 7 in Israel Israeli flags, orange balloons and signs with the written \"perdonateci\" along the funeral procession. Speaking at the funeral of the children and his wife, Yarden Bibas said, \"I'm sorry, I couldn't protect you.\" He lasted the man's sister against Netanyahu for his insistence on killing details. He asks for forgiveness from President Herzog.",
+        "title_NER": [
+            {
+                "word": "Tel Aviv",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bibas",
+                "start_char": 41,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Bibas",
+                "start_char": 40,
+                "end_char": 45,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tens of thousands",
+                "start_char": 46,
+                "end_char": 63,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israelis",
+                "start_char": 67,
+                "end_char": 75,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bibas",
+                "start_char": 141,
+                "end_char": 146,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "9 months and",
+                "start_char": 150,
+                "end_char": 162,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "4 years",
+                "start_char": 163,
+                "end_char": 170,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 206,
+                "end_char": 211,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "October 7",
+                "start_char": 215,
+                "end_char": 224,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israel",
+                "start_char": 228,
+                "end_char": 234,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 235,
+                "end_char": 242,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Yarden Bibas",
+                "start_char": 391,
+                "end_char": 403,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 482,
+                "end_char": 491,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Herzog",
+                "start_char": 570,
+                "end_char": 576,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
