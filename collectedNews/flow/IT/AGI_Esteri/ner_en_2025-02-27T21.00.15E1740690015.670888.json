@@ -1,0 +1,3425 @@
+[
+    {
+        "title": "È morto Boris Spassky, la leggenda soìvietica degli scacchi",
+        "date_raw": "Thu, 27 Feb 2025 19:19:58 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/morto-boris-spassky-leggenda-sovietica-scacchi-30214398/",
+        "subtitle": "",
+        "content": "AGI - È morto all'età di 88 anni la leggenda sovietica degli scacchi, Boris Spassky. La notizia è stata comunicata dalla federazione russa degli scacchi. Nato a Leningrado, nell'allora Unione Sovietica, il 30 gennaio 1937, divenne il decimo campione del mondo ufficiale di scacchi nel 1969. Resta nella storia la sfida di Reykjavik del 1972 per il titolo di campione del mondo con l'americano Bobby Fischer. Lo scontro fu considerato il 'match del secolo' anche per le implicazioni politiche legate alla Guerra Fredda tra Usa e Urss. \n&nbsp; \n\"È scomparsa una grande personalità, generazioni di giocatori di scacchi hanno studiato e stanno studiando le sue partite e il suo lavoro. Questa è una grande perdita per il Paese\", ha affermato il presidente della Federazione scacchistica russa, Andrei Filatov, citato dalla Tass.&nbsp;",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1740690015.9563842,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "Boris Spassky died, the Soviet legend of chess",
+        "en_content": "AGI - The Soviet chess legend Boris Spassky died at the age of 88. The news was communicated by the Russian Federation of Chess. Born in Leningrad, in the then Soviet Union, on January 30, 1937, he became the tenth champion of the official chess world in 1969. The 1972 Reykjavik challenge for the world champion title with American Bobby Fischer remains in history. The clash was considered the 'match of the century' also due to the political implications of the Cold War between the US and Urss.\n&nbsp;\n\"A great personality has disappeared, generations of chess players have studied and are studying his games and his work. This is a great loss for the country,\" said the president of the Russian Chess Federation, Andrei Filatov, cited by the Tass.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Boris Spassky",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Soviet",
+                "start_char": 24,
+                "end_char": 30,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Soviet",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Boris Spassky",
+                "start_char": 30,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the age of 88",
+                "start_char": 52,
+                "end_char": 65,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Russian Federation of Chess",
+                "start_char": 96,
+                "end_char": 127,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Leningrad",
+                "start_char": 137,
+                "end_char": 146,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Soviet Union",
+                "start_char": 160,
+                "end_char": 172,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "January 30, 1937",
+                "start_char": 177,
+                "end_char": 193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tenth",
+                "start_char": 209,
+                "end_char": 214,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "1969",
+                "start_char": 255,
+                "end_char": 259,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1972",
+                "start_char": 265,
+                "end_char": 269,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Reykjavik",
+                "start_char": 270,
+                "end_char": 279,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 324,
+                "end_char": 332,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bobby Fischer",
+                "start_char": 333,
+                "end_char": 346,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "century",
+                "start_char": 410,
+                "end_char": 417,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Cold War",
+                "start_char": 461,
+                "end_char": 473,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 486,
+                "end_char": 488,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Urss",
+                "start_char": 493,
+                "end_char": 497,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Russian Chess Federation",
+                "start_char": 688,
+                "end_char": 716,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Andrei Filatov",
+                "start_char": 718,
+                "end_char": 732,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Trump: \"In Ucraina tregua possibile, ma Kiev non entrerà nella Nato\"",
+        "date_raw": "Thu, 27 Feb 2025 19:08:02 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/trump-starmer-ucraina-pace-accordo-cessate-fuoco-30213881/",
+        "subtitle": "",
+        "content": "AGI - \"Possiamo, lo faremo\":> così il presidente Usa, Donald Trump,> incontrando&nbsp;alla Casa Bianca il primo ministro del Regno Unito, Keir Starmer, ha risposto alla domanda se si potrà raggiungere un accordo di pace sull'Ucraina>. Ma poi Trump avverte: L'Ucraina nella Nato? \"Non succederà>\". \"È questa cosa che ha scatenato tutto - dice Trump - l'Ucraina potrà riavere dei territori. Ma l'Ucraina nella Nato non succederà\". \nStarmer è negli Usa per discutere delle garanzie di sicurezza per l'Ucraina. È la sua prima visita a Washington dall'insediamento di Trump. La visita comprende un incontro bilaterale tra i due leader, un pranzo bilaterale e una conferenza stampa. \nTrump ha dichiarato che si recherà \"in un prossimo futuro\" nel Regno Unito. Il premier britannico ha consegnato al Presidente americano una lettera del Re Carlo III, in cui il sovrano lo invita a una visita di Stato, che sarebbe la seconda per Donald Trump nel Regno Unito dopo quella del 2019, durante il suo primo mandato. Un invito quindi \"davvero speciale\", secondo Keir Starmer,> che ha affermato che \"non è mai successo prima\". \nDurante l'incontro, Trump ha detto che vuole un accordo di cessate il fuoco prima di parlare di forze di pace. \"Penso che siamo molto avanti sull'accordo, ma non lo abbiamo ancora raggiunto. Ecco perché non mi piace parlare di mantenimento della pace fino a quando non abbiamo raggiunto un accordo per far avanzare le cose\", ha detto il Presidente degli Stati Uniti, aggiungendo che non vuole \"portare sfortuna\".&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; \n<h2>Trump, Putin manterrà la parola sugli accordi</h2> \nTrump, ha dichiarato che crede che il Presidente russo, Vladimir Putin, onorerà qualsiasi accordo di pace con l'Ucraina, invasa da Mosca tre anni fa. Il leader del Cremlino \"manterrà la sua parola\", ha assicurato il tycoon. \n<h2>Trump proroga di un anno le sanzioni contro la Russia</h2> \nTrump, ha prorogato di un anno alcune sanzioni precedentemente imposte alla Russia in relazione alla situazione in Ucraina. Lo affermano i documenti diffusi dalla Casa Bianca. Sono restrizioni introdotte dall'amministrazione Biden il 21 febbraio 2022, dall'amministrazione Trump durante il suo primo mandato presidenziale il 20 settembre 2018, nonché dall'amministrazione Obama il 6 marzo, 16 marzo, 20 marzo e 19 dicembre 2014 per quanto riguarda la Crimea.<br> Come ha sottolineato Trump, è giunto alla conclusione che tutte queste misure restrittive \"dovrebbero restare in vigore dopo il 6 marzo 2025\". \n\"Le azioni e le politiche affrontate in questi ordini continuano a rappresentare una minaccia insolita e straordinaria per la sicurezza nazionale e gli interessi di politica estera degli Stati Uniti\", si legge nell'ordine esecutivo in un promemoria pubblicato sul Federal Register (una raccolta di documenti ufficiali del governo degli Stati Uniti). Il leader americano ha dichiarato il 25 febbraio che in futuro verrà presa in considerazione la possibilità di revocare le sanzioni anti-russe, ma non ci sono ancora accordi in tal senso. Il 26 febbraio Trump ha chiarito che Washington è pronta a revocare le restrizioni imposte alla Russia, ma solo dopo che sarà risolto il conflitto in Ucraina. \n<h2>&nbsp;</h2>",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1740690015.95654,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "Trump: \"In Ukraine truce possible, but Kiev will not enter NATO\"",
+        "en_content": "AGI - \"We can do it\": > so US President Donald Trump, > meeting in the White House the Prime Minister of the United Kingdom, Keir Starmer, responded to the question if a peace agreement could be reached on Ukraine > . But then Trump warns: Ukraine in NATO? \"It won't happen.\" \"This is what has unleashed everything - says Trump - Ukraine will be able to get back territories. But Ukraine in NATO will not happen.\"\nStarmer is in the U.S. to discuss security guarantees for Ukraine. It's his first visit to Washington from Trump's settlement. The visit includes a bilateral meeting between the two leaders, a bilateral lunch and a press conference.\nTrump stated that he will go \"in the near future\" in the UK. The British Prime Minister gave the American President a letter of King Charles III, in which the sovereign invited him to a state visit, which would be the second for Donald Trump in the UK after that of 2019, during his first term. An invitation therefore \"really special\", according to Keir Starmer, > who said that \"it never happened before\".\nDuring the meeting, Trump said he wants a ceasefire agreement before talking about peace forces. \"I think we're ahead of the deal, but we haven't reached it yet. That's why I don't like to talk about peacekeeping until we have reached an agreement to advance things,\" said the President of the United States, adding that he doesn't want to \"take bad luck\".&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;\n<h2>Trump, Putin will keep the word on agreements\nTrump, said he believes that Russian President Vladimir Putin will honor any peace agreement with Ukraine, invaded by Moscow three years ago. The leader of the Kremlin \"will keep his word\", assured tycoon.\n<h2>Trump extension of one year sanctions against Russia\nTrump, has extended a year some sanctions previously imposed on Russia in relation to the situation in Ukraine. That's what the White House says. They are restrictions introduced by the Biden administration on 21 February 2022, by the Trump administration during its first presidential mandate on 20 September 2018, as well as by the Obama administration on 6 March, 16 March, 20 March and 19 December 2014 regarding Crimea.<br> As Trump pointed out, it came to the conclusion that all these restrictive measures \"would remain in force after 6 March 2025\".\n\"The actions and policies faced in these orders continue to pose an unusual and extraordinary threat to national security and foreign policy interests of the United States,\" reads in the executive order in a reminder published on the Federal Register (a collection of official documents of the United States Government). The American leader declared on 25 February that in the future the possibility of revoking anti-Russian sanctions will be taken into account, but there are no agreements in this regard. On February 26, Trump made it clear that Washington is ready to revoke the restrictions imposed on Russia, but only after the conflict in Ukraine will be resolved.\n<h2> &nbsp;</h2>",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 11,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 39,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO",
+                "start_char": 59,
+                "end_char": 63,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "US",
+                "start_char": 27,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 40,
+                "end_char": 52,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the White House",
+                "start_char": 67,
+                "end_char": 82,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United Kingdom",
+                "start_char": 105,
+                "end_char": 123,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Keir Starmer",
+                "start_char": 125,
+                "end_char": 137,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 206,
+                "end_char": 213,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trump",
+                "start_char": 227,
+                "end_char": 232,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 240,
+                "end_char": 247,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO",
+                "start_char": 251,
+                "end_char": 255,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump - Ukraine",
+                "start_char": 322,
+                "end_char": 337,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 380,
+                "end_char": 387,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO",
+                "start_char": 391,
+                "end_char": 395,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Starmer",
+                "start_char": 414,
+                "end_char": 421,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 432,
+                "end_char": 436,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 472,
+                "end_char": 479,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 490,
+                "end_char": 495,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Washington",
+                "start_char": 505,
+                "end_char": 515,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trump",
+                "start_char": 521,
+                "end_char": 526,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 592,
+                "end_char": 595,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Trump",
+                "start_char": 647,
+                "end_char": 652,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "UK",
+                "start_char": 704,
+                "end_char": 706,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "British",
+                "start_char": 712,
+                "end_char": 719,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "American",
+                "start_char": 744,
+                "end_char": 752,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Charles III",
+                "start_char": 780,
+                "end_char": 791,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "second",
+                "start_char": 865,
+                "end_char": 871,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 876,
+                "end_char": 888,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "UK",
+                "start_char": 896,
+                "end_char": 898,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2019",
+                "start_char": 913,
+                "end_char": 917,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 930,
+                "end_char": 935,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Keir Starmer",
+                "start_char": 997,
+                "end_char": 1009,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1075,
+                "end_char": 1080,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United States",
+                "start_char": 1345,
+                "end_char": 1362,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "luck\".&nbsp",
+                "start_char": 1405,
+                "end_char": 1416,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "&nbsp",
+                "start_char": 1418,
+                "end_char": 1423,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "&nbsp;&nbsp;&nbsp",
+                "start_char": 1425,
+                "end_char": 1442,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Putin",
+                "start_char": 1455,
+                "end_char": 1460,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1494,
+                "end_char": 1499,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 1523,
+                "end_char": 1530,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Vladimir Putin",
+                "start_char": 1541,
+                "end_char": 1555,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1592,
+                "end_char": 1599,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 1612,
+                "end_char": 1618,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three years ago",
+                "start_char": 1619,
+                "end_char": 1634,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 1654,
+                "end_char": 1661,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "one year",
+                "start_char": 1723,
+                "end_char": 1731,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1750,
+                "end_char": 1756,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1757,
+                "end_char": 1762,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 1821,
+                "end_char": 1827,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1860,
+                "end_char": 1867,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the White House",
+                "start_char": 1881,
+                "end_char": 1896,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Biden",
+                "start_char": 1943,
+                "end_char": 1948,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "21 February 2022",
+                "start_char": 1967,
+                "end_char": 1983,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1992,
+                "end_char": 1997,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 2024,
+                "end_char": 2029,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "20 September 2018",
+                "start_char": 2054,
+                "end_char": 2071,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Obama",
+                "start_char": 2091,
+                "end_char": 2096,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "6 March",
+                "start_char": 2115,
+                "end_char": 2122,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16 March",
+                "start_char": 2124,
+                "end_char": 2132,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "20 March",
+                "start_char": 2134,
+                "end_char": 2142,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "19 December 2014",
+                "start_char": 2147,
+                "end_char": 2163,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Crimea.<br",
+                "start_char": 2174,
+                "end_char": 2184,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Trump",
+                "start_char": 2189,
+                "end_char": 2194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "6 March 2025",
+                "start_char": 2299,
+                "end_char": 2311,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the United States",
+                "start_char": 2468,
+                "end_char": 2485,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Federal Register",
+                "start_char": 2544,
+                "end_char": 2564,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United States Government",
+                "start_char": 2604,
+                "end_char": 2632,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 2639,
+                "end_char": 2647,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "25 February",
+                "start_char": 2667,
+                "end_char": 2678,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "anti-Russian",
+                "start_char": 2726,
+                "end_char": 2738,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "February 26",
+                "start_char": 2824,
+                "end_char": 2835,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Trump",
+                "start_char": 2837,
+                "end_char": 2842,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Washington",
+                "start_char": 2862,
+                "end_char": 2872,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 2920,
+                "end_char": 2926,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2959,
+                "end_char": 2966,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Trovati morti in casa Gene Hackman, la moglie e il cane. Sospetta intossicazione da monossido di carbonio",
+        "date_raw": "Thu, 27 Feb 2025 16:55:54 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/morte-gene-hackman-30202647/",
+        "subtitle": "",
+        "content": "AGI - L'attore Gene Hackman>, due volte vincitore dell'Oscar per \"The French Connection>\" e \"Unforgiven>\", e sua moglie, la pianista classica Betsy Arakawa>, sono stati trovati morti, assieme al cane, mercoledì pomeriggio nella loro casa di Santa Fe, nel New Mexico. L'ufficio dello sceriffo della contea, Adan Mendoza, ha confermato la loro morte dopo la mezzanotte di giovedì. La famiglia sospetta che possano essere stati uccisi da una intossicazione da monossido di carbonio.>&nbsp;La figlia del leggendario attore, Elizabeth Jean&nbsp;Hackman, ha dichiarato al sito TMZ di non esserne certa, ma di pensare che la causa potrebbe essere dovuta ai fumi tossici. La donna ha aggiunto che le forze dell'ordine non hanno trovato nella villa segni di violenza o di effrazione anche se lo stesso sceriffo ha detto che i suoi agenti non escludono nessuna pista. Una risposta certa sulla causa del decesso arriverà all'esito delle autopsie. Hackman aveva 95 anni. Arakawa ne aveva 63. La loro unione andava avanti da 34. E' stato un vicino a chiamare la polizia, non avendo notizie degli Hackman da alcuni giorni.&nbsp;Di questi ultimi due decenni non ci sono quasi più immagini della coppia>, e tutti i media oggi danno la notizia della loro morte con vecchie fotografie di alcune delle loro ultime apparizioni pubbliche.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \nHackman è stato uno dei volti più amati del cinema di Hollywood.> Oltre alle statuine dell'Academy, ha vinto anche quattro Golden Globe ed è ricordato, tra gli altri per le sue performance in \"Bonnie and Clyde\" e nei \"Tenenbaums\".&nbsp;Variety ricorda come, nonostante i suoi problemi cardiaci, abbia segnato con uno stile tutto originale personaggi che sono entrati nella storia del cinema. Sia in ruoli grandi che in quelli più marginali. \"La sua sicurezza sullo schermo sembrava crescere, e non diminuire, con l'avanzare dell'età: è questo è il vero segno che distingue i grandi interpreti\". \n<h2>&nbsp;</h2> \n&nbsp;",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1740690015.9566767,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "Find yourself dead in the house Gene Hackman, the wife and the dog. Suspected carbon monoxide poisoning",
+        "en_content": "AGI - Actor Gene Hackman>, twice Oscar winner for \"The French Connection>\" and \"Unforgiven>\", and his wife, the classical pianist Betsy Arakawa>, were found dead, along with the dog, Wednesday afternoon in their house in Santa Fe, in New Mexico. The county sheriff's office, Adan Mendoza, confirmed their death after midnight on Thursday. The family suspects that they may have been killed by carbon monoxide poisoning.>&nbsp; The daughter of the legendary actor, Elizabeth Jean&nbsp;Hackman, told the TMZ site not to be certain, but to think that the cause could be due to toxic fumes. The woman added that law enforcement forces did not find signs of violence or effraction in the villa even though the sheriff himself said his agents did not exclude any leads. A certain answer to the cause of death will come to the outcome of autopsies. Hackman was 95. Arakawa had 63. Their union went on from 34. He's been a neighbor to call the police, not having news of the Hackmans for a few days.&nbsp; Of these last two decades there are almost no more images of the couple >, and all the media today give news of their death with old photographs of some of their latest public appearances. &nbsp;\n&nbsp;\n<div </div\n&nbsp;\nHackman was one of the most beloved faces of Hollywood cinema.> In addition to the Academy figurines, he also won four Golden Globes and is remembered, among others for his performances in \"Bonnie and Clyde\" and in \"Tenenbaums\".&nbsp;Variety remembers how, despite his heart problems, he marked with an all-original style characters who entered the history of cinema. Both in large and marginal roles. \"His safety on the screen seemed to grow, and not decrease, with the age advancing: This is the true sign that distinguishes the great interpreters.\"\n<h2> &nbsp;</h2>\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Gene Hackman",
+                "start_char": 32,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Gene Hackman",
+                "start_char": 12,
+                "end_char": 24,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Oscar",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The French Connection",
+                "start_char": 51,
+                "end_char": 72,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Unforgiven",
+                "start_char": 80,
+                "end_char": 90,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Betsy Arakawa",
+                "start_char": 130,
+                "end_char": 143,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 183,
+                "end_char": 192,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 193,
+                "end_char": 202,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Santa Fe",
+                "start_char": 221,
+                "end_char": 229,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "New Mexico",
+                "start_char": 234,
+                "end_char": 244,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Adan Mendoza",
+                "start_char": 275,
+                "end_char": 287,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "midnight",
+                "start_char": 317,
+                "end_char": 325,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 329,
+                "end_char": 337,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Elizabeth Jean&nbsp;Hackman",
+                "start_char": 464,
+                "end_char": 491,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "TMZ",
+                "start_char": 502,
+                "end_char": 505,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hackman",
+                "start_char": 842,
+                "end_char": 849,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "95",
+                "start_char": 854,
+                "end_char": 856,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Arakawa",
+                "start_char": 858,
+                "end_char": 865,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "63",
+                "start_char": 870,
+                "end_char": 872,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "34",
+                "start_char": 899,
+                "end_char": 901,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hackmans",
+                "start_char": 967,
+                "end_char": 975,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "these last two decades",
+                "start_char": 1001,
+                "end_char": 1023,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 1091,
+                "end_char": 1096,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hackman",
+                "start_char": 1219,
+                "end_char": 1226,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hollywood",
+                "start_char": 1264,
+                "end_char": 1273,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Academy",
+                "start_char": 1302,
+                "end_char": 1309,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "four",
+                "start_char": 1333,
+                "end_char": 1337,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Golden Globes",
+                "start_char": 1338,
+                "end_char": 1351,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bonnie",
+                "start_char": 1409,
+                "end_char": 1415,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Clyde",
+                "start_char": 1420,
+                "end_char": 1425,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Katy Perry volerà nello spazio con Blue Origin di Bezos",
+        "date_raw": "Thu, 27 Feb 2025 16:30:43 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/spazio-bezos-lancio-blue-origin-con-katy-perry-30210717/",
+        "subtitle": "",
+        "content": "AGI - La cantante Katy Perry sarà a bordo del prossimo lancio del razzo Blue Origin di Jeff Bezos, secondo quanto annunciato dalla stessa compagnia. L'undicesimo volo spaziale umano per la compagnia del miliardario americano sarà di sole donne e prevede la presenza anche di Lauren Sanchez, la fidanzata di Bezos, e la conduttrice televisiva Gayle King. \nBlue Origin ha iniziato a lanciare nello spazio ricchi turisti e celebrità nel 2021 a bordo del suo razzo New Shepard, che prende il nome da Alan Shepard, il primo americano nello spazio. \nA oggi, la compagnia ha trasportato 52 persone nello spazio suborbitale in 10 missioni con equipaggio. Le missioni New Shepard partono dal Launch Site One dell'azienda del fondatore di Amazon nel West Texas. I voli durano in genere solo 10 o 11 minuti dal decollo all'atterraggio, con i passeggeri che sperimentano alcuni minuti di microgravità mentre la loro capsula si libra oltre la linea di Karman, il confine dello Spazio riconosciuto a livello internazionale, a 100 chilometri sopra il livello del mare. \nIl razzo propulsore effettua un atterraggio verticale, mentre la capsula dispiega i paracaduti per un delicato atterraggio nel deserto del Texas. A bordo ci saranno anche la scienziata ricercatrice Amanda Nguyen, l'ex scienziata missilistica della Nasa Aisha Bowe e la produttrice cinematografica Kerianne Flynn. Tra le celebrità che hanno già viaggiato a bordo di New Shepard ci sono anche la leggenda di Star Trek William Shatner, così come lo stesso Bezos, che ha volato sul volo inaugurale con equipaggio. I prezzi dei biglietti rimangono riservati, anche se alle celebrità vengono spesso offerti posti omaggio. \nQuesta missione segnerà il primo equipaggio di un volo spaziale interamente femminile dai tempi dello storico volo in solitaria della sovietica Valentina Tereshkova nel 1963. Come Elon Musk, l'unica persona più ricca di lui, Bezos ha una lunga passione per lo Spazio. Ma mentre Musk sogna di colonizzare Marte, Bezos immagina di spostare l'industria pesante fuori dal pianeta su piattaforme spaziali galleggianti per preservare la Terra, \"l'origine blu dell'umanità\". \n&nbsp; \nA gennaio, la sua azienda ha lanciato con successo per la prima volta il gigantesco razzo New Glenn, un passo cruciale nella sua espansione nel redditizio settore dei lanci commerciali. Blue Origin detiene già un contratto con la Nasa per costruire un lander lunare per una delle prossime missioni Artemis, che riporterà gli americani sulla Luna. New Glenn supporterà anche l'implementazione del Progetto Kuiper, una costellazione di Internet satellitare progettata per rivaleggiare con Starlink di Musk.&nbsp;",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1740690015.956806,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "Katy Perry will fly into space with Bezos Blue Origin",
+        "en_content": "AGI - The singer Katy Perry will be on board the next launch of the Blue Origin rocket by Jeff Bezos, as announced by the same company. The eleventh human space flight for the company of the American billionaire will be of only women and includes the presence of Lauren Sanchez, Bezos' girlfriend, and Gayle King television host.\nBlue Origin began to launch rich tourists and celebrities in 2021 on board its New Shepard rocket, named after Alan Shepard, the first American in space.\nTo date, the company has transported 52 people to suborbital space in 10 missions with crew. The New Shepard missions depart from the Launch Site One of Amazon's founder company in West Texas. Flights usually last only 10 or 11 minutes from take-off to landing, with passengers experiencing a few minutes of microgravity while their capsule breaks over the Karman line, the internationally recognized space boundary, 100 kilometers above sea level.\nThe propulsor rocket carries out a vertical landing, while the capsule unfolds the parachutes for a delicate landing in the Texas desert. On board will also be research scientist Amanda Nguyen, former missile scientist Nasa Aisha Bowe and film producer Kerianne Flynn. Among the celebrities who have already traveled on board New Shepard there are also the legend of Star Trek William Shatner, as well as the same Bezos, who flew on the maiden flight with crew. Tickets prices remain reserved, although celebrities are often offered free seats.\nThis mission will mark the first crew of an entirely feminine space flight from the time of the historic solo flight of the Soviet Valentina Tereshkova in 1963. Like Elon Musk, the only person richer than him, Bezos has a long passion for Space. But while Musk dreams of colonizing Mars, Bezos imagines moving the heavy industry out of the planet on floating space platforms to preserve the Earth, \"the blue origin of humanity\".\n&nbsp;\nIn January, his company successfully launched the giant New Glenn rocket for the first time, a crucial step in its expansion into the profitable commercial launch sector. Blue Origin already holds a contract with Nasa to build a lunar lander for one of the next Artemis missions, which will bring Americans back to the Moon. New Glenn will also support the implementation of the Kuiper Project, a constellation of satellite Internet designed to rival Musk.&nbsp Starlink;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Katy Perry",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bezos Blue Origin",
+                "start_char": 36,
+                "end_char": 53,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Katy Perry",
+                "start_char": 17,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Blue Origin",
+                "start_char": 68,
+                "end_char": 79,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jeff Bezos",
+                "start_char": 90,
+                "end_char": 100,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "eleventh",
+                "start_char": 140,
+                "end_char": 148,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "American",
+                "start_char": 191,
+                "end_char": 199,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lauren Sanchez",
+                "start_char": 263,
+                "end_char": 277,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bezos",
+                "start_char": 279,
+                "end_char": 284,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Gayle King",
+                "start_char": 302,
+                "end_char": 312,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Blue Origin",
+                "start_char": 330,
+                "end_char": 341,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2021",
+                "start_char": 391,
+                "end_char": 395,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "New Shepard",
+                "start_char": 409,
+                "end_char": 420,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alan Shepard",
+                "start_char": 441,
+                "end_char": 453,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 459,
+                "end_char": 464,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "American",
+                "start_char": 465,
+                "end_char": 473,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "52",
+                "start_char": 521,
+                "end_char": 523,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "10",
+                "start_char": 554,
+                "end_char": 556,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "New Shepard",
+                "start_char": 581,
+                "end_char": 592,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "One",
+                "start_char": 630,
+                "end_char": 633,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Amazon",
+                "start_char": 637,
+                "end_char": 643,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "West Texas",
+                "start_char": 665,
+                "end_char": 675,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "10 or 11 minutes",
+                "start_char": 703,
+                "end_char": 719,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "a few minutes",
+                "start_char": 775,
+                "end_char": 788,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Karman",
+                "start_char": 841,
+                "end_char": 847,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "100 kilometers",
+                "start_char": 901,
+                "end_char": 915,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Texas",
+                "start_char": 1057,
+                "end_char": 1062,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Amanda Nguyen",
+                "start_char": 1112,
+                "end_char": 1125,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nasa Aisha Bowe",
+                "start_char": 1152,
+                "end_char": 1167,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kerianne Flynn",
+                "start_char": 1186,
+                "end_char": 1200,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "New Shepard",
+                "start_char": 1259,
+                "end_char": 1270,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Star Trek",
+                "start_char": 1300,
+                "end_char": 1309,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "William Shatner",
+                "start_char": 1310,
+                "end_char": 1325,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bezos",
+                "start_char": 1347,
+                "end_char": 1352,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 1505,
+                "end_char": 1510,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Soviet",
+                "start_char": 1602,
+                "end_char": 1608,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Valentina Tereshkova",
+                "start_char": 1609,
+                "end_char": 1629,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1963",
+                "start_char": 1633,
+                "end_char": 1637,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Elon Musk",
+                "start_char": 1644,
+                "end_char": 1653,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bezos",
+                "start_char": 1688,
+                "end_char": 1693,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Space",
+                "start_char": 1717,
+                "end_char": 1722,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mars",
+                "start_char": 1760,
+                "end_char": 1764,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Bezos",
+                "start_char": 1766,
+                "end_char": 1771,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Earth",
+                "start_char": 1869,
+                "end_char": 1874,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "January",
+                "start_char": 1917,
+                "end_char": 1924,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "New Glenn",
+                "start_char": 1970,
+                "end_char": 1979,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "first",
+                "start_char": 1995,
+                "end_char": 2000,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Blue Origin",
+                "start_char": 2085,
+                "end_char": 2096,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nasa",
+                "start_char": 2127,
+                "end_char": 2131,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "one",
+                "start_char": 2160,
+                "end_char": 2163,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Artemis",
+                "start_char": 2176,
+                "end_char": 2183,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Americans",
+                "start_char": 2211,
+                "end_char": 2220,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Moon",
+                "start_char": 2233,
+                "end_char": 2237,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "New Glenn",
+                "start_char": 2239,
+                "end_char": 2248,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Kuiper Project",
+                "start_char": 2289,
+                "end_char": 2307,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Starlink",
+                "start_char": 2376,
+                "end_char": 2384,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Storico appello di Ocalan, \"il PKK deve sciogliersi, è tempo di deporre le armi\"",
+        "date_raw": "Thu, 27 Feb 2025 16:23:49 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/appello-ocalan-scioglimento-pkk-30210335/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Un appello per la pace scritto in tre lingue, turco, curdo e inglese, con al centro una grande foto della delegazione e il leader del Pkk. Abdullah&nbsp;Ocalan. Questo lo sfondo a un annuncio che potrebbe mettere la parola fine a 40 anni di conflitto tra la Turchia e i separatisti curdi del partito dei Lavoratori del Kurdistan.> Un conflitto costato la vita a circa 50 mila persone. \"Il Pkk ha esaurito il proprio ciclo, invito tutti i gruppi armati a convocare un congresso e sancire lo scioglimento dell'organizzazione\", è stato il messaggio che tutti aspettavano, letto in tre lingue (prima in curdo) dalla delegazione del partito Dem (ex Hdp ndr), che ha avuto l'incarico di portare avanti il dialogo con&nbsp;Ocalan, rinchiuso nel carcere di massima sicurezza di Imrali dal 1999. \nIl leader del Pkk ha aperto la lettera-appello con dei riferimenti al socialismo che l'organizzazione ha sempre professato ma ormai irraggiungibili, per poi giungere alla conclusione che, alle condizioni attuali, la guerra non ha più senso e non deve più essere portata avanti.&nbsp;Ocalan&nbsp;ha ringraziato tutti coloro che \"non vedevano l'ora di arrivare alla pace\" e si è assunto \"la responsabilità dinanzi la storia della decisione di sciogliere il Pkk\". Il leader curdo ha fatto riferimento alle condizioni che lo hanno spinto a chiedere la pace, ovvero \"la voglia mostrata dal presidente Recep Tayyip Erdogan\" e \"l'appello di Devlet Bahceli\" (leader del partito nazionalista MHP ndr). Non scontato che&nbsp;Ocalan&nbsp;citasse due che lo hanno combattuto per anni, ma la verità è che senza Erdogan e il suo alleato nazionalista questa pace non sarebbe mai arrivata.> \nCome ricordato da&nbsp;Ocalan&nbsp;tutto il processo è nato da un'apertura a sorpresa di Bahceli, 77 anni, che ha trascorso la propria intera carriera politica cavalcando una linea oltranzista nei confronti dei curdi e dal 2015 è un alleato essenziale di Erdogan. Il meno atteso dei personaggi della scena politica turca, nell'incredulità generale, lo scorso ottobre ha teso la mano ai Dem, chiesto la pace e addirittura la fine dell'isolamento di&nbsp;Ocalan. Parole che hanno spianato la strada al dialogo e rotto gli anni di isolamento in cui versava il leader curdo.> Un altro tassello per la pace era stato messo lo scorso 17 febbraio, quando la delegazione Dem che ha incontrato&nbsp;Ocalan&nbsp;si è recata in nord Iraq per incontrare il leader del Kurdistan iracheno, Masoud Barzani, che ha promesso \"massimo impegno\" per la pace. \nUn passo importante perché è proprio sulle montagne del nord del Kurdistan iracheno che la guerra tra l'esercito turco e il Pkk è andata avanti senza tregua. Qui il Pkk ha ancora le proprie basi, depositi di armi e rifugi; sempre in nord Iraq l'esercito turco ha attaccato ripetutamente, arrivando a costituirvi anche degli avamposti. Operazioni avallate dal leader curdo Barzani, molto più amico di Erdogan che del Pkk,> ma che in anni di conflitto hanno inferto duri colpi ai separatisti dando però l'impressione che non vi fosse mai una fine. La resistenza del Pkk, eradicata in territorio turco quasi del tutto, sulle montagne è andata avanti. In attesa di vedere se le operazioni in nord Iraq continueranno a pesare sul processo di pace ci sono i commissariamenti dei comuni curdi da parte del ministero degli Interni turco, ben 12 dopo le elezioni di un anno fa. Sindaci destituiti proprio per presunti legami con il Pkk; provvedimenti impopolari che hanno spinto la popolazione a protestare, la polizia a intervenire e hanno fatto salire la tensione in diverse città curde.&nbsp; \nLa pace con il Pkk non sembra inoltre soddisfare tutti e come spesso accade in Turchia si è creato subito un fronte del no. Rappresentanti e sostenitori dei partiti di opposizione Chp, Iyi parti e Vatan, oltre ai media legati a questi ultimi, hanno parlato di \"tradimento\" nei confronti delle famiglie delle vittime (che hanno protestato), messo in discussione le reali intenzioni di Erdogan e accusato il governo turco di \"scendere a patti con il capo dei terroristi\". Il canale Fox in Turchia, Now TV, ha parlato di un piano per rendere&nbsp;Ocalan&nbsp;parlamentare e la Turchia federale.> Un progetto che una larga parte del Paese considererebbe un vero e proprio tradimento. \nCritiche molto simili a quelle con cui l'opposizione attaccò Erdogan nel 2012. Il leader turco, premier all'epoca, riuscì insieme ai Dem (all'epoca HDP) a mediare un cessate il fuoco con&nbsp;Ocalan&nbsp;che sancì una tregua di più anni. Anche all'epoca la pace, seppur temporanea, fu sancita attraverso una serie di incontri con&nbsp;Ocalan&nbsp;in carcere. Il cessate il fuoco naufragò proprio in seguito alla sconfitta elettorale rimediata da Erdogan nelle elezioni del 2015. La ripresa degli scontri fu, al contrario, un fattore che permise a Erdogan di formare un governo grazie all'appoggio di Bahceli, all'epoca uno dei più grandi nemici della pace con il Pkk. \nA favorire questo nuovo processo di pace è però stavolta non solo il cambio di rotta di Bahceli, ma la necessità della Turchia di porre fine agli scontri ai propri confini in un momento in cui la situazione in Medio Oriente è tesa e incerta. Preoccupano gli sviluppi in Siria, ma il governo turco teme anche che il Pkk possa diventare uno strumento nelle mani di Israele. Lo Stato ebraico sostiene l'organizzazione curda e ha lanciato diversi messaggi ai separatisti >che hanno fatto scattare l'allerta ad Ankara. Erdogan teme che l'aggressività di Israele a Gaza, Libano e Siria possa avere ripercussioni sulla Turchia e vuole liberare l'esercito da un conflitto che nelle montagne del nord Iraq non sembra avere fine e che al Paese aggiunge solo lutti e bandiere coperte da bare.",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1740690015.9569333,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "Ocalan's historic appeal, \"the PKK must dissolve, it is time to depose the weapons\"",
+        "en_content": "AGI -&nbsp;An appeal for peace written in three languages, Turkish, Kurdish and English, with a large photo of the delegation and the leader of the Pkk. Abdullah&nbsp;Ocalan. This is the background to an announcement that could put an end to 40 years of conflict between Turkey and Kurdish separatists of the Kurdistan Workers' Party.> A conflict cost about 50 thousand people. \"The Pkk has exhausted its cycle, I invite all armed groups to convene a congress and sanction the dissolution of the organization\", was the message that everyone expected, read in three languages (first in Kurdish) by the delegation of the Dem party (formerly Hdp ndr), who had the task of carrying out the dialogue with&nbsp;Ocalan, locked up in the maximum prison of safety\nThe leader of the Pkk opened the letter-approval with references to socialism that the organization has always professed but now unreachable, and then come to the conclusion that, under current conditions, the war no longer makes sense and must no longer be carried forward.&nbsp;Ocalan&nbsp; thanked all those who \"would not wait to arrive at peace\" and assumed \"the responsibility before the story\". The Kurdish leader referred to the conditions that prompted him to ask for peace, namely \"the desire shown by President Recep Tayip Erdogan\" and \"the appeal of Devlet Bahceli\" (leader of the nationalist party MHP ndr). Unpredicted that&nbsp;Ocalan&nbsp;cited two who fought for years, but the truth is that without Erdogan and his nationalist ally this peace would never have arrived. >\nAs recounted by&nbsp;Ocalan&nbsp; the process was born from a 77-year-old surprise opening of Bahceli, who spent his entire political career riding an outrageous line towards the Kurds and since 2015 he is an essential ally of Erdogan. The least anticipated of the characters of the Turkish political scene, in the general unbelief, last October held hands on the Dems, asked for peace and even the end of the isolation of&nbsp;Ocalan. Words that paved the way for dialogue and broken the years of isolation in which the Kurdish leader poured.> Another stopover for peace had been put on 17 February, when the Dem delegation that met &nbsp; Ocalan&nbsp; went to northern Iraq to meet the leader of Iraqi Kurdistan, Masoud Barzani, who promised \"a great commitment\" for peace.\nAn important step because it is precisely in the northern mountains of Iraqi Kurdistan that the war between the Turkish army and the Pkk went on without a truce. Here the Pkk still has its own bases, weapons deposits and shelters; In northern Iraq, the Turkish army has repeatedly attacked, and there is also an outpost. Operations endorsed by Kurdish leader Barzani, much more friend than Erdogan than the Pkk, > but that in years of conflict they have inflicted severe blows on separatists, however giving the impression that there was never an end. The resistance of the Pkk, eradicated in Turkish territory almost entirely, on the mountains went on. Waiting to see if the operations in northern Iraq will continue to weigh on the peace process there are the Commissioners of the Kurdish municipalities by the Turkish Interior Ministry, 12 after the elections a year ago. Unions destituted precisely because of alleged ties with the Pkk; unpopular measures that prompted the population to protest, the police to intervene and brought up tension in different Kurdish cities.&nbsp;\nThe peace with the Pkk does not seem to satisfy all and as often happens in Turkey a front of the no has been created. Representatives and supporters of the opposition parties Chp, Iyi parties and Vatan, in addition to the media linked to the latter, spoke of \"tradiment\" towards the families of the victims (who protested), questioned the real intentions of Erdogan and accused the Turkish government of \"going to terms with the head of the terrorists\". The Fox channel in Turkey, Now TV, spoke about a plan to make &nbsp;Ocalan&nbsp;parliamentary and federal Turkey.> A project that a large part of the country would consider a real betrayal.\nCritics very similar to those with whom the opposition attacked Erdogan in 2012. The Turkish leader, premier at the time, succeeded together with the Dems (at the time HDP) to mediate a ceasefire with&nbsp;Ocalan&nbsp; which sanctioned a truce of several years. Even at the time, peace, although temporary, was sanctioned through a series of meetings with&nbsp; Ocalan&nbsp; in prison. The ceasefire was undermined by Erdogan's electoral defeat in the 2015. The resumption of the clashes was, on the contrary, a factor that allowed Erdogan to form a government thanks to the support of Bahceli, at the time one of the greatest enemies of peace with the Pkk.\nHowever, this new peace process is not only the change in Bahceli's route, but Turkey's need to end its conflicts at a time when the situation in the Middle East is tense and uncertain. They concern developments in Syria, but the Turkish government also fears that the Pkk may become an instrument in the hands of Israel. The Jewish state supports the Kurdish organization and has launched several messages to the separatists who triggered the alert in Ankara. Erdogan fears that Israel's aggression in Gaza, Lebanon and Syria may have repercussions on Turkey and wants to free the army from a conflict that in the mountains of northern Iraq does not seem to have an end and that the country adds only mourners and flags covered by coffins.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "PKK",
+                "start_char": 31,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "three",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 59,
+                "end_char": 66,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 68,
+                "end_char": 75,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "English",
+                "start_char": 80,
+                "end_char": 87,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "an end to 40 years",
+                "start_char": 232,
+                "end_char": 250,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 271,
+                "end_char": 277,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 282,
+                "end_char": 289,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Kurdistan Workers' Party",
+                "start_char": 305,
+                "end_char": 333,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "about 50 thousand",
+                "start_char": 352,
+                "end_char": 369,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "congress",
+                "start_char": 451,
+                "end_char": 459,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 559,
+                "end_char": 564,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 576,
+                "end_char": 581,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 585,
+                "end_char": 592,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Dem party",
+                "start_char": 615,
+                "end_char": 628,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hdp ndr",
+                "start_char": 639,
+                "end_char": 646,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Pkk",
+                "start_char": 773,
+                "end_char": 776,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 1161,
+                "end_char": 1168,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Recep Tayip Erdogan",
+                "start_char": 1277,
+                "end_char": 1296,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Devlet Bahceli",
+                "start_char": 1317,
+                "end_char": 1331,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "MHP",
+                "start_char": 1366,
+                "end_char": 1369,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 1416,
+                "end_char": 1419,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "years",
+                "start_char": 1435,
+                "end_char": 1440,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1472,
+                "end_char": 1479,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "by&nbsp;Ocalan&nbsp",
+                "start_char": 1557,
+                "end_char": 1576,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "77-year-old",
+                "start_char": 1606,
+                "end_char": 1617,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bahceli",
+                "start_char": 1638,
+                "end_char": 1645,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kurds",
+                "start_char": 1723,
+                "end_char": 1728,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2015",
+                "start_char": 1739,
+                "end_char": 1743,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1771,
+                "end_char": 1778,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 1827,
+                "end_char": 1834,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "last October",
+                "start_char": 1877,
+                "end_char": 1889,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Dems",
+                "start_char": 1908,
+                "end_char": 1912,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the years",
+                "start_char": 2029,
+                "end_char": 2038,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 2065,
+                "end_char": 2072,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "17 February",
+                "start_char": 2132,
+                "end_char": 2143,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Dem",
+                "start_char": 2154,
+                "end_char": 2157,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "&nbsp",
+                "start_char": 2178,
+                "end_char": 2183,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ocalan&nbsp",
+                "start_char": 2185,
+                "end_char": 2196,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iraq",
+                "start_char": 2215,
+                "end_char": 2219,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iraqi",
+                "start_char": 2242,
+                "end_char": 2247,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kurdistan",
+                "start_char": 2248,
+                "end_char": 2257,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Masoud Barzani",
+                "start_char": 2259,
+                "end_char": 2273,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Iraqi",
+                "start_char": 2391,
+                "end_char": 2396,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kurdistan",
+                "start_char": 2397,
+                "end_char": 2406,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 2432,
+                "end_char": 2439,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pkk",
+                "start_char": 2491,
+                "end_char": 2494,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iraq",
+                "start_char": 2563,
+                "end_char": 2567,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 2573,
+                "end_char": 2580,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 2664,
+                "end_char": 2671,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Barzani",
+                "start_char": 2679,
+                "end_char": 2686,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 2710,
+                "end_char": 2717,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "years",
+                "start_char": 2746,
+                "end_char": 2751,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 2913,
+                "end_char": 2920,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Iraq",
+                "start_char": 3019,
+                "end_char": 3023,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 3103,
+                "end_char": 3110,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Turkish Interior Ministry",
+                "start_char": 3129,
+                "end_char": 3158,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "12",
+                "start_char": 3160,
+                "end_char": 3162,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "a year ago",
+                "start_char": 3183,
+                "end_char": 3193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pkk",
+                "start_char": 3256,
+                "end_char": 3259,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 3381,
+                "end_char": 3388,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pkk",
+                "start_char": 3422,
+                "end_char": 3425,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkey",
+                "start_char": 3479,
+                "end_char": 3485,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chp",
+                "start_char": 3579,
+                "end_char": 3582,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vatan",
+                "start_char": 3600,
+                "end_char": 3605,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 3762,
+                "end_char": 3769,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 3786,
+                "end_char": 3793,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Fox",
+                "start_char": 3862,
+                "end_char": 3865,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkey",
+                "start_char": 3877,
+                "end_char": 3883,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 3964,
+                "end_char": 3970,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 4112,
+                "end_char": 4119,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2012",
+                "start_char": 4123,
+                "end_char": 4127,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 4133,
+                "end_char": 4140,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Dems",
+                "start_char": 4198,
+                "end_char": 4202,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "several years",
+                "start_char": 4295,
+                "end_char": 4308,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "with&nbsp",
+                "start_char": 4399,
+                "end_char": 4408,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 4466,
+                "end_char": 4473,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the 2015",
+                "start_char": 4496,
+                "end_char": 4504,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 4580,
+                "end_char": 4587,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bahceli",
+                "start_char": 4634,
+                "end_char": 4641,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bahceli",
+                "start_char": 4764,
+                "end_char": 4771,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 4785,
+                "end_char": 4791,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Middle East",
+                "start_char": 4852,
+                "end_char": 4867,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Syria",
+                "start_char": 4921,
+                "end_char": 4926,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 4936,
+                "end_char": 4943,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israel",
+                "start_char": 5020,
+                "end_char": 5026,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jewish",
+                "start_char": 5032,
+                "end_char": 5038,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kurdish",
+                "start_char": 5058,
+                "end_char": 5065,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 5159,
+                "end_char": 5165,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 5167,
+                "end_char": 5174,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 5186,
+                "end_char": 5192,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 5209,
+                "end_char": 5213,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanon",
+                "start_char": 5215,
+                "end_char": 5222,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syria",
+                "start_char": 5227,
+                "end_char": 5232,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 5259,
+                "end_char": 5265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iraq",
+                "start_char": 5343,
+                "end_char": 5347,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Re Carlo III ha chiesto di parlare alle Camere durante la visita in Italia ",
+        "date_raw": "Thu, 27 Feb 2025 13:20:58 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/re-carlo-in-italia-chiesto-parlare-alle-camere-30206518/",
+        "subtitle": "",
+        "content": "AGI - Il Re Carlo III d'Inghilterra, nel contesto della sua visita di Stato in Italia programmata per aprile>, ha fatto richiesta di parlare alle Camere. È quanto apprende l'AGI da fonti parlamentari. \n&nbsp; \nLa richiesta pervenuta è stata discussa, con il parere favorevole dei presenti, sempre secondo quanto si apprende, durante la conferenza dei capigruppo a Montecitorio di ieri. La visita ufficiale (la 18esima nel nostro Paese) è stata annunciata da Buckingham Palace. Accompagnato dalla consorte Regina Camilla, l'agenda del sovrano prevede al momento un incontro con Papa Francesco in Vaticano, per il Giubileo, oltre che con personalità dello Stato, e poi una tappa a Ravenna.&nbsp;",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1740690015.9570627,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "King Charles III asked to speak to the Chambers during his visit to Italy",
+        "en_content": "AGI - King Charles III of England, in the context of his State visit in Italy scheduled for April >, requested to speak to the Chambers. This is what AGI learns from parliamentary sources.\n&nbsp;\nThe request received was discussed, with the favourable opinion of the present, always according to what is learned, during the conference of the group leaders in Montecitorio yesterday. The official visit (18th in our country) was announced by Buckingham Palace. Accompanied by the consort Regina Camilla, the sovereign's agenda provides at the moment a meeting with Pope Francis in the Vatican, for the Jubilee, as well as with personality of the State, and then a stage in Ravenna.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Charles III",
+                "start_char": 5,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chambers",
+                "start_char": 39,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 68,
+                "end_char": 73,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - King",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Charles III",
+                "start_char": 11,
+                "end_char": 22,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "England",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "State",
+                "start_char": 57,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 72,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "April",
+                "start_char": 92,
+                "end_char": 97,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chambers",
+                "start_char": 127,
+                "end_char": 135,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AGI",
+                "start_char": 150,
+                "end_char": 153,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Montecitorio",
+                "start_char": 359,
+                "end_char": 371,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 372,
+                "end_char": 381,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "18th",
+                "start_char": 403,
+                "end_char": 407,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Buckingham Palace",
+                "start_char": 441,
+                "end_char": 458,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Regina Camilla",
+                "start_char": 487,
+                "end_char": 501,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Francis",
+                "start_char": 569,
+                "end_char": 576,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 584,
+                "end_char": 591,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "State",
+                "start_char": 645,
+                "end_char": 650,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "No, l'accordo tra Usa e Ucraina non riguarda le 'terre rare'",
+        "date_raw": "Thu, 27 Feb 2025 12:40:17 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/usa-ucraina-accordo-risorse-minerali-30204827/",
+        "subtitle": "",
+        "content": "AGi - Si è aperto un nuovo fronte nel conflitto ucraino su chi controllerà le risorse minerarie del Paese, dopo la fine dei combattimenti. Con grandi aspettative sui proventi, che potrebbero però andare deluse. Il presidente Usa, Donald Trump, ha annunciato di volere \"l'equivalente di 500 miliardi di dollari in terre rare\" >mentre l'omologo a Kiev, Volodymyr Zelensky, ha espresso il suo dissenso, avvertendo che non avrebbe \"firmato qualcosa che dieci generazioni di ucraini pagheranno in seguito\". Ma c'è un piccolo problema in questa discussione sui miliardi, se non trilioni, che arriverebbero dai minerali dell'Ucraina: in realtà questa presunta ricchezza non è così ricca. \nTecnicamente parlando, le terre rare sono 17 dei 118 elementi della tavola periodica: scandio, ittrio, lantanio, cerio, praseodimio, neodimio, promezio, samario, europio, gadolinio, terbio, disprosio, olmio, erbio, tallio, itterbio e lutezio. Tutti preziosissimi. \"L'Ucraina, tranne un po' di scandio, fondamentalmente non ha terre rare, per questo sarebbe più appropriato parlare di accordo con gli Usa per minerali e risorse critiche\", spiega in un'intervista all'AGI Gianclaudio Torlizzi, fondatore della società di consulenza T-Commodity e consigliere del ministro della Difesa su materie prime e materiali rari. Torlizzi riporta l'attenzione sul fatto che l'Ucraina \"ha una discreta ricchezza, ma non è un campione minerario come per esempio il Congo per il cobalto o il Cile per il rame\">. Secondo l'esperto, la confusione sulle terre rare può spiegarsi \"da una parte con la scelta degli ucraini di calcare un po' la mano su questo aspetto per aumentare l'interesse dell'Occidente nei loro confronti e dall'altra con l'utilizzato un po' semplicistico fattone da Trump che sotto questa categoria fa rientrare un po' tutto\". \n&nbsp; \n<div></div> \n&nbsp; \n<h2>Le ricchezze (vere) dell'Ucraina</h2> \nL'intesa sui minerali che domani dovrebbe essere finalizzata alla Casa Bianca nell'ambito della visita di Zelensky, \"riguarda invece il titanio, di cui l'Ucraina è sesto produttore a livello mondiale e che rappresenta l'attrattiva maggiore per il suo impiego nell'industria della Difesa, i giacimenti di carbone e gas e i minerali di ferro\", sottolinea Torlizzi. L'Ucraina, inoltre, ha la grafite, che non è una terra rara, ma un minerale strategico e il litio, fondamentale per l'industria delle batterie> e il business dei veicoli elettrici, ma di cui disponiamo in abbondanza in tutto il mondo e i cui depositi più promettenti si trovano nella regione di Zaporizhzhia, parzialmente sotto controllo russo. \nCiò di cui l'Ucraina è veramente ricca sono i minerali di ferro, il gas naturale e il carbone, scoperti dal gallese John Hughes nel XIX secolo nella valle del fiume Donets, in Donbass. Lo stesso capoluogo regionale Donetsk in passato si chiamava Hughesovka in suo onore. Il problema è che tutte queste riserve di gas inutilizzate si trovano proprio lungo le attuali linee del fronte e molte miniere di carbone sono sotto il controllo russo e lo sono dal 2014. Le possibilità che questi giacimenti vengano sfruttati sono molto ridotte. \"La trattativa vera in questo ambito sarà tra Mosca e Washington>\", che secondo l'analista, \"si stanno già spartendo le risorse strategiche del Paese>\" \nPer Torlizzi, sulle terre rare \"la confusione di fondo è che si associano impropriamente ai cosiddetti minerali critici\", pur essendo due cose molto diverse: le terre rare sono un gruppo di 17 elementi ben specificati nella tabella periodica e usati in piccole quantità nei semiconduttori, e i minerali critici sono materie prime importanti dal punto di vista economico e che presentano un elevato rischio in termini di approvvigionamento. Anche sul concetto di 'raro' bisogna fare chiarezza: \"Le terre rare non sono affatto rare, l'Italia stessa ha dei giacimenti, la vera 'rarità'' è la loro raffinazione che serve per renderle commerciali\">, dice l'esperto. \n\"Si tratta di un processo che richiede molta energia e acqua ed è molto inquinante, per questo l'Occidente negli anni lo ha delocalizzato sempre di più in Cina, che oggi si trova a controllare oltre il 90% della raffinazione di questi elementi a livello globale\". La nuova postura di Washington sull'Ucraina rientra cosi' in una più ampia strategia: \"In questa Seconda Guerra Fredda colmare il divario con Pechino sulle materie prime è diventato un pilastro della politica estera americana, perseguito in modo anche più aggressivo del passato\". Si spiega cosi' anche l'attenzione americana per la Groenlandia, \"che ha una grande disponibilità mineraria e per il Canada che è un grande produttore mondiale di metalli critici\", conclude Torlizzi. \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1740690015.9571886,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "No, the U.S.-U.U.U. agreement does not concern ' rare earths'",
+        "en_content": "AGi - A new front has been opened in the Ukrainian conflict on who will control the country's mineral resources, after the end of the fights. With great expectations on the proceeds, which could however be disappointed. US President, Donald Trump, announced he wanted \"the equivalent of $500 billion in rare lands\" >while the homologue in Kiev, Volodymyr Zelensky, expressed his dissent, warning that he would not \"sign something ten generations of Ukrainians will pay later\". But there is a small problem in this discussion about the billions, if not trillions, which would come from the minerals of Ukraine: In reality this supposed wealth is not so rich.\nTechnically speaking, rare lands are 17 of the 118 elements of the periodic table: scandio, ittrio, lantanio, cerio, praseodimio, neodimio, promezio, samario, europio, gadolinio, terbio, disprosio, olmio, erbio, heel, itterbio and lutezio. All precious. \"Ukraine, except for a little scan, basically has no rare lands, so it would be more appropriate to talk about agreement with the U.S. for minerals and critical resources,\" explains in an interview with AGI Gianclaudio Torlizzi, founder of the T-Commodity consulting company and advisor of the Minister of Defense on rare raw materials and materials. Torlizzi draws attention to the fact that Ukraine \"has a decent wealth, but it is not a mining champion such as the Congo for cobalt or Chile for copper.\" According to the expert, the confusion about rare lands can be explained \"on the one hand with the choice of the Ukrainians of limestone a bit 'the hand on this aspect in order to increase the interest of the West towards them and on the other with the used a little simplistic faction by Trump that under this category makes to fall a little ' everything\".\n&nbsp;\n<div </div\n&nbsp;\n<h2> The riches of Ukraine\nThe understanding of the minerals that tomorrow should be finalized to the White House as part of the visit of Zelensky, \"is about titanium, of which Ukraine is sixth producer worldwide and which represents the greatest attraction for its use in the defense industry, coal and gas deposits and iron minerals\", emphasizes Torlizzi. Ukraine, moreover, has graphite, which is not a rare land, but a strategic mineral and lithium, fundamental for the battery industry> and the business of electric vehicles, but of which we have in abundance throughout the world and whose most promising deposits are located in the region of Zaporizhzhia, partially under Russian control.\nWhat Ukraine is really rich is iron minerals, natural gas and coal, discovered by Welsh John Hughes in the 19th century in the Donets River valley, in Donbass. The same regional capital Donetsk in the past was called Hughesovka in his honor. The problem is that all these unused gas reserves are located right along the current lines of the front and many coal mines are under Russian control and are since 2014. The possibilities for these deposits are very small. \"The real negotiation in this area will be between Moscow and Washington,\" which according to the analyst, \"the strategic resources of the country are already being discarded >\"\nFor Torlizzi, on rare lands \"the basic confusion is that they associate themselves improperly to so-called critical minerals\", while being two very different things: rare lands are a group of 17 elements well specified in the periodic table and used in small quantities in semiconductors, and critical minerals are important raw materials from the economic point of view and present a high risk in terms of supply. Also on the concept of 'raro' we have to make clear: \"The rare lands are not at all rare, Italy itself has deposits, the true 'rarity' is their refinement that serves to make them commercial,\" the expert says.\n\"This is a process that requires a lot of energy and water and is very polluting, for this reason the West over the years has delocalized it more and more in China, which today is to control more than 90% of the refining of these elements globally.\" The new Washington posture on Ukraine is part of a broader strategy: \"In this Second Cold War the gap with Beijing on raw materials became a pillar of American foreign policy, pursued even more aggressively than the past.\" This explains the American attention to Greenland, \"which has a great mining availability and Canada which is a world-wide producer of critical metals,\" concludes Torlizzi.\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "content_NER": [
+            {
+                "word": "Ukrainian",
+                "start_char": 41,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "US",
+                "start_char": 220,
+                "end_char": 222,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 234,
+                "end_char": 246,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "$500 billion",
+                "start_char": 287,
+                "end_char": 299,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 339,
+                "end_char": 343,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Volodymyr Zelensky",
+                "start_char": 345,
+                "end_char": 363,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ten",
+                "start_char": 430,
+                "end_char": 433,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 449,
+                "end_char": 459,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "trillions",
+                "start_char": 552,
+                "end_char": 561,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 601,
+                "end_char": 608,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "17",
+                "start_char": 695,
+                "end_char": 697,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "118",
+                "start_char": 705,
+                "end_char": 708,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "scandio",
+                "start_char": 741,
+                "end_char": 748,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ittrio",
+                "start_char": 750,
+                "end_char": 756,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "lantanio",
+                "start_char": 758,
+                "end_char": 766,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "neodimio",
+                "start_char": 788,
+                "end_char": 796,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "promezio",
+                "start_char": 798,
+                "end_char": 806,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "lutezio",
+                "start_char": 889,
+                "end_char": 896,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 913,
+                "end_char": 920,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 1042,
+                "end_char": 1046,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "AGI Gianclaudio Torlizzi",
+                "start_char": 1115,
+                "end_char": 1139,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the T-Commodity",
+                "start_char": 1152,
+                "end_char": 1167,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Minister of Defense",
+                "start_char": 1202,
+                "end_char": 1225,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1305,
+                "end_char": 1312,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Congo",
+                "start_char": 1379,
+                "end_char": 1384,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chile",
+                "start_char": 1399,
+                "end_char": 1404,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 1531,
+                "end_char": 1541,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "West",
+                "start_char": 1627,
+                "end_char": 1631,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1707,
+                "end_char": 1712,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1820,
+                "end_char": 1827,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 1867,
+                "end_char": 1875,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the White House",
+                "start_char": 1899,
+                "end_char": 1914,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 1939,
+                "end_char": 1947,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1978,
+                "end_char": 1985,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "sixth",
+                "start_char": 1989,
+                "end_char": 1994,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2159,
+                "end_char": 2166,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 2450,
+                "end_char": 2462,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2480,
+                "end_char": 2487,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2502,
+                "end_char": 2509,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Welsh John Hughes",
+                "start_char": 2579,
+                "end_char": 2596,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the 19th century",
+                "start_char": 2600,
+                "end_char": 2616,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Donets River",
+                "start_char": 2624,
+                "end_char": 2636,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Donbass",
+                "start_char": 2648,
+                "end_char": 2655,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hughesovka",
+                "start_char": 2714,
+                "end_char": 2724,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2874,
+                "end_char": 2881,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2014",
+                "start_char": 2904,
+                "end_char": 2908,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 3014,
+                "end_char": 3020,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Washington",
+                "start_char": 3025,
+                "end_char": 3035,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Torlizzi",
+                "start_char": 3145,
+                "end_char": 3153,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 3280,
+                "end_char": 3283,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "17",
+                "start_char": 3333,
+                "end_char": 3335,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italy",
+                "start_char": 3646,
+                "end_char": 3651,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "West",
+                "start_char": 3868,
+                "end_char": 3872,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the years",
+                "start_char": 3878,
+                "end_char": 3887,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "China",
+                "start_char": 3924,
+                "end_char": 3929,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 3937,
+                "end_char": 3942,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than 90%",
+                "start_char": 3957,
+                "end_char": 3970,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Washington",
+                "start_char": 4024,
+                "end_char": 4034,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 4046,
+                "end_char": 4053,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "this Second Cold War",
+                "start_char": 4089,
+                "end_char": 4109,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Beijing",
+                "start_char": 4123,
+                "end_char": 4130,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 4167,
+                "end_char": 4175,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "American",
+                "start_char": 4257,
+                "end_char": 4265,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 4279,
+                "end_char": 4288,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Canada",
+                "start_char": 4333,
+                "end_char": 4339,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Torlizzi.",
+                "start_char": 4402,
+                "end_char": 4411,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Il discusso influencer Andrew Tate ha lasciato la Romania",
+        "date_raw": "Thu, 27 Feb 2025 08:53:55 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/usa-andrew-tate-ha-lasciato-la-romania-30202526/",
+        "subtitle": "",
+        "content": "AGI - Ha lasciato la Romania con destinazione Stati Uniti il discusso influencer Andrew Tate, sotto inchiesta per stupro e traffico di esseri umani.> Lo ha riporta il Guardian che cita antena3, partner rumeno della Cnn. Tate e il fratello Tristan sono partiti all'alba con un jet privato. Entrambi hanno doppia cittadinanza americana e britannica, e a entrambi era stato vietato di lasciare la Romania dal dicembre 2023 dopo l'arresto in un sobborgo di Bucarest. \nDietro la partenza del sedicente 'influencer misogino' ci sarebbe un interessamento dell'amministrazione Trump>. Il primo ministro rumeno lo ha negato, ma secondo il Financial Times l'inviato speciale del presidente americano Richard Grenell ha discusso del caso con il ministro degli Esteri rumeno alla conferenza sulla sicurezza di Monaco. \nI fratelli Tate, 36 e 38 anni, sono ricercati anche dalla polizia nel Regno Unito per le accuse di stupro e traffico di esseri umani. I due si dichiarano innocenti. Andrew è diventato famosonel 2016quando è apparso nella versione britannica del \"Grande Fratello\" dove è stato espulso per aggressione. In seguito ha utilizzato le piattaforme social per promuovere opinioni divisive, spesso misogine, su come avere successo nella vita.&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1740690015.9573174,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "The controversial influencer Andrew Tate left Romania",
+        "en_content": "AGI - He left Romania with destination United States the controversial influencer Andrew Tate, under investigation for rape and trafficking of human beings.> The Guardian cites antena3, Romanian partner of the Cnn. Tate and his brother Tristan left at dawn with a private jet. Both have dual American and British citizenship, and both had been banned from leaving Romania since December 2023 after being arrested in a suburb of Bucharest.\nBehind the departure of the 16th 'Misogyn influencer' there would be an interest in the Trump administration. The Romanian Prime Minister denied it, but according to the Financial Times the special envoy of American President Richard Grenell discussed the case with Romanian Foreign Minister at the Munich Security Conference.\nThe Tate brothers, 36 and 38 years old, are also sought by the police in the United Kingdom for accusations of rape and trafficking of human beings. The two declare themselves innocent. Andrew became famous in 2016 when he appeared in the British version of the \"Great Brother\" where he was expelled for aggression. He later used social platforms to promote divisive opinions, often misogyns, on how to succeed in life.&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Andrew Tate",
+                "start_char": 29,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Romania",
+                "start_char": 46,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Romania",
+                "start_char": 14,
+                "end_char": 21,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "United States",
+                "start_char": 39,
+                "end_char": 52,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Andrew Tate",
+                "start_char": 82,
+                "end_char": 93,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Guardian",
+                "start_char": 162,
+                "end_char": 170,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "antena3",
+                "start_char": 177,
+                "end_char": 184,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Romanian",
+                "start_char": 186,
+                "end_char": 194,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 210,
+                "end_char": 213,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tate",
+                "start_char": 215,
+                "end_char": 219,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tristan",
+                "start_char": 236,
+                "end_char": 243,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "American",
+                "start_char": 292,
+                "end_char": 300,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "British",
+                "start_char": 305,
+                "end_char": 312,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Romania",
+                "start_char": 364,
+                "end_char": 371,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "December 2023",
+                "start_char": 378,
+                "end_char": 391,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bucharest",
+                "start_char": 428,
+                "end_char": 437,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "16th",
+                "start_char": 467,
+                "end_char": 471,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Misogyn",
+                "start_char": 473,
+                "end_char": 480,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 527,
+                "end_char": 532,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Romanian",
+                "start_char": 553,
+                "end_char": 561,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Financial Times",
+                "start_char": 605,
+                "end_char": 624,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "American",
+                "start_char": 646,
+                "end_char": 654,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Richard Grenell",
+                "start_char": 665,
+                "end_char": 680,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Romanian",
+                "start_char": 705,
+                "end_char": 713,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Munich Security Conference",
+                "start_char": 734,
+                "end_char": 764,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tate",
+                "start_char": 770,
+                "end_char": 774,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "36",
+                "start_char": 785,
+                "end_char": 787,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "38 years old",
+                "start_char": 792,
+                "end_char": 804,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the United Kingdom",
+                "start_char": 839,
+                "end_char": 857,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 919,
+                "end_char": 922,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Andrew",
+                "start_char": 952,
+                "end_char": 958,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2016",
+                "start_char": 976,
+                "end_char": 980,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "British",
+                "start_char": 1005,
+                "end_char": 1012,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Great Brother",
+                "start_char": 1029,
+                "end_char": 1042,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "Hamas ha restituito tutti gli ostaggi concordati. \"Ora nuovi negoziati\"",
+        "date_raw": "Thu, 27 Feb 2025 08:20:07 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/hamas-ostaggi-nuova-fase-negoziati-30202088/",
+        "subtitle": "",
+        "content": "AGI - Dopo l'identificazione dei quattro corpi restituiti ieri sera, si è di fatto completata la prima fase dell'accordo di cessate il fuoco tra Hamas e Israele. Hamas ha consegnato tutti e gli 33 ostaggi che si era impegnato a restituire.> Venticinque sono tornati vivi, mentre otto erano morti durante la prigionia. Per garantire nuove liberazioni, il gruppo armato pretende ora che vi sia una seconda tornata di trattative formali. \"Ribadiamo che l'unico modo per garantire il rilascio dei prigionieri dell'occupazione a Gaza è attraverso il negoziato e l'adesione ai termini concordati\", si legge in una dichiarazione di Hamas riportata dal Jerusalem Post. \"Qualsiasi tentativo di Netanyahu e del suo governo di fare marcia indietro od ostacolare l'accordo porterà solo a ulteriori sofferenze per i prigionieri e le loro famiglie\", ha avvertito il movimento. \n<h2>L'ultimo scambio</h2> \nL'ufficio del primo ministro di Israele ha confermato nella serata di mercoledì di aver ricevuto le bare dei \"quattro ostaggi caduti\" a Gaza attraverso la Croce Rossa. Gli esperti, si comunica, hanno iniziato il processo di identificazione dei resti. I corpi sono stati consegnati al valico di Kerem Shalom con la \"mediazione egiziana\", si specifica nel comunicato. Le famiglie dei quattro ostaggi vengono costantemente aggiornate e riceveranno notifiche ufficiali una volta effettuate le identificazioni. \nTutti gli ostaggi ancora nelle mani di Hamas devono tornare. A sottolinearlo è stato il presidente israeliano Isaac Herzog, in un lungo post su X in cui ha reso omaggio ai quattro rapiti morti in prigionia i cui corpi sono stati restituiti nella notte. \"Ci spezza il cuore l'amara notizia dell'identificazione di Ohad Yahalomi, Tsachi Idan, Itzik Elgarat e Shlomo Mantzur,> i cui corpi sono stati restituiti durante la notte dalla prigionia dei terroristi. In questo momento di dolore, c'è un po' di conforto nel sapere che saranno sepolti con dignità in Israele\", ha scritto Herzog che ha ricordato singolarmente ognuno dei quattro. \"Il ritorno dei corpi dei nostri fratelli dalla prigionia sottolinea il nostro obbligo morale a fare tutto ciò che è in nostro potere per riportare indietro tutti gli ostaggi: i vivi alle loro amate famiglie e i caduti per farli riposare in pace. Finché l'ultimo non sarà a casa! Sono tutti casi umanitari e devono essere tutti restituiti\", ha ammonito. \n<div></div> \n<h2>Una nuova fase?</h2> \nHamas dice che Israele \"non ha altra scelta che avviare\" i negoziati per la seconda fase del cessate il fuoco.> Il movimento palestinese ha dichiarato che Tel Aviv non ha \"altra possibilità\" dopo la consegna degli ultimi corpi degli ostaggi. \"Abbiamo imposto la sincronizzazione del processo di consegna dei corpi dei prigionieri nemici con il rilascio dei nostri eroici prigionieri\" ha dichiarato il gruppo in una dichiarazione su Telegram. \n&nbsp;",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1740690015.9574413,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "Hamas returned all agreed hostages. \"Now new negotiations\"",
+        "en_content": "AGI - After the identification of the four bodies returned last night, the first phase of the ceasefire agreement between Hamas and Israel was completed. Hamas delivered all 33 hostages he had committed to returning.> Twenty-five returned alive, while eight died during the captivity. To ensure new releases, the armed group now claims that there is a second round of formal negotiations. \"We believe that the only way to ensure the release of prisoners of employment in Gaza is through negotiation and adherence to agreed terms,\" we read in a Hamas statement reported by the Jerusalem Post. \"Any attempt by Netanyahu and his government to turn back or hinder the agreement will only lead to further suffering for prisoners and their families,\" he warned the movement.\n<h2> The last exchange\nThe office of the Prime Minister of Israel confirmed on Wednesday evening that he had received the coffins of the \"four fallen hostages\" in Gaza through the Red Cross. Experts, communicate, have begun the process of identification of the remains. The bodies were delivered to the Kerem Shalom Pass with the \"Egyptian Mediation\", it is specified in the communiqué. The families of the four hostages are constantly updated and will receive official notifications once the identification is made.\nAll the hostages still in the hands of Hamas must return. The Israeli president Isaac Herzog, in a long post on X, pays tribute to the four captives whose bodies were returned in the night. \"It breaks our heart the bitter news of the identification of Ohad Yahalomi, Tsachi Idan, Itzik Elgarat and Shlomo Mantzur, > whose bodies were returned overnight by the prisoner of terrorists. At this time of pain, there is some comfort in knowing that they will be buried with dignity in Israel,\" Herzog wrote, who individually recalled each of the four. \"The return of the bodies of our brothers from captivity underlines our moral obligation to do everything in our power to bring back all hostages: the living to their beloved families and the fallen to make them rest in peace. Until the last one is home! They are all humanitarian cases and must all be returned,\" he warned.\n<div </div\n<h2> A new phase?\nHamas says that Israel has no choice but to start negotiations for the second stage of the ceasefire.> The Palestinian movement has declared that Tel Aviv has no \"other chance\" after the delivery of the last hostages. \"We imposed the synchronization of the delivery process of the bodies of enemy prisoners with the release of our heroic prisoners,\" said the group in a statement on Telegram.\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "four",
+                "start_char": 38,
+                "end_char": 42,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "last night",
+                "start_char": 59,
+                "end_char": 69,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "first",
+                "start_char": 75,
+                "end_char": 80,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 122,
+                "end_char": 127,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 132,
+                "end_char": 138,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 154,
+                "end_char": 159,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "33",
+                "start_char": 174,
+                "end_char": 176,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Twenty-five",
+                "start_char": 218,
+                "end_char": 229,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "eight",
+                "start_char": 252,
+                "end_char": 257,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "second",
+                "start_char": 352,
+                "end_char": 358,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 471,
+                "end_char": 475,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 544,
+                "end_char": 549,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Jerusalem Post",
+                "start_char": 572,
+                "end_char": 590,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 608,
+                "end_char": 617,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 828,
+                "end_char": 834,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 848,
+                "end_char": 857,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "evening",
+                "start_char": 858,
+                "end_char": 865,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "four",
+                "start_char": 907,
+                "end_char": 911,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 932,
+                "end_char": 936,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Red Cross",
+                "start_char": 945,
+                "end_char": 958,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Kerem Shalom Pass",
+                "start_char": 1068,
+                "end_char": 1089,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "the \"Egyptian Mediation",
+                "start_char": 1095,
+                "end_char": 1118,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "four",
+                "start_char": 1176,
+                "end_char": 1180,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 1325,
+                "end_char": 1330,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1348,
+                "end_char": 1355,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Isaac Herzog",
+                "start_char": 1366,
+                "end_char": 1378,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "four",
+                "start_char": 1421,
+                "end_char": 1425,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ohad Yahalomi",
+                "start_char": 1538,
+                "end_char": 1551,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tsachi Idan",
+                "start_char": 1553,
+                "end_char": 1564,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Itzik Elgarat",
+                "start_char": 1566,
+                "end_char": 1579,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Shlomo Mantzur",
+                "start_char": 1584,
+                "end_char": 1598,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "overnight",
+                "start_char": 1629,
+                "end_char": 1638,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Israel",
+                "start_char": 1766,
+                "end_char": 1772,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Herzog",
+                "start_char": 1775,
+                "end_char": 1781,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "four",
+                "start_char": 1827,
+                "end_char": 1831,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 2187,
+                "end_char": 2192,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 2203,
+                "end_char": 2209,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "second",
+                "start_char": 2258,
+                "end_char": 2264,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 2294,
+                "end_char": 2305,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tel Aviv",
+                "start_char": 2333,
+                "end_char": 2341,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Telegram",
+                "start_char": 2570,
+                "end_char": 2578,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Il Pentagono vuole espellere i transgender dall'esercito",
+        "date_raw": "Thu, 27 Feb 2025 07:26:05 GMT",
+        "date": "2025-02-27",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-02-27/pentagono-espulsione-trans-esercito-usa-30201090/",
+        "subtitle": "",
+        "content": "AGI - Gli Stati Uniti espelleranno entro 30 giorni le persone transgender dall'esercito >a meno che non venga concesso loro un permesso speciale, una deroga caso per caso. Lo prevede il Pentagono in un promemoria che è diventato pubblico come parte di un deposito giudiziario in un caso che contesta l'ordine esecutivo di fine gennaio del presidente Donald Trump, che mirava a vietare il servizio militare al personale transgender. I membri del servizio che hanno una diagnosi attuale o una storia di, o mostrano sintomi coerenti con, la disforia di genere saranno processati per la separazione dal servizio militare\" si legge nel promemoria. \nQueste truppe possono essere \"considerate per una deroga caso per caso, a condizione che vi sia un impellente interesse governativo nel mantenere il membro del servizio che supporta direttamente le capacita' di combattimento\" ha affermato. Per ottenere tale deroga, le truppe devono dimostrare di non aver mai tentato la transizione, nonché di \"36 mesi consecutivi di stabilità nel sesso del membro del servizio senza disagio clinicamente significativo o compromissione in aree sociali, occupazionali o altre aree importanti del funzionamento\". \n<div></div> \nNegli ultimi anni, gli americani transgender hanno dovuto affrontare un'altalena di politiche mutevoli sul servizio militare, con le amministrazioni democratiche che cercavano di consentire loro di prestare servizio apertamente, mentre Trump ha ripetutamente cercato di tenerli fuori dai ranghi. L'esercito statunitense aveva revocato il divieto alle truppe transgender nel 2016>, durante il secondo mandato presidenziale del democratico Barack Obama.&nbsp; \n&nbsp;",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1740690015.9575622,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-02-27 22:00:15",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-02-27T21.00.15",
+        "en_title": "The Pentagon wants to expel transgenders from the army",
+        "en_content": "AGI - The United States will expel within 30 days the transgender people from the army unless a special permit is granted to them, a case-by-case derogation. The Pentagon predicts it in a reminder that it became public as part of a judicial deposit in a case that disputes the executive order of late January of President Donald Trump, who aimed to ban military service to transgender personnel. Members of the service who have a current diagnosis or a history of, or show consistent symptoms with, gender dysphoria will be processed for separation from military service\" reads in the reminder.\nThese troops can be \"considered for a random derogation, provided there is an impelling government interest in keeping the service member directly supporting the fighting skills\" he said. To obtain such a derogation, the troops must demonstrate that they have never attempted the transition, as well as \"36 consecutive months of stability in the sex of the service member without clinically significant discomfort or impairment in social, employment or other important areas of operation\".\n<div </div\nIn recent years, transgender Americans have faced a swing of changing policies on military service, with democratic administrations trying to allow them to serve openly, while Trump has repeatedly tried to keep them out of ranks. The U.S. Army revoked the ban on transgender troops in 2016> during the second presidential term of Democrat Barack Obama.&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Pentagon",
+                "start_char": 4,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - The United States",
+                "start_char": 0,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "30 days",
+                "start_char": 42,
+                "end_char": 49,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pentagon",
+                "start_char": 162,
+                "end_char": 170,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "late January",
+                "start_char": 296,
+                "end_char": 308,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 322,
+                "end_char": 334,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "36 consecutive months",
+                "start_char": 899,
+                "end_char": 920,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "recent years",
+                "start_char": 1099,
+                "end_char": 1111,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Americans",
+                "start_char": 1125,
+                "end_char": 1134,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1272,
+                "end_char": 1277,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The U.S. Army",
+                "start_char": 1326,
+                "end_char": 1339,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2016",
+                "start_char": 1381,
+                "end_char": 1385,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "second",
+                "start_char": 1398,
+                "end_char": 1404,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Democrat",
+                "start_char": 1426,
+                "end_char": 1434,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Barack",
+                "start_char": 1435,
+                "end_char": 1441,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
