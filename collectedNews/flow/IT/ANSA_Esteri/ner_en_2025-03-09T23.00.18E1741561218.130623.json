@@ -1,0 +1,536 @@
+[
+    {
+        "title": "In Siria 800 civili uccisi, Jolani assicura giustizia",
+        "date_raw": "Sun, 9 Mar 2025 21:42:16 +0100",
+        "date": "2025-03-09",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2025/03/09/in-siria-800-civili-uccisi-jolani-assicura-giustizia_c3128b5b-aadf-4c70-a2ef-77e9928477c4.html",
+        "subtitle": "'Uccisi anche cristiani', Rubio accusa 'i terroristi islamici'",
+        "content": "  \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1741561218.7184763,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2025-03-10 00:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-09T23.00.18",
+        "en_title": "In Syria 800 civilians killed, Jolani assures justice",
+        "en_content": "Reproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "'Also killed Christians', Rubio accuses 'Islamic terrorists'",
+        "title_NER": [
+            {
+                "word": "Syria",
+                "start_char": 3,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jolani",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Christians",
+                "start_char": 13,
+                "end_char": 23,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rubio",
+                "start_char": 26,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Islamic",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Mosca, 'abbiamo riconquistato altri 3 villaggi nel Kursk'",
+        "date_raw": "Sun, 9 Mar 2025 21:34:46 +0100",
+        "date": "2025-03-09",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2025/03/09/mosca-abbiamo-riconquistato-altri-3-villaggi-nel-kursk_dc1b6970-65d4-41eb-9fa4-dab41650eebb.html",
+        "subtitle": "I russi avanzano nel territorio occupato dagli ucraini",
+        "content": "\n                                                \n            (ANSA-AFP) - MOSCA, 09 MAR - Il ministero della Difesa russo\nha affermato che le sue truppe hanno riconquistato altri tre\nvillaggi occupati dalle forze ucraine nella regione di confine\ndi Kursk. In una dichiarazione, Mosca ha rivendicato di aver\n\"liberato\" i villaggi di Malaya Loknya, Cherkasskoye Porechnoye\ne Kositsa, dopo che già ieri aveva riferito di aver ripreso il\ncontrollo di tre insediamenti nella regione. (ANSA-AFP).\n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1741561218.7401555,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2025-03-10 00:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-09T23.00.18",
+        "en_title": "Moscow, 'we reconquered another 3 villages in the Kursk'",
+        "en_content": "(ANSA-AFP) - MOSCA, 09 MAR - Russian Defense Ministry\nsaid his troops reconquered three more\nvillages occupied by Ukrainian forces in the border region\nby Kursk. In a statement, Moscow claimed to have\n\"freed\" the villages of Malaya Loknya, Cherkasskoye Porechnoye\nand Kositsa, after yesterday had reported having resumed the\ncontrol of three settlements in the region. (ANSA-AFP).\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "The Russians advance in the territory occupied by the Ukrainians",
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3",
+                "start_char": 32,
+                "end_char": 33,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kursk",
+                "start_char": 50,
+                "end_char": 55,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Russians",
+                "start_char": 4,
+                "end_char": 12,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 54,
+                "end_char": 64,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "ANSA-AFP",
+                "start_char": 1,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "09",
+                "start_char": 20,
+                "end_char": 22,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAR - Russian Defense Ministry",
+                "start_char": 23,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 82,
+                "end_char": 87,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 114,
+                "end_char": 123,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kursk",
+                "start_char": 155,
+                "end_char": 160,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 178,
+                "end_char": 184,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Malaya",
+                "start_char": 225,
+                "end_char": 231,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cherkasskoye Porechnoye",
+                "start_char": 240,
+                "end_char": 263,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Kositsa",
+                "start_char": 268,
+                "end_char": 275,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 283,
+                "end_char": 292,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "three",
+                "start_char": 336,
+                "end_char": 341,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "ANSA-AFP",
+                "start_char": 370,
+                "end_char": 378,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Hamas, togliere l'elettricità a Gaza un 'inaccettabile ricatto'",
+        "date_raw": "Sun, 9 Mar 2025 22:39:08 +0100",
+        "date": "2025-03-09",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2025/03/09/hamas-togliere-lelettricita-a-gaza-un-inaccettabile-ricatto_ad9e1e36-bc0e-495c-a52a-d98547cb488a.html",
+        "subtitle": "'Un disperato tentativo di fare pressione', dopo blocco aiuti",
+        "content": "\n                                                \n            Hamas ha accusato Israele di un\n\"ricatto a buon mercato e inaccettabile\" per la sua decisione di\ninterrompere la fornitura di elettricità alla Gaza devastata\ndalla guerra, nel tentativo di fare pressione sui militanti\npalestinesi affinchè rilascino gli ostaggi.\n                                    \n                                       \n\t\t\t\t   \"Condanniamo fermamente la decisione dell'occupazione di\ntagliare l'elettricità a Gaza, dopo averla privata di cibo,\nmedicine e acqua\", ha affermato Izzat al-Rishq, un membro\ndell'ufficio politico di Hamas in una dichiarazione, aggiungendo\nche si trattava di \"un disperato tentativo di fare pressione sul\nnostro popolo e sulla sua resistenza attraverso tattiche di\nricatto a buon mercato e inaccettabili\". \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1741561218.7933636,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2025-03-10 00:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-09T23.00.18",
+        "en_title": "Hamas, to remove the electricity in Gaza an 'unacceptable blackmail'",
+        "en_content": "Hamas accused Israel of a\n\"cheap and unacceptable\" for its decision to\ninterrupt the supply of electricity to the devastated Gaza\nfrom the war, in an attempt to pressure militants\nPalestinians to release hostages.\n\n\n\"We firmly condemn the employment decision of\ncut electricity in Gaza, after depriving it of food,\nmedicines and water\", said Izzat al-Rishq, a member\nof the political office of Hamas in a statement, adding\nthat it was \"a desperate attempt to pressure on the\nour people and their resistance through tactics\ncheap and unacceptable blackmail.\"\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "'A desperate attempt to pressure', after block help",
+        "title_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gaza",
+                "start_char": 36,
+                "end_char": 40,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 14,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 125,
+                "end_char": 129,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 180,
+                "end_char": 192,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 281,
+                "end_char": 285,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Izzat al-Rishq",
+                "start_char": 342,
+                "end_char": 356,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 394,
+                "end_char": 399,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "In Siria 800 civili uccisi, Jolani promette 'giustizia'",
+        "date_raw": "Sun, 9 Mar 2025 21:44:26 +0100",
+        "date": "2025-03-09",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2025/03/09/in-siria-800-civili-uccisi-jolani-promette-giustizia_17b4c82b-d535-4789-86a4-5ca53987869d.html",
+        "subtitle": "'Uccisi anche cristiani', Rubio accusa 'i terroristi islamici'",
+        "content": "\n                                                \n            Un'inchiesta governativa, definita\n\"indipendente\" ma i cui membri sono stati nominati\ndall'autoproclamato presidente siriano Jolani, dovrà far luce\nentro un mese, dei massacri attribuiti a uomini armati vicini\nallo stesso presidente e compiuti da giovedì contro più di 800\ncivili siriani, tra cui donne e bambini, in larga parte alawiti\nma anche cristiani nelle regioni costiere di Latakia e Tartus e\nnelle regioni centrali di Hama e Homs. In tutto si contano sul\nterreno più di 1.300 morti in quattro giorni.\n                                    \n                                       \n\t\t\t\t   Il segretario di Stato americano, Marco Rubio, ha condannato\ni \"terroristi islamisti radicali\" per questi \"massacri\" e ha\ninvitato le autorità siriane a perseguire i responsabili, dopo\nun appello delle Nazioni Unite per la fine immediata delle\n\"orfani dei civili\". Una delegazione dell'Onu è oggi stata per\nla prima volta accompagnata da truppe governative a Jabla\n(Latakia), una delle città alawite più colpite. \"Riterremo\nresponsabile, con fermezza e senza clemenza, chiunque è\ncoinvolto nello spargimento di sangue di civili o che ha\noltrepassato i poteri dello Stato\", ha assicurato in serata\nJolani. \n                                    \n                                       \n\t\t\t\t          \n                                \n\nRiproduzione riservata © Copyright ANSA\n\n\n\n",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1741561218.802003,
+        "language": "IT",
+        "source": "ANSA",
+        "local_time": "2025-03-10 00:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-09T23.00.18",
+        "en_title": "In Syria 800 civilians killed, Jolani promises 'justice'",
+        "en_content": "A government inquiry, defined\n\"independent\" but whose members were appointed\nby the self-proclaimed Syrian President Jolani, will have to shed light\nwithin a month of the massacres attributed to nearby armed men\nthe same president and completed from Thursday against more than 800\nSyrian civilians, including women and children, largely alawite\nbut also Christians in the coastal regions of Latakia and Tartus and\nin the central regions of Hama and Homs. In everything they count on\nland more than 1,300 dead in four days.\n\n\nThe American Secretary of State, Marco Rubio, condemned\nthe \"radical Islamist terrorists\" for these \"massacres\" and has\ninvited the Syrian authorities to pursue the leaders, after\na United Nations appeal for the immediate end of the\nCivilian orphans. A UN delegation has been for\nthe first time accompanied by government troops in Jabla\n(Latakia), one of the most affected alawite cities. \"We will\nresponsible, with firmness and without mercy, anyone is\ninvolved in the bloodshed of civilians or who has\npassed the powers of the state,\" he insured in the evening\nJolani.\n\n\n\n\n\nReproduction reserved © Copyright ANSA\n\n\n\n",
+        "en_subtitle": "'Also killed Christians', Rubio accuses 'Islamic terrorists'",
+        "title_NER": [
+            {
+                "word": "Syria",
+                "start_char": 3,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jolani",
+                "start_char": 31,
+                "end_char": 37,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Christians",
+                "start_char": 13,
+                "end_char": 23,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Rubio",
+                "start_char": 26,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Islamic",
+                "start_char": 41,
+                "end_char": 48,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Syrian",
+                "start_char": 100,
+                "end_char": 106,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Jolani",
+                "start_char": 117,
+                "end_char": 123,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a month",
+                "start_char": 156,
+                "end_char": 163,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 250,
+                "end_char": 258,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than 800",
+                "start_char": 267,
+                "end_char": 280,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Syrian",
+                "start_char": 281,
+                "end_char": 287,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Christians",
+                "start_char": 354,
+                "end_char": 364,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Latakia",
+                "start_char": 391,
+                "end_char": 398,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tartus",
+                "start_char": 403,
+                "end_char": 409,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hama",
+                "start_char": 440,
+                "end_char": 444,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Homs",
+                "start_char": 449,
+                "end_char": 453,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than 1,300",
+                "start_char": 488,
+                "end_char": 503,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "four days",
+                "start_char": 512,
+                "end_char": 521,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "American",
+                "start_char": 529,
+                "end_char": 537,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "State",
+                "start_char": 551,
+                "end_char": 556,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Marco Rubio",
+                "start_char": 558,
+                "end_char": 569,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Islamist",
+                "start_char": 594,
+                "end_char": 602,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Syrian",
+                "start_char": 657,
+                "end_char": 663,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "United Nations",
+                "start_char": 707,
+                "end_char": 721,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "UN",
+                "start_char": 778,
+                "end_char": 780,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 809,
+                "end_char": 814,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Jabla",
+                "start_char": 856,
+                "end_char": 861,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Latakia",
+                "start_char": 863,
+                "end_char": 870,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "one",
+                "start_char": 873,
+                "end_char": 876,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Jolani",
+                "start_char": 1088,
+                "end_char": 1094,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
