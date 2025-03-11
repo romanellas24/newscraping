@@ -1,0 +1,1393 @@
+[
+    {
+        "title": "DONNE, 42% HA LAVORATO SENZA CONTRATTO  Una su 2 fatica ad arrivare a fine mese Indagine Eurispes a vigilia 8 marzo",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Inps:\"Stipendi donne più bassi del 20%\" In Italia il tasso di occupazione delle donne è inferiore del 18% rispetto agli uomini e quando lavorano hanno una retribuzione giornaliera di circa il 20% più bassa dei loro colleghi di sesso maschile. Lo rende noto l'Inps.  A determinare retribuzioni più basse contribuiscono il maggiore utilizzo del part time, i livelli di qualifica più bassi e il minore ricorso agli straordinari. Nonostante un livello di istruzione più alto le donne fanno meno carriera: sono soltanto il 21% dei dirigenti e il 32,4% dei quadri.La forbice peggiora anche con la pensione.  ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1741622541.0167751,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:21",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.21",
+        "en_title": "_ One out of 2 fatigue to arrive at the end of month Investigation Eurispes on eve 8 March",
+        "en_content": "Inps:\"Stip women lower than 20%\" In Italy the employment rate of women is less than 18% compared to men and when working they have a daily pay of about 20% lower than their male colleagues. It makes Inps known. To determine lower wages contribute to the increased use of part time, lower qualification levels and the lower recourse to overtime. Despite a higher level of education women are less career: they are only 21% of managers and 32.4% of the paintings. The scissor also worsens with the pension.",
+        "title_NER": [
+            {
+                "word": "One",
+                "start_char": 2,
+                "end_char": 5,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2",
+                "start_char": 13,
+                "end_char": 14,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the end of month",
+                "start_char": 36,
+                "end_char": 52,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "eve 8 March",
+                "start_char": 79,
+                "end_char": 90,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "20%",
+                "start_char": 28,
+                "end_char": 31,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Italy",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "less than 18%",
+                "start_char": 74,
+                "end_char": 87,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "daily",
+                "start_char": 133,
+                "end_char": 138,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "about 20%",
+                "start_char": 146,
+                "end_char": 155,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Inps",
+                "start_char": 199,
+                "end_char": 203,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "only 21%",
+                "start_char": 413,
+                "end_char": 421,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "32.4%",
+                "start_char": 438,
+                "end_char": 443,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "TRUMP:A TAVOLO GEDDA\"COSE INTERESSANTI\" Cremlino smentisce incontro Usa-Russia  Ucraina:noi vogliamo pace,Russia no",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1741622557.0788786,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:37",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.37",
+        "en_title": "TRUMP:A TAVOLO GEDDA\" INTERESTING COES\" Kremlin denies US-Russia meeting Ukraine:we want peace,Russia no",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "TRUMP",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "COES",
+                "start_char": 34,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 55,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 58,
+                "end_char": 64,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 73,
+                "end_char": 80,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 95,
+                "end_char": 101,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "SEQUESTRANO FIGLIA IN CASA, ARRESTATI  Non accettavano avesse fidanzata",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1741622557.1100082,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:37",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.37",
+        "en_title": "_ They didn't accept having a girlfriend",
+        "en_content": ""
+    },
+    {
+        "title": "CANADA, CARNEY SUCCEDE A TRUDEAU",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Romania,rischio caos.Georgescu ricorre La Romania rischia di piombare nel caos dopo l'ultimo stop alla candidatura di Calin Georgescu,leader dell'estrema destra, alle nuove presidenziali. Centinaia di suoi sostenitori sono scesi in piazza a Bucarest, affrontando i lacrimogeni della polizia.    Georgescu ha presentato ricorso;la Corte Costituzionale deciderà entro mercoledì.       Il leader della destra aveva superato il primo turno delle elezioni.La Corte Costituzionale ha annullato il voto per illeciti nella sua campagna elettorale.",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1741622557.1388302,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:37",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.37",
+        "en_title": "CANADA, CARNEY SUCCEDE TO TRUDEAU",
+        "en_content": "Romania, chaos risk.Georgescu resorts Romania is likely to crash into chaos after the last stop at the candidacy of Calin Georgescu, leader of the extreme right, to the new presidential elections. Hundreds of his supporters descended into the square in Bucharest, facing the police's tear gas. Georgescu appealed; the Constitutional Court will decide by Wednesday. The right-wing leader passed the first round of the election. The Constitutional Court annulled the vote for the offences in its electoral campaign.",
+        "title_NER": [
+            {
+                "word": "CANADA",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "CARNEY SUCCEDE",
+                "start_char": 8,
+                "end_char": 22,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "TRUDEAU",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Romania",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Romania",
+                "start_char": 38,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Calin Georgescu",
+                "start_char": 116,
+                "end_char": 131,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hundreds",
+                "start_char": 197,
+                "end_char": 205,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bucharest",
+                "start_char": 253,
+                "end_char": 262,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Georgescu",
+                "start_char": 294,
+                "end_char": 303,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Constitutional Court",
+                "start_char": 314,
+                "end_char": 338,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 354,
+                "end_char": 363,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 398,
+                "end_char": 403,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "The Constitutional Court",
+                "start_char": 427,
+                "end_char": 451,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "GB, COLLISIONE PETROLIERA CARGO: FIAMME 32 feriti, si teme un inquinamento",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Raid russi in Ucraina: 20 morti,incendi E' di 20 morti e 50 feriti il bilancio aggiornato dei raid russi lanciati nelle ultime 24 ore in Ucraina.  Oltre alla regione del Donetsk, colpite Odessa e la regione di Zaporizhzhia, dove droni russi contro infrastrutture energetiche hanno causato incendi. Gli attacchi di sono intensificati dopo che gli Stati Uniti hanno sospeso la condivisione di intelligence con Kiev, rendendo meno efficace la difesa da  missili e droni russi.    ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1741622557.1518168,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:37",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.37",
+        "en_title": "GB, PETROLIERA CARGO COLLISION: FIAMME 32 injured, we fear pollution",
+        "en_content": "Russian raids in Ukraine: It's 20 dead and 50 wounded the updated budget of the Russian raids launched in the last 24 hours in Ukraine. In addition to the Donetsk region, hit Odessa and the Zaporizhzhia region, where Russian drones against energy infrastructure caused fires. Attacks are intensified after the United States suspended intelligence sharing with Kiev, making defense less effective from Russian missiles and drones.",
+        "title_NER": [
+            {
+                "word": "GB",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "PETROLIERA",
+                "start_char": 4,
+                "end_char": 14,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "FIAMME",
+                "start_char": 32,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "32",
+                "start_char": 39,
+                "end_char": 41,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Russian",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 17,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "20",
+                "start_char": 31,
+                "end_char": 33,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "50",
+                "start_char": 43,
+                "end_char": 45,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russian",
+                "start_char": 80,
+                "end_char": 87,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the last 24 hours",
+                "start_char": 106,
+                "end_char": 123,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 127,
+                "end_char": 134,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Donetsk",
+                "start_char": 155,
+                "end_char": 162,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Odessa",
+                "start_char": 175,
+                "end_char": 181,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Zaporizhzhia",
+                "start_char": 190,
+                "end_char": 202,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 217,
+                "end_char": 224,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the United States",
+                "start_char": 306,
+                "end_char": 323,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 360,
+                "end_char": 364,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 401,
+                "end_char": 408,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "\"NOTTE TRANQUILLA\" PER PAPA FRANCESCO  Atteso oggi nuovo bollettino medico",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1741622557.1649776,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:37",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.37",
+        "en_title": "\"NOTTE TRANQUILLA\" FOR FRANCESCO PAPA",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "FRANCESCO PAPA",
+                "start_char": 23,
+                "end_char": 37,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Ucraina:\"Noi vogliamo pace,Mosca no\"153  MOSCA ESPELLE 2 DIPLOMATICI BRITANNICI  Londra condanna: \"Accuse infondate\"",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Piano arabo Gaza, quattro sì da Europa Francia, Germania, Italia e Gran Bretagna sono favorevoli al piano arabo per Gaza. \"Noi, ministri degli Esteri di Francia,Germania, Italia e Regno Unito, accogliamo con favore l'iniziativa araba di un piano di ripresa e ricostruzione per Gaza\", scrivono in una dichiarazione congiunta, sottoscritta per l'Italia dal ministro Tajani.  Si tratta di \"un percorso realistico e promette -se attuatoun miglioramento rapido, sostenibile delle catastrofiche condizioni di vita dei palestinesi che sono a Gaza\", recita la nota.  ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1741622557.2632236,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:37",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.37",
+        "en_title": "Ukraine: \"We want peace,Mosca no\"153 MOSCA ESPELLE 2 BRITANNICI DIPLOMATICI London condemns: \"Unfounded business\"",
+        "en_content": "Arab plan Gaza, four yes from Europe France, Germany, Italy and Great Britain are in favour of the Arab plan for Gaza. \"We, foreign ministers of France, Germany, Italy and the United Kingdom, welcome the Arab initiative of a plan of recovery and reconstruction for Gaza\", write in a joint declaration, signed for Italy by Minister Tajani. It is a \"realistic journey and promises - if a rapid, sustainable improvement of the catastrophic living conditions of the Palestinians in Gaza\", the note says.",
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mosca",
+                "start_char": 24,
+                "end_char": 29,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2",
+                "start_char": 51,
+                "end_char": 52,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "London",
+                "start_char": 76,
+                "end_char": 82,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Arab",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 10,
+                "end_char": 14,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "four",
+                "start_char": 16,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Europe France",
+                "start_char": 30,
+                "end_char": 43,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Germany",
+                "start_char": 45,
+                "end_char": 52,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 54,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Great Britain",
+                "start_char": 64,
+                "end_char": 77,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arab",
+                "start_char": 99,
+                "end_char": 103,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 113,
+                "end_char": 117,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "France",
+                "start_char": 145,
+                "end_char": 151,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Germany",
+                "start_char": 153,
+                "end_char": 160,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 162,
+                "end_char": 167,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United Kingdom",
+                "start_char": 172,
+                "end_char": 190,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arab",
+                "start_char": 204,
+                "end_char": 208,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 265,
+                "end_char": 269,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 313,
+                "end_char": 318,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 331,
+                "end_char": 337,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 462,
+                "end_char": 474,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 478,
+                "end_char": 482,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "TRUMP:\"COSE INTERESSANTI\"A TAVOLO GEDDA Dove si svolgono negoziati su pace",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Zelensky in Arabia prima dei colloqui Oggi il presidente ucraino Zelensky incontra a Riad il principe ereditario Bin Salman; domani, sempre in Arabia Saudita,incontro tra delegazioni ucraina e americana per i negoziati.  I colloqui si terranno a Gedda, città portuale sul Mar Rosso che ha già visto altri incontri diplomatici ed è sede di palazzi reali.     Zelensky arriva prima dell'inizio dei colloqui, con una delegazione composta dal suo capo di gabinetto Yermak, il ministro degli Esteri Sybiha e quello della Difesa Rustem.    ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1741622557.3557851,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:37",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.37",
+        "en_title": "_ Where peace negotiations take place",
+        "en_content": "Zelensky in Arabia before talks Today Ukrainian President Zelensky meets at Riad the Crown Prince Bin Salman; tomorrow, always in Saudi Arabia, meeting between Ukrainian and American delegations for negotiations. The talks will be held in Gedda, port city on the Red Sea which has already seen other diplomatic meetings and is home to royal palaces. Zelensky arrives before the beginning of the talks, with a delegation composed of his head of Yermak cabinet, the Foreign Minister Sybiha and the Minister of Defense Rustem.",
+        "content_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Arabia",
+                "start_char": 12,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Today",
+                "start_char": 32,
+                "end_char": 37,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 38,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 58,
+                "end_char": 66,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Riad the Crown Prince Bin Salman",
+                "start_char": 76,
+                "end_char": 108,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 110,
+                "end_char": 118,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Saudi Arabia",
+                "start_char": 130,
+                "end_char": 142,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 160,
+                "end_char": 169,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "American",
+                "start_char": 174,
+                "end_char": 182,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gedda",
+                "start_char": 239,
+                "end_char": 244,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Red Sea",
+                "start_char": 259,
+                "end_char": 270,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 350,
+                "end_char": 358,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yermak",
+                "start_char": 444,
+                "end_char": 450,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sybiha",
+                "start_char": 481,
+                "end_char": 487,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "STARMER CONVOCA DI NUOVO I VOLENTEROSI  In video i Paesi che garantisco Kiev   Ministri e militari prima da Macron",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Von der Leyen: \"Europa deve difendersi\" \"Questo è un momento di svolta per l'Europa e l'Ucraina come parte della nostra famiglia europea. E' anche un momento spartiacque per l'Ucraina\". Così la presidente della Commissione Ue, von der Leyen, in un punto stampa con il presidente ucraino Zelensky.  \"L'Europa si trova di fronte a un pericolo chiaro e attuale, quindi deve essere in grado di proteggersi, di difendersi, così come dobbiamo mettere l'Ucraina ha aggiunto nella posizione di proteggersi e di spingere per pace duratura e giusta\".   ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1741622573.3953218,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:53",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.53",
+        "en_title": "STARMER CONVOCA OF NEW VOLENTEROUS In video the Countries I guarantee Kiev Ministers and military first from Macron",
+        "en_content": "Von der Leyen: \"Europe must defend itself\" \"This is a turning point for Europe and Ukraine as part of our European family. It's also a watershed moment for Ukraine.\" So the President of the EU Commission, von der Leyen, at a press point with Ukrainian President Zelensky. \"Europe is facing a clear and current danger, so it must be able to protect itself, to defend itself, as we must put Ukraine added in the position to protect itself and to push for lasting and just peace.\"",
+        "title_NER": [
+            {
+                "word": "STARMER CONVOCA OF NEW VOLENTEROUS",
+                "start_char": 0,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev Ministers",
+                "start_char": 70,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 98,
+                "end_char": 103,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Macron",
+                "start_char": 109,
+                "end_char": 115,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Leyen",
+                "start_char": 8,
+                "end_char": 13,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 16,
+                "end_char": 22,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 72,
+                "end_char": 78,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 83,
+                "end_char": 90,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 106,
+                "end_char": 114,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 156,
+                "end_char": 163,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the EU Commission",
+                "start_char": 186,
+                "end_char": 203,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Leyen",
+                "start_char": 213,
+                "end_char": 218,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 242,
+                "end_char": 251,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zelensky",
+                "start_char": 262,
+                "end_char": 270,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 273,
+                "end_char": 279,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 389,
+                "end_char": 396,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "GIAPPONE, MATTARELLA DALL'IMPERATORE   Continua la sua visita di Stato",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": " Addio a Pasquale Laurito,\"velina rossa\" E' morto a 97 anni Pasquale Laurito, il decano della Stampa parlamentare, noto per aver ideato nel 1978 la \"velina  rossa\". Il foglio d'informazione parlamentare sul mondo della sinistra nacque in contrapposizione alla \"velina bianca\" di Vittorio Orefice.   Nato a Langro, nel Cosentino, Laurito aveva iniziato la sua carriera negli anni Settanta all'Ansa. Per conto dell' agenzia aveva seguito il Partito Comunista. Era stato insignito di recente del titolo di commendatore della Repubblica.      ",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1741622573.4474967,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:53",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.53",
+        "en_title": "GIAPPONE, MATTARELLA FROM THE EXPERATOR Continues his visit of State",
+        "en_content": "Good-bye to Pasquale Laurito, \"red green\" He died at 97 years old Pasquale Laurito, the dean of the parliamentary press, known for having conceived in 1978 the \"red green\". The parliamentary information sheet on the world of the left was in contrast to the \"white sand\" of Vittorio Orefice. Born in Langro, in Cosentino, Laurito began his career in the 1970s at Ansa. On behalf of the agency he followed the Communist Party. He had recently been awarded the title of Commendatore della Repubblica.",
+        "title_NER": [
+            {
+                "word": "GIAPPONE",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "State",
+                "start_char": 63,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Pasquale Laurito",
+                "start_char": 12,
+                "end_char": 28,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "97 years old",
+                "start_char": 53,
+                "end_char": 65,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pasquale Laurito",
+                "start_char": 66,
+                "end_char": 82,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "1978",
+                "start_char": 151,
+                "end_char": 155,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vittorio Orefice",
+                "start_char": 273,
+                "end_char": 289,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Langro",
+                "start_char": 299,
+                "end_char": 305,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cosentino",
+                "start_char": 310,
+                "end_char": 319,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Laurito",
+                "start_char": 321,
+                "end_char": 328,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the 1970s",
+                "start_char": 349,
+                "end_char": 358,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ansa",
+                "start_char": 362,
+                "end_char": 366,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Communist Party",
+                "start_char": 404,
+                "end_char": 423,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Commendatore della Repubblica",
+                "start_char": 467,
+                "end_char": 496,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "CHIESTA REVOCA IMMUNITA'EURODEPUTATE PD Qatargate, per Moretti e Gualmini",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Colle: parità di genere porta benefici \"Ogni femminicidio, ogni discriminazione, ogni maltrattamento a una donna è un'aggressione all'intera società\".  Così il presidente della Repubblica, Sergio Mattarella, in un messaggio in occasione della festa dell'8 marzo.  \"La parità di genere\" porta \"benefici, ricchezza, frutti positivi per l'intera collettività\", afferma il capo dello Stato. \"Occorre impegnarsi ancora per colmare quei divari culturali,  salariali, di istruzione, di carriera che permangono in alcuni ambiti\". Poi: \"Le donne non debbano scegliere tra la famiglia e la professione\".  ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1741622573.4535677,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:53",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.53",
+        "en_title": "_",
+        "en_content": "Colle: gender equality brings benefits \"Each feminist, every discrimination, every mistreatment to a woman is an aggression to the whole society\". Thus the president of the Republic, Sergio Mattarella, in a message on the occasion of the feast of 8 March. \" Gender equality\" brings \"benefits, wealth, positive fruits for the whole community,\" says the head of the state. \"We must still strive to fill those cultural, wage, education and career differences that remain in some areas.\" Then: \"Women should not choose between family and profession.\"",
+        "content_NER": [
+            {
+                "word": "Sergio Mattarella",
+                "start_char": 183,
+                "end_char": 200,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "8 March",
+                "start_char": 247,
+                "end_char": 254,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "MELONI NON SARà IN AULA SU CONSIGLIO UE Dopo richiesta delle opposizioni",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Piano italiano Difesa: +40mila militari Il governo ha cominciato a lavorare al piano di difesa italiano,secondo quanto riportano La Stampa e La Repubblica. Arruolare fra i 30-40mila militari in più, aumentare di oltre un terzo la capacità difensiva italiana e arrivare a 135mila soldati, ordinari e non riservisti. Un intervento della durata di 5-8 anni, a cui sta lavorando lo Stato Maggiore della Difesa, su indicazione del ministro Crosetto. \"Si colmerebbe tra circa 10 anni il gap creato dal disimpegno degli ultimi governi\". I tempi lunghi sono dovuti all'addestramento,ma anche alle catene di approvvigionamento",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1741622573.455822,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:53",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.53",
+        "en_title": "_ After request of opposition",
+        "en_content": "Italian defense plan: +40 thousand military The government began working on the Italian defence plan, according to La Stampa and La Repubblica. Arrest among the 30-40 thousand more military, increase by more than a third the Italian defensive capacity and reach 135 thousand soldiers, ordinary and not reservists. An intervention lasting 5-8 years, to which the Staff of Defense is working, on indication of the Minister Crosetto. \"In about 10 years the gap created by the distrust of the last governments would be struck.\" Long time is due to training, but also to supply chains",
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "+40 thousand",
+                "start_char": 22,
+                "end_char": 34,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 80,
+                "end_char": 87,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "La Stampa",
+                "start_char": 115,
+                "end_char": 124,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "La Repubblica",
+                "start_char": 129,
+                "end_char": 142,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "30-40 thousand",
+                "start_char": 161,
+                "end_char": 175,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than a third",
+                "start_char": 203,
+                "end_char": 220,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 225,
+                "end_char": 232,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "135 thousand",
+                "start_char": 262,
+                "end_char": 274,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "5-8 years",
+                "start_char": 338,
+                "end_char": 347,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Staff of Defense",
+                "start_char": 358,
+                "end_char": 378,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "about 10 years",
+                "start_char": 435,
+                "end_char": 449,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "COLLE ONORA CALIPARI, UCCISO 20 ANNI FA \"Fu eroe, salvò Giuliana Sgrena\"",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Salvini favorevole accordo con Starlink \"Secondo me il governo italiano avrebbe l'interesse domani mattina a firmare un contratto con Starlink che ha 7.000 satelliti in orbita. Non perchè Musk mi sta simpatico o perchè tifo Trump. Ma perchè ne andrebbe del miglioramento della sicurezza nazionale italiana. Sicuramente di mettermi in mano dei francesi non ho nessuna voglia e nessuna intenzione\".     E' quanto ha affermato il vicepremier Matteo Salvini, segretario della Lega, rispondendo a margine del gazebo per la pace, della Lega, installato a Milano. ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1741622573.5155373,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:02:53",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.02.53",
+        "en_title": "_",
+        "en_content": "Salvini favorable agreement with Starlink \"According to me the Italian government would have the interest tomorrow morning to sign a contract with Starlink which has 7,000 satellites in orbit. Not because Musk likes me or because I'm typing Trump. But because of the improvement of Italian national security. Surely putting myself in the hands of the French I have no desire and no intention.\" This is what Vice-Premier Matteo Salvini, Secretary of the League, said, responding to the margin of the gazebo for peace, the League, installed in Milan.",
+        "content_NER": [
+            {
+                "word": "Salvini",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Starlink",
+                "start_char": 33,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 63,
+                "end_char": 70,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 106,
+                "end_char": 114,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "morning",
+                "start_char": 115,
+                "end_char": 122,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Starlink",
+                "start_char": 147,
+                "end_char": 155,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "7,000",
+                "start_char": 166,
+                "end_char": 171,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Trump",
+                "start_char": 241,
+                "end_char": 246,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 282,
+                "end_char": 289,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "French",
+                "start_char": 351,
+                "end_char": 357,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Matteo Salvini",
+                "start_char": 420,
+                "end_char": 434,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "League",
+                "start_char": 521,
+                "end_char": 527,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Milan",
+                "start_char": 542,
+                "end_char": 547,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "HAMAS:\"MENO RICHIESTE,ORA FASE DUE\"",
+        "date_raw": "March 10, 2025",
+        "date": "2025-03-10",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Romania,rischio caos.Georgescu ricorre La Romania rischia di piombare nel caos dopo l'ultimo stop alla candidatura di Calin Georgescu,leader dell'estrema destra, alle nuove presidenziali. Centinaia di suoi sostenitori sono scesi in piazza a Bucarest, affrontando i lacrimogeni della polizia.    Georgescu ha presentato ricorso;la Corte Costituzionale deciderà entro mercoledì.       Il leader della destra aveva superato il primo turno delle elezioni.La Corte Costituzionale ha annullato il voto per illeciti nella sua campagna elettorale.",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1741622660.873419,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-10 17:04:20",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-10T16.04.20",
+        "en_title": "HAMAS:\"MENO REQUEST, FASE DUE\"",
+        "en_content": "Romania, chaos risk.Georgescu resorts Romania is likely to crash into chaos after the last stop at the candidacy of Calin Georgescu, leader of the extreme right, to the new presidential elections. Hundreds of his supporters descended into the square in Bucharest, facing the police's tear gas. Georgescu appealed; the Constitutional Court will decide by Wednesday. The right-wing leader passed the first round of the election. The Constitutional Court annulled the vote for the offences in its electoral campaign.",
+        "title_NER": [
+            {
+                "word": "FASE",
+                "start_char": 21,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Romania",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Romania",
+                "start_char": 38,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Calin Georgescu",
+                "start_char": 116,
+                "end_char": 131,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hundreds",
+                "start_char": 197,
+                "end_char": 205,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bucharest",
+                "start_char": 253,
+                "end_char": 262,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Georgescu",
+                "start_char": 294,
+                "end_char": 303,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Constitutional Court",
+                "start_char": 314,
+                "end_char": 338,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 354,
+                "end_char": 363,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 398,
+                "end_char": 403,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "The Constitutional Court",
+                "start_char": 427,
+                "end_char": 451,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    }
+]
