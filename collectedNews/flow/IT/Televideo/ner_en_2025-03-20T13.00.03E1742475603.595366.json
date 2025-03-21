@@ -1,0 +1,955 @@
+[
+    {
+        "title": "4,4 MILIONI HANNO VISTO BENIGNI SU RAI1 Share 28.1% per suo Sogno su Europa",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1742475603.836586,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "4,4 MILIONS HAVE BEEN GOODS ON RAI1 Share 28.1% for his Dream on Europe",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "4,4",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "28.1%",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Europe",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "USA A IRAN:DUE MESI PER INTESA NUCLEARE Trump: se rifiuta colpiremo siti",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Trump:Iran,due mesi per intesa nucleare La lettera che Trump dice di aver inviato alla Guida suprema iraniana, Khamenei, include una scadenza di due mesi per raggiungere un nuovo accordo nucleare. Lo scrive Axios (sito web Usa),che cita un dirigente e due fonti informate Non è chiaro se il termine inizi dalla consegna della lettera o dall'avvio di eventuali negoziati.Trump avrebbe minacciato he se l'Iran respingesse l'offerta senza negoziare,le possibilità di azioni militari Usa o israeliane contro siti nucleari iraniani aumenterebbero drasticamente, secondo quanto riferisce Axios.      ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1742475603.8649902,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "USA To IRAN:DUE MESI FOR INTESA NUCLEARE Trump: if we refuse to hit sites",
+        "en_content": "Trump: Iran,two months for nuclear understanding The letter Trump says he sent to the Iranian Supreme Guide, Khamenei, includes a two-month deadline to reach a new nuclear deal. Axios (U.S. web site), which mentions a manager and two informed sources It is unclear whether the term begins from the delivery of the letter or from the start of any negotiations. Trump would threaten him if Iran rejected the offer without negotiating, the possibility of US or Israeli military actions against Iranian nuclear sites would increase drastically, according to Axios.",
+        "title_NER": [
+            {
+                "word": "USA",
+                "start_char": 0,
+                "end_char": 3,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "IRAN",
+                "start_char": 7,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Iran",
+                "start_char": 7,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two months",
+                "start_char": 12,
+                "end_char": 22,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Trump",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Iranian Supreme Guide",
+                "start_char": 82,
+                "end_char": 107,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Khamenei",
+                "start_char": 109,
+                "end_char": 117,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two-month",
+                "start_char": 130,
+                "end_char": 139,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Axios",
+                "start_char": 178,
+                "end_char": 183,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 185,
+                "end_char": 189,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 230,
+                "end_char": 233,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Iran",
+                "start_char": 388,
+                "end_char": 392,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 452,
+                "end_char": 454,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 458,
+                "end_char": 465,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Iranian",
+                "start_char": 491,
+                "end_char": 498,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Axios",
+                "start_char": 554,
+                "end_char": 559,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "GAZA,DOPO RAID PARTITA OPERAZIONE TERRA Ospedali: morti molte donne e bimbi",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1742475603.8865283,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "GAZA,DPO RAID PARTICIPATION OPERATION TERRA Ospedali: dead many women and children",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "GAZA",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "DPO RAID PARTICIPATION OPERATION",
+                "start_char": 5,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "GAZA,DOPO RAID PARTITA OPERAZIONE TERRA Ospedali: morti molte donne e bimbi",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Gaza,dopo raid partita operazione terra Proseguono sempre più intensi gli attacchi di Israele sulla Stiscia di Gaza dopo la rottura dell'esile tregua. Non si fermano i raid sulla Striscia che hanno causato un alto numero di  vittime palestinesi. Lo riferiscono  tre ospedali di Gaza.Colpite molte case nel cuore della notte, uccidendo uomini, donne e bambini. Almeno 95 persone sono state uccise nei raid.   L'Idf ha intanto avviato un'operazione di terra nel nord della Striscia. Prima missili hanno colpito postazioni militari e postazioni anticarro di Hamas. ",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1742475603.8933504,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "GAZA,DPO RAID PARTICIPATION OPERATION TERRA Ospedali: dead many women and children",
+        "en_content": "Gaza,after raiding the ground operation, Israel's attacks on Gaza Stiscia continue more and more after the break of the small truce. The raids on the Strip did not stop, which caused a high number of Palestinian victims. Three Gaza hospitals report it.Colpite many houses in the middle of the night, killing men, women and children. At least 95 people were killed in the raid. The Idf started a land operation in the north of the Strip. First missiles hit military stations and Hamas anti-tank stations.",
+        "title_NER": [
+            {
+                "word": "GAZA",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "DPO RAID PARTICIPATION OPERATION",
+                "start_char": 5,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 41,
+                "end_char": 47,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza Stiscia",
+                "start_char": 61,
+                "end_char": 73,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Strip",
+                "start_char": 150,
+                "end_char": 155,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 200,
+                "end_char": 211,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Three",
+                "start_char": 221,
+                "end_char": 226,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 227,
+                "end_char": 231,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the middle of the",
+                "start_char": 275,
+                "end_char": 292,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "At least 95",
+                "start_char": 333,
+                "end_char": 344,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Idf",
+                "start_char": 381,
+                "end_char": 384,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Strip",
+                "start_char": 430,
+                "end_char": 435,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "First",
+                "start_char": 437,
+                "end_char": 442,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 478,
+                "end_char": 483,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "LAGARDE:\"EUROPA E' PIU' FORTE SE UNITA\" Dazi Usa? \"C'è il resto del mondo\"",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1742475603.9220648,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "LAGARDE: \"EUROPE IS MORE FORTE SE UNITED\" Dazi Usa? \"There's the rest of the world\"",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "LAGARDE",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EUROPE",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "FORTE SE",
+                "start_char": 25,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dazi Usa",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ]
+    },
+    {
+        "title": "MISSILE IPERSONICO SU TEL AVIV, COLPITO Lanciato dagli Houthi su aeroporto",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Missile su scalo Tel Aviv, intercettato Gli Houthi hanno attaccato l'aeroporto Ben Gurion di Tel Aviv con un missile ipersonico poco dopo che Israele ha  fatto sapere di avere respinto un  missile lanciato dallo Yemen. Lo  riporta la Tass citando il movimento. \"Attaccato l'aeroporto Ben Gurion nel quartiere occupato di Jaffa con l'uso di un missile balistico ipersonico Palestine-2\", ha dichiarato al canale Al Masirah controllato dagli Houti.  Ma da Israele replicano:\"Intercettato e distrutto prima di entrare dentro il nostro territorio\". Nuovi raid su Gaza.",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1742475603.923775,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "MISSILE IPERSONICO ON TEL AVIV, COLPITO Launched by the Houthi on the airport",
+        "en_content": "Missile on Tel Aviv airport, intercepted The Houthi attacked the Ben Gurion airport in Tel Aviv with an ipersonic missile shortly after Israel announced that it had rejected a missile launched by Yemen. The Tass is citing the movement. \"Attacked Ben Gurion airport in Jaffa's busy neighborhood with the use of an ipersonal Palestinian-2 ballistic missile,\" said Al Masirah channel controlled by Houti. But from Israel they say, \"Intercepted and destroyed before entering our territory.\" New raid on Gaza.",
+        "title_NER": [
+            {
+                "word": "TEL AVIV",
+                "start_char": 22,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "COLPITO",
+                "start_char": 32,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Houthi",
+                "start_char": 56,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tel Aviv",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 45,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ben Gurion",
+                "start_char": 65,
+                "end_char": 75,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tel Aviv",
+                "start_char": 87,
+                "end_char": 95,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 136,
+                "end_char": 142,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yemen",
+                "start_char": 196,
+                "end_char": 201,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tass",
+                "start_char": 207,
+                "end_char": 211,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ben Gurion",
+                "start_char": 246,
+                "end_char": 256,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Jaffa",
+                "start_char": 268,
+                "end_char": 273,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Al Masirah",
+                "start_char": 362,
+                "end_char": 372,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Houti",
+                "start_char": 395,
+                "end_char": 400,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 411,
+                "end_char": 417,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 499,
+                "end_char": 503,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "CHIARA POGGI,LA FAMIGLIA \"PARTE OFFESA\" Decisivi elementi su Alberto Stasi",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1742475603.9406183,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "CHIARA POGGI,LA FAMILY \"PARTE OFFESA\" Decisive elements on Alberto Stasi",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "CHIARA POGGI",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "LA",
+                "start_char": 13,
+                "end_char": 15,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Alberto Stasi",
+                "start_char": 59,
+                "end_char": 72,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "IL CONSIGLIO UE E' IN CORSO A BRUXELLES Meloni:momento grave nostro destino",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1742475603.9499602,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:03",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.03",
+        "en_title": "THE EU COUNCIL IS IN COURSE TO BRUSSELS MEPs: grave moment our destiny",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "THE EU COUNCIL IS",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "BRUSSELS",
+                "start_char": 31,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "DIFESA, MELONI:PUNTARE SULLE RISORSE UE La premier incontra la von der Leyen   Lei: \"Sono giorni decisivi per Ue\"",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Difesa, Meloni:puntare sulle risorse Ue Il presidente del Consiglio, Giorgia Meloni, ha incontrato la presidente  della Commissione europea Ursula von der Leyen a margine del Consiglio Ue. Approfonditi i temi del summit Ue, a partire dal rilancio della competitività e dal rafforzamento della difesa, concentrandosi sul finanziamento degli investimenti.Meloni ha ribadito la necessità di porre l'accento sulla partecipazione del capitale privato. Per  esempio attraverso modello Investeu e strumenti europei comuni che non pesino direttamente sul debito degli Stati Ue. Von der leyen: \"Sono giorni decisivi\". ",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1742475604.110928,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.04",
+        "en_title": "DIFESA, MELONI:PUNTARE ON EU RESOURCES The premier meets von der Leyen You: \"It's decisive days for Ue\"",
+        "en_content": "Defense, Meloni: quitting on EU resources The President of the Council, Giorgia Meloni, met with the President of the European Commission Ursula von der Leyen on the edge of the EU Council. In depth the themes of the EU summit, starting from the relaunching of competitiveness and strengthening of defence, focusing on financing investments. Meloni reiterated the need to stress the participation of private capital. For example, through the Investeu model and common European instruments that do not directly weigh on EU debt. Von der leyen: \"It's decisive days.\"",
+        "title_NER": [
+            {
+                "word": "DIFESA",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 26,
+                "end_char": 28,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Leyen You",
+                "start_char": 65,
+                "end_char": 74,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "days",
+                "start_char": 91,
+                "end_char": 95,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 9,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EU",
+                "start_char": 29,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 63,
+                "end_char": 70,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Giorgia Meloni",
+                "start_char": 72,
+                "end_char": 86,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the European Commission",
+                "start_char": 114,
+                "end_char": 137,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Leyen",
+                "start_char": 153,
+                "end_char": 158,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the EU Council",
+                "start_char": 174,
+                "end_char": 188,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 217,
+                "end_char": 219,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 342,
+                "end_char": 348,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Investeu",
+                "start_char": 442,
+                "end_char": 450,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 468,
+                "end_char": 476,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "EU",
+                "start_char": 519,
+                "end_char": 521,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "days",
+                "start_char": 558,
+                "end_char": 562,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "LAGARDE:\"EUROPA E' PIU' FORTE SE UNITA\" Dazi Usa? \"C'è il resto del mondo\"    \"Peserebbero per 0,3% nostro Pil\"",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Lagarde:\"L'Europa più forte se è unita\" Le stime di crescita Bce per l'Eurozona \"sono soggette a notevole incertezza\". Così la presidente Lagarde all'Europarlamento.\"Si prevede che la crescita sarà sostenuta da redditi più elevati e minori costi di prestiti\".\"Incertezza e nessun impegno sul percorso dei tassi\". In caso di guerra commerciale con Usa le analisi \"indicano che un'integrazione più stretta con il resto del mondo potrebbe bilanciare le perdite causate dai dazi.Solo i Paesi orientati a politiche isolazionistiche perderebbero\". \"Dazi Usa peserebbero per 0,3% Eurozona\".\"L'Europa è più forte se è unita\". ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1742475604.2120655,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.04",
+        "en_title": "LAGARDE: \"EUROPE IS MORE FORTE SE UNITED\" Dazi Usa? \"There's the rest of the world\" \"They'd weigh for 0.3% our GDP\"",
+        "en_content": "Lagarde:\"The stronger Europe if it is united\" Bce growth estimates for the Eurozone \"are subject to considerable uncertainty\". So President Lagarde at the European Parliament. \"It is expected that growth will be supported by higher incomes and lower loans costs.\" \"Uncertainty and no commitment to the rate path.\" In the event of a trade war with the US, analysis \"indicates that closer integration with the rest of the world could balance the losses caused by duties. Only countries oriented to isolation policies would lose.\" \"U.S.Dazis would weigh for 0.3% Eurozone\". \"Europe is stronger if it is united.\"",
+        "title_NER": [
+            {
+                "word": "LAGARDE",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EUROPE",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "FORTE SE",
+                "start_char": 25,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dazi Usa",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "0.3%",
+                "start_char": 102,
+                "end_char": 106,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europe",
+                "start_char": 22,
+                "end_char": 28,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Lagarde",
+                "start_char": 140,
+                "end_char": 147,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 151,
+                "end_char": 174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 351,
+                "end_char": 353,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "0.3%",
+                "start_char": 555,
+                "end_char": 559,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Europe",
+                "start_char": 572,
+                "end_char": 578,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "IL CONSIGLIO UE E' IN CORSO A BRUXELLES Meloni:momento grave nostro destino",
+        "date_raw": "March 20, 2025",
+        "date": "2025-03-20",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Consiglio Ue,Meloni: è un momento grave L'atteso Consiglio Europeo è in corso a Bruxelles. Presente la premier Meloni che dice: \"Cade in un momento complesso per le dinamiche globali, e allo  stesso tempo decisivo per il destino dell'Italia, Europa e Occidente\".  Meloni va in aula \"con la speranza che il dibattito trovi tutti consapevoli del tempo grave che stiamo attraversando e che si possa ragionare su quali siano le scelte migliori per la nostra Nazione, con il senso di realtà e di responsabilità che si deve a momenti come questi\". Il Consiglio europeo che si è aperto oggi terminerà domani.  ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1742475604.3511834,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-20 14:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-20T13.00.04",
+        "en_title": "THE EU COUNCIL IS IN COURSE TO BRUSSELS MEPs: grave moment our destiny",
+        "en_content": "EU Council,Meloni: it is a serious moment The expected European Council is in progress in Brussels. Present the premier Meloni who says: \"Cade in a complex moment for global dynamics, and at the same time decisive for the fate of Italy, Europe and the West.\" Meloni goes to the Chamber \"with the hope that the debate finds everyone aware of the serious time we are going through and that we can reason on which are the best choices for our nation, with the sense of reality and responsibility that we owe at times like these\". The European Council which has opened today will end tomorrow.",
+        "title_NER": [
+            {
+                "word": "THE EU COUNCIL IS",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "BRUSSELS",
+                "start_char": 31,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "EU Council",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Meloni",
+                "start_char": 11,
+                "end_char": 17,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European Council",
+                "start_char": 55,
+                "end_char": 71,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Brussels",
+                "start_char": 90,
+                "end_char": 98,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 120,
+                "end_char": 126,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 230,
+                "end_char": 235,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 237,
+                "end_char": 243,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 259,
+                "end_char": 265,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chamber",
+                "start_char": 278,
+                "end_char": 285,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The European Council",
+                "start_char": 527,
+                "end_char": 547,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 565,
+                "end_char": 570,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 580,
+                "end_char": 588,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    }
+]
