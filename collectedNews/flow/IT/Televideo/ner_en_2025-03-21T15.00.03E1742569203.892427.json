@@ -1,0 +1,1527 @@
+[
+    {
+        "title": "CAIRO:POSSIAMO OSPITARE 500MILA DA GAZA Media: annuncio a negoziatori arabi",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": " Cairo potrebbe ospitare 500mila da Gaza Secondo il quotidiano libanese Al-Akbar il presidente egiziano al-Sisi ha dato disponibilità ad accogliere temporaneamente 500mila residenti di Gaza nel Sinai settentrionale, per la ricostruzione di Gaza.      Ciò richiederebbe l'apertura dei valichi di frontiera tra Egitto e Gaza.  Secondo Times of Israel, la disponibilità egiziana è stata messa sul tavolo durante gli incontri tenuti dai leader arabi nelle ultime settimane in Arabia Saudita e Qatar su un'alternativa al piano Usa per Gaza dopo la guerra.  ",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1742569204.1259584,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "CAIRO:POSSIAMO OSPITARE 500MILA DA GAZA Media: announcement to Arab negotiators",
+        "en_content": "Cairo could accommodate 500,000 from Gaza According to the Lebanese daily Al-Akbar, Egyptian President Al-Sisi has given the readiness to temporarily accommodate 500 thousand Gaza residents in the northern Sinai, for the reconstruction of Gaza. This would require the opening of border crossings between Egypt and Gaza. According to Times of Israel, Egyptian availability was placed on the table during meetings held by Arab leaders in recent weeks in Saudi Arabia and Qatar on an alternative to the US plan for Gaza after the war.",
+        "title_NER": [
+            {
+                "word": "CAIRO",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "GAZA",
+                "start_char": 35,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arab",
+                "start_char": 63,
+                "end_char": 67,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Cairo",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "500,000",
+                "start_char": 24,
+                "end_char": 31,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 37,
+                "end_char": 41,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lebanese",
+                "start_char": 59,
+                "end_char": 67,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Al-Akbar",
+                "start_char": 74,
+                "end_char": 82,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Egyptian",
+                "start_char": 84,
+                "end_char": 92,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Al-Sisi",
+                "start_char": 103,
+                "end_char": 110,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "500 thousand",
+                "start_char": 162,
+                "end_char": 174,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 175,
+                "end_char": 179,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sinai",
+                "start_char": 206,
+                "end_char": 211,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 239,
+                "end_char": 243,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Egypt",
+                "start_char": 304,
+                "end_char": 309,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 314,
+                "end_char": 318,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Times of Israel",
+                "start_char": 333,
+                "end_char": 348,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Egyptian",
+                "start_char": 350,
+                "end_char": 358,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Arab",
+                "start_char": 420,
+                "end_char": 424,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "recent weeks",
+                "start_char": 436,
+                "end_char": 448,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Saudi Arabia",
+                "start_char": 452,
+                "end_char": 464,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Qatar",
+                "start_char": 469,
+                "end_char": 474,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 500,
+                "end_char": 502,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 512,
+                "end_char": 516,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "MATTARELLA: \"MAFIA SI VINCE. STA A NOI\" Giornata nazionale memoria vittime",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": " Colle: mafia si può vincere, sta a noi \"Il 21 marzo è un giorno solenne di ricordo e impegno civile per affermare valori essenziali per la salute della nostra comunità\". Così il Presidente Mattarella nella Giornata nazionale in ricordo delle vittime di mafia.  \"L'impegno quotidiano per la legalità, la lotta contro le mafie, contro le  consorterie e crimini che generano violenze e zone grigie\", prosegue, \"vede operare tutti i cittadini che desiderano vivere in una società coesa e rispettosa dei diritti di tutti\". \"La mafia può essere vinta. Dipende da noi\". ",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1742569204.142775,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "MATTARELLA: \"MAFIA SI VINCE. STA A NOI\" National Day memory victims",
+        "en_content": "Colle: Mafia can be won, stands at us \"On March 21, it is a solemn day of memory and civil commitment to affirm essential values for the health of our community\". So President Mattarella on the National Day in memory of the victims of mafia. \"The daily commitment to legality, the fight against mafias, against consortia and crimes that generate violence and gray areas,\" he continued, \"see to operate all citizens who wish to live in a cohesive and respectful society of the rights of all\". \"Mafia can be won. It depends on us.\"",
+        "title_NER": [
+            {
+                "word": "VINCE",
+                "start_char": 22,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "STA",
+                "start_char": 29,
+                "end_char": 32,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "NOI",
+                "start_char": 35,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "National Day",
+                "start_char": 40,
+                "end_char": 52,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Mafia",
+                "start_char": 7,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "March 21",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 176,
+                "end_char": 186,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the National Day",
+                "start_char": 190,
+                "end_char": 206,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "daily",
+                "start_char": 247,
+                "end_char": 252,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Mafia",
+                "start_char": 493,
+                "end_char": 498,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Israele, licenziato capo degli 007",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": " Israele, licenziato capo 007 Shin Bet Il governo israeliano ha votato all' unanimità, nella notte, il licenziamento del direttore dello Shin Bet,il servizio di Intelligence interna.  Ronen Bar si dimetterà il 10 aprile o quando si troverà un sostituto idoneo. Bar non si è presentato alla riunione sul licenziamento, ma ha mandato una lettera molto critica verso il premier Netanyahu: non a lui devo lealtà -ha scrittoma ai cittadini israeliani. L'Alta Corte di Giustizia israeliana respinge con un ordine temporaneo il licenziamento. E' scontro in governo. ",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1742569204.1610138,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "Israel, dismissed head of 007",
+        "en_content": "Israel, dismissed Head 007 Shin Bet The Israeli government unanimously voted on the dismissal of the Director of Shin Bet, the Internal Intelligence Service. Ronen Bar will resign on April 10th or when you will find a suitable replacement. Bar did not meet at the dismissal meeting, but sent a very critical letter to Premier Netanyahu: not to him I owe loyalty - he wrote but to Israeli citizens. The High Court of Justice of Israel rejects with a temporary order the dismissal. It's a government clash.",
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "007",
+                "start_char": 26,
+                "end_char": 29,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Shin Bet",
+                "start_char": 113,
+                "end_char": 121,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Internal Intelligence Service",
+                "start_char": 123,
+                "end_char": 156,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ronen Bar",
+                "start_char": 158,
+                "end_char": 167,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "April 10th",
+                "start_char": 183,
+                "end_char": 193,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Netanyahu",
+                "start_char": 326,
+                "end_char": 335,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 380,
+                "end_char": 387,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "The High Court of Justice",
+                "start_char": 398,
+                "end_char": 423,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 427,
+                "end_char": 433,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "MIGRANTI,IL 2024 L'ANNO PIU'TRAGICO",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=158",
+        "content": " 2024 l'anno più tragico per i migranti Nel 2024 almeno 8.938 persone sono morte lungo le rotte migratorie di tutto il mondo. Si tratta dell'anno in cui il più alto numero di migranti ha perso la vita. Questo è quanto emerge dai dati forniti dall'Organizzazione Internazionale per le Migrazioni (OIM).   Il tragico bilancio del 2024 conferma una tendenza al costante aumento dei decessi di migranti che ha avuto una conferma per ogni anno nell'arco dell' ultimo quinquennio.    Il bilancio 2024 supera quello del 2023, quando le vittime furono 8.747. ",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1742569204.1960046,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "_",
+        "en_content": "2024 the most tragic year for migrants In 2024 at least 8.938 people died along the migration routes around the world. This is the year when the highest number of migrants lost their lives. This is what emerges from the data provided by the International Organization for Migration (OIM). The tragic budget of 2024 confirms a tendency to the constant increase in the deaths of migrants who had a confirmation for each year over the last five years. The 2024 budget exceeds that of 2023, when the victims were 8.747.",
+        "content_NER": [
+            {
+                "word": "2024",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2024",
+                "start_char": 42,
+                "end_char": 46,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the year",
+                "start_char": 127,
+                "end_char": 135,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the International Organization for Migration",
+                "start_char": 237,
+                "end_char": 281,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "OIM",
+                "start_char": 283,
+                "end_char": 286,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2024",
+                "start_char": 310,
+                "end_char": 314,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "each year",
+                "start_char": 413,
+                "end_char": 422,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the last five years",
+                "start_char": 428,
+                "end_char": 447,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2024",
+                "start_char": 453,
+                "end_char": 457,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2023",
+                "start_char": 481,
+                "end_char": 485,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8.747",
+                "start_char": 509,
+                "end_char": 514,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Summit europeo:accelerare su difesa",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": " Consiglio Ue:\"Accelerare per la difesa\" \"Il Consiglio Europeo invita ad accelerare i lavori su tutti i fronti per  aumentare in modo decisivo la prontezza di difesa dell'Europa entro i prossimi cinque anni\".     E' quanto si legge nelle conclusioni del Consiglio europeo a Bruxelles. Adottate anche le conclusioni sulla  competitività e sulle migrazioni. Si incoraggia a lavorare sul contrasto  all'immigrazione illegale, sui rimpatri e sul concetto di Paesi sicuri.  ",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1742569204.204348,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "European Summit:accelerating on defence",
+        "en_content": "EU Council: \"Accelerating for defence\" \"The European Council calls for speeding up work on all fronts to decisively increase Europe's defence readiness within the next five years.\" This is what we read in the conclusions of the European Council in Brussels. It also adopted conclusions on competitiveness and migration. It encourages us to work on contrasting illegal immigration, repatriation and the concept of safe countries.",
+        "title_NER": [
+            {
+                "word": "European Summit",
+                "start_char": 0,
+                "end_char": 15,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "EU Council",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The European Council",
+                "start_char": 40,
+                "end_char": 60,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 125,
+                "end_char": 131,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the next five years",
+                "start_char": 159,
+                "end_char": 178,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the European Council",
+                "start_char": 224,
+                "end_char": 244,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Brussels",
+                "start_char": 248,
+                "end_char": 256,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "ARRESTO SINDACO ISTANBUL,NUOVE PROTESTE Concorrente Erdogan a presidenziali",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": " Turchia, manifestazioni per Imamoglu Non si fermano, a Istanbul e in altre città turche,le proteste dopo l'arresto del sindaco di Istanbul Imamoglu, accusato di corruzione e terrorismo, per il presunto favoreggiamento del partito filocurdo Pkk, \"terrorista\" per Ankara. Scontri a Istanbul, dove in migliaia si sono radunati davanti al comune malgrado il divieto di manifestare.   Imamoglu è il principale rivale di Erdogan per le prossime presidenziali e sia lui che i suoi sostenitori denunciano: l'arresto è per eliminarlo dalla competizione elettorale.   ",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1742569204.210585,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "ISTANBUL SINDACO ARRESTOVE PROTESTED Erdogan to Presidential",
+        "en_content": "Turkey, events for Imamoglu They do not stop, in Istanbul and other Turkish cities, protests after the arrest of the mayor of Istanbul Imamoglu, accused of corruption and terrorism, for the alleged support of the Pkk procurd party, \"terrorist\" for Ankara. Scontri in Istanbul, where thousands gathered in front of the commune despite the ban on manifesting. Imamoglu is the main rival of Erdogan for the next presidential elections and both he and his supporters denounce: the arrest is to eliminate him from the electoral competition.",
+        "title_NER": [
+            {
+                "word": "ISTANBUL",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 37,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 19,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 49,
+                "end_char": 57,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 68,
+                "end_char": 75,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Istanbul Imamoglu",
+                "start_char": 126,
+                "end_char": 143,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Pkk procurd party",
+                "start_char": 209,
+                "end_char": 230,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ankara",
+                "start_char": 248,
+                "end_char": 254,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Scontri",
+                "start_char": 256,
+                "end_char": 263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 267,
+                "end_char": 275,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "thousands",
+                "start_char": 283,
+                "end_char": 292,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 358,
+                "end_char": 366,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 388,
+                "end_char": 395,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "SVEZIA,DUE ITALIANI MORTI SOTTO VALANGA Erano in 5, illesi gli altri tre",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": " Valanga in Svezia uccide due italiani Due sciatori italiani sono morti in un incidente provocato da una valanga, verificatosi sui monti Abisko in Svezia. Lo riportano i media svedesi che citano fonti di polizia. Le vittime sarebbero 2 uomini di 45 e 50 anni. Illesi altri 3 connazionali dello stesso gruppo.  L'incidente si è verificato ieri pomeriggio, quando una valanga ha investito a terra l'elicottero degli escursionisti. Le due vittime, intrappolate sotto la neve, sono morte in ospedale.  ",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1742569204.2355769,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "SVEZIA,DUE ITALIANI MORTI SOTTO VALANGA They were in 5, illesi the other three",
+        "en_content": "Avalanche in Sweden kills two Italians Two Italian skiers died in an accident caused by an avalanche, occurred on the Abisko mountains in Sweden. The Swedish media report that cites police sources. The victims would be 2 men of 45 and 50 years. The other 3 compatriots of the same group. The incident occurred yesterday afternoon, when an avalanche landed the helicopter of hikers. The two victims, trapped under the snow, died in the hospital.",
+        "title_NER": [
+            {
+                "word": "ITALIANI",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5",
+                "start_char": 53,
+                "end_char": 54,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "three",
+                "start_char": 73,
+                "end_char": 78,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Avalanche",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Sweden",
+                "start_char": 13,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 26,
+                "end_char": 29,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italians",
+                "start_char": 30,
+                "end_char": 38,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Two",
+                "start_char": 39,
+                "end_char": 42,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italian",
+                "start_char": 43,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Sweden",
+                "start_char": 138,
+                "end_char": 144,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Swedish",
+                "start_char": 150,
+                "end_char": 157,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2",
+                "start_char": 219,
+                "end_char": 220,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "45 and 50 years",
+                "start_char": 228,
+                "end_char": 243,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3",
+                "start_char": 255,
+                "end_char": 256,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 310,
+                "end_char": 319,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 320,
+                "end_char": 329,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "two",
+                "start_char": 386,
+                "end_char": 389,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "LONDRA,CHIUSO HEATHROW: 300MILA A TERRA Scalo in black-out dopo un incendio",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": " Chiuso scalo Heathrow, 300mila a terra Sono quasi 300 mila i passeggeri destinati a restare a terra oggi per la chiusura di Heathrow. Lo scalo londinese è in black-out dopo l'ncendio, nella cittadina di Hates, della sottocentrale elettrica che serve anche l'aeroporto. La previsione è della società di aviazione civile Cirium. Saltati 1.350 voli a Londra e disagi su scala mondiale, destinati ad andare avanti per diversi giorni, probabilmente fino a una settimana, anche se al momento la riapertura di Heathrow è prevista per domani, dopo 24 ore di stop.    ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1742569204.247168,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "_ 300MILA A TERRA Scalo in black-out after a fire",
+        "en_content": "Closed Heathrow airport, 300 thousand on the ground It is almost 300 thousand passengers destined to stay on the ground today for the closure of Heathrow. The London airport is black-out after the arrival, in the town of Hates, of the electric sub-central that also serves the airport. The forecast is of the civil aviation company Cirium. Lost 1,350 flights in London and inconvenience on a global scale, destined to move forward for several days, probably up to a week, although at the moment the reopening of Heathrow is scheduled for tomorrow, after 24 hours stop.",
+        "title_NER": [
+            {
+                "word": "300MILA",
+                "start_char": 2,
+                "end_char": 9,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Heathrow",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "300 thousand",
+                "start_char": 25,
+                "end_char": 37,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "almost 300 thousand",
+                "start_char": 58,
+                "end_char": 77,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "today",
+                "start_char": 120,
+                "end_char": 125,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Heathrow",
+                "start_char": 145,
+                "end_char": 153,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "London",
+                "start_char": 159,
+                "end_char": 165,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1,350",
+                "start_char": 345,
+                "end_char": 350,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "London",
+                "start_char": 362,
+                "end_char": 368,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "several days",
+                "start_char": 435,
+                "end_char": 447,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "up to a week",
+                "start_char": 458,
+                "end_char": 470,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Heathrow",
+                "start_char": 512,
+                "end_char": 520,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 538,
+                "end_char": 546,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "24 hours",
+                "start_char": 554,
+                "end_char": 562,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ]
+    },
+    {
+        "title": "MOSCA: \"PERICOLOSA MILITARIZZAZIONE\" UE Dopo Consiglio Ue su sostegno Kiev",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": " Mosca:da Ue pericolosa militarizzazione All'indomani del Consiglio Ue che ribadisce \"sostegno incrollabile\" a Kiev, il Cremlino accusa l'Europa di \"militarizzazione\", \"una tendenza molto, molto pericolosa\". Così il portavoce Peskov. \"Naturalmente questo non ci avvicina in alcun modo alla distensione o al ripristino di una sfera di fiducia reciproca e non aggiunge sicurezza all'Europa\". Mosca assicura che \"le forze armate si astengono dal colpire le infrastrutture energetiche\" di Kiev e annuncia: a Riad vanno il capo della Commissione Esteri alla Camera alta Karasin e Beseda, consigliere del direttore dei servizi Fsb.",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1742569204.2699811,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "MOSCA: \"PERICOLOSA MILITARALIZATION\" EU After EU Council on support Kiev",
+        "en_content": "Moscow:from dangerous EU militarization In the aftermath of the EU Council reiterated \"unbreakable support\" in Kiev, the Kremlin accuses Europe of \"militarization\", \"a very, very dangerous trend\". So spokesman Peskov. \"Of course this does not approach us in any way to the distension or restoration of a sphere of mutual trust and does not add security to Europe.\" Moscow assures that \"the armed forces refrain from hitting energy infrastructure\" in Kiev and announces: in Riad go the head of the Foreign Commission to the High Chamber Karasin and Beseda, adviser of the Director of the Fsb services.",
+        "title_NER": [
+            {
+                "word": "MOSCA",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "PERICOLOSA MILITARALIZATION",
+                "start_char": 8,
+                "end_char": 35,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 37,
+                "end_char": 39,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU Council",
+                "start_char": 46,
+                "end_char": 56,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 68,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 22,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the EU Council",
+                "start_char": 60,
+                "end_char": 74,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 111,
+                "end_char": 115,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 121,
+                "end_char": 128,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 137,
+                "end_char": 143,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Peskov",
+                "start_char": 210,
+                "end_char": 216,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 356,
+                "end_char": 362,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 365,
+                "end_char": 371,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 450,
+                "end_char": 454,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Riad",
+                "start_char": 473,
+                "end_char": 477,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Foreign Commission",
+                "start_char": 493,
+                "end_char": 515,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Beseda",
+                "start_char": 548,
+                "end_char": 554,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Fsb",
+                "start_char": 587,
+                "end_char": 590,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "ISTRUTTORIA ANNTITRUST SU RFI E FS    \"Remano contro un nuovo operatore\"",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": " Antitrust, istruttoria su Rfi e FS L'Autorità Garante della Concorrenza e del Mercato ha avviato un'istruttoria nei confronti di Rete Ferroviaria Italiana S.p.A e della holding Ferrovie dello Stato Italiane S.p.A. in merito a un presunto abuso di posizione dominante in violazione dell'art.102 del Trattato sul funzionamento Ue (Tfue).  Secondo l'Autorità \"risulterebbe rallentato e in alcuni casi ostacolato l' accesso all'infrastruttura nazionale\" e \"l'ingresso nel mercato\" del nuovo operatore SNCF Voyages Italia. Fs: piena collaborazione, la nostra correttezza emergerà dalle ispezioni.   ",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1742569204.2911348,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "ANNTITRUST INSTRUCTORS ON RFI AND FS \"Remant against a new operator\"",
+        "en_content": "Antitrust, Rfi and FS instructor The Guarantor Authority of Competition and Market has initiated an investigation towards Rete Ferroviaria Italiana S.p.A and the holding company Ferrovie dello Stato Italiane S.p.A. regarding an alleged abuse of dominant position in violation of art.102 of the Treaty on European Functioning (Tfue). According to the Authority \"it would be slowed down and in some cases hindered access to the national infrastructure\" and \"the entry into the market\" of the new operator SNCF Voyages Italy. Fs: full collaboration, our correctness will emerge from the inspections.",
+        "title_NER": [
+            {
+                "word": "ANNTITRUST",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "RFI",
+                "start_char": 26,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "FS \"Remant",
+                "start_char": 34,
+                "end_char": 44,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Rfi",
+                "start_char": 11,
+                "end_char": 14,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "FS",
+                "start_char": 19,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The Guarantor Authority of Competition and Market",
+                "start_char": 33,
+                "end_char": 82,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rete Ferroviaria Italiana S.p.",
+                "start_char": 122,
+                "end_char": 152,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Treaty",
+                "start_char": 294,
+                "end_char": 300,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "European Functioning",
+                "start_char": 304,
+                "end_char": 324,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Authority",
+                "start_char": 350,
+                "end_char": 359,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "SNCF Voyages Italy",
+                "start_char": 503,
+                "end_char": 521,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "LAGARDE:\"EUROPA E' PIU' FORTE SE UNITA\" Dazi Usa? \"C'è il resto del mondo\"    \"Peserebbero per 0,3% nostro Pil\"",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": " Lagarde:\"L'Europa più forte se è unita\" Le stime di crescita Bce per l'Eurozona \"sono soggette a notevole incertezza\". Così la presidente Lagarde all'Europarlamento.\"Si prevede che la crescita sarà sostenuta da redditi più elevati e minori costi di prestiti\".\"Incertezza e nessun impegno sul percorso dei tassi\". In caso di guerra commerciale con Usa le analisi \"indicano che un'integrazione più stretta con il resto del mondo potrebbe bilanciare le perdite causate dai dazi.Solo i Paesi orientati a politiche isolazionistiche perderebbero\". \"Dazi Usa peserebbero per 0,3% Eurozona\".\"L'Europa è più forte se è unita\". ",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1742569204.2944605,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "LAGARDE: \"EUROPE IS MORE FORTE SE UNITED\" Dazi Usa? \"There's the rest of the world\" \"They'd weigh for 0.3% our GDP\"",
+        "en_content": "Lagarde:\"The stronger Europe if it is united\" Bce growth estimates for the Eurozone \"are subject to considerable uncertainty\". So President Lagarde at the European Parliament. \"It is expected that growth will be supported by higher incomes and lower loans costs.\" \"Uncertainty and no commitment to the rate path.\" In the event of a trade war with the US, analysis \"indicates that closer integration with the rest of the world could balance the losses caused by duties. Only countries oriented to isolation policies would lose.\" \"U.S.Dazis would weigh for 0.3% Eurozone\". \"Europe is stronger if it is united.\"",
+        "title_NER": [
+            {
+                "word": "LAGARDE",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "EUROPE",
+                "start_char": 10,
+                "end_char": 16,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "FORTE SE",
+                "start_char": 25,
+                "end_char": 33,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dazi Usa",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "0.3%",
+                "start_char": 102,
+                "end_char": 106,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europe",
+                "start_char": 22,
+                "end_char": 28,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Lagarde",
+                "start_char": 140,
+                "end_char": 147,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 151,
+                "end_char": 174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 351,
+                "end_char": 353,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "0.3%",
+                "start_char": 555,
+                "end_char": 559,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Europe",
+                "start_char": 572,
+                "end_char": 578,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "MELONI:VENTOTENE? \"SINISTRA ILLIBERALE\" Dazi Usa, meglio rinviare risposta Ue  \"Risorse per riarmo sono virtuali\"",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": " Meloni:Ventotene? \"Sinistra illiberale\" \"Sono rimasta sconvolta\" dalla reazione alle parole su Ventotene. \"Non ho insultato, sono stata insultata\", la sinistra \"mostra un'anima illiberale\". Lo dice la premier Meloni, a margine del Consiglio europeo a Bruxelles. \"Sui dazi bisogna essere prudenti con una risposta automatica. Sono preoccupata dalle conseguenze. Mi sembra  lucido rinviare di qualche giorno\" l'attivazione delle contromisure. Sul piano di riarmo europeo: \"Le risorse sembrano molte ma sono virtuali\". ",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1742569204.3246324,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "What? \"SINISTRA ILLIBERALE\" Dazi Usa, better postpone Ue answer \"Resurrections are virtual\"",
+        "en_content": "Meloni:Ventotene? \"Sinistra illiberale\" \"I was shocked\" by the reaction to the words on Ventotene. \"I didn't insult, I was insulted,\" the left \"shows an illiberal soul.\" Mr Meloni says so, on the edge of the European Council in Brussels. \"You must be careful with an automatic response. I'm worried about the consequences. It seems clear to me to postpone the activation of countermeasures a few days. On the European level: \"The resources seem many but are virtual.\"",
+        "title_NER": [
+            {
+                "word": "SINISTRA",
+                "start_char": 7,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Dazi Usa",
+                "start_char": 28,
+                "end_char": 36,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ventotene",
+                "start_char": 7,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ventotene",
+                "start_char": 88,
+                "end_char": 97,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Meloni",
+                "start_char": 173,
+                "end_char": 179,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the European Council",
+                "start_char": 204,
+                "end_char": 224,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Brussels",
+                "start_char": 228,
+                "end_char": 236,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a few days",
+                "start_char": 390,
+                "end_char": 400,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 409,
+                "end_char": 417,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Premier:mafie nemiche di democrazia",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": " Meloni: mafie nemiche della democrazia \"Le mafie sono un nemico dichiarato  della nostra democrazia, un'offesa alla dignità della Nazione. Per questo, con assoluta determinazione e fermezza, ribadiamo la nostra condanna ad ogni tipo di mafia e ci impegniamo, ogni giorno, a combatterla. Così su X la premier,per la Giornata della memoria delle vittime \"Onorare il sacrificio delle vittime significa agire per rafforzare la giustizia,garantire sicurezza,difendere la libertà di tutti i cittadini, rifiutare ed estirpare ogni forma di illegalità, violenza,sopraffazione. La loro memoria è,e dev'essere sempre,la nostra guida\".",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1742569204.349571,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "Premier:Democracy enemy",
+        "en_content": "Meloni: enemy mafias of democracy \"Mafias are a declared enemy of our democracy, an offense to the dignity of the nation. For this reason, with absolute determination and firmness, we reiterate our condemnation to every kind of mafia and we commit ourselves, every day, to fight it. Thus on X the premier, for the Day of the Memory of the Victims \"To honor the sacrifice of the victims means to act to strengthen justice, to ensure security, to defend the freedom of all citizens, to refuse and eradicate all forms of illegality, violence, overwhelm. Their memory is, and it must always be our guide.\"",
+        "content_NER": [
+            {
+                "word": "Meloni",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Day of the Memory of the",
+                "start_char": 310,
+                "end_char": 338,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "SI'ADOZIONI MINORI STRANIERI PER SINGLE Consulta: incostituzionale vietarlo",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1742569204.4250057,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "SIADOZIONI MINORI STRANIERI per SINGLE Consulta: incostituzionale prohibit it",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "SIADOZIONI MINORI STRANIERI",
+                "start_char": 0,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "MATTARELLA: \"MAFIA SI VINCE. STA A NOI\" Giornata nazionale memoria vittime",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1742569204.4314592,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "MATTARELLA: \"MAFIA SI VINCE. STA A NOI\" National Day memory victims",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "VINCE",
+                "start_char": 22,
+                "end_char": 27,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "STA",
+                "start_char": 29,
+                "end_char": 32,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "NOI",
+                "start_char": 35,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "National Day",
+                "start_char": 40,
+                "end_char": 52,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            }
+        ]
+    },
+    {
+        "title": "SVEZIA,DUE ITALIANI MORTI SOTTO VALANGA Sono due fratelli, un terzo illeso",
+        "date_raw": "March 21, 2025",
+        "date": "2025-03-21",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1742569204.4402437,
+        "language": "IT",
+        "source": "Televideo",
+        "local_time": "2025-03-21 16:00:04",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-21T15.00.04",
+        "en_title": "_ They're two brothers, one third unharmed",
+        "en_content": "",
+        "title_NER": [
+            {
+                "word": "two",
+                "start_char": 10,
+                "end_char": 13,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "one third",
+                "start_char": 24,
+                "end_char": 33,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    }
+]
