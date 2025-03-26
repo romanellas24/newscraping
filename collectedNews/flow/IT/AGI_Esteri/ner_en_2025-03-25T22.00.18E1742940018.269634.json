@@ -1,0 +1,3161 @@
+[
+    {
+        "title": "Sroprendenti manifestazioni anti-Hamas a Gaza",
+        "date_raw": "Tue, 25 Mar 2025 20:00:40 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/manifestazioni-anti-hamas-gaza-30602123/",
+        "subtitle": "",
+        "content": "AGI - Centinaia di persone sono scese in strada in serata nel campo profughi di Jabalia,> nella parte ovest della Città di Gaza>, per protestare contro Hamas> e chiedere la fine della guerra. A quanto riferito dal Times of Israel, dalla folla si sono levate grida: \"Vogliamo mangiare\". \nNel pomeriggio un centinaio di persone ha manifestato a Beit Lahia, nel nord della Striscia di Gaza, sempre contro Hamas.&nbsp;\"Hamas fuori\" o \"Hamas terrorista\" hanno urlato i manifestanti a Beit Lahia.> \nIsraele ha ripreso le operazioni militari a Gaza il 18 marzo, dopo aver rotto la tregua siglata a metà gennaio. Secondo quanto riferito da fonti sanitarie ad Al Jazeera. 37 palestinesi sono rimasti uccisi oggi in attacchi dell'Idf nella Striscia.&nbsp;",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1742940018.566085,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Surprising anti-Hamas demonstrations in Gaza",
+        "en_content": "AGI - Hundreds of people went on the road in the evening in the Jabalia refugee camp, > in the west of the City of Gaza >, to protest against Hamas> and ask for the end of the war. As reported by the Times of Israel, the crowd raised shouts: \"We want to eat.\"\nIn the afternoon a hundred people protested at Beit Lahia, in the north of the Gaza Strip, always against Hamas.&nbsp; \"Hamas outside\" or \"Hamas terrorist\" shouted the protesters at Beit Lahia. >\nIsrael resumed military operations in Gaza on 18 March, after breaking the truce signed in mid-January. According to health sources in Al Jazeera. 37 Palestinians were killed today in Idf attacks in the Strip.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 40,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Hundreds",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jabalia",
+                "start_char": 64,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the City of Gaza",
+                "start_char": 103,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 142,
+                "end_char": 147,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Times of Israel",
+                "start_char": 196,
+                "end_char": 215,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the afternoon",
+                "start_char": 263,
+                "end_char": 276,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "hundred",
+                "start_char": 279,
+                "end_char": 286,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Beit Lahia",
+                "start_char": 307,
+                "end_char": 317,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 335,
+                "end_char": 349,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas.&nbsp",
+                "start_char": 366,
+                "end_char": 377,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 380,
+                "end_char": 385,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 399,
+                "end_char": 404,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Beit Lahia",
+                "start_char": 442,
+                "end_char": 452,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 456,
+                "end_char": 462,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza",
+                "start_char": 494,
+                "end_char": 498,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "18 March",
+                "start_char": 502,
+                "end_char": 510,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "mid-January",
+                "start_char": 547,
+                "end_char": 558,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Al Jazeera",
+                "start_char": 591,
+                "end_char": 601,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "37",
+                "start_char": 603,
+                "end_char": 605,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 606,
+                "end_char": 618,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 631,
+                "end_char": 636,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Idf",
+                "start_char": 640,
+                "end_char": 643,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Strip.&nbsp",
+                "start_char": 659,
+                "end_char": 670,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Il popolo di Imamoglu al sesto giorno di protesta",
+        "date_raw": "Tue, 25 Mar 2025 19:50:51 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/popolo-sindaco-istanbul-imamoglu-protesta-30602542/",
+        "subtitle": "",
+        "content": "AGI - È l'ultimo giorno delle manifestazioni> organizzate dal partito Chp,> principale forza di opposizione al governo del presidente Recep Tayyip Erdogan,> per protestare contro la detenzione del sindaco di Istanbul Ekrem Imamoglu.> La gente ha fatto sentire la propria solidarietà al sindaco rispondendo in massa all'appello dell'opposizione e riempendo per il sesto giorno consecutivo la piazza di Sarachane, dinanzi il comune di Istanbul, ma anche della capitale Ankara e di Smirne. \nUn raduno a cui Erdogan ha risposto a distanza. Il leader turco ha ribadito che \"le strade della Turchia non finiranno nelle mani di terroristi\" e ha lanciato un avviso al partito di opposizione repubblicano: \"Vi siete infilati in un vicolo cieco\". Parole dai toni minacciosi che non sembrano però intimorire le decine di migliaia di persone arringate dal segretario del partito Ozgur Ozel.> \nQuest'ultimo ha visitato Imamoglu in carcere, ha portato alla piazza i saluti e ringraziamenti del sindaco e ha ricordato gli 8 giornalisti arrestati e chiesto di boicottare una serie di aziende, centri commerciali, catene di ristorazione e due agenzie di stampa ritenute vicine al governo. Il sesto raduno consecutivo dinanzi il comune è vstato preceduto dalla marcia di migliaia di studenti che sono scesi nuovamente in strada per protestare contro il governo. \nUn colorato serpentone di giovani di diverse università che ha intonati canti e slogan contro Erdogan sotto gli occhi della polizia che non è intervenuta.&nbsp;Non solo gli studenti, molti accademici hanno raccolto l'appello del sindacato Egitim-Sen e hanno aderito a uno sciopero. La magistratura, in tutta risposta, ha aperto un procedimento a carico dello stesso sindacato. \nNelle ultime 48 ore gli scontri sono diminuiti. Nonostante la decisione del prefetto di estendere fino al 29 marzo il divieto di raduni, manifestazioni e cortei la risposta della gente è stata veemente. Allo stesso tempo la reazione della polizia è stata, per fortuna, limitata alla repressione degli scontri e al controllo dei raduni piuttosto che alla dispersione di questi. Una circostanza che ha contribuito negli ultimi due gironi ad abbassare il livello del confronto e dello scontro, cosi' ma anche il numero degli arresti. \nIl ministro degli Interni ha reso noto che dall'inizio delle proteste sono stati arrestati 1,418 manifestanti >(1280 dei quali nei primi 3 giorni). Nella giornata di oggi il pubblico ministero ha chiesto di mantenere la carcerazione preventiva per 206 degli arrestati; per 92 di questi è scattata la detenzione. Tra i detenuti figurano 8 giornalisti che si stavano facendo il proprio lavoro sul campo dalle piazze teatro degli scontri. \nMercoledì è il giorno in cui il ministero degli Interni comunicherà il nome del reggente, non si sa ancora se un commissario, che prenderà il posto di Imamoglu. Per lui, formalmente, è l'ultimo giorno da sindaco. Un momento delicato, l'ennesimo di questi giorni, che potrebbe tradursi in una nuova ondata di rabbia e protesta.",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1742940018.566245,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "The people of Imamoglu on the sixth day of protest",
+        "en_content": "AGI - It is the last day of the events > organized by the party Chp, > the main force of opposition to the government of President Recep Tayip Erdogan, > to protest against the detention of the mayor of Istanbul Ekrem Imamoglu.> The people made their solidarity to the mayor responding massively to the appeal of the opposition and re-empting for the sixth consecutive day the square of Sarachane, in front of the municipality of Istanbul, but also of the capital Ankara and Smirne.\nA rally that Erdogan responded remotely. The Turkish leader reiterated that \"the roads of Turkey will not end in the hands of terrorists\" and launched a notice to the Republican opposition party: \"You got stuck in a dead end.\" Words from threatening tones that do not seem to intimidate the tens of thousands of people enlisted by the party secretary Ozgur Ozel.>\nThe latter visited Imamoglu in prison, brought to the square the greetings and thanks of the mayor and remembered the 8 journalists arrested and asked to boycott a series of companies, shopping centers, catering chains and two press agencies considered close to the government. The sixth consecutive meeting before the municipality was preceded by the march of thousands of students who went back to the street to protest against the government.\nA colorful serpentine of young people from different universities who innate songs and slogans against Erdogan under the eyes of the police who did not intervene.&nbsp; Not only students, many academics have collected the call of the Egitim-Sen trade union and joined a strike. The judiciary, in response, has opened a procedure under the same union.\nIn the last 48 hours the clashes have decreased. Despite the decision of the prefect to extend until March 29 the ban on gatherings, demonstrations and court the response of the people was vehemently. At the same time, the police reaction was, fortunately, limited to the repression of the clashes and the control of the rallies rather than the dispersion of these. A circumstance that has contributed in the last two years to lower the level of confrontation and confrontation, so as well as the number of arrests.\nThe Minister of the Interior announced that from the beginning of the protests 1,418 protesters were arrested >(1280 of which in the first 3 days). In today's day, the public prosecutor has asked to maintain preventive detention for 206 of the arrested; 92 of these took detention. Among the detainees are 8 journalists who were doing their job in the field from the theatre squares of the clashes.\nWednesday is the day when the Ministry of the Interior will communicate the name of the regent, it is not known yet if a commissioner, who will take the place of Imamoglu. For him, formally, it's the last day as mayor. A delicate moment, the eND of these days, which could result in a new wave of anger and protest.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Imamoglu",
+                "start_char": 14,
+                "end_char": 22,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the sixth day",
+                "start_char": 26,
+                "end_char": 39,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the last day",
+                "start_char": 12,
+                "end_char": 24,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chp",
+                "start_char": 64,
+                "end_char": 67,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Recep Tayip Erdogan",
+                "start_char": 131,
+                "end_char": 150,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Istanbul Ekrem Imamoglu",
+                "start_char": 203,
+                "end_char": 226,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the sixth consecutive day",
+                "start_char": 347,
+                "end_char": 372,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sarachane",
+                "start_char": 387,
+                "end_char": 396,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 430,
+                "end_char": 438,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 464,
+                "end_char": 470,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Smirne",
+                "start_char": 475,
+                "end_char": 481,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 496,
+                "end_char": 503,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 528,
+                "end_char": 535,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 573,
+                "end_char": 579,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Republican",
+                "start_char": 650,
+                "end_char": 660,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the tens of thousands",
+                "start_char": 770,
+                "end_char": 791,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ozgur Ozel",
+                "start_char": 834,
+                "end_char": 844,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 866,
+                "end_char": 874,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "8",
+                "start_char": 965,
+                "end_char": 966,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 1070,
+                "end_char": 1073,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "sixth",
+                "start_char": 1129,
+                "end_char": 1134,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "thousands",
+                "start_char": 1208,
+                "end_char": 1217,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1396,
+                "end_char": 1403,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Egitim-Sen",
+                "start_char": 1523,
+                "end_char": 1537,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the last 48 hours",
+                "start_char": 1647,
+                "end_char": 1664,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "March 29",
+                "start_char": 1745,
+                "end_char": 1753,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the last two years",
+                "start_char": 2049,
+                "end_char": 2067,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Interior",
+                "start_char": 2180,
+                "end_char": 2188,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1,418",
+                "start_char": 2239,
+                "end_char": 2244,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1280",
+                "start_char": 2272,
+                "end_char": 2276,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the first 3 days",
+                "start_char": 2289,
+                "end_char": 2305,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 2311,
+                "end_char": 2316,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "206",
+                "start_char": 2393,
+                "end_char": 2396,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "92",
+                "start_char": 2414,
+                "end_char": 2416,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8",
+                "start_char": 2466,
+                "end_char": 2467,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 2559,
+                "end_char": 2568,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the day",
+                "start_char": 2572,
+                "end_char": 2579,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Ministry of the Interior",
+                "start_char": 2585,
+                "end_char": 2613,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 2721,
+                "end_char": 2729,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last day",
+                "start_char": 2755,
+                "end_char": 2767,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the eND of these days",
+                "start_char": 2797,
+                "end_char": 2818,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Francia, scontro in volo tra due Alpha Jet della pattuglia acrobatica",
+        "date_raw": "Tue, 25 Mar 2025 17:38:40 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/francia-scontro-aerei-patrouille-de-france-30600303/",
+        "subtitle": "",
+        "content": "AGI - I tre occupanti dei due aerei entrati in collisione sono stati ritrovati vivi e coscienti dopo lo scontro in volo tra due Alpha Jet> della Patrouille de France> (la pattuglia acrobatica francese) nella Francia orientale>, che non ha causato vittime collaterali, secondo le autorità. Creata nel 1953, la Patrouille de France>, prestigiosa formazione acrobatica aerea famosa soprattutto per le sue dimostrazioni durante le parate del 14 luglio a Parigi, è composta da piloti da caccia accuratamente selezionati. \n<h2>La dinamica dell'incidente</h2> \n&nbsp; \n<div></div> \n&nbsp; \nSecondo quanto riferito dall'aeronautica militare e dalle forze spaziali, i due aerei \"apparentemente si sono scontrati\" alle 15:35 nei pressi di una base aerea. Secondo l'Aeronautica militare i piloti e un passeggero sono riusciti a eiettarsi e sono stati \"trovati coscienti\". \"Sono in condizioni di relativa emergenza\", due sono stati trasportati in ospedale e il terzo, \"multitraumatizzato, è curato dall'esercito\". \"Non ci sono vittime collaterali\", ha precisato la prefettura.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n\"Due Alpha Jet di una formazione di sette membri della Patrouille de France> si sono scontrati durante una manovra\", ha detto il sindaco di Saint-Dizier, Quentin Briere>. Uno degli aerei si è schiantato contro un silo e l'altro \"in una zona paludosa e boscosa proprio dietro\", ha aggiunto il sindaco. Decine di vigili del fuoco erano sul posto a metà pomeriggio, molti dei quali stavano spruzzando acqua su un silo ancora fumante in un sito di proprietà della società di calcestruzzo Calin, vicino alla base aerea. Molti soldati, tra cui gendarmi e poliziotti, hanno continuato ad arrivare sulla scena. \n<h2>Precedenti incidenti</h2> \nIn questa unità d'élite gli incidenti sono rari. Nel 2019, un aereo della Patrouille de France> è uscito di pista a Perpignan (sud-ovest) dopo una sessione di addestramento, ma il suo pilota è riuscito a eiettarsi senza problemi. Nel 2002, un pilota della Patrouille de France> che aveva attivato il seggiolino eiettabile morì perché il suo paracadute non si aprì completamente. Nell'agosto 2024, due piloti dello squadrone di conversione Rafale della base aerea di Saint-Dizier morirono in una collisione tra i loro aerei in Lorena. Due giorni dopo, un aereo d'epoca precipitò in mare durante un'esibizione aerea al largo di Le Lavandou (a sud), causando la morte del pilota. \n&nbsp; \n&nbsp;",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1742940018.5663872,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "France, flight clash between two Alpha Jets of acrobatic patrol",
+        "en_content": "AGI - The three occupants of the two planes collided were found alive and conscientious after the flight between two Alpha Jet> of the Patrouille de France> (the French acrobatic patrol) in eastern France, which did not cause side casualties, according to the authorities. Created in 1953, the Patrouille de France>, a prestigious air acrobatic training famous especially for its demonstrations during the parades of July 14 in Paris, is composed of carefully selected fighter pilots.\n<h2> The dynamics of the accident\n&nbsp;\n<div </div\n&nbsp;\nAccording to the military air force and space forces, the two planes \"apparently clashed\" at 15:35 near an air base. According to the Air Force, the pilots and a passenger managed to eject and were \"too conscious\". \"They are in relative emergency conditions\", two were transported to the hospital and the third, \"multitraumatized, is treated by the army\". \"There are no side victims,\" said the prefecture.&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n\"Two Alpha Jets of seven members of the Patrouille de France> met during a manoeuvre,\" said the mayor of Saint-Dizier, Quentin Briere>. One of the planes crashed into a silo and the other \"in a swampy and woody area right behind\", added the mayor. Tens of firefighters were on the spot in the middle of the afternoon, many of which were spraying water on a still smoking silo on a site owned by the concrete company Calin, near the airbase. Many soldiers, including gendarmes and cops, continued to arrive at the scene.\n<h2> accidents\nIn this elite unit accidents are rare. In 2019, a plane of the Patrouille de France> went out of track in Perpignan (southwest) after a training session, but his pilot managed to eject without problems. In 2002, a pilot of the Patrouille de France> who had activated the ejectable seat died because his parachute did not open completely. In August 2024, two pilots of the Rafale Conversion Squadron of the Saint-Dizier Air Base died in a collision between their planes in Lorraine. Two days later, a period plane crashed into the sea during an air show off Le Lavandou (south), causing the pilot's death.\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "France",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "between two",
+                "start_char": 21,
+                "end_char": 32,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "three",
+                "start_char": 10,
+                "end_char": 15,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 33,
+                "end_char": 36,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 113,
+                "end_char": 116,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Alpha Jet",
+                "start_char": 117,
+                "end_char": 126,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "the Patrouille de France",
+                "start_char": 131,
+                "end_char": 155,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "French",
+                "start_char": 162,
+                "end_char": 168,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "France",
+                "start_char": 198,
+                "end_char": 204,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1953",
+                "start_char": 284,
+                "end_char": 288,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Patrouille de France",
+                "start_char": 290,
+                "end_char": 314,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "July 14",
+                "start_char": 417,
+                "end_char": 424,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Paris",
+                "start_char": 428,
+                "end_char": 433,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 602,
+                "end_char": 605,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15:35",
+                "start_char": 637,
+                "end_char": 642,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Air Force",
+                "start_char": 674,
+                "end_char": 687,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 804,
+                "end_char": 807,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "third",
+                "start_char": 849,
+                "end_char": 854,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "prefecture.&nbsp",
+                "start_char": 938,
+                "end_char": 954,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Two",
+                "start_char": 982,
+                "end_char": 985,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "seven",
+                "start_char": 1000,
+                "end_char": 1005,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Patrouille de France",
+                "start_char": 1017,
+                "end_char": 1041,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Saint-Dizier",
+                "start_char": 1086,
+                "end_char": 1098,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Quentin Briere",
+                "start_char": 1100,
+                "end_char": 1114,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "One",
+                "start_char": 1117,
+                "end_char": 1120,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tens",
+                "start_char": 1229,
+                "end_char": 1233,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Calin",
+                "start_char": 1397,
+                "end_char": 1402,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2019",
+                "start_char": 1558,
+                "end_char": 1562,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Patrouille de France",
+                "start_char": 1575,
+                "end_char": 1599,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Perpignan",
+                "start_char": 1622,
+                "end_char": 1631,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2002",
+                "start_char": 1722,
+                "end_char": 1726,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Patrouille de France",
+                "start_char": 1739,
+                "end_char": 1763,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "August 2024",
+                "start_char": 1857,
+                "end_char": 1868,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 1870,
+                "end_char": 1873,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Rafale Conversion Squadron",
+                "start_char": 1884,
+                "end_char": 1914,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Saint-Dizier Air Base",
+                "start_char": 1918,
+                "end_char": 1943,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Lorraine",
+                "start_char": 1988,
+                "end_char": 1996,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Two days later",
+                "start_char": 1998,
+                "end_char": 2012,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Le Lavandou",
+                "start_char": 2073,
+                "end_char": 2084,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            }
+        ]
+    },
+    {
+        "title": "La Danimarca rafforza l'esercito e punta sulla leva delle donne",
+        "date_raw": "Tue, 25 Mar 2025 17:09:28 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/danimarca-leva-militare-donne-2025-30599458/",
+        "subtitle": "",
+        "content": "AGI - Le giovani donne danesi potranno essere chiamate al servizio militare> a partire dal 1 luglio 2025, l'ha annunciato il ministro della Difesa del Paese scandinavo. \"Alla luce dell'attuale politica di difesa e della situazione politica di sicurezza, le forze armate> hanno bisogno di reclutare di più, ed è quindi un segnale importante anticipare la piena parità tra donne e uomini al 1 luglio 2025\", ha dichiarato il ministro della Difesa Troels Lund Poulsen>. Inizialmente, il nuovo accordo quadro, che aumenta la durata del servizio di leva da quattro a 11 mesi, prevedeva che le giovani donne potessero essere richiamate a partire dal 2027. \n<h2>la giornata della difesa e la lotteria</h2> \nIn pratica, le donne che compiranno 18 anni> dopo il 1 luglio 2025 saranno chiamate a partecipare alla Giornata della Difesa 2026,> un evento annuale durante il quale i giovani devono partecipare a una lotteria. Estraggono un numero che determina la possibilità di prestare o meno servizio nell'esercito, nel caso in cui non ci siano abbastanza volontari. \n<h2>aumento della spesa per la difesa</h2> \nDi fronte alla crescente minaccia rappresentata dalla Russia, a febbraio la Danimarca ha annunciato di voler stanziare 6,8 miliardi di euro in più per la spesa della difesa nei prossimi due anni. L'anno precedente aveva già aumentato la spesa di 5,4 miliardi di euro.",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1742940018.5665185,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Denmark strengthens the army and focuses on women's leverage",
+        "en_content": "AGI - Danish young women can be called to military service > from 1 July 2025, the Scandinavian country's defence minister announced. \"In the light of the current policy of defence and security policy, the armed forces need to recruit more, and it is therefore an important signal to anticipate full equality between women and men on 1 July 2025,\" said Defense Minister Troels Lund Poulsen. Initially, the new framework agreement, which increases the duration of the lever service from four to 11 months, provided that young women could be recalled from 2027.\n<h2> day of defence and lottery\nIn practice, 18-year-old women after 1 July 2025 will be called to attend Defense Day 2026, > an annual event during which young people must participate in a lottery. They extract a number that determines the possibility of service in the army, in case there are not enough volunteers.\nIncrease in defence expenditure\nIn the face of the growing threat posed by Russia, Denmark announced in February that it wanted to allocate €6.8 billion more for defence spending over the next two years. The previous year had already increased the expenditure of 5.4 billion euros.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Denmark",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Danish",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1 July 2025",
+                "start_char": 66,
+                "end_char": 77,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Scandinavian",
+                "start_char": 83,
+                "end_char": 95,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "1 July 2025",
+                "start_char": 334,
+                "end_char": 345,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Defense",
+                "start_char": 353,
+                "end_char": 360,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Troels Lund Poulsen",
+                "start_char": 370,
+                "end_char": 389,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "four to 11 months",
+                "start_char": 486,
+                "end_char": 503,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2027",
+                "start_char": 554,
+                "end_char": 558,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "18-year-old",
+                "start_char": 605,
+                "end_char": 616,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1 July 2025",
+                "start_char": 629,
+                "end_char": 640,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Defense Day 2026",
+                "start_char": 666,
+                "end_char": 682,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "annual",
+                "start_char": 689,
+                "end_char": 695,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russia",
+                "start_char": 953,
+                "end_char": 959,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 961,
+                "end_char": 968,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "February",
+                "start_char": 982,
+                "end_char": 990,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "€6.8 billion",
+                "start_char": 1018,
+                "end_char": 1030,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "the next two years",
+                "start_char": 1062,
+                "end_char": 1080,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The previous year",
+                "start_char": 1082,
+                "end_char": 1099,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "5.4 billion euros",
+                "start_char": 1141,
+                "end_char": 1158,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            }
+        ]
+    },
+    {
+        "title": "Kiev usa per la prima volta il missile Long Neptune sulla Crimea. Mosca gela gli Usa sulla tregua",
+        "date_raw": "Tue, 25 Mar 2025 16:53:28 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/ucraina-missile-long-neptune-crimea-kiev-30596706/",
+        "subtitle": "",
+        "content": "AGI - Le forze armate di Kiev hanno utilizzato per la prima volta il Long Neptune,> il nuovo missile di produzione ucraina>, per colpire una base militare russa in Crimea. Lo ha detto il ministro delle industrie strategiche dell'Ucraina, Herman Smetanin, in un'intervista a Nettavisen rilanciata da Suspilne. La stessa arma era stata utilizzata per attaccare la raffineria russa di Tuapse, situata sulla costa del Mar Nero, a circa 600 km dal territorio ucraino. \nLa messa a punto del Long Neptune era stata annunciata alcune settimane fa dal presidente ucraino Volodymyr Zelensky. Il missile, con una gittata di circa mille chilometri, in linea di principio sarebbe in grado di colpire direttamente Mosca. \n<div></div> \n<h2>Kiev: colpita una base nel Kursk, 30 russi feriti o uccisi</h2> \nLe forze armate ucraine hanno rivendicato di aver colpito un gruppo di militari russi nell'oblast di Kursk, uccidendo o ferendo circa 30 soldati. Lo dice lo stato maggiore di Kiev secondo i media ucraini. \"L'Aeronautica delle Forze Armate dell'Ucraina ha colpito con successo l'area di Kondratovka nell'Oblast di Kursk, dove era concentrato il personale nemico. L'obiettivo è stato completamente distrutto e fino a 30 occupanti sono stati uccisi o feriti\", scrive lo stato maggiore su Telegram. Secondo Kiev l'obiettivo colpito \"riduce la capacità dei russi di condurre operazioni di combattimento nelle oblast' di Sumy e Kursk\". \n<div></div> \n<h2>Usa, ok di Kiev e Mosca a un cessate il fuoco parziale nel Mar Nero</h2> \nGli Stati Uniti concordano un cessate il fuoco parziale con Russia e Ucraina per garantire una \"navigazione sicura nel Mar Nero\" e svilupperanno \"misure\" per fermare gli attacchi alle infrastrutture energetiche. Lo fa sapere la Casa Bianca che ha appena pubblicato i resoconti dei colloqui di Riad con Russia e Ucraina.<br> Gli Usa annunciano di fatto un accordo per un cessate il fuoco parziale in mare \"per garantire una navigazione sicura, eliminare l'uso della forza e impedire l'uso di navi commerciali per scopi militari nel Mar Nero\". In entrambe le dichiarazioni si afferma inoltre che i due Paesi hanno concordato di \"sviluppare misure per l'attuazione\" del precedente accordo per fermare gli attacchi contro le infrastrutture energetiche. L'Ucraina e la Russia \"continueranno a lavorare per raggiungere una pace duratura\", si legge nella dichiarazione della Casa Bianca.&nbsp; \n<h2>Ma il Cremlino frena, solo dopo la revoca delle sanzioni</h2> \nGli accordi annunciati da Washington su una tregua sul Mar Nero tra Kiev e Mosca entreranno in vigore solo dopo che le restrizioni occidentali sul commercio di grano e fertilizzanti russi saranno \"revocate\". Lo ha chiarito il Cremlino. La Russia è in attesa della \"revoca delle sanzioni\", in particolare quelle imposte alla sua grande banca agricola Rosselkhozbank, su alcuni \"produttori ed esportatori di prodotti alimentari e fertilizzanti\", nonché quelli rivolti alle \"compagnie di assicurazione del carico\", si legge in una nota.&nbsp; \n&nbsp;",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1742940018.5666504,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Kiev first uses the Long Neptune missile on Crimea. Moscow gels the U.S. on the truce",
+        "en_content": "AGI - The armed forces of Kiev used for the first time the Long Neptune, > the new Ukrainian production missile, to hit a Russian military base in Crimea. This was said by the Minister of Strategic Industries of Ukraine, Herman Smetanin, in an interview with Nettavisen raised by Suspilne. The same weapon was used to attack the Russian refinery of Tuapse, located on the Black Sea coast, about 600 km from the Ukrainian territory.\nThe development of the Long Neptune was announced a few weeks ago by Ukrainian President Volodymyr Zelensky. The missile, with a range of about a thousand kilometers, in principle would be able to hit Moscow directly.\n<div </div\n<h2>Kiev: hit a base in Kursk, 30 Russians injured or killed\nThe Ukrainian armed forces claimed to have hit a group of Russian military in the Kursk oblast, killing or wounding about 30 soldiers. This is what the major state of Kiev says according to Ukrainian media. \"Ukraine Air Force hit the Kondratovka area successfully in the Kursk Oblast, where the enemy personnel were concentrated. The goal was completely destroyed and up to 30 occupants were killed or injured,\" writes the major state on Telegram. According to Kiev, the target hit \"reduces Russian ability to conduct combat operations in Sumy and Kursk oblasts\".\n<div </div\n<h2>Usa, ok of Kiev and Moscow to a partial ceasefire in the Black Sea\nThe United States agrees a partial ceasefire with Russia and Ukraine to ensure a \"safe navigation in the Black Sea\" and will develop \"measures\" to stop attacks on energy infrastructure. The White House has just published reports of Riad talks with Russia and Ukraine.<br> The U.S. in fact announce an agreement for a partial ceasefire at sea \"to ensure safe navigation, eliminate the use of force and prevent the use of commercial ships for military purposes in the Black Sea\". In both statements it is also stated that the two countries agreed to \"develop measures for implementation\" of the previous agreement to stop attacks on energy infrastructure. Ukraine and Russia \"will continue to work to achieve lasting peace\", reads in the White House statement.&nbsp;\n<h2>But the Kremlin only stops after revocation of sanctions</h2>\nThe agreements announced by Washington on a truce on the Black Sea between Kiev and Moscow will enter into force only after Western restrictions on the trade of wheat and Russian fertilizers will be \"revoked\". The Kremlin made it clear. Russia is waiting for the \"revoke of sanctions\", in particular those imposed to its large Rosselkhozbank agricultural bank, on some \"producers and exporters of food and fertilizers\", as well as those aimed at \"load insurance companies\", read in a note.&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 5,
+                "end_char": 10,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Crimea",
+                "start_char": 44,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 52,
+                "end_char": 58,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 68,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Kiev",
+                "start_char": 26,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 44,
+                "end_char": 49,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Long Neptune",
+                "start_char": 55,
+                "end_char": 71,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 83,
+                "end_char": 92,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 122,
+                "end_char": 129,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Crimea",
+                "start_char": 147,
+                "end_char": 153,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Minister of Strategic Industries of Ukraine",
+                "start_char": 172,
+                "end_char": 219,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Herman Smetanin",
+                "start_char": 221,
+                "end_char": 236,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Nettavisen",
+                "start_char": 259,
+                "end_char": 269,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 329,
+                "end_char": 336,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tuapse",
+                "start_char": 349,
+                "end_char": 355,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 368,
+                "end_char": 381,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "about 600 km",
+                "start_char": 389,
+                "end_char": 401,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 411,
+                "end_char": 420,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Long Neptune",
+                "start_char": 451,
+                "end_char": 467,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "a few weeks ago",
+                "start_char": 482,
+                "end_char": 497,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 501,
+                "end_char": 510,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Volodymyr Zelensky",
+                "start_char": 521,
+                "end_char": 539,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "about a thousand kilometers",
+                "start_char": 570,
+                "end_char": 597,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 633,
+                "end_char": 639,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kursk",
+                "start_char": 685,
+                "end_char": 690,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "30",
+                "start_char": 692,
+                "end_char": 694,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Russians",
+                "start_char": 695,
+                "end_char": 703,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 726,
+                "end_char": 735,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 780,
+                "end_char": 787,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kursk",
+                "start_char": 804,
+                "end_char": 809,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "about 30",
+                "start_char": 838,
+                "end_char": 846,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 889,
+                "end_char": 893,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 912,
+                "end_char": 921,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine Air Force",
+                "start_char": 930,
+                "end_char": 947,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kondratovka",
+                "start_char": 956,
+                "end_char": 967,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "up to 30",
+                "start_char": 1090,
+                "end_char": 1098,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Telegram",
+                "start_char": 1160,
+                "end_char": 1168,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 1183,
+                "end_char": 1187,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1213,
+                "end_char": 1220,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Sumy",
+                "start_char": 1261,
+                "end_char": 1265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kursk",
+                "start_char": 1270,
+                "end_char": 1275,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Usa",
+                "start_char": 1301,
+                "end_char": 1304,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 1312,
+                "end_char": 1316,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 1321,
+                "end_char": 1327,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 1354,
+                "end_char": 1367,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "The United States",
+                "start_char": 1368,
+                "end_char": 1385,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1418,
+                "end_char": 1424,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1429,
+                "end_char": 1436,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 1469,
+                "end_char": 1482,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "The White House",
+                "start_char": 1554,
+                "end_char": 1569,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Riad",
+                "start_char": 1600,
+                "end_char": 1604,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1616,
+                "end_char": 1622,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine.<br",
+                "start_char": 1627,
+                "end_char": 1638,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 1644,
+                "end_char": 1648,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 1830,
+                "end_char": 1843,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "two",
+                "start_char": 1892,
+                "end_char": 1895,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2022,
+                "end_char": 2029,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 2034,
+                "end_char": 2040,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the White House",
+                "start_char": 2100,
+                "end_char": 2115,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 2145,
+                "end_char": 2152,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Washington",
+                "start_char": 2227,
+                "end_char": 2237,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 2252,
+                "end_char": 2265,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 2274,
+                "end_char": 2278,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 2283,
+                "end_char": 2289,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 2370,
+                "end_char": 2377,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 2413,
+                "end_char": 2420,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 2436,
+                "end_char": 2442,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rosselkhozbank",
+                "start_char": 2526,
+                "end_char": 2540,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Depardieu alla sbarra. L'attore testimonia, tra commozione e volgarità",
+        "date_raw": "Tue, 25 Mar 2025 16:13:58 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/depardieu-processo-accuse-violenza-30598309/",
+        "subtitle": "",
+        "content": "AGI - Nell'aula del tribunale di Parigi, clima rovente per la seconda giornata del processo a carico di Gerard Depardieu>, accusato di violenze sessuali da due donne sul set del film \"Les Volets verts\" di Jean Becker nel 2021. È in corso l'attesa testimonianza dell'imputato eccellente, chiamato alla sbarra per fornire la sua versione dei fatti e rispondere alle domande dei giudici. \"Naturalmente ho delle dichiarazioni da fare. Ci vorrà sicuramente del tempo, è molto emozionante essere qui. Già ieri (lunedì) ho sentito parole che non capivo e tanta rabbia, molto difficile per la persona iperemotiva che sono, ma farò del mio meglio\", ha esordito Depardieu>. \n<h2>La difesa di Depardieu e i testimoni</h2> \nL'attore 76enne è arrivato al tribunale di Parigi accompagnato dal suo avvocato, Jérémie Assous, che ha dichiarato che \"le querelanti temono la verità\". Tra i presenti in aula, c'è l'attore Vincent Perez, Karine Silla - madre della figlia di Depardieu> - Lisa Azuelos, Émilie Frèche e David Foenkinos. In questa seconda giornata - il giudice ha già avvertito che il processo potrebbe durare più dei due giorni previsti - verranno ascoltati i testimoni, tra cui l'attrice Fanny Ardant, amica dell'attore, che ha interpretato il ruolo femminile principale in \"Les Volets verts\". \n<h2>La procedura del processo</h2> \nPer questa seconda giornata, il presidente della corte ha spiegato che \"le istruzioni saranno impartite in due fasi\". Per cominciare, ha fornito una relazione riassuntiva sui fatti riferiti dalla prima querelante, per poi ascoltare Depardieu> sui fatti contestati, quindi procederà con una serie di domande. Ripeterà la stessa procedura per la seconda querelante. Ad aver denunciato il mostro sacro del cinema francese caduto in disgrazia sono una scenografa di 54 anni e un'assistente alla regia di 34 anni. Entrambe le donne sarebbero state vittime di attacchi verbali e di violenze sessuali da parte di Depardieu>.",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1742940018.5667765,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Depardieu to the bar. The actor testifies, between emotion and vulgarity",
+        "en_content": "AGI - In the courtroom of Paris, a hot climate for the second day of the trial by Gerard Depardieu>, accused of sexual violence by two women on the set of the film \"Les Volets verts\" by Jean Becker in 2021. Expected testimony of the excellent defendant, called to the bar to provide his version of the facts and answer the questions of the judges. \"Of course I have statements to make. It will certainly take some time, it is very exciting to be here. Already yesterday (Monday) I heard words that I did not understand and so much anger, very difficult for the hyperemotional person that I am, but I will do my best,\" Depardieu began.\n<h2> Depardieu defense and witnesses\nThe 76-year-old actor arrived at the Paris court accompanied by his lawyer, Jérémie Assous, who declared that \"the plaintiffs fear the truth.\" Among the present in the classroom, there is actor Vincent Perez, Karine Silla - mother of the daughter of Depardieu> - Lisa Azuelos, Émilie Frèche and David Foenkinos. On this second day - the judge has already warned that the trial could last more than two days - witnesses will be heard, including actress Fanny Ardant, friend of the actor, who played the main female role in \"Les Volets verts\".\n<h2> Process procedure\nFor this second day, the court president explained that \"the instructions will be given in two stages\". To begin with, he provided a summary report on the facts referred to by the first plaintiff, and then listened to Depardieu> on the disputed facts, so he will proceed with a number of questions. It will repeat the same procedure for the second plaintiff. To have denounced the sacred monster of French cinema fallen into disgrace I am a 54-year-old scenographer and a 34-year-old director. Both women were victims of verbal attacks and sexual violence by Depardieu.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Depardieu",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Paris",
+                "start_char": 26,
+                "end_char": 31,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the second day",
+                "start_char": 51,
+                "end_char": 65,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Gerard Depardieu",
+                "start_char": 82,
+                "end_char": 98,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 131,
+                "end_char": 134,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Les Volets",
+                "start_char": 165,
+                "end_char": 175,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Jean Becker",
+                "start_char": 186,
+                "end_char": 197,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2021",
+                "start_char": 201,
+                "end_char": 205,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 460,
+                "end_char": 469,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Monday",
+                "start_char": 471,
+                "end_char": 477,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Depardieu",
+                "start_char": 618,
+                "end_char": 627,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "76-year-old",
+                "start_char": 676,
+                "end_char": 687,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Paris",
+                "start_char": 709,
+                "end_char": 714,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jérémie Assous",
+                "start_char": 748,
+                "end_char": 762,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vincent Perez",
+                "start_char": 866,
+                "end_char": 879,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Karine Silla",
+                "start_char": 881,
+                "end_char": 893,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Depardieu",
+                "start_char": 922,
+                "end_char": 931,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lisa Azuelos",
+                "start_char": 935,
+                "end_char": 947,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Émilie Frèche",
+                "start_char": 949,
+                "end_char": 962,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "David Foenkinos",
+                "start_char": 967,
+                "end_char": 982,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this second day",
+                "start_char": 987,
+                "end_char": 1002,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "more than two days",
+                "start_char": 1060,
+                "end_char": 1078,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Fanny Ardant",
+                "start_char": 1124,
+                "end_char": 1136,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Les Volets",
+                "start_char": 1195,
+                "end_char": 1205,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "this second day",
+                "start_char": 1241,
+                "end_char": 1256,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 1328,
+                "end_char": 1331,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 1417,
+                "end_char": 1422,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Depardieu",
+                "start_char": 1455,
+                "end_char": 1464,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "second",
+                "start_char": 1578,
+                "end_char": 1584,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "French",
+                "start_char": 1636,
+                "end_char": 1642,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "54-year-old",
+                "start_char": 1678,
+                "end_char": 1689,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "34-year-old",
+                "start_char": 1709,
+                "end_char": 1720,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Depardieu",
+                "start_char": 1796,
+                "end_char": 1805,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "L'Europa di nuovo nel mirino di Vance. \"Odio salvarla\"",
+        "date_raw": "Tue, 25 Mar 2025 14:44:56 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/jd-vance-europa-odio-salvare-di-nuovo-30597120/",
+        "subtitle": "",
+        "content": "AGI - Che sia sul palco di una conferenza, davanti alle telecamere o scriva in una chat che sarebbe dovuta restare riservata, JD Vance non fa mistero della sua scarsa simpatia per l'Europa, in linea del resto con Donald Trump. E nella conversazione sull'imminente attacco in Yemen, cui era stato aggiunto per errore il direttore di The Atlantic, Jeffrey Goldberg, il vicepresidente americano è particolarmente duro: \"Odio salvare di nuovo l'Europa>\", dice nello scambio con il segretario alla Difesa, Pete Hegseth. Il riferimento è all'imminente raid americano in Yemen, per spingere gli Houthi a mettere fine agli attacchi contro le navi commerciali in transito nel Mar Rosso. Vance esprime chiaramente dubbi sull'operazione che servirebbe più gli interessi europei, visto che dal Mar Rosso, dallo stretto di Bab-el-Mandeb e dal Golfo di Aden passa il 40% del traffico commerciale europeo contro solo il 3% di quello americano.<br> \"Penso che stiamo commettendo un errore\", dice il vicepresidente, esprimendo dubbi sul fatto che Trump ne sia consapevole, secondo la ricostruzione di Goldberg che, davanti al regalo di uno scoop inatteso, ha pubblicato foto delle schermate degli scambi tra Vance, Hegseth e il consigliere per la sicurezza nazionale Mike Waltz, che lo aveva aggiunto alla chat per errore. Vance teme che l'attacco sia \"in contraddizione\" con le bacchettate di Trump all'Europa. Nonostante questo, \"se pensi che dobbiamo farlo, andiamo. Odio solo salvare di nuovo l'Europa\", chiarisce Vance a Hegseth che si affretta a dirsi sulla stessa linea. \"Condivido pienamente il tuo disgusto per un'Europa scroccona\", scrive il capo del Pentagono, secondo cui, arrivati a quel punto, bisogna almeno controllare la narrativa. Dunque, bisogna dare la colpa all'ex presidente Joe Biden per avere fallito con gli Houthi e all'Iran per il loro sostegno ai ribelli.<br> La scarsa simpatia di Vance verso l'Europa >non è una novità. Pochi giorni dopo l'insediamento, <a href=\"https://www.agi.it/estero/news/2025-02-14/vance-attacca-ue-valori-liberta-censura-30019499/\">dal palco della conferenza di Monaco</a>, non lesinò critiche al vecchio continente: \"La minaccia che mi preoccupa di più per l'Europa non è la Russia. Non è la Cina. Non è nessun altro attore esterno. Quello che mi preoccupa è la minaccia interna - il ritiro dell'Europa da alcuni dei suoi valori più fondamentali, valori che sono condivisi con gli Stati Uniti d'America\", aveva detto. E sulla stessa linea una recente intervista a Fox News: \"L'Europa rischia di arrivare a un suicidio della sua civiltà\".",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1742940018.5669014,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Europe again in the viewpoint of Vance. \"O God save her\"",
+        "en_content": "AGI - Whether it's on the stage of a conference, in front of the cameras or writing in a chat that should be kept confidential, JD Vance does not make a mystery of his lack of sympathy for Europe, in line with Donald Trump. And in the conversation about the imminent attack in Yemen, which had been added by mistake the director of The Atlantic, Jeffrey Goldberg, the American vice president is particularly hard: \"Ode to save Europe again,\" says in the exchange with the Secretary of Defense, Pete Hegseth. The reference is to the upcoming U.S. raid in Yemen, to push the Houthi to end attacks on commercial ships in transit in the Red Sea. Vance clearly expresses doubts about the operation that would serve more European interests, since from the Red Sea, from the Bab-el-Mandeb Strait and from the Gulf of Aden passes 40% of the European commercial traffic against only 3% of the American one.<br> \"I think we are making a mistake\", says the vice president, expressing doubts about the fact that Trump fencing it, according to the reconstruction of Goldberg that, in front of a scoopeth Vance fears that the attack is \"in contradiction\" with Trump's wands to Europe. Despite this, \"if you think we have to do this, let's go. I just hate to save Europe again,\" explains Vance at Hegseth, who rushes to say on the same line. \"I fully share your disgust for a scrupulous Europe,\" writes the head of the Pentagon, according to which, at that point, you must at least control the narrative. Therefore, we must blame former President Joe Biden for failing with the Houthi and Iran for their support to the rebels.<br> Vance's poor sympathy for Europe is not new. A few days after the settlement, <a href=\"https://www.agi.it/estero/news/2025-02-14/vance-attach-ue-valori-liberta-censura-30019499/\"> from the stage of the conference in Monaco</a>, did not criticize the old continent: \"The threat that worries me more about Europe is not Russia. It's not China. He's no other external actor. What worries me is the internal threat - the withdrawal of Europe from some of its most fundamental values, values that are shared with the United States of America,\" he said. And on the same line a recent interview with Fox News: \"Europe risks coming to a suicide of its civilization.\"",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Europe",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Vance",
+                "start_char": 33,
+                "end_char": 38,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "JD Vance",
+                "start_char": 128,
+                "end_char": 136,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 189,
+                "end_char": 195,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 210,
+                "end_char": 222,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yemen",
+                "start_char": 277,
+                "end_char": 282,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 336,
+                "end_char": 344,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Jeffrey Goldberg",
+                "start_char": 346,
+                "end_char": 362,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "American",
+                "start_char": 368,
+                "end_char": 376,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Europe",
+                "start_char": 427,
+                "end_char": 433,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Defense",
+                "start_char": 485,
+                "end_char": 492,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pete Hegseth",
+                "start_char": 494,
+                "end_char": 506,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 541,
+                "end_char": 545,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yemen",
+                "start_char": 554,
+                "end_char": 559,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 573,
+                "end_char": 579,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Red Sea",
+                "start_char": 629,
+                "end_char": 640,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Vance",
+                "start_char": 642,
+                "end_char": 647,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "European",
+                "start_char": 715,
+                "end_char": 723,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Red Sea",
+                "start_char": 746,
+                "end_char": 757,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Gulf of Aden",
+                "start_char": 798,
+                "end_char": 814,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "40%",
+                "start_char": 822,
+                "end_char": 825,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "European",
+                "start_char": 833,
+                "end_char": 841,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "only 3%",
+                "start_char": 869,
+                "end_char": 876,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "American",
+                "start_char": 884,
+                "end_char": 892,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1000,
+                "end_char": 1005,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Goldberg",
+                "start_char": 1053,
+                "end_char": 1061,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vance",
+                "start_char": 1091,
+                "end_char": 1096,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1146,
+                "end_char": 1151,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 1163,
+                "end_char": 1169,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1249,
+                "end_char": 1255,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Vance",
+                "start_char": 1273,
+                "end_char": 1278,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hegseth",
+                "start_char": 1282,
+                "end_char": 1289,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1372,
+                "end_char": 1378,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Pentagon",
+                "start_char": 1404,
+                "end_char": 1412,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Joe Biden",
+                "start_char": 1532,
+                "end_char": 1541,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Houthi",
+                "start_char": 1563,
+                "end_char": 1569,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Iran",
+                "start_char": 1574,
+                "end_char": 1578,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 1616,
+                "end_char": 1621,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1642,
+                "end_char": 1648,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "A few days",
+                "start_char": 1661,
+                "end_char": 1671,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Monaco</a",
+                "start_char": 1832,
+                "end_char": 1841,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 1920,
+                "end_char": 1926,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1934,
+                "end_char": 1940,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 1951,
+                "end_char": 1956,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 2047,
+                "end_char": 2053,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the United States of America",
+                "start_char": 2124,
+                "end_char": 2152,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Fox News",
+                "start_char": 2209,
+                "end_char": 2217,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 2220,
+                "end_char": 2226,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ]
+    },
+    {
+        "title": "L'Europa cambia le regole: patente di guida a 17 anni ",
+        "date_raw": "Tue, 25 Mar 2025 13:29:27 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/europa-patente-guida-17-anni-30595472/",
+        "subtitle": "",
+        "content": "AGI - Il Consiglio e il Parlamento europeo hanno raggiunto un accordo politico sull'aggiornamento della direttiva sulla patente di guida che prevede, tra l'altro, la guida accompagnata con una patente ottenuta all'età di 17 anni>; una durata di 15 anni >del documento e una versione uniforme e digitale delle patenti. In primo luogo, entro la fine del 2030, sarà disponibile una patente di guida uniforme per tutti i cittadini dell'Ue, inserita nel futuro portafoglio europeo di identità digitale (simile all'attuale <a href=\"https://www.agi.it/politica/video/2024-12-05/come-funziona-it-wallet-29033414/\">It Wallet italiano</a>). \nLa patente di guida digitale sarà riconosciuta in tutti gli Stati membri dell'Ue. Allo stesso tempo, gli utenti della strada avranno il diritto di richiedere una patente di guida fisica. Entrambe le versioni, fisiche e digitali>, saranno valide per guidare autovetture e motociclette più a lungo del caso attuale, vale a dire 15 anni dalla data di rilascio, tranne da quando la patente di guida viene utilizzata come carta d'identità (10 anni). In secondo luogo, per migliorare la sicurezza stradale, si farà un passo avanti verso l'armonizzazione dei processi di screening medico applicati negli Stati membri. Al momento del rilascio delle patenti di guida, tutti gli Stati membri richiederanno una visita medica o uno screening basato su un'autovalutazione. Anche le regole relative ai periodi di prova per i conducenti alle prime armi saranno armonizzate: sarà stabilito un periodo di prova di almeno due anni. \nDurante questo periodo di prova, dovrebbero essere applicate regole o sanzioni più >severe per la guida sotto l'effetto di alcol o droghe, fatte salve le competenze degli Stati membri di regolare il comportamento dei conducenti. Per affrontare il problema della carenza di conducenti nelle categorie professionali e allo stesso tempo migliorare la sicurezza stradale, sarà introdotto un regime per la guida accompagnata con una patente (C). Tale regime offre ai richiedenti la possibilità di acquisire patenti di guida nelle categorie pertinenti prima del raggiungimento del limite di età minima richiesto, accompagnati da un autista esperto. Il programma sarà offerto in tutti gli Stati membri per le autovetture. \nGli Stati membri possono offrire questa possibilità anche per furgoni e camion. Infine, saranno apportate anche modifiche per rendere più facile per i cittadini acquisire una patente di guida quando vivono in uno Stato membro diverso dal loro Stato membro di cittadinanza. Sarà possibile sostenere test e ottenere una licenza rilasciata nello Stato membro di cittadinanza, se non ci sarà la possibilità di sostenere test in una delle lingue ufficiali dello Stato membro di cittadinanza. L'accordo provvisorio dovrà ora essere approvato dai rappresentanti degli Stati membri in seno al Consiglio (Coreper) e dal Parlamento europeo.",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1742940018.5670252,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Europe changes the rules: 17 year driving licence",
+        "en_content": "AGI - The Council and the European Parliament have reached a political agreement on updating the driving licence directive which provides, among other things, a guide accompanied by a licence obtained at the age of 17. a duration of 15 years > of the document and a uniform and digital version of the licences. Firstly, by the end of 2030, a uniform driving licence will be available for all EU citizens, included in the future European digital identity portfolio (similar to the current <a href=\"https://www.agi.it/politica/video/2024-12-05/come-function-it-wallet-29033414/\"> It Wallet italiano</a>).\nThe digital driving licence will be recognised in all EU Member States. At the same time, road users will have the right to request a physical driving license. Both versions, physical and digital, will be valid to drive cars and motorcycles longer than the present case, that is 15 years from the date of release, except when the driving license is used as an identity card (10 years). Secondly, in order to improve road safety, a step will be taken towards harmonizing the medical screening processes applied in the Member States. When driving licences are issued, all Member States will require medical examination or screening based on self-assessment. The rules for testing periods for first-arm drivers will also be harmonized: a trial period of at least two years will be established.\nDuring this period of testing, rules or penalties should be applied more >severe for driving under the effect of alcohol or drugs, subject to the competences of the Member States to regulate the conduct of drivers. To address the problem of the lack of drivers in the professional categories and at the same time improve road safety, a driving regime will be introduced with a license (C). This scheme offers applicants the opportunity to acquire driving licences in the relevant categories before reaching the minimum age limit required, accompanied by an experienced driver. The programme will be offered in all Member States for passenger cars.\nMember States can also offer this possibility for vans and trucks. Finally, changes will also be made to make it easier for citizens to acquire a driving licence when they live in a Member State other than their Member State of citizenship. It will be possible to test and obtain a licence issued in the Member State of citizenship if there is no possibility of testing in one of the official languages of the Member State of citizenship. The interim agreement must now be approved by the representatives of the Member States within the Council (Coreper) and the European Parliament.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Europe",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "17 year",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - The Council",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 22,
+                "end_char": 45,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the age of 17",
+                "start_char": 204,
+                "end_char": 217,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "15 years",
+                "start_char": 233,
+                "end_char": 241,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Firstly",
+                "start_char": 311,
+                "end_char": 318,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the end of 2030",
+                "start_char": 323,
+                "end_char": 338,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 392,
+                "end_char": 394,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 428,
+                "end_char": 436,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "EU",
+                "start_char": 657,
+                "end_char": 659,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "15 years",
+                "start_char": 882,
+                "end_char": 890,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "10 years",
+                "start_char": 978,
+                "end_char": 986,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Secondly",
+                "start_char": 989,
+                "end_char": 997,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Member States",
+                "start_char": 1116,
+                "end_char": 1133,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 1293,
+                "end_char": 1298,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "at least two years",
+                "start_char": 1354,
+                "end_char": 1372,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "one",
+                "start_char": 2415,
+                "end_char": 2418,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Member State of citizenship",
+                "start_char": 2448,
+                "end_char": 2479,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Council (Coreper",
+                "start_char": 2575,
+                "end_char": 2595,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 2601,
+                "end_char": 2624,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Chi è Hamdan Ballal, il regista premio Oscar di 'No Other Land'",
+        "date_raw": "Tue, 25 Mar 2025 13:26:25 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-24/arresto-hamdan-ballal-30585399/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Susiya è un villaggio rurale palestinese>, sulle colline a sud di Hebron, in Cisgiordania>. Lì è nato 36 anni fa, Hamdan Ballal>, e sempre lì - in quel territorio conteso tra Israele e Palestina - nel tardo pomeriggio di lunedì il regista palestinese è stato prima aggredito dai coloni israeliani >e poi portato via dalla polizia>. In quella zona, Ballal, insieme ad altri tre registi, ha girato 'No Other Land'>, il documentario vincitore lo scorso marzo dell'Oscar.> \n<div></div> \nRealizzato tra il 2019 e il 2023, il film documenta la storia di alcuni villaggi palestinesi della Cisgiordania che da quasi mezzo secolo convivono con demolizioni e violenze sistematiche da parte delle autorità israeliane. Uno dei luoghi principali del docufilm è proprio Masafer Yatta,> dove vivono sia Ballal che un altro regista Basel Adra. Ieri quel tratto di terra occupato è stato il teatro dell'ennesimo scontro. Decine di coloni hanno fatto incursione nel villaggio palestinese e hanno lanciato pietre contro residenti, auto e case. \n&nbsp; \n<div></div> \nTestimoni oculari hanno riferito che quattro palestinesi sono stati feriti, mentre secondo la polizia i residenti hanno risposto a quegli attacchi. Le stesse autorità israeliane hanno poi comunicato che tre palestinesi sono stati arrestati. Tra loro c'è Hamdan Ballal, che in quei territori è nato, esattamente tre anni dopo quel giugno '86 in cui lo Stato di Israele esproprio' i terreni del villaggio palestinese per farne un sito archeologico, facendo sloggiare circa 25 famiglie. I palestinesi espulsi si stabilirono nelle caverne e in baracche di lamiera nelle vicinanze, da cui ricominciarono la loro esistenza \n<div></div> \nProprio lì Ballal, nel corso degli anni, ha costruito la sua vita. Prima agricoltore, poi fotografo, attivista e ricercatore. In qualità di difensore dei diritti umani, >ha contribuito al progetto Humans of Masafer Yatta, che fa luce sulla difficile situazione dei palestinesi nella regione della Cisgiordania. E poi il debutto alla regia. Insieme ad Adra e agli israeliani Yuval Abraham e Rachel Szor, ha girato 'No Other Land', che si è aggiudicato il premio Oscar come miglior documentario. \nIl film, presentato in anteprima mondiale alla Berlinale >dove ha vinto il Premio del Pubblico e il Berlinale Documentary Award, ha ricevuto ampi consensi, ma ha anche affrontato critiche da parte di funzionari israeliani. Dopo la vittoria dell'Oscar, il ministro della Cultura israeliano Miki Zohar ha condannato la premiazione, definendolo \"un momento triste per il mondo del cinema\". \n&nbsp; \n<div></div> \n&nbsp; \nIl documentario è stato presentato in anteprima mondiale alla Berlinale 2023, dove ha dove ha vinto il Premio del Pubblico e il Berlinale Documentary Award. Dopo la sua anteprima ha poi vinto premi in 68 festival cinematografici, tra cui il Bafta Award, l'European Film Award, l'Ida Awards e il Gotham Independent Film Awards. Nonostante abbia ricevuto grandi complimenti dalla critica, 'No Other Land' ha dovuto ricorrere all'autodistribuzione poiché nessuna società statunitense aveva acquistato i diritti del film. \nDopo la notizia dell'attacco a Ballal, Basel Adra, ha affermato che l'incidente potrebbe essere una sorta di \"vendetta\" proprio per il documentario. \"Siamo tornati dagli Oscar e da allora ogni giorno c'è stato un attacco contro di noi\", ha detto Adra, che a febbraio è stato anche lui attaccato da coloni israeliani mascherati. Ballal, lo scorso anno, aveva raccontato alla Cnn diversi episodi di intimidazioni subite da parte dei coloni israeliani. Dal bestiame scaraventato sui suoi terreni, sino alle minacce di prendere la sua terra e la sua fattoria. Ma la polizia non è mai intervenuta. Il co-regista israeliano del film, Yuval Abraham, ha denunciato su X che Ballal è \"rimasto ammanettato tutta la notte e picchiato in una base militare\">. \n&nbsp; \n<h2>&nbsp;</h2> \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1742940018.5671477,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Who is Hamdan Ballal, the Oscar-winning director of 'No Other Land'",
+        "en_content": "AGI -&nbsp;Susiya is a Palestinian rural village > on the hills south of Hebron, West Bank >. There he was born 36 years ago, Hamdan Ballal>, and always there - in that disputed territory between Israel and Palestine - in the late afternoon of Monday the Palestinian director was first attacked by Israeli settlers > and then taken away by the police > . In that area, Ballal, along with three other directors, shot 'No Other Land'>, the documentary winner last March of the Oscar.>\n<div </div\nCreated between 2019 and 2023, the film documents the history of some Palestinian villages in the West Bank that for almost half a century have been living with demolitions and systematic violence by the Israeli authorities. One of the main docufilm sites is Masafer Yatta, > where both Ballal and another director Basel Adra live. Yesterday that stretch of occupied land was the theater of the new clash. Tens of settlers raided the Palestinian village and launched stones against residents, cars and houses.\n&nbsp;\n<div </div\nEyewitnesses reported that four Palestinians were injured, while according to the police residents responded to those attacks. The Israeli authorities themselves then announced that three Palestinians were arrested. Among them there is Hamdan Ballal, who in those territories was born, exactly three years after that June '86 in which the State of Israel expropriates the lands of the Palestinian village to make it an archaeological site, causing to dislodge about 25 families. The expelled Palestinians settled in the caverns and in tins nearby, from which they began their existence\n<div </div\nRight there Ballal, over the years, built his life. First farmer, then photographer, activist and researcher. As a human rights defender, he contributed to the Humans of Masafer Yatta project, which highlights the difficult situation of Palestinians in the West Bank region. And then the directorial debut. Together with Adra and the Israelis Yuval Abraham and Rachel Szor, he shot 'No Other Land', which won the Academy Award for Best Documentary.\nThe film, premiered at the Berlinale > where he won the Audience Award and the Berlinale Documentary Award, received extensive acclaim, but also faced criticism from Israeli officials. After the Oscar's victory, Israeli Culture Minister Miki Zohar condemned the award, calling it \"a sad moment for the cinema world.\"\n&nbsp;\n<div </div\n&nbsp;\nThe documentary premiered at the Berlinale 2023, where he won the Public Award and the Berlinale Documentary Award. After his premiere he won awards at 68 film festivals, including the Bafta Award, the European Film Award, the Ida Awards and the Gotham Independent Film Awards. Despite having received great compliments from critics, 'No Other Land' had to resort to self-distribution since no US company had purchased the rights of the film.\nAfter the news of the attack on Ballal, Basel Adra, said that the incident could be a sort of \"sold\" just for the documentary. \"We have returned from the Oscars and since then every day there has been an attack against us,\" said Adra, who in February was also attacked by masked Israeli settlers. Ballal, last year, told the Cnn several episodes of intimidation suffered by Israeli settlers. From the cattle discarded on its soils, to the threats to take its land and its farm. But the police never intervened. The Israeli co-regist of the film, Yuval Abraham, denounced X that Ballal is \"remained handcuffed all night and beaten in a military base\".\n&nbsp;\n<h2> &nbsp;</h2>\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Hamdan Ballal",
+                "start_char": 7,
+                "end_char": 20,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Oscar",
+                "start_char": 26,
+                "end_char": 31,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Palestinian",
+                "start_char": 23,
+                "end_char": 34,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hebron",
+                "start_char": 73,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "West Bank",
+                "start_char": 81,
+                "end_char": 90,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "36 years ago",
+                "start_char": 112,
+                "end_char": 124,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamdan Ballal",
+                "start_char": 126,
+                "end_char": 139,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 196,
+                "end_char": 202,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestine",
+                "start_char": 207,
+                "end_char": 216,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the late afternoon of",
+                "start_char": 222,
+                "end_char": 243,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Monday",
+                "start_char": 244,
+                "end_char": 250,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 255,
+                "end_char": 266,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "first",
+                "start_char": 280,
+                "end_char": 285,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 298,
+                "end_char": 305,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ballal",
+                "start_char": 369,
+                "end_char": 375,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 388,
+                "end_char": 393,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "last March",
+                "start_char": 457,
+                "end_char": 467,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Oscar",
+                "start_char": 475,
+                "end_char": 480,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "between 2019 and 2023",
+                "start_char": 502,
+                "end_char": 523,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 564,
+                "end_char": 575,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the West Bank",
+                "start_char": 588,
+                "end_char": 601,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "almost half a century",
+                "start_char": 611,
+                "end_char": 632,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 698,
+                "end_char": 705,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "One",
+                "start_char": 719,
+                "end_char": 722,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Masafer Yatta",
+                "start_char": 753,
+                "end_char": 766,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ballal",
+                "start_char": 781,
+                "end_char": 787,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Basel Adra",
+                "start_char": 809,
+                "end_char": 819,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yesterday",
+                "start_char": 826,
+                "end_char": 835,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tens",
+                "start_char": 900,
+                "end_char": 904,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 928,
+                "end_char": 939,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "four",
+                "start_char": 1049,
+                "end_char": 1053,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 1054,
+                "end_char": 1066,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 1153,
+                "end_char": 1160,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three",
+                "start_char": 1204,
+                "end_char": 1209,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 1210,
+                "end_char": 1222,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamdan Ballal",
+                "start_char": 1258,
+                "end_char": 1271,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three years",
+                "start_char": 1316,
+                "end_char": 1327,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "June '86",
+                "start_char": 1339,
+                "end_char": 1347,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the State of Israel",
+                "start_char": 1357,
+                "end_char": 1376,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 1407,
+                "end_char": 1418,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "about 25",
+                "start_char": 1482,
+                "end_char": 1490,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 1514,
+                "end_char": 1526,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ballal",
+                "start_char": 1631,
+                "end_char": 1637,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the years",
+                "start_char": 1644,
+                "end_char": 1653,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "First",
+                "start_char": 1671,
+                "end_char": 1676,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Humans of Masafer Yatta",
+                "start_char": 1775,
+                "end_char": 1802,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 1856,
+                "end_char": 1868,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "West Bank",
+                "start_char": 1876,
+                "end_char": 1885,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Adra",
+                "start_char": 1940,
+                "end_char": 1944,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israelis",
+                "start_char": 1953,
+                "end_char": 1961,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Yuval Abraham",
+                "start_char": 1962,
+                "end_char": 1975,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Rachel Szor",
+                "start_char": 1980,
+                "end_char": 1991,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Academy Award for Best Documentary",
+                "start_char": 2028,
+                "end_char": 2066,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Berlinale",
+                "start_char": 2095,
+                "end_char": 2104,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Audience Award",
+                "start_char": 2120,
+                "end_char": 2138,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "the Berlinale Documentary Award",
+                "start_char": 2143,
+                "end_char": 2174,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 2234,
+                "end_char": 2241,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Oscar",
+                "start_char": 2263,
+                "end_char": 2268,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 2280,
+                "end_char": 2287,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Miki Zohar",
+                "start_char": 2305,
+                "end_char": 2315,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Berlinale",
+                "start_char": 2439,
+                "end_char": 2452,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "2023",
+                "start_char": 2453,
+                "end_char": 2457,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Public Award",
+                "start_char": 2472,
+                "end_char": 2488,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Berlinale Documentary Award",
+                "start_char": 2493,
+                "end_char": 2524,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "68",
+                "start_char": 2562,
+                "end_char": 2564,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Bafta Award",
+                "start_char": 2591,
+                "end_char": 2606,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Film Award",
+                "start_char": 2608,
+                "end_char": 2631,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gotham Independent Film Awards",
+                "start_char": 2652,
+                "end_char": 2686,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 2804,
+                "end_char": 2806,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ballal",
+                "start_char": 2885,
+                "end_char": 2891,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Basel",
+                "start_char": 2893,
+                "end_char": 2898,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Oscars",
+                "start_char": 3007,
+                "end_char": 3013,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Adra",
+                "start_char": 3082,
+                "end_char": 3086,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "February",
+                "start_char": 3095,
+                "end_char": 3103,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 3132,
+                "end_char": 3139,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ballal",
+                "start_char": 3150,
+                "end_char": 3156,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "last year",
+                "start_char": 3158,
+                "end_char": 3167,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 3178,
+                "end_char": 3181,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 3227,
+                "end_char": 3234,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 3368,
+                "end_char": 3375,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Yuval Abraham",
+                "start_char": 3399,
+                "end_char": 3412,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ballal",
+                "start_char": 3431,
+                "end_char": 3437,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Mosca frena sulle trattative: \"Con gli Usa solo colloqui tecnici e finora nessun accordo specifico\"",
+        "date_raw": "Tue, 25 Mar 2025 12:04:51 GMT",
+        "date": "2025-03-25",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-25/ucraina-riad-colloqui-russia-usa-30593839/",
+        "subtitle": "",
+        "content": "AGI - \"Stiamo parlando di trattative tecniche. Si tratta di trattative con un'immersione profonda nei dettagli, quindi il contenuto delle trattative tecniche non verrà sicuramente \"pubblicato\", non ci si dovrebbe aspettare questo\". Lo dice il portavoce del cremlino, Dmitry Peskov riferendosi ai colloqui di Riad. \n&nbsp; \nPeskov ha aggiunto che i contenuti dei colloqui saranno \"analizzati, e solo allora sarà possibile parlare di alcune intese\". \n&nbsp; \n&nbsp;La possibilità di un incontro tra i rappresentanti di Stati Uniti, Russia e Ucraina non è ancora stata discussa, non se ne parla. Ha aggiunto Peskov secondo le agenzie di stampa russe. \n&nbsp; \n\"Non ci sono ancora discussioni su un incontro del genere\", ha detto Peskov ai giornalisti che chiedevano se fosse in programma un incontro trilaterale tra i rappresentanti della Federazione Russa, degli Stati Uniti e dell'Ucraina. \n<h2>Lavrov: peacekeeping? idea di sognatori incompetenti</h2> \n\"Sognatori che dimostrano ogni giorno il loro completo fallimento\", e \"la loro totale incompetenza politica\". Così il ministro degli Esteri russo, Sergey Lavrov, intervistato da Channel One, ha commentato l'iniziativa dei paesi europei, Francia e Gran Bretagna in testa, di inviare forze di peacekeeping in Ucraina. \n&nbsp; \nSecondo quanto riportato da Ria Novosti, Lavrov ha detto che l'Europa contraddice la posizione degli Stati Uniti, che parlano di parametri preliminari per la risoluzione del conflitto. Senza i paesi europei, le forze armate ucraine sarebbero state sconfitte molto tempo fa, ha aggiunto, e Londra e Parigi sono le prime a inviare armi a Kiev. \n&nbsp; \nSui piani dell'UE di inviare forze di peacekeeping in Ucraina, questi sognatori dimostrano ogni giorno il loro completo fallimento, ha detto Lavrov, che ha ribadito il parallelo storico sui tentativi di contenere la Russia e sconfiggerla: è il desiderio di Napoleone e Hitler, ci siamo già passati, ha aggiunto.&nbsp;",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1742940018.5672715,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-25 23:00:18",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-25T22.00.18",
+        "en_title": "Moscow brakes on negotiations: \"With the US only technical talks and so far no specific agreement\"",
+        "en_content": "AGI - \"We are talking about technical negotiations. These negotiations with a deep immersion in detail, so the content of technical negotiations will certainly not be \"published\", you should not expect this\". Says the spokesman of the cremlin, Dmitry Peskov referring to the talks of Riad.\n&nbsp;\nPeskov added that the content of the talks will be \"analized, and only then will it be possible to talk about some ideas\".\n&nbsp;\n&nbsp; The possibility of a meeting between the representatives of the United States, Russia and Ukraine has not yet been discussed, it does not talk about it. He added Peskov according to Russian press agencies.\n&nbsp;\n\"There are no discussions about such a meeting yet,\" Peskov told journalists who asked if a trilateral meeting was planned between representatives of the Russian Federation, the United States and Ukraine.\n<h2>Lavrov: peacekeeping? idea of incompetent dreamers\n\"Sognators who demonstrate their complete failure every day,\" and \"their total political incompetence.\" So the Russian Foreign Minister, Sergey Lavrov, interviewed by Channel One, commented on the initiative of European countries, France and Britain in the lead, to send peacekeeping forces to Ukraine.\n&nbsp;\nAccording to Ria Novosti, Lavrov said that Europe contradicts the position of the United States, which speak of preliminary parameters for the resolution of the conflict. Without European countries, the Ukrainian armed forces would have been defeated long ago, he added, and London and Paris are the first to send weapons to Kiev.\n&nbsp;\nOn EU plans to send peacekeeping forces to Ukraine, these dreamers demonstrate their complete failure every day, said Lavrov, who reiterated the historical parallel on attempts to contain Russia and defeat it: is the desire of Napoleon and Hitler, we have already passed, he added.&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 41,
+                "end_char": 43,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Dmitry Peskov",
+                "start_char": 244,
+                "end_char": 257,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Riad",
+                "start_char": 284,
+                "end_char": 288,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Peskov",
+                "start_char": 297,
+                "end_char": 303,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the United States",
+                "start_char": 494,
+                "end_char": 511,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 513,
+                "end_char": 519,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 524,
+                "end_char": 531,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Peskov",
+                "start_char": 596,
+                "end_char": 602,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 616,
+                "end_char": 623,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Peskov",
+                "start_char": 700,
+                "end_char": 706,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Russian Federation",
+                "start_char": 797,
+                "end_char": 819,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United States",
+                "start_char": 821,
+                "end_char": 838,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 843,
+                "end_char": 850,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sognators",
+                "start_char": 908,
+                "end_char": 917,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "every day",
+                "start_char": 957,
+                "end_char": 966,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1018,
+                "end_char": 1025,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Sergey Lavrov",
+                "start_char": 1044,
+                "end_char": 1057,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Channel One",
+                "start_char": 1074,
+                "end_char": 1085,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 1118,
+                "end_char": 1126,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "France",
+                "start_char": 1138,
+                "end_char": 1144,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Britain",
+                "start_char": 1149,
+                "end_char": 1156,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1201,
+                "end_char": 1208,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ria Novosti",
+                "start_char": 1230,
+                "end_char": 1241,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 1243,
+                "end_char": 1249,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Europe",
+                "start_char": 1260,
+                "end_char": 1266,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the United States",
+                "start_char": 1295,
+                "end_char": 1312,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "European",
+                "start_char": 1396,
+                "end_char": 1404,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1420,
+                "end_char": 1429,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "London",
+                "start_char": 1492,
+                "end_char": 1498,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Paris",
+                "start_char": 1503,
+                "end_char": 1508,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 1517,
+                "end_char": 1522,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 1542,
+                "end_char": 1546,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 1558,
+                "end_char": 1560,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1598,
+                "end_char": 1605,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "every day",
+                "start_char": 1657,
+                "end_char": 1666,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Lavrov",
+                "start_char": 1673,
+                "end_char": 1679,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1743,
+                "end_char": 1749,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Napoleon",
+                "start_char": 1782,
+                "end_char": 1790,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hitler",
+                "start_char": 1795,
+                "end_char": 1801,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
