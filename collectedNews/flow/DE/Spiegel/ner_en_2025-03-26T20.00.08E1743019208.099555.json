@@ -1,0 +1,4028 @@
+[
+    {
+        "title": "Gaza-Krieg: Proteste im Gazastreifen gegen Hamas und für Frieden",
+        "date_raw": "Wed, 26 Mar 2025 20:54:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/gaza-krieg-proteste-im-gazastreifen-gegen-hamas-und-fuer-frieden-a-c8aba79e-76ca-4e0a-b7e3-0d8f10a0b59a#ref=rss",
+        "subtitle": "Sie wollen ein Ende des Krieges - und einige offenbar auch das Ende der Hamas-Herrschaft: Im Gazastreifen haben Menschen laut »Hamas raus« skandiert. Das ist gefährlich für die Demonstrierenden.",
+        "content": "»Hamas raus« und »Stoppt den Krieg« skandieren sie. Hunderte Palästinenser haben an mehreren Standorten im Gazastreifen ein Ende des Krieges gefordert. Bemerkenswert ist, dass sich der Protest dabei auch gegen die islamistische Terrororganisation Hamas richtet, wie diese Handyvideos zeigen.Solche Demonstrationen sind für die Beteiligten extrem riskant. Die Hamas hat die Macht im Gazastreifen und ist dafür bekannt, hart gegen interne Gegner vorzugehen. Trotzdem gab es in sozialen Medien auch heute Aufrufe zu einer Fortsetzung der Proteste.Auslöser des Gazakriegs war das Massaker der islamistischen Terroristen aus dem Gazastreifen am 7. Oktober 2023 in Israel. Seither geht Israel massiv gegen die Hamas vor. Bei den Militärschlägen werden allerdings oft auch Zivilisten verwundet oder getötet. Auch in dieser Woche gab es massive Angriffe der israelischen Armee auf den Gazastreifen, nachdem sich beide Seiten nicht auf die Fortsetzung einer Waffenruhe einigen konnten.",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1743019207.784965,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Gaza War: Protests in the Gaza Strip against Hamas and for Peace",
+        "en_content": "\"Hamas out\" and \"Stop the War\" scandalize them. Hundreds of Palestinians have called for an end to the war at several locations in the Gaza Strip. It is noteworthy that the protest is also directed against Hamas' Islamist terrorist organization, as these cell phone videos show.Such demonstrations are extremely risky for those involved. Hamas has the power in the Gaza Strip and is well known to fight against internal opponents. Nevertheless, there were also calls for a continuation of the protests in social media today.The Gaza War was the massacre of Islamist terrorists from the Gaza Strip on the 7th. October 2023 in Israel. Since then, Israel has been going massively against Hamas. However, civilians are often wounded or killed in military strikes. This week, too, there were massive attacks by the Israeli army on the Gaza Strip after both sides were unable to agree on the continuation of a ceasefire.",
+        "en_subtitle": "They want an end to the war - and some obviously also the end of the Hamas leadership: According to \"Hamas out\", people in the Gaza Strip have ordered. It's dangerous for the demonstrators.",
+        "title_NER": [
+            {
+                "word": "Gaza",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 22,
+                "end_char": 36,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 45,
+                "end_char": 50,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 69,
+                "end_char": 74,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hamas",
+                "start_char": 101,
+                "end_char": 106,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 123,
+                "end_char": 137,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Hamas",
+                "start_char": 1,
+                "end_char": 6,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Stop the War",
+                "start_char": 17,
+                "end_char": 29,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Hundreds",
+                "start_char": 48,
+                "end_char": 56,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 60,
+                "end_char": 72,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 131,
+                "end_char": 145,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 206,
+                "end_char": 211,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Islamist",
+                "start_char": 213,
+                "end_char": 221,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 338,
+                "end_char": 343,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 361,
+                "end_char": 375,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 518,
+                "end_char": 523,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "The Gaza War",
+                "start_char": 524,
+                "end_char": 536,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Islamist",
+                "start_char": 557,
+                "end_char": 565,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 582,
+                "end_char": 596,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "7th",
+                "start_char": 604,
+                "end_char": 607,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "October 2023",
+                "start_char": 609,
+                "end_char": 621,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israel",
+                "start_char": 625,
+                "end_char": 631,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israel",
+                "start_char": 645,
+                "end_char": 651,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 685,
+                "end_char": 690,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "This week",
+                "start_char": 760,
+                "end_char": 769,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 810,
+                "end_char": 817,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 826,
+                "end_char": 840,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Ukraine-Krieg: Zweifel an russischer Zuverlässigkeit bei Waffenruhe",
+        "date_raw": "Wed, 26 Mar 2025 13:21:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/ukraine-krieg-zweifel-an-russischer-zuverlaessigkeit-bei-waffenruhe-a-064b311c-8c5b-4b2a-ae91-a9f1423d2fb4#ref=rss",
+        "subtitle": "Keine Angriffe auf Energieanlagen, Waffenruhe im Schwarzen Meer: Das haben Russen und Ukrainer auf Drängen der USA vereinbart. Vieles ist aber noch unklar, die Menschen in Odessa zeigen sich skeptisch.",
+        "content": " Eine Waffenruhe im schwarzen Meer: Das ist das Ergebnis der Verhandlugen, die die USA mit Russland und der Ukraine in Riad geführt haben. Auch ein 30-tägiges Verbot von Angriffen auf Energieanlagen soll es geben. Die Menschen in Odessa sind trotzdem alles andere als erleichtert. Der ukrainische Präsident Selenskyj bedauert, dass es kein ausdrückliches Verbot von Angriffen auf zivile Infrastruktur gebe. Und es fehlt noch ein weiteres wichtiges Detail: Kurz nachdem die Vereinbarungen öffentlich gemacht wurden, veröffentlichte der Kreml ein eigenes Dokument. Darin hieß es, die Waffenruhe am Schwarzen Meer trete erst dann in Kraft, wenn die Sanktionen gegen russische Banken, Versicherer, Unternehmen, Häfen und Schiffe aufgehoben werden.",
+        "ranked": 17,
+        "placed": "Abroad",
+        "epoch": 1743019207.8382053,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Ukraine war: doubts about Russian reliability in ceasefire",
+        "en_content": "A ceasefire in the Black Sea: this is the result of the treaties that the US has led with Russia and Ukraine in Riad. There is also a 30-day ban on attacks on energy plants. The people in Odessa are anything but relieved. Ukrainian President Selenskyj regrets that there is no explicit ban on attacks on civilian infrastructure. And there is still another important detail: shortly after the agreements were made public, the Kremlin published its own document. It said that the ceasefire at the Black Sea would not come into force until the sanctions against Russian banks, insurers, companies, ports and ships are lifted.",
+        "en_subtitle": "No attacks on energy plants, ceasefire in the Black Sea: Russians and Ukrainians have agreed on US forces. Many things are still unclear, but people in Odessa are skeptical.",
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 26,
+                "end_char": 33,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "the Black Sea",
+                "start_char": 42,
+                "end_char": 55,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Russians",
+                "start_char": 57,
+                "end_char": 65,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 70,
+                "end_char": 80,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "US",
+                "start_char": 96,
+                "end_char": 98,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Odessa",
+                "start_char": 152,
+                "end_char": 158,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Black Sea",
+                "start_char": 15,
+                "end_char": 28,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "US",
+                "start_char": 74,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 90,
+                "end_char": 96,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 101,
+                "end_char": 108,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Riad",
+                "start_char": 112,
+                "end_char": 116,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "30-day",
+                "start_char": 134,
+                "end_char": 140,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Odessa",
+                "start_char": 188,
+                "end_char": 194,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 222,
+                "end_char": 231,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Selenskyj",
+                "start_char": 242,
+                "end_char": 251,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 425,
+                "end_char": 432,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 491,
+                "end_char": 504,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Russian",
+                "start_char": 559,
+                "end_char": 566,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Türkei: Erneut Massenproteste gegen Recep Tayyip Erdoğan – Großdemo für Samstag angekündigt",
+        "date_raw": "Wed, 26 Mar 2025 08:26:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/tuerkei-erneut-massenproteste-gegen-recep-tayyip-erdogan-grossdemo-fuer-samstag-angekuendigt-a-58bd6d0d-d0bd-4aaa-b3c2-a2b96602dc00#ref=rss",
+        "subtitle": "Auch eine Woche nach der Festnahme des Istanbuler Oberbürgermeisters Ekrem İmamoğlu gehen in der Türkei trotz Repressionen weiter Tausende auf die Straße. Der Inhaftierte bekam derweil Besuch von einem Parteifreund.",
+        "content": "Obwohl Demonstrieren in  und der Hauptstadt  verboten ist, haben sich in der  am Dienstagabend erneut Tausende Menschen zum Protest gegen die Regierung versammelt.Der oppositionelle Sender Halk TV berichtete von Hunderten Protestierenden in der Stadt Rize, dem Heimatort des türkischen Präsidenten . In Istanbul zog ein großer Protestzug überwiegend junger Demonstranten durch den Bezirk Şişli, wie Augenzeugen und lokale Medien berichteten. Auch vor der Istanbuler Stadtverwaltung und in der Hauptstadt Ankara sowie in Izmir versammelten sich erneut Hunderte, wie auf Fernsehbildern zu sehen war.Auslöser für die Proteste ist die Festnahme und anschließende Inhaftierung des mittlerweile abgesetzten Istanbuler Bürgermeisters Ekrem İmamoğlu am Dienstag voriger Woche. Der beliebte Oppositionspolitiker gilt als aussichtsreicher Herausforderer Erdoğans bei einer künftigen Präsidentenwahl im Jahr 2028, die rechtlichen Schritte gegen ihn als politisch motiviert.Am Wochenende wurde İmamoğlu von seiner CHP in der Haft zum Kandidaten für die Wahl nominiert. Darüber hinaus bekundeten Millionen Menschen nach Parteiangaben über eine symbolische Stimmabgabe an landesweit aufgestellten Wahlboxen ihre Solidarität mit dem CHP-Politiker.Der größtenteils friedliche Protest richtet sich immer deutlicher gegen die Regierung Erdoğans. Immer wieder kommt es zu Zusammenstößen mit den Sicherheitskräften. Nach Angaben des Innenministeriums wurden inzwischen mehr als 1400 Menschen festgenommen.Videos und Bilder zeigen, wie Sicherheitskräfte mit Schlagstöcken, Reizgas und Wasserwerfern gegen Demonstranten vorgehen. Die Polizei in Istanbul etwa setzte in den vergangenen Tagen auch Geschosse ein. Laut dem Kommunikationsdirektorat der Regierung handelt es sich dabei um Pfefferspraygeschosse. Von Demonstranten war zu hören, es sei auch mit Plastikkugeln geschossen worden.Am Wochenende soll es nach Plänen der CHP in Istanbul eine Großdemonstration geben. CHP-Chef Özgür Özel rief für Samstag zu einer Großkundgebung auf. Es gehe darum, İmamoğlu zu unterstützen, gegen seine Festnahme zu protestieren und vorgezogene Neuwahlen zu fordern, sagte Özel am Dienstagabend bei einer Demonstration vor dem Istanbuler Rathaus. Geplant ist die Großkundgebung demnach im Stadtteil Maltepe auf der asiatischen Seite der Millionenstadt. Für Mittwochabend rief Özel dagegen nicht zu einer Demonstration auf.Özel traf sich am Dienstag mit İmamoğlu zu einem zweistündigen Gespräch im Silivri-Gefängnis westlich von Istanbul. Er beschrieb İmamoğlu und zwei weitere inhaftierte CHP-Bürgermeister, mit denen er ebenfalls zusammentraf, als »drei Löwen, die aufrecht und erhobenen Hauptes dastehen … stolz auf sich selbst, ihre Familien und ihre Kollegen, ohne Angst«.Özel erklärte gegenüber Reportern, er schäme sich »im Namen derjenigen, die die Türkei regieren, für die Atmosphäre, in der ich mich befinde, und für die Situation, in der sich die Türkei befindet«.Vermummter Demonstrant bei Protest in Istanbul am DienstagabendGroßaufgebot der Polizei in Istanbul am Dienstagabend",
+        "ranked": 19,
+        "placed": "Abroad",
+        "epoch": 1743019207.8776534,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Turkey: Renewed mass protests against Recep Tayyip Erdoğan – Großdemo announced for Saturday",
+        "en_content": "While protesting in and the capital is forbidden, thousands of people gathered to protest the government on Tuesday night.The oppositional broadcaster Halk TV reported hundreds of protesters in the city of Rize, the hometown of the Turkish president. In Istanbul, a large protest movement mostly of young demonstrators went through the Şişli district, as eyewitnesses and local media reported. In front of Istanbul's city administration and capital Ankara as well as in Izmir, hundreds of people gathered together again, as was seen on TV pictures.The protests were triggered by the arrest and subsequent detention of the now discontinued Istanbul Mayor Ekrem İmamoğlu on Tuesday a week ago. The popular opposition politician is considered to be a promising challenger Erdoğans in a future presidential election in 2028, the legal steps against him as politically motivated. On the weekend, İmamoğlu was nominated for the election by his CHP in custody. In addition, millions of people expressed their solidarity with the CHP politicians, according to party statements, about a symbolic vote on country-wide electoral boxes. Clashes with the security forces are constantly coming. According to the Ministry of the Interior, more than 1400 people have been arrested.Videos and images show how security forces with batons, stimulus gas and water throwers act against demonstrators. The police in Istanbul, for example, also set up bullets in recent days. According to the government's communications directorate, these are pepper spray shots. Demonstrators heard it was also shot with plastic balls. On the weekend there will be a major demonstration according to plans of the CHP in Istanbul. CHP head Özgür Özel called for a big rally for Saturday. It is about supporting İmamoğlu, protesting his arrest and calling for early new elections, Özel said on Tuesday evening at a demonstration in front of the Istanbul City Hall. The large demonstration is planned in the Maltepe district on the Asian side of the million city. On Wednesday evening, Özel did not call for a demonstration.Oezel met on Tuesday with İmamoğlu for a two-hour conversation in the Silivri prison west of Istanbul. He described İmamoğlu and two other imprisoned CHP-mayors, with whom he also met as \"three lions, the upright and uplifted head are proud of themselves, their families and their colleagues, without fear\".",
+        "en_subtitle": "A week after the arrest of the Istanbul Mayor Ekrem İmamoğlu, thousands of people go to the streets in Turkey despite repressions. The imprisoned was then visited by a party friend.",
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Recep Tayyip Erdoğan",
+                "start_char": 38,
+                "end_char": 58,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Großdemo",
+                "start_char": 61,
+                "end_char": 69,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 84,
+                "end_char": 92,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "A week",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 31,
+                "end_char": 39,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ekrem İmamoğlu",
+                "start_char": 46,
+                "end_char": 60,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "thousands",
+                "start_char": 62,
+                "end_char": 71,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 103,
+                "end_char": 109,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "thousands",
+                "start_char": 50,
+                "end_char": 59,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tuesday night",
+                "start_char": 108,
+                "end_char": 121,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Halk TV",
+                "start_char": 151,
+                "end_char": 158,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "hundreds",
+                "start_char": 168,
+                "end_char": 176,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Rize",
+                "start_char": 206,
+                "end_char": 210,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 232,
+                "end_char": 239,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 254,
+                "end_char": 262,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Şişli",
+                "start_char": 336,
+                "end_char": 341,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 406,
+                "end_char": 414,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 449,
+                "end_char": 455,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Izmir",
+                "start_char": 470,
+                "end_char": 475,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "hundreds",
+                "start_char": 477,
+                "end_char": 485,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 639,
+                "end_char": 647,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ekrem İmamoğlu",
+                "start_char": 654,
+                "end_char": 668,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday a week ago",
+                "start_char": 672,
+                "end_char": 690,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdoğans",
+                "start_char": 769,
+                "end_char": 777,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2028",
+                "start_char": 815,
+                "end_char": 819,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the weekend",
+                "start_char": 878,
+                "end_char": 889,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "İmamoğlu",
+                "start_char": 891,
+                "end_char": 899,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "CHP",
+                "start_char": 938,
+                "end_char": 941,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "millions",
+                "start_char": 967,
+                "end_char": 975,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "CHP",
+                "start_char": 1022,
+                "end_char": 1025,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Ministry of the Interior",
+                "start_char": 1194,
+                "end_char": 1222,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than 1400",
+                "start_char": 1224,
+                "end_char": 1238,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 1394,
+                "end_char": 1402,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "recent days",
+                "start_char": 1440,
+                "end_char": 1451,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the weekend",
+                "start_char": 1601,
+                "end_char": 1612,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "CHP",
+                "start_char": 1675,
+                "end_char": 1678,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 1682,
+                "end_char": 1690,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "CHP",
+                "start_char": 1692,
+                "end_char": 1695,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Özgür Özel",
+                "start_char": 1701,
+                "end_char": 1711,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 1739,
+                "end_char": 1747,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "İmamoğlu",
+                "start_char": 1772,
+                "end_char": 1780,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Özel",
+                "start_char": 1841,
+                "end_char": 1845,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 1854,
+                "end_char": 1861,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "evening",
+                "start_char": 1862,
+                "end_char": 1869,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Istanbul City Hall",
+                "start_char": 1901,
+                "end_char": 1923,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Maltepe",
+                "start_char": 1967,
+                "end_char": 1974,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Asian",
+                "start_char": 1991,
+                "end_char": 1996,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "million",
+                "start_char": 2009,
+                "end_char": 2016,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 2026,
+                "end_char": 2035,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "evening",
+                "start_char": 2036,
+                "end_char": 2043,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Özel",
+                "start_char": 2045,
+                "end_char": 2049,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 2096,
+                "end_char": 2103,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two-hour",
+                "start_char": 2124,
+                "end_char": 2132,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Silivri",
+                "start_char": 2153,
+                "end_char": 2160,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 2176,
+                "end_char": 2184,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "İmamoğlu",
+                "start_char": 2199,
+                "end_char": 2207,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 2212,
+                "end_char": 2215,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "CHP",
+                "start_char": 2233,
+                "end_char": 2236,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three",
+                "start_char": 2271,
+                "end_char": 2276,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Litauen: Ermittler vermuten Pilotenfehler hinter Boeing-Absturz",
+        "date_raw": "Wed, 26 Mar 2025 14:17:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/litauen-ermittler-vermuten-pilotenfehler-hinter-boeing-absturz-a-f79877de-0de4-40dc-8a55-d8847c5e7e21#ref=rss",
+        "subtitle": "Die Behörden in Litauen präsentieren neue Erkenntnisse zum Absturz der Swift-Air-Maschine bei Vilnius. Als Ursache des Unglücks vom November 2024 gilt ein falscher Umgang mit einem Hydrauliksystem.",
+        "content": "Gut vier Monate nach dem Absturz eines Frachtflugzeugs in  haben die Behörden die mögliche Unglücksursache mitgeteilt. In einer Stellungnahme ging die Generalstaatsanwaltschaft in Vilnius auf Grundlage ihrer Untersuchungen von einem menschlichen Fehler des Piloten der Swift-Air-Maschine aus, die im Auftrag des Versanddienstleisters  von Leipzig nach Vilnius unterwegs war.Sie habe deshalb die zuständigen spanischen Stellen ersucht, die notwendigen Ermittlungen durchzuführen und den sich in ärztlicher Behandlung befindenden Mann zu vernehmen, teilte die litauische Behörde mit.Das Frachtflugzeug, eine  737-400, war am Morgen des 25. November 2024 kurz vor der geplanten Landung in der Nähe des Flughafens Vilnius in ein Wohngebiet gestürzt und am Boden zerschellt. Dabei kam eines der vier Crewmitglieder ums Leben, die restliche Besatzung – ein weiterer Spanier sowie ein Deutscher und ein Litauer – überlebte verletzt.Nach Angaben der Generalstaatsanwaltschaft wurde das Unglück wahrscheinlich durch die Deaktivierung des Hydrauliksystems verursacht, das für das Ausfahren der Landeklappen zuständig ist. Dies habe vermutlich zum Absturz des Flugzeugs geführt, hieß es in der Mitteilung.Ergeben habe sich dies aus der Analyse der in Litauen durchgeführten Befragungen, der Untersuchung der Absturzstelle und der Auswertung der beiden Flugschreiber sowie weiterer gewonnener Informationen. Andere Versionen des Unfallhergangs seien durch die im Zuge der Untersuchung erhaltenen Daten widerlegt worden.Die litauischen Behörden haben nach dem Absturz umfassende Ermittlungen eingeleitet. Bereits kurz nach dem Unglück , dass es sich bei dem Unglück nicht um Sabotage handelte. Stattdessen gerieten technische Probleme in den Fokus.Ein anfänglicher Sabotageverdacht war aufgekommen, weil bereits im Juli 2024 am Flughafen  ein Paketcontainer in Brand geraten war – ausgelöst durch einen  aus dem Baltikum. In einem internen Behördenpapier, , war danach von »mutmaßlich verdeckt agierenden russischen Tätern« die Rede.Nur durch Glück ging der Vorfall im Juli 2024 vergleichsweise glimpflich aus: Das Flugzeug, in das die Sendung umgeladen werden sollte, war verspätet. Hätte es pünktlich abgehoben, wäre der Brand wohl in der Maschine ausgebrochen.Wrackteile in Vilnius im November 2024",
+        "ranked": 15,
+        "placed": "Abroad",
+        "epoch": 1743019207.891627,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Lithuania: Investigators suspect pilot errors behind Boeing crash",
+        "en_content": "Just four months after a cargo plane crashed, the authorities informed the possible cause of misfortune. In an opinion, the General Prosecutor's Office in Vilnius, on the basis of its investigations, assumed a human error from the pilot of the Swift-Air machine who was on the move from Leipzig to Vilnius on behalf of the shipping service provider. November 2024 just before the planned landing near Vilnius airport crashed into a residential area and crashed on the ground. One of the four crew members died, the remaining crew – another Spaniard and a German and a Lithuanian – survived.According to the General Prosecutor's office, the accident was probably caused by the deactivation of the hydraulic system responsible for the landing flaps. This has probably led to the crash of the aircraft, it was stated in the communication.This has been explained by the analysis of the surveys carried out in Lithuania, the investigation of the crash site and the evaluation of the two aircraft recorders as well as further information obtained. Other versions of the accident have been refuted by the data obtained during the investigation.The Lithuanian authorities have initiated comprehensive investigations after the crash. Shortly after the accident, the unhappiness was not sabotage. Instead, the focus was on technical problems. An initial sabotage survey had arisen because a parcel container had already been fired at the airport in July 2024 – triggered by a Baltic. In an internal administrative paper, the speech was followed by \"probably concealed acting Russian perpetrators\".Only by luck, the incident in July 2024 was comparatively disgusting: The plane to which the shipment should be reloaded was late. If it had lifted off on time, the fire would probably have broken out in the machine.Wreckteile in Vilnius in November 2024",
+        "en_subtitle": "The authorities in Lithuania present new findings on the crash of the Swift Air machine at Vilnius. The cause of the accident from November 2024 is a wrong handling of a hydraulic system.",
+        "title_NER": [
+            {
+                "word": "Lithuania",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Boeing",
+                "start_char": 53,
+                "end_char": 59,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Lithuania",
+                "start_char": 19,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Swift Air",
+                "start_char": 70,
+                "end_char": 79,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Vilnius",
+                "start_char": 91,
+                "end_char": 98,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "November 2024",
+                "start_char": 131,
+                "end_char": 144,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Just four months",
+                "start_char": 0,
+                "end_char": 16,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the General Prosecutor's Office",
+                "start_char": 120,
+                "end_char": 151,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Vilnius",
+                "start_char": 155,
+                "end_char": 162,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Leipzig",
+                "start_char": 287,
+                "end_char": 294,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vilnius",
+                "start_char": 298,
+                "end_char": 305,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "November 2024",
+                "start_char": 350,
+                "end_char": 363,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vilnius",
+                "start_char": 401,
+                "end_char": 408,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "One",
+                "start_char": 476,
+                "end_char": 479,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "four",
+                "start_char": 487,
+                "end_char": 491,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Spaniard",
+                "start_char": 540,
+                "end_char": 548,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "German",
+                "start_char": 555,
+                "end_char": 561,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lithuanian",
+                "start_char": 568,
+                "end_char": 578,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the General Prosecutor's",
+                "start_char": 603,
+                "end_char": 627,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 905,
+                "end_char": 914,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 978,
+                "end_char": 981,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Lithuanian",
+                "start_char": 1141,
+                "end_char": 1151,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "July 2024",
+                "start_char": 1439,
+                "end_char": 1448,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Baltic",
+                "start_char": 1466,
+                "end_char": 1472,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1565,
+                "end_char": 1572,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "July 2024",
+                "start_char": 1617,
+                "end_char": 1626,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vilnius",
+                "start_char": 1817,
+                "end_char": 1824,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "November 2024",
+                "start_char": 1828,
+                "end_char": 1841,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Gazastreifen: Hunderte Palästinenser protestieren gegen Hamas",
+        "date_raw": "Wed, 26 Mar 2025 07:31:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/hunderte-palaestinenser-protestieren-im-gazastreifen-gegen-hamas-a-4ef55b52-ea1b-4a64-9dd2-19adb200ef4b#ref=rss",
+        "subtitle": "Israel überzieht den weitgehend zerstörten Gazastreifen wieder mit Angriffen und will die Hamas offenbar vollständig vernichten. Nun regt sich in dem Küstengebiet offener Widerstand gegen die Islamisten.",
+        "content": "In ihrer Verzweiflung stellen sich Hunderte Menschen im  öffentlich gegen die faktischen Gewaltherrscher der Terrororganisation . Wie die Nachrichtenagentur dpa berichtet, kam es am Dienstagabend zu Protestaktionen in dem von Israels Militär flächendeckend zerstörten und abgeriegelten Küstenstreifen.Bei einem spontanen Marsch forderten etwa in Beit Lahija im Norden des Küstenstreifens Demonstranten ein Ende der Hamas-Herrschaft. Viele – vor allem junge – Menschen forderten in Sprechchören, den seit eineinhalb Jahren tobenden Krieg zu beenden. »Hamas raus!«, riefen Demonstranten. Fotos zeigen schätzungsweise einige Hundert Teilnehmer an dem Protestmarsch.Derartige Demonstrationen gelten im Gazastreifen als selten. Die islamistische Hamas ist dafür bekannt, hart gegen interne Gegner vorzugehen. In sozialen Medien gab es dennoch Aufrufe zu einer Fortsetzung der Proteste auch heute.Auch in Dschabalia sowie in Chan Junis im Süden des abgeriegelten Küstengebiets kam es am Dienstagabend zu ähnlichen Protesten. Genaue Angaben zur Teilnehmerzahl gab es jedoch nicht.Am Montag hatten Mitglieder der Terrororganisation Palästinensischer Islamischer Dschihad (PIJ) aus dem nördlichen Teil des Gazastreifens Raketen auf  abgefeuert. Die israelische Armee veröffentlichte daraufhin Räumungsbefehle für Beit Lahija und Beit Hanun.Seit dem Ende einer mehrwöchigen Waffenruhe überzieht Israel den bereits weitgehend zerstörten Küstenstreifen wieder mit Luftangriffen. In den vergangenen Tagen sollen dabei mehrere Hundert Menschen getötet worden sein.Nach Angaben des Gesundheitsministeriums im Gazastreifen wurden , die humanitäre Lage ist katastrophal. Der Arabischlehrer Mohammed al-Kilani, ein Teilnehmer der Proteste, schilderte seine tiefe Frustration über die schlimme Lage im Gazastreifen. »Wir sind keine Zahlen in den Nachrichten«, sagt der Vater von zwei Kindern aus Beit Lahija der Nachrichtenagentur dpa. »Wir sind Menschen mit Familien und Träumen.« Er sei müde vom Krieg, der ihnen das Leben zerstöre.»Jeden Tag, wenn ich mein Haus verlasse, bin ich nicht sicher, ob ich meine Kinder wiedersehe oder ob ich morgen überhaupt noch leben werde.« Die Einwohner des Gazastreifens seien »Geiseln von Menschen, denen wir egal sind«, sagt er. Dies gelte auch für die Hamas.Der 50-jährige Abu Chaled Abu Rajasch sagte, er habe alles verloren, sein Laden sei im Krieg zerstört worden. »Ich habe keinen Lebensunterhalt mehr, mein Haus ist zerstört, meine Kinder sind Flüchtlinge geworden«, sagte er. »Die Hamas sagt uns, wir sollen geduldig sein, aber sie leben in Sicherheit. Ihre Kinder werden nicht bombardiert.«Protestmarsch in Beit Lahija",
+        "ranked": 20,
+        "placed": "Abroad",
+        "epoch": 1743019207.9061043,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Gaza Strip: hundreds of Palestinians protesting Hamas",
+        "en_content": "As reported by the news agency dpa, protests took place on Tuesday night in the coastal strip that was destroyed and sealed by Israel's military. In a spontaneous march, for example in Beit Lahija in the north of the coast strip, demonstrators demanded an end to the Hamas leadership. Many – especially young – people demanded to end the war that has been dying for a year and a half. \"Hamas out!\" called demonstrators. Photos are estimated to show some hundreds of participants in the protest march.The demonstrations are rare in the Gaza Strip. The Islamist Hamas is known to be hard against internal opponents. In social media there were still calls for a continuation of the protests today.Also in Jabalia and in Chan Junis in the south of the sealed coastal area there were similar protests on Tuesday night. On Monday, members of the Palestinian Islamic Jihad (PIJ) terrorist organization fired rockets from the northern part of the Gaza Strip. The Israeli army then issued commands for the clearance of Beit Lahija and Beit Hanun.Since the end of a multi-week ceasefire, Israel has repatriated the already largely destroyed coasts with air attacks. Over the past few days, several hundred people have been killed. According to the Ministry of Health in the Gaza Strip, the humanitarian situation has been catastrophic. The Arabic teacher Mohammed al-Kilani, a participant of the protests, portrayed his deep frustration about the terrible situation in the Gaza Strip. \"We are not numbers in the news,\" says the father of two children from Beit Lahija of the news agency dpa. \"We are people with families and dreams.\" He's tired of the war that destroys their lives. \"Every day, when I leave my house, I'm not sure if I see my children again or if I will live in the morning.\" The inhabitants of the Gaza Strip are \"islands of people we care about\", he says. The 50-year-old Abu Chaled Abu Rajasch said he had lost everything, his store had been destroyed in war. \"I have no living, my house is destroyed, my children have become refugees,\" he said. \"The Hamas tells us to be patient, but they live in safety. Their children are not bombarded.«Protest march in Beit Lahija",
+        "en_subtitle": "Israel is repatriating the largely destroyed Gaza Strip with attacks and obviously wants to destroy Hamas completely. Now, in the coastal area, open resistance against the Islamists moves.",
+        "title_NER": [
+            {
+                "word": "Gaza Strip",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "hundreds",
+                "start_char": 12,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 24,
+                "end_char": 36,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 48,
+                "end_char": 53,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gaza Strip",
+                "start_char": 45,
+                "end_char": 55,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 100,
+                "end_char": 105,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Islamists",
+                "start_char": 172,
+                "end_char": 181,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Tuesday night",
+                "start_char": 59,
+                "end_char": 72,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Israel",
+                "start_char": 127,
+                "end_char": 133,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beit Lahija",
+                "start_char": 185,
+                "end_char": 196,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the coast strip",
+                "start_char": 213,
+                "end_char": 228,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 267,
+                "end_char": 272,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "a year and a half",
+                "start_char": 366,
+                "end_char": 383,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 386,
+                "end_char": 391,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "some hundreds",
+                "start_char": 449,
+                "end_char": 462,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 531,
+                "end_char": 545,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Islamist",
+                "start_char": 551,
+                "end_char": 559,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 560,
+                "end_char": 565,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 688,
+                "end_char": 693,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Jabalia",
+                "start_char": 702,
+                "end_char": 709,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chan Junis",
+                "start_char": 717,
+                "end_char": 727,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tuesday night",
+                "start_char": 799,
+                "end_char": 812,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Monday",
+                "start_char": 817,
+                "end_char": 823,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Palestinian Islamic Jihad",
+                "start_char": 836,
+                "end_char": 865,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "PIJ",
+                "start_char": 867,
+                "end_char": 870,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 935,
+                "end_char": 949,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 955,
+                "end_char": 962,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Beit Lahija",
+                "start_char": 1010,
+                "end_char": 1021,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beit Hanun",
+                "start_char": 1026,
+                "end_char": 1036,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Israel",
+                "start_char": 1078,
+                "end_char": 1084,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the past few days",
+                "start_char": 1161,
+                "end_char": 1178,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "several hundred",
+                "start_char": 1180,
+                "end_char": 1195,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Ministry of Health",
+                "start_char": 1234,
+                "end_char": 1256,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 1260,
+                "end_char": 1274,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arabic",
+                "start_char": 1330,
+                "end_char": 1336,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Mohammed al-Kilani",
+                "start_char": 1345,
+                "end_char": 1363,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 1459,
+                "end_char": 1473,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 1528,
+                "end_char": 1531,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Beit Lahija",
+                "start_char": 1546,
+                "end_char": 1557,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Gaza Strip",
+                "start_char": 1802,
+                "end_char": 1816,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "50-year-old",
+                "start_char": 1869,
+                "end_char": 1880,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Abu Chaled Abu Rajasch",
+                "start_char": 1881,
+                "end_char": 1903,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 2061,
+                "end_char": 2066,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Beit Lahija",
+                "start_char": 2167,
+                "end_char": 2178,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Muhammad Yunus in Bangladesch: »Wir haben etwa 800 Folterzellen gefunden",
+        "date_raw": "Wed, 26 Mar 2025 13:45:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/friedensnobelpreistraeger-yunus-in-bangladesch-wir-haben-etwa-800-folterzellen-gefunden-furchtbare-orte-ich-habe-sie-mir-angeschaut-a-73d47fbe-e403-4561-8c6a-25a1f83d5d6b#ref=rss",
+        "subtitle": "Der Friedensnobelpreisträger Muhammad Yunus wurde als Revolutionär der Entwicklungshilfe berühmt. Seit rund einem halben Jahr regiert er Bangladesch – und ist frustriert. Hoffnung gibt ihm die junge Generation.",
+        "content": "Friedensnobelpreisträger und Chef der Übergangsregierung Muhammad Yunus in Dhaka: »Kein schlechter Plot-Twist, nicht wahr?«",
+        "ranked": 16,
+        "placed": "Abroad",
+        "epoch": 1743019207.92012,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Muhammad Yunus in Bangladesh: »We found about 800 torture cells",
+        "en_content": "Nobel Peace Prize winner and head of the Transition Government Muhammad Yunus in Dhaka: \"No bad plot twist, right?\"",
+        "en_subtitle": "The Nobel Peace Prize winner Muhammad Yunus was famous as a revolutionary of development aid. He has been managing Bangladesh for about half a year and is frustrated. Hope gives him the young generation.",
+        "title_NER": [
+            {
+                "word": "Muhammad Yunus",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bangladesh",
+                "start_char": 18,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about 800",
+                "start_char": 40,
+                "end_char": 49,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "The Nobel Peace Prize",
+                "start_char": 0,
+                "end_char": 21,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Muhammad Yunus",
+                "start_char": 29,
+                "end_char": 43,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bangladesh",
+                "start_char": 115,
+                "end_char": 125,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about half a year",
+                "start_char": 130,
+                "end_char": 147,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Nobel Peace Prize",
+                "start_char": 0,
+                "end_char": 17,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "the Transition Government",
+                "start_char": 37,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Muhammad Yunus",
+                "start_char": 63,
+                "end_char": 77,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dhaka",
+                "start_char": 81,
+                "end_char": 86,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "USA: »The Atlantic« veröffentlicht ausführlichen Signal-Chatverlauf zu Schlag gegen Huthis",
+        "date_raw": "Wed, 26 Mar 2025 14:34:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/usa-the-atlantic-veroeffentlicht-ausfuehrlichen-signal-chatverlauf-zu-schlag-gegen-huthis-a-1d16a50d-a0c8-4c20-af90-5ae84d61753e#ref=rss",
+        "subtitle": "Vom Chat hochrangiger US-Vertreter über eine Militäraktion im Jemen veröffentlichte »The Atlantic« zunächst nur Auszüge. Dann behauptete Donald Trump, es sei gar nicht um geheime Informationen gegangen. Nun legt das Blatt nach.",
+        "content": "Nach dem Eklat um eine mutmaßliche Sicherheitspanne in einem Gruppenchat ranghoher US-Regierungsvertreter hat das US-Magazin »The Atlantic« weitere Chatnachrichten über Angriffspläne auf die Huthi-Miliz im Jemen . In zahlreichen Screenshots sind Details wie genaue Angriffszeiten und die dabei eingesetzten Flugzeuge enthalten.»The Atlantic« entschloss sich nach eigenen Angaben zu der Veröffentlichung, nachdem die Regierung von US-Präsident  mehrfach bestritten hatte, dass in dem Chat geheime Informationen ausgetauscht worden seien.Der »Atlantic«-Chefredakteur Jeffrey Goldberg hatte Anfang der Woche in einem Artikel , dass er offenbar durch ein Versehen in eine regierungsinterne Chatgruppe im Messengerdienst Signal eingeladen worden war, in der sich unter anderem US-Außenminister , Verteidigungsminister  und der nationale Sicherheitsberater Mike Waltz über konkrete Angriffspläne gegen die Huthi-Miliz im Jemen ausgetauscht hatten.Zunächst hatte Goldberg sich eigenen Angaben zufolge gegen die Veröffentlichung von Auszügen entschieden, da seiner Wahrnehmung nach offenbar Geheiminformationen ausgetauscht worden waren. Nun schreiben er und Co-Autor Shane Harris: »Es besteht ein eindeutiges öffentliches Interesse daran, die Art von Informationen offenzulegen, die Berater [von US-Präsident Donald Trump] in unsicheren Kommunikationskanälen ausgetauscht haben« – besonders, weil die Trump-Regierung versuche, die Bedeutung der Nachrichten herunterzuspielen.Laut »The Atlantic« postete US-Verteidigungsminister Pete Hegseth in dem Chat unter anderem folgende Einzelheiten. Bei dem Kürzel »et« hinter der Zeitangabe dürfte es sich um »Eastern Time« handeln, also US-amerikanische Ostküstenzeit.»1215et: F-18 START (Erstschlagpaket)1345: ›Auslöserbasiert‹: F-18 Erstschlagfenster beginnt (Zielterrorist befindet sich an seinem bekannten Standort, sollte also PÜNKTLICH SEIN – außerdem Start der Angriffsdrohnen (MQ-9)1410: START weiterer F-18 (Zweitschlagpaket)1415: Drohnenangriff auf Ziel (ZU DIESEM ZEITPUNKT WERDEN DEFINITIV DIE ERSTEN BOMBEN FALLEN, vorbehaltlich früherer ›auslöserbasierter‹ Ziele)1536: Start des zweiten F-18-Angriffs – außerdem werden die ersten seegestützten Tomahawks gestartet.WEITERES FOLGT (per Zeitleiste).«Hegseth hatte bislang bestritten, »Kriegspläne« verschickt zu haben, und stattdessen den »The Atlantic«-Chefredakteur attackiert: »einen betrügerischen und hochgradig diskreditierten sogenannten Journalisten«, der es sich zur Aufgabe gemacht habe, »immer wieder mit Falschmeldungen hausieren zu gehen«.Auch US-Präsident Trump hatte den Vorfall anschließend als »Ausrutscher« abgetan. Seine Sprecherin Karoline Leavitt hatte erklärt, in der Chatgruppe seien »keine Kriegspläne« diskutiert und »keine als geheim eingestuften Informationen ausgetauscht« worden.Im Zentrum der Kritik: US-Verteidigungsminister Pete Hegseth",
+        "ranked": 14,
+        "placed": "Abroad",
+        "epoch": 1743019207.9346137,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "USA: »The Atlantic« publishes detailed signal chat history to blow against Huthis",
+        "en_content": "The US magazine »The Atlantic« has further chat news about attack plans on the Huthi militia in Yemen . In numerous screenshots, details such as exact attack times and the aircraft used are included. \"The Atlantic\" decided according to his own information on the release after the government had repeatedly contested the fact that secret information had been exchanged in the chat.The \"Atlantic\" editor Jeffrey Goldberg had apparently been exchanged in an article at the beginning of the week that he had apparently been invited by a mistake in a governmental chat group in the messenger service signal, in which Now he and co-author Shane Harris write: \"There is a clear public interest in revealing the kind of information that advisors [from US President Donald Trump] have exchanged in uncertain communication channels\" – especially because the Trump administration is trying to play down the importance of the news. The abbreviation \"et\" behind the timeline is likely to be \"Eastern Time\", i.e. US-American East Coastal Time.»1215et: F-18 START (first strike package)1345: › trigger based‹: F-18 first strike window begins (target terrorism is located at its well-known location, should PÜNKTLICH SEIN – also start of attack drones (MQ-1) Objectives)1536: Start of the second F-18 attack – and the first soul-supported Tomahawks will be launched.WEITERES FOLGT (by timeline).«Hegseth had so far disputed that \"war plans\" have been sent, and instead attacked the \"The Atlantic\" editor: \"a fraudulent and highly discredited so-called journalists\" have regained their task. U.S. President Trump also cancelled the incident as a “slip”. His spokesman Karoline Leavitt had explained that \"no war plans\" were discussed in the chat group and \"no information classified as secret\" was exchanged. At the heart of criticism: US Defence Minister Pete Hegseth",
+        "en_subtitle": "From the chat of high-ranking US representatives about a military action in Yemen »The Atlantic« first published only extracts. Then Donald Trump claimed that it wasn't for secret information. Now put the leaf on.",
+        "title_NER": [
+            {
+                "word": "Atlantic",
+                "start_char": 10,
+                "end_char": 18,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Huthis",
+                "start_char": 75,
+                "end_char": 81,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "US",
+                "start_char": 30,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yemen",
+                "start_char": 76,
+                "end_char": 81,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 87,
+                "end_char": 95,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "first",
+                "start_char": 97,
+                "end_char": 102,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 133,
+                "end_char": 145,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "US",
+                "start_char": 4,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Huthi",
+                "start_char": 79,
+                "end_char": 84,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Yemen",
+                "start_char": 96,
+                "end_char": 101,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 205,
+                "end_char": 213,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 386,
+                "end_char": 394,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Jeffrey Goldberg",
+                "start_char": 403,
+                "end_char": 419,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the beginning of the week",
+                "start_char": 467,
+                "end_char": 492,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Shane Harris",
+                "start_char": 634,
+                "end_char": 646,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 745,
+                "end_char": 747,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 758,
+                "end_char": 770,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Trump",
+                "start_char": 849,
+                "end_char": 854,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Eastern Time",
+                "start_char": 980,
+                "end_char": 992,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 1000,
+                "end_char": 1002,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 1051,
+                "end_char": 1056,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "PÜNKTLICH SEIN",
+                "start_char": 1192,
+                "end_char": 1206,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "second",
+                "start_char": 1274,
+                "end_char": 1280,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "first",
+                "start_char": 1303,
+                "end_char": 1308,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Tomahawks",
+                "start_char": 1324,
+                "end_char": 1333,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "WEITERES FOLGT",
+                "start_char": 1351,
+                "end_char": 1365,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "timeline).«Hegseth",
+                "start_char": 1370,
+                "end_char": 1388,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 1472,
+                "end_char": 1480,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 1576,
+                "end_char": 1580,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trump",
+                "start_char": 1591,
+                "end_char": 1596,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Karoline Leavitt",
+                "start_char": 1652,
+                "end_char": 1668,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 1820,
+                "end_char": 1822,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pete Hegseth",
+                "start_char": 1840,
+                "end_char": 1852,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Ukraine meldet massiven Drohnenangriff von Russland",
+        "date_raw": "Wed, 26 Mar 2025 12:22:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-massiven-drohnenangriff-a-485d2c50-0fe3-4bec-89e9-43e933ddbd49#ref=rss",
+        "subtitle": "Einen Tag nach den Gesprächen über eine Waffenruhe im Schwarzen Meer hat Moskau die Ukraine offenbar mit zahlreichen Flugkörpern attackiert. Präsident Selenskyj konstatiert: Russland strebe keinen echten Frieden an.",
+        "content": "Während die Situation um eine mögliche Waffenruhe im Schwarzen Meer zwischen Moskau und Kyjiw unklar ist, halten die russischen Angriffe auf die  unvermindert an. Nach Angaben der Ukraine griff  in der Nacht mit 117 Drohnen an. 56 von ihnen wurden demnach von der ukrainischen Flugabwehr abgeschossen, 48 weitere seien vom Radar verschwunden. In Selenskyjs Heimatstadt Krywyj Rih und in der Grenzregion Sumy wurden nach Behördenangaben mehrere Gebäude beschädigt. Auch die östliche Region  geriet unter Beschuss. Dort wurden nach Angaben von Gouverneur Wadym Filaschkin binnen 24 Stunden drei Menschen getötet.Der ukrainische Präsident  sieht in den Angriffen einen Beleg für den mangelnden Friedenswillen Moskaus. »Angriffe eines solchen Ausmaßes nach Waffenruheverhandlungen sind ein klares Signal an die ganze Welt, dass Moskau keinen echten Frieden anstrebt«, schrieb Selenskyj . Der Westen müsse mehr Druck auf Kremlchef  ausüben, forderte Selenskyj. Auch weitere US-Sanktionen gegen Moskau seien notwendig.Das Weiße Haus hatte am Dienstag erklärt, Kyjiw und Moskau hätten bei Gesprächen in Saudi-Arabien über eine Waffenruhe im Ukrainekrieg einen Verzicht auf Angriffe im Schwarzen Meer zugesagt. .Das russische Verteidigungsministerium meldete seinerseits einen Angriff der Ukraine auf die Energieinfrastruktur und warf dem Land eine Verletzung des entsprechenden Abkommens vor. Kyjiw habe versucht, ein Gasspeicherwerk auf der von Russland annektierten Krim sowie die Energieinfrastruktur in den russischen Regionen Kursk und Brjansk anzugreifen, hieß es in einer Erklärung.Tatsächlich ist unklar, ob ein solches Abkommen überhaupt in Kraft ist. Der Kreml legte am Dienstagabend eine Liste darunterfallender Objekte vor. Der Angriffsstopp gilt demnach für Ölraffinerien, Pipelines, Pumpstationen sowie Öl- und Gasspeicher, Kraftwerke und Umspannwerke, Atomkraftwerke und Wasserkraftwerke.Moskau halte sich seit dem 18. März an diese Beschränkung, behauptete der Kreml. An dem Tag hatten US-Präsident  und Kremlchef Wladimir Putin miteinander telefoniert. Nach ukrainischen Angaben gibt es für die Aussetzung der Attacken auf die Energieinfrastruktur allerdings noch keinen festgelegten Beginn.Krywyj Rih nach einem Luftangriff am 12. März",
+        "ranked": 18,
+        "placed": "Abroad",
+        "epoch": 1743019207.9483294,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Ukraine reports massive drone attack from Russia",
+        "en_content": "While the situation around a possible ceasefire in the Black Sea between Moscow and Kyjiw is unclear, the Russian attacks stop the unrestricted. According to Ukraine, 117 drones attacked the night. 56 of them were shot off by the Ukrainian anti-aircraft, 48 more had disappeared from the radar. Several buildings were damaged in Selenskyj’s home town Krywyj Rih and in the border region Sumy, according to the authorities. The eastern region was also under fire. According to Governor Wadym Filaschkin, three people were killed within 24 hours.The Ukrainian President sees in the attacks a proof of the lack of peace in Moscow. \"Acts of such an extent after ceasefire negotiations are a clear signal to the whole world that Moscow does not seek real peace\", wrote Selenskyj. The West must exert more pressure on Kremlin chief, demanded Selenskyj. Other US sanctions against Moscow were also necessary.The White House had declared on Tuesday that Kyjiw and Moscow would have waived attacks in the Black Sea during talks in Saudi Arabia on a ceasefire in the Ukraine war. .The Russian Ministry of Defence, in turn, reported an attack by Ukraine on the energy infrastructure and accused the country of an infringement of the relevant agreement. Kyjiw has tried to attack a gas storage plant on the Crimea annexed by Russia and the energy infrastructure in the Russian regions of Kursk and Brjansk, according to a statement. The Kremlin presented a list of underlying objects on Tuesday night. The stoppage thus applies to oil refineries, pipelines, pump stations as well as oil and gas reservoirs, power plants and substations, nuclear power plants and hydropower plants.Moscow has remained since the 18th century. March to this restriction, the Kremlin claimed. On the day, US president and Kremlin chief Wladimir Putin had telephoned. According to Ukrainian information, however, there is no fixed start for the suspension of the attacks on the energy infrastructure.Krywyj Rih after an air raid on 12. March",
+        "en_subtitle": "One day after the talks about a ceasefire in the Black Sea, Moscow apparently attacked Ukraine with numerous missiles. President Selenskyj states: Russia does not seek real peace.",
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 42,
+                "end_char": 48,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "One day",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 45,
+                "end_char": 58,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 60,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 87,
+                "end_char": 94,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 147,
+                "end_char": 153,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "the Black Sea",
+                "start_char": 51,
+                "end_char": 64,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 73,
+                "end_char": 79,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kyjiw",
+                "start_char": 84,
+                "end_char": 89,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 106,
+                "end_char": 113,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 158,
+                "end_char": 165,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "117",
+                "start_char": 167,
+                "end_char": 170,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the night",
+                "start_char": 187,
+                "end_char": 196,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "56",
+                "start_char": 198,
+                "end_char": 200,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 230,
+                "end_char": 239,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "48",
+                "start_char": 255,
+                "end_char": 257,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Krywyj Rih",
+                "start_char": 351,
+                "end_char": 361,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sumy",
+                "start_char": 387,
+                "end_char": 391,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Wadym Filaschkin",
+                "start_char": 485,
+                "end_char": 501,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 503,
+                "end_char": 508,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "24 hours",
+                "start_char": 535,
+                "end_char": 543,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 548,
+                "end_char": 557,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 620,
+                "end_char": 626,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 724,
+                "end_char": 730,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "West",
+                "start_char": 779,
+                "end_char": 783,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 812,
+                "end_char": 819,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 853,
+                "end_char": 855,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 874,
+                "end_char": 880,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The White House",
+                "start_char": 901,
+                "end_char": 916,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 933,
+                "end_char": 940,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kyjiw",
+                "start_char": 946,
+                "end_char": 951,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 956,
+                "end_char": 962,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Black Sea",
+                "start_char": 992,
+                "end_char": 1005,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Saudi Arabia",
+                "start_char": 1022,
+                "end_char": 1034,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Ukraine war",
+                "start_char": 1053,
+                "end_char": 1068,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": ".The Russian Ministry of Defence",
+                "start_char": 1070,
+                "end_char": 1102,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1135,
+                "end_char": 1142,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kyjiw",
+                "start_char": 1242,
+                "end_char": 1247,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Crimea",
+                "start_char": 1295,
+                "end_char": 1301,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1313,
+                "end_char": 1319,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1357,
+                "end_char": 1364,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kursk",
+                "start_char": 1376,
+                "end_char": 1381,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Brjansk",
+                "start_char": 1386,
+                "end_char": 1393,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 1425,
+                "end_char": 1432,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuesday night",
+                "start_char": 1475,
+                "end_char": 1488,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 1668,
+                "end_char": 1674,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the 18th century",
+                "start_char": 1694,
+                "end_char": 1710,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "March",
+                "start_char": 1712,
+                "end_char": 1717,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 1743,
+                "end_char": 1750,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the day",
+                "start_char": 1763,
+                "end_char": 1770,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US",
+                "start_char": 1772,
+                "end_char": 1774,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kremlin",
+                "start_char": 1789,
+                "end_char": 1796,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wladimir Putin",
+                "start_char": 1803,
+                "end_char": 1817,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1847,
+                "end_char": 1856,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Krywyj Rih",
+                "start_char": 1966,
+                "end_char": 1976,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "12",
+                "start_char": 1998,
+                "end_char": 2000,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "March",
+                "start_char": 2002,
+                "end_char": 2007,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Türkei: AKP-Mitgründer Hüseyin Çelik krisitiert Recep Tayyip Erdoğan",
+        "date_raw": "Wed, 26 Mar 2025 14:45:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/tuerkei-akp-mitgruender-hueseyin-celik-krisitiert-recep-tayyip-erdogan-interview-a-32661ee0-810b-422d-b501-ed4b60a602e2#ref=rss",
+        "subtitle": "Das Vorgehen gegen den Oppositionspolitiker İmamoğlu besorgt auch langjährige Wegbegleiter des türkischen Präsidenten. Im Interview findet AKP-Mitgründer Hüseyin Çelik deutliche Worte – und zieht Parallelen zur Verhaftung Erdoğans 1999.",
+        "content": "Protest in Istanbul: Seit Tagen halten die Massendemonstrationen, ausgelöst durch die Inhaftierung von Ekrem İmamoğlu, an",
+        "ranked": 13,
+        "placed": "Abroad",
+        "epoch": 1743019207.9709766,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Turkey: ACP co-founder Hüseyin Çelik krisiiert Recep Tayyip Erdoğan",
+        "en_content": "Protest in Istanbul: For days, the mass demonstrations, triggered by the imprisonment of Ekrem İmamoğlu, have stopped",
+        "en_subtitle": "The action against the opposition politician İmamoğlu also concerns long-term supporters of the Turkish President. In the interview, ACP co-founder Hüseyin Çelik finds clear words – and draws parallels to the arrest of Erdoğans in 1999.",
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "ACP co-",
+                "start_char": 8,
+                "end_char": 15,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hüseyin Çelik",
+                "start_char": 23,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Recep Tayyip Erdoğan",
+                "start_char": 47,
+                "end_char": 67,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "İmamoğlu",
+                "start_char": 45,
+                "end_char": 53,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 96,
+                "end_char": 103,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "ACP",
+                "start_char": 133,
+                "end_char": 136,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hüseyin Çelik",
+                "start_char": 148,
+                "end_char": 161,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdoğans",
+                "start_char": 219,
+                "end_char": 227,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1999",
+                "start_char": 231,
+                "end_char": 235,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Istanbul",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "days",
+                "start_char": 25,
+                "end_char": 29,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ekrem İmamoğlu",
+                "start_char": 89,
+                "end_char": 103,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Griechenland: Kadetten verunglimpfen bei Parade die Türkei – Ankara fordert Klarstellung",
+        "date_raw": "Wed, 26 Mar 2025 15:24:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/griechenland-kadetten-verunglimpfen-bei-parade-die-tuerkei-ankara-fordert-klarstellung-a-d9283055-b206-45f7-9638-9e56778725fc#ref=rss",
+        "subtitle": "Zum Nationalfeiertag hält Griechenlands Militär in Athen traditionell Paraden ab. Eine Einheit fiel dabei nun durch einen türkeifeindlichen Ruf auf. Der Vorfall führt zu diplomatischen Verstimmungen.",
+        "content": "Für Militärfans sind die Paraden der griechischen Streitkräfte im Athener Zentrum zum Unabhängigkeitstag des Landes ein Spektakel. Kampfjets und Helikopter donnern jährlich am 25. März über die Hauptstadt, Panzer fahren auf. Kleinere Paraden gibt es an dem Feiertag im ganzen Land, Kinder tragen Trachten, die Nationalflagge ist omnipräsent.Bei einer Kadetteneinheit der Marineakademie NCO schlug der Nationalstolz gestern allerdings in herabwürdigende Äußerungen gegen die  um. Wie auf Videos eines Teils der Parade zu sehen und zu hören ist, riefen die Militärschüler: »Zypern ist griechisch«, gefolgt von einer wüsten Beschimpfung gegen das Nachbarland.Die Äußerungen belasten die ohnehin komplizierten Beziehungen zwischen Athen und  aufs Neue. Wie die Zeitung  berichtet, habe die Türkei mit deutlichen Worten eine Erklärung für den Vorfall verlangt.Die Mittelmeerinsel  ist seit 1974 faktisch geteilt. Die Türkei hatte damals einen Teil der Insel als Reaktion auf einen durch die griechische Junta unterstützten Putsch völkerrechtswidrig besetzt.Nur der Süden der Insel wird heute von der Regierung der Republik Zypern kontrolliert. Der Norden Zyperns wird von der Türkischen Republik Nordzypern kontrolliert, die nur von der Türkei anerkannt wird und eng an Ankara gebunden ist.Griechische Nationalisten beharren darauf, dass trotz der inzwischen jahrzehntelangen ethnischen Teilung die gesamte Insel weiterhin griechisch sei. So offenbar auch die Kadetten.Für sie könnten die Äußerungen nun Konsequenzen haben. Denn auch in griechischen Regierungs- und Armeekreisen gibt es laut »Kathimerini« Unmut über die Rufe. Die Kadetten und die Führung der Marineakademie sollen demnach zur Rede gestellt werden.Militärparade im Athener ZentrumMilitärparade vor dem griechischen Parlament",
+        "ranked": 12,
+        "placed": "Abroad",
+        "epoch": 1743019207.986453,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Greece: Cadets infiltrate Turkey at Parade – Ankara calls for clarification",
+        "en_content": "For military fans, the parades of the Greek armed forces in the Athens Centre are a spectacle for the independence day of the country. Fighting jets and helicopters thunder annually on 25. March over the capital, tanks go up. Smaller parades exist on the holiday in the whole country, children carry costumes, the national flag is omnipresent.In a cadet unit of the marine academy NCO, however, the national pride struck yesterday in degrading statements against the ones. As can be seen and heard on videos from a part of the parade, the military pupils shouted: \"Cyprus is Greek\", followed by a gloomy vaccination against the neighbouring country.The statements burden the already complicated relations between Athens and New. As the newspaper reports, Turkey has clearly demanded an explanation of the incident.The Mediterranean island has been in fact divided since 1974. At that time, Turkey had occupied part of the island in response to a coup supported by the Greek junta.Only the south of the island is now controlled by the government of the Republic of Cyprus. The north of Cyprus is controlled by the Turkish Republic of Northern Cyprus, which is only recognised by Turkey and closely bound to Ankara.Greek nationalists insist that, despite the now decades of ethnic division, the entire island remains Greek. So obviously also the cadets.The statements could now have consequences for them. For there is also in Greek government and army circles, according to »Kathimerini«, immity over the calls. The cadets and the leadership of the naval academy are to be discussed.",
+        "en_subtitle": "Greece's military traditionally holds parades for the National Day in Athens. One unit now fell through a turkey-indial call. The incident leads to diplomatic mistakes.",
+        "title_NER": [
+            {
+                "word": "Greece",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 26,
+                "end_char": 32,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 45,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Greece",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the National Day",
+                "start_char": 50,
+                "end_char": 66,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Athens",
+                "start_char": 70,
+                "end_char": 76,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "One",
+                "start_char": 78,
+                "end_char": 81,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Greek",
+                "start_char": 38,
+                "end_char": 43,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Athens Centre",
+                "start_char": 60,
+                "end_char": 77,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "annually",
+                "start_char": 173,
+                "end_char": 181,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "25",
+                "start_char": 185,
+                "end_char": 187,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "March",
+                "start_char": 189,
+                "end_char": 194,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the holiday",
+                "start_char": 251,
+                "end_char": 262,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the marine academy NCO",
+                "start_char": 362,
+                "end_char": 384,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 421,
+                "end_char": 430,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Cyprus",
+                "start_char": 565,
+                "end_char": 571,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greek",
+                "start_char": 575,
+                "end_char": 580,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Athens",
+                "start_char": 713,
+                "end_char": 719,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "New",
+                "start_char": 724,
+                "end_char": 727,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 755,
+                "end_char": 761,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mediterranean",
+                "start_char": 818,
+                "end_char": 831,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "1974",
+                "start_char": 870,
+                "end_char": 874,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 890,
+                "end_char": 896,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greek",
+                "start_char": 968,
+                "end_char": 973,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Republic of Cyprus",
+                "start_char": 1048,
+                "end_char": 1070,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Cyprus",
+                "start_char": 1085,
+                "end_char": 1091,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Turkish Republic of Northern Cyprus",
+                "start_char": 1109,
+                "end_char": 1148,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 1178,
+                "end_char": 1184,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ankara",
+                "start_char": 1206,
+                "end_char": 1212,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greek",
+                "start_char": 1213,
+                "end_char": 1218,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the now decades",
+                "start_char": 1253,
+                "end_char": 1268,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Greek",
+                "start_char": 1315,
+                "end_char": 1320,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Greek",
+                "start_char": 1425,
+                "end_char": 1430,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the naval academy",
+                "start_char": 1544,
+                "end_char": 1561,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Russland-Ukraine-Krieg: Sind die Verhandlungen in Riad gescheitert?",
+        "date_raw": "Wed, 26 Mar 2025 16:56:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/ukraine-krieg-sind-die-verhandlungen-in-riad-gescheitert-a-8a342332-5c21-48e8-84b3-8e5beeeb5fac#ref=rss",
+        "subtitle": "Die Trump-Regierung wollte in Riad eine Waffenruhe in der Ukraine vermitteln. Doch nun stellt Russland Forderungen, die Moskau Vorteile verschaffen sollen – und den Konflikt zwischen den USA und Europa vertiefen könnten.",
+        "content": "Zerstörte Wohnung in Kyjiw: Eine Einigung voller Widersprüche",
+        "ranked": 10,
+        "placed": "Abroad",
+        "epoch": 1743019207.999741,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:07",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.07",
+        "en_title": "Russia Ukraine War: Have the negotiations failed in Riad?",
+        "en_content": "Destroyed apartment in Kyjiw: An agreement full of contradictions",
+        "en_subtitle": "The Trump administration wanted to convey a ceasefire in Riad in Ukraine. However, Russia is now making demands for Moscow to provide benefits and to deepen the conflict between the US and Europe.",
+        "title_NER": [
+            {
+                "word": "Russia",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Riad",
+                "start_char": 52,
+                "end_char": 56,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Trump",
+                "start_char": 4,
+                "end_char": 9,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Riad",
+                "start_char": 57,
+                "end_char": 61,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 65,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 83,
+                "end_char": 89,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Moscow",
+                "start_char": 116,
+                "end_char": 122,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 182,
+                "end_char": 184,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 189,
+                "end_char": 195,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Kyjiw",
+                "start_char": 23,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Litauen: Vermisste US-Soldaten gestorben – NATO-Generalsekretär Rutte spricht von „tragischer Nachricht“",
+        "date_raw": "Wed, 26 Mar 2025 19:35:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/litauen-vermisste-us-soldaten-gestorben-nato-generalsekretaer-rutte-spricht-von-tragischer-nachricht-a-1b683894-1577-4f4e-8a6a-bdd17afa0b20#ref=rss",
+        "subtitle": "Während eines Trainings in Litauen sind vier US-Soldaten ums Leben gekommen. Nato-Generalsekretär Mark Rutte bestätigte den Vorfall, nannte aber keine Details. Ein US-Beamter sprach von einem Trainingsunfall.",
+        "content": "Nato-Generalsekretär  erklärte am Mittwoch, dass die vier US-Soldaten, die während einer Übung in  als vermisst gemeldet wurden, gestorben seien. Genauere Informationen lagen ihm jedoch noch nicht vor. Ein US-Beamter bestätigte lediglich, dass die Soldaten in einen Trainingsunfall verwickelt waren. Er sprach unter der Bedingung der Anonymität und wollte sich nicht zum aktuellen Status der Soldaten äußern.Während eines Besuchs in  teilte Rutte mit, er habe die Nachricht vom Tod der Soldaten erhalten und sei mit seinen Gedanken bei ihren Familien sowie den Vereinigten Staaten. »Es handelt sich um eine frühe Meldung, daher kennen wir die Einzelheiten noch nicht. Dies ist eine äußerst tragische Nachricht, und unser Mitgefühl gilt den Familien und Angehörigen«, sagte Rutte vor Journalisten in der polnischen Hauptstadt.Laut einer Mitteilung der Abteilung für öffentliche Angelegenheiten der US-Armee für  und  in  nahmen die Soldaten zum Zeitpunkt des Vorfalls an einem geplanten taktischen Training teil.Der litauische öffentlich-rechtliche Rundfunk LRT berichtete, dass vier US-Soldaten und ein Fahrzeug am Dienstagnachmittag während einer Übung auf dem Truppenübungsplatz General Silvestras Žukauskas in Pabradė als vermisst gemeldet wurden. Die Stadt liegt weniger als zehn Kilometer von der Grenze zu  entfernt.Litauen,  und  sind Nato-Mitglieder und pflegen seit ihrer Unabhängigkeit von der  im Jahr 1990 oft angespannte Beziehungen zu , einem engen Verbündeten von Belarus. Diese Spannungen verschärften sich weiter, als Russland 2022 die  angriff. Der litauische Präsident Gitanas Nausėda gehört seitdem zu den entschiedensten Unterstützern der Ukraine im Kampf gegen die russischen Truppen unter Präsident .Grenze zu Belarus, von Litauen aus gesehen",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1743019208.0136406,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:08",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.08",
+        "en_title": "Lithuania: Missed US soldiers died – NATO Secretary General Rutte speaks of “ tragic news”",
+        "en_content": "Nato Secretary General stated on Wednesday that the four US soldiers reported missing during an exercise had died. More detailed information was not available to him. A US official only confirmed that the soldiers were involved in a training accident. He spoke under the condition of anonymity and did not want to comment on the current status of soldiers. During a visit to Rutte told us that he received the news of the death of the soldiers and was with his thoughts with their families and the United States. \"This is an early announcement, so we do not know the details yet. This is an extremely tragic news, and our compassion applies to families and relatives,\" said Rutte before journalists in the Polish capital.According to a communication from the Department of Public Affairs of the U.S. Army for and in, the soldiers participated in a planned tactical training at the time of the incident.The Lithuanian public broadcast LRT reported that four U.S. soldiers and one vehicle were reported to the exercise on Tuesday afternoon. The city is less than ten kilometres from the border to the border.Lithuania, and are Nato members and have been cultivating since their independence from relations often strained in 1990, a close ally of Belarus. These tensions were further strengthened when Russia attacked in 2022. Since then, Lithuanian President Gitanas Nausėda has been one of the most decisive supporters of Ukraine in the fight against Russian troops under President .Grenze to Belarus, seen from Lithuania",
+        "en_subtitle": "Four US soldiers died during a training in Lithuania. Nato Secretary General Mark Rutte confirmed the incident, but didn't call details. A U.S. official spoke of a training accident.",
+        "title_NER": [
+            {
+                "word": "Lithuania",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO",
+                "start_char": 37,
+                "end_char": 41,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rutte",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Four",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "US",
+                "start_char": 5,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 43,
+                "end_char": 52,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nato",
+                "start_char": 54,
+                "end_char": 58,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mark Rutte",
+                "start_char": 77,
+                "end_char": 87,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 139,
+                "end_char": 143,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Nato",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 33,
+                "end_char": 42,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "four",
+                "start_char": 52,
+                "end_char": 56,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "US",
+                "start_char": 57,
+                "end_char": 59,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 169,
+                "end_char": 171,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rutte",
+                "start_char": 375,
+                "end_char": 380,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the United States",
+                "start_char": 494,
+                "end_char": 511,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rutte",
+                "start_char": 674,
+                "end_char": 679,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Polish",
+                "start_char": 706,
+                "end_char": 712,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Department of Public Affairs",
+                "start_char": 755,
+                "end_char": 787,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the U.S. Army",
+                "start_char": 791,
+                "end_char": 804,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lithuanian",
+                "start_char": 906,
+                "end_char": 916,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "LRT",
+                "start_char": 934,
+                "end_char": 937,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "four",
+                "start_char": 952,
+                "end_char": 956,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 957,
+                "end_char": 961,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "one",
+                "start_char": 975,
+                "end_char": 978,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 1020,
+                "end_char": 1027,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 1028,
+                "end_char": 1037,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "less than",
+                "start_char": 1051,
+                "end_char": 1060,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 1106,
+                "end_char": 1115,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nato",
+                "start_char": 1125,
+                "end_char": 1129,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "1990",
+                "start_char": 1222,
+                "end_char": 1226,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Belarus",
+                "start_char": 1244,
+                "end_char": 1251,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 1299,
+                "end_char": 1305,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2022",
+                "start_char": 1318,
+                "end_char": 1322,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Lithuanian",
+                "start_char": 1336,
+                "end_char": 1346,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Gitanas Nausėda",
+                "start_char": 1357,
+                "end_char": 1372,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1421,
+                "end_char": 1428,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1450,
+                "end_char": 1457,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Belarus",
+                "start_char": 1492,
+                "end_char": 1499,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 1511,
+                "end_char": 1520,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Brasilien: Ex-Präsident Jair Bolsonaro muss sich vor Gericht verantworten",
+        "date_raw": "Wed, 26 Mar 2025 18:53:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten-a-366082dc-618e-4fb8-9ebc-6dc5376b27a0#ref=rss",
+        "subtitle": "Brasiliens früherer Staatschef Jair Bolsonaro muss sich wegen Putschvorwürfen einem Prozess stellen: Das entschied das Oberste Gericht des Landes. Dem Ex-Präsidenten drohen mehrere Jahre Haft.",
+        "content": "Brasiliens Ex-Präsident  soll wegen eines mutmaßlichen Putschversuchs der Prozess gemacht werden. Der Oberste Gerichtshof das Landes befand, dass ausreichend Beweise hierfür gegen den rechten Politiker vorliegen. Bolsonaro soll versucht haben, den Amtsantritt seines linksgerichteten Nachfolgers  nach dessen Sieg bei der Präsidentschaftswahl im Oktober 2022 zu verhindern.Die Staatsanwaltschaft hatte am 19. Februar formell . Zu den fünf Anklagepunkten zählt auch die Bildung einer »bewaffneten kriminellen Organisation«, die einen Plan zur Ermordung von Lula, seines Stellvertreters und eines Richters am Obersten Gericht ausgearbeitet haben soll. Ein weiterer Anklagepunkt lautet »Versuch der gewaltsamen Abschaffung des demokratischen Rechtsstaats«.Bolsonaro, der von 2019 bis 2022 Präsident Brasiliens war, wies am Dienstag in einer Erklärung alle Vorwürfe zurück. »Sie beschuldigen mich eines Verbrechens, das ich nicht begangen habe«, erklärte der rechtsextreme Politiker. Er sei Opfer »der größten politisch-juristischen Verfolgung in der Geschichte Brasiliens«.Bolsonaro hofft auf ein politisches Comeback und möchte 2026 bei der nächsten Präsidentschaftswahl in seinem Heimatland antreten. Das darf er aber nach jetzigem Stand gar nicht: Das brasilianische Wahlgericht schloss Bolsonaro 2023 bis 2030 von politischen Ämtern aus, da er ohne Beweise die Zuverlässigkeit des elektronischen Wahlsystems in Zweifel gezogen hatte.Der linksgerichtete Lula hatte im Oktober 2022 die Präsidentschaftswahl gegen Bolsonaro gewonnen und am 1. Januar 2023 sein Amt angetreten. Eine Woche später wurde  von gewaltsamen Ausschreitungen erschüttert, als Bolsonaro-Anhänger den Kongress, den Amtssitz des Präsidenten sowie das Oberste Gericht stürmten und dort stundenlang schwere Verwüstungen anrichteten.Brasiliens früherer Präsident Jair Bolsonaro",
+        "ranked": 8,
+        "placed": "Abroad",
+        "epoch": 1743019208.0278745,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:08",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.08",
+        "en_title": "Brazil: Ex-President Jair Bolsonaro must be in charge",
+        "en_content": "Brazil's ex-president is supposed to be involved in the process for alleged coup attempts. The Supreme Court found that there was sufficient evidence against the right-wing politician. Bolsonaro should have tried to prevent his left-wing successor from entering office after his victory at the presidential election in October 2022. One of the five accusations is the formation of a \"armed criminal organization\" which is supposed to have prepared a plan for the murder of Lula, his deputy and a judge at the Supreme Court. Another indictment is the \"exploration of the violent abolition of the democratic rule of law\".Bolsonaro, who was President of Brazil from 2019 to 2022, rejected all the accusations in a statement on Tuesday. \"They accuse me of a crime I have not committed,\" said the extreme right-wing politician. He is a victim of »the greatest political-legal persecution in Brazil’s history«.Bolsonaro hopes for a political comeback and wants to arrive at the next presidential election in his home country in 2026. But he must not do that at present: The Brazilian electoral court ruled Bolsonaro from 2023 to 2030 by political offices, as he had doubted without proof the reliability of the electronic electoral system.The left-wing Lula won the presidential election against Bolsonaro in October 2022 and on 1st. January 2023 A week later, violent outrages were shocked when Bolsonaro followers stormed the Congress, the President's office and the Supreme Court, where they caused severe devastation for hours.",
+        "en_subtitle": "Brazil's former head of state Jair Bolsonaro has to face a trial for coup charges: this was decided by the country's Supreme Court. The ex-president is threatened for several years.",
+        "title_NER": [
+            {
+                "word": "Brazil",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jair Bolsonaro",
+                "start_char": 21,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Brazil",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Jair Bolsonaro",
+                "start_char": 30,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Supreme Court",
+                "start_char": 117,
+                "end_char": 130,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "several years",
+                "start_char": 167,
+                "end_char": 180,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Brazil",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The Supreme Court",
+                "start_char": 91,
+                "end_char": 108,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 185,
+                "end_char": 194,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "October 2022",
+                "start_char": 319,
+                "end_char": 331,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "One",
+                "start_char": 333,
+                "end_char": 336,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "five",
+                "start_char": 344,
+                "end_char": 348,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Lula",
+                "start_char": 473,
+                "end_char": 477,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Supreme Court",
+                "start_char": 505,
+                "end_char": 522,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 619,
+                "end_char": 628,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Brazil",
+                "start_char": 651,
+                "end_char": 657,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "2019",
+                "start_char": 663,
+                "end_char": 667,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2022",
+                "start_char": 671,
+                "end_char": 675,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 724,
+                "end_char": 731,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Brazil",
+                "start_char": 886,
+                "end_char": 892,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 904,
+                "end_char": 913,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2026",
+                "start_char": 1022,
+                "end_char": 1026,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Brazilian",
+                "start_char": 1068,
+                "end_char": 1077,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 1100,
+                "end_char": 1109,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2023",
+                "start_char": 1115,
+                "end_char": 1119,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2030",
+                "start_char": 1123,
+                "end_char": 1127,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Lula",
+                "start_char": 1247,
+                "end_char": 1251,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 1290,
+                "end_char": 1299,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "October 2022",
+                "start_char": 1303,
+                "end_char": 1315,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "January 2023",
+                "start_char": 1328,
+                "end_char": 1340,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "A week later",
+                "start_char": 1341,
+                "end_char": 1353,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bolsonaro",
+                "start_char": 1390,
+                "end_char": 1399,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Congress",
+                "start_char": 1422,
+                "end_char": 1430,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Supreme Court",
+                "start_char": 1459,
+                "end_char": 1476,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "hours",
+                "start_char": 1519,
+                "end_char": 1524,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ]
+    },
+    {
+        "title": "Litauen: Vier US-Soldaten nach Übung an Grenze zu Belarus vermisst",
+        "date_raw": "Wed, 26 Mar 2025 16:41:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst-a-a8e0c956-17ff-4fdb-92f2-05407ab8ee6a#ref=rss",
+        "subtitle": "Die US-Streitkräfte in Litauen suchen derzeit fieberhaft nach vier Militärangehörigen. Die Soldaten verschwanden bei einer Übung wenige Kilometer von der belarussischen Grenze – offenbar mit einem Kettenfahrzeug.",
+        "content": "Vier Soldaten der US-Armee sind nach einer Übung in  nicht mehr auffindbar. Militär und Polizei des baltischen Landes suchen gemeinsam mit dem amerikanischen Militär nach ihnen, .Den Angaben zufolge verschwanden die Soldaten nach einer Übung auf einem Truppenübungsplatz in der Nähe von Pabrade in Ostlitauen nahe der Grenze zu .»Die Soldaten, alle aus der 1. Brigade der 3. Infanteriedivision, führten zum Zeitpunkt des Vorfalls ein planmäßiges taktisches Training durch«, hieß es. »Such- und Bergungsarbeiten sind im Gange.«Die litauischen Streitkräfte erklärten zudem, sie seien am Dienstag darüber informiert worden, dass vier US-Soldaten vermisst würden. Anders als in der US-Mitteilung ist in der litauischen Meldung auch die Rede . Demnach verschwanden die Soldaten am Dienstagnachmittag.Grenze zu Belarus, von Litauen aus gesehen",
+        "ranked": 11,
+        "placed": "Abroad",
+        "epoch": 1743019208.040778,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:08",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.08",
+        "en_title": "Lithuania: Four US soldiers missing after exercise at border to Belarus",
+        "en_content": "Four soldiers of the U.S. Army can no longer be found after an exercise. The military and police of the Baltic country are looking for them together with the American military. According to the information, the soldiers disappeared after an exercise on a military exercise site near Pabrade in East Lithuania near the border.»The soldiers, all from the 1st. Third Brigade Infantry division, a planned tactical training was carried out at the time of the incident,\" it said. The Lithuanian armed forces also stated that they were informed on Tuesday that four US soldiers were missing. In contrast to the U.S. communication, the Lithuanian message also speaks. According to this, the soldiers disappeared on Tuesday afternoon.",
+        "en_subtitle": "The U.S. forces in Lithuania are currently looking for four military personnel. The soldiers disappeared a few kilometers from the Belarusian border during an exercise – apparently with a chain vehicle.",
+        "title_NER": [
+            {
+                "word": "Lithuania",
+                "start_char": 0,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Four",
+                "start_char": 11,
+                "end_char": 15,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "US",
+                "start_char": 16,
+                "end_char": 18,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Belarus",
+                "start_char": 64,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "U.S.",
+                "start_char": 4,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lithuania",
+                "start_char": 19,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "four",
+                "start_char": 55,
+                "end_char": 59,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "a few kilometers",
+                "start_char": 105,
+                "end_char": 121,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "Belarusian",
+                "start_char": 131,
+                "end_char": 141,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Four",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the U.S. Army",
+                "start_char": 17,
+                "end_char": 30,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Baltic",
+                "start_char": 104,
+                "end_char": 110,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "American",
+                "start_char": 158,
+                "end_char": 166,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pabrade",
+                "start_char": 283,
+                "end_char": 290,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "East Lithuania",
+                "start_char": 294,
+                "end_char": 308,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the 1st",
+                "start_char": 349,
+                "end_char": 356,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Third Brigade Infantry",
+                "start_char": 358,
+                "end_char": 380,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Lithuanian",
+                "start_char": 478,
+                "end_char": 488,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 541,
+                "end_char": 548,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "four",
+                "start_char": 554,
+                "end_char": 558,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "US",
+                "start_char": 559,
+                "end_char": 561,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 604,
+                "end_char": 608,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Lithuanian",
+                "start_char": 628,
+                "end_char": 638,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 707,
+                "end_char": 714,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "afternoon",
+                "start_char": 715,
+                "end_char": 724,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ]
+    },
+    {
+        "title": "Türkei: Nuri Aslan wird Interims-OB von Istanbul",
+        "date_raw": "Wed, 26 Mar 2025 18:19:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/tuerkei-nuri-aslan-wird-interims-ob-von-istanbul-a-61dc4377-cedb-4ac5-9132-ebe9968c6080#ref=rss",
+        "subtitle": "Nach der Teilnahme an Anti-Erdoğan-Demos sind in der Türkei etliche Menschen bei Razzien festgenommen worden. Das Stadtparlament von Istanbul bestimmte unterdessen einen Vertreter für den inhaftierten OB İmamoğlu.",
+        "content": "Der von der CHP geführte Stadtrat von  hat einen Interims-Oberbürgermeister für die Leitung der Stadt gewählt. Der 314-köpfige Stadtrat, in dem die größte Oppositionspartei des Landes die Mehrheit hält, wählte laut übereinstimmenden Medienberichten den CHP-Politiker Nuri Aslan mit 177 Stimmen.Zuvor war Amtsinhaber Ekrem İmamoğlu wegen Korruptionsvorwürfen, die er und seine Anhänger bestreiten und als politisiert bezeichnen, in Untersuchungshaft genommen worden. Mittlerweile ist İmamoğlu auch als Oberbürgermeister der Stadt offiziell abgesetzt. İmamoğlus Festnahme hat in der  einen . Die Proteste haben sich mittlerweile zu den größten seit mehreren Jahren entwickelt und richten sich immer deutlicher auch gegen die Regierung unter Präsident Recep Tayyip Erdoğan.Infolge der Proteste wurden erneut Dutzende Menschen wegen der Teilnahme an Demonstrationen gegen die Absetzung des Bürgermeisters festgenommen. Teams der Abteilung für Terrorismusbekämpfung der Istanbuler Polizei hätten in Hausrazzien 106 Personen festgenommen, schrieb die staatliche Nachrichtenagentur Anadolu. Am Dienstag hatte das Innenministerium von mehr als 1400 Festnahmen seit Beginn der Proteste in der Türkei geschrieben.Den Festgenommenen werde der Verstoß gegen das Versammlungsverbot vorgeworfen. Die Demonstrationen sind in Istanbul und anderen Städten untersagt.Die Demonstranten sehen ihrerseits ein Kalkül hinter der Absetzung – İmamoğlu gilt als aussichtsreichster Herausforderer Erdoğans bei einer künftigen Präsidentenwahl. Der Polizei wird teils brutales Vorgehen gegen Demonstranten vorgeworfen. Videos und Bilder zeigen, wie Sicherheitskräfte mit Schlagstöcken, Reizgas und Wasserwerfern gegen sie vorgehen.Präsident Erdoğan deutete unterdessen weitere Vorwürfe gegen die CHP an. Gegen die Partei könnten weitere Ermittlungen folgen – die »dicken Rüben« seien noch nicht aus dem Sack. In dem Falle »werden sie nicht mal mehr in das Gesicht ihrer eigenen Leute sehen können – geschweige denn das des Volkes«, sagte Erdoğan in einer Ansprache.CHP-Chef Özgür Özel warf Erdoğan umgehend vor, falsche Behauptungen aufzustellen. Er forderte den Präsidenten in einer Rede in Istanbul auf, seine Anschuldigungen zu beweisen. Auf angedeutete »dicke Rüben« sagte Özel: »Ich bin mir sicher, dass es keine gibt. Er erzählt die größte Lüge.«Nuri Aslan (M.) nach seiner Wahl zum Interims-Oberbürgermeister",
+        "ranked": 9,
+        "placed": "Abroad",
+        "epoch": 1743019208.0645523,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:08",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.08",
+        "en_title": "Turkey: Nuri Aslan becomes Interims-OB of Istanbul",
+        "en_content": "The CHP-led City Council of has chosen an Interims Mayor for the leadership of the city. The 314-member city council, in which the largest opposition party in the country holds the majority, chose CHP politician Nuri Aslan with 177 votes, according to the media reports that were in agreement. In the meantime, İmamoğlu is also officially replaced as the Mayor of the city. İmamoğlus's arrest has been in one . The protests have now developed into the largest for several years and are increasingly directed against the government under President Recep Tayyip Erdoğan.Thanks to the protests, dozens of people were arrested again for participating in demonstrations against the mayor's abduction. Teams of the Istanbul Police Department would have arrested 106 people in Hausrazzien, wrote the state news agency Anadolu. On Tuesday, the Ministry of Interior had written more than 1400 arrests since the beginning of the protests in Turkey. The demonstrations are prohibited in Istanbul and other cities.The demonstrators see a calculus behind the abortion – İmamoğlu is considered to be the most promising challenger Erdoğans in a future presidential election. The police are sometimes accused of brutal action against demonstrators. Videos and images show how security forces with batons, irritating gas and water throwers are going against them. Further investigations could follow against the party – the \"thick beets\" are not yet out of the bag. In this case, \"they will not even be able to see the face of their own people – let alone that of the people\", Erdoğan said in an address.CHP chief Özgür Özel promptly accused Erdoğan of imposing false claims. He called on the President in a speech in Istanbul to prove his accusations. On indicated \"thick beets\" Özel said: \"I am sure there is no one. He tells the greatest lie.\"Nuri Aslan (M.) after his election to the Interims Mayor",
+        "en_subtitle": "After participation in anti-Erdoğan demos, a number of people in Turkey have been arrested in raids. The city parliament of Istanbul meanwhile determined a representative for the imprisoned OB İmamoğlu.",
+        "title_NER": [
+            {
+                "word": "Turkey",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nuri Aslan",
+                "start_char": 8,
+                "end_char": 18,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Interims-OB",
+                "start_char": 27,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "anti-Erdoğan",
+                "start_char": 23,
+                "end_char": 35,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkey",
+                "start_char": 65,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 124,
+                "end_char": 132,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "OB İmamoğlu",
+                "start_char": 190,
+                "end_char": 201,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "CHP",
+                "start_char": 4,
+                "end_char": 7,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "City Council",
+                "start_char": 12,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Interims",
+                "start_char": 42,
+                "end_char": 50,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "314",
+                "start_char": 93,
+                "end_char": 96,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "CHP",
+                "start_char": 197,
+                "end_char": 200,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nuri Aslan",
+                "start_char": 212,
+                "end_char": 222,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "177",
+                "start_char": 228,
+                "end_char": 231,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "İmamoğlu",
+                "start_char": 311,
+                "end_char": 319,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "several years",
+                "start_char": 464,
+                "end_char": 477,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Recep Tayyip Erdoğan",
+                "start_char": 547,
+                "end_char": 567,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "dozens",
+                "start_char": 592,
+                "end_char": 598,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Istanbul Police Department",
+                "start_char": 705,
+                "end_char": 735,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "106",
+                "start_char": 756,
+                "end_char": 759,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Hausrazzien",
+                "start_char": 770,
+                "end_char": 781,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the state news agency",
+                "start_char": 789,
+                "end_char": 810,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Anadolu",
+                "start_char": 811,
+                "end_char": 818,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tuesday",
+                "start_char": 823,
+                "end_char": 830,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Ministry of Interior",
+                "start_char": 832,
+                "end_char": 856,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "more than 1400",
+                "start_char": 869,
+                "end_char": 883,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 931,
+                "end_char": 937,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 976,
+                "end_char": 984,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdoğans",
+                "start_char": 1116,
+                "end_char": 1124,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Erdoğan",
+                "start_char": 1560,
+                "end_char": 1567,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "CHP",
+                "start_char": 1587,
+                "end_char": 1590,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Özgür Özel",
+                "start_char": 1597,
+                "end_char": 1607,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Erdoğan",
+                "start_char": 1625,
+                "end_char": 1632,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 1701,
+                "end_char": 1709,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Özel",
+                "start_char": 1763,
+                "end_char": 1767,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Aslan",
+                "start_char": 1834,
+                "end_char": 1839,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "M.",
+                "start_char": 1841,
+                "end_char": 1843,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Interims",
+                "start_char": 1871,
+                "end_char": 1879,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "J.D. Vance: US-Vizepräsident plant Grönlandreise mit reduziertem Programm",
+        "date_raw": "Wed, 26 Mar 2025 19:39:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-plant-groenlandreise-mit-reduziertem-programm-a-9d89a009-fe0e-4de3-a63a-4025271f1b8e#ref=rss",
+        "subtitle": "Per Video hat US-Vizepräsident Vance einen Kurztrip nach Grönland verkündet. Er wolle seiner Frau nicht »den ganzen Spaß allein überlassen«. Das Reiseprogramm wurde allerdings etwas zusammengestrichen.",
+        "content": "So jovial kündigt JD Vance einen Besuch auf Grönland an, wohlwissend, dass er damit noch mehr provoziert. Am Sonntag hieß es, die Ehefrau des US-Vizepräsidenten, Usha Vance, wolle unter anderem ein traditionelles Schlittenhunderennen auf Grönland verfolgen. In ihrer Reisegruppe sollten demnach auch der US-Energieminister und der Nationale Sicherheitsberater sein. Und nun auch noch Trumps Vize selbst. Alles im Interesse der Sicherheit der freien Welt, versteht sich.Nuuk, Grönland:Auf der Insel zeigte man sich zunächst nicht sehr erfreut über die amerikanischen Besucher, berichtet diese Politikerin aus Grönland, die im dänischen Parlament sitzt.:Donald Trump macht aus seinem Vorhaben, Grönland den USA einverleiben zu wollen, seit Monaten keinen Hehl.Washington, 04.04.2025:Das Ehepaar Vance hat mittlerweile seine Reisepläne geändert: Statt des Hundeschlittenrennens wollen die beiden jetzt nur die Basis der US-Space Force an der Nordwestküste besuchen. Diese Nachricht soll in grönländischen Regierungskreisen für Erleichterung gesorgt haben.",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1743019208.0778232,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:08",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.08",
+        "en_title": "J.D. Vance: US Vice President plans Greenland trip with reduced program",
+        "en_content": "So jovial, JD Vance announces a visit to Greenland, knowing that it provokes even more. On Sunday, the wife of the U.S. Vice President, Usha Vance, wanted to pursue a traditional sled dog race in Greenland. In their travel group, the US Energy Minister and the National Security Advisor should also be. And now also Trump's Vice itself. All in the interest of the security of the free world, goes without saying.Nuuk, Greenland: At first on the island we were not very pleased with the American visitors, this politician from Greenland, who sits in the Danish Parliament. :Donald Trump does not want to commit Greenland to the USA for months.Washington, 04.04.2025:The couple Vance has changed his travel plans: instead of the dog sled race, the two now only want to visit the base of the US space force on the northwest coast. This message should have provided relief in Greenland government circles.",
+        "en_subtitle": "By video, U.S. Vice President Vance announced a short trip to Greenland. He does not want to leave his wife \"all the fun alone\". However, the travel programme has been summarized.",
+        "title_NER": [
+            {
+                "word": "J.D. Vance",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 12,
+                "end_char": 14,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 36,
+                "end_char": 45,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "U.S.",
+                "start_char": 10,
+                "end_char": 14,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 30,
+                "end_char": 35,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 62,
+                "end_char": 71,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "JD Vance",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 41,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 91,
+                "end_char": 97,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 115,
+                "end_char": 119,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Usha Vance",
+                "start_char": 136,
+                "end_char": 146,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 196,
+                "end_char": 205,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 234,
+                "end_char": 236,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Trump",
+                "start_char": 316,
+                "end_char": 321,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Nuuk",
+                "start_char": 412,
+                "end_char": 416,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 418,
+                "end_char": 427,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 432,
+                "end_char": 437,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "American",
+                "start_char": 486,
+                "end_char": 494,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 526,
+                "end_char": 535,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Danish Parliament",
+                "start_char": 549,
+                "end_char": 570,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 573,
+                "end_char": 585,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 610,
+                "end_char": 619,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "USA",
+                "start_char": 627,
+                "end_char": 630,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "months",
+                "start_char": 635,
+                "end_char": 641,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Washington",
+                "start_char": 642,
+                "end_char": 652,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 676,
+                "end_char": 681,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 746,
+                "end_char": 749,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "US",
+                "start_char": 789,
+                "end_char": 791,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 872,
+                "end_char": 881,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Russland-Ukraine-Krieg: Verdacht auf ukrainische Einflussnahme bei Sabotageakten",
+        "date_raw": "Wed, 26 Mar 2025 19:40:00 +0100",
+        "date": "2025-03-26",
+        "url": "https://www.spiegel.de/ausland/index.rss",
+        "news_url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-verdacht-auf-ukrainische-einflussnahme-bei-sabotageakten-a-0e54bed3-790f-4c36-8a40-d8923d164a0f#ref=rss",
+        "subtitle": "Russische Bürger werden von Erpressern unter Druck gesetzt und richten mit Sabotageakten im ganzen Land schwere Schäden an – an Geldautomaten und in Rekrutierungszentren. Steckt die Ukraine hinter den Aktionen?",
+        "content": "Propaganda-Plakat für den Krieg in Moskau",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1743019208.0993295,
+        "language": "DE",
+        "source": "Spiegel",
+        "local_time": "2025-03-26 21:00:08",
+        "timezone": "Europe/Berlin",
+        "scraping_time": "2025-03-26T20.00.08",
+        "en_title": "Russia Ukrainian War: Suspicion of Ukrainian Influence in Sabotage Acts",
+        "en_content": "Propaganda poster for war in Moscow",
+        "en_subtitle": "Russian citizens are put under pressure by blackmailers, and with sabotage files throughout the country they cause serious damage – to ATMs and recruitment centres. Is Ukraine behind the actions?",
+        "title_NER": [
+            {
+                "word": "Russia",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_NER": [
+            {
+                "word": "Russian",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "ATMs",
+                "start_char": 135,
+                "end_char": 139,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 168,
+                "end_char": 175,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 29,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]
