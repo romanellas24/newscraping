@@ -1,0 +1,3460 @@
+[
+    {
+        "title": "Oggi c'è l'eclissi di sole, ecco dove e come vederla in sicurezza",
+        "date_raw": "Sat, 29 Mar 2025 12:38:08 GMT",
+        "date": "2025-03-29",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-29/eclissi-solare-dove-come-osservarla-30660541/",
+        "subtitle": "",
+        "content": "AGI - Gli occhi di una buona parte dell'Europa, del nord America> e dell'Africa occidentale> sono oggi puntati verso il cielo che offre lo spettacolo dell'eclissi solare parziale>. Nel corso della giornata la luna> passerà davanti al sole>, \"morsicandone\" una piccola parte. Non si raggiungerà dunque l'eclissi totale che permette di godere la corona solare>. \n<h2>Durata e visibilità del fenomeno</h2> \nDurerà poco meno di quattro ore> e sarà visibile negli Stati Uniti>, in Canada>, in parte dell'Artico, in Groenlandia>, nella Russia settentrionale>, in gran parte dell'Europa> e nell'Africa nord-occidentale>. In Italia l'eclissi sarà visibile solo in forma parziale> e interesserà principalmente le regioni del Nord/Ovest>, dove il sole> sarà oscurato fino a circa il 12%>. \n<h2>Il massimo dell'eclissi</h2> \nSecondo l'Osservatorio Astronomico Nazionale>, il massimo dell'eclissi avverrà vicino al Canada>, e avrà una magnitudine massima> di 0,933>, cioè il 93%> del diametro solare sarà nascosto dalla Luna>. \n<h2>Le raccomandazioni&nbsp;</h2> \nAnche se si tratta di un'eclissi parziale>, gli esperti raccomandano di non guardare il sole> direttamente, a occhio nudo o con gli occhiali da sole, né attraverso macchine fotografiche, telescopi o binocoli che non sono predisposti per questo e che non hanno i filtri solari> corrispondenti. Il modo migliore per osservarlo in sicurezza è vedere la sua immagine proiettata su un qualche tipo di schermo situato all'ombra o con speciali occhiali per eclissi>, che hanno filtri incorporati approvati dall'UE (con un indice di opacità 5 o superiore). \n<h2>Le prossime eclissi</h2> \nQuest'anno ci sarà un'eclissi lunare totale> che sarà visibile in gran parte del mondo, il 7 settembre>, e un'eclissi solare parziale, il 21 settembre>, che tuttavia sarà visibile solo nel Pacifico> e in Antartide>. A queste due eclissi totali seguirà un'eclissi anulare> il 26 gennaio 2028>, una triade che non si ripeterà fino al 2101>.",
+        "ranked": 1,
+        "placed": "Esteri",
+        "epoch": 1743253216.9603999,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "Today there is the eclipse of sun, here is where and how to see it safely",
+        "en_content": "AGI - The eyes of a good part of Europe, North America > and West Africa > are now facing the sky offering the spectacle of partial solar eclipse >. In the course of the day the moon > will pass in front of the sun >, \"deathing\" a small part. The total eclipse that allows you to enjoy the solar crown will not be reached.\n<h2>Duration and visibility of the phenomenon\nIt will last a little less than four hours > and will be visible in the United States >, Canada >, part of the Arctic, Greenland >, northern Russia >, most of Europe > and North-West Africa >. In Italy the eclipse will be visible only in partial form > and will mainly affect the regions of the North/West >, where the sun > will be obscured up to about 12% >.\n<h2> The maximum eclipse\nAccording to the National Astronomical Observatory, the maximum of the eclipse will be near Canada>, and will have a maximum magnitude> of 0,933>, i.e. 93%> of the solar diameter will be hidden from the Luna>.\n<h2> Recommendations &nbsp;</h2>\nAlthough it is a partial eclipse, experts recommend not to look at the sun > directly, to the naked eye or sunglasses, or through cameras, telescopes or binoculars which are not prepared for this and which do not have the corresponding solar filters > . The best way to safely observe it is to see its image projected on some kind of screen located in the shade or with special eclipse glasses, which have embedded filters approved by the EU (with a 5 or higher opacity index).\n<h2> The next eclipses\nThis year there will be a total lunar eclipse > which will be visible in most of the world, on 7 September > and a partial solar eclipse, on 21 September >, which will be visible only in the Pacific > and Antarctica >. To these two total eclipses will follow an annual eclipse > on 26 January 2028>, a triad that will not be repeated until 2101>.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Today",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Europe",
+                "start_char": 33,
+                "end_char": 39,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "North America",
+                "start_char": 41,
+                "end_char": 54,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "West Africa",
+                "start_char": 61,
+                "end_char": 72,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the day",
+                "start_char": 166,
+                "end_char": 173,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "less than four hours",
+                "start_char": 391,
+                "end_char": 411,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the United States",
+                "start_char": 437,
+                "end_char": 454,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Canada",
+                "start_char": 458,
+                "end_char": 464,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arctic",
+                "start_char": 480,
+                "end_char": 486,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 488,
+                "end_char": 497,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 510,
+                "end_char": 516,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 528,
+                "end_char": 534,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "North-West Africa",
+                "start_char": 541,
+                "end_char": 558,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Italy",
+                "start_char": 565,
+                "end_char": 570,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "North/West",
+                "start_char": 664,
+                "end_char": 674,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "about 12%",
+                "start_char": 717,
+                "end_char": 726,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the National Astronomical Observatory",
+                "start_char": 768,
+                "end_char": 805,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Canada",
+                "start_char": 847,
+                "end_char": 853,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "0,933",
+                "start_char": 894,
+                "end_char": 899,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "93%",
+                "start_char": 907,
+                "end_char": 910,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Luna",
+                "start_char": 958,
+                "end_char": 962,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 1437,
+                "end_char": 1439,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "5",
+                "start_char": 1448,
+                "end_char": 1449,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "This year",
+                "start_char": 1499,
+                "end_char": 1508,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "7 September",
+                "start_char": 1594,
+                "end_char": 1605,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "21 September",
+                "start_char": 1640,
+                "end_char": 1652,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pacific",
+                "start_char": 1690,
+                "end_char": 1697,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Antarctica",
+                "start_char": 1704,
+                "end_char": 1714,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "two",
+                "start_char": 1727,
+                "end_char": 1730,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "annual",
+                "start_char": 1761,
+                "end_char": 1767,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "26 January 2028",
+                "start_char": 1781,
+                "end_char": 1796,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2101",
+                "start_char": 1839,
+                "end_char": 1843,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "La Danimarca a Vance: \"Non ci piace il tono\" sulla Groenlandia",
+        "date_raw": "Sat, 29 Mar 2025 09:29:53 GMT",
+        "date": "2025-03-29",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-29/groenlandia-danimarca-tono-vance-non-ci-piace-30658795/",
+        "subtitle": "",
+        "content": "AGI - La Danimarca non ha decisamente gradito il modo con cui il vicepresidente degli Stati Uniti JD Vance ha criticato ieri aspramente> la presunta inerzia in Groenlandia. \"Siamo aperti alle critiche, ma, a essere completamente onesti, non ci piace il tono con cui sono state formulate\", ha detto oggi il ministro degli Esteri danese, Lars Lokke Rasmussen, in un video pubblicato su X. \n\"Non è questo il modo di rivolgersi ai tuoi stretti alleati>\", ha sottolineato \"e continuo a considerare la Danimarca e gli Stati Uniti stretti alleati\". \n<h2>L'apertura della Danimarca</h2> \n\"Rispettiamo il fatto che gli Usa abbiano bisogno di una maggiore presenza militare in Groenlandia, come ha detto il vicepresidente Vance. Noi, Danimarca e Groenlandia, siamo aperti a discuterne con voi\", ha assicurato. \n<div></div> \nNel 1951 era stato siglato un accordo di Difesa che \"offre agli Stati Uniti ampie opportunità di una presenza militare> molto più forte in Groenlandia. Se è questo che volete, discutiamone\". \nNel 1945, ha ricordato il ministro, gli Usa avevano in Groenlandia 17 basi con migliaia di soldati. Oggi solo una con 200 militari. \"Possiamo fare di più, molto di più, nella cornice che già abbiamo\".&nbsp; \n&nbsp;",
+        "ranked": 2,
+        "placed": "Esteri",
+        "epoch": 1743253216.9605548,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "Denmark to Vance: \"We don't like tone\" on Greenland",
+        "en_content": "AGI - Denmark has definitely not liked the way the US vice president JD Vance criticized the alleged inertia in Greenland yesterday. \"We are open to criticism, but, to be completely honest, we do not like the tone with which they were formulated\", said today Danish Foreign Minister, Lars Lokke Rasmussen, in a video published on X.\n\"This is not the way to turn to your close allies,\" he said, \"and I continue to consider Denmark and the United States close allies.\"\n<h2> Opening of Denmark\n\"We respect the fact that the US needs more military presence in Greenland, as Vice-President Vance said. We, Denmark and Greenland, are open to discuss it with you,\" he said.\n<div </div\nIn 1951 a defence agreement was signed that \"offering the United States wide opportunities for a much stronger military presence in Greenland. If that's what you want, let's discuss it.\"\nIn 1945, he recalled the minister, the U.S. had 17 bases in Greenland with thousands of soldiers. Today only one with 200 soldiers. \"We can do more, much more, in the frame we already have.\" &nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Denmark",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 11,
+                "end_char": 16,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 42,
+                "end_char": 51,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Denmark",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 51,
+                "end_char": 53,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "JD Vance",
+                "start_char": 69,
+                "end_char": 77,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 112,
+                "end_char": 121,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 122,
+                "end_char": 131,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 253,
+                "end_char": 258,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Danish",
+                "start_char": 259,
+                "end_char": 265,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Lars Lokke Rasmussen",
+                "start_char": 284,
+                "end_char": 304,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 422,
+                "end_char": 429,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United States",
+                "start_char": 434,
+                "end_char": 451,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 483,
+                "end_char": 490,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "US",
+                "start_char": 521,
+                "end_char": 523,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 556,
+                "end_char": 565,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 585,
+                "end_char": 590,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 601,
+                "end_char": 608,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 613,
+                "end_char": 622,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1951",
+                "start_char": 681,
+                "end_char": 685,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the United States",
+                "start_char": 732,
+                "end_char": 749,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 810,
+                "end_char": 819,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1945",
+                "start_char": 868,
+                "end_char": 872,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 904,
+                "end_char": 908,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "17",
+                "start_char": 913,
+                "end_char": 915,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 925,
+                "end_char": 934,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "thousands",
+                "start_char": 940,
+                "end_char": 949,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Today",
+                "start_char": 963,
+                "end_char": 968,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "only one",
+                "start_char": 969,
+                "end_char": 977,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "200",
+                "start_char": 983,
+                "end_char": 986,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Almeno 1.000 morti e 2.400 feriti per il terremoto in Myanmar. Cento persone intrappolate nel crollo di un edificio",
+        "date_raw": "Sat, 29 Mar 2025 09:20:26 GMT",
+        "date": "2025-03-29",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-28/forte-terremoto-myanmar-tremano-anche-thailandia-e-cina-30640883/",
+        "subtitle": "",
+        "content": "AGI - Con il trascorrere delle ore si fa sempre più pesante il bilancio del terremoto di magnitudo 7.7 che venerdì 28 marzo ha colpito il Mynamar. La Giunta militare del Paese asiatico ha reso noto che i morti accertati sono 1.002 e che i feriti sono 2.376>. Ma la Cnn ha riferito che secondo le&nbsp;stime dell'United States Geological Survey (Usgs) è probabile che il numero delle vittime superi le 10mila man mano che vengono rimosse le macerie di edifici sbriciolati> e recuperati i corpi attualmente dati per dispersi:&nbsp;\"L'Usgs ha emesso un'allerta rossa per le vittime stimate del terremoto, indicando 'alte vittime e danni ingenti\". \n&nbsp; \n<div></div> \n&nbsp; \nIl sisma che ieri ha colpito&nbsp;il nord-ovest del Paese è stato avvertito in maniera chiara anche&nbsp;nella vicina Thailandia, dove diversi edifici sono stati danneggiati e almeno uno, un grattacielo, è crollato a Bangkok provocando la morte di una decina di persone. \nIl presidente cinese Xi Jinping >ha inviato oggi un messaggio di cordoglio al capo della giunta del Myanmar, Min Aung Hlaing. Nel testo, Xi \"ha espresso profonda tristezza\" per i danni causati dal sisma, si legge in un comunicato del ministero degli Esteri di Pechino. La Cina, ha assicurato il presidente, è \"disposta a fornire al Myanmar l'assistenza necessaria per sostenere le persone nelle aree colpite\". Pechino ha già inviato in Myanmar una squadra di 82 soccorritori,> rispondendo all'appello del leader della giunta. Un'altra squadra, dallo Yunnan, è arrivata a Yangon, nel Myanmar centrale. Il governo cinese fornirà aiuti umanitari di emergenza per 100 milioni di yuan (12,7 milioni di euro). In ogni caso, anche nel sud della Cina il sisma si è fatto sentire: più di 800 case sono state danneggiate nel comune di Ruili,> nella provincia&nbsp;Yunnan, ha fatto sapere l'agenzia di stampa ufficiale Xinhua. E quasi tremila le persone colpite nella città situata a circa 300 chilometri dall'epicentro del sisma, due hanno riportato lievi ferite. Le amministrazioni locali hanno mobilitato diverse squadre per i soccorsi, il monitoraggio dei rischi geologici, l'ispezione dei bacini idrici, la riparazione degli impianti elettrici e gli interventi stradali. La fornitura di acqua ed elettricità così come i trasporti e le telecomunicazioni sono tornati alla normalità. \n&nbsp; \n<div> \n <div></div> \n</div> \n&nbsp; \nIl sisma, registrato&nbsp;a una profondità di 10 chilometri, intorno alle 12:50 ora locale (6:20 GMT), ha avuto come epicentro la seconda città più grande del Myanmar, Mandalay, >dove si segnala che più di 90 persone sono rimaste intrappolate nel crollo di un edificio.>&nbsp;I soccorritori, ha riferito la Croce Rossa, sono alla ricerca di sopravvissuti in ciò che resta del condominio Sky Villa, un palazzo di dodici piani che non ha resistito al terremoto.&nbsp; \nIn Myanmar la giunta militare al potere ha decretato lo stato di emergenza in sei regioni >e ha lanciato una rara richiesta di aiuti umanitari internazionali. Il capo della giunta militare, Min Aung Hlaing, è arrivato in uno dei principali ospedali di Naypyidaw dove vengono curati i feriti, anche per strada. \nIl terremoto, come detto,&nbsp;è stato avvertito fortemente in tutta la Thailandia >settentrionale e centrale, e poi nel sud, anche nella capitale Bangkok, dove i residenti sono corsi in strada mentre gli edifici tremavano.&nbsp;Il primo ministro thailandese Paetongtarn Shinawatra ha dichiarato lo stato di emergenza> per la capitale Bangkok.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n<h2>Tajani: \"Non ci sono italiani feriti\"</h2> \nNon risultano italiani feriti nel terremoto che ha colpito il Myanmar e la Thailandia. Lo ha dichiarato a 'News Room', su Rai3, il ministro degli Esteri, Antonio Tajani.&nbsp;&nbsp;L'Italia farà tutto il possibile per soccorrere le popolazioni colpite e ha già stanziato 3 milioni di euro per i primi aiuti.&nbsp;&nbsp; \n\"Da ieri mattina la Protezione Civile è stata messa a disposizione di Myanmar e Thailandia, faremo tutto ciò che sarà possibile\", ha assicurato Tajani, \"ho dato immediata disposizione per spendere 3 milioni per le attività di primo intervento attraverso la Croce Rossa\". \"Stiamo vigilando e aiutando la popolazione vittima del terremoto con tutto quello che possiamo fare\", ha aggiunto il vicepremier. \n<h2>L'ospedale di Naypyidaw dichiarato \"zone di vittime di massa\"</h2> \nIl principale ospedale della capitale del Myanmar si è trasformato in una \"zona di vittime di massa\". File di feriti sono stati curati all'esterno del pronto soccorso dell'ospedale generale da 1.000 posti letto, alcuni si contorcevano dal dolore, altri giacevano immobili mentre i parenti cercavano di confortarli. Nell'ospedale principale i feriti vengono curati in strada, con flebo intravenose appese alle barelle. Le strade vicine al Museo Nazionale di Naypyidaw sono state deformate e rotte per effetto delle scosse, come riportato da due giornalisti della Afp che si trovavano nell'edificio al momento della scossa.&nbsp; \n<div></div> \n<h2>Edifici evacuati a Bangkok</h2> \nUn'altra scossa di terremoto, della magnitudo di 5.5 - è stata registrata nella giornata di ieri a Bangkok. I residenti della capitale thailandese sono corsi in strada, in preda allo spavento, mentre gli edifici tremavano. Tutti gli uffici e i negozi sono stati fatti evacuare dalle autorità.&nbsp; \n&nbsp; \n<div></div> \n&nbsp; \n\"L'ho sentito e stavo dormendo in casa, sono corso il più rapidamente possibile in pigiama fuori dall'edificio\", ha detto Duangjai, un residente della popolare città turistica di Chiang Mai, dopo che le scosse sono state avvertite in tutta la Thailandia settentrionale, centrale e poi meridionale. \n<h2>81 persone intrappolate in un edificio in costruzione che è crollato</h2> \nUn grattacielo di 30 piani in costruzione per uffici governativi è crollato a Bangkok e tre persone sono morte. Il vice primo ministro Phumtham Wechayachai, ha detto che vi sono 81 persone intrappolate sotto le macerie e che almeno tre persone sono morte. \nL'edificio nel nord della capitale thailandese è stato ridotto a un groviglio di macerie e metallo contorto in pochi secondi. \n<div></div> \n<h2>Riunione urgente in Thailandia</h2> \n<div>\n Dopo le forti scosse che hanno colpito il paese, il premier thailandese Paetongtarn Shinawatra è stato costretto a interrompere una visita ufficiale all'isola meridionale di Phuket per tenere una \"riunione urgente\". Lo si apprende da un post su X delle autorità thailandesi, dopo aver fatto evacuare edifici e negozi nella capitale, Bangkok.&nbsp;\n</div> \n&nbsp; \n<div></div> \n<h2>Myanmar: 20 bambini sotto le macerie di un monastero a Taungoo</h2> \nUna ventina di bambini è rimasta intrappolata sotto le macerie di un monastero a Taungoo, una delle località in cui maggiori sono stati i danni del sisma che ha colpito il Myanmar. Molti gli edifici crollati a Mandalay, secondo fonti della protezione civile locale. \n&nbsp; \n<div></div> \n&nbsp; \nL'Organizzazione Mondiale della Sanità (Oms) ha attivato il suo sistema di risposta alle emergenze. Il centro logistico di Dubai >è stato mobilitato per preparare i soccorsi e il coordinamento degli interventi è affidato al quartier generale di Ginevra. Il sisma, ha detto ai giornalisti la portavoce Margaret Harris, rappresenta \"una minaccia molto, molto seria per vite e salute\". A Dubai si stanno raccogliendo rifornimenti per i feriti e articoli medici come i tutori per la cura dei traumi. \nGrazie alla recente esperienza dell'OMS con i terremoti in Turchia e Siria, \"sappiamo benissimo cosa inviare per prima\", ha affermato Harris. L'organizzazione ha già una cellula speciale che lavora in Myanmar, devastata dai combattimenti tra le forze ribelli e l'esercito. \"Siamo pronti a partire, ma ora dobbiamo sapere esattamente dove, cosa e perché. Sono le informazioni da terra che sono davvero fondamentali in questo momento\". \n<h2>I precedenti</h2> \nSi tratta, sottolinea l'Ingv, di una zona caratterizzata da una sismicità molto rilevante,> lungo la catena himalaiana formatasi dalla collisione tra la placca indiana e quella euroasiatica. I terremoti superficiali all'interno dell'arco indo-birmano si verificano prevalentemente su una combinazione di faglie trascorrenti e inverse, tra cui le faglie di Sagaing, Kabaw e Dauki. Tra il 1930 e il 1956, ricorda l'Istituto, si sono verificati sei terremoti di magnitudo superiore a 7.0 vicino alla faglia di Sagaing, causando gravi danni in Myanmar, tra cui la generazione di frane, liquefazione e 610 vittime. Nel periodo pre-strumentale, il grande terremoto di Shillong si è verificato il 12 giugno 1897, causando una distruzione diffusa.  \n&nbsp;<a href=\"https://whatsapp.com/channel/0029VasFyio84Om51mulG02M\"><i>Clicca qui e iscriviti al nostro canale Whatsapp!</i></a><i> Le notizie, in tempo reale, dell'Agenzia Italia ora anche sul tuo smartphone</i> \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 3,
+        "placed": "Esteri",
+        "epoch": 1743253216.9606915,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "At least 1,000 dead and 2,400 wounded by the earthquake in Myanmar. Hundred people trapped in the collapse of a building",
+        "en_content": "AGI - With the passing of hours, the earthquake of magnitude 7.7 is getting heavier and heavier than Friday, March 28th hit the Mynamar. The military junta of the Asian country has announced that the established deaths are 1.002 and that the wounded are 2.376>. But the Cnn reported that according to the United States Geological Survey (Usgs) estimates, it is likely that the number of victims exceeds 10 thousand as the rubble of crumbled buildings is removed and recovered the bodies currently data for missing persons:&nbsp; \"Usgs has issued a red alert for the estimated victims of the earthquake, indicating that they have been killed.\"\n&nbsp;\n<div </div\n&nbsp;\nThe earthquake that hit&nbsp yesterday; the north-west of the country was clearly felt also &nbsp; in nearby Thailand, where several buildings were damaged and at least one, a skyscraper, collapsed in Bangkok causing the death of about ten people.\nChinese President Xi Jinping today sent a condolence message to the head of the Myanmar junta, Min Aung Hlaing. In the text, Xi \"has expressed deep sadness\" for the damage caused by the earthquake, we read in a statement of the Beijing Foreign Ministry. China has assured the president, is \"willed to provide Myanmar with the necessary assistance to support people in the affected areas\". Beijing has already sent in Myanmar a team of 82 rescuers, > responding to the appeal of the leader of the junta. Another team from Yunnan arrived in Yangon, Central Myanmar. The Chinese government will provide emergency humanitarian aid for 100 million yuan (12.7 million euros). In any case, even in southern China the sisma has made itself felt: more than 800 houses have been damaged in the municipality of Ruili, > in the province&nbsp;Yunnan, has announced the official Xinhua press agency. And almost three thousand people affected in the city located about 300 kilometers from the epicentre of the sisma, two reported slight injuries. Local administrations have mobilized several rescue teams, monitoring geological risks, inspection of water basins, repair of electrical installations and road operations. The supply of water and electricity as well as transport and telecommunications are back to normal.\n&nbsp;\n<\n<div </div\n</div\n&nbsp;\nThe sisma, recorded &nbsp; to a depth of 10 kilometers, around 12:50 local time (6:20 GMT), had as epicentre the second largest city of Myanmar, Mandalay, > where it is reported that more than 90 people were trapped in the collapse of a building.>&nbsp; rescuers, reported the Red Cross, are looking for survivors in the Villa that remains of the condomain.\nIn Myanmar the military junta in power has decreed the state of emergency in six regions > and has launched a rare demand for international humanitarian aid. The head of the military junta, Min Aung Hlaing, arrived in one of the main hospitals of Naypyidaw where the wounded are treated, even on the street.\nThe earthquake, as said, &nbsp; was strongly felt throughout Thailand > north and central, and then in the south, also in the capital Bangkok, where residents ran on the street while the buildings trembled.&nbsp; Thai Prime Minister Paetongtarn Shinawatra declared the state of emergency for the capital Bangkok.&nbsp;\n&nbsp;\n<div </div\n&nbsp;\n<h2>Tajani: \"There are no wounded Italians\"</h2>\nThere are no Italians injured in the earthquake that struck Myanmar and Thailand. He told 'News Room', on Rai3, the Foreign Minister, Antonio Tajani.&nbsp;&nbsp; Italy will do everything possible to rescue the affected populations and has already allocated 3 million euros for the first aid. &nbsp;&nbsp;\n\"Since yesterday morning the Civil Protection was made available to Myanmar and Thailand, we will do everything that will be possible,\" said Tajani, \"I gave immediate disposition to spend 3 million for first intervention activities through the Red Cross\". \"We are watching and helping the victim population of the earthquake with everything we can do,\" added the vicepremier.\n<h2> Naypyidaw hospital declared \"mass victims zones\"</h2>\nThe main hospital in the capital of Myanmar has become a \"mass victims zone\". Files of wounded were cured outside the general hospital's emergency room by 1,000 beds, some were twisted by pain, others were lying still while relatives were trying to comfort them. In the main hospital the wounded are cured in the street, with intravenous phlebs hanging at the bars. The streets close to the National Museum of Naypyidaw were deformed and broken because of the shocks, as reported by two Afp journalists who were in the building at the time of the shock.&nbsp;\n<div </div\n<h2>Edifici evacuati a Bangkok</h2>\nAnother earthquake shock, magnitude of 5.5 - was recorded on yesterday's day in Bangkok. Residents of the Thai capital are on the road, preying to fear, while the buildings trembled. All offices and shops were evacuated by the authorities. &nbsp;\n&nbsp;\n<div </div\n&nbsp;\n\"I heard it and I was sleeping in the house, I ran as quickly as possible in pajamas outside the building\", said Duangjai, a resident of the popular tourist town of Chiang Mai, after the shocks were felt throughout northern, central and then south Thailand.\n<h2>81 persons trapped in a building under construction which collapsed\nA 30-storey building skyscraper for government offices collapsed in Bangkok and three people died. Deputy Prime Minister Phumtham Wechayachai said there are 81 people trapped under the rubble and that at least three people died.\nThe building in the north of the Thai capital was reduced to a tangle of rubble and metal twisted in seconds.\n<div </div\nUrgent meeting in Thailand\n<\nAfter the strong shocks that struck the country, Thai premier Paetongtarn Shinawatra was forced to stop an official visit to the southern island of Phuket to hold an \"empty meeting\". It is learned from a post on X of the Thai authorities, after evacuating buildings and shops in the capital, Bangkok.&nbsp;\n</div\n&nbsp;\n<div </div\n<h2>Myanmar: 20 children under the rubble of a monastery in Taungoo</h2>\nSome twenty children were trapped under the rubble of a monastery in Taungoo, one of the most important places where were the damage of the earthquake that struck Myanmar. Many buildings collapsed in Mandalay, according to local civil protection sources.\n&nbsp;\n<div </div\n&nbsp;\nThe World Health Organization (Oms) has activated its emergency response system. The Dubai logistics centre has been mobilised to prepare aids and the coordination of interventions is entrusted to the Geneva headquarters. The sisma, said to journalists spokesman Margaret Harris, represents \"a very, very serious threat to lives and health\". In Dubai they are collecting supplies for wounded and medical articles like trauma guardians.\nThanks to the recent WHO experience with earthquakes in Turkey and Syria, \"we know very well what to send first\", said Harris. The organization already has a special cell working in Myanmar, devastated by fighting between the rebel forces and the army. \"We are ready to go, but now we need to know exactly where, what and why. This is the ground information that is really fundamental right now.\"\nPrevious </h2>\nIt is, underlines the Ingv, of an area characterized by a very significant seismicity, > along the Himalayan chain formed by the collision between the Indian plate and the Euro-Asian one. The superficial earthquakes within the Indo-Big arc occur mainly on a combination of passing and inverse faults, including the faults of Sagaing, Kabaw and Dauki. Between 1930 and 1956, the Institute recalled six earthquakes of magnitude more than 7.0 near the Sagaing fault, causing serious damage in Myanmar, including the generation of landslides, liquefaction and 610 victims. In the pre-instrumental period, the large Shillong earthquake occurred on 12 June 1897, causing widespread destruction.\n&nbsp;<a href=\"https://whatsapp.com/channel/0029VasFyio84Om51mulG02M\"><i>\\i> Click here and subscribe to our channel Whatsapp!</i></a><i> The news, in real time, of the Italian Agency now also on your smartphone</i>\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "At least 1,000",
+                "start_char": 0,
+                "end_char": 14,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2,400",
+                "start_char": 24,
+                "end_char": 29,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 59,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Hundred",
+                "start_char": 68,
+                "end_char": 75,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "hours",
+                "start_char": 26,
+                "end_char": 31,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "7.7",
+                "start_char": 61,
+                "end_char": 64,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Friday, March 28th",
+                "start_char": 101,
+                "end_char": 119,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Mynamar",
+                "start_char": 128,
+                "end_char": 135,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Asian",
+                "start_char": 163,
+                "end_char": 168,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "1.002",
+                "start_char": 223,
+                "end_char": 228,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "2.376",
+                "start_char": 254,
+                "end_char": 259,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 270,
+                "end_char": 273,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United States Geological Survey",
+                "start_char": 301,
+                "end_char": 336,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Usgs",
+                "start_char": 338,
+                "end_char": 342,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "10 thousand",
+                "start_char": 403,
+                "end_char": 414,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "persons:&nbsp",
+                "start_char": 514,
+                "end_char": 527,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Usgs",
+                "start_char": 530,
+                "end_char": 534,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 697,
+                "end_char": 706,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "&nbsp",
+                "start_char": 760,
+                "end_char": 765,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Thailand",
+                "start_char": 777,
+                "end_char": 785,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "at least one",
+                "start_char": 828,
+                "end_char": 840,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bangkok",
+                "start_char": 869,
+                "end_char": 876,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "about ten",
+                "start_char": 898,
+                "end_char": 907,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 916,
+                "end_char": 923,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Xi Jinping",
+                "start_char": 934,
+                "end_char": 944,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 945,
+                "end_char": 950,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 996,
+                "end_char": 1003,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Aung Hlaing",
+                "start_char": 1015,
+                "end_char": 1026,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Xi",
+                "start_char": 1041,
+                "end_char": 1043,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Beijing Foreign Ministry",
+                "start_char": 1140,
+                "end_char": 1168,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "China",
+                "start_char": 1170,
+                "end_char": 1175,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 1225,
+                "end_char": 1232,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 1305,
+                "end_char": 1312,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 1333,
+                "end_char": 1340,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "82",
+                "start_char": 1351,
+                "end_char": 1353,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Yunnan",
+                "start_char": 1437,
+                "end_char": 1443,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yangon",
+                "start_char": 1455,
+                "end_char": 1461,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Central Myanmar",
+                "start_char": 1463,
+                "end_char": 1478,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1484,
+                "end_char": 1491,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "100 million yuan",
+                "start_char": 1547,
+                "end_char": 1563,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "12.7 million euros",
+                "start_char": 1565,
+                "end_char": 1583,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "China",
+                "start_char": 1616,
+                "end_char": 1621,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than 800",
+                "start_char": 1654,
+                "end_char": 1667,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ruili",
+                "start_char": 1716,
+                "end_char": 1721,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Xinhua",
+                "start_char": 1781,
+                "end_char": 1787,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "almost three thousand",
+                "start_char": 1806,
+                "end_char": 1827,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "about 300 kilometers",
+                "start_char": 1864,
+                "end_char": 1884,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "two",
+                "start_char": 1918,
+                "end_char": 1921,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "&nbsp",
+                "start_char": 2273,
+                "end_char": 2278,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "10 kilometers",
+                "start_char": 2294,
+                "end_char": 2307,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            },
+            {
+                "word": "6:20 GMT",
+                "start_char": 2334,
+                "end_char": 2342,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "second",
+                "start_char": 2366,
+                "end_char": 2372,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 2389,
+                "end_char": 2396,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mandalay",
+                "start_char": 2398,
+                "end_char": 2406,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "more than 90",
+                "start_char": 2436,
+                "end_char": 2448,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Red Cross",
+                "start_char": 2526,
+                "end_char": 2539,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Villa",
+                "start_char": 2574,
+                "end_char": 2579,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 2614,
+                "end_char": 2621,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "six",
+                "start_char": 2688,
+                "end_char": 2691,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Aung Hlaing",
+                "start_char": 2805,
+                "end_char": 2816,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "one",
+                "start_char": 2829,
+                "end_char": 2832,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Naypyidaw",
+                "start_char": 2858,
+                "end_char": 2867,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "&nbsp",
+                "start_char": 2944,
+                "end_char": 2949,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Thailand",
+                "start_char": 2980,
+                "end_char": 2988,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bangkok",
+                "start_char": 3053,
+                "end_char": 3060,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thai",
+                "start_char": 3132,
+                "end_char": 3136,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Paetongtarn Shinawatra",
+                "start_char": 3152,
+                "end_char": 3174,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italians",
+                "start_char": 3325,
+                "end_char": 3333,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 3372,
+                "end_char": 3379,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thailand",
+                "start_char": 3384,
+                "end_char": 3392,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "'News Room'",
+                "start_char": 3402,
+                "end_char": 3413,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Antonio Tajani.&nbsp;&nbsp",
+                "start_char": 3446,
+                "end_char": 3472,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 3474,
+                "end_char": 3479,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "3 million euros",
+                "start_char": 3569,
+                "end_char": 3584,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "first",
+                "start_char": 3593,
+                "end_char": 3598,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "yesterday",
+                "start_char": 3624,
+                "end_char": 3633,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "morning",
+                "start_char": 3634,
+                "end_char": 3641,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the Civil Protection",
+                "start_char": 3642,
+                "end_char": 3662,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 3685,
+                "end_char": 3692,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thailand",
+                "start_char": 3697,
+                "end_char": 3705,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Tajani",
+                "start_char": 3758,
+                "end_char": 3764,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "3 million",
+                "start_char": 3805,
+                "end_char": 3814,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 3819,
+                "end_char": 3824,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the Red Cross",
+                "start_char": 3857,
+                "end_char": 3870,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Naypyidaw",
+                "start_char": 3998,
+                "end_char": 4007,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 4088,
+                "end_char": 4095,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "1,000",
+                "start_char": 4207,
+                "end_char": 4212,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the National Museum of Naypyidaw",
+                "start_char": 4439,
+                "end_char": 4471,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "two",
+                "start_char": 4535,
+                "end_char": 4538,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Afp",
+                "start_char": 4539,
+                "end_char": 4542,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "5.5",
+                "start_char": 4698,
+                "end_char": 4701,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 4720,
+                "end_char": 4729,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bangkok",
+                "start_char": 4739,
+                "end_char": 4746,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thai",
+                "start_char": 4765,
+                "end_char": 4769,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Duangjai",
+                "start_char": 5044,
+                "end_char": 5052,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Chiang Mai",
+                "start_char": 5096,
+                "end_char": 5106,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thailand",
+                "start_char": 5179,
+                "end_char": 5187,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "30",
+                "start_char": 5263,
+                "end_char": 5265,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Bangkok",
+                "start_char": 5329,
+                "end_char": 5336,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "three",
+                "start_char": 5341,
+                "end_char": 5346,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Phumtham Wechayachai",
+                "start_char": 5382,
+                "end_char": 5402,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "81",
+                "start_char": 5418,
+                "end_char": 5420,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "at least three",
+                "start_char": 5462,
+                "end_char": 5476,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Thai",
+                "start_char": 5523,
+                "end_char": 5527,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "seconds",
+                "start_char": 5591,
+                "end_char": 5598,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "Thailand",
+                "start_char": 5629,
+                "end_char": 5637,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thai",
+                "start_char": 5689,
+                "end_char": 5693,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Paetongtarn Shinawatra",
+                "start_char": 5702,
+                "end_char": 5724,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Phuket",
+                "start_char": 5788,
+                "end_char": 5794,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thai",
+                "start_char": 5861,
+                "end_char": 5865,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 5975,
+                "end_char": 5982,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "20",
+                "start_char": 5984,
+                "end_char": 5986,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Taungoo</h2",
+                "start_char": 6031,
+                "end_char": 6042,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Some twenty",
+                "start_char": 6044,
+                "end_char": 6055,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Taungoo",
+                "start_char": 6113,
+                "end_char": 6120,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "one",
+                "start_char": 6122,
+                "end_char": 6125,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 6207,
+                "end_char": 6214,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mandalay",
+                "start_char": 6244,
+                "end_char": 6252,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "The World Health Organization",
+                "start_char": 6324,
+                "end_char": 6353,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Oms",
+                "start_char": 6355,
+                "end_char": 6358,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dubai",
+                "start_char": 6409,
+                "end_char": 6414,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Geneva",
+                "start_char": 6525,
+                "end_char": 6531,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Margaret Harris",
+                "start_char": 6587,
+                "end_char": 6602,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dubai",
+                "start_char": 6669,
+                "end_char": 6674,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 6816,
+                "end_char": 6822,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syria",
+                "start_char": 6827,
+                "end_char": 6832,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 6866,
+                "end_char": 6871,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Harris",
+                "start_char": 6879,
+                "end_char": 6885,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 6942,
+                "end_char": 6949,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ingv",
+                "start_char": 7194,
+                "end_char": 7198,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Himalayan",
+                "start_char": 7271,
+                "end_char": 7280,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Indian",
+                "start_char": 7323,
+                "end_char": 7329,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Euro-Asian",
+                "start_char": 7340,
+                "end_char": 7354,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "the Indo-Big",
+                "start_char": 7395,
+                "end_char": 7407,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Sagaing",
+                "start_char": 7497,
+                "end_char": 7504,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kabaw",
+                "start_char": 7506,
+                "end_char": 7511,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Dauki",
+                "start_char": 7516,
+                "end_char": 7521,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Between 1930 and 1956",
+                "start_char": 7523,
+                "end_char": 7544,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Institute",
+                "start_char": 7550,
+                "end_char": 7559,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "six",
+                "start_char": 7569,
+                "end_char": 7572,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "more than 7.0",
+                "start_char": 7598,
+                "end_char": 7611,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sagaing",
+                "start_char": 7621,
+                "end_char": 7628,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Myanmar",
+                "start_char": 7662,
+                "end_char": 7669,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "610",
+                "start_char": 7728,
+                "end_char": 7731,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Shillong",
+                "start_char": 7783,
+                "end_char": 7791,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "12 June 1897",
+                "start_char": 7815,
+                "end_char": 7827,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Italian Agency",
+                "start_char": 8026,
+                "end_char": 8044,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "La magistratura americana blocca l'espulsione della studentessa turca",
+        "date_raw": "Sat, 29 Mar 2025 07:10:16 GMT",
+        "date": "2025-03-29",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-29/magistratura-americana-blocca-espulsione-studentessa-turca-30657927/",
+        "subtitle": "",
+        "content": "AGI - Ancora una volta la magistratura americana interviene per bloccare l'espulsione di persone fermate con l'accusa di attività pro-Palestina. Il giudice Denise Casper, del tribunale federale di Boston, ha emanato nella notte un ordine per impedire l'espulsione di Rumeysa Ozturk>, la studentessa turca il cui fermo per strada ha sollevato molte proteste. Lo riporta la Cnn. \n<h2>L'ordine del giudice Casper</h2> \nOzturk \"non potrà essere mandata via dagli Stati Uniti fino a nuovo ordine di questa corte\", si legge nella decisione di Casper. Trent'anni, master in psicologia alla Columbia, Ozturk frequentava la Tufts University> di Boston. La donna era stata prelevata qualche giorno fa con modi piuttosto bruschi fuori dal campus universitario da persone che avevano il capo coperto da un cappuccio. Le immagini dell'arresto, registrate da una telecamera di sorveglianza, avevano suscitato un'ondata di indignazione sulla rete. Sei persone, tra cui una donna, l'avevano accerchiata. Ozturk era diretta a un incontro con amici per partecipare a un veloce pasto per interrompere il digiuno di Ramadan. Nel video si sente la donna urlare terrorizzata: <em>\"siamo della polizia\"</em>.&nbsp; \n<em>\"E perché vi coprite il volto?\"</em> ha chiesto per due volte agli agenti una persona, di cui si sente solo la voce. Nessuna risposta. Il gruppo aveva così ammanettato la studentessa, privata del suo zaino e spintonata all'interno di un SUV parcheggiato vicino. La ragazza ora è detenuta in una struttura dell'Ufficio immigrazione, l'Ice, in Louisiana, secondo il dipartimento della Sicurezza interna. Sebbene non siano state presentate accuse contro Ozturk, il suo avvocato ha detto alla Cnn che alla giovane è stato revocato il visto. \n<h2>Il visto e le accuse di attività pro-Hamas</h2> \nAll'università gli agenti avevano detto che il visto era scaduto, precisando poi in una nota che \"Rumeysa Ozturk> è una cittadina turca e una laureata che ha ottenuto il privilegio di stare in questo Paese con un visto\". Le indagini del dipartimento e dell'Ufficio immigrazione avrebbero accertato che \"Ozturk era coinvolta in attività di sostegno ad Hamas>, un'organizzazione terroristica straniera che vuole uccidere americani. Il visto è un privilegio e non un diritto\". Ozturk di recente aveva firmato con altri tre studenti un intervento pubblicato sul The Tufts Daily> in cui sosteneva il bisogno di chiedere conto a Israele delle \"evidenti violazioni del diritto internazionale\". Ozturk aveva anche criticato l'università per non aver riconosciuto ufficialmente il \"genocidio palestinese\", come chiedeva la rappresentanza degli studenti. \n<h2>La condanna del partito Akp in Turchia</h2> \nIl partito Akp> al governo in Turchia aveva condannato duramente l'arresto della studentessa, \"che ha l'unica colpa di essersi schierata contro il genocidio dei palestinesi. Diversi media internazionali stanno manipolando la notizia. È il risultato dell'influenza dei sionisti sui mezzi di comunicazione. La Turchia è contro l'antisemitismo e l'islamofobia. Bollare come antisemita chi si oppone a un genocidio è solo una maniera per coprire le atrocità che stanno avvenendo in Palestina\", ha dichiarato Omer Celik>, portavoce del partito del presidente Recep Tayyip Erdogan.",
+        "ranked": 4,
+        "placed": "Esteri",
+        "epoch": 1743253216.960822,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "The American judiciary blocks the expulsion of the Turkish student",
+        "en_content": "AGI - Once again the American judiciary intervenes to block the expulsion of people stopped with the charge of pro-Palestina activities. Judge Denise Casper, of the Boston federal court, issued an order in the night to prevent the expulsion of Rumeysa Ozturk>, the Turkish student whose arrest on the street has raised many protests. The Cnn.\n<h2> The order of Judge Casper</h2>\nOzturk \"will not be sent away from the United States until new order of this court,\" reads in Casper's decision. Thirty years, master in psychology at Columbia, Ozturk attended Tufts University> in Boston. The woman had been picked up a few days ago with rather rough ways out of the university campus by people who had the head covered by a hood. The images of the arrest, recorded by a surveillance camera, aroused a wave of indignation on the network. Six people, including a woman, had her locked up. Ozturk was headed to a meeting with friends to attend a quick meal to stop Ramadan fasting. In the video you hear the woman screaming terrified: <em>\" we are police\"</em>.&nbsp;\n<em> \"And why do you cover your face?\" </em> asked agents twice a person, of whom only the voice is heard. No answer. The group had thus handcuffed the student, deprived of his backpack and pushed inside a nearby parking SUV. The girl is now held in a structure of the immigration office, the Ice, in Louisiana, according to the Department of Homeland Security. Although no charges were filed against Ozturk, his lawyer told Cnn that the young man was revoked.\n<h2 The visa and charges of pro-Hamas</h2> activity\nAt the university the agents had said that the visa had expired, specifying then in a note that \"Rumeysa Ozturk> is a Turkish town and a graduate who obtained the privilege of staying in this country with a visa\". The investigations of the Department and the Immigration Office would have ascertained that \"Ozturk was involved in support of Hamas>, a foreign terrorist organization that wants to kill Americans. The visa is a privilege and not a right.\" Ozturk recently signed with three other students an intervention published on The Tufts Daily> in which he claimed the need to ask Israel for \"foresaid violations of international law\". Ozturk also criticized the university for not officially recognizing the \"Palestinian genocide\", as he demanded student representation.\n<h2> The condemnation of the Akp party in Turkey</h2>\nThe Akp> party to the government in Turkey had severely condemned the arrest of the student, \"who has the only fault of having sided against the genocide of the Palestinians. Several international media are manipulating the news. It is the result of the influence of Zionists on the media. Turkey is against anti-Semitism and Islamophobia. Boiling as an anti-Semitic who opposes a genocide is only a way to cover the atrocities that are taking place in Palestine,\" said Omer Celik>, spokesman of the party of President Recep Tayip Erdogan.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "American",
+                "start_char": 4,
+                "end_char": 12,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 51,
+                "end_char": 58,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI -",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "American",
+                "start_char": 21,
+                "end_char": 29,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Denise Casper",
+                "start_char": 143,
+                "end_char": 156,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Boston",
+                "start_char": 165,
+                "end_char": 171,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rumeysa Ozturk",
+                "start_char": 244,
+                "end_char": 258,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turkish",
+                "start_char": 265,
+                "end_char": 272,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Cnn",
+                "start_char": 338,
+                "end_char": 341,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ozturk",
+                "start_char": 379,
+                "end_char": 385,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the United States",
+                "start_char": 414,
+                "end_char": 431,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Casper",
+                "start_char": 473,
+                "end_char": 479,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Thirty years",
+                "start_char": 492,
+                "end_char": 504,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Columbia",
+                "start_char": 530,
+                "end_char": 538,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ozturk",
+                "start_char": 540,
+                "end_char": 546,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Tufts University",
+                "start_char": 556,
+                "end_char": 572,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Boston",
+                "start_char": 577,
+                "end_char": 583,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "a few days ago",
+                "start_char": 614,
+                "end_char": 628,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Six",
+                "start_char": 834,
+                "end_char": 837,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ozturk",
+                "start_char": 884,
+                "end_char": 890,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ramadan",
+                "start_char": 959,
+                "end_char": 966,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ice",
+                "start_char": 1355,
+                "end_char": 1358,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Louisiana",
+                "start_char": 1363,
+                "end_char": 1372,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Department of Homeland Security",
+                "start_char": 1387,
+                "end_char": 1422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ozturk",
+                "start_char": 1463,
+                "end_char": 1469,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cnn",
+                "start_char": 1487,
+                "end_char": 1490,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "pro-Hamas</h2",
+                "start_char": 1551,
+                "end_char": 1564,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rumeysa Ozturk",
+                "start_char": 1672,
+                "end_char": 1686,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Turkish",
+                "start_char": 1693,
+                "end_char": 1700,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Department",
+                "start_char": 1815,
+                "end_char": 1825,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Immigration Office",
+                "start_char": 1830,
+                "end_char": 1852,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ozturk",
+                "start_char": 1882,
+                "end_char": 1888,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Hamas",
+                "start_char": 1916,
+                "end_char": 1921,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Americans",
+                "start_char": 1976,
+                "end_char": 1985,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ozturk",
+                "start_char": 2029,
+                "end_char": 2035,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 2057,
+                "end_char": 2062,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "The Tufts Daily",
+                "start_char": 2107,
+                "end_char": 2122,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israel",
+                "start_char": 2160,
+                "end_char": 2166,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ozturk",
+                "start_char": 2215,
+                "end_char": 2221,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palestinian",
+                "start_char": 2289,
+                "end_char": 2300,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Turkey</h2",
+                "start_char": 2393,
+                "end_char": 2403,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 2441,
+                "end_char": 2447,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palestinians",
+                "start_char": 2566,
+                "end_char": 2578,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Zionists",
+                "start_char": 2672,
+                "end_char": 2680,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 2695,
+                "end_char": 2701,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "anti-Semitism",
+                "start_char": 2713,
+                "end_char": 2726,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Islamophobia",
+                "start_char": 2731,
+                "end_char": 2743,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "anti-Semitic",
+                "start_char": 2759,
+                "end_char": 2771,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Palestine",
+                "start_char": 2858,
+                "end_char": 2867,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Omer Celik",
+                "start_char": 2875,
+                "end_char": 2885,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Recep Tayip Erdogan",
+                "start_char": 2924,
+                "end_char": 2943,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Vino, le misure Ue di sostegno al settore",
+        "date_raw": "Sat, 29 Mar 2025 01:55:00 GMT",
+        "date": "2025-03-29",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-29/misure-settore-vitivinicolo-europeo-30648997/",
+        "subtitle": "",
+        "content": "AGI - La Commissione europea> ha proposto una serie di misure per garantire che il settore vitivinicolo europeo> rimanga \"competitivo, resistente e un motore economico essenziale nei prossimi decenni\". Le misure comprendono, tra l'altro, una maggiore flessibilità> in materia di piantagione>, strumenti di prevenzione degli eccessi>, regole di commercializzazione> chiare, un sostegno rafforzato per diventare più resistenti ai cambiamenti climatici>, un'etichettatura armonizzata> e un aiuto per promuovere l'enoturismo>. \n<h2>Prevenzione delle eccedenze di produzione</h2> \nNello specifico, per prevenire le eccedenze di produzione>, contribuire a stabilizzare il mercato> e proteggere i produttori dalle tensioni finanziarie, la Commissione europea propone di autorizzare gli Stati membri a prendere provvedimenti, come l'estirpazione> (rimozione di viti indesiderate o in eccesso) e la vendemmia verde> (rimozione di uve non mature prima della raccolta). \n&nbsp; \n<div></div> \n&nbsp; \n<h2>Flessibilità nelle piantagioni</h2> \nPer quanto riguarda la flessibilità nelle piantagioni>, ai produttori sarebbe concessa una maggiore flessibilità nel regime di autorizzazioni al reimpianto> per aiutarli a prendere decisioni di investimento nell'attuale contesto in continua evoluzione. Gli Stati membri potranno inoltre calibrare meglio le autorizzazioni di impianto in base alle loro esigenze, sia nazionali che regionali. \n<h2>Resilienza ai cambiamenti climatici</h2> \nNelle proposte della Commissione, il settore riceverà inoltre un sostegno maggiore per diventare più resiliente> ai cambiamenti climatici>. Gli Stati membri potranno aumentare l'assistenza finanziaria massima dell'Unione fino all'80% dei costi di investimento ammissibili per gli investimenti finalizzati alla mitigazione> e all'adattamento> ai cambiamenti climatici. \n<h2>Commercializzazione e etichettatura</h2> \n&nbsp; \n<div></div> \n&nbsp; \nInoltre, la commercializzazione> di prodotti innovativi sarà più semplice, con regole più chiare e denominazioni di prodotto comuni per i prodotti vinicoli a basso contenuto alcolico in tutto il mercato unico>. Presentate proposte anche per armonizzare l'etichettatura>. \"Gli operatori beneficeranno di un approccio più armonizzato all'etichettatura del vino, che ridurrà i costi e semplificherà il commercio attraverso i confini dell'Ue, fornendo ai consumatori un facile accesso alle informazioni\", specifica una nota dell'esecutivo Ue. \n<h2>Sostegno all'enoturismo</h2> \nPer sostenere l'enoturismo> e sviluppare il settore, riceveranno assistenza le associazioni di produttori che gestiscono vini protetti da indicazioni geografiche>, contribuendo così allo sviluppo economico delle zone rurali. Previsto anche il prolungamento delle campagne promozionali finanziate dall'Ue per il consolidamento del mercato nei Paesi terzi, la cui durata sarà estesa da 3 a 5 anni, per garantire una migliore promozione dei vini europei. \n<h2>Definizione di vini dealcolati</h2> \nMaggiore attenzione, anche sulla definizione di vini dealcolati>. La Commissione europea propone anche di modificare la dicitura \"vini dealcolati\", introdotta nella riforma della Pac del 2021. Per rendere più attraente e familiare la famiglia di prodotti, viene proposto di usare la definizione \"alcol free>\" per i vini con volume di alcol inferiore allo 0,5%, con la possibilità di ampliare la dicitura in \"alcol free 0,0%>\" in caso il volume sia inferiore allo 0,05%. Al di sopra allo 0,5%, ma al di sotto del 30%, viene prevista la dicitura \"alcol light>\" (bassa gradazione). \n<h2>Indicazione degli ingredienti tramite QR code</h2> \nPer quanto riguarda l'indicazione degli ingredienti in etichetta tramite QR code>, infine, l'esecutivo Ue propone di ottenere il potere delegato di legiferare sul tipo di QR code presente nell'etichettatura elettronica, in modo da limitare e armonizzare le differenze proposte dalle norme dei diversi Stati membri. In sostanza, la Commissione europea prevede un pittogramma> o un simbolo>, invece della dicitura a parole, per far comprendere al consumatore che il QR code rimanda agli ingredienti o ai valori nutrizionali. L'idea è quella di uniformare l'etichetta elettronica e ridurre i costi per i produttori e gli operatori del settore, che così non dovrebbero cambiarla o tradurla per esportare il prodotto in diversi Paesi. \n&nbsp; \n&nbsp;",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1743253216.96095,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "Wine, EU measures to support the sector",
+        "en_content": "AGI - The European Commission has proposed a series of measures to ensure that the European wine sector remains \"competitive, resistant and an essential economic engine in the coming decades\". The measures include, among other things, greater flexibility > in planting >, excessive prevention tools >, clear marketing rules >, enhanced support to become more resistant to climate change >, harmonised labelling > and help to promote ecotourism >.\n<h2> Prevention of production surpluses\nIn particular, in order to prevent production surpluses, the European Commission proposes to authorise Member States to take measures, such as extinguishment > (removal of unwanted or excess vines) and green harvest > (removal of un ripe grapes before harvesting).\n&nbsp;\n<div </div\n&nbsp;\n<h2> Flexibility in plantations\nWith regard to plantation flexibility, producers would be given greater flexibility in replanting authorization arrangements to help them make investment decisions in the current changing context. Member States may also better calibrate plant authorizations according to their national and regional requirements.\n<h2> Resilience to climate change\nIn Commission proposals, the sector will also receive more support to become more resilient to climate change.' Member States may increase the Union's maximum financial assistance up to 80% of eligible investment costs for mitigation-oriented investment and adaptation to climate change.\n<h2> Marketing and labelling\n&nbsp;\n<div </div\n&nbsp;\nMoreover, the marketing of innovative products will be easier, with clearer rules and common product names for low-alcoholic wine products throughout the single market. Proposals are also submitted to harmonize labelling. \"The operators will benefit from a more harmonised approach to wine labelling, which will reduce costs and simplify trade across EU borders, providing consumers with easy access to information,\" a statement from the EU executive.\n<h2> Support for ecotourism\nTo support eco-tourism and develop the sector, the associations of producers who manage wines protected by geographical indications will receive assistance, thus contributing to the economic development of rural areas. The extension of EU-funded promotional campaigns for the consolidation of the market in third countries, whose duration will be extended from 3 to 5 years, to ensure better promotion of European wines.\n<h2>Definition of treatedcolated wines\nGreater attention, also on the definition of wine dealscolati>. The European Commission also proposes to amend the wording \"wine dealscolati\", introduced in the reform of the Pac of 2021. To make the family of products more attractive and familiar, it is proposed to use the definition \"free alcohol\" for wines with alcohol volume of less than 0.5%, with the possibility to expand the wording in \"free alcohol 0.0%>\" in case the volume is less than 0.05%. Above 0.5%, but below 30%, the word \"alcohol light>\" (low gradation).\n<h2> Ingredients by QR code</h2>\nFinally, with regard to the indication of the ingredients on the label via QR code>, the executive Ue proposes to obtain the delegated power to legislate on the type of QR code present in the electronic labeling, in order to limit and harmonize the differences proposed by the rules of the different Member States. In essence, the European Commission provides for a pictogram* or a symbol > instead of wording, to make it clear to the consumer that the QR code refers to ingredients or nutritional values. The idea is to standardize the electronic label and reduce costs for manufacturers and industry operators, which should not change or translate it to export the product to different countries.\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 6,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - The European Commission",
+                "start_char": 0,
+                "end_char": 29,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 83,
+                "end_char": 91,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the coming decades",
+                "start_char": 172,
+                "end_char": 190,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the European Commission",
+                "start_char": 544,
+                "end_char": 567,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "un",
+                "start_char": 717,
+                "end_char": 719,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Union",
+                "start_char": 1299,
+                "end_char": 1304,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "up to 80%",
+                "start_char": 1336,
+                "end_char": 1345,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "EU",
+                "start_char": 1849,
+                "end_char": 1851,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 1936,
+                "end_char": 1938,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 2214,
+                "end_char": 2216,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "third",
+                "start_char": 2285,
+                "end_char": 2290,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "3 to 5 years",
+                "start_char": 2339,
+                "end_char": 2351,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 2383,
+                "end_char": 2391,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "The European Commission",
+                "start_char": 2502,
+                "end_char": 2525,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2021",
+                "start_char": 2620,
+                "end_char": 2624,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "less than 0.5%",
+                "start_char": 2772,
+                "end_char": 2786,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "0.0%",
+                "start_char": 2848,
+                "end_char": 2852,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "less than 0.05%",
+                "start_char": 2877,
+                "end_char": 2892,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Above 0.5%",
+                "start_char": 2894,
+                "end_char": 2904,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "below 30%",
+                "start_char": 2910,
+                "end_char": 2919,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Ue",
+                "start_char": 3096,
+                "end_char": 3098,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the European Commission",
+                "start_char": 3324,
+                "end_char": 3347,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "IA, braccio di ferro ChatGpt-Studio Ghibli sul diritto d'autore",
+        "date_raw": "Sat, 29 Mar 2025 01:25:00 GMT",
+        "date": "2025-03-29",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-29/generatore-immagini-chatgpt-studio-ghibli-30648325/",
+        "subtitle": "",
+        "content": "AGI> - Il rilascio dell'ultimo generatore di immagini> su ChatGPT> di OpenAI> ha scatenato un'ondata di meme online> con immagini realizzate nello stile dello Studio Ghibli>, lo studio giapponese autore di classici film d'animazione come \"Il mio vicino Totoro\" e \"La principessa Mononoke\". La viralità di queste immagini, con il Ceo di OpenAI> Sam Altman che ha persino cambiato la sua immagine del profilo su X per adattarla allo stile, ha immediatamente sollevato dubbi sulla violazione del copyright> da parte del produttore di ChatGPT, che ha già dovuto affrontare cause legali per l'uso di materiale sorgente senza autorizzazione. \n<h2>Immagini virali e reazioni</h2> \nDopo la pubblicazione di mercoledì, le immagini generate dall'intelligenza artificiale> che ritraggono versioni dello Studio Ghibli di Elon Musk> con il presidente degli Stati Uniti Donald Trump>, \"Il Signore degli Anelli\" e persino una ricostruzione degli attentati dell'11 settembre sono diventate virali sulle piattaforme online. Giovedì la Casa Bianca> ha partecipato pubblicando su X un'immagine in stile Ghibli di una presunta criminale in lacrime che viene ammanettata da un ufficiale dell'immigrazione statunitense prima della sua deportazione. \n<h2>Successo inaspettato e limitazioni</h2> \nOriginariamente destinato a essere disponibile gratuitamente sulla piattaforma, Altman ha dichiarato che l'enorme successo del nuovo generatore è stato inaspettato e ha fatto sì che lo strumento rimanesse per ora limitato agli utenti a pagamento. Era già possibile generare immagini con ChatGPT, ma l'ultima versione è alimentata da GPT-4o>, il modello più performante dell'azienda, e consente di ottenere risultati sofisticati attraverso richieste molto sintetiche, cosa che prima non accadeva. \n<h2>Critiche di Hayao Miyazaki</h2> \nDopo la tendenza virale, è riemerso un video del 2016 in cui si vede il leggendario regista dello Studio Ghibli Hayao Miyazaki> infuriarsi durante una dimostrazione di AI da parte dello staff. \"Non vorrei mai incorporare questa tecnologia nel mio lavoro. Sento fortemente che questo è un insulto alla vita stessa\", si legge nella traduzione inglese delle sue osservazioni. La tendenza \"è particolarmente insidiosa e maligna a causa di quanto Miyazaki sia stato apertamente critico nei confronti della tecnologia\", ha scritto l'artista e illustratore Jayd \"Chira\" Ait-Kaci su Bluesky. \"È sempre una questione di disprezzo per gli artisti, ogni volta\", ha aggiunto Ait-Kaci. \n<h2>Azioni legali e risposte di OpenAI</h2> \nOpenAI sta affrontando una serie di azioni legali> per violazione del copyright, tra cui una causa importante con il New York Times> e altre da parte di artisti, musicisti ed editori. Alla domanda dell'AFP sull'ultima tendenza virale e sulla possibilità che minacci la proprietà intellettuale dello Studio Ghibli, OpenAI ha risposto che l'azienda sta ancora perfezionando il suo modello. \"Il nostro obiettivo è dare agli utenti la massima libertà creativa possibile\", ha dichiarato un portavoce dell'azienda all'AFP. \"Continuiamo a impedire le generazioni nello stile dei singoli artisti viventi, ma consentiamo stili di studio più ampi, che le persone hanno utilizzato per generare e condividere alcune creazioni originali dei fan davvero deliziose e ispirate\", ha aggiunto. \"Stiamo sempre imparando dall'uso e dal feedback del mondo reale e continueremo a perfezionare le nostre politiche\". \n<h2>Pressioni sulla Casa Bianca e sul Congresso</h2> \nL'azienda sta esercitando pressioni sulla Casa Bianca> e sul Congresso> affinché l'uso di contenuti protetti da copyright da parte delle aziende di IA rientri nella dottrina del fair use>. I permessi di fair use si applicano già ai motori di ricerca o alla satira e ai meme online e consentono alle aziende di utilizzare liberamente materiale protetto da copyright senza autorizzazione. \n<h2>Finanziamenti e previsioni di fatturato</h2> \nBloomberg ha riferito mercoledì che OpenAI è vicina alla finalizzazione di un round di finanziamento> da 40 miliardi di dollari guidato dal gruppo giapponese SoftBank>, che sarebbe il più grande round di finanziamento mai realizzato da una startup. OpenAI ha previsto che il suo fatturato annuale> potrebbe superare i 12,7 miliardi di dollari nel 2025, rispetto ai 3,7 miliardi generati nel 2024.",
+        "ranked": 6,
+        "placed": "Esteri",
+        "epoch": 1743253216.961077,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "IA, Iron Arm ChatGpt-Studio Ghibli on Copyright",
+        "en_content": "AGI> - The release of the latest image generator on OpenAI> ChatGPT> triggered a wave of memes online> with images made in the style of Studio Ghibli>, the Japanese studio author of classic animation films such as \"My neighbor Totoro\" and \"The Princess Mononoke\". The virality of these images, with the OpenAI> Sam Altman Ceo, who even changed his X profile image to adapt it to style, immediately raised doubts about copyright infringement by the manufacturer of ChatGPT, who has already faced legal causes for the use of source material without authorization.\n<h2> Viral images and reactions\nAfter the publication of Wednesday, the images generated by artificial intelligence > depicting versions of the Elon Musk> Ghibli Studio with US President Donald Trump>, \"The Lord of the Rings\" and even a reconstruction of September 11 attacks became viral on online platforms. On Thursday the White House > participated by publishing on X an image in Ghibli style of a alleged criminal in tears that is handcuffed by an American immigration officer before his deportation.\n<h2> Unexpected succes and limitations</h2>\nOriginally intended to be available free of charge on the platform, Altman stated that the huge success of the new generator was unexpected and made the tool remain limited to paid users for now. It was already possible to generate images with ChatGPT, but the latest version is powered by GPT-4o>, the most performing model of the company, and allows you to achieve sophisticated results through very synthetic requests, which before did not happen.\n<h2>Critics of Hayao Miyazaki</h2>\nAfter the viral trend, a 2016 video emerged in which the legendary director of the Studio Ghibli Hayao Miyazaki> raged during an AI demonstration by the staff. \"I would never like to incorporate this technology into my work. I feel strongly that this is an insult to life itself\", we read in the English translation of his observations. The trend \"is particularly insidious and malignant because of how openly Miyazaki was critical of technology\", wrote the artist and illustrator Jayd \"Chira\" Ait-Kaci on Bluesky. \"It's always a matter of disdain for artists every time,\" added Ait-Kaci.\n<h2> Legal actions and answers of OpenAI</h2>\nOpenAI is facing a series of legal actions for copyright infringement, including an important cause with the New York Times> and others by artists, musicians and publishers. When asked by AFP on the latest viral trend and the possibility that it threatens the intellectual property of Studio Ghibli, OpenAI responded that the company is still perfecting its model. \"Our goal is to give users the greatest possible creative freedom,\" said a company spokesman at AFP. \"We continue to prevent generations in the style of individual living artists, but we allow broader study styles, which people used to generate and share some original creations of truly delicious and inspired fans,\" he added. \"We are always learning from the use and feedback of the real world and will continue to perfect our policies.\"\n<h2>Pressions on the White House and Congress</h2>\nThe company is exerting pressure on the White House > and Congress > to ensure that the use of copyrighted content by IA companies falls within the fair use > doctrine. Fair use permits already apply to search engines or satire and online memes and allow companies to freely use copyrighted material without authorization.\n<h2> Loans and forecasts of turnover\nBloomberg reported on Wednesday that OpenAI is close to the finalization of a $40 billion funding round headed by the Japanese SoftBank> group, which would be the largest financing round ever made by a startup. OpenAI predicted that its annual turnover would exceed US$12.7 billion in 2025, compared to 3.7 billion generated in 2024.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "IA",
+                "start_char": 0,
+                "end_char": 2,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Iron Arm ChatGpt-Studio Ghibli on Copyright",
+                "start_char": 4,
+                "end_char": 47,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Studio Ghibli",
+                "start_char": 136,
+                "end_char": 149,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Japanese",
+                "start_char": 156,
+                "end_char": 164,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Totoro",
+                "start_char": 227,
+                "end_char": 233,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The Princess Mononoke",
+                "start_char": 240,
+                "end_char": 261,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "OpenAI",
+                "start_char": 303,
+                "end_char": 309,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sam Altman Ceo",
+                "start_char": 311,
+                "end_char": 325,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 619,
+                "end_char": 628,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Elon Musk",
+                "start_char": 702,
+                "end_char": 715,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Ghibli Studio",
+                "start_char": 717,
+                "end_char": 730,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 736,
+                "end_char": 738,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 749,
+                "end_char": 761,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "The Lord of the Rings",
+                "start_char": 765,
+                "end_char": 786,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "September 11",
+                "start_char": 817,
+                "end_char": 829,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Thursday",
+                "start_char": 875,
+                "end_char": 883,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the White House",
+                "start_char": 884,
+                "end_char": 899,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Ghibli",
+                "start_char": 946,
+                "end_char": 952,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 1015,
+                "end_char": 1023,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Altman",
+                "start_char": 1180,
+                "end_char": 1186,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2016",
+                "start_char": 1623,
+                "end_char": 1627,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "English",
+                "start_char": 1894,
+                "end_char": 1901,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "Miyazaki",
+                "start_char": 2008,
+                "end_char": 2016,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Jayd \"Chira\" Ait-Kaci",
+                "start_char": 2079,
+                "end_char": 2100,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bluesky",
+                "start_char": 2104,
+                "end_char": 2111,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ait-Kaci",
+                "start_char": 2177,
+                "end_char": 2185,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the New York Times",
+                "start_char": 2338,
+                "end_char": 2356,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AFP",
+                "start_char": 2421,
+                "end_char": 2424,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Studio Ghibli",
+                "start_char": 2518,
+                "end_char": 2531,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AFP",
+                "start_char": 2694,
+                "end_char": 2697,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the White House",
+                "start_char": 3055,
+                "end_char": 3070,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Congress</h2",
+                "start_char": 3075,
+                "end_char": 3087,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the White House",
+                "start_char": 3125,
+                "end_char": 3140,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Congress",
+                "start_char": 3147,
+                "end_char": 3155,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "IA",
+                "start_char": 3207,
+                "end_char": 3209,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bloomberg",
+                "start_char": 3449,
+                "end_char": 3458,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Wednesday",
+                "start_char": 3471,
+                "end_char": 3480,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "$40 billion",
+                "start_char": 3527,
+                "end_char": 3538,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "Japanese",
+                "start_char": 3567,
+                "end_char": 3575,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "SoftBank",
+                "start_char": 3576,
+                "end_char": 3584,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "annual",
+                "start_char": 3686,
+                "end_char": 3692,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "US$12.7 billion",
+                "start_char": 3715,
+                "end_char": 3730,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "2025",
+                "start_char": 3734,
+                "end_char": 3738,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "3.7 billion",
+                "start_char": 3752,
+                "end_char": 3763,
+                "label": "MONEY",
+                "info": "Monetary values, including unit"
+            },
+            {
+                "word": "2024",
+                "start_char": 3777,
+                "end_char": 3781,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Il blitz di Vance in Groenlandia: \"La vogliamo indipendente\"",
+        "date_raw": "Fri, 28 Mar 2025 20:09:20 GMT",
+        "date": "2025-03-28",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-28/vance-groenlandia-usa-trump-30654897/",
+        "subtitle": "",
+        "content": "AGI - Una Groenlandia >indipendente che, una volta staccatasi da una Danimarca >che \"non sta facendo il suo lavoro\", scelga in autonomia di dialogare con gli Stati Uniti>, determinati a farsi carico della sua sicurezza. Messe da parte le minacce di un intervento militare (\"non sarà necessario\"), il vicepresidente americano, JD Vance>, espone in modo inequivocabile gli obiettivi dell'amministrazione Usa durante la sua visita alla base della Space Force di Pituffik>. Una visita, preceduta da intense polemiche e da un cambio di programma in corsa, che avviene nello stesso giorno dell'ampio accordo di coalizione che darà al territorio autonomo danese un nuovo governo, guidato dal liberale Jens-Frederik Nielsen>. \nI secessionisti duri e puri del Naleraq >sono esclusi dal nuovo esecutivo ma anche le altre forze politiche groenlandesi, pur con sfumature diverse, sono favorevoli all'autodeterminazione, ed è sull'autodeterminazione che Washington punta per far entrare l'isola artica nella sua orbita. \"Quel che crediamo accadrà è che i groenlandesi sceglieranno, attraverso l'autodeterminazione, di diventare indipendenti dalla Danimarca, e, da quel momento, apriremo un dialogo con il popolo della Groenlandia\", ha spiegato Vance, \"non riteniamo che la forza militare sarà mai necessaria, e dato che il popolo della Groenlandia è razionale e buono, credo che riusciremo a giungere a un accordo\". \n&nbsp; \n<div></div> \nMentre Vance, accompagnato dalla moglie Usha, incontrava le truppe di stanza nella base, Donald Trump> ribadiva alla stampa che gli Usa hanno bisogno della Groenlandia non per loro stessi ma \"per la pace nel mondo, per la sicurezza internazionale\". \"Se guardate alle vie marittime, ci sono navi cinesi e russe dappertutto\", ha affermato il presidente degli Stati Uniti, \"la Groenlandia è molto importante per la pace mondiale, non per noi ma per la pace nel mondo, e credo che la Danimarca lo comprenda, credo che l'Unione Europea> lo comprenda. E se non lo comprendono, glielo dovremo spiegare\". \nAnche Vance ha sottolineato la necessità di \"fermare l'intrusione\" della Russia> e, soprattutto, della Cina> che è \"molto, molto interessata a quest'isola\", scenario di fronte al quale \"non si può mettere la testa sotto la neve\". E questo compito, ha aggiunto il vicepresidente, non può certo essere svolto dalla Danimarca, che \"non sta facendo un buon lavoro, non sta investendo in modo sufficiente nella popolazione e nella sicurezza della Groenlandia\". \n<div></div> \nRispondendo alle domande dei giornalisti, Vance ha risposto anche a domande sul negoziato per la tregua in Ucraina, che starebbe registrando \"progressi incredibili\"; sulla guerra commerciale con il Canada, \"che non può vincerla\" e, soprattutto, sul '<a href=\"https://www.agi.it/estero/news/2025-03-26/scandalo-chat-signal-piani-guerra-the-atlantic-30613325/\">caso Signal</a>' che lo vede coinvolto in prima persona. Vance era infatti tra gli alti funzionari presenti nella chat dove stavano venendo discussi i piani di attacco in Yemen e alla quale era stato aggiunto per errore il direttore della rivista 'The Atlantic'.> \nIl vicepresidente americano ha accusato i media di aver coperto gli errori dell'amministrazione passata sul ritiro in Afghanistan> per poi attaccare quella attuale \"per una chat su Signal\" e ha poi assicurato che \"nessuno sara' licenziato\" per la clamorosa fuga di notizie. Il posto del Consigliere per la Sicurezza Nazionale, Mike Waltz, ritenuto responsabile della gaffe, non sarebbe quindi a rischio.&nbsp;&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1743253216.961202,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "Vance blitz in Greenland: \"We want you independent\"",
+        "en_content": "AGI - An independent Greenland which, once detached from a Denmark > which \"is not doing its job\", choose independently to dialogue with the United States >, determined to take charge of its safety. Put aside the threats of military intervention (\"will not be necessary\"), the American vice-president, JD Vance>, unequivocally exposes the U.S. administration's objectives during his visit to the base of Pituffik's Space Force. A visit, preceded by intense polemics and a change of program in race, which takes place on the same day of the broad coalition agreement that will give the autonomous Danish territory a new government, led by liberal Jens-Frederik Nielsen>.\nThe Naleraq's harsh and pure secessionists are excluded from the new executive but also the other Greenland political forces, although with different shades, are favorable to self-determination, and is on the self-determination that Washington aims to bring the Arctic island into its orbit. \"What we believe will happen is that the Greenlanders will choose, through self-determination, to become independent of Denmark, and from that moment, we will open a dialogue with the people of Greenland,\" Vance explained, \"we do not think that the military force will ever be necessary, and since the people of Greenland is rational and good, I think we will be able to reach an agreement.\"\n&nbsp;\n<div </div\nWhile Vance, accompanied by his wife Usha, met the troops stationed in the base, Donald Trump> reiterated the press that the US needed Greenland not for themselves but \"for peace in the world, for international security\". \"If you look at the maritime routes, there are Chinese and Russian ships everywhere,\" said the President of the United States, \"Greenland is very important for world peace, not for us but for peace in the world, and I believe that Denmark understands it, I believe that the European Union > understands it. And if they don't understand it, we'll have to explain it.\"\nVance also stressed the need to \"stop the intrusion\" of Russia> and, above all, of China> which is \"very, very interested in this island\", scenario in front of which \"can not put the head under the snow\". And this task, he added, cannot be done by Denmark, which \"is not doing a good job, is not investing sufficiently in the population and security of Greenland.\"\n<div </div\nResponding to journalists' questions, Vance also answered questions about negotiation for the truce in Ukraine, which would be recording \"incredible progress\"; on the trade war with Canada, \"which cannot win it\" and, above all, on the '<a href=\"https://www.agi.it/estero/news/2025-03-26/scandalo-chat-signal-piani-guerra-the-atlantic-30613325/\">case Signal</a>' which sees it involved in the first person. Vance was in fact among the high officials present in the chat where the attack plans were being discussed in Yemen and to which the editor of the magazine 'The Atlantic' was mistakenly added. >\nThe American vice president accused the media of covering the errors of the administration passed on the withdrawal in Afghanistan > and then attack the current one \"for a chat on Signal\" and then assured that \"no one will be fired\" for the clamorous escape of news. The Director for Homeland Security, Mike Waltz, considered responsible for gaffe, would therefore not be at risk. &nbsp;&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Vance",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 15,
+                "end_char": 24,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "Greenland",
+                "start_char": 21,
+                "end_char": 30,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 59,
+                "end_char": 66,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the United States",
+                "start_char": 137,
+                "end_char": 154,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 277,
+                "end_char": 285,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "JD Vance",
+                "start_char": 302,
+                "end_char": 310,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "U.S.",
+                "start_char": 339,
+                "end_char": 343,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Pituffik's Space Force",
+                "start_char": 404,
+                "end_char": 426,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the same day",
+                "start_char": 520,
+                "end_char": 532,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Danish",
+                "start_char": 596,
+                "end_char": 602,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Jens-Frederik Nielsen",
+                "start_char": 646,
+                "end_char": 667,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Naleraq",
+                "start_char": 674,
+                "end_char": 681,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 768,
+                "end_char": 777,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Washington",
+                "start_char": 903,
+                "end_char": 913,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Arctic",
+                "start_char": 932,
+                "end_char": 938,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Greenlanders",
+                "start_char": 1003,
+                "end_char": 1015,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Denmark",
+                "start_char": 1082,
+                "end_char": 1089,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 1156,
+                "end_char": 1165,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 1168,
+                "end_char": 1173,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 1274,
+                "end_char": 1283,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 1378,
+                "end_char": 1383,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Usha",
+                "start_char": 1409,
+                "end_char": 1413,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Donald Trump",
+                "start_char": 1453,
+                "end_char": 1465,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "US",
+                "start_char": 1497,
+                "end_char": 1499,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 1507,
+                "end_char": 1516,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1641,
+                "end_char": 1648,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1653,
+                "end_char": 1660,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the United States",
+                "start_char": 1702,
+                "end_char": 1719,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 1722,
+                "end_char": 1731,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 1825,
+                "end_char": 1832,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the European Union",
+                "start_char": 1864,
+                "end_char": 1882,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Vance",
+                "start_char": 1961,
+                "end_char": 1966,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 2017,
+                "end_char": 2023,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "China",
+                "start_char": 2044,
+                "end_char": 2049,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Denmark",
+                "start_char": 2209,
+                "end_char": 2216,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Greenland",
+                "start_char": 2314,
+                "end_char": 2323,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Vance",
+                "start_char": 2375,
+                "end_char": 2380,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2440,
+                "end_char": 2447,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Canada",
+                "start_char": 2519,
+                "end_char": 2525,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 2729,
+                "end_char": 2734,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Vance",
+                "start_char": 2743,
+                "end_char": 2748,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Yemen",
+                "start_char": 2853,
+                "end_char": 2858,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Atlantic",
+                "start_char": 2904,
+                "end_char": 2912,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "American",
+                "start_char": 2942,
+                "end_char": 2950,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Afghanistan",
+                "start_char": 3057,
+                "end_char": 3068,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Signal",
+                "start_char": 3118,
+                "end_char": 3124,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Homeland Security",
+                "start_char": 3222,
+                "end_char": 3239,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mike Waltz",
+                "start_char": 3241,
+                "end_char": 3251,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Erdogan dribbla le proteste e parla con Putin",
+        "date_raw": "Fri, 28 Mar 2025 17:12:00 GMT",
+        "date": "2025-03-28",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-28/proteste-turchie-erdogan-putin-30652832/",
+        "subtitle": "",
+        "content": "AGI - Il presidente turco Recep Tayyip Erdogan >si allontana dalle proteste che hanno infiammato il Paese nell'ultima settimana, discute al telefono con il collega russo Vladimir Putin >e intanto coltiva i rapporti con l'Africa con una visita in Guinea. Nonostante il Paese spaccato in due dopo l'arresto del sindaco di Istanbul<a href=\"https://www.agi.it/estero/news/2025-03-28/turchia-arrestato-anche-avvocato-di-imamoglu-30641611/\"> Ekrem Imamoglu</a>, Erdogan ha ribadito a Putin la disponibilità della Turchia >a ospitare un negoziato che ponga fine al conflitto in Ucraina>, per poi inaugurare una moschea in Guinea. \nIl presidente turco in un primo momento sembrava aver preso le distanze dall'indagine che ha colpito Imamoglu, poi ha iniziato a criticare l'opposizione, rincarando le accuse di corruzione e definendo \"vandali e terroristi\" coloro che si sono scontrati con la polizia. Interventi che hanno fatto crescere la tensione nel Paese. Con la festa di fine Ramadan> che si avvicina intanto Erdogan ha compiuto la propria mossa annunciando 9 giorni di vacanza. Giorni in cui, tradizionalmente, le città si svuotano con la gente che parte verso i propri luoghi d'origine, località all'estero o la costa sud del Paese. Nove giorni con cui Erdogan cercherà di calmare gli animi e le acque, ma che potrebbero non bastare, anche perché Imamoglu è in carcere e la protesta potrebbe ripartire. \n<div></div> \nNegli ultimi giorni le manifestazioni si sono placate e non ci sono stati scontri. Tuttavia l'opposizione ha organizzato una grande manifestazione sabato a Istanbul>, non di fronte al comune ma nel quartiere di Maltepe. Erdogan ha preferito recarsi in Africa, dove la Turchia ha grandi interessi, ma soprattutto parlare con Putin degli ultimi sviluppi del conflitto in Ucraina e in Siria. Con lui ha ribadito che la Turchia è in prima linea e pronta a organizzare un negoziato per la pace in Ucraina. Una strategia con cui Erdogan prende dalle distanze dalle polemiche interne, dalle proteste, ma rilancia anche il ruolo della Turchia all'interno della comunità internazionale. \nLa stessa comunità internazionale che lo ha criticato aspramente negli ultimi giorni. Un modo anche per ribadire che in Turchia il lavoro della magistratura> va rispettato, in quanto indipendente, al punto che anche un'indagine delicata come questa può andare avanti da sola e lui può continuare il proprio lavoro di grande mediatore.&nbsp;&nbsp; \n&nbsp; \n&nbsp;",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1743253216.9613352,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "Erdogan directs the protests and talks to Putin",
+        "en_content": "AGI - Turkish President Recep Tayyip Erdogan > moves away from the protests inflamed the country in the last week, discusses on the phone with Russian colleague Vladimir Putin > and in the meantime cultivates relations with Africa with a visit to Guinea. In spite of the country split in two after the arrest of the mayor of Istanbul<a href=\"https://www.agi.it/estero/news/2025-03-28/turchia-arrestato-anche- lawyer-di-imamoglu-30641611/\"> Ekrem Imamoglu</a>, Erdogan reiterated to Putin the availability of Turkey > to host a negotiation that ends\nThe Turkish president at first seemed to have distanced himself from the investigation that struck Imamoglu, then began to criticize the opposition, re-carnating the charges of corruption and defining \"vandali and terrorists\" those who clashed with the police. Interventions that have raised tension in the country. With the end of Ramadan> party approaching Erdogan made his move announcing 9 days of holiday. Days in which, traditionally, cities are emptied with people leaving to their places of origin, locations abroad or the south coast of the country. Nine days with which Erdogan will try to calm the souls and the waters, but that could not be enough, also because Imamoglu is in prison and the protest could start again.\n<div </div\nIn the last few days the demonstrations have been flattered and there have been no clashes. However, the opposition organized a large demonstration on Saturday in Istanbul, not in front of the municipality but in the Maltepe district. Erdogan preferred to go to Africa, where Turkey has great interests, but above all to talk to Putin about the latest developments in the conflict in Ukraine and Syria. With him he reiterated that Turkey is at the forefront and ready to organize a negotiation for peace in Ukraine. A strategy with which Erdogan takes from distances from internal polemics, from protests, but also raises the role of Turkey within the international community.\nThe same international community that has criticized him harshly in recent days. One way to reiterate that in Turkey the work of the judiciary is to be respected, as independent, to the point that even a delicate investigation like this can go on alone and he can continue his work as a great mediator. &nbsp;&nbsp;\n&nbsp;\n&nbsp;",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "Erdogan",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Putin",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - Turkish",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Recep Tayyip Erdogan",
+                "start_char": 24,
+                "end_char": 44,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last week",
+                "start_char": 100,
+                "end_char": 113,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russian",
+                "start_char": 143,
+                "end_char": 150,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Vladimir Putin",
+                "start_char": 161,
+                "end_char": 175,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Africa",
+                "start_char": 224,
+                "end_char": 230,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Guinea",
+                "start_char": 247,
+                "end_char": 253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 288,
+                "end_char": 291,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 325,
+                "end_char": 333,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 460,
+                "end_char": 467,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Putin",
+                "start_char": 482,
+                "end_char": 487,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 508,
+                "end_char": 514,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 553,
+                "end_char": 560,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 648,
+                "end_char": 656,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the end of Ramadan",
+                "start_char": 870,
+                "end_char": 888,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 908,
+                "end_char": 915,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "9 days of holiday.",
+                "start_char": 941,
+                "end_char": 959,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the south coast",
+                "start_char": 1076,
+                "end_char": 1091,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Nine days",
+                "start_char": 1108,
+                "end_char": 1117,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1129,
+                "end_char": 1136,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Imamoglu",
+                "start_char": 1223,
+                "end_char": 1231,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the last few days",
+                "start_char": 1294,
+                "end_char": 1311,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Saturday",
+                "start_char": 1442,
+                "end_char": 1450,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 1454,
+                "end_char": 1462,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Maltepe",
+                "start_char": 1508,
+                "end_char": 1515,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1526,
+                "end_char": 1533,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Africa",
+                "start_char": 1553,
+                "end_char": 1559,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 1567,
+                "end_char": 1573,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Putin",
+                "start_char": 1620,
+                "end_char": 1625,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1675,
+                "end_char": 1682,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Syria",
+                "start_char": 1687,
+                "end_char": 1692,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 1722,
+                "end_char": 1728,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1798,
+                "end_char": 1805,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Erdogan",
+                "start_char": 1829,
+                "end_char": 1836,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 1925,
+                "end_char": 1931,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "recent days",
+                "start_char": 2036,
+                "end_char": 2047,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "One",
+                "start_char": 2049,
+                "end_char": 2052,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Turkey",
+                "start_char": 2078,
+                "end_char": 2084,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "La Cina posticipa di tre mesi i dazi sui cognac francesi ",
+        "date_raw": "Fri, 28 Mar 2025 15:58:33 GMT",
+        "date": "2025-03-28",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-28/ministro-esteri-francese-cina-dazi-cognac-30651112/",
+        "subtitle": "",
+        "content": "AGI - Il ministro degli Esteri francese Jean-Noel Barrot> ha dichiarato che la Cina> ha accettato di posticipare di tre mesi la possibile applicazione permanente di dazi doganali aggiuntivi sui cognac francesi>. \"È un primo passo verso la risoluzione di questa controversia\", ha affermato Barrot durante una visita in Cina. \n<h2>La controversia sui dazi</h2> \n\"Prima del mio arrivo a Pechino, l'industria era sottoposta a un'applicazione definitiva della legge a seguito di un'indagine (antidumping), la cui base contestiamo - ha affermato Barrot -. Alla fine di questa visita, posso confermare che mi è stato detto a un livello molto alto che questo scenario non si sarebbe verificato, che le conclusioni di questa indagine sarebbero state posticipate di tre mesi\". \n<h2>Incertezze sul futuro</h2> \nAlla domanda su cosa sarebbe potuto accadere alla fine della proroga di tre mesi, il ministro ha ammesso che l'esito è ancora incerto. \"Questo è un primo passo che dovrà essere seguito da altri in modo da poterci mettere questa disputa alle spalle una volta per tutte\", ha detto Barrot, aggiungendo che dopo tre mesi l'indagine sarebbe stata chiusa. \"Le autorità cinesi prenderanno decisioni in base ai risultati dell'indagine\", ha detto. \n<h2>Le tariffe sui veicoli elettrici</h2> \nDa ottobre, le esportazioni europee di brandy >in Cina sono state colpite da dazi dopo che l'Ue ha imposto tariffe fino al 35,3 percento sui veicoli elettrici cinesi per accuse di concorrenza sleale. La misura è stata dolorosa per i produttori francesi di Cognac>, che contano sulle esportazioni per il 98 percento delle loro vendite.",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1743253216.9615026,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "China postpones duties on French cognac for three months",
+        "en_content": "AGI - French Foreign Minister Jean-Noel Barrot> said that China > agreed to postpone the possible permanent application of additional customs duties on French cognac for three months. \"It is a first step towards the resolution of this controversy,\" said Barrot during a visit to China.\n<h2> The dispute over duties\n\"Before I arrived in Beijing, the industry was subject to a definitive application of the law following an investigation (antidumping), whose basis we dispute - said Barrot -. At the end of this visit, I can confirm that I was told at a very high level that this scenario would not have occurred, that the conclusions of this investigation would be postponed three months.\"\n<h2> Future uncertainties\nWhen asked what could happen at the end of the three-month extension, the minister admitted that the outcome is still uncertain. \"This is a first step that must be followed by others so that we can put this dispute behind us once and for all,\" said Barrot, adding that after three months the investigation would be closed. \"The Chinese authorities will make decisions based on the survey results,\" he said.\n<h2> Rates on electric vehicles\nSince October, European exports of brandy in China have been affected by duties after the EU has imposed tariffs of up to 35.3 percent on Chinese electric vehicles for unfair competition charges. The measure was painful for French producers in Cognac>, which count on exports for 98 percent of their sales.",
+        "en_subtitle": "",
+        "title_NER": [
+            {
+                "word": "China",
+                "start_char": 0,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "French",
+                "start_char": 26,
+                "end_char": 32,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three months",
+                "start_char": 44,
+                "end_char": 56,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_NER": [
+            {
+                "word": "AGI - French",
+                "start_char": 0,
+                "end_char": 12,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jean-Noel Barrot",
+                "start_char": 30,
+                "end_char": 46,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "China",
+                "start_char": 58,
+                "end_char": 63,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "French",
+                "start_char": 152,
+                "end_char": 158,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "three months",
+                "start_char": 170,
+                "end_char": 182,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 193,
+                "end_char": 198,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Barrot",
+                "start_char": 254,
+                "end_char": 260,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "China",
+                "start_char": 279,
+                "end_char": 284,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Beijing",
+                "start_char": 336,
+                "end_char": 343,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Barrot",
+                "start_char": 481,
+                "end_char": 487,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three months",
+                "start_char": 674,
+                "end_char": 686,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "three-month",
+                "start_char": 762,
+                "end_char": 773,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "first",
+                "start_char": 855,
+                "end_char": 860,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Barrot",
+                "start_char": 964,
+                "end_char": 970,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three months",
+                "start_char": 990,
+                "end_char": 1002,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1043,
+                "end_char": 1050,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "October",
+                "start_char": 1160,
+                "end_char": 1167,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "European",
+                "start_char": 1169,
+                "end_char": 1177,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "China",
+                "start_char": 1199,
+                "end_char": 1204,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "EU",
+                "start_char": 1244,
+                "end_char": 1246,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "up to 35.3 percent",
+                "start_char": 1270,
+                "end_char": 1288,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "Chinese",
+                "start_char": 1292,
+                "end_char": 1299,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "French",
+                "start_char": 1378,
+                "end_char": 1384,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Cognac",
+                "start_char": 1398,
+                "end_char": 1404,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "98 percent",
+                "start_char": 1434,
+                "end_char": 1444,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            }
+        ]
+    },
+    {
+        "title": "Pikachu diventa mascotte della protesta anti-Erdogan",
+        "date_raw": "Fri, 28 Mar 2025 15:46:36 GMT",
+        "date": "2025-03-28",
+        "url": "https://www.agi.it/estero/rss",
+        "news_url": "https://www.agi.it/estero/news/2025-03-28/pikachu-protesta-anti-erdogan-30650590/",
+        "subtitle": "",
+        "content": "AGI - Da icona dei Pokemon> a mascotte della protesta anti-Erdogan>: spopolano in rete le immagini di un gigantesco pupazzo di Pikachu> che sfila con centinaia di persone contro l'arresto del sindaco di Istanbul, Ekrem Imamoglu>. Durante la quinta notte di manifestazioni ad Antalya>, nota località turistica della costa meridionale turca, uno dei manifestanti è sceso in piazza con un costume del giallo e paffuto Pokemon. Una presenza che ha finito inevitabilmente per attirare l'attenzione non solo degli altri dimostranti, ma anche della polizia. \n<h2>Pikachu: star della protesta</h2> \n&nbsp; \n<div></div> \n&nbsp; \nCosì Pikachu è diventato la star della protesta, subissato da richieste di selfie non solo dagli altri manifestanti, ma anche da alcuni agenti in servizio. Non tutti però hanno apprezzato. In diversi video si vede Pikachu fuggire da una carica della polizia a gran velocità nonostante l'ingombrante costume, un po' come il vero personaggio dei Pokemon, che - come si legge sul sito ufficiale - \"quando si arrabbia, libera subito l'energia accumulata nelle guance\". \n<h2>Immagini virali</h2> \nLa trovata è diventata definitivamente virale. La foto del Pokemon in posa plastica in mezzo agli scontri, tra il fumo dei lacrimogeni, ha fatto il giro del web, e in tanti l'hanno candidata a miglior foto del 2025. I media governativi invece l'hanno bollata come prodotto dell'intelligenza artificiale>. \n<h2>Creatività nelle proteste</h2> \nQuello del pupazzo Pikachu non è stato l'unico tocco di creatività alle proteste che proseguono da giorni. È diventata virale anche la proposta di matrimonio fatta da un manifestante alla fidanzata a pochi passi dalla polizia, coronata da un sì. Così come il derviscio rotante> che in abito tradizionale e maschera antigas ha danzato accanto agli agenti. Tutti modi poetici per far conoscere al mondo la rabbia di un Paese contro il suo governo. \n&nbsp;",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1743253216.961628,
+        "language": "IT",
+        "source": "AGI",
+        "local_time": "2025-03-29 14:00:16",
+        "timezone": "Europe/Rome",
+        "scraping_time": "2025-03-29T13.00.16",
+        "en_title": "Pikachu becomes mascot of the anti-Erdogan protest",
+        "en_content": "AGI - From Pokemon's icon to anti-Erdogan protest mascots >: the images of a gigantic Pikachu> puppet on the net that parades with hundreds of people against the arrest of the mayor of Istanbul, Ekrem Imamoglu>. During the fifth night of events in Antalya>, known tourist resort of the southern Turkish coast, one of the protesters descended into the square with a costume of yellow and chubby Pokemon. A presence that inevitably ended up attracting attention not only of the other demonstrators, but also of the police.\n<h2>Pikachu: star of protest\n&nbsp;\n<div </div\n&nbsp;\nSo Pikachu became the star of the protest, subsidized by demands of selfies not only by other protesters, but also by some agents in service. Not everyone has appreciated. In several videos you can see Pikachu flee from a police charge at great speed despite the shady costume, a bit like the real character of the Pokemon, which - as you read on the official website - \"when he gets angry, he immediately frees the energy accumulated in the cheeks\".\n<h2> Viral images\nThe finding has become permanently viral. The photo of the Pokemon in plastic poses in the midst of the clashes, between the smoke of the tear gas, has made the web tour, and in many have applied it to better photo of 2025. On the other hand, the government media branded it as a product of artificial intelligence.\n<h2>Creativity in protests\nThe Pikachu puppet was not the only touch of creativity to the protests that have been going on for days. It also became viral the marriage proposal made by a girlfriend demonstrator a few steps away from the police, crowned by a yes. As well as the rotary dervish > which in traditional dress and gas mask danced next to the agents. All poetic ways to make the world know the anger of a country against its government.\n&nbsp;",
+        "en_subtitle": "",
+        "content_NER": [
+            {
+                "word": "Pokemon",
+                "start_char": 11,
+                "end_char": 18,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "anti-Erdogan",
+                "start_char": 29,
+                "end_char": 41,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "hundreds",
+                "start_char": 131,
+                "end_char": 139,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Istanbul",
+                "start_char": 185,
+                "end_char": 193,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ekrem Imamoglu",
+                "start_char": 195,
+                "end_char": 209,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "fifth",
+                "start_char": 223,
+                "end_char": 228,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Antalya",
+                "start_char": 248,
+                "end_char": 255,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Turkish",
+                "start_char": 295,
+                "end_char": 302,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pokemon",
+                "start_char": 394,
+                "end_char": 401,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pikachu",
+                "start_char": 777,
+                "end_char": 784,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pokemon",
+                "start_char": 890,
+                "end_char": 897,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Pokemon",
+                "start_char": 1103,
+                "end_char": 1110,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2025",
+                "start_char": 1262,
+                "end_char": 1266,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Pikachu",
+                "start_char": 1391,
+                "end_char": 1398,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "days",
+                "start_char": 1487,
+                "end_char": 1491,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    }
+]
